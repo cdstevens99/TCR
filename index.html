@@ -1,0 +1,276 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TCR — Multifamily &amp; Development Briefings</title>
+<style>
+  /* ===== BRAND PALETTE (TCR) — sampled from the official logo ===== */
+  :root{
+    --ink:#00263D; --ink-deep:#001B2C;
+    --paper:#F4F0E7; --paper-card:#FBF8F1; --paper-deep:#ECE5D6;
+    --brass:#C6964B; --brass-deep:#9C743A;
+    --line:#E2DACA;
+    --ink-soft:#3C4C61; --ink-faint:#7A879A;
+    --up:#2E7D55; --down:#B4543E;
+    --font-sans: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    --font-mono: ui-monospace,"Cascadia Code","Segoe UI Mono","SF Mono",Menlo,Consolas,monospace;
+    --font-serif: "Georgia","Hoefler Text","Times New Roman","Palatino Linotype",serif;
+  }
+  /* source name -> tag color */
+  *{box-sizing:border-box;margin:0;padding:0}
+  html,body{height:100%}
+  body{background:var(--paper);color:var(--ink);font-family:var(--font-sans);-webkit-font-smoothing:antialiased;line-height:1.5}
+  .wrap{max-width:1180px;margin:0 auto;padding:0 18px 48px}
+
+  header.titleblock{position:relative;margin-top:18px;border:1px solid var(--line);border-radius:10px;overflow:hidden;background:var(--paper-card)}
+  .tb-lockup{background:var(--ink);padding:20px 22px 17px;text-align:center}
+  .tb-wordmark{font-family:var(--font-serif);color:var(--paper);font-size:clamp(20px,3.4vw,30px);font-weight:600;font-variant:small-caps;letter-spacing:2.5px;line-height:1.05}
+  .tb-tagline{font-family:var(--font-serif);color:var(--brass);font-size:12px;font-variant:small-caps;letter-spacing:3.5px;margin-top:7px}
+  .tb-top{display:flex;justify-content:space-between;align-items:flex-end;flex-wrap:wrap;gap:14px;padding:18px 22px 16px}
+  .tb-name{font-weight:800;letter-spacing:.5px;font-size:clamp(22px,3.6vw,32px);line-height:1.02;color:var(--ink)}
+  .tb-name .dot{color:var(--brass)}
+  .tb-sub{font-family:var(--font-mono);font-size:11px;letter-spacing:1px;color:var(--ink-faint);text-transform:uppercase;margin-top:8px}
+  .tb-meta{font-family:var(--font-mono);font-size:11px;letter-spacing:.5px;color:var(--ink-faint);text-align:right;line-height:1.95}
+  .tb-meta b{color:var(--ink)}
+  .live{display:inline-flex;align-items:center;gap:6px;color:var(--brass-deep);font-weight:700}
+  .live .pulse{width:7px;height:7px;border-radius:50%;background:var(--brass);animation:pulse 2.4s infinite}
+  @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(198,150,75,.5)}70%{box-shadow:0 0 0 7px rgba(198,150,75,0)}100%{box-shadow:0 0 0 0 rgba(198,150,75,0)}}
+
+  .rates{display:flex;flex-wrap:wrap;border-top:1px solid var(--line);background:var(--paper-deep)}
+  .rate{flex:1;min-width:120px;padding:11px 16px;border-right:1px solid var(--line)}
+  .rate:last-child{border-right:none}
+  .rate .rl{font-family:var(--font-mono);font-size:10px;letter-spacing:1.2px;color:var(--ink-faint);text-transform:uppercase}
+  .rate .rv{font-size:19px;font-weight:700;margin-top:3px;color:var(--ink)}
+  .rate .rc{font-family:var(--font-mono);font-size:11px;margin-top:1px}
+  .up{color:var(--up)} .down{color:var(--down)} .flat{color:var(--ink-faint)}
+
+  .controls{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin:18px 0 6px}
+  .search{flex:1;min-width:200px;display:flex;align-items:center;gap:8px;background:var(--paper-card);border:1px solid var(--line);border-radius:8px;padding:9px 12px}
+  .search input{flex:1;background:none;border:none;outline:none;color:var(--ink);font-family:var(--font-sans);font-size:14px}
+  .search input::placeholder{color:var(--ink-faint)}
+  .search svg{flex-shrink:0;color:var(--ink-faint)}
+  button.btn{font-family:var(--font-mono);font-size:11px;letter-spacing:1px;text-transform:uppercase;background:var(--ink);color:var(--paper);border:1px solid var(--ink);border-radius:8px;padding:10px 14px;cursor:pointer;display:inline-flex;align-items:center;gap:7px;transition:background .15s}
+  button.btn:hover{background:var(--ink-deep)}
+  button.btn:focus-visible{outline:2px solid var(--brass);outline-offset:2px}
+  .spin{animation:spin .9s linear infinite}
+  @keyframes spin{to{transform:rotate(360deg)}}
+
+  .chips{display:flex;flex-wrap:wrap;gap:7px;margin:10px 0 4px}
+  .chip{font-family:var(--font-mono);font-size:11px;letter-spacing:.5px;background:var(--paper-card);border:1px solid var(--line);color:var(--ink-soft);border-radius:999px;padding:5px 11px;cursor:pointer;user-select:none;display:inline-flex;align-items:center;gap:6px;transition:all .12s}
+  .chip .swatch{width:8px;height:8px;border-radius:2px;flex-shrink:0}
+  .chip[aria-pressed="false"]{opacity:.4}
+  .chip:hover{border-color:var(--ink-faint)}
+
+  .news{margin-top:14px;display:flex;flex-direction:column}
+  article.story{border-top:1px solid var(--line);padding:15px 4px;cursor:pointer;transition:background .12s}
+  article.story:hover{background:var(--paper-card)}
+  .story-head{display:flex;gap:12px;align-items:baseline}
+  .src-tag{font-family:var(--font-mono);font-size:10px;letter-spacing:1px;text-transform:uppercase;font-weight:700;flex-shrink:0;padding-top:2px}
+  .story-main{flex:1;min-width:0}
+  .story-title{font-size:16px;font-weight:600;line-height:1.4;color:var(--ink)}
+  .story-meta{font-family:var(--font-mono);font-size:11px;color:var(--ink-faint);margin-top:4px;display:flex;gap:10px;flex-wrap:wrap}
+  .story-body{margin-top:11px;padding:13px 15px;background:var(--paper-deep);border-left:3px solid var(--brass);border-radius:0 6px 6px 0}
+  .kp-label{font-family:var(--font-mono);font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:var(--brass-deep);font-weight:700;margin-bottom:8px}
+  ul.kp{list-style:none;display:flex;flex-direction:column;gap:7px;margin:0}
+  ul.kp li{position:relative;padding-left:16px;font-size:14px;line-height:1.5;color:var(--ink-soft)}
+  ul.kp li::before{content:"";position:absolute;left:2px;top:8px;width:5px;height:5px;background:var(--brass);border-radius:1px}
+  .ext-toggle{display:block;margin-top:12px;background:none;border:none;cursor:pointer;padding:4px 0;font-family:var(--font-mono);font-size:11px;letter-spacing:.8px;text-transform:uppercase;color:var(--ink-faint);font-weight:700}
+  .ext-toggle:hover{color:var(--ink)}
+  .ext-text{margin:9px 0 0;font-size:14px;line-height:1.65;color:var(--ink-soft)}
+  .impact{margin-top:12px;font-size:14px;line-height:1.55;color:var(--ink);background:rgba(198,150,75,.13);border:1px solid rgba(198,150,75,.38);border-radius:6px;padding:10px 12px}
+  .impact-tag{display:block;font-family:var(--font-mono);font-size:10px;letter-spacing:1.2px;text-transform:uppercase;color:var(--brass-deep);font-weight:700;margin-bottom:5px}
+  .readmore-wrap{display:block}
+  .story-body a.readmore{display:inline-flex;align-items:center;gap:5px;margin-top:12px;font-family:var(--font-mono);font-size:11px;letter-spacing:.8px;text-transform:uppercase;color:var(--brass-deep);text-decoration:none;font-weight:700}
+  .story-body a.readmore:hover{text-decoration:underline}
+  .caret{color:var(--ink-faint);font-size:11px;flex-shrink:0;margin-top:3px}
+
+  .state{text-align:center;padding:60px 20px;color:var(--ink-faint);font-family:var(--font-mono);font-size:13px;letter-spacing:.5px}
+  .state .big{font-size:15px;color:var(--ink-soft);margin-bottom:8px}
+  footer{margin-top:26px;padding-top:16px;border-top:1px solid var(--line);display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;font-family:var(--font-mono);font-size:11px;color:var(--ink-faint);letter-spacing:.5px}
+
+  @media (max-width:560px){.tb-meta{text-align:left}.rate{min-width:50%;border-bottom:1px solid var(--line)}}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="titleblock">
+    <div class="tb-lockup">
+      <div class="tb-wordmark">Trammell Crow Residential</div>
+      <div class="tb-tagline">A Crow Holdings Company</div>
+    </div>
+    <div class="tb-top">
+      <div>
+        <div class="tb-name">Multifamily &amp; Development Briefings<span class="dot">.</span></div>
+        <div class="tb-sub">AI-Summarized Real Estate News &amp; Market Rates</div>
+      </div>
+      <div class="tb-meta">
+        <div id="todayDate">—</div>
+        <div>Updated <b id="updatedAt">—</b></div>
+        <div class="live"><span class="pulse"></span> LIVE</div>
+      </div>
+    </div>
+    <div class="rates" id="rates"></div>
+  </header>
+
+  <div class="controls">
+    <label class="search">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+      <input id="search" type="search" placeholder="Filter headlines…" autocomplete="off">
+    </label>
+    <button class="btn" id="refreshBtn">
+      <svg id="refreshIcon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12a9 9 0 1 1-2.6-6.4M21 3v6h-6"/></svg>
+      Refresh
+    </button>
+  </div>
+
+  <div class="chips" id="chips"></div>
+  <main class="news" id="news"><div class="state"><div class="big">Loading the latest briefing…</div></div></main>
+
+  <footer>
+    <div id="status">—</div>
+    <div>Summaries by Claude · Sources managed in fetch_news.py</div>
+  </footer>
+</div>
+
+<script>
+/* Reads ./data.json (produced by fetch_news.py via GitHub Actions). */
+const DATA_URL = "./data.json";
+const POLL_MS = 5 * 60 * 1000;   // re-check the file every 5 min
+
+const SOURCE_COLORS = {
+  "Multi-Housing":"#4F7A6A", "TRD Development":"#C6964B", "Comm. Observer":"#00263D",
+  "Connect CRE":"#5E7387", "CPE":"#3E6286", "TRD National":"#9A6B3E", "Propmodo":"#8C5A6E",
+};
+const colorFor = s => SOURCE_COLORS[s] || "#00263D";
+
+let items = [], rates = [];
+let activeSources = new Set();
+let searchText = "", expandedId = null, showExtended = false;
+
+const $ = s => document.querySelector(s);
+const escapeHtml = s => (s||"").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const normTitle = t => (t||"").toLowerCase().replace(/[^a-z0-9]+/g," ").trim().slice(0,70);
+
+function timeAgo(iso){
+  if(!iso) return "";
+  const d = new Date(iso); if(isNaN(d)) return "";
+  const s = (Date.now()-d.getTime())/1000;
+  if(s<60) return "just now";
+  if(s<3600) return Math.floor(s/60)+"m ago";
+  if(s<86400) return Math.floor(s/3600)+"h ago";
+  const days = Math.floor(s/86400);
+  return days<7 ? days+"d ago" : d.toLocaleDateString("en-US",{month:"short",day:"numeric"});
+}
+
+async function loadData(){
+  $("#refreshIcon").classList.add("spin");
+  try{
+    const res = await fetch(DATA_URL + "?t=" + Date.now(), {cache:"no-store"});
+    const data = await res.json();
+    rates = data.rates || [];
+    items = (data.stories || []).map(s => ({...s, _id: normTitle(s.title)}));
+    if(activeSources.size === 0) activeSources = new Set(items.map(i => i.source));
+    $("#updatedAt").textContent = data.fetchedAt
+      ? new Date(data.fetchedAt).toLocaleString("en-US",{month:"short",day:"numeric",hour:"numeric",minute:"2-digit"})
+      : "—";
+    $("#status").textContent = `${items.length} stories · refreshed automatically`;
+    renderRates(); renderChips(); renderNews();
+  }catch(e){
+    $("#news").innerHTML = `<div class="state"><div class="big">Couldn't load the briefing yet.</div>
+      If you just set this up, run the GitHub Action once to generate data.json.</div>`;
+  }finally{
+    $("#refreshIcon").classList.remove("spin");
+  }
+}
+
+function renderRates(){
+  const box = $("#rates");
+  if(!rates.length){ box.style.display="none"; return; }
+  box.style.display="flex";
+  box.innerHTML = rates.map(c=>{
+    const cls = c.pct==null?"flat":c.pct>=0?"up":"down";
+    const arrow = c.pct==null?"·":(c.pct>=0?"▲":"▼");
+    const chg = c.pct==null?"":(c.isBps?`${Math.abs(c.pct*100).toFixed(0)} bps ${arrow}`:`${Math.abs(c.pct).toFixed(2)}% ${arrow}`);
+    return `<div class="rate"><div class="rl">${c.label}</div><div class="rv">${c.value}</div><div class="rc ${cls}">${chg}</div></div>`;
+  }).join("");
+}
+
+function renderChips(){
+  const present = [...new Set(items.map(i=>i.source))];
+  $("#chips").innerHTML = present.map(src => `
+    <span class="chip" role="button" tabindex="0" data-src="${src}" aria-pressed="${activeSources.has(src)}">
+      <span class="swatch" style="background:${colorFor(src)}"></span>${src}
+    </span>`).join("");
+}
+
+function getBrief(it){
+  if(it.bullets && it.bullets.length){
+    return { bullets: it.bullets.slice(0,4), extended:(it.summary||it.excerpt||"").trim() };
+  }
+  const text = (it.excerpt||"").trim();
+  const sentences = text.split(/(?<=[.!?])\s+/).map(s=>s.trim()).filter(s=>s.length>24);
+  const bullets = (sentences.length?sentences:(text?[text]:["No preview available — open the full article."])).slice(0,3);
+  return { bullets, extended:text };
+}
+
+function renderBody(it){
+  const {bullets, extended} = getBrief(it);
+  const hasExt = extended && extended.length > bullets.join(" ").length + 30;
+  return `<div class="story-body">
+    <div class="kp-label">Key points</div>
+    <ul class="kp">${bullets.map(b=>`<li>${escapeHtml(b)}</li>`).join("")}</ul>
+    ${it.impact ? `<div class="impact"><span class="impact-tag">Why it matters</span>${escapeHtml(it.impact)}</div>` : ""}
+    ${hasExt ? `<button class="ext-toggle" data-ext>${showExtended?"Hide extended summary ▴":"Extended summary ▾"}</button>
+      ${showExtended?`<p class="ext-text">${escapeHtml(extended)}</p>`:""}` : ""}
+    ${it.link ? `<span class="readmore-wrap"><a class="readmore" href="${it.link}" target="_blank" rel="noopener">Read full article ↗</a></span>` : ""}
+  </div>`;
+}
+
+function renderNews(){
+  const q = searchText.toLowerCase();
+  const list = items.filter(it => activeSources.has(it.source) &&
+    (!q || ((it.title||"")+" "+(it.summary||it.excerpt||"")).toLowerCase().includes(q)));
+  const news = $("#news");
+  if(!list.length){
+    news.innerHTML = `<div class="state"><div class="big">No stories match.</div>${items.length?"Try clearing the filter or search.":""}</div>`;
+    return;
+  }
+  news.innerHTML = list.map(it=>{
+    const open = expandedId === it._id;
+    return `<article class="story" data-id="${it._id}">
+      <div class="story-head">
+        <span class="src-tag" style="color:${colorFor(it.source)}">${it.source}</span>
+        <div class="story-main">
+          <div class="story-title">${escapeHtml(it.title)}</div>
+          <div class="story-meta"><span>${timeAgo(it.date)}</span><span>${it.cat||""}</span></div>
+          ${open ? renderBody(it) : ""}
+        </div>
+        <span class="caret">${open?"▾":"▸"}</span>
+      </div>
+    </article>`;
+  }).join("");
+}
+
+$("#search").addEventListener("input", e=>{ searchText=e.target.value; renderNews(); });
+$("#refreshBtn").addEventListener("click", loadData);
+$("#chips").addEventListener("click", e=>{ const c=e.target.closest(".chip"); if(c) toggleSource(c.dataset.src); });
+$("#chips").addEventListener("keydown", e=>{ if(e.key==="Enter"||e.key===" "){const c=e.target.closest(".chip"); if(c){e.preventDefault();toggleSource(c.dataset.src);}} });
+function toggleSource(name){ activeSources.has(name)?activeSources.delete(name):activeSources.add(name); renderChips(); renderNews(); }
+$("#news").addEventListener("click", e=>{
+  if(e.target.closest("[data-ext]")){ e.stopPropagation(); showExtended=!showExtended; renderNews(); return; }
+  const art = e.target.closest(".story"); if(!art) return;
+  if(e.target.closest("a")) return;
+  const id = art.dataset.id;
+  if(expandedId===id){ expandedId=null; } else { expandedId=id; showExtended=false; }
+  renderNews();
+});
+
+$("#todayDate").textContent = new Date().toLocaleDateString("en-US",{weekday:"long",month:"long",day:"numeric",year:"numeric"});
+loadData();
+setInterval(loadData, POLL_MS);
+</script>
+</body>
+</html>

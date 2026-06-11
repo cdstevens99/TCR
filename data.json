@@ -1,0 +1,21 @@
+{
+  "fetchedAt": null,
+  "rates": [],
+  "stories": [
+    {
+      "title": "Your first briefing will appear here",
+      "link": "",
+      "excerpt": "Run the GitHub Action once (Actions tab \u2192 Briefings \u2192 Run workflow) to generate the first real briefing. After that it refreshes automatically on the schedule in .github/workflows/brief.yml.",
+      "source": "Multi-Housing",
+      "cat": "Setup",
+      "date": null,
+      "bullets": [
+        "Setup complete \u2014 pipeline is wired up.",
+        "Run the Action once to populate real stories.",
+        "It then refreshes on its own schedule."
+      ],
+      "summary": "This is placeholder content so the dashboard renders before the first run. Open the Actions tab, choose Briefings, and click Run workflow. The fetcher pulls real-estate feeds, asks Claude to summarize each story, and commits a fresh data.json that replaces this message.",
+      "impact": "Once live, each story shows a \"Why it matters\" line connecting the news to apartment demand, supply, capital, or cost \u2014 e.g., a major employer relocating to a metro and what it means for rental demand there."
+    }
+  ]
+}
