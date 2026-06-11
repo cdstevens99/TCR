@@ -1,0 +1,50 @@
+name: Briefings
+
+# Runs the summarizer on a schedule and commits the updated data.json,
+# which GitHub Pages then serves to the team.
+
+on:
+  workflow_dispatch:        # lets you run it manually from the Actions tab
+  schedule:
+    # Hourly, weekdays, ~business hours US Central (12:00–23:00 UTC).
+    # Fewer runs = lower cost. Edit this cron to taste.
+    - cron: "0 12-23 * * 1-5"
+
+permissions:
+  contents: write           # needed to commit data.json back to the repo
+
+concurrency:
+  group: briefings
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate briefing
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python fetch_news.py
+
+      - name: Commit data.json if it changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet data.json; then
+            git add data.json
+            git commit -m "Update briefing $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          else
+            echo "No changes to commit."
+          fi
