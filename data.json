@@ -1,21 +1,268 @@
 {
-  "fetchedAt": null,
-  "rates": [],
+  "fetchedAt": "2026-06-11T18:38:56.747257+00:00",
+  "rates": [
+    {
+      "label": "SOFR",
+      "value": "3.59%",
+      "pct": -0.01,
+      "isBps": true
+    },
+    {
+      "label": "10Y Treasury",
+      "value": "4.47%",
+      "pct": -1.61
+    },
+    {
+      "label": "30Y Treasury",
+      "value": "4.96%",
+      "pct": -1.35
+    },
+    {
+      "label": "REIT Index (VNQ)",
+      "value": "97.89",
+      "pct": 0.22
+    }
+  ],
   "stories": [
     {
-      "title": "Your first briefing will appear here",
-      "link": "",
-      "excerpt": "Run the GitHub Action once (Actions tab \u2192 Briefings \u2192 Run workflow) to generate the first real briefing. After that it refreshes automatically on the schedule in .github/workflows/brief.yml.",
-      "source": "Multi-Housing",
-      "cat": "Setup",
-      "date": null,
+      "title": "Colliers Facilitates $13M Sale of Pennsylvania Retail Plaza",
+      "link": "https://www.connectcre.com/stories/colliers-facilitates-13m-sale-of-pennsylvania-retail-plaza/",
+      "excerpt": "Colliers announced the $12.8 million sale of Milford Landing Plaza, a retail center at 102 Milford Landing Drive in Milford, Pennsylvania. The transaction was completed on behalf of a special-purpose entity affiliated with CenterPoint Properties, and the asset was purchased by Pump Place, LLC. The Colliers team representing the seller included Senior Vice President Jeff Algatt, Senior Vice President Derek Zerfass, and Vice President Scott Horner, who led the marketing and execution of the transaction. Milford Landing Plaza offered a turnkey investment opportunity featuring 43,956 square feet of retail space, 100% leased and occupied on a net-lease basis. The property is anchored by Harbor Freight and supported by strong shadow anchors, including Lowe’s, Home Depot, and Walmart. The buyer, Pump Place, LLC, is the legal purchasing entity for Wells Real Estate Investments, based in Allentown, Pennsylvania. The acquisition was completed as part of a 1031 exchange strategy following the recent sale of an industrial asset, with Milford Landing Plaza serving as the first completed acquisition in that exchange portfolio. The post Colliers Facilitates $13M Sale of Pennsylvania Retail Plaza appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-06-11T18:33:49+00:00",
       "bullets": [
-        "Setup complete \u2014 pipeline is wired up.",
-        "Run the Action once to populate real stories.",
-        "It then refreshes on its own schedule."
+        "Colliers sold Milford Landing Plaza retail center (PA) for $12.8M.",
+        "100% leased, Harbor Freight-anchored; net-lease structure with strong shadow anchors.",
+        "Buyer (Wells Real Estate Investments) executing 1031 exchange strategy post-industrial sale."
       ],
-      "summary": "This is placeholder content so the dashboard renders before the first run. Open the Actions tab, choose Briefings, and click Run workflow. The fetcher pulls real-estate feeds, asks Claude to summarize each story, and commits a fresh data.json that replaces this message.",
-      "impact": "Once live, each story shows a \"Why it matters\" line connecting the news to apartment demand, supply, capital, or cost \u2014 e.g., a major employer relocating to a metro and what it means for rental demand there."
+      "summary": "Colliers closed the $12.8M sale of Milford Landing Plaza, a 43,956-sf fully leased retail asset in Milford, Pennsylvania, anchored by Harbor Freight with shadow anchors including Lowe's, Home Depot, and Walmart. The buyer, Wells Real Estate Investments (Allentown-based), acquired the property as part of a 1031 exchange following the recent disposition of an industrial asset. The net-lease structure provides stable, long-term income.",
+      "impact": "Minimal relevance to multifamily development. This is a retail-focused transaction with no signal about residential demand, supply, or market fundamentals affecting apartment development."
+    },
+    {
+      "title": "Recruiting Firm Zeal Talent Ventures Takes 9K SF at 419 Lafayette Street",
+      "link": "https://commercialobserver.com/2026/06/zeal-talent-ventures-lease-419-lafayette-street/",
+      "excerpt": "A recruiting firm has expanded to a new office in Manhattan’s NoHo neighborhood. Zeal Talent Ventures, which specializes in connecting new companies with talent and strategic investments, has signed a five-year lease for 9,250 square feet on the fourth floor of 419 Lafayette Street, according to tenant broker Newmark. Asking rent was $66 per square foot. The eight-story office and retail building near Astor Place is owned by local developer and designer Albert Malekan, who acquired the property in June 2024 for an undisclosed amount, according to property records. Newmark’s Adam Spector brokered the deal for the tenant, while Bridge Advisory Group’s Alex Putzer and Joshua Malekan represented the landlord. Spokespeople for Bridge Advisory Group and Zeal Ventures did not immediately respond to requests for comment. The deal represents a relocation for Zeal Talent Ventures, which previously had a smaller office address about half a mile south at 270 Lafayette Street. The firm was founded in 2020 and uses data to help shape hiring strategies for emerging businesses, according to its website. Zeal Talent Ventures will join several other office tenants at 419 Lafayette Street, including artist and media technology company Creatd and venture capital firm M13, which signed a deal to move to 10,000 square feet on the sixth floor of the property in March 2024. Isabelle Durso can be reached at idurso@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-06-11T18:27:15+00:00",
+      "bullets": [
+        "Zeal Talent Ventures leased 9,250 sf at 419 Lafayette Street, Manhattan NoHo.",
+        "Five-year lease at $66/sf; relocation from 270 Lafayette Street, half-mile south.",
+        "Owner Albert Malekan acquired building June 2024; office/retail mixed-use asset."
+      ],
+      "summary": "Zeal Talent Ventures, a recruiting and talent-placement firm founded in 2020, signed a five-year lease for 9,250 sf on the fourth floor of 419 Lafayette Street in Manhattan's NoHo district at $66/sf asking rent. The firm relocated from a smaller space at 270 Lafayette Street, indicating growth. The eight-story asset is owned by local developer Albert Malekan, who acquired it in June 2024.",
+      "impact": "Limited direct impact on multifamily development. However, the lease signals sustained office demand and tenant expansion in Manhattan NoHo—a proximity indicator that the submarket remains economically vibrant and may support nearby residential development, but this deal itself does not reflect residential supply or demand trends."
+    },
+    {
+      "title": "Marcus & Millichap Arranges $15M Sale, Financing of 450K-SF Illinois Industrial Property",
+      "link": "https://www.connectcre.com/stories/marcus-millichap-arranges-15m-sale-financing-of-450k-sf-illinois-industrial-property/",
+      "excerpt": "Marcus &amp; Millichap announced the sale of Alton Center Business Park, a 450,400-square-foot industrial property located in the St. Louis MSA. The property sold for $15 million. IPA Capital Markets, a division of Marcus &amp; Millichap, arranged $12.4 million in acquisition financing. “Alton Center Business Park presented a compelling value-add opportunity with approximately 30% vacancy, providing immediate upside potential, while benefiting from a stable income stream generated by a long-term international manufacturing tenant occupying the remainder of the property,” said Tyler Sharp, senior director of investments. Sharp and Adam Abushagur, investment specialists in Marcus &amp; Millichap’s Chicago Downtown office, had the exclusive listing to market the property on behalf of the seller, a private family partnership, and procured the buyer, Rockford Asset Management. Frank Montalto, managing director, and Ethan Splan, associate director, both based in the firm’s Chicago Downtown office, secured the financing with a direct bridge lender on behalf of the buyer. The loan is non-recourse and features a 3-year term with extensions at 75% loan-to-cost. Built in 1960, the property is anchored by Imperial Manufacturing Group. The post Marcus &amp; Millichap Arranges $15M Sale, Financing of 450K-SF Illinois Industrial Property appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-06-11T18:26:54+00:00",
+      "bullets": [
+        "Marcus & Millichap sold Alton Center Business Park (450k sf, IL) for $15M.",
+        "~30% vacancy; long-term international manufacturing tenant anchors 70% of space.",
+        "Bridge lender provided $12.4M non-recourse, 3-year term at 75% LTC."
+      ],
+      "summary": "Marcus & Millichap brokered the $15M sale of Alton Center Business Park, a 450,400-sf industrial property in the St. Louis MSA, to Rockford Asset Management. The property operates with approximately 30% vacancy and is anchored by Imperial Manufacturing Group. IPA Capital Markets (Marcus & Millichap) arranged $12.4M in non-recourse bridge financing with a 3-year term and 75% loan-to-cost ratio, indicating value-add repositioning strategy.",
+      "impact": "Minimal relevance to multifamily development. Industrial asset sale and financing; no signal on residential demand, supply, or capital flows affecting apartment markets."
+    },
+    {
+      "title": "Avison Young Appoints Jarret Horst Project Management Lead to Oversee Mid-Atlantic Growth",
+      "link": "https://www.connectcre.com/stories/avison-young-appoints-jarret-horst-project-management-lead-to-oversee-mid-atlantic-growth/",
+      "excerpt": "Avison Young announced that Jarret Horst has joined the firm as a principal, project management lead, for national healthcare and the Mid-Atlantic region. In this dual role, Horst will focus on strengthening and expanding the firm’s project management service line across the Mid-Atlantic region while advancing its national healthcare project management platform. He will play a critical role in growing the firm’s Project Management practice in the Mid-Atlantic. His appointment also enhances the firm’s ability to deliver specialized solutions to healthcare clients nationwide, leveraging his deep sector expertise and established relationships. Horst brings nearly three decades of experience in construction and construction management, including 15 years as a contractor, 10 years as an owner, and four years serving as an owner’s representative for a real estate firm. Most recently, he served as senior director at Cushman &amp; Wakefield, where he led the Baltimore project and development services market and acted as the Maryland healthcare lead. The post Avison Young Appoints Jarret Horst Project Management Lead to Oversee Mid-Atlantic Growth appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-06-11T18:19:53+00:00",
+      "bullets": [
+        "Avison Young appointed Jarret Horst as principal, project management lead.",
+        "Horst will oversee Mid-Atlantic expansion and national healthcare platform growth.",
+        "30 years construction/PM experience; previously Cushman & Wakefield Baltimore healthcare lead."
+      ],
+      "summary": "Avison Young announced Jarret Horst as principal and project management lead for the Mid-Atlantic region and national healthcare platform. Horst brings 30 years of construction and project management experience, including 15 years as a contractor, 10 as an owner, and 4 as an owner's representative. He previously led Cushman & Wakefield's Baltimore project and development services and served as Maryland healthcare lead.",
+      "impact": "Indirect signal: healthcare development activity and project management capacity building in the Mid-Atlantic (particularly Baltimore) suggest robust mixed-use and healthcare real estate activity, which can correlate with multifamily development in those markets, but this hire does not directly reveal apartment demand or supply trends."
+    },
+    {
+      "title": "CBRE Completes $17M Sale of 70-Unit Multifamily on Bainbridge Island",
+      "link": "https://www.connectcre.com/stories/cbre-completes-17m-sale-of-70-unit-multifamily-on-bainbridge-island/",
+      "excerpt": "CBRE has completed the sale of Quay Bainbridge, a 70-unit multifamily community located at 250 Shannon Dr SE on Bainbridge Island, Washington, for $16.8 million. CBRE&#8217;s Mark Zoffel and Natalie Kasper represented the seller, Quay Bainbridge LLC. &#8220;That demand and our proven process translated directly to the sale price — the property listed at $15M and closed at $16.8M,&#8221; said Kasper. &#8220;With 97% average occupancy over the past five years and zero new supply on the horizon, the opportunity to acquire a stabilized asset with full renovation upside in this submarket is rare.&#8221; Situated in downtown Bainbridge, the property comprises nine buildings across three parcels totaling approximately 3.98 acres. Built between 1968 and 1972, the community offers one-, two-, and three-bedroom units averaging 878 square feet, with wood-burning fireplaces, decks, and Puget Sound views. The current ownership invested in capital improvements, including full roof replacements on all buildings, new siding and windows, and deck replacements. The post CBRE Completes $17M Sale of 70-Unit Multifamily on Bainbridge Island appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-06-11T18:14:56+00:00",
+      "bullets": [
+        "CBRE sold Quay Bainbridge (70-unit) on Bainbridge Island, WA for $16.8M.",
+        "Listed $15M, sold $16.8M (12% premium); 97% occupancy, zero new supply pipeline.",
+        "Built 1968–1972; recently renovated (roofs, siding, windows, decks); waterfront views."
+      ],
+      "summary": "CBRE closed the $16.8M sale of Quay Bainbridge, a 70-unit multifamily community on Bainbridge Island, Washington, achieving a 12% premium over the $15M list price. The stabilized asset features 97% average occupancy over five years with zero new supply on the immediate horizon. Recently completed capital improvements (full roof replacements, new siding/windows, deck replacements) position the property for strong cash flow in a supply-constrained submarket.",
+      "impact": "HIGHLY RELEVANT — Bainbridge Island (Seattle MSA submarket) signals a no-new-supply environment with sustained demand and pricing power; the buyer's confidence in paying a 12% premium suggests strong, durable fundamentals. This validates land acquisition and development investment in tight Pacific Northwest markets where supply scarcity will drive rents and valuations."
+    },
+    {
+      "title": "Transit-oriented housing gains ground nationwide",
+      "link": "https://therealdeal.com/national/2026/06/11/transit-oriented-housing-gains-ground-nationwide/",
+      "excerpt": "For decades, transit-oriented development has been the urbanist answer to two of America’s biggest headaches: housing shortages and traffic congestion. The strategy has gained real traction, but a national analysis suggests the country is still building far more homes around cars than trains and buses. Nearly 67 million housing units — about 45 percent of the nation’s housing stock — were located within a half-mile of transit stops in 2022, according to an Urban Institute analysis highlighted by Bloomberg CityLab. That marks a 36 percent increase over the last two decades and reflects years of state and local efforts to [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-06-11T18:00:00+00:00",
+      "bullets": [
+        "Urban Institute: 67M homes (45% of US stock) sit within half-mile of transit.",
+        "36% increase over 20 years; only 10% near frequent (15+ min) transit service.",
+        "Seattle and Salt Lake City more than doubled transit-adjacent housing 1980–2022."
+      ],
+      "summary": "An Urban Institute analysis found nearly 67 million U.S. housing units—45% of the nation's stock—are located within a half-mile of transit stops as of 2022, a 36% increase over two decades reflecting state and local push toward transit-oriented development. However, only ~10% of U.S. housing is near frequent transit (15-minute service or better). Seattle and Salt Lake City led in growth, more than doubling housing supply near rail stations between 1980 and 2022 through growth-management policies restricting sprawl and incentivizing infill.",
+      "impact": "CRITICAL SIGNAL — Developers should prioritize Infill acquisition and entitlements in submarkets near frequent transit (15+ min headways), especially in Seattle and Salt Lake City where supply restrictions + transit investment create structural demand. Conversely, secondary metros with transit infrastructure but low frequent-service penetration remain underexploited opportunities for first-mover developers."
+    },
+    {
+      "title": "Two Warehouse Leases Combine for $30M in One of L.A.’s Industrial Corridors",
+      "link": "https://commercialobserver.com/2026/06/calif-la-commerce-industrial-3pl/",
+      "excerpt": "In the era of supply chain and trade uncertainty, third-party logistics (3PL) and distribution firms are again driving warehouse leasing activity in the nation’s largest industrial real estate market. Sante Fe Warehouse signed a five-year lease to take the newly completed 157,715-square-foot building at 6501 Flotilla Street in Commerce, Calif., expanding its 3PL footprint to more than 1 million square feet in Greater Los Angeles. The deal is valued at approximately $17 million. An L.A.-based entity named RBABS Investment 5 owns the property, which features 36-foot clear height space and 18 dock-high loading doors. About two miles south, NA Trading Company, which imports Southeast Asian foods, signed a five-year renewal valued at more than $13 million at the 140,450-square-foot industrial building at 6021 Malt Avenue. Records show Seattle-based Washington Capital and Newport Beach, Calif.-based Real Estate Development Associates (also known as REDA) own the asset, which features 32-foot clear heights with 14 dock-high doors. Carol Taubman of Westgate Industrial Properties represented the tenants on both deals. Jack Cline and Jeff Bethel at Lee &amp; Associates represented RBABS, and Walt Chenoweth and Juan Gutierrez of Voit Commercial represented the owners of the Malt Avenue property. Third-party logistics leasing surged 65 percent nationwide in the first quarter compared to last year as firms in the field navigate supply chain complexity and seek flexibility during high-risk periods “to efficiently manage volatile demand patterns,” according to JLL’s most recent U.S. industrial market report. “Given the supply chain shocks experienced over the last five years, from pandemic disruptions to port congestion, 3PLs have become essential partners offering the flexibility and expertise that retailers and manufacturers need to navigate volatility,” the JLL report read. Gregory Cornfield can be reached at gcornfield@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-06-11T17:40:29+00:00",
+      "bullets": [
+        "Two LA warehouse leases: Sante Fe Warehouse (157,715 sf, $17M) and NA Trading (140,450 sf, $13M).",
+        "Both five-year terms; 3PL and food-import tenants driving industrial demand.",
+        "Combined $30M value reflects supply chain reconfiguration and logistics-hub need."
+      ],
+      "summary": "In Greater Los Angeles, Sante Fe Warehouse signed a five-year lease for a newly completed 157,715-sf facility at 6501 Flotilla Street, Commerce (~$17M), expanding its 3PL footprint to over 1M sf in the region. Simultaneously, NA Trading (Southeast Asian food importer) renewed a five-year lease for 140,450 sf at 6021 Malt Avenue (~$13M). Both deals signal robust third-party logistics and import-distribution demand in LA's industrial corridor.",
+      "impact": "Indirect signal of economic vitality: warehouse activity and supply-chain investment suggest sustained industrial job growth and tenant expansion in LA, which can drive worker in-migration and residential demand in surrounding neighborhoods. However, this article does not reveal apartment supply, deliveries, or rent trends; developers should monitor industrial employment density near proposed multifamily sites."
+    },
+    {
+      "title": "Quarterra Sells 290-Unit Kierland Rental Asset",
+      "link": "https://www.connectcre.com/stories/quarterra-sells-290-unit-kierland-rental-asset/",
+      "excerpt": "Quarterra Multifamily has sold Residences Kierland, a 290-unit community in Scottsdale, to MacNaughton. MultihousingNews reports that Nationwide issued a $90 million, five-year loan to McNaughton for the transaction. This is the first time the property traded. Located at 15825 N. 71st St., the property came online in 2023 on roughly 4 acres. It sits next to The Westin Golf Course, with multiple dining and retail options along N. Scottsdale Road. The six-story Residences Kierland encompasses one- and two-bedroom units ranging from 691 to 2,025 square feet. Some apartments feature balconies or patios. Amenities at the pet-friendly community include a fitness center, business center, clubhouse, dog park, swimming pool and spa. Residences Kierland has a multi-level, 475-space parking structure with EV charging stations. Recently, Quarterra, the apartment division of Lennar Homes, announced it is selling a 3,746-unit rental portfolio spread across seven states. JLL is marketing the portfolio sale. The post Quarterra Sells 290-Unit Kierland Rental Asset appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-06-11T17:25:46+00:00",
+      "bullets": [
+        "Quarterra sold Residences Kierland (290-unit, Scottsdale) to MacNaughton for undisclosed price.",
+        "Nationwide provided $90M, five-year loan; property came online 2023, first trade.",
+        "Six-story, 1–2 BR, 691–2,025 sf; premium location next to Westin Golf Course."
+      ],
+      "summary": "Quarterra Multifamily sold Residences Kierland, a newly stabilized 290-unit community in Scottsdale (opened 2023), to MacNaughton. Nationwide secured a $90M five-year loan to finance the acquisition, marking the property's first trade. The six-story asset features one- and two-bedroom units (691–2,025 sf) with premium positioning next to The Westin Golf Course and shopping/dining on N. Scottsdale Road.",
+      "impact": "MODERATE SIGNAL — Sale of a 2023-delivered property within two years signals strong investor appetite for stabilized, recently completed multifamily in Scottsdale, validating the submarket's rent growth and demand. The $90M loan (likely at higher rates given 2024 financing environment) suggests investors still willing to deploy capital on strong assets; Quarterra's portfolio sales push may indicate operator/builder cash-flow optimization rather than distress, implying continued development pipeline confidence in the Phoenix MSA."
+    },
+    {
+      "title": "Developer Lands $134M to Build Fourth Apartment Tower Near Miami Metrorail",
+      "link": "https://commercialobserver.com/2026/06/multifamily-development-construction-financing-miami-metrorail-crescendo-link-douglas/",
+      "excerpt": "13th Floor Investments announced Thursday it has secured a $134 million construction loan to finance the development of a fourth residential tower at Link at Douglas, a transit-oriented project in Miami. Santander Bank led the construction financing. TD Bank and First Horizon Bank also participated. Miami-based 13th Floor is developing the project in partnership with Barings, the asset manager that’s a division of insurance giant MassMutual. The 37-story tower, known as Crescendo, is being built at 3070 Southwest 37th Avenue, adjacent to Miami-Dade County&#8217;s Douglas Road Metrorail station. Crescendo will include 392 multifamily units, and it will be the final phase of the 7-acre Link at Douglas project. Construction has begun and is scheduled for completion in 2029. The first two towers at Link at Douglas, Core and Cascade, have been completed. Rents for studio units start at $2,000 a month at Core and $2,800 a month at Cascade, according to Apartments.com. A third apartment building is under construction. In all, the project will include more than 1,500 units among the four towers. &#8220;Crescendo is far more than the final tower at Link at Douglas,&#8221; Daryl Shevin, chief financial officer of 13th Floor Investments, said in a statement. &#8220;It represents the culmination of years of planning, investment and partnership with Miami-Dade County to create a community that brings housing, retail and transit together in one of Miami&#8217;s most connected locations.&#8221; As part of the project, 13th Floor and Barings invested $17 million to renovate the nearby Metrorail station and create a public plaza connecting to The Underline linear park. Jeff Ostrowski can be reached at jostrowski@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-06-11T16:45:11+00:00",
+      "bullets": [
+        "13th Floor Investments secured $134M construction loan for Crescendo tower, Miami transit-oriented development.",
+        "Santander Bank led; 392-unit, 37-story, adjacent to Douglas Road Metrorail.",
+        "Link at Douglas completion 2029; Core and Cascade phase units rent $2,000–$2,800/mo."
+      ],
+      "summary": "13th Floor Investments and Barings (MassMutual asset manager) closed a $134M construction loan led by Santander Bank with TD Bank and First Horizon Bank for Crescendo, a 37-story, 392-unit tower at Link at Douglas, a transit-oriented project in Miami adjacent to the Douglas Road Metrorail station. Construction began; completion slated for 2029. Rents at completed phases (Core, Cascade) range from $2,000/mo (studios, Core) to $2,800/mo (Cascade), validating strong demand and pricing power in Miami's transit corridors.",
+      "impact": "STRONG SIGNAL — Successful $134M construction financing for a 392-unit tower in Miami transit-oriented development (scheduled completion 2029) confirms capital availability for well-positioned, transit-proximate multifamily in South Florida despite higher interest rates. Rent levels ($2,000–$2,800) demonstrate pricing power and in-migration demand; this validates the feasibility and timeline for similar transit-oriented projects in Miami's growth corridors, encouraging developer land acquisition near Metrorail now."
+    },
+    {
+      "title": "Claudio Soifer’s endless Park Slope saga faces another setback",
+      "link": "https://therealdeal.com/new-york/2026/06/11/claudio-soifers-endless-park-slope-saga-faces-latest-snag/",
+      "excerpt": "An investor with ties to Josh Schuster is dealing with his own set of problems, where pre-pandemic plans for a Park Slope rental project still haven’t come to fruition. Hanover Capital filed a lawsuit against Claudio Soifer in state Supreme Court, alleging the investor backed out of a $21.7 million mortgage for 167 Fourth Avenue in the Brooklyn neighborhood, Crain’s reported. Hanover is suing for $218,000, as well as interest and legal fees. An 18-story, 135-unit development on the corner of Degraw Street is at the center of the dispute. An affiliate of Soifer purchased the site, once consisting of [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-06-11T16:20:22+00:00",
+      "bullets": [
+        "Hanover Capital suing Claudio Soifer over $21.7M mortgage break-up for Park Slope project.",
+        "167 Fourth Avenue: 18-story, 135-unit rental; site vacant since 2019; estimated $140M cost.",
+        "Soifer property acquired 2015 for $4.3M; plans stalled; construction timeline still unclear."
+      ],
+      "summary": "Hanover Capital filed a lawsuit against investor Claudio Soifer in New York State Supreme Court, alleging breach of a $21.7M mortgage agreement for 167 Fourth Avenue in Brooklyn's Park Slope neighborhood. The site, now vacant since 2019, is slated for an 18-story, 135-unit rental development with an estimated cost of $140M. Soifer's affiliate acquired the property in 2015 for $4.3M; plans evolved from a 12-story, 57-unit condo to the rental scheme. Construction timeline remains uncertain.",
+      "impact": "CAUTION SIGNAL — Extended entitlement and financing delays on a Brooklyn Park Slope development (vacant since 2019, still months from construction start) highlight capital scarcity and deal-close friction in NYC development even for known developers. This suggests financing competition may tighten further for marginal-risk projects, elevating bar for debt structures in the market and signaling that well-capitalized, low-leverage projects will command better terms and faster closings."
+    },
+    {
+      "title": "The New York Knicks Were Stonecutters Last Night",
+      "link": "https://commercialobserver.com/2026/06/new-york-knicks-comeback-lessons-business/",
+      "excerpt": "Last night, the New York Knicks delivered one of the greatest comebacks in sports history and the single greatest comeback in NBA Finals history. Down by 29 points, most teams would have folded. Most fans would have headed for the exits. Most announcers and color commentators would have declared the game over. Yet, the Knicks did something remarkable. They ignored the scoreboard. They ignored the magnitude of the deficit. They ignored the fact that they were down by nearly 30 points and instead focused on the only thing they could control: the next possession. A basket here. A defensive stop there. A free throw. A rebound. A three-pointer. One play at a time. One possession at a time. One point, two points, or three points at a time. Robert Knakal. PHOTO: Patrick McMullan/Patrick McMullan via Getty Images Eventually, possession after possession, they climbed all the way back and won the game by a single point on a last-second tip-in. As I watched the comeback unfold, I couldn&#8217;t help but think about the Stonecutter&#8217;s Creed. The correlation between sports and the Stonecutter&#8217;s Creed is actually much deeper than most people realize because almost every meaningful accomplishment in sports is the result of accumulated small successes rather than one dramatic moment. The Stonecutter&#8217;s Creed teaches us that the rock does not split because of the 100th blow. It splits because of all 100 blows. The final strike gets the credit, but every strike before it made the final strike possible. Sports work exactly the same way. A baseball team does not overcome a five-run deficit with one swing. Even a grand slam produces only four runs. To come back, they need a walk, a single, a stolen base, a sacrifice fly, another hit, another run. Incremental progress. A football team trailing by 21 points cannot score 21 points on one play. They need a drive. Then a defensive stop. Then another drive. Then another stop. Momentum is simply the accumulation of small victor",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-06-11T15:00:14+00:00",
+      "bullets": [
+        "New York Knicks sports commentary (not real estate or market relevant).",
+        "Article focuses on NBA comeback and sports psychology metaphor.",
+        "No market, development, or capital implications."
+      ],
+      "summary": "This article is a sports opinion piece about the New York Knicks basketball team and contains no real estate, multifamily, or market-related content. It draws parallels between a sports comeback and the 'Stonecutter's Creed' motivational parable.",
+      "impact": "No relevance to multifamily development, demand, supply, capital, or cost."
+    },
+    {
+      "title": "Related, ADIA, Mack Shopping Columbus Circle Retail for $450M",
+      "link": "https://commercialobserver.com/2026/06/related-adia-mack-shopping-columbus-circle/",
+      "excerpt": "Fancy some retail therapy? You’ll need a pretty penny for this particular purchase. Related Companies, Abu Dhabi Investment Authority and Mack Real Estate are marketing the Shops at Columbus Circle and considering both an outright sale of the trophy property or a new equity investment into it, sources said. Newmark’s Adam Spies, Doug Harmon, Josh King, Marcella Fasulo, Avery Silverstein and Ben Lushing are marketing the shopping center on behalf of the owners. If an outright sale takes place, it’s expected to fetch around $450 million, sources said. The Promote first broke the news of the property being up for grabs, while Green Street News first reported the asking price. Located at 10 Columbus Circle at the busy intersection of Broadway, Central Park West, Eighth Avenue and Central Park South, the property encompasses 351,246 square feet over four retail floors and two below-ground concourse levels. Sources familiar with the property said ownership’s decision to potentially bring in a new equity investor was driven by strong retail leasing momentum, plus market interest in the opportunity. Indeed, its tenant roster is certainly nothing to sneeze at. Whole Foods — the top-grossing Whole Foods in the U.S., no less — is the anchor tenant, occupying 57,957 square feet below the main floor. Other tenants include Equinox, H&amp;M, Williams Sonoma, Aritzia, J.Crew and Per Se. Aritzia is a newly signed tenant that’s replacing Hugo Boss at the center, announcing in April it would be taking 16,000 square feet lease at the property. Apparel brand Madewell also signed a lease for 6,000 square feet in February. In addition to Per Se, other eateries include Masa, Bad Roman, Momofuku and We All Gotta Eat. Sitting pretty with Central Park frontage, the Shops at Columbus Circle has the advantage of constant foot traffic from millions of the city’s residents, office workers and tourists, along with direct access to five subway lines. Fancy adding it to your portfolio? Bids are due ",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-06-11T14:45:26+00:00",
+      "bullets": [
+        "Related Companies, ADIA, Mack shopping Shops at Columbus Circle retail for ~$450M sale.",
+        "351,246 sf over four floors + two concourse levels; trophy Manhattan retail asset.",
+        "Ownership also considering new equity co-investment vs. outright sale."
+      ],
+      "summary": "Related Companies, Abu Dhabi Investment Authority (ADIA), and Mack Real Estate are marketing the Shops at Columbus Circle, one of Manhattan's trophy retail properties, for either an outright sale (estimated ~$450M) or a new equity investment. The property encompasses 351,246 sf of retail space across four floors plus two below-ground concourse levels at the busy intersection of Broadway, Central Park West, Eighth Avenue, and Central Park South.",
+      "impact": "Limited direct relevance to multifamily development. High-profile Manhattan retail sale/recapitalization signals capital still available for trophy assets and investor confidence in Manhattan real estate; however, it does not reveal residential supply, demand, or apartment-specific capital flows."
+    },
+    {
+      "title": "Houston Astros buy Salvation Army shelter across from Daikin Park",
+      "link": "https://therealdeal.com/texas/2026/06/11/houston-astros-buy-salvation-army-shelter-near-daikin-park/",
+      "excerpt": "UPDATED 6/11/26 9:45am An entity associated with the Houston Astros purchased a Salvation Army shelter across the street from the team’s home field, as the Major League Baseball franchise makes moves to develop an entertainment district. Deed records show Dugout Properties, which shares an address with Daikin Park and The Astros Foundation, bought the property at 1717 Congress Street, a 0.6-acre property across from Daikin Park (formerly Minute Maid Park).&#160; The property is currently home to the Salvation Army’s Center for Hope. Formerly the site of Sally’s House, an emergency shelter for women, the center now provides shelter to men [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-06-11T12:00:00+00:00",
+      "bullets": [
+        "Houston Astros (via Dugout Properties) purchased Salvation Army shelter across from Daikin Park.",
+        "0.6 acres at 1717 Congress Street; Astros planning parking garage; $4.3M appraisal value.",
+        "Part of larger entertainment district development (Hines partner); retail, hotel, and fan space planned."
+      ],
+      "summary": "Dugout Properties, an entity associated with the Houston Astros, purchased a 0.6-acre property at 1717 Congress Street across from Daikin Park (formerly Minute Maid Park) that currently houses the Salvation Army's Center for Hope. The team plans to build a parking garage on the site (18-month timeline). The Salvation Army will lease through September 2025. The acquisition is part of a broader entertainment district development announced in 2023 with partner Hines, which includes retail, a 300-key hotel, and other mixed-use elements.",
+      "impact": "INDIRECT SIGNAL — Entertainment district development near Daikin Park (led by Hines) will drive foot traffic, tenancy density, and worker/visitor in-migration to downtown Houston. This creates secondary demand for nearby apartments; developers should monitor Hines' full plans and phasing for residential components and site opportunities in the surrounding corridors, particularly if the mixed-use includes multifamily."
+    },
+    {
+      "title": "Freeway-fronting hillside in Visitacion Valley poised for mixed-income multifamily development",
+      "link": "https://therealdeal.com/san-francisco/2026/06/10/developer-plans-apartments-in-san-franciscos-viz-valley/",
+      "excerpt": "A property owner in San Francisco’s Visitacion Valley neighborhood is looking to turn a narrow parcel overlooking the freeway into several dozen apartments.&#160; The San Francisco Planning Department received a new application for multifamily construction at 3275-3333 San Bruno Avenue, San Francisco YIMBY reported. Schaub Li Architects submitted the application on behalf of the unnamed property owner and is handling designs for the project.&#160; The plans call for 45 units across three buildings overlooking U.S. Highway 101. Previous applications at the site sought to build 47 units. The development would consist of 26 one-bedroom units, 18 two-bedrooms and one three-bedroom. [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-06-10T23:00:00+00:00",
+      "bullets": [
+        "45-unit multifamily planned at 3275–3333 San Bruno Avenue, Visitacion Valley, San Francisco.",
+        "Three buildings; 26 one-BR, 18 two-BR, 1 three-BR; 5 units deed-restricted BMR.",
+        "~$8.5M construction cost (excl. soft costs); 14 car, 52 bike parking on ~0.5 acres."
+      ],
+      "summary": "The San Francisco Planning Department received a new multifamily application for 3275–3333 San Bruno Avenue in Visitacion Valley, calling for 45 units across three buildings overlooking U.S. Highway 101. The unit mix includes 26 one-bedrooms, 18 two-bedrooms, and one three-bedroom, with five units deed-restricted for below-market-rate housing. Estimated construction cost is ~$8.5M (excluding soft costs); the project includes 14 car and 52 bicycle parking spaces. An unnamed property owner is consolidating six vacant parcels (~0.5 acres).",
+      "impact": "RELEVANT SIGNAL — San Francisco's state-mandated 82,069-unit production goal (through 2031) is driving developers to infill marginal sites (freeway-fronting parcels, consolidations of vacant land). This 45-unit project, though modestly scaled, reflects continued pressure on supply and willingness to develop challenging geography. Developers should monitor SF planning approvals and timeline to gauge entitlement velocity and feasibility for infill projects in less-prime submarkets; BMR requirements will pressure project economics but remain standard for SF approvals."
+    },
+    {
+      "title": "Canoga Park developer nearly doubles unit count, slashes height for affordable project",
+      "link": "https://therealdeal.com/la/2026/06/10/developer-increases-unit-count-for-canoga-park-apartments/",
+      "excerpt": "A property owner in Canoga Park is looking to nearly double the number of units proposed for a commercial development off Sherman Way.&#160; Matt Towfighian of Warner Mega Properties submitted a revised application to the Los Angeles Department of City Planning that calls for a six-story building with 120 residences at 7220 North Owensmouth Avenue, Urbanize Los Angeles reported. State business records tie Warner Mega Properties to the West Hills address of 101 Family Medical Group, where Towfighian is listed as an employee.&#160; The application calls for more units and less parking in a shorter structure. Last year, Towfighian filed [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-06-10T22:33:20+00:00",
+      "bullets": [
+        "Warner Mega Properties revised Canoga Park project: 120 units, six stories, from prior 70-unit seven-story.",
+        "100% affordable; eligible for ED1 expedited approval; parking reduced 92 to 41 spaces.",
+        "Location near Warner Center master-planned business district; similar projects nearby."
+      ],
+      "summary": "Warner Mega Properties (Matt Towfighian) filed a revised application for 7220 North Owensmouth Avenue in Canoga Park, increasing unit count from 70 to 120 units in a six-story building (down from prior seven-story plan) while cutting parking from 92 to 41 spaces. The project is 100% affordable, making it eligible for California's Executive Directive 1 (ED1) approval pathway, which expedites review and public hearing requirements. Unit mix (one-, two-, and three-bedroom) remains unchanged. The site is near Warner Center, a master-planned business and entertainment district with recent moderate-income developments.",
+      "impact": "MODERATE SIGNAL — ED1-eligible 100% affordable projects now achieving expedited approval and higher density (120 units vs. 70 initially, with reduced parking) in LA's Canoga Park area reflects state-level zoning/regulatory shift favoring density and affordability. This signals developers can achieve faster entitlements and higher unit counts on affordably restricted projects in secondary LA markets, reducing parking requirements in line with transit feasibility. Investors in affordable/public housing finance should track ED1 velocity and pro-forma economics in LA as a scaling opportunity."
+    },
+    {
+      "title": "DR Horton chases south Miami-Dade supply in $17M on Homestead land buy",
+      "link": "https://therealdeal.com/miami/2026/06/10/d-r-horton-buys-south-miami-dade-development-site/",
+      "excerpt": "D.R. Horton purchased a development site in Homestead for $16.9 million, as homebuilders continue to seek developable land in south Miami-Dade. The Arlington, Texas-based homebuilder acquired 97 lots across two parcels, Aspen Estates East and Aspen Estates West, from M Aspen Homestead LLC, records show. The price amounts to about $174,000 per lot. D.R. Horton had the site under contract from M Aspen Homestead in 2024 through a $2.53 million mortgage deposit, records show.&#160; Spokespersons for D.R. Horton and M Aspen Homestead did not immediately respond to a request for comment.&#160; The acquisition comes as Homestead and south Miami-Dade have [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-06-10T22:30:00+00:00",
+      "bullets": [
+        "D.R. Horton purchased 97-lot development site in Homestead, FL for $16.9M (~$174k/lot).",
+        "Site under contract since early 2024 (two-year hold); part of larger south Miami-Dade buildout.",
+        "DR Horton investing heavily: $65M Sandero Landing (1,100 units), plus 247-unit and 34-unit projects."
+      ],
+      "summary": "D.R. Horton, the nation's largest homebuilder, acquired a 97-lot development site in Homestead (Aspen Estates East and West) for $16.9M (~$174k per lot). The company had the site under contract throughout 2024 via a $2.53M deposit. The acquisition reflects Homestead's emergence as a hotbed for homebuilders seeking developable land, driven by scarcity in Miami-Dade's urban core and lower land costs farther south. D.R. Horton is also building Sandero Landing (1,100 units), plus a 247-unit townhouse/single-family project and a 34-unit single-family development in the area.",
+      "impact": "STRONG SIGNAL — D.R. Horton's substantial land accumulation in south Miami-Dade/Homestead (Sandero Landing 1,100 units, plus 97 additional lots, plus smaller projects totaling 400+ units) indicates the homebuilder sees durable demand and affordability for residential expansion as Miami-Dade urban core becomes supply-constrained. Multifamily developers should assess infill and near-urban opportunities in central Miami-Dade before land costs rise further; conversely, south suburban markets (Homestead) will absorb spillover demand, putting upward pressure on rents in transit-accessible or job-center-proximate submarkets."
     }
   ]
 }
