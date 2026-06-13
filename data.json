@@ -1,29 +1,143 @@
 {
-  "fetchedAt": "2026-06-12T18:33:25.422347+00:00",
+  "fetchedAt": "2026-06-13T00:06:17.836037+00:00",
   "rates": [
     {
-      "label": "SOFR",
-      "value": "3.60%",
-      "pct": 0.01,
-      "isBps": true
-    },
-    {
       "label": "10Y Treasury",
-      "value": "4.48%",
-      "pct": 0.36
+      "value": "4.49%",
+      "pct": 0.54
     },
     {
       "label": "30Y Treasury",
       "value": "4.97%",
-      "pct": 0.34
+      "pct": 0.48
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "98.47",
-      "pct": 0.88
+      "value": "98.51",
+      "pct": 0.92
     }
   ],
   "stories": [
+    {
+      "title": "Unpaid contractors cloud Obama Center’s finish line",
+      "link": "https://therealdeal.com/chicago/2026/06/12/obama-center-subcontractors-deal-with-unpaid-bills-as-opening-draws-closer/",
+      "excerpt": "Contractors on the Obama Presidential Center say their invoices are going unpaid, reportedly missing millions in payments and jeopardizing the future of businesses.&#160; The Obama Center has gone hundreds of millions over its original $300 million cost estimate. The 19-acre museum and library’s construction cost has ballooned over the years to a staggering $850 million, nearly tripling the projected budget.&#160; African American Contractors Association president Omar Shareef said that a total of seven separate subcontractors have contacted him for help with pursuing missing payments in the past several months, according to Crain’s. Some of the contractors are owed seven figures. [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-06-12T21:15:33+00:00",
+      "bullets": [
+        "Obama Center ($850M total cost) missed contractor payments; 7+ subcontractors owed millions.",
+        "Project tripled original $300M budget due to pandemic and 5-year legal delays.",
+        "Construction completed June 2024; systemic contractor/payment management failures evident."
+      ],
+      "summary": "The Obama Presidential Center in Chicago, which ballooned from $300 million to $850 million, has left multiple subcontractors unpaid—some owing seven figures—as the facility prepares to open. The delays stemmed from pandemic disruptions and a protracted legal battle. At least seven subcontractors have sought help, with some willing to accept losses just to stabilize their businesses, raising serious questions about project financial controls and payment hierarchies.",
+      "impact": "Large-scale, publicly visible project failures on cost control and contractor payment set a cautionary precedent for major Chicago development. Reputational risk and contractor reluctance to bid on complex civic/institutional projects in Chicago metro may increase labor premiums and timeline risks for future multifamily developers on large mixed-use or amenity-heavy deals."
+    },
+    {
+      "title": "Clovis 7-Eleven C-Store/Gas Station Trades in 1031 Exchange",
+      "link": "https://www.connectcre.com/stories/clovis-7-eleven-c-store-gas-station-trades-in-1031-exchange/",
+      "excerpt": "Hanley Investment Group Real Estate Advisors completed the $5-million sale of a 7‑Eleven-occupied convenience store and gas station in Clovis. Within the past 12 months, Hanley has closed more than $60 million in corporate convenience store and gas station deals across California. VP Jacob Fahner and EVP Jeremy McChesney represented a Los Angeles–based private investor in the sale of the single‑tenant, fee‑simple 7‑Eleven located at 394 W. Ashlan Ave. The buyer, a 1031 exchange investor from Bakersfield, was represented by Jeffrey Leggio of ASU Commercial in Bakersfield. “This particular 7‑Eleven offered a rare combination of compelling fundamentals — eligibility for 100% bonus depreciation at a refreshingly accessible $5 million price point, a true absolute triple‑net lease structure, and dominant performance from both the tenant and the grocer anchor,” Fahner said. “Those are exactly the deal nuances that resonate with private investors seeking durable income, and when they are clearly articulated, they drive outcomes like this.” The post Clovis 7-Eleven C-Store/Gas Station Trades in 1031 Exchange appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-06-12T20:51:36+00:00",
+      "bullets": [
+        "Clovis, CA: 7-Eleven sale $5M via 1031 exchange to Bakersfield investor.",
+        "Hanley Investment Group closed $60M+ in CA convenience/gas deals in 12 months.",
+        "Single-tenant net-lease structure with bonus depreciation attracted investor liquidity."
+      ],
+      "summary": "A $5 million 7-Eleven property in Clovis traded via 1031 exchange, purchased by a Bakersfield investor seeking tax-deferred reinvestment. The deal highlighted triple-net lease fundamentals and 100% bonus depreciation eligibility. Hanley's $60 million in similar deals over 12 months in California signals active capital recycling into single-tenant net-lease assets.",
+      "impact": "Minimal direct multifamily relevance. However, robust 1031 exchange and net-lease market activity in California suggests sustained investor appetite for stable, long-term income assets—a signal that cap rate compression and institutional capital competition remain intense, making ground-up multifamily development sites more expensive in growth corridors like greater Fresno/Clovis."
+    },
+    {
+      "title": "Pet Food Manufacturer Signs 163K-SF Lease in Ontario",
+      "link": "https://www.connectcre.com/stories/pet-food-manufacturer-signs-163k-sf-lease-in-ontario/",
+      "excerpt": "NAI Capital Commercial VP Dawn Lowder, Julie Dammeier of First Team Real Estate and Andrew Rodriguez represented the landlord in the lease of a 163,336-square-foot industrial facility located at 1930 S. Parco Ave. in Ontario. The tenant, Hoa&#8217;s Global Pet Nutrition Inc., was represented by Jesse and Jacklyn Hamilton of Maple Commercial Real Estate. Hoa&#8217;s Global Pet will occupy the M2-zoned property, which features heavy power, a fully fenced perimeter, and sits on 8.21 acres. The facility offers flexibility for a variety of industrial uses, including warehousing, distribution, manufacturing, and logistics. Features include fully built-out office space, conference rooms, a training room, and a 10,000-square-foot Class 8 Clean Room. &#8220;This facility stands apart in the Inland Empire market,&#8221; said Lowder. &#8220;The combination of scale, power infrastructure, the Class 8 Clean Room, and freeway and airport access made it an ideal fit for&nbsp;Hoa&#8217;s&nbsp;Global&nbsp;Pet&nbsp;Nutrition as the company expands into this next chapter of growth.&#8221; The post Pet Food Manufacturer Signs 163K-SF Lease in Ontario appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-06-12T20:48:37+00:00",
+      "bullets": [
+        "Hoa's Global Pet Nutrition signed 163K SF lease in Ontario (Inland Empire).",
+        "Facility features Class 8 clean room, heavy power, 8.21 acres; M2-zoned.",
+        "Pet nutrition/manufacturing expansion into IE logistics hub signals industrial demand strength."
+      ],
+      "summary": "Hoa's Global Pet Nutrition leased a 163,336-square-foot industrial facility in Ontario, California, with specialized infrastructure including a 10,000-SF Class 8 clean room, heavy power, and freeway/airport access. The tenant is scaling production operations in the Inland Empire. The property offers flexibility for warehousing, distribution, manufacturing, and logistics.",
+      "impact": "Ontario/Inland Empire industrial strength—particularly in light-manufacturing and specialized logistics—signals sustained employment growth and labor demand that underpins regional multifamily absorption. Pet food and consumer goods manufacturing expansion drives job stability and wage support in the IE, supporting rent growth in nearby multifamily developments serving essential workers and blue-collar demographics."
+    },
+    {
+      "title": "Former Performing Arts School Sells to Summa Academy as Its Third Bay Area Campus",
+      "link": "https://www.connectcre.com/stories/former-performing-arts-school-sells-to-summa-academy-as-its-third-bay-area-campus/",
+      "excerpt": "Colliers completed the sale of 2730 Mitchell Dr., a 43,702-square-foot school facility in Walnut Creek, formerly the site of the Contra Costa School of Performing Arts. The buyer, Summa Academy, acquired the asset for $7.1 million. Summa Academy is a non-public school dedicated to serving students (K-22) with autism and other special needs through individualized education and life-skills development. The Walnut Creek location is the largest of Summa Academy’s three East Bay schools. With this location, the organization has room to expand and provide creative space for its students, including a mock apartment with a laundry room and a kitchen. Colliers managing director Scott Ellis, EVP Larry Easterly and associate Charles Easterly represented Contra Costa Performing Arts School. Larry Easterly and SVP Ben Harrison represented Summa Academy. Given 2730 Mitchell Dr.&#8217;s former use, “it was important to us to preserve the site as an educational resource for the community,” said Larry Easterly. The post Former Performing Arts School Sells to Summa Academy as Its Third Bay Area Campus appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-06-12T20:45:46+00:00",
+      "bullets": [
+        "Summa Academy purchased Walnut Creek school facility for $7.1M; 43.7K SF.",
+        "Buyer is special-needs K-22 education provider; third East Bay campus.",
+        "Conversion from performing arts to special-education use; community asset preserved."
+      ],
+      "summary": "Summa Academy, a non-public school serving students K-22 with autism and special needs, acquired a 43,702-square-foot former performing arts facility in Walnut Creek for $7.1 million. The property includes office space, mock apartment modules (laundry, kitchen), and room for expansion. This is Summa's third location in the East Bay.",
+      "impact": "Minimal direct multifamily impact. However, Walnut Creek's continued redevelopment of aging educational/civic assets signals suburban East Bay market health and institutional investment in workforce development, which may support longer-term population and family formation in the submarket. No bearing on rental demand or development feasibility for market-rate apartments."
+    },
+    {
+      "title": "Sentinel Real Estate Acquires Luxury Apartment Community in Potomac",
+      "link": "https://www.connectcre.com/stories/sentinel-real-estate-acquires-luxury-apartment-community-in-potomac/",
+      "excerpt": "Sentinel Real Estate has acquired The Perry, a luxury multifamily community located at 12430 Park Potomac Avenue in Potomac, Maryland, approximately 10 miles northwest of downtown Washington, D.C. Featuring modern construction, spacious floor plans and high-end interior finishes complemented by a comprehensive indoor and outdoor amenities, The Perry is positioned as one of the premier multifamily communities in the Potomac submarket, which is considered one of the most affluent and desirable submarkets in the U.S. Completed in 2016, The Perry consists of two five-story buildings with a total of 297 units and 8,610 square feet of ground-floor retail space. The property offers a mix of one-, two-, and three-bedroom residences. “The Perry provided a rare opportunity to invest in a residential community that benefits from its irreplaceable location in one of the most sought-after market areas in the country,&#8221; said Sentinel&#8217;s Managing Director George Tietjen. The post Sentinel Real Estate Acquires Luxury Apartment Community in Potomac appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-06-12T20:41:32+00:00",
+      "bullets": [
+        "Sentinel Real Estate acquired The Perry (Potomac, MD) for undisclosed price; 297 units.",
+        "2016 completion; two 5-story buildings + 8.6K SF retail; 1-, 2-, 3-bed mix.",
+        "Potomac is affluent DC submarket; prime location 10 miles NW of downtown."
+      ],
+      "summary": "Sentinel Real Estate acquired The Perry, a 297-unit luxury multifamily community in Potomac, Maryland, completed in 2016. The property features two five-story buildings with modern finishes, ground-floor retail, and a mix of unit sizes. Potomac is one of the nation's most affluent and sought-after residential submarkets proximate to Washington, D.C.",
+      "impact": "Institutional investor confidence in Potomac luxury multifamily remains strong—the submarket's scarcity of developable land, high barriers to entry, and affluent tenant base insulate Class A assets from downside risk. For developers, this signals limited new supply opportunity and high acquisition costs for stabilized assets; ground-up development in adjacent but less-desirable DC submarkets may offer better risk-adjusted returns."
+    },
+    {
+      "title": "Vornado Closes on 49% Stake in Fisher Brothers’ Park Avenue Plaza",
+      "link": "https://www.connectcre.com/stories/vornado-closes-on-49-stake-in-fisher-brothers-park-avenue-plaza/",
+      "excerpt": "Vornado Realty Trust has completed its previously announced acquisition of a 49% interest in Park Avenue Plaza. The 1.2-million-square-foot office property at 55 E. 52nd St. traded at a gross valuation of $1.1 billion, a significant discount to replacement cost. The trophy, Class A office building, co-owned by Fisher Brothers, has protected Park Avenue views and occupies the full through-block between East 52nd and East 53rd streets. The property is located directly across 52nd Street from Vornado’s 350 Park Ave,e development. Park Avenue Plaza is 99% occupied by blue-chip tenants with an 11-year weighted-average lease term and substantially below-market rents. Vornado acquired its interest subject to its share of the $575-million loan encumbering the property that bears interest at a fixed rate of 2.99% and matures in November 2031. Fisher Brothers retains its current 51% ownership interest and continues to manage and lease the property. Vornado and Fisher Brothers have joint control over major decisions. The post Vornado Closes on 49% Stake in Fisher Brothers&#8217; Park Avenue Plaza appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-06-12T20:28:56+00:00",
+      "bullets": [
+        "Vornado acquired 49% stake in Park Avenue Plaza (NYC); $1.1B gross valuation.",
+        "1.2M SF trophy Class A office; 99% occupied, 11-year WALT, below-market rents.",
+        "Subject to $575M loan at 2.99% fixed through Nov 2031; co-ownership with Fisher."
+      ],
+      "summary": "Vornado Realty Trust acquired a 49% interest in Park Avenue Plaza, a 1.2-million-square-foot Class A office building at 55 E. 52nd Street in Manhattan, at a gross valuation of $1.1 billion—a significant discount to replacement cost. The property is 99% occupied by blue-chip tenants with an 11-year weighted-average lease term and rents well below market. Vornado assumed its share of a $575 million loan bearing 2.99% fixed interest through November 2031.",
+      "impact": "Office acquisition at distressed valuations and low fixed-rate debt indicates Vornado's confidence in eventual NYC office recovery, but also signals continued structural headwinds in Manhattan office (below-market rents, limited pricing power). For multifamily developers in NYC, this highlights competition for capital and institutional investor preference for office repositioning/stabilization over new multifamily development—a constraint on construction financing availability and land pricing in competitive submarkets."
+    },
+    {
+      "title": "Tempo Signs HQ Lease in San Diego to Expand Industrial Electrification",
+      "link": "https://commercialobserver.com/2026/06/tempo-signs-hq-lease-in-san-diego-to-expand-industrial-electrification/",
+      "excerpt": "A thermochemical energy company that provides power on demand for heavy industrial users and operators has moved its corporate base to San Diego as it transitions to commercial scale. Tempo signed a lease to take over a 35,000-square-foot facility at 6680 Cobra Way in San Diego’s Sorrento Mesa neighborhood. Montana Avenue Capital Partners owns the asset, records show. Tempo says it will utilize the facility for materials development, engineering, prototype assembly and system testing, and ultimately storing and delivering electricity as thermochemical energy. It helps the cement, chemicals and metals industries, among others, replace combustion and fossil fuels with electrified heat. Tempo said it is also finalizing global gigawatt-scale production capabilities. &#8220;Our new headquarters is built with the infrastructure required for scale,&#8221; Pasquale Romano, CEO of Tempo, said in a statement. &#8220;Industrial electrification is moving to broad deployments, and success depends on factory-built, repeatable products. By delivering high-grade heat at a levelized cost of storage lower than lithium iron phosphate systems, we are making the transition from natural gas to electrified heat an economic &#8216;no-brainer&#8217; for heavy industry.” JLL’s Joe Anderson and Greg Bisconti represented Tempo on the lease. The landlord did not immediately return a request for comment. Gregory Cornfield can be reached at gcornfield@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-06-12T19:30:54+00:00",
+      "bullets": [
+        "Tempo (thermochemical energy/industrial electrification) leased 35K SF HQ in San Diego Sorrento Mesa.",
+        "Facility for materials development, engineering, prototype assembly, system testing.",
+        "Company scales to gigawatt-scale production; services cement, chemicals, metals industries."
+      ],
+      "summary": "Tempo, an industrial electrification company providing on-demand power for heavy industrial users, signed a 35,000-square-foot lease at 6680 Cobra Way in San Diego's Sorrento Mesa neighborhood to serve as its corporate headquarters. The facility will support materials development, engineering, prototype assembly, and system testing as Tempo scales toward gigawatt-scale production capabilities. Tempo helps industries replace fossil fuels with electrified heat.",
+      "impact": "San Diego Sorrento Mesa industrial/flex market strength driven by cleantech and advanced manufacturing. Tempo's HQ relocation and production scale-up signal job creation (skilled engineering/manufacturing roles) and sustained industrial demand in San Diego, supporting regional multifamily absorption among white-collar and technical talent. Future expansion could drive demand for transit-oriented or mixed-use developments near tech hubs."
+    },
+    {
+      "title": "From “Pompa-no to Pompa-now”: Mapping Pompano’s latest development boom",
+      "link": "https://therealdeal.com/miami/2026/06/12/pompano-beach-boom-14-major-real-estate-projects-underway/",
+      "excerpt": "Pompano Beach has woken up to a building boom. The once-sleepy beach town is seeing a surge in new developments as an influx of luxury projects reshape the city’s landscape. Developers have made Pompano Beach the new horizon, bringing brands like the Ritz-Carlton and Waldorf Astoria to the coast, which offers prime South Florida living without Miami or Palm Beach prices.&#160; Over a dozen major developments are underway in the area, including luxury condominiums, a revived downtown and massive apartment complexes. They’re contributing to a citywide transformation that’s drawing more eyes and more money to Pompano Beach.&#160; This map shows [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-06-12T19:14:36+00:00",
+      "bullets": [
+        "Pompano Beach surge: 12+ major developments underway; Ritz-Carlton, Waldorf Astoria branded.",
+        "Fortune International/Oak Capital built Ritz-Carlton (205 units) with $259M construction loan (2023).",
+        "Oceanfront scarcity in South Florida + city cooperation driving luxury residential migration from Miami/Palm Beach."
+      ],
+      "summary": "Pompano Beach is experiencing a major development boom with over a dozen luxury residential, commercial, and civic projects underway. Fortune International Group and Oak Capital developed the Ritz-Carlton Residences Pompano Beach (205 luxury units) with a $259 million construction loan from Bank OZK in 2023. The influx of branded luxury (Ritz-Carlton, Waldorf Astoria) is reshaping Pompano as a lower-cost alternative to Miami and Palm Beach, leveraging limited oceanfront land availability and city development cooperation.",
+      "impact": "Pompano Beach's emergence as a luxury residential destination is cannibalizing high-end demand from Miami and Palm Beach, signaling demographic/wealth shift southward in South Florida coastal markets. Multifamily developers should monitor: (1) whether luxury supply in Pompano saturates and retreats pricing to mid-market levels; (2) spillover demand into secondary/tertiary Broward communities; and (3) potential construction cost inflation driven by competition for skilled trades on Pompano projects."
+    },
     {
       "title": "L.A. Mayor ‘Has Grave Concerns’ Amid Allegations at Homeless Agency",
       "link": "https://commercialobserver.com/2026/06/la-homeless-agency-hud-funding/",
@@ -32,57 +146,27 @@
       "cat": "Commercial",
       "date": "2026-06-12T18:00:42+00:00",
       "bullets": [
-        "HUD suspended funding to Los Angeles Homeless Services Authority over fraud allegations.",
-        "LAHSA failures in financial management and oversight undermine city's homelessness response.",
-        "Funding disruption may force re-allocation of homeless services across L.A. metro."
+        "HUD suspended funding to LA Homeless Services Authority (LAHSA) for alleged fraud/mismanagement.",
+        "LAHSA cited for lack of financial controls, conflicts of interest, false statements.",
+        "LA Mayor Karen Bass expressed grave concerns; impacts homeless services coordination across region."
       ],
-      "summary": "The U.S. Department of Housing and Urban Development suspended federal funding to the Los Angeles Homeless Services Authority (LAHSA) citing repeated false statements, lack of financial controls, and a pattern of fraud in managing homelessness programs. HUD determined it cannot reliably rely on LAHSA to manage, distribute, and monitor federal taxpayer dollars responsibly. Mayor Karen Bass expressed grave concerns about the agency's conduct.",
-      "impact": "Disruption of homelessness services funding in Los Angeles may reduce street encampments and improve public perception of neighborhood safety in key rental submarkets (Downtown LA, Hollywood, Santa Monica), potentially increasing rental demand and supporting rent growth. However, if social services are diverted or cut, concentrated poverty in other areas could depress rents in vulnerable neighborhoods."
+      "summary": "The U.S. Department of Housing and Urban Development suspended federal funding to the Los Angeles Homeless Services Authority due to allegations of fraud, financial mismanagement, lack of internal controls, and conflicts of interest. HUD determined it could not rely on LAHSA to responsibly coordinate, manage, and monitor federal homelessness funding. LA Mayor Karen Bass expressed grave concerns about the findings.",
+      "impact": "Governance crisis at LAHSA undermines regional homelessness services and may worsen street conditions in LA metro. For multifamily developers, increased homelessness and deteriorating urban quality-of-life depress consumer confidence and discourage high-income inflow into dense LA neighborhoods, reducing demand premiums for new market-rate apartment construction. Properties in downtown LA, Hollywood, and Central LA face potential demand headwinds and higher vacancy risk as affluent renters seek safer suburban alternatives."
     },
     {
-      "title": "Construction Launches on Rehab of Historic Brighton Affordable",
-      "link": "https://www.connectcre.com/stories/construction-launches-on-rehab-of-historic-brighton-affordable/",
-      "excerpt": "Construction and restoration have begun on affordable housing units at the historic Warren Hall building in Boston’s Brighton neighborhood, The project is a collaborative effort between Allston Brighton CDC (ABCDC), Schochet, Mayor’s Office of Housing at the City of Boston (MOH), Community Economic Development Assistance Corporation (CEDAC), MassHousing and the Executive Office of Housing and Livable Communities, with private sector equity provided by R4 Capital and Dorfman Capital. Warren Hall, 329-337 Washington St., was built in 1879 and is a historically significant structure in Brighton Center, with 33 apartments on the upper floors to be converted to 35 units and six first-floor commercial bays to be converted to three commercial spaces and two residential ADA-compliant apartments. The building was converted into housing in the 1970s. Following the expiration of the HUD-insured Section 236 mortgage after the initial 40-year period, affordability was not extended by building ownership, and, over the years, the private owner delayed critical repairs, leaving the building in disrepair. Through a collaboration between ABCDC, Schochet, MOH and CEDAC, the building was purchased in 2024 with the goal of repairing the site and reintroducing affordability. The post Construction Launches on Rehab of Historic Brighton Affordable appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-06-12T17:48:07+00:00",
-      "bullets": [
-        "Boston's Warren Hall: 35 affordable units, Section 236 mortgage expired, converted to permanent affordability.",
-        "Collaborative rehab of 1879 historic building in Brighton neighborhood; building was in disrepair.",
-        "Mixed funding: MassHousing, CEDAC, R4 Capital, Dorfman Capital; purchased 2024."
-      ],
-      "summary": "Construction began on the rehabilitation of Warren Hall, a historic 1879 building in Boston's Brighton neighborhood, converting 33 apartments into 35 units plus 2 ADA-compliant units. The 329-unit building, acquired by Allston Brighton CDC and partners in 2024, restores permanent affordability after its original HUD Section 236 mortgage expired and ownership failed to extend affordability restrictions. Financing includes MassHousing, CEDAC, and private equity from R4 Capital and Dorfman Capital.",
-      "impact": "Preservation-driven affordable housing in Brighton signals city's commitment to stabilizing rents in gentrifying neighborhoods near BU/Boston College and Comm Ave corridors. Successful affordable conversion models reduce developer feasibility for market-rate projects in this submarket but may unlock future CVR/adaptive-reuse opportunities in similar obsolete multifamily stock across Boston's inner ring."
-    },
-    {
-      "title": "Paul Singer’s Elliott Management Buys Coconut Grove Hotel",
+      "title": "Paul Singer’s Elliott Management Buys Coconut Grove Hotel for $110M: Updated",
       "link": "https://commercialobserver.com/2026/06/paul-singers-elliott-management-miami-coconut-grove-mayfair-house-hotel-garden/",
-      "excerpt": "Paul Singer’s Elliott Management bought a hotel in Miami’s Coconut Grove neighborhood from Brookfield Asset Management, records show. Called the Mayfair House Hotel &amp; Garden, the property was built in 1982 and includes 180 rooms at 3000 Florida Avenue, adjacent to Virginia Street. A deed filed in Miami-Dade County lists the sale price at $69.4 million. However, Acore Capital provided a $79 million loan to the West Palm Beach-based buyer, suggesting funding for renovations could be included, or that the recorded price may be higher with the deed amount excluding the property’s furniture and operating assets. Brookfield Asset Management purchased the hotel for about $40 million in 2019, The Real Deal reported. In recent years, Elliott Management, which made a name for itself as a bare-knuckle activist investor, has stepped up its real estate holdings. In 2024, the hedge fund paid $450 million for the 32-story 701 Brickell office building. That same year, it also bought 230-room Gates Hotel South Beach. The firm is also a backer of Adi Chugh’s Tyko Capital, which has emerged as a major source of funding for uxury projects across the country, including one in Coconut Grove. Earlier this year, the lender provided a $410 million construction loan for Terra’s 194-unit boutique condo development. Representatives for Elliott Management and Brookfield Asset Management did not immediately provide comment. Julia Echikson can be reached at jechikson@commercialobserver.com.",
+      "excerpt": "Paul Singer’s Elliott Management bought a hotel in Miami’s Coconut Grove neighborhood from Brookfield Asset Management. Called the Mayfair House Hotel &amp; Garden, the property was built in 1982 and includes 180 rooms at 3000 Florida Avenue, adjacent to Virginia Street. The hotel traded for roughly $110 million, according to a representative for Brookfield, which had purchased the asset for about $40 million in 2019, The Real Deal reported. A recent deed filed in Miami-Dade County lists the sale price at $69.4 million, which likely only included the value of the real estate and excluded the property’s furniture and operating assets. Acore Capital provided a $79 million loan to the West Palm Beach-based buyer. In recent years, Elliott Management, which made a name for itself as a bare-knuckle activist investor, has stepped up its real estate holdings. In 2024, the hedge fund paid $450 million for the 32-story 701 Brickell office building. That same year, it also bought 230-room Gates Hotel South Beach. The firm is also a backer of Adi Chugh’s Tyko Capital, which has emerged as a major source of funding for uxury projects across the country, including one in Coconut Grove. Earlier this year, the lender provided a $410 million construction loan for Terra’s 194-unit boutique condo development. Representatives for Elliott Management did not immediately provide comment. Updated: The story was updated to include the $110 million sale figure. Julia Echikson can be reached at jechikson@commercialobserver.com.",
       "source": "Comm. Observer",
       "cat": "Commercial",
       "date": "2026-06-12T17:45:31+00:00",
       "bullets": [
-        "Elliott Management bought Mayfair House Hotel (180 keys) in Coconut Grove for $69.4M.",
-        "Acore Capital provided $79M financing, suggesting $10M+ renovation budget planned.",
-        "Elliott acquired 701 Brickell office tower for $450M in 2024; expanding real estate portfolio."
+        "Elliott Management (Paul Singer) acquired Mayfair House Hotel (Miami Coconut Grove) for ~$110M.",
+        "180-room hotel; Elliott paid ~$40M more than Brookfield's 2019 purchase; refinance debt $79M.",
+        "Elliott holding real estate portfolio (701 Brickell office, Gates Hotel South Beach); active in Miami market."
       ],
-      "summary": "Elliott Management, Paul Singer's activist hedge fund, acquired the Mayfair House Hotel & Garden in Miami's Coconut Grove for $69.4 million from Brookfield Asset Management. Acore Capital issued a $79 million loan, indicating substantial renovation capital. Elliott paid roughly $40 million more than Brookfield's 2019 purchase price, signaling confidence in Miami hospitality recovery and the fund's broader shift into real estate investing beyond activism.",
-      "impact": "Elliott's aggressive Miami hospitality acquisition and renovation spending signals investor confidence in South Florida leisure/tourism demand recovery, but does NOT directly affect multifamily supply or demand. However, heavy capital redeployment into hotel repositioning may reduce equity availability for apartment development in crowded Miami markets; rising cap rates for hotels could suppress multifamily comps if investor allocations shift further away from residential."
-    },
-    {
-      "title": "Cushman & Wakefield Brokers Sale of $12M Midwest Mixed-Use Asset",
-      "link": "https://www.connectcre.com/stories/cushman-wakefield-brokers-sale-of-12m-midwest-mixed-use-asset/",
-      "excerpt": "Cushman &amp; Wakefield has brokered the $12.25 million sale of Monon &amp; Main, a four-story, 34,650-square-foot boutique mixed-use office and retail property located at 211 West Main St. in Carmel, Indiana, a northern suburb of Indianapolis. At $354 per square foot, the transaction set a new high-water mark for office sales in Indiana, according to Cushman &amp; Wakefield research data. Situated in the heart of the Carmel Arts &amp; Design District, Monon &amp; Main was 100% leased at the time of sale. Built in 2018, the property is comprised of 79% office and 21% retail space. Cushman &amp; Wakefield’s Rebecca Wells, Director, Capital Markets, based in the firm’s Indianapolis office, represented the seller, a private partnership led by the Hannum family. The buyer was a private investor. “There was tremendous investor interest in this trophy asset, which may signal the beginning of a thaw in Central Indiana’s commercial office market,” said Wells. Monon &amp; Main is part of a larger mixed-use development that also includes a three-story, 12,000-square-foot steakhouse, seven townhomes and a 200-space parking garage. The post Cushman &amp; Wakefield Brokers Sale of $12M Midwest Mixed-Use Asset appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-06-12T17:45:12+00:00",
-      "bullets": [
-        "Monon & Main mixed-use (79% office, 21% retail) sold for $12.25M in Carmel, Indiana.",
-        "Sale at $354/sf sets new Indiana office-sale record; 100% leased at transaction.",
-        "Carmel Arts & Design District signals investor thaw in Central Indiana commercial market."
-      ],
-      "summary": "Cushman & Wakefield brokered the $12.25 million sale of Monon & Main, a four-story 34,650-sf mixed-use property in Carmel (Indianapolis suburb), at $354/sf—a new Indiana office-sale record. Built in 2018 and 100% leased at sale, the property is 79% office and 21% retail. The transaction indicates renewed investor appetite for trophy assets in Central Indiana's premium submarkets.",
-      "impact": "Rising office-sale comps in Carmel (high-barrier, affluent suburb) do not directly boost multifamily demand but may signal broader investor confidence in Indianapolis metro growth and professional-class in-migration. Carmel's continued upmarket positioning attracts educated workforce; developers should monitor job growth and household formation in Carmel and adjacent north-side suburbs (Fishers, Westfield) for future multifamily expansion windows."
+      "summary": "Elliott Management, Paul Singer's hedge fund, acquired the Mayfair House Hotel & Garden in Miami's Coconut Grove neighborhood for approximately $110 million from Brookfield Asset Management. The 180-room property, built in 1982, traded at a significant premium to Brookfield's ~$40 million 2019 acquisition price. Elliott financed the deal with a $79 million loan from Acore Capital and is building a broader real estate portfolio in Miami (701 Brickell office, Gates Hotel South Beach).",
+      "impact": "Hedge fund capital (Elliott Management) aggressively entering Miami real estate signals institutional conviction on South Florida market recovery and long-term upside. However, Elliott's focus on hotel/office repositioning and value-add indicates disciplined capital allocation favoring near-term yield + upside over speculative new development. For multifamily: elevated institutional competition for trophy assets may increase land pricing, but new apartment development financing remains selective and cap-rate dependent."
     },
     {
       "title": "Billions flow across data center deals despite headwinds",
@@ -92,12 +176,12 @@
       "cat": "Development",
       "date": "2026-06-12T17:41:45+00:00",
       "bullets": [
-        "KKR launched Helix Digital Infrastructure with $10B+ capital; NTT seeks $1B for U.S. projects.",
-        "NTT Global Data Centers planning ~36 projects to double capacity in 2 years.",
-        "Major institutional capital flowing into data centers despite municipal moratoriums nationwide."
+        "KKR launched Helix Digital Infrastructure with $10B capital; ex-AWS CEO leading; Nvidia + Kuwait SWF as partners.",
+        "NTT Global Data Centers seeking $1B to fund US projects; 40+ developments, capacity doubling in 2 years.",
+        "Data center sector attracts massive capital despite municipal moratoriums and environmental concerns."
       ],
-      "summary": "KKR launched Helix Digital Infrastructure, a data center developer-operator with $10+ billion in capital commitments from Nvidia, Kuwait sovereign wealth funds, and others, led by former AWS CEO Adam Selipsky. Simultaneously, Japan-based NTT Global Data Centers is raising at least $1 billion via Citigroup for U.S. expansion, with ~36 projects underway in Oregon, Arizona, and other markets. Both moves signal massive institutional capital deployment into data center development despite growing municipal pushback.",
-      "impact": "Competing mega-capital in data center development may accelerate site acquisition and entitlement in permissive markets (Texas, Arizona, Oregon), driving up industrial land costs and potentially pricing out smaller multifamily developers from high-value industrial parcels. Conversely, municipal data center moratoriums (Charlotte, Monterey Park, Durham, Apex) create uncertainty and may reduce demand for industrial zoning in affected metros, inadvertently increasing availability of shovel-ready industrial sites for adaptive-reuse into logistics-adjacent multifamily or mixed-use projects."
+      "summary": "KKR launched Helix Digital Infrastructure with over $10 billion in capital commitments to develop and operate data centers, partnering with Nvidia, Kuwait's sovereign wealth fund, and Texas power provider Vistra. Former AWS CEO Adam Selipsky leads the business. Meanwhile, Japan-based NTT Global Data Centers is raising at least $1 billion via Citigroup to fund U.S. projects, with nearly three dozen developments in progress aimed at doubling capacity within two years.",
+      "impact": "Massive data center capital deployment (KKR $10B+ and NTT $1B+) signals sustained AI/cloud infrastructure demand despite municipal pushback. For multifamily developers in target data center markets (Arizona, Oregon, Texas, Carolinas): expect labor and material cost inflation as construction demand intensifies; utility and power grid constraints may also limit site feasibility. Secondary benefit: data center employment/payroll growth in regional markets supports multifamily demand, but developer competition for land and labor will remain fierce."
     },
     {
       "title": "AMAC Holdings Sells Adjacent East Village Buildings for $23.5M",
@@ -107,42 +191,12 @@
       "cat": "Commercial",
       "date": "2026-06-12T17:24:27+00:00",
       "bullets": [
-        "AMAC Holdings sold two East Village buildings (11 and 35 units) for $23.5M to AG Paratus.",
-        "Buildings from 1900s; AMAC purchased for $20M in June 2018; $3.5M gain in ~6.5 years.",
-        "AG Paratus/JMH Development buyer; Manhattan East Village multifamily market remains stable."
+        "AMAC Holdings sold two East Village buildings (111 & 113 East 12th St) to AG Paratus for $23.5M.",
+        "Sold for $3.5M profit vs. June 2018 purchase ($20M); 1900s vintage, 11 + 4–5 unit buildings.",
+        "Manhattan East Village multifamily trading; modest value appreciation over 6-year hold."
       ],
-      "summary": "AMAC Holdings' Maurice Kaufman sold two adjacent multifamily buildings at 111 and 113 East 12th Street in Manhattan's East Village for $23.5 million to investment firm AG Paratus. The sale price represents a $3.5 million gain from AMAC's June 2018 purchase of $20 million. The six-story 111 East 12th (11 units + retail) and five-story 113 East 12th (4–5 units) are both turn-of-20th-century buildings.",
-      "impact": "Modest gain on a 6.5-year hold in East Village suggests stable but not explosive multifamily appreciation in prime Manhattan submarkets; investors are taking modest profits rather than holding through continued rent growth. Transaction signals investor confidence in East Village rental fundamentals but also possible market saturation—developers should focus on higher-upside value-add or new-construction plays in secondary Manhattan neighborhoods (Lower East Side, Williamsburg expansion) rather than competing for vintage inventory in saturated East Village."
-    },
-    {
-      "title": "Colliers Closes Sale of 83K-SF Retail Center in Indianapolis",
-      "link": "https://www.connectcre.com/stories/colliers-closes-sale-of-83k-sf-retail-center-in-indianapolis/",
-      "excerpt": "Colliers has closed the sale of Avalon Crossing Shopping Center, an 82,847-square-foot neighborhood retail center at 6935, 6920 and 7002 Lake Plaza Drive in Indianapolis, Indiana. Colliers Capital Markets advisors Alex Davenport, Rachel Patten and Alex Cantu, along with Seth Biggerstaff of Veritas Realty, represented the seller, Landmark Properties. The buyer was Ziff Real Estate Partners. “Avalon Crossing benefits from a highly visible location along Binford Boulevard with direct access to I-69 and strong connectivity throughout the Indianapolis metro area,” said Patten. “Investors continue to pursue well-located neighborhood retail centers that offer stable cash flow, a diverse tenant base and opportunities for future value creation through leasing activity.” Avalon Crossing is home to a mix of national, regional and local retailers, restaurants and service providers, including Starbucks, Dollar Tree, Jimmy John’s, George’s Neighborhood Grill, and Anytime Fitness. Situated near the intersection of Binford Boulevard and 71st Street on the city’s northeast side, the three-building property was 92.63% leased to 18 tenants at the time of sale. The post Colliers Closes Sale of 83K-SF Retail Center in Indianapolis appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-06-12T17:23:07+00:00",
-      "bullets": [
-        "Avalon Crossing Shopping Center (82.8K sf retail) sold in Indianapolis for undisclosed price.",
-        "92.63% leased to 18 tenants (Starbucks, Dollar Tree, Jimmy John's, Anytime Fitness).",
-        "Buyers Ziff Real Estate Partners; strong northeast Indianapolis visibility and highway access."
-      ],
-      "summary": "Colliers closed the sale of Avalon Crossing Shopping Center, an 82,847-sf neighborhood retail center on Indianapolis's northeast side (near Binford Boulevard and I-69 access). The property was 92.63% leased to 18 national, regional, and local retailers at sale. Buyer Ziff Real Estate Partners acquired the three-building asset from Landmark Properties; brokers cited strong location and stable cash flow with future leasing upside.",
-      "impact": "Stable retail center transaction in Indianapolis does not directly drive multifamily demand, but Binford Boulevard corridor and northeast I-69 access are key logistics/employment hubs attracting working-class renters. Consistent retail leasing velocity and buyer interest in Indianapolis neighborhood retail indicate sustained population and consumer spending in the metro; multifamily developers should prioritize North Side/Fishers/Carmel submarkets near I-69 for workforce housing and mixed-use development."
-    },
-    {
-      "title": "367-Key San Antonio Airport Hotel Trades Hands",
-      "link": "https://www.connectcre.com/stories/367-key-san-antonio-airport-hotel-trades-hands/",
-      "excerpt": "Scenic Capital Advisors has acquired the Marriott San Antonio Airport hotel at 77 NE Interstate 410 Loop. The San Antonio Business Journal reports the firm took out a $36.8 million loan from Frost Bank as part of the transaction. Bricton Group was the seller of the 367-key property, which it bought in 2019. It spent $36 million renovating the hotel, which had been a Holiday Inn. Bricton has over 2,500 hotel rooms under management throughout the United States, Other area hotels that have traded recently include a trio of downtown properties. A Dallas firm recently bought the Home2 Suites by Hilton San Antonio Riverwalk, the Sonesta ES Suites was acquired by the San Antonio Housing Trust for an apartment conversion, and the lenders for the Thompson San Antonio &#8211; Riverwalk took over the asset in a foreclosure sale. The post 367-Key San Antonio Airport Hotel Trades Hands appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-06-12T17:22:52+00:00",
-      "bullets": [
-        "Scenic Capital Advisors acquired Marriott San Antonio Airport hotel (367 keys) with $36.8M financing.",
-        "Frost Bank financed; Bricton Group seller (spent $36M on 2019 renovation).",
-        "San Antonio hotel market: concurrent Riverwalk conversions and foreclosures underscore volatility."
-      ],
-      "summary": "Scenic Capital Advisors acquired the 367-key Marriott San Antonio Airport hotel at 77 NE I-410 Loop with a $36.8 million loan from Frost Bank. Seller Bricton Group had purchased the hotel in 2019 and invested $36 million in renovations (converting from Holiday Inn). Concurrently, other San Antonio hotels (Home2 Suites Riverwalk, Sonesta ES Suites) are trading or being converted to apartments, and the Thompson San Antonio Riverwalk went into foreclosure.",
-      "impact": "Mixed hospitality market signals in San Antonio suggest softening demand post-renovation; Scenic's acquisition at a similar loan value to prior capex hints at modest upside or hold strategy. The concurrent Sonesta-to-apartment conversion signals developer interest in hotel-to-multifamily conversion as alternative to new construction; multifamily developers should monitor aging airport/suburban hotels near SAT for conversion opportunities as hospitality oversupply persists and loan maturities tighten."
+      "summary": "AMAC Holdings (Maurice Kaufman) sold two adjacent historic multifamily buildings in Manhattan's East Village to AG Paratus for $23.5 million. The 111 East 12th Street (1900, 11 apartments + retail) and 113 East 12th Street (1900s, 4–5 family units) traded for a $3.5 million gain over AMAC's June 2018 acquisition price of $20 million. JMH Development partnered with AG Paratus on the acquisition.",
+      "impact": "Modest East Village cap rate compression ($20M to $23.5M in 6 years ≈ 2.8% annual appreciation) suggests East Village rent growth has slowed or investor expectations have moderated. For developers: vintage East Village small multifamily assets are trading at lower appreciation rates than peak 2015–2020; new development costs and acquisition land prices in East Village remain elevated relative to near-term rent growth, making ground-up or major redevelopment projects less attractive."
     },
     {
       "title": "Midwood Pays $41M for West Village Retail Swath at 403 Avenue of the Americas",
@@ -152,27 +206,12 @@
       "cat": "Commercial",
       "date": "2026-06-12T16:58:52+00:00",
       "bullets": [
-        "Midwood Investment & Development bought West Village retail portfolio for $41M in cash.",
-        "403 Avenue of the Americas + 405 Ave of Americas + 1 Greenwich Avenue.",
-        "Tenants: Olio E Più, Casey's Flower Studio, Chipotle, Cohen's Fashion Optical."
+        "Midwood Investment & Development bought 403 Avenue of the Americas (West Village, NYC) for $41M cash.",
+        "Retail/storefront property; tenants include Olio E Più, Chipotle, Casey's Flowers, Cohen's Optical.",
+        "Purchased from longtime owner Millsmith (Samco Properties family office); prime West Village location."
       ],
-      "summary": "Midwood Investment & Development, led by John Usdan, acquired a collection of storefronts in Manhattan's West Village for $41 million in cash from long-time owner Millsmith (tied to Samco Properties). The retail portfolio at 403, 405 Avenue of the Americas and 1 Greenwich Avenue sits two blocks northwest of Washington Square Park and is home to Olio E Più restaurant, Casey's Flower Studio, Chipotle, and Cohen's Fashion Optical.",
-      "impact": "Prime West Village retail acquisition by local family-owned operator signals investor confidence in Manhattan prime retail but also indicates consolidation of trophy storefronts into long-term holds rather than new development. For multifamily: limited upside for residential development on these constrained retail sites; developer focus should shift to nearby residential-zoned blocks (Bleecker, Christopher, West 4th corridors) where conversion/redevelopment into small luxury buildings or residential-retail hybrids may be feasible."
-    },
-    {
-      "title": "Space Center Hotel to Close, to Reopen Under New Brand",
-      "link": "https://www.connectcre.com/stories/space-center-hotel-to-close-to-reopen-under-new-brand/",
-      "excerpt": "The Hilton Houston NASA Clear Lake hotel has announced that it will lay off its 65 workers and close on July 31. The hotel will be redeveloped into a Compass by Margaritaville hotel. In August 2025, Nassar Bay Resorts acquired the 242-key hotel for $27 million. The Houston Business Journal reports Nassar Bay Resorts is in charge of the rebranding and reconditioning. The hotel will reopen as the Compass by Margaritaville Nassau Bay. Construction to renovate the property will begin soon after closing in July and is expected to take 12 months. The new hotel will be an upscale offering with restaurants, a lazy river and water amenities. On its website, Compaass by Margaritaville says it hopes travelers will discover spaces inspired by the Caribbean, blending surf-and-sand hues with warm, coastal charm.&nbsp; The hotel is on the banks of Clear Lake, next door to Johnson Space Center, home to NASA Mission Control. The post Space Center Hotel to Close, to Reopen Under New Brand appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-06-12T16:50:34+00:00",
-      "bullets": [
-        "Hilton Houston NASA Clear Lake (242 keys) closing July 31; 65 staff layoffs.",
-        "Nassar Bay Resorts acquired for $27M in August 2025; rebranding to Compass by Margaritaville.",
-        "12-month renovation begins August; hotel reopens as upscale with lazy river, Caribbean aesthetic."
-      ],
-      "summary": "The Hilton Houston NASA Clear Lake, a 242-key airport hotel near NASA Johnson Space Center, will close on July 31, triggering 65 layoffs. Nassar Bay Resorts acquired the property for $27 million in August 2025 and plans a 12-month repositioning into a Compass by Margaritaville upscale property with waterfront amenities (lazy river, restaurants). Renovation construction begins immediately post-closure.",
-      "impact": "Hotel rebranding and repositioning in Clear Lake area does not directly affect multifamily demand; however, Compass by Margaritaville's leisure/resort positioning suggests rising affluence and tourism demand near Johnson Space Center, which could signal underlying job stability and household growth in Nassau Bay/Clear Lake submarkets. Multifamily developers should monitor aerospace/NASA contractor employment trends; sustained job growth could support new-build apartment communities near Johnson Center and tech corridor."
+      "summary": "Midwood Investment & Development, led by John Usdan, acquired a retail property at 403 Avenue of the Americas in Manhattan's West Village for $41 million in cash. The one-story retail buildings at the corner of Greenwich Avenue and Christopher Street include adjacent properties at 405 Avenue of the Americas and 1 Greenwich Avenue. Current tenants include Olio E Più, Chipotle, Casey's Flower Studio, and Cohen's Fashion Optical.",
+      "impact": "Midwood's cash acquisition of West Village retail signifies strong capital and investor appetite for trophy retail real estate in NYC's most affluent neighborhoods. For multifamily: retail land/property scarcity and premium valuations in West Village and surrounding Greenwich Village limit residential redevelopment opportunities; soft hotel/office conversions to residential remain more feasible, but face zoning and community opposition. Retail fundamentals in West Village remain resilient, limiting near-term conversion optionality."
     },
     {
       "title": "Musk’s SpaceX eyes 11M sf “Gigasat” factory in Bastrop County",
@@ -182,12 +221,12 @@
       "cat": "Development",
       "date": "2026-06-12T16:11:28+00:00",
       "bullets": [
-        "SpaceX planning 11M-sf 'Gigasat' factory in Bastrop County east of Austin.",
-        "Facility will produce AI-powered satellites; goal of 6,500 satellites by end 2027.",
-        "Gigasat eclipses Tesla Gigafactory; solar production + satellite manufacturing on FM 1209."
+        "SpaceX plans 11M SF 'Gigasat' factory expansion in Bastrop County (east Austin); satellite/data center manufacturing.",
+        "Facility adds solar ingots/wafers and AI satellite production; goal: 6,500 satellites by end 2027.",
+        "1M SF larger than Tesla Gigafactory; supports xAI, Tesla, SpaceX scaling on ~1,000 acres."
       ],
-      "summary": "SpaceX is expanding a solar production facility on FM 1209 in Bastrop County (east of Austin) to 11 million square feet, exceeding Tesla's nearby Gigafactory by 1 million sf. The \"Gigasat\" will manufacture AI-powered satellites with 150kW computing capacity each, targeting 6,500 launches by end of 2027. Additions include solar ingots/wafers production and AI satellite assembly; operations expected to reach \"reasonable volume\" by Q4 2027.",
-      "impact": "SpaceX's massive industrial footprint expansion in Bastrop County signals sustained demand for skilled manufacturing labor, engineering talent, and blue-collar workforce in Austin metro's eastern corridor. Multifamily developers should prioritize affordable-to-moderate-income housing near Bastrop County (Smithville, Giddings, Bastrop town center) and along I-35 south corridor to capture upstream demand from SpaceX employees, contractors, and supply-chain vendors; this is a 3–5 year window to acquire/entitle projects before land prices spike."
+      "summary": "SpaceX is expanding its Bastrop County facility (east of Austin) to 11 million square feet for satellite and data center manufacturing as part of Elon Musk's plan to deploy AI-powered data centers in orbit by end 2027. The 'Gigasat' will include solar ingots/wafers production and AI satellite assembly, with a goal of launching 6,500 satellites by December 2027. The expansion is larger than Tesla's nearby Gigafactory and leverages approximately 1,000 acres to support manufacturing and production scaling for Musk's companies (xAI, Tesla, SpaceX).",
+      "impact": "SpaceX's massive Bastrop County industrial expansion will drive significant job creation (engineering, manufacturing, logistics) in greater Austin metro, fueling high-skilled labor inflow and wage growth. Expect multifamily demand surge in East Travis County and suburban Austin corridors closest to SpaceX operations (Bastrop, Elgin, possibly Lockhart). Development window is narrow (2026–2027); developers should acquire land and begin planning mixed-use/workforce housing near Gigasat facility before land costs spike."
     },
     {
       "title": "Charlotte giving red light to data center projects for 150 days",
@@ -197,27 +236,12 @@
       "cat": "Development",
       "date": "2026-06-12T16:00:00+00:00",
       "bullets": [
-        "Charlotte City Council approved 150-day moratorium on new data center development.",
-        "Moratorium allows study of environmental/infrastructure impacts; exempts projects with valid permits.",
-        "43 data centers in Charlotte; 93 across North Carolina in 19 markets; Monterey Park issued permanent ban."
+        "Charlotte City Council voted 150-day moratorium on new data center development (effective immediately).",
+        "Pause allows study of environmental/community impacts; applies to new proposals (not valid permits).",
+        "American Tower Corp 40K SF data center next to nature preserve was catalyst; 43 data centers in Charlotte pipeline."
       ],
-      "summary": "Charlotte City Council voted for a 150-day moratorium on new data center projects to study environmental and infrastructure impacts. The pause does not apply to projects with valid building permits or complete applications. The decision was driven by resident opposition to American Tower Corporation's 40,000-sf data center near a nature preserve. Charlotte has 43 active data center developments; North Carolina has 93 across 19 markets, with Durham and Apex also imposing moratoriums.",
-      "impact": "Charlotte data center moratorium reduces uncertainty for multifamily developers competing for industrial zoning and creates a temporary window to acquire well-positioned warehouse/industrial sites for conversion or mixed-use development. However, the pause may also delay infrastructure (power, fiber, water) improvements that benefit surrounding mixed-use development; developers should lobby city to clarify infrastructure investment timeline during the moratorium period to avoid long-term supply constraints on modestly-sized multifamily projects in data-center-sensitive corridors."
-    },
-    {
-      "title": "Local Developer Plans Pair of 99-Unit Resi Buildings on Brooklyn’s Atlantic Avenue",
-      "link": "https://commercialobserver.com/2026/06/moses-karpen-housing-99-units-brooklyn-atlantic-avenue/",
-      "excerpt": "Yet another 99-unit residential building could be going up in New York City as the city’s 485-x incentive forces developers to opt for the sub-100 number rather than pay higher construction wages. Local developer Moses Karpen of Waterfront Property Management has filed plans with the New York City Department of Buildings (DOB) for two new residential buildings at 1029 Atlantic Avenue and the neighboring 1035 Atlantic Avenue in Brooklyn’s Bedford-Stuyvesant neighborhood. The property is currently home to a Meineke Car Care Center and restaurant supply store Acme USA. The plans call for a pair of almost identical side-by-side residential buildings, each with 99 units, for a total of 198 units. Both buildings would rise 18 stories and feature both residential and commercial space. Karpen submitted the plans to the DOB, while Amr Ouda of Jay Architect &amp; Engineering was listed as the registered architect on both plans. Karpen did not immediately respond to a request for comment, while Ouda could not be reached for comment. Both apartment buildings will have a resident lobby, a recreation space, a rooftop space, and apartments on the second through 18th floors. The plans also note some ground-floor commercial space. While it’s unclear if the apartment buildings will be designated as affordable housing, the 99 units planned for each property provides a clue that it could be what’s in store. The 485-x tax incentive program meant to help increase affordable housing supply across New York City comes with a higher construction wage requirement for properties with at least 100 units. As a way to get around the wage requirement but still take advantage of the tax break, developers have been building residential properties with 99 or fewer units. Amanda Schiavo can be reached at aschiavo@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-06-12T15:56:55+00:00",
-      "bullets": [
-        "Moses Karpen (Waterfront Property Management) filing two 99-unit buildings in Bed-Stuy, Brooklyn.",
-        "1029 and 1035 Atlantic Avenue; 18-story twin buildings; 198 units total, mixed-use.",
-        "485-x incentive forces sub-100 unit count to avoid higher prevailing wages."
-      ],
-      "summary": "Local developer Moses Karpen of Waterfront Property Management filed plans with NYC Department of Buildings for two adjacent 99-unit residential buildings at 1029 and 1035 Atlantic Avenue in Brooklyn's Bed-Stuy. The identical 18-story towers will total 198 units plus commercial space, replacing a Meineke Car Care Center and Acme USA supply store. The sub-100 unit count per building reflects NYC's 485-x affordable-housing incentive, which triggers higher prevailing-wage requirements for buildings exceeding 100 units.",
-      "impact": "Proliferation of 99-unit buildings in Brooklyn signals that prevailing-wage thresholds are distorting development density and economics; developers are fragmenting projects to avoid wage costs, ultimately delivering fewer total units per acre and lower overall supply efficiency. For industry: this regulatory arbitrage reduces effective supply delivery and supports rent growth via artificial scarcity, but also signals tight market fundamentals in Bed-Stuy and pressure on developers to maximize feasibility. Monitor comparable 485-x projects citywide; if trend accelerates, it indicates market is strong enough to sustain higher rents despite reduced supply velocity."
+      "summary": "Charlotte City Council enacted a 150-day moratorium on new data center development to study environmental and community impacts. The pause does not apply to projects with valid building permits and complete developmental approval applications. The moratorium was prompted by resident and city opposition to American Tower Corporation's 40,000-square-foot facility adjacent to a nature preserve. Charlotte has 43 data center projects in the pipeline; North Carolina statewide has 93 projects across 19 markets.",
+      "impact": "Charlotte's data center moratorium signals growing municipal resistance to rapid data center proliferation due to environmental and power-grid concerns. For multifamily developers: reduced data center investment and employment inflow into Charlotte over next 6–12 months may soften rental demand growth in near term. However, if moratorium leads to permanent restrictions or relocation of projects to surrounding NC communities (Durham, Raleigh, Cary, Apex), multifamily demand may shift to secondary markets with fewer restrictions, creating opportunity for developers in less-regulated submarkets."
     },
     {
       "title": "Hunington plans $33M multifamily project in booming Fulshear",
@@ -227,42 +251,12 @@
       "cat": "Development",
       "date": "2026-06-12T15:30:00+00:00",
       "bullets": [
-        "Hunington Properties filing 348-unit project in Fulshear, Fort Bend County west of Houston.",
-        "$33M development on 16.4 acres; 12 three-story buildings; construction Sept 2026–March 2027.",
-        "Fulshear ranked 2nd fastest-growing U.S. city (20K+ population) in 2024; part of Jordan Ranch MPC."
+        "Hunington Properties filing 348-unit multifamily project in Fulshear, TX; $33M budgeted; 3700 Jordan Ranch Blvd.",
+        "Fulshear ranked 2nd fastest-growing US city (20K+ pop.) in 2025; construction scheduled Sept 2026–Mar 2027.",
+        "Within Jordan Ranch MPC (Johnson Development); 16.4 acres; single-family sprawl continuing nearby (Hines 3.7K acres)."
       ],
-      "summary": "An LLC linked to Houston-based Hunington Properties filed plans for a 348-unit multifamily development on 16.4 acres at 3700 Jordan Ranch Boulevard in Fulshear, Fort Bend County. The $33 million project will consist of 12 three-story buildings plus clubhouse amenities (pool, dog park, exercise area). Construction is scheduled from September 2026 to March 2027. Fulshear ranked second nationally among fastest-growing cities with 20,000+ population in 2024.",
-      "impact": "Fulshear's explosive population growth (2nd fastest nationally) creates urgent multifamily demand in western Houston metro; existing supply pipeline is dominated by single-family (Johnson Development's Jordan Ranch, Hines' 3,700-acre project starting 2027). Hunington's 348-unit project is undersized relative to demand; developers should fast-track additional projects in Fulshear, Katy, and Alvin to capture workforce housing demand ahead of 2026–2027 single-family buildout. Land values will appreciate rapidly; acquire sites now or risk locked out of the submarket."
-    },
-    {
-      "title": "Developers secure $220M for next Jersey City tower",
-      "link": "https://therealdeal.com/new-york/tristate/2026/06/12/developers-secure-220m-for-next-jersey-city-tower/",
-      "excerpt": "Another massive project is in the works in Jersey City, prodded along by $220 million in construction financing. Stephen Palmese’s Integritas Capital and Jody Kriss’ Kriss Capital provided the debt to developers Kuldeep Kumar and Mohan Myneni for their project at 2966 John F. Kennedy Boulevard, the Commercial Observer reported. Construction is already underway at the development in the Journal Square neighborhood. The project, which is located adjacent to the local PATH station, is planned to include 485 market-rate apartments, 57 affordable housing units, a 154-key Marriott hotel and 34,000 square feet of retail space. Amenities will include a rooftop [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-06-12T14:15:28+00:00",
-      "bullets": [
-        "Integritas Capital + Kriss Capital provided $220M construction financing for Jersey City tower.",
-        "56-story mixed-use: 485 market-rate units, 57 affordable units, 154-key Marriott, 34K sf retail.",
-        "Journal Square location adjacent PATH; 828K sf total; completion 2028; 8 of 56 stories built."
-      ],
-      "summary": "Integritas Capital (Stephen Palmese) and Kriss Capital (Jody Kriss) provided $220 million in construction financing for a 56-story mixed-use development at 2966 John F. Kennedy Boulevard in Jersey City's Journal Square. The 828,000-sf project includes 485 market-rate apartments, 57 affordable units, a 154-key Marriott, and 34,000 sf of retail. Eight stories are already constructed; the developers previously halted work for upsizing/upzoning approval and structural reinforcements. Completion is expected in 2028.",
-      "impact": "Large-scale hotel-residential hybrid in Jersey City signals institutional confidence in Journal Square transformation and PATH-proximate ridership demand. The $220M construction draw demonstrates available debt financing for substantial ground-up projects, though completion in 2028 reflects slower execution pace post-pandemic. Developers should monitor Journal Square's ongoing infrastructure improvements (PATH reliability, streetscape) and competitor Kushner's Centre Pompidou pivot; if the market absorbs 485+ units with stable pricing, additional similar-scale projects may be feasible in adjacent neighborhoods (Tonnele Circle, Greenville)."
-    },
-    {
-      "title": "Grapevine reverses course, clears Trammell Crow’s apartment-hotel project",
-      "link": "https://therealdeal.com/texas/2026/06/12/grapevine-city-council-does-180-on-trammell-crow-plans/",
-      "excerpt": "Grapevine officials are pivoting 180 degrees on approving zoning for a development that would include a multifamily component and a six-story hotel.&#160; Dallas-based Trammell Crow Company’s proposal for several apartment buildings and a hotel at 2800 and 3421 Grapevine Mills Parkway was at first denied, then approved, over the course of two Grapevine City Council meetings, according to the Dallas Morning News.&#160; A council member that could’ve swayed the decision was absent from a May 19 vote, which denied zoning changes so that the development could move forward, according to the outlet. Two council members requested a second vote during [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-06-12T13:00:00+00:00",
-      "bullets": [
-        "Grapevine City Council approved zoning for Trammell Crow's 248-unit apartment project after initial rejection.",
-        "2800 and 3421 Grapevine Mills Parkway; six-story hotel + multiple apartment buildings; 29 acres.",
-        "Mayor noted small-town aesthetic concerns; Trammell Crow has 'stellar track record' in redevelopments."
-      ],
-      "summary": "Grapevine City Council approved zoning for Trammell Crow Company's mixed-use development after initially denying it weeks earlier. The proposal includes 248 apartment units across multiple buildings and a six-story hotel on two parcels (2800 and 3421 Grapevine Mills Parkway) totaling 29 acres near Grapevine Mills shopping mall. An absent council member changed the outcome; on re-vote, two members requested reconsideration, resulting in approval. Mayor William Tate cited Trammell Crow's strong redevelopment track record and noted the land is unsuitable for residential due to airport noise.",
-      "impact": "Grapevine approval signals DFW market's appetite for suburban mixed-use (residential + hospitality) in high-traffic, airport-adjacent corridors despite initial NIMBYism. For Trammell Crow (your firm): win validates patience on entitlements and stakeholder management; approval also unlocks 248-unit supply in a constrained DFW suburb with strong household growth. Developers should monitor Grapevine for follow-on projects; if this towers-and-hotel model succeeds, replicate in other DFW airport-proximity markets (Irving, Coppell, Euless) where noise/zoning constraints limit single-family development but favor denser multifamily/mixed-use."
+      "summary": "Hunington Properties filed plans to develop a 348-unit multifamily project in Fulshear, Texas, west of Houston, at an estimated cost of $33 million. The community will span 444,607 square feet across 12 three-story buildings with amenities including pool/cabana, dog park, and exercise areas. Construction is scheduled for September 2026 through March 2027. Fulshear ranked second nationally among fastest-growing cities with populations over 20,000 last year and is part of Johnson Development's 1,350-acre Jordan Ranch master-planned community.",
+      "impact": "Fulshear's explosive growth (2nd fastest nationally) driven by proximity to Houston and large-scale master-planned development (Johnson, Hines) is creating sustained multifamily demand. Hunington's 348-unit project signals developer confidence in rent absorption and demographic inflow. For investors/developers: land costs in Fulshear and adjacent Fort Bend County submarkets are appreciating rapidly; acquisition windows are closing. Competition for ground-up multifamily sites will intensify; developers should prioritize land control in Jordan Ranch and competing MPCs before 2027 launches exhaust inventory and bid up pricing."
     }
   ]
 }
