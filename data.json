@@ -1,29 +1,194 @@
 {
-  "fetchedAt": "2026-06-15T21:50:39.429462+00:00",
+  "fetchedAt": "2026-06-16T16:11:54.655529+00:00",
   "rates": [
     {
       "label": "SOFR",
-      "value": "3.65%",
-      "pct": 0.05,
+      "value": "3.69%",
+      "pct": 0.04,
       "isBps": true
     },
     {
       "label": "10Y Treasury",
-      "value": "4.47%",
-      "pct": -0.4
+      "value": "4.43%",
+      "pct": -1.31
     },
     {
       "label": "30Y Treasury",
-      "value": "4.97%",
-      "pct": -0.08
+      "value": "4.93%",
+      "pct": -0.84
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "97.82",
-      "pct": -0.7
+      "value": "98.34",
+      "pct": -0.17
     }
   ],
   "stories": [
+    {
+      "title": "Financial Adviser SFA Agency Grows to 14K SF at Rudin’s One Battery Park Plaza",
+      "link": "https://commercialobserver.com/2026/06/sfa-agency-lease-rudin-one-battery-park-plaza/",
+      "excerpt": "Financial advisory firm SFA Agency has expanded its footprint and extended its lifespan at Rudin’s One Battery Park Plaza in Manhattan’s Financial District, Commercial Observer has learned. SFA Agency, which is an affiliate of Northwestern Mutual, signed a 10-year lease extension and expanded by 5,170 square feet at the property to occupy a total of 14,071 square feet across the building’s 25th floor, according to Rudin. The deal represents a relocation within One Battery Park Plaza for the financial services company, which moved onto the building’s 33rd floor in 2023 and occupied an initial 8,901 square feet in a five-and-a-half year deal. SFA Agency will move to its larger space on the 25th floor in early 2027, Rudin said. The asking rent for the new deal was not disclosed, but the average asking rent for office space in Lower Manhattan was $77.76 per square foot in May, according to data from Colliers. Kevin Daly, vice president of office leasing at Rudin, represented the landlord in the deal. “SFA Agency’s long-term extension and expansion is a direct reflection of our commitment to superior customer service,” Daly said in a statement. “As evidenced by the leasing success this year and reaching virtual full occupancy at One Battery Park Plaza, there remains a strong and growing market appetite for well-located and high-quality office space in Lower Manhattan.” Scott Vinett from Savills represented SFA Agency in the lease expansion. “SFA Agency’s decision to expand and extend at One Battery Park Plaza reflects both the continued growth of its business and the strength of the building as a long-term workplace solution,” Vinett said in a statement. Built in 1971, One Battery Park Plaza is a 35-story, 800,000-square-foot office tower overlooking Battery Park. Other tenants in the building include government agency the New York City Independent Budget Office, law firm Skarzynski Marick &amp; Black and talent acquisition software provider Radancy. Amanda Schiavo can b",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-06-16T16:07:24+00:00",
+      "bullets": [
+        "SFA Agency (Northwestern Mutual affiliate) expands 5,170 SF at Rudin's One Battery Park Plaza, Manhattan Financial District",
+        "10-year lease extension; tenant relocates from 33rd to 25th floor in early 2027",
+        "Market signal: Lower Manhattan office at $77.76/SF asking in May; financial services firm commits long-term despite office headwinds"
+      ],
+      "summary": "SFA Agency, a Northwestern Mutual affiliate, signed a 10-year lease extension and expanded by 5,170 square feet at One Battery Park Plaza in Manhattan's Financial District, bringing total occupancy to 14,071 SF on the 25th floor. The tenant previously occupied 8,901 SF on the 33rd floor under a 5.5-year deal signed in 2023. The move signals tenant confidence in Lower Manhattan despite broader office sector weakness, with average asking rents around $77.76/SF.",
+      "impact": "Long-term financial services commitment in Lower Manhattan suggests selective flight-to-quality among large institutional tenants; implies downtown Manhattan Class-A assets retain tenant stickiness and ability to command premium rents, supporting valuations for REIT trophy assets, but also signals broader office-to-multifamily conversion opportunities in secondary/tertiary Manhattan office buildings."
+    },
+    {
+      "title": "Dallas Office Highrise Hits the Market",
+      "link": "https://www.connectcre.com/stories/dallas-office-tower-hits-the-market/",
+      "excerpt": "The Newmark Group has the listing for North Dallas&#8217; Hillcrest Tower, a 168,000-square-foot office property at 12720 Hillcrest along Interstate 635. The property is 97% leased. The Dallas Business Journal reports the 10-story tower has more than 95,000 square feet of new and renewed leases since 2024. Hillcrest Tower was built in 1982. Tenants in the building include primarily medical, real estate and professional services companies. The Dallas County Appraisal District values the land and the building at $17.8 million. No asking price is listed. The property is owned by Albany Road Real Estate, which has held the property since 2017. Albany Road also owns the 448,000-square-foot Mockingbird Towers at 1341 W. Mockingbird Lane in Dallas, which it bought in 2020. Hillcrest Tower is located relatively close to Medical City Dallas, NorthPark Center, Preston Center, Galleria Dallas and is just north of the former Valley View Mall site that could be home to the Dallas Mavericks new arena and entertainment district. The post Dallas Office Highrise Hits the Market appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-06-16T16:06:23+00:00",
+      "bullets": [
+        "Hillcrest Tower, Dallas North (I-635 corridor), 168K SF office; 97% leased, 95K+ SF new/renewed since 2024",
+        "Land and building appraised $17.8M; owner Albany Road held since 2017; 10-story 1982 vintage",
+        "Proximity to Medical City Dallas, NorthPark, and Valley View Mavericks arena site signals upside from entertainment/mixed-use redevelopment"
+      ],
+      "summary": "Hillcrest Tower, a 168,000-SF office highrise in North Dallas near I-635, has been listed for sale at strong occupancy (97%) with over 95,000 SF of new and renewed leases since 2024. The 1982-vintage property is appraised at $17.8M and held by Albany Road Real Estate since 2017. Tenants include medical, real estate, and professional services firms.",
+      "impact": "Dallas North submarket office lease velocity and occupancy strength indicate continued demand from healthcare and professional services, but listing signals owner capital redeployment; proximity to planned Valley View Mavericks arena (mixed-use, entertainment district) creates longer-term land-value uplift risk and potential future multifamily/hospitality conversion catalyst if office demand softens post-arena completion."
+    },
+    {
+      "title": "Nashville’s Population, Business Growth Spur Commercial Real Estate Momentum",
+      "link": "https://commercialobserver.com/2026/06/nashville-commercial-real-estate-development/",
+      "excerpt": "Something is brewing in Nashville. In April, Starbucks announced plans to open a Southeast regional headquarters in Downtown Nashville that will house 2,000 employees. The $100 million investment that will involve leasing the entire 250,000-square-foot Peabody Union building is just the latest example of major corporations from a variety of industries noticing the Music City and gathering plenty of wind at the back of Nashville’s commercial real estate industry. “It has become a pretty balanced economy that isn’t necessarily that reliant on one specific sector of the economy like, say, Dallas or Austin is,” said Andrew Donchez, partner and head of development at SomeraRoad, who leads the investment and development firm’s Nashville office. “Health care is obviously a huge driver, but you’ve also got tons of tech [and] financial services with a number of big companies all looking at Nashville or already here.” Technology companies have increased their presence in Nashville — long known for its thriving health care and music industries — and that tech trend will be amplified once Oracle moves its global headquarters to the city’s East Bank neighborhood. The 70-acre Oracle campus slated for completion around 2031 is part of a $4.5 billion investment by Oracle CEO Larry Ellison to relocate its headquarters from Austin, Texas, creating 8,500 Nashville-area jobs. Music City’s CRE industry received more good news in early June when J.P. Morgan Chase announced expansion plans in Nashville with a 51,000-square-foot lease at 1600 West End Avenue in the city’s Broadwest area. AllianceBernstein was one of the first financial services companies to make a big bet on Nashville in 2018, when the global asset management firm announced it was moving its headquarters there from Manhattan. The company relocated more than 1,000 jobs in a move that was projected to save $80 million per year in overhead and operational costs, according to a 2022 Bloomberg analysis. Amazon also planted a fl",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-06-16T16:00:56+00:00",
+      "bullets": [
+        "Starbucks opening Southeast HQ in Nashville Downtown: 2,000 employees, $100M investment, 250K SF Peabody Union lease",
+        "Nashville adding healthcare, tech, financial services alongside traditional music/entertainment; economy diversifying beyond single sectors",
+        "Corporate HQ anchors signal sustained in-migration and wage-earner growth ahead of broader demand realization"
+      ],
+      "summary": "Starbucks announced plans for a Southeast regional headquarters in Downtown Nashville, committing 2,000 employees and $100 million in investment to lease the entire 250,000-SF Peabody Union building. The move reflects Nashville's emergence as a balanced economy with growing strength in healthcare, technology, and financial services—sectors moving beyond the city's traditional music and entertainment focus.",
+      "impact": "Starbucks HQ relocation to Nashville signals sustained in-migration of corporate jobs and high-income talent; development window is open for multifamily acquisition/underwriting in Nashville submarkets, particularly downtown and surrounding corridors, ahead of secondary and tertiary occupancy waves from employer backfill and family in-migration; rent growth potential significant in next 18–36 months."
+    },
+    {
+      "title": "Bistro Pardon My French Sets Up Shop at Jeff Sutton’s 373 Broome Street",
+      "link": "https://commercialobserver.com/2026/06/pardon-my-french-lease-jeff-sutton-373-broome-street/",
+      "excerpt": "Ooh la la. French-inspired bistro Pardon My French is coming to Manhattan’s SoHo neighborhood after signing a 1,000-square-foot lease at 373 Broome Street, a property owned in a joint venture between Jeff Sutton’s Wharton Properties and Gorjian Real Estate Group, according to broker Meridian Capital Group. The asking rent for the ground-floor retail space was $225 per square foot. The length of the lease, which was signed at the end of April, was not disclosed. Both the landlord and the tenant were represented by Max Freudenberger and Noam Aziz from Meridian. “This deal is a strong signal of where the SoHo/Nolita market stands right now,” Freudenberger said in a statement. “Rents north of $200 per square foot for small-format food and beverage concepts reflect genuine operator confidence in this corridor. Pardon My French is a fantastic fit for the neighborhood, and we’re excited to see them bring their concept to Broome Street.” Pardon My French will close its doors at 103 Avenue B on June 30 following 11 years in the space. The restaurant made the announcement earlier this month via Instagram, but posted a hopeful message about its future on its website. “We are deeply grateful for every meal shared, every conversation held, and every moment spent together,” the eatery wrote on its website. “This is the end of one chapter. But not the end of the story. A new project is already taking shape, and we look forward to welcoming you again soon.” Amanda Schiavo can be reached at aschiavo@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-06-16T15:48:07+00:00",
+      "bullets": [
+        "Pardon My French bistro signs 1K SF ground-floor lease at SoHo's 373 Broome Street (Sutton/Gorjian JV)",
+        "Asking rent $225/SF for small-format F&B; represents high-barrier-to-entry price signal for neighborhood",
+        "Broker cites genuine operator confidence in SoHo/Nolita corridor; tenant relocating from Avenue B after 11 years"
+      ],
+      "summary": "French bistro Pardon My French signed a 1,000-SF ground-floor lease at 373 Broome Street in SoHo at $225/SF. The property is jointly owned by Jeff Sutton's Wharton Properties and Gorjian Real Estate Group. The deal, signed in late April, is notable for the high per-square-foot rent and represents new operator confidence in the SoHo/Nolita corridor, though the lease term was not disclosed.",
+      "impact": "SoHo retail rents north of $225/SF for small-format F&B indicate strong tourism and local demand recovery post-pandemic; signals retail-anchored mixed-use development is viable in Manhattan's gentrified neighborhoods, supporting valuations for ground-floor retail in multifamily developments; however, high rents may cannibalize smaller independents, reducing diversity."
+    },
+    {
+      "title": "Kennedy Wilson, Fairfax Financial Close on $1.65B Take-Private Deal",
+      "link": "https://www.connectcre.com/stories/kennedy-wilson-fairfax-financial-close-on-1-65b-take-private-deal/",
+      "excerpt": "Kennedy-Wilson Holdings, Inc. said Tuesday that Fairfax Financial Holdings Limited had completed its all-cash acquisition of the company. First announced this past February, the privatization deal is valued at $1.65 billion. William McMorrow, chairman and CEO of Kennedy Wilson, and senior management of Kennedy Wilson, collectively known as KW Management Group, maintain effective and operational control of the Beverly Hills-based real estate investment firm and its subsidiaries. Toronto-based Fairfax now has a majority of the economic interest in the company. In addition, Fairfax said Tuesday that a consortium led by KW Management Group and certain Fairfax affiliates has obtained a $1.3-billion term loan facility. Fairfax is providing a standby guarantee on the loan. With the completion of the acquisition, which was approved by Kennedy Wilson shareholders in a special meeting on June 10, Kennedy Wilson shares have ceased trading on the New York Stock Exchange. The post Kennedy Wilson, Fairfax Financial Close on $1.65B Take-Private Deal appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-06-16T15:14:11+00:00",
+      "bullets": [
+        "Fairfax Financial (Toronto) closes $1.65B all-cash take-private of Kennedy Wilson; completed June 2024",
+        "KW Management Group retains operational control; Fairfax holds majority economic interest; $1.3B term loan facility obtained",
+        "Privatization removes KW from public markets; shifts capital allocation flexibility and potential financing costs for future acquisitions"
+      ],
+      "summary": "Fairfax Financial Holdings completed its $1.65 billion all-cash acquisition of Kennedy Wilson, a Beverly Hills-based real estate investment firm. The deal was approved by KW shareholders on June 10. KW Management Group, led by Chairman/CEO William McMorrow, retains operational control while Fairfax holds majority economic interest. A $1.3 billion term loan facility supports the transaction, with Fairfax providing a standby guarantee.",
+      "impact": "KW take-private removes a major publicly traded multifamily REIT from capital markets; Fairfax's long-term hold posture and Canadian ownership may reduce aggressive portfolio recycling and increase hold periods, potentially tightening secondary multifamily asset availability; however, non-public structure allows higher leverage and less quarterly earnings pressure, potentially increasing acquisition appetite in down-market periods."
+    },
+    {
+      "title": "Fifield Pursuing Coral Gables Site for 9-Story Apartment Tower",
+      "link": "https://www.connectcre.com/stories/fifield-pursuing-coral-gables-site-for-9-story-apartment-tower/",
+      "excerpt": "Fifield Cos. is asking the Coral Gables planning board for permission to convert a school property into an apartment project called Chrystal Residences. The company is looking at a 1.47-acre site at 110 Phoenetia Ave, which is home to a 9,280-square-foot special needs facility. The South Florida Business Journal reports Fifield paid $16 million for the property last year. It wants to build a nine-story/93-foot building with 184 residential units for rent and 16 live-work units. There would be a pool deck and amenities on the ninth floor. The building would total 226,193 square feet. The project also includes space for the school. The two-story live-work units would be on the ground floor. The residential units would range from 656 to 1,299 square feet. There would be 88 one-bedroom units, 72 two-bedroom units, and 24 three-bedroom units. Corwil Architects designed the project. Join the region’s leading multifamily owners, developers, investors, lenders, and brokers at Connect Texas Multifamily on August 13 in Dallas for a focused discussion on the market forces redefining Texas real estate. Be in the room with the decision-makers driving deals and growth across Texas. Register today: www.ConnectTXMF2026.com. The post Fifield Pursuing Coral Gables Site for 9-Story Apartment Tower appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-06-16T15:09:52+00:00",
+      "bullets": [
+        "Fifield Cos. seeking entitlement for 184-unit apartment tower at 110 Phoenetia Ave, Coral Gables (1.47 acres)",
+        "9-story/93-foot building; $16M land acquisition (2023); includes 16 live-work units and school facility retention",
+        "Unit mix: 88 one-bed, 72 two-bed, 24 three-bed; 226K SF total; 226K SF includes 88 one-bed, 72 two-bed, 24 three-bed; seeking entitlement approval from planning board"
+      ],
+      "summary": "Fifield Cos. is pursuing entitlement for Chrystal Residences, a 9-story, 93-foot apartment tower on a 1.47-acre former special-needs school site at 110 Phoenetia Ave in Coral Gables. The developer paid $16 million for the property in 2023 and is proposing 184 rental units (88 one-beds, 72 two-beds, 24 three-beds) plus 16 live-work units across 226,193 SF, with pool and amenities on the ninth floor and retained school space.",
+      "impact": "Coral Gables institutional property redevelopment signals strong apartment demand in South Florida and zoning flexibility for mixed-use; successful entitlement would validate school-to-residential conversion model in Miami-Dade submarket; density bonus and live-work component suggest apartment + alternative tenure demand in high-barrier-to-entry South Florida markets."
+    },
+    {
+      "title": "Coke Bottler Completes $84M Orlando Warehouse Upgrade",
+      "link": "https://www.connectcre.com/stories/coke-bottler-completes-84m-orlando-warehouse-renovation/",
+      "excerpt": "Coke Florida has completed an $84 million renovation of an Orlando distribution and bottling center. The 180,000-square-foot facility at 3095 Eunice Ave. was completely gutted and rebuilt to support new state-of-the-art equipment. The Orlando Business Journal reports the upgraded facility includes advanced automated warehouse technology designed to improve efficiency, order accuracy and overall service reliability. Coke Florida operates a nearby 392,000-square-foot facility at 2900 Mercy Drive that was built in 1969. Coke Florida is the sixth-largest Coca-Cola bottler in the U.S. with more than 5,000 employees, four manufacturing facilities and 18 sales and distribution centers across the state. Central Florida is home to nearly 1,000 Coke Florida associates across sales, manufacturing, distribution and professional services. The company ranks as the eighth-largest private beverage fleet in the U.S.,. The post Coke Bottler Completes $84M Orlando Warehouse Upgrade appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-06-16T14:45:17+00:00",
+      "bullets": [
+        "Coke Florida completed $84M renovation of 180K SF Orlando distribution/bottling center at 3095 Eunice Ave",
+        "New automated warehouse tech; facility completely gutted and rebuilt; company also operates 392K SF facility built in 1969",
+        "Coke Florida: 5K+ employees, four manufacturing facilities, 18 distribution centers across state; top beverage fleet operator"
+      ],
+      "summary": "Coke Florida completed an $84 million renovation of a 180,000-SF distribution and bottling facility in Orlando, completely gutting and rebuilding it with advanced automated warehouse technology to improve efficiency and order accuracy. Coke Florida operates a second 392,000-SF facility in Orlando built in 1969 and is the sixth-largest Coca-Cola bottler in the U.S. with 5,000+ employees across four manufacturing and 18 distribution centers statewide.",
+      "impact": "Large-scale industrial capex in Orlando signals strong logistics demand and beverage industry confidence in Florida; modernization of distribution infrastructure typically precedes or follows significant employment growth; increased automation may reduce direct labor but signals larger supply-chain investment in region, supporting industrial multifamily demand nearby and general economic stability in Central Florida."
+    },
+    {
+      "title": "JP Morgan, Freehill Capital Partners Form Industrial Acquisition Joint Venture",
+      "link": "https://commercialobserver.com/2026/06/jp-morgan-freehill-capital-partners-industrial-joint-venture/",
+      "excerpt": "J.P. Morgan continues to push its chips into industrial real estate. Commercial Observer can first report that J.P. Morgan Asset Management and Freehill Capital Partners, an industrial real estate investment firm, announced a new joint venture Tuesday to acquire manufacturing-oriented industrial facilities across Houston and with access to the Port of Houston. J.P. Morgan will hold a 95 percent interest in the joint venture, while Freehill will round out the other 5 percent, according to a release. The amount of investment capital behind the partnership was not disclosed. Chad Tredway, global head of real estate at J.P. Morgan Asset Management, said in a statement that with increased onshoring and reshoring activity across the U.S., as well as the enormous investment demand tied to artificial intelligence and data center infrastructure, manufacturing-oriented industrial real estate is poised to perform well in the long run via “sustained growth.” “This initiative reinforces our strong conviction in the manufacturing sector and provides us an opportunity to create value for our clients and communities,” said Tredway. The joint venture will prioritize industrial sites with high power capacity, strong truck access, crane-ready functionality and outdoor storage, and will seek to invest in the maintenance and modernization of these buildings, according to a release. “With limited new supply and tenant needs increasingly centered on specialized features, we look forward to identifying opportunities for our investors in a segment that can be difficult to access at scale,” said Preston Meyer, portfolio manager at J.P. Morgan Asset Management. The joint venture is already getting busy. The JP Morgan and Freehill partnership announced that it acquired a 30,000-square-foot industrial building that sits on 2.3 acres at 18401 Intercontinental Crossing Drive in North Houston. Terms of that deal were not disclosed. Adam Hawkins, president of Freehill Capital Partners, said in a st",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-06-16T14:43:54+00:00",
+      "bullets": [
+        "JP Morgan Asset Management and Freehill Capital Partners form JV for manufacturing-oriented industrial acquisitions; Houston/Port of Houston focus",
+        "JP Morgan holds 95% interest; Freehill 5%; investment amount not disclosed; targets onshoring/reshoring beneficiaries",
+        "Rationale: onshoring, reshoring, AI, and data-center infrastructure drive long-term manufacturing industrial growth thesis"
+      ],
+      "summary": "JP Morgan Asset Management and Freehill Capital Partners announced a new joint venture to acquire manufacturing-oriented industrial facilities in Houston with Port of Houston access. JP Morgan holds a 95% interest and Freehill holds 5%. The partnership positions to capitalize on onshoring, reshoring, and AI/data-center infrastructure investment trends, though the total investment capital was not disclosed.",
+      "impact": "JP Morgan's manufacturing-industrial focus in Houston signals institutional belief in onshoring/reshoring durability and Port of Houston logistics value; increased capital chasing industrial in Houston may raise land and asset prices, squeezing development margins; however, port-adjacent industrial demand creates stable industrial real estate values that de-risk nearby multifamily anchors and reduce supply-chain-disruption uncertainty for multifamily financing."
+    },
+    {
+      "title": "Investor Offloads Dunwoody Office Park for $27M",
+      "link": "https://www.connectcre.com/stories/investor-offloads-dunwoody-office-park-for-27m/",
+      "excerpt": "Grubb Properties sold the 284,000 square foot Park at Perimeter Center East to Network Realty Partners for $27.15 million. The Atlanta Business Chronicle reports Grubb is moving its Atlanta office from that Dunwoody property to an office it owns at 2400 Lake Park Drive in Smyrna. Grubb Properties paid $32.65 million for the 19.4-acre site in 2015 and has since tried to redevelop the property, but its plans have never been approved by local officials. Grubb Properties unveiled plans in 2018 for 900 for-sale condos and 500,000 square feet of office space just east of Perimeter Mall and north of Interstate 285, but it never moved forward. Tenants at Park at Permiter Center East include the Alzheimer&#8217;s Association, Assurance Financial, Bedrock Homes, the Consulate General of Argentina and Hanyard Law Office, P.C. The post Investor Offloads Dunwoody Office Park for $27M appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-06-16T14:04:20+00:00",
+      "bullets": [
+        "Grubb Properties sold 284K SF Park at Perimeter Center East (Dunwoody, Atlanta) for $27.15M to Network Realty Partners",
+        "Grubb paid $32.65M in 2015; sought redevelopment (2018 plan: 900 condos, 500K SF office) but never gained local approval",
+        "Sale at 17% loss over 9 years signals office redevelopment failure and capital redeployment to company's own office (Smyrna)"
+      ],
+      "summary": "Grubb Properties sold the 284,000-SF Park at Perimeter Center East in Dunwoody to Network Realty Partners for $27.15 million, a loss from its $32.65 million purchase in 2015. Grubb had attempted redevelopment in 2018 with a plan for 900 for-sale condos and 500K SF of office space but never secured local approval. Grubb is relocating its Atlanta office to a property it owns in Smyrna.",
+      "impact": "Dunwoody office-park sale at loss after failed redevelopment signals weak office-to-residential conversion economics in suburban Atlanta periphery and local zoning resistance; sale-at-loss indicates office asset values eroding faster than cap-rate expansion can offset; Grubb's capital redeployment out of peripheral office to owned asset suggests opportunity for multifamily developers to acquire underperforming office parks at distressed prices in Atlanta suburbs, though zoning friction remains a risk."
+    },
+    {
+      "title": "Thiago da Costa of Procore: 5 Questions",
+      "link": "https://commercialobserver.com/2026/06/thiago-da-costa-procore-ai/",
+      "excerpt": "In May, construction technology giant Procore announced it had introduced a new suite of agentic artificial intelligence to expand its Procore AI platform. The added AI is powered by Datagrid Intelligence, a company Procore acquired in January, and which it has now integrated into its tech platform. The expanded platform introduces AI capabilities for high-friction construction workflows, including submittals, requests for information, contract reviews, and searches across drawings and specifications. The added AI is designed to execute work directly inside Procore using new “actions” and “triggers” capabilities that can coordinate workflows and respond automatically to project events. Thiago da Costa, senior vice president of AI and data at Procore, and former founder and CEO of Datagrid, spoke with Commercial Observer in May about Datagrid’s integration and what it means for Procore’s construction clients. This interview has been edited for length and clarity. Commercial Observer: Procore has added an agentic AI to its platform with the acquisition of Datagrid. What does that mean for clients, practically? Tiago da Costa: Taking a step back, Procore is the dominant record and system of action in construction. The majority of general contractors leverage Procore to build and to execute projects. What we are seeing with the advent of AI is how do we get rid of repetitive work people need to be doing that is also complex and requires them to think through that work. Engineers, project managers, all those folks are working inside Procore. They&#8217;re trying to cross-reference the documents and execute the project, making decisions where every decision has a huge impact on financial, labor, cost, schedule and so on. So, what we&#8217;re trying to do for our builders is to bring the best AI solution into that. Since the acquisition, we worked in record time to bring state-of-the-art AI technology and workflows inside the Procore environment, because the majority of th",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-06-16T13:00:44+00:00",
+      "bullets": [
+        "Procore (construction tech) integrated Datagrid Intelligence acquisition into AI platform; released agentic AI suite in May",
+        "New AI handles submittals, RFI, contract reviews, drawing searches; includes 'actions' and 'triggers' for workflow automation",
+        "Procore dominates construction software; AI expansion targets high-friction workflows to reduce project friction and speed decision cycles"
+      ],
+      "summary": "Construction technology company Procore introduced an expanded agentic AI platform in May, powered by Datagrid Intelligence (acquired January 2024). The AI adds capabilities for automating submittals, requests for information, contract reviews, and drawing/specification searches, with new \"actions\" and \"triggers\" that coordinate workflows and respond to project events automatically. Procore is the dominant construction software platform serving the industry.",
+      "impact": "Procore's AI-driven workflow automation will compress construction timelines and reduce RFI/submittal delays, lowering soft costs for apartment developers; faster project delivery could accelerate multifamily supply growth if labor remains available; however, workflow automation may also expose labor bottlenecks (trades, inspectors) that AI cannot solve, potentially capping time savings and limiting supply acceleration."
+    },
+    {
+      "title": "Stars CEO says tear down American Airlines Center once teams leave",
+      "link": "https://therealdeal.com/texas/2026/06/15/stars-ceo-says-tear-down-american-airlines-center/",
+      "excerpt": "Dallas Stars CEO Brad Alberts is pitching a plan for what should happen when the Stars and Mavericks leave the 25-year-old American Airlines Center: rip it down to the studs.&#160; In an interview with the Dallas Business Journal, Alberts endorsed the idea that once the Mavs and Stars vacate their long-time downtown Dallas home, it should be demolished. Three arenas within 15 miles of each other is too much, Alberts said, which would be the scenario after the NBA and NHL franchise teams build their own stadiums. The Mavericks have publicly committed to Valley View for their new arena, which [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-06-15T22:13:25+00:00",
+      "bullets": [
+        "Dallas Stars CEO Brad Alberts endorses demolishing American Airlines Center once teams leave (leases expire 2031)",
+        "Mavericks committed to Valley View arena; Stars to Plano arena/entertainment complex ($3B, Centennial/Cawley/Plano deal); three arenas within 15 miles deemed excessive",
+        "Plano offering Stars 100% revenue control; City Council approved; traffic studies and prep underway for 2031+ construction"
+      ],
+      "summary": "Dallas Stars CEO Brad Alberts stated that the American Airlines Center should be demolished once the Stars and Mavericks leave for new facilities. Both teams' leases expire in 2031. The Mavericks are committed to Valley View (within Dallas city limits), and the Stars are committed to a new $3 billion arena-and-entertainment complex in Plano, with Plano City Council approval and Centennial Real Estate/Cawley Partners as developers. Alberts noted three arenas within 15 miles would be excessive.",
+      "impact": "AAC demolition plan signals major downtown Dallas real estate disruption post-2031; loss of arena as anchor tenant and employment hub will pressure downtown residential and retail demand; however, Valley View Mavericks arena and Plano Stars complex create massive mixed-use development pipelines that will attract new demographic and spending anchors; multifamily developers should evaluate downtown Dallas conversion/ground-up opportunities in anticipation of AAC demolition and simultaneous entertainment-district construction in Valley View and Plano."
+    },
     {
       "title": "Massachusetts relaunches effort to redevelop Boston Government Center",
       "link": "https://therealdeal.com/national/boston/2026/06/15/massachusetts-restarts-overhaul-of-boston-government-center/",
@@ -32,117 +197,12 @@
       "cat": "Development",
       "date": "2026-06-15T21:30:00+00:00",
       "bullets": [
-        "Massachusetts relaunches 6.5-acre Boston Government Center redevelopment after 2024 collapse.",
-        "Previous $1B mixed-use plan (Leggat McCall, 2022) killed when life sciences market tanked.",
-        "New RFP requires affordability; 115 mental health beds must remain on-site or relocate nearby."
+        "Massachusetts relaunches Boston Government Center redevelopment (6.5-acre West End site); offering memo released for Lindemann and Hurley buildings",
+        "Previous 2022 Leggat McCall deal ($1B mixed-use, 200 units, lab space) collapsed when life sciences market crashed",
+        "Hurley Building 347K SF (empty); Lindemann 1960s-vintage needs $300M+ capex; 115 mental health beds must relocate or stay on-site; affordability requirements mandated"
       ],
-      "summary": "Massachusetts is re-marketing the Erich Lindemann Mental Health Center and Charles F. Hurley Building (6.5 acres, West End Boston) after a $1 billion mixed-use redevelopment by Leggat McCall collapsed in 2024 when the life sciences sector imploded. The 347,000-sf Hurley Building is vacant; the Lindemann center still operates 115 psychiatric beds. New RFP due summer 2025 will require affordability components and adaptive reuse. Capital needs exceed $300 million.",
-      "impact": "This signals Boston's difficult office-to-residential conversion pipeline. Life sciences collapse freed the site but also reduced speculative capital willingness; any winning developer will face hard affordability mandates and operational complexity (mental health services continuity), narrowing margins. For multifamily focused on dense urban infill, the slow, mission-constrained path here (vs. greenfield) shows why neighborhood-scale value-add plays remain more feasible than large civic repositioning in Boston."
-    },
-    {
-      "title": "SVN | Chicago Facilitates Sale of Two-Story Industrial Property",
-      "link": "https://www.connectcre.com/stories/svn-chicago-facilitates-sale-of-two-story-industrial-property/",
-      "excerpt": "SVN | Chicago Commercial facilitated the sale of an 18,000-square-foot industrial property at 3450 N. Kostner Avenue in Chicago for $1.43 million. Industrial Advisor Tim Newberg represented the seller in the transaction. The buyer, a Canadian millwork company, acquired the property to support its expansion into the Chicago market. The two-story building features high ceilings, heavy power, functional loading, and convenient access to major expressways and public transportation. &#8220;Infill industrial assets with heavy power, functional loading, and strong transportation access continue to attract significant demand,&#8221; said Newberg. &#8220;Properties like this are increasingly difficult to replace, making them highly attractive to owner-users seeking long-term operational stability.&#8221; The sale reflects continued demand for functional industrial facilities in Chicago, particularly among owner-users seeking space that can immediately support manufacturing and operational growth. The post SVN | Chicago Facilitates Sale of Two-Story Industrial Property appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-06-15T21:25:41+00:00",
-      "bullets": [
-        "Canadian millwork company acquires 18K-sf Chicago industrial property for $1.43M.",
-        "Buyer seeks expansion into Chicago market; heavy power, functional loading critical.",
-        "Infill industrial with irreplaceable functional specs driving owner-user demand and pricing."
-      ],
-      "summary": "A Canadian millwork manufacturer bought an 18,000-sf two-story industrial building at 3450 N. Kostner Ave., Chicago for $1.43 million to support its Midwest expansion. The property offers heavy power, functional loading, and direct expressway/transit access. The broker noted scarcity of such assets for owner-occupants needing immediate operational readiness.",
-      "impact": "Minimal direct impact on multifamily. Story reflects tight Chicago infill industrial market and owner-user consolidation (not investment play), signaling healthy regional demand for manufacturing/distribution but not relevant to apartment development."
-    },
-    {
-      "title": "Michael Puline: Principal’s Mindset is Essential to Modern Brokerage",
-      "link": "https://www.connectcre.com/stories/michael-puline-principals-mindset-is-essential-to-modern-brokerage/",
-      "excerpt": "Retail real estate veteran Michael Puline has joined Marcus &amp; Millichap to guide the strategic growth of Marcus &amp; Millichap&#8217;s and Institutional Property Advisors’ (IPA) retail divisions and lead the company’s retail investment sales professionals, helping to ensure seamless execution and client service delivery. He brings a 25-year track record of closing more than 2,500 leasing and sale transactions totaling $8.5 billion. Connect CRE sat down with Puline to delve into the factors that brought him to his new role. Q: You spent the past two decades on the principal side — running a diverse national portfolio at DLC, then nearly a decade leading retailer strategy inside a Blackstone-owned platform. What made now the right moment to cross over to brokerage, and how does sitting on both sides of the table change the way you&#8217;ll lead the retail division at Marcus &amp; Millichap and Institutional Property Advisors (IPA)? A:&nbsp;I joined Marcus &amp; Millichap&nbsp;and&nbsp;IPA because&nbsp;I believe we&nbsp;are at&nbsp;a pivotal&nbsp;point&nbsp;where&nbsp;human intelligence&nbsp;and,&nbsp;combined&nbsp;with advanced technology,&nbsp;will&nbsp;fundamentally reshape&nbsp;the marketplace.&nbsp;Given the firm’s leadership&nbsp;in transaction&nbsp;activity, it is the perfect platform for me to apply my&nbsp;expertise, skills, and relationships.&nbsp; The decision to move now was driven by my belief that the brokerage of the future requires more than just execution-focused management; it requires a principal’s perspective. This means seeing beyond the property itself to understand the capital stack, operational challenges, and long-term business strategy. My goal is to help clients navigate complex operational, capital, and strategic decisions while bringing the added perspective gained from decades on the ownership side of the business. Q: Marcus &amp; Millichap is the largest investment-sales firm in the country by transaction count, with a deep private-c",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-06-15T21:20:16+00:00",
-      "bullets": [
-        "Retail veteran Michael Puline joins Marcus & Millichap after 25 years as principal.",
-        "Puline closed 2,500+ transactions totaling $8.5B; led retail strategy at Blackstone.",
-        "M&M betting on principal's mindset and tech-plus-services hybrid model in retail."
-      ],
-      "summary": "Marcus & Millichap hired retail real estate executive Michael Puline as head of retail investment sales, bringing 25 years of experience (2,500+ deals, $8.5B volume) spanning principal roles and a Blackstone-backed platform. Puline argues brokerages must blend principal's operational and capital-stack thinking with technology to stay competitive.",
-      "impact": "Not directly relevant to multifamily development. Story reflects brokerage/service-provider consolidation and positioning in retail, not apartment demand, supply, or capital signals."
-    },
-    {
-      "title": "Kalibrate’s CEO on Blending Services, Software in Location Analytics (VIDEO)",
-      "link": "https://www.connectcre.com/stories/kalibrates-ceo-on-blending-services-software-in-location-analytics-video/",
-      "excerpt": "When&nbsp;Kalibrate&nbsp;CEO Charles Wetzel got his start in&nbsp;the&nbsp;location&nbsp;analytics business&nbsp;in the 2000s, it was&nbsp;almost exclusively&nbsp;a services business.&nbsp;More recently, software has come into the picture.&nbsp;&#8220;The nice thing with software is that software has allowed us to pivot and produce analysis much quicker,” Wetzel told Connect CRE in an onsite interview at ICSC Las Vegas. “A lot of people&nbsp;initially&nbsp;assumed that you could do it with software alone.&nbsp;&nbsp; “But I think what we&#8217;ve found over the years is that while you theoretically&nbsp;can do&nbsp;services only or software only, if you can blend the two together and bring the art and science together and leverage the power of technology, the solution not only lasts longer but is more robust in the delivery,” he continued.&nbsp; Watch the video below for Wetzel’s insights into the following questions:&nbsp; How Kalibrate’s blend of expertise and technology outperforms standalone software or consulting An example of Kalibrate uncovering market potential that a restaurant or retail client might otherwise have missed How Kaibrate is evolving its data models and analytics to help clients anticipate structural changes instead of just reacting to them How Kaibrate is evolving its data models and analytics to help clients anticipate marrket changes instead of just reacting to them The post Kalibrate&#8217;s CEO on Blending Services, Software in Location Analytics (VIDEO) appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-06-15T21:16:10+00:00",
-      "bullets": [
-        "Kalibrate CEO Wetzel emphasizes blended services-plus-software model for location analytics.",
-        "Software accelerates analysis speed; hybrid approach outperforms pure software or consulting.",
-        "Clients use data to anticipate structural market changes, not just react."
-      ],
-      "summary": "Kalibrate CEO Charles Wetzel discussed how blending location analytics software with expert services outperforms standalone models. Software speeds analysis; combining human expertise with tech enables clients to anticipate market shifts (e.g., restaurant/retail expansion potential) rather than respond retroactively.",
-      "impact": "Peripheral to multifamily development. Story is about tech/analytics vendor positioning, not about housing supply, demand, capital, or costs. May inform site selection rigor for multifamily developers, but no second-order market effect."
-    },
-    {
-      "title": "Krusinski Construction Starts Work on 32K-SF Addition to Aurora Distribution Hub",
-      "link": "https://www.connectcre.com/stories/krusinski-construction-starts-work-on-32k-sf-addition-to-aurora-distribution-hub/",
-      "excerpt": "Krusinski Construction Company (KCC) has begun the construction of a 32,000-square-foot addition to the Loaves &amp; Fishes Community Services Food Distribution Hub at 580 Exchange Court in Aurora, Illinois. With this addition, the building will expand to 62,000 square feet. The 32,000-square-foot expansion will create greater storage capacity, improved distribution efficiencies, and enhanced collaboration capabilities with partner pantries through shared resources and co-buying opportunities. Members of the Krusinski Construction team include Greg Krucek, Senior Project Manager; Siddy Gupta Katkam, Project Engineer; Paul Gabriel, Project Superintendent; and Erin Anderson, Project Coordinator. Other members of the team include Powers Brown Architecture as the project architect and Cage Civil Engineering as the civil engineer. “The phasing of the project has been designed and will be executed to prioritize safety, minimize disruption to staff and volunteer operations during construction, and maximize the overall construction process,” said Krucek. The post Krusinski Construction Starts Work on 32K-SF Addition to Aurora Distribution Hub appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-06-15T21:15:54+00:00",
-      "bullets": [
-        "Krusinski Construction begins 32K-sf addition to Loaves & Fishes food distribution hub, Aurora, IL.",
-        "Expansion lifts total building to 62K sf; improves storage and operational efficiency.",
-        "Project prioritizes phasing to minimize disruption to food pantry operations."
-      ],
-      "summary": "Krusinski Construction broke ground on a 32,000-sf addition to the Loaves & Fishes Community Services Food Distribution Hub in Aurora, Illinois, expanding the facility from 30K to 62K square feet. The project increases storage, distribution efficiency, and co-buying capacity for partner pantries. Design emphasizes operational continuity during construction.",
-      "impact": "No material impact on multifamily development. This is community-focused nonprofit infrastructure (food distribution); no bearing on residential demand, supply, capital, or costs."
-    },
-    {
-      "title": "The Malin Establishes NoHo Presence with GFP Real Estate",
-      "link": "https://www.connectcre.com/stories/the-malin-establishes-noho-presence-with-gfp-real-estate/",
-      "excerpt": "The Malin, a hospitality-driven workspace operator, has signed a long-term lease for the entire fifth floor at GFP Real Estate&#8217;s 10 Astor Place in NoHo. The tenant will occupy approximately 19,400 square feet at the historic office property under a 15-year lease. The company plans to transform the full floor into a design-led workspace destination featuring private offices, dedicated desks, meeting rooms and hospitality-focused amenities. As part of the project, The Malin will also redesign the building&#8217;s lobby, extending its design language beyond the fifth floor. Together with the fitness amenity located directly below, the new workspace will contribute to a more cohesive ecosystem of work, wellness and community within the building, according to GFP. David Kaye and Neith Stone of GFP represented ownership. John Mears of Rue represented The Malin, which is expected to take occupancy in the first quarter of 2027 following completion of its custom buildout. The post The Malin Establishes NoHo Presence with GFP Real Estate appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-06-15T21:10:07+00:00",
-      "bullets": [
-        "The Malin (hospitality workspace operator) signs 15-year lease for 19.4K sf in NoHo, NYC.",
-        "Entire 5th floor at 10 Astor Place; design-led amenities, fitness integration.",
-        "Occupancy Q1 2027; redesigned lobby extends brand ecosystem across building."
-      ],
-      "summary": "The Malin, a hospitality-focused workspace operator, leased the entire 5th floor (19,400 sf) at 10 Astor Place in Manhattan's NoHo for 15 years. The tenant will create private offices, dedicated desks, and wellness amenities; redesign will extend to the building's lobby. Move-in expected Q1 2027.",
-      "impact": "Not relevant to multifamily development. Story concerns office-to-premium-workspace conversion and hospitality branding, not residential supply, demand, or capital markets."
-    },
-    {
-      "title": "Stockdale’s Andrew Saba On Medical Real Estate’s Supply-Demand Imbalance",
-      "link": "https://commercialobserver.com/2026/06/stockdale-andrew-saba-medical-health-care/",
-      "excerpt": "Health care-related property has become one of the commercial real estate industry’s more in-demand niches and safe harbors, and now it’s become one of its more competitive hunting grounds. Los Angeles-based Stockdale Capital Partners has been building into that demand since launching its open-ended health care fund in 2023. Since then, Stockdale’s health care platform, led by managing director Andrew Saba, has expanded to other markets around the country including Phoenix, Austin, and Fairfax, Va. The thesis is relatively straightforward: Demand for outpatient care is still rising, the U.S. population is aging, and new supply has become increasingly difficult to deliver. Construction costs, labor expenses and capital markets pressure have pushed projects back or stopped them altogether, all while medical tenants need more space near patients and health systems. That imbalance has made medical outpatient buildings more attractive to institutional capital, real estate investment trusts and newly formed joint ventures. And Stockdale sees rent growth, strong occupancy, long-term leases and more competition for the best properties. Commercial Observer spoke with Saba about Stockdale’s national health care strategy, the supply-demand imbalance, and how artificial intelligence could eventually reshape the way health care tenants use space. The following has been edited for length and clarity. Commercial Observer: Tell me about Stockdale’s approach and your view of the market and the general fundamentals. Andrew Saba: High level, the fundamentals of the sector have not changed. We’re seeing a continued demand for outpatient space across the country, and our collective thesis is that that will be bolstered by the aging population that’s currently in place and is expected to peak over the next four to six years. Stockdale launched an open-ended health care fund about three years ago and has expanded across the country. Can you talk about how the strategy has evolved, or has ",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-06-15T20:40:46+00:00",
-      "bullets": [
-        "Stockdale Capital Partners expanding healthcare fund (launched 2023) to Phoenix, Austin, Fairfax.",
-        "Aging population, rising outpatient demand; new supply constrained by costs, labor, capital.",
-        "Supply-demand imbalance driving rent growth, occupancy, long-term leases; institutional capital flooding in."
-      ],
-      "summary": "Los Angeles-based Stockdale Capital Partners, which launched an open-ended healthcare fund in 2023, is expanding across Phoenix, Austin, and Fairfax, Virginia. The thesis: demand for outpatient care is rising (aging U.S. population) while new supply is choked by construction costs, labor constraints, and capital market pressure. Result: strong rent growth, occupancy, and lease terms attracting institutional capital and REIT interest.",
-      "impact": "Moderate indirect relevance. Healthcare real estate's supply tightness and capital inflow signal investor confidence in non-apartment commercial niches; however, it doesn't affect multifamily supply, demand, or financing directly. Note: healthcare's cited cost/labor constraints mirror multifamily challenges, suggesting economy-wide construction pressure."
-    },
-    {
-      "title": "2026 CMBS Cap Rates Range From 5.41% to 8.02%",
-      "link": "https://commercialobserver.com/2026/06/2026-cmbs-cap-rates/",
-      "excerpt": "CRED iQ analyzed $26.1 billion of the most recently issued loans securitized in 2026 across commercial mortgage-backed securities (CMBS) conduit, single-asset, single-borrower (SASB), Freddie Mac and commercial real estate collateralized loan obligation transactions. The data exposes a market split cleanly in two. On a balance-weighted basis, the average cap rate on newly originated collateral now sits almost exactly on top of the average mortgage coupon, meaning the typical 2026 borrower is financing at roughly zero positive leverage. Where a property sits relative to that line depends almost entirely on property type. Within subtypes, the dispersion widens further. Super-regional malls priced at an 8.94 percent weighted cap rate — nearly 250 basis points (bps) above anchored retail centers at 6.48 percent — while garden multifamily (5.51 percent) and multifamily cooperatives (4.89 percent) anchored the low end. Property types financing at negative leverage. Every “favored” income sector is now borrowing through its cap rate. Manufactured housing (minus 86 bps), mixed-use (minus 43 bps), self-storage (minus 35 bps), industrial (minus 30 bps) and multifamily (minus 19 bps) all carry coupons above their going-in yields. Sponsors are explicitly underwriting net operating income growth — or betting on lower refinancing rates — to make the math work. In contrast, hospitality (plus 124 bps), office (plus 95 bps) and retail (plus 20 bps) are the only sectors still delivering positive leverage, compensation for the credit risk that lenders perceive there. How conservative is office and hotel underwriting? Extremely. Office loans that cleared the securitization market in 2026 carry a 13.8 percent weighted NCF debt yield and just 55.4 percent cutoff loan to value (LTV) — the most conservative credit profile of any major sector. Hospitality runs nearly identical at a 13.8 percent debt yield. Only well-leased, low-leverage office is getting financed, while everything else rema",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-06-15T20:13:33+00:00",
-      "bullets": [
-        "CRED iQ analyzed $26.1B 2026 CMBS originations; cap rates range 5.41% to 8.02%.",
-        "Multifamily (garden 5.51%, coops 4.89%) anchor low end; super-regional malls 8.94%.",
-        "Favored sectors (manufactured, mixed-use, self-storage, industrial, multifamily) borrowing above cap rate—zero positive leverage."
-      ],
-      "summary": "CRED iQ reviewed $26.1 billion in 2026 CMBS loan originations across conduit, SASB, Freddie Mac, and CLO structures. Garden multifamily averaged 5.51% cap rate; cooperatives 4.89%. Super-regional malls hit 8.94%. On balance, average coupon now sits at cap rate—meaning typical borrowers have zero positive leverage. Favored sectors (multifamily, industrial, self-storage, mixed-use, manufactured housing) all carry coupons above cap rates.",
-      "impact": "Critical for multifamily development. Zero-leverage borrowing environment signals investor caution despite low cap rates; favored status (multifamily at minus 19 bps to par cap rate) masks thin margins for new construction. CMBS willingness to finance below cap-rate projects suggests capital still available for core multifamily, but underwriting tighter. Developers must achieve stronger operating assumptions or accept lower returns; financing spreads compressing, making development feasibility sensitive to cost control and achievable rents."
+      "summary": "Massachusetts Governor Maura Healey's administration released an offering memorandum for the Erich Lindemann Mental Health Center and Charles F. Hurley Building in Boston's West End, a 6.5-acre complex in need of redevelopment. A prior 2022 effort by Leggat McCall Properties for a $1 billion mixed-use project (200 units, lab space) collapsed when the life sciences market declined. The Hurley Building (347K SF) is now empty; Lindemann requires $300M+ in capital improvements and houses 115 mental health beds that must be retained or relocated.",
+      "impact": "Boston Government Center redevelopment restart signals continued appetite for public-land mixed-use projects despite prior life-sciences-driven failure; life-sciences use collapse suggests future proposals will emphasize housing (potentially rent-restricted due to city affordability mandates) and office rather than biotech; developers bidding should expect strong affordability requirements; complex mental health bed relocation/retention requirements may complicate timeline and increase soft costs; window exists for apartment-heavy proposals if lab/office component can be de-emphasized."
     },
     {
       "title": "Miami Wilds water park project crashes after judge nixes dev site lease due to “mutual mistake”",
@@ -152,12 +212,12 @@
       "cat": "Development",
       "date": "2026-06-15T20:00:00+00:00",
       "bullets": [
-        "Miami Wilds mixed-use project (water park, 200-key hotel, 15-20K sf retail) collapses after judge voids lease.",
-        "27.5-acre site near Zoo Miami; environmental litigation (endangered species, Pine Rockland habitat) caused decade-long delays.",
-        "Court upheld Miami-Dade County's argument that federal ruling reinstated commercial development prohibition."
+        "Miami Wilds water park project (10+ years in development) collapsed; court voided site lease due to 'mutual mistake'",
+        "Developers: Paul Lambert, Bernard Zyscovich, Michael Diaz Jr.; proposed 27.5-acre site: water park, 200-key hotel, 15K-20K SF retail/dining; 38.5 acres parking shared with Zoo Miami",
+        "Lawsuit/litigation tied to endangered species claims; land is part of Richmond Pine Rockland habitat, one of largest outside Everglades; Miami-Dade county sided with conservationists"
       ],
-      "summary": "The Miami Wilds water park and mixed-use development (water park, 200-room hotel, 15,000–20,000 sf retail on 27.5 acres near Zoo Miami) collapsed after a Miami-Dade Circuit Court judge voided the development lease. The project was mired in environmental litigation for five+ years; conservationists cited endangered species and Richmond Pine Rockland habitat protection. The county successfully argued that a federal court ruling reinstated a ban on commercial development.",
-      "impact": "South Florida development risk signal. The collapse reflects enforcement of environmental constraints on large-acreage infill projects. For multifamily developers in Miami-Dade, this underscores permitting and environmental due-diligence complexity; sites with habitat or wildlife concerns face steep litigation risk and timeline uncertainty, even after initial entitlement. Suggests greenfield or less-constrained infill parcels offer lower execution risk in South Florida."
+      "summary": "The Miami Wilds mixed-use water park project near Zoo Miami, in development for over a decade, collapsed after a judge voided the development site lease due to \"mutual mistake.\" Developers Paul Lambert, Bernard Zyscovich, and Michael Diaz Jr. had proposed a 27.5-acre site with a water park, 200-room hotel, and 15,000-20,000 SF of retail/dining, along with 38.5 acres of shared parking. The project was embroiled in lawsuits over endangered species and Richmond Pine Rockland habitat protection, with Miami-Dade County ultimately supporting conservationists.",
+      "impact": "Miami Wilds collapse reflects high litigation and environmental permitting risk for large mixed-use developments on marginal/sensitive land in South Florida; conservationist opposition and county support for environmental protection signal tightening development constraints in Miami-Dade County outside core urban areas; developers should focus on in-fill urban and already-permitted sites and avoid greenfield projects in biodiverse or wetland-adjacent locations; loss of water-park/hotel mixed-use anchor removes potential demand driver for nearby multifamily."
     },
     {
       "title": "Belmont developer plans 202 apartments in neighboring San Mateo",
@@ -167,42 +227,12 @@
       "cat": "Development",
       "date": "2026-06-15T19:45:00+00:00",
       "bullets": [
-        "McLellan Company files permit for 202-unit, 6-story apartment at 4095 Pacific Blvd, San Mateo.",
-        "24 studios, 111 one-bed, 67 two-bed; 25 units deed-restricted below-market-rate.",
-        "San Mateo must deliver 7,015 new units by 2031; SB 330, density bonus streamline approvals."
+        "McLellan Company filing permits for 202-unit apartment building at 4095 Pacific Boulevard, San Mateo (6-story, 79 feet)",
+        "San Mateo state-mandated housing goal: 7K+ units by 2031; development includes 24 studios, 111 one-beds, 67 two-beds; 25 units deed-restricted BMR",
+        "SB 330 and density bonus streamline review; existing gas station and shopping center demolished; parking: 207 cars, 234 bikes"
       ],
-      "summary": "The McLellan Company (Belmont-based) filed permits for 202 apartments (6 stories, 79 feet, 324K sf total) at 4095 Pacific Boulevard, San Mateo, near Caltrain stations. Unit mix: 24 studios, 111 one-bed, 67 two-bed; 25 deed-restricted affordable. Project benefits from SB 330 and state density bonus law. Demolishes existing gas station and retail. San Mateo has 7,015-unit state mandate through 2031.",
-      "impact": "Positive demand signal for Bay Area multifamily near transit. San Mateo's state-mandated housing goal (7,015 units by 2031) drives streamlined entitlements and density bonus incentives; McLellan's filing shows developer confidence in achievable rents and SB 330-enabled speed-to-market. Caltrain proximity strengthens demand fundamentals. Bay Area multifamily developers should monitor San Mateo permitting velocity; successful deliveries near transit could unlock more suburban infill sites within the growth mandate."
-    },
-    {
-      "title": "ARCO Design/Build Takes 10K SF at Williams Equities’ 470 Park Avenue South",
-      "link": "https://commercialobserver.com/2026/06/arco-design-build-williams-equities-470-park-avenue-south-lease/",
-      "excerpt": "National commercial construction firm ARCO Design/Build has signed a 9,771-square-foot lease at Williams Equities’ 470 Park Avenue South, Commercial Observer has learned. The 15th-floor lease was signed in late March, according to a spokesperson for the landlord. A Colliers team of Andrew Roos, Michael Cohen, Mac Roos, Jessica Verdi and Rachel Kirkham represented Williams Equities, while Cushman &amp; Wakefield’s Jason Kroeger and Pierce Hance negotiated on behalf of ARCO. The deal’s lease term and asking rent were not disclosed. A report from CBRE found office asking rents in Midtown averaged $84.79 per square foot in March, when ARCO signed its lease. The 18-story office tower, located on Park Avenue South between East 31st and East 32nd streets, was acquired by Michael Cohen’s Williams Equities in January 2025 for $147.5 million. The landlord has since leased 100,000 square feet of office and retail space, according to a spokesperson, including a 10,500-square-foot deal for marketing firm Dept. ARCO specializes in design and construction in the industrial sector, as well as self-storage, office and tenant improvement projects. The firm’s New York office, established in 2018 and led by Alex Edgar and Jim Wyatt, is based in White Plains, according to its website. It is unclear how the firm’s newest Manhattan office will be utilized. A call to ARCO’s White Plains office was not immediately returned. The firm performs work throughout northern New Jersey, Long Island and up the Interstate 95 corridor to Connecticut. Its past projects include a 585,000-square-foot Bronx logistics center and an Arizona Beverages production and bottling facility in Woodbridge, N.J. Spokespeople for Colliers and C&amp;W did not immediately respond to requests for comment. Emily Davis can be reached at edavis@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-06-15T19:35:37+00:00",
-      "bullets": [
-        "ARCO Design/Build leases 9,771 sf at Williams Equities' 470 Park Ave South, Manhattan (15th floor).",
-        "Williams Equities acquired building Jan 2025 for $147.5M; has leased 100K sf to date.",
-        "March 2025 Midtown office asking rents averaged $84.79/sf; lease terms undisclosed."
-      ],
-      "summary": "ARCO Design/Build signed a 9,771-sf lease on the 15th floor of 470 Park Avenue South (between E. 31–32 Streets, Midtown Manhattan) in late March 2025. Williams Equities, which acquired the 18-story tower for $147.5 million in January 2025, has now leased 100,000 sf. March 2025 Midtown office rents averaged $84.79/sf asking.",
-      "impact": "Not relevant to multifamily development. Story concerns Manhattan office leasing velocity and Williams Equities' repositioning strategy, not residential supply, demand, or capital markets."
-    },
-    {
-      "title": "ESRT Picks Sevinc Yuksel as Senior VP of Design and Construction",
-      "link": "https://commercialobserver.com/2026/06/esrt-sevinc-yuksel-hire-design-construction/",
-      "excerpt": "Empire State Realty Trust (ESRT) has hired Sevinc Yuksel as its new senior vice president of design and construction, Commercial Observer has learned. Yuksel brought her 20 years of experience in the industry to the real estate investment trust (REIT) in June, according to her LinkedIn page, coming off a three-year stint as head of design and construction at Rudin. At ESRT, Yuksel will report to Jackie Renton, chief operating officer and co-head of real estate of the REIT. Renton herself arrived at ESRT in September of last year. In her new role, Yuksel will lead all design, construction and capital improvement activities across ESRT’s portfolio, the firm told CO. She’ll also play a critical role in new acquisitions. Yuksel did not immediately respond to a request for comment. Yuksel attended high school in Istanbul, Turkey, and holds an undergraduate degree in structural engineering and a master’s degree in construction management from Columbia University, where she finished her studies in 2008. She began her post-graduate career at Turner Construction Company, where her projects included 1271 Avenue of the Americas, Columbia University’s Northwest Science Building and JetBlue’s terminal extension at John F. Kennedy International Airport. Yuksel later joined Related Companies, where she oversaw construction activities for 50 Hudson Yards. Yuksel left Related in 2023 for Rudin. “We greatly appreciate Sevinc’s contributions to Rudin and wish her all the best in her new role,” a Rudin spokesperson told CO in a statement. Emily Davis can be reached at edavis@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-06-15T18:10:31+00:00",
-      "bullets": [
-        "Empire State Realty Trust hires Sevinc Yuksel as SVP Design & Construction (June 2025).",
-        "Yuksel brings 20 years experience; former head of design/construction at Rudin (3 years).",
-        "Will lead design, construction, capital improvements across ESRT portfolio and new acquisitions."
-      ],
-      "summary": "Empire State Realty Trust hired Sevinc Yuksel (20-year industry veteran, most recently head of design/construction at Rudin) as Senior VP of Design and Construction effective June 2025. She holds a Columbia structural engineering degree and construction management master's. Will oversee all design, construction, and capital improvement activities across ESRT's portfolio and lead new acquisitions.",
-      "impact": "Not relevant to multifamily development. ESRT is an office/retail REIT; hiring moves signal REIT operational restructuring but no bearing on apartment supply, demand, or capital."
+      "summary": "The McLellan Company filed formal permits for a 202-unit apartment building at 4095 Pacific Boulevard in San Mateo, a six-story, 79-foot structure on 1.6 acres. The project includes 24 studios, 111 one-bedrooms, and 67 two-bedrooms, with 25 units deed-restricted as below-market-rate housing. SB 330 and state density bonus law streamline environmental and zoning review. An existing gas station and shopping center will be demolished.",
+      "impact": "San Mateo housing mandate (7K+ units by 2031) is driving streamlined multifamily approval pipeline; SB 330 and density bonus law are effectively reducing entitlement risk and timeline for apartment developers statewide; McLellan's 202-unit project advances San Mateo toward goals; successful delivery will validate Peninsula development model and likely trigger follow-on projects in San Mateo and nearby Belmont; multifamily developers should expect heightened competition and land cost inflation in Bay Area gateway submarkets as mandate deadlines approach."
     },
     {
       "title": "Bachow seeks boost in density for downtown Fort Lauderdale tower",
@@ -212,27 +242,12 @@
       "cat": "Development",
       "date": "2026-06-15T18:00:00+00:00",
       "bullets": [
-        "Bachow Ventures revises Fort Lauderdale downtown tower to add 62 units (378 total), shrink height to 293 ft.",
-        "Seeks density bonus: floorplate 12.5K→20K sf, tower separation 30→25 ft, setback 35→27 ft.",
-        "City vote June 16; total commercial space 4,800 sf. Site bought 2023 for $8M."
+        "Bachow Ventures revising Fort Lauderdale tower at 11 North Andrews Ave; adding 62 units, shrinking height from 385 to 293 feet",
+        "Revised plan: 27 stories, 378 total units (vs. 316 initial); seeking zoning relief: floorplate 12.5K to 20K SF, tower setback 35 to 27 feet, tower spacing 30 to 25 feet",
+        "City vote June 16; Bachow acquired site for $8M in 2023; land price $147.8K in 1997 indicates significant value appreciation in 25 years"
       ],
-      "summary": "Bachow Ventures revised its downtown Fort Lauderdale mixed-use tower at 11 North Andrews Avenue, proposing 62 additional units for a total of 378 residential units while reducing height from 385 ft to 293 ft (27 stories). Density tweaks include larger floorplate (12.5K→20K sf), tighter tower separation (30→25 ft), and reduced setback (35→27 ft). 4,800 sf commercial space. City votes June 16. Bachow bought the 33,600-sf site for $8 million in 2023.",
-      "impact": "South Florida zoning/entitlement flexibility signal. Bachow's ability to reprogram (reduce height, increase units) via density bonus and design waiver flexibility shows Fort Lauderdale downtown is adapting zoning to capture more residential yield. This signals municipal receptiveness to densification and potential upside for multifamily developers holding downtown infill sites in Fort Lauderdale—setback/tower-separation variances may unlock marginal unit count gains and improved pro forma returns."
-    },
-    {
-      "title": "Penthouse at 80 Clarkson Street In Contract With $80M Asking Price",
-      "link": "https://commercialobserver.com/2026/06/penthouse-80-clarkson-street-in-contract-80m-asking/",
-      "excerpt": "Developers Zeckendorf Development and Atlas Capital Group, along with the Baupost Group, are about to set a record for the most expensive unit on a price-per-square-foot basis in Lower Manhattan. A duplex penthouse with an $80 million price tag has gone into contract at the under-development 80 Clarkson condominium building in the West Village at 80 Clarkson Street, the Wall Street Journal first reported. The unnamed buyer was represented by Christine Miller Martin and Kyle Blackmon of Compass. The brokers and a spokesperson for the developers declined Commercial Observer&#8217;s requests for comment. The unit, which spans 7,120 square feet of interior space and includes a 921-square-foot private outdoor terrace, is priced at $11,236 per square foot. The deal is Lower Manhattan’s most expensive contract, and the second-largest condominium contract signed in New York City so far this year, according to a source with knowledge of the deal. The largest sale of the year was a penthouse at 1122 Madison Avenue on the Upper East Side, which sold for $89.5 million. Other record-setting condo deals in Manhattan include Ken Griffin’s $238 million acquisition in 2019 of a penthouse at 220 Central Park South, the $115 million sale of the duplex penthouse at Central Park Tower in 2024, and the $60 million sale of a duplex condo at 150 Charles Street in 2025. Once completed, 80 Clarkson will be a condominium development across two towers standing 37 and 45 stories tall. It will include 112 residences ranging from two bedrooms to seven bedrooms. Residents will have access to 50,000 square feet of amenities, including an 82-foot lap pool, hot and cold plunge pools, a fitness center, a spa, a screening room, a golf simulator and a library. Since launching sales last year, more than $1 billion worth of apartments at 80 Clarkson have gone into contract, including a $129 million residence and another $75 million unit in contract, a source said. And the sale of luxury residential proper",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-06-15T17:11:26+00:00",
-      "bullets": [
-        "Zeckendorf Development, Atlas Capital, Baupost Group selling duplex penthouse at 80 Clarkson (West Village) for $80M.",
-        "Unit: 7,120 sf interior + 921 sf terrace; $11,236/sf—record for Lower Manhattan.",
-        "Second-priciest NYC contract 2025 (after $89M Madison Ave); 22 total contracts filed; $1B+ total sales."
-      ],
-      "summary": "A duplex penthouse at 80 Clarkson Street (West Village condo by Zeckendorf Development, Atlas Capital Group, and Baupost Group) has gone into contract at $80 million. The unit spans 7,120 sf interior plus 921 sf private terrace at 400 feet elevation—highest residential unit in West Village history. At $11,236/sf, it sets a Lower Manhattan record. Second-priciest contract in NYC this year (after $89M at 1122 Madison). The project reports $1 billion+ in signed contracts across 112 units; 22 deals filed in recent amendment.",
-      "impact": "Luxury condo market strength in Manhattan, not multifamily. While 80 Clarkson's sales success signals high-end residential demand and capital willingness in West Village, it does not inform multifamily development feasibility, costs, or market conditions. Luxury condo and rental apartment markets operate separately."
+      "summary": "Bachow Ventures revised its Fort Lauderdale residential development at 11 North Andrews Avenue, proposing 62 additional units while reducing tower height from 385 to 293 feet across 27 stories. The revised plan seeks zoning amendments to increase maximum floorplate from 12,500 to 20,000 SF, decrease tower spacing from 30 to 25 feet, and reduce setback from 35 to 27 feet. The project would total 378 units and 4,800 SF of commercial space if approved in the June 16 city vote. Bachow acquired the site for $8 million in 2023.",
+      "impact": "Bachow's density-upside revision signals strong Fort Lauderdale apartment demand and feasibility of higher entitlement approval standards in Regional Activity Center zoning; zoning relief strategy (floorplate and setback reductions) is increasingly accepted in Florida coastal markets; successful approval would validate high-density downtown Fort Lauderdale development model; ongoing density creep in Fort Lauderdale expands addressable multifamily market and justifies continued acquisition activity in downtown corridors."
     },
     {
       "title": "Zeckendorf, Atlas Capital’s 80 Clarkson inks $80M contract",
@@ -242,27 +257,12 @@
       "cat": "Development",
       "date": "2026-06-15T17:00:00+00:00",
       "bullets": [
-        "80 Clarkson penthouse contract ($80M) is 2nd-most-expensive signed in NYC this year.",
-        "Zeckendorf, Atlas Capital, Baupost Group project reports $1B+ in total signed sales.",
-        "Prior $129M multi-unit contract (Dec 2024) holds highest price in building."
+        "Zeckendorf Development and Atlas Capital's 80 Clarkson (downtown NYC condo) signs $80M duplex penthouse contract; second-highest NYC deal YTD",
+        "Unit: 7.1K SF, 4-bed/6-bath, 900+ SF private outdoor space, highest condo in West Village history at 400 feet elevation",
+        "Price-per-SF record for Downtown: $11.2K/SF; 112-unit project has closed $1B+ in sales; previous high contract: $129M (December)"
       ],
-      "summary": "80 Clarkson Street's $80 million duplex penthouse contract is NYC's second-priciest signed contract in 2025 (after $89 million at 1122 Madison). The 112-unit West Village condo development has signed 22 contracts totaling over $1 billion in sales; a prior $129 million multi-unit deal (December 2024) remains the building's highest. Sales quietly launched over one year ago.",
-      "impact": "Duplicate/adjacent to idx 14. Luxury condo marker; no multifamily development relevance."
-    },
-    {
-      "title": "Tech investor Bob Zangrillo revives $3B Little Haiti megaproject",
-      "link": "https://therealdeal.com/miami/2026/06/15/bob-zangrillo-revives-3b-miami-megaproject/",
-      "excerpt": "Technology investor Bob Zangrillo is reviving plans for a $3 billion mixed-use project in Miami’s Little Haiti neighborhood, more than a decade after first unveiling the vision, Bloomberg reported.&#160; Zangrillo is partnering with Miami-based Plaza Equity Partners on the proposed 7.8 million-square-foot development, an office hub aimed at companies in artificial intelligence, asset management and venture capital. The project would also include more than 2,600 residential units, a hotel and retail space. The first phase calls for the office campus, which Zangrillo’s firm, Dragon Global, would anchor, along with a 25-story tower with 349 rental apartments. In recent years, technology [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-06-15T16:49:56+00:00",
-      "bullets": [
-        "Tech investor Bob Zangrillo revives $3B Little Haiti megaproject: 7.8M sf, 2,600+ residential units.",
-        "First phase: AI-focused office campus + 25-story tower with 349 rental apartments.",
-        "Palantir HQ moved to Miami-Dade 2025; Amazon, Apple, Gemini also expanded South Florida."
-      ],
-      "summary": "Tech investor Bob Zangrillo (founder of Dragon Global, early investor in Uber, Anthropic, SpaceX; pardoned by Trump) is reviving a $3 billion mixed-use 'Magic City Innovation District' in Miami's Little Haiti (7.8M sf total, 2,600+ residential units, hotel, retail). Phase 1 targets an AI/asset-management/VC office campus anchored by Dragon Global, plus a 25-story tower with 349 rental apartments. Parallels recent South Florida tech migration: Palantir HQ to Miami-Dade (2025), Apple/Amazon/Gemini expansions in county.",
-      "impact": "Miami-Dade demand catalyst for multifamily near emerging tech corridor. Palantir's HQ relocation, Zangrillo's AI-district vision, and adjacent Amazon/Apple/Gemini clustering signal potential for sustained job migration to South Florida and corresponding rental demand in Little Haiti/Wynwood submarkets. Developer window: if Zangrillo executes Phase 1 office + 349 units, it validates 'tech district' positioning; competing multifamily projects in Wynwood/Little Haiti may benefit from halo effect (visibility, talent in-migration, retail activation). Monitor office absorption and pre-leasing momentum to gauge rental demand upside."
+      "summary": "Zeckendorf Development and Atlas Capital Group's downtown Manhattan condo project 80 Clarkson signed an $80 million contract for a duplex penthouse in the west tower. The 7,100-SF unit includes four bedrooms, six bathrooms, and over 900 SF of private outdoor space, setting a Downtown record price-per-SF of $11,236 and ranking as NYC's second-priciest contract signed in 2024. The 112-unit project has generated over $1 billion in sales.",
+      "impact": "80 Clarkson's $11.2K/SF Downtown record signals sustained ultra-luxury apartment demand in Manhattan's gentrified neighborhoods and high feasibility of prestige rental conversions; transaction strength implies strong equity capital availability for multifamily development and supports continued investment in trophy assets; however, concentrate wealth in luxury segment may mask weakness in middle-market apartment fundamentals and should not inform supply-demand assumptions for workforce/affordable-housing development."
     }
   ]
 }
