@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-17T13:00:21.374852+00:00",
+  "fetchedAt": "2026-06-17T20:37:57.387549+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -9,35 +9,245 @@
     },
     {
       "label": "10Y Treasury",
-      "value": "4.43%",
-      "pct": -1.18
+      "value": "4.46%",
+      "pct": -0.53
     },
     {
       "label": "30Y Treasury",
       "value": "4.93%",
-      "pct": -0.94
+      "pct": -0.98
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "98.06",
-      "pct": 0.25
+      "value": "95.61",
+      "pct": -2.5
     }
   ],
   "stories": [
     {
-      "title": "Colleen Wenke of Taconic Partners: 5 Questions",
-      "link": "https://commercialobserver.com/2026/06/colleen-wenke-taconic-partners-5-questions/",
-      "excerpt": "If you thought Times Square was only a destination for international tourists, suburban out-of-towners and rowdy event-goers, think again. Taconic Partners is giving the busy New York City neighborhood a residential makeover with continued success at the Ellery, a 32-story, 330-unit luxury apartment tower at 312 West 43rd Street that opened two years ago and is now fully leased. The secret to attracting residents to Times Square? Creating a “calm oasis” within the chaos, according to Colleen Wenke, president and chief operating officer at Taconic. The Ellery’s 10,000-square-foot indoor garden and 40-foot-long pool overlooking the city — along with its close proximity to mass transit — make it an alluring attraction for New York City residents who want to live closer to work, Wenke said. Thinking outside the box and building residential properties in previously untouched neighborhoods like Times Square might also help create some much-needed housing in the city, she said. Commercial Observer sat down with Wenke earlier this month to discuss New York City’s emerging residential areas, as well as Taconic’s current projects and whether the company is pursuing more housing under current tax incentive programs. This interview has been edited for length and clarity. Commercial Observer: The Ellery, Taconic’s 32-story luxury apartment tower in Times Square, is fully leased. Why do you think Times Square is becoming more of a residential neighborhood? Colleen Wenke: That&#8217;s been in occupancy for about 18 months, so we&#8217;re in our first year of renewals there. I’m very proud and excited to say that our retention is quite strong, and I think that&#8217;s a testament to the product that was delivered. Our thought process about all of our multifamily and all of our product types across all asset types is really focused on the quality in what we&#8217;re delivering, whether it&#8217;s our office space, homes, lab and life science spaces. We think about who&#8217;s going ",
+      "title": "Union Investment, Nuveen Sell Upper East Side Retail",
+      "link": "https://www.connectcre.com/stories/union-investment-nuveen-sell-upper-east-side-retail/",
+      "excerpt": "Union Investment and Nuveen Real Estate have sold their 1511 Third Ave. retail property on Manhattan&#8217;s Upper East Side to San Francisco-based Stockbridge. Terms of the sale were not disclosed. Union Investment acquired the retail property in 2016 as part of a closed joint venture deal with Nuveen Real Estate (then TH Real Estate) for its open-ended real estate fund Unilmmo: Global, which held a 49% stake. The fully leased property spans approximately 17,500 square feet over four floors plus a basement. The main portion of the ground floor and basement is leased Gap. The upper floors are occupied by luxury fitness company Equinox. “In a transaction market still characterized by limited transaction activity and high U.S. interest rates, we took the opportunity to sell the retail property,” said Kseniya Merritt, SVP and head of retail investments North America at Union Investment. “The exit is being made for strategic portfolio reasons and improves the fund&#8217;s liquidity position.” The CBRE New York retail team, lead by Doug Middleton and Jack Stillwagon, brokered the sale. The post Union Investment, Nuveen Sell Upper East Side Retail appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-06-17T20:24:52+00:00",
+      "bullets": [
+        "Union Investment, Nuveen exit Upper East Side retail to Stockbridge; 17,500 SF fully leased.",
+        "Sellers cited limited transaction activity, high U.S. rates, and portfolio liquidity needs.",
+        "Manhattan retail market remains constrained; limited deal flow persists despite stabilized tenancy."
+      ],
+      "summary": "Union Investment and Nuveen Real Estate sold their fully leased 17,500-square-foot retail property at 1511 Third Ave. on Manhattan's Upper East Side to San Francisco-based Stockbridge. The sellers cited the challenging transaction environment—marked by limited activity and elevated interest rates—as rationale for the exit, which was framed as improving fund liquidity. The property's stable occupancy (Gap on ground/basement, Equinox on upper floors) did not offset sellers' preference to reduce exposure in a constrained capital market.",
+      "impact": "A portfolio exit by large institutional holders in Manhattan retail signals continued pressure on capital formation for real estate. For multifamily developers, this underscores the broader tightening of credit availability and rising cost of capital affecting all property types in NYC, making acquisition and development financing more expensive and selective."
+    },
+    {
+      "title": "Inside litigation surrounding Amrit Ocean Resort condo-hotel",
+      "link": "https://therealdeal.com/miami/2026/06/17/inside-litigation-surrounding-amrit-ocean-resort-condo-hotel/",
+      "excerpt": "In December 2023, David Stern closed on his $1.8 million purchase of a unit at Amrit Ocean Resort, an oceanfront condo-hotel on Singer Island, a barrier island north of Palm Beach.&#160; The following year, he found himself in the courts, suing the developer and managers of the LLCs that built the two-tower project on a nearly 7-acre plot of land at 3100 North Ocean Drive in Riviera Beach. His lawsuit hinged on the Florida statute governing condo associations and turnover of the associations’ boards. Stern alleged the developer failed to hand over control to the unit owners in a timely [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-06-17T20:09:17+00:00",
+      "bullets": [
+        "Amrit Ocean Resort (Riviera Beach, FL) faced owner litigation over construction quality, governance.",
+        "Unit owner purchased Dec. 2023 at $1.8M; dozens of owners reported unit/amenity defects.",
+        "Settled lawsuit reflects rising condo construction litigation in South Florida; favorable developer laws."
+      ],
+      "summary": "David Stern and other unit owners at the oceanfront Amrit Ocean Resort condo-hotel in Riviera Beach, Florida sued the developer over shoddy construction, broken promises, and delayed board turnover. Stern's case was settled after being scheduled for trial; the suit was one of several against the developer since the project's completion. The property faced a broader pattern of owner complaints regarding unit conditions and amenities, symptomatic of rising condo-construction litigation across South Florida as delayed projects reach completion.",
+      "impact": "Construction quality disputes and litigation delays at completed condo-hotels in South Florida signal execution and legal risk for mixed-use residential developers in the region. Multifamily developers should monitor labor, contractor, and materials quality control tightly, particularly in South Florida, where owner litigation and governance disputes are becoming more frequent and costly as projects deliver."
+    },
+    {
+      "title": "ANALYSIS: Warsh’s Fed Sends Blunt Message",
+      "link": "https://www.connectcre.com/stories/warshs-fed-sends-blunt-message-analysis/",
+      "excerpt": "Kevin Warsh has chaired his first Federal Open Market Committee meeting, and he wasted no time making clear this is a different central bank. The FOMC held the federal funds rate at 3.50%–3.75% on Wednesday, the fourth consecutive meeting without a move. The decision was unanimous and widely expected. What wasn&#8217;t&nbsp;fully priced in was the degree to which the accompanying statement,&nbsp;and the&nbsp;person&nbsp;now running the institution,&nbsp;would signal a clean break from the posture of the&nbsp;Jerome Powell era.&nbsp; A Shorter Statement The policy statement was notably terser&nbsp;than anything produced under Powell. Gone was the language committing to the Fed&#8217;s 2% inflation goal. In its place: &#8220;the committee will deliver price stability.&#8221; Gone too was the so-called easing bias — the conditional language that had outlined the circumstances under which the Fed might consider cutting rates. No replacement language was offered.&nbsp; Warsh has long been skeptical of forward guidance, and he backed that up immediately&nbsp;by&nbsp;declining&nbsp;to submit&nbsp;his own interest rate forecast to the quarterly dot plot — an unusual move that itself sent a signal about how he intends to lead.&nbsp; The Dot Plot Flip In March, 12 of 19 officials expected at least one rate cut this year, and no one anticipated&nbsp;hikes. Wednesday&#8217;s dot plot looked almost nothing like that. Nine officials now expect at least one quarter-point increase by year-end. Eight see rates unchanged. Only one still pencils in a cut. The median projection now points to a hike.&nbsp; The Fed&#8217;s Summary of Economic Projections shows no rate reduction expected in 2026, with the policy rate now seen ending the year at 3.8%,&nbsp;up from the March projection of 3.4%. The rate path beyond that also shifted higher: 3.6% in 2027 and 3.4% in 2028, compared to prior estimates of 3.1% for both years. The longer-run rate holds at&nbsp;3.1%.&nbsp; Two-Sided Paralysis Mar",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-06-17T20:08:57+00:00",
+      "bullets": [
+        "Fed Chair Kevin Warsh held rates at 3.50%–3.75%; removed forward guidance on cuts.",
+        "Dot plot now shows nine officials expecting rate hikes; one expecting cuts; median projects hike.",
+        "2026 federal funds rate raised to 3.8% (from 3.4% in March); 'higher for longer' confirmed."
+      ],
+      "summary": "Federal Reserve Chair Kevin Warsh presided over his first FOMC meeting, holding rates steady but signaling a hawkish pivot away from the Powell era. The central bank removed forward guidance suggesting rate cuts, and the dot plot flipped dramatically—nine officials now expect rate hikes by year-end, only one expects a cut, and the median 2026 projection now targets 3.8% rather than 3.4%. Warsh declined to submit his own rate forecast, underlining the Fed's shift away from predictability and toward a \"higher for longer\" stance.",
+      "impact": "A materially hawkish Fed pivot directly raises the cost of capital for multifamily development and acquisition across all markets. Higher-for-longer interest rates increase debt service on construction loans and refinances, compress cap rates on property valuations, and lengthen underwriting timeframes—constraining starts and forcing developers to improve yields or reduce leverage, favoring larger, well-capitalized firms."
+    },
+    {
+      "title": "Browning Real Estate Partners to Break Ground on First Ohio Industrial Development",
+      "link": "https://www.connectcre.com/stories/browning-real-estate-partners-to-break-ground-on-first-ohio-industrial-development/",
+      "excerpt": "Browning Real Estate Partners will break ground on a new 200,200-square-foot speculative industrial development in Canal Winchester, marking the company’s first ground-up development project in Ohio. The industrial facility will pursue LEED Silver certification and is being developed on approximately 16.33 acres within a planned industrial district. The project will operate under Browning’s Velocity industrial park brand, a portfolio of logistics developments across the Midwest supporting major national and regional occupiers. Designed to accommodate manufacturing, logistics, warehousing, and distribution users, the facility will feature 1,500 square feet of speculative office space. NAI Ohio Equities will oversee leasing for the project, with Curt Berlin, Matthew Osowski, Blake DeCrane, and Kaydee Hurst serving as exclusive leasing agents. “Browning continues to be one of the most respected industrial developers in the Midwest, and we are excited to partner with them on the leasing of Velocity Hill Road,” said Berlin. The post Browning Real Estate Partners to Break Ground on First Ohio Industrial Development appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-06-17T20:03:28+00:00",
+      "bullets": [
+        "Browning Real Estate breaks ground on 200,200 SF Velocity industrial park in Canal Winchester, OH.",
+        "First Ohio ground-up for the Midwest developer; LEED Silver spec facility on 16.33 acres.",
+        "NAI Ohio Equities leasing; designed for manufacturing, logistics, warehousing, distribution tenants."
+      ],
+      "summary": "Browning Real Estate Partners is breaking ground on its first Ohio development—a 200,200-square-foot speculative industrial facility in Canal Winchester's planned industrial district. The project, branded Velocity Hill Road, sits on 16.33 acres, pursues LEED Silver certification, and includes 1,500 square feet of speculative office. NAI Ohio Equities is handling leasing; the facility targets manufacturing, logistics, warehousing, and distribution operators.",
+      "impact": "Minimal direct impact to multifamily. However, industrial expansion into Ohio (particularly near Columbus) signals confidence in Midwest logistics demand and regional supply-chain resilience, which may attract population and job growth that eventually benefits multifamily demand in secondary and tertiary Ohio markets."
+    },
+    {
+      "title": "Hawkins Way Capital Drops $28M on 81 East Third Street Apartments, Student Housing",
+      "link": "https://commercialobserver.com/2026/06/hawkins-way-capital-buys-81-east-third-street/",
+      "excerpt": "Beverly Hills-based real estate investment company Hawkins Way Capital has acquired a property comprising student housing and market-rate apartments at 81 East Third Street, Commercial Observer has learned. The $28 million acquisition in the East Village closed Wednesday, according to a source familiar with the deal. The sale comes just days after CO reported that Hawkins purchased the Upper West Side residence hall of AMDA College of the Performing Arts at 117 West 70th Street for $80 million. The 13-story building at 81 East Third Street, between First and Second avenues, spans 36,047 square feet and contains 45 residential units, according to Department of Finance records. Roughly two-thirds of the building is occupied by students at the New York Conservatory for Dramatic Arts, which uses the site as a dormitory. A school brochure for the property advertises suite-style dorms with a laundry room and common areas. The student housing portion of the building will remain intact, according to a source, but the fate of the apartments is unclear. Hawkins did not immediately respond to a request for comment. The seller entity, 81 East 3 Street Realty, is linked to the Lokshin family, a local developer and landlord, as well as landlord Simon Fouladian. The entity redeveloped the building into student and rental housing in 2005, drawing the ire of its East Village neighbors over the building&#8217;s height. BKREA&#8216;s Bob Knakal and Ana Barrie represented both sides of the sale. Spokespeople for BKREA and the sellers could not be reached for comment. Hawkins Way, which reports $3 billion in assets under management, has undertaken a series of student housing deals over the base year. In August 2025, the firm sold a former DoubleTree by Hilton hotel at 569 Lexington Avenue to the City University of New York for $125.6 million. The month before that, it acquired the 492-room student housing tower at 99 Washington Street in the Financial District. The firm also owns a 122-",
       "source": "Comm. Observer",
       "cat": "Commercial",
-      "date": "2026-06-17T12:00:26+00:00",
+      "date": "2026-06-17T20:02:58+00:00",
       "bullets": [
-        "Taconic Partners' Ellery (330 units, Times Square) fully leased two years post-opening.",
-        "Indoor garden, pool, transit proximity drive luxury residential demand in previously avoided Manhattan neighborhoods.",
-        "Untouched neighborhoods like Times Square represent supply opportunity for NYC housing shortage."
+        "Hawkins Way Capital acquires 81 East Third Street (East Village) for $28M; 45 units.",
+        "Building contains student housing (2/3) via NY Conservatory for Dramatic Arts; market-rate units (1/3).",
+        "Hawkins also bought AMDA College residence hall (Upper West Side) for $80M days prior."
       ],
-      "summary": "Taconic Partners' 330-unit luxury tower at 312 West 43rd Street in Times Square reached full occupancy two years after opening by creating lifestyle amenities (10,000-sq-ft indoor garden, 40-foot pool) that position the building as a 'calm oasis' within the bustling neighborhood. The project demonstrates that mass transit access and thoughtful design can attract renters to previously undesirable Manhattan areas, suggesting underdeveloped residential submarkets remain viable for new supply.",
-      "impact": "Times Square's successful residential conversion signals untapped demand pockets in high-transit Manhattan neighborhoods previously abandoned by residential developers. This validates a development thesis for underutilized commercial or mixed-use corridors in major transit hubs—opportunities to acquire, rezone, and build ahead of neighborhood maturation, particularly in areas with strong foot traffic but limited housing stock."
+      "summary": "Beverly Hills-based Hawkins Way Capital closed a $28 million acquisition of 81 East Third Street in Manhattan's East Village, a 13-story, 36,047-square-foot building holding 45 residential units. Roughly two-thirds of the building operates as a dormitory for the New York Conservatory for Dramatic Arts; the remainder is market-rate apartments. The deal follows Hawkins' $80 million purchase of the AMDA College residence hall on the Upper West Side just days earlier, signaling a strategic focus on student-housing-anchored assets in Manhattan.",
+      "impact": "Hawkins' dual-acquisition strategy—targeting stabilized student-housing assets with blended market-rate components—exploits market inefficiency: student housing offers institutional tenant stability and counter-cyclical demand, while embedded market-rate units provide upside. For competing multifamily developers, this signals rising institutional capital focus on niche residential assets in Manhattan; competitive pricing and deal sourcing may tighten."
+    },
+    {
+      "title": "Kadima Industrial Acquires Shallow Bay Woburn Property",
+      "link": "https://www.connectcre.com/stories/kadima-industrial-acquires-shallow-bay-woburn-property/",
+      "excerpt": "JLL Capital Markets arranged the sale and financing of 215 Salem St., a 62,155-square-foot shallow bay industrial facility in Woburn, MA. Director Tommy Hovey, senior director David Coffman and managing director Michael Restivo represented the seller in the sale to Kadima Industrial Partners. Working on behalf of the new owner, director Ryan Parker on JLL&#8217;s Debt Advisory team arranged the acquisition financing with Webster 5 Cent Savings Bank. Built in 1984, the property is positioned in Greater Boston&#8217;s Route 128 North submarket, 11 miles north of downtown Boston. The facility benefits from direct access to Interstates 93 and 95 and Route 3, providing connectivity to the region&#8217;s primary logistics networks and employment centers. &#8220;The combination of last-mile access to Boston, multiple highway connections and a diverse tenant roster spanning logistics, manufacturing and service sectors made this an exceptionally compelling acquisition for Kadima,&#8221; Hovey said. &#8220;Properties of this size and configuration in established infill locations continue to attract substantial buyer interest as land constraints limit new development.&#8221; The post Kadima Industrial Acquires Shallow Bay Woburn Property appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-06-17T20:00:42+00:00",
+      "bullets": [
+        "Kadima Industrial acquires 215 Salem St., Woburn MA; 62,155 SF shallow-bay industrial, built 1984.",
+        "Route 128 North submarket, 11 miles from Boston; direct I-93/I-95/Route 3 access.",
+        "Diverse tenant base (logistics, manufacturing, services); JLL arranged sale and Webster 5 financing."
+      ],
+      "summary": "Kadima Industrial Partners acquired 215 Salem Street, a 62,155-square-foot shallow-bay industrial property in Woburn, Massachusetts, via JLL's arrangement of sale and Webster 5 Cent Savings Bank financing. Built in 1984 and positioned in the Route 128 North submarket (11 miles north of Boston), the property benefits from direct highway access and a diversified tenant roster spanning logistics, manufacturing, and services. JLL noted that properties of this size and configuration in established infill locations attract substantial buyer interest as land constraints limit new development.",
+      "impact": "Minimal direct multifamily impact. However, sustained strong demand for infill industrial assets in Greater Boston reflects robust regional logistics and e-commerce demand, signaling job and population retention in the metro. This supports long-term rental demand fundamentals for multifamily in Boston-area markets, particularly inner-ring suburbs accessible to I-93 and I-95 corridors."
+    },
+    {
+      "title": "Warsh’s First Fed Meeting as Chair Produces a Result Many in CRE Expected",
+      "link": "https://commercialobserver.com/2026/06/fed-interest-rates-pause-kevin-warsh/",
+      "excerpt": "President Donald Trump nominated Kevin Warsh as Federal Reserve chairman in the hope of lowering interest rates, but the first Federal Open Market Committee (FOMC) meeting under his leadership signaled a continued higher-for-longer environment. The central bank, in a unanimous 12-0 vote Wednesday, kept its benchmark interest rate at between 3.5 percent and 3.75 percent for the fourth straight meeting, citing inflation uncertainty tied to the war in Iran. The Fed also released an updated quarterly “dot plot” matrix of individual committees that removed prior forecasts of one rate cut by the end of this year and signaled possible rate hikes. The updated, more hawkish FOMC projections, which Warsh opted to not participate in, is now showing a federal funds rate of 3.8 percent at the end of 2026, up from 3.4 percent estimated in March, with nine of the 18 members signaling a near-term hike. “Economic activity is expanding at a solid pace despite elevated uncertainty that owes in part to conflict in the Middle East,” Warsh said in prepared remarks to open his post-meeting press conference. “Productivity growth and capital investment are both strong, job gains have kept pace with the workforce, and the unemployment rate has changed little.” The unanimous Fed decision Wednesday marked a stark contrast to an 8-4 vote on April 29 to maintain interest rates, a vote that marked the highest level of dissent since October 1992. The FOMC board includes former Fed chair Jerome Powell, who opted to remain as a governor and is eligible to stay in the post through January 2028. Warsh said he is forming five task forces that will determine the Fed’s use and reliance on existing data and the central bank’s inflation framework. He also announced a preference to remove “forward guidance&#8221; formerly used by the FOMC to shape future monetary policy decisions. Jay Neveloff, partner and chair of U.S. real estate at HSF Kramer, said Warsh may alter some of the ways the Fed examines data s",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-06-17T19:22:15+00:00",
+      "bullets": [
+        "Kevin Warsh Fed keeps rates at 3.5%–3.75%; cites inflation, Middle East conflict uncertainty.",
+        "Updated dot plot removes 2025 rate-cut forecasts; signals possible hikes; 3.8% end-2026 rate.",
+        "Warsh declined to submit rate forecast; signals Fed will resist forward guidance and market expectations."
+      ],
+      "summary": "Federal Reserve Chair Kevin Warsh's first FOMC meeting produced a unanimous 12-0 vote to hold rates at 3.5%–3.75% and a notably hawkish policy shift. The updated dot plot eliminated prior expectations of rate cuts by year-end 2025 and now projects a 3.8% federal funds rate at end-2026, with nine of 18 officials signaling near-term hikes. Warsh's refusal to submit his own rate forecast signals the Fed will not offer the forward guidance markets had anticipated under Powell, undercutting expectations for near-term relief.",
+      "impact": "A higher-for-longer, less predictable Fed stance directly raises development and acquisition costs across multifamily. Developers face extended holding periods on underwritten returns, tighter debt availability, compressed valuations, and increased refinance risk—pressuring project feasibility and returns, particularly for lower-yielding stabilized assets."
+    },
+    {
+      "title": "Industrial Property Near Indianapolis Airport Changes Hands",
+      "link": "https://www.connectcre.com/stories/industrial-property-near-indianapolis-airport-changes-hands/",
+      "excerpt": "Marcus &amp; Millichap completed the sale of 7770 W. New York St., a 16,000-square-foot single-tenant industrial property in Indianapolis. Located near the Indianapolis International Airport, the property sold for $2.1 million to Greenspring Realty Partners. “This transaction highlights the continued strength of Indianapolis’ industrial market, particularly in this highly desirable airport-area submarket,” said Gus Poulos, associate director of investments. Built in 1994, the property spans 2.20 acres and is occupied by Terracon Consultants, an employee-owned firm that provides environmental consulting, geotechnical engineering, construction materials testing and facility engineering services. “We were able to bring the seller and out-of-state buyer together and closed the deal in cash just 29 days after signing our representation agreement,” said Bender, managing director investments. “The product type and market speak for themselves when it comes to Indianapolis industrial real estate.” Poulos and Forest Bender, investment specialists in Marcus &amp; Millichap’s Indianapolis office, had the exclusive listing to market the property on behalf of the private in-state seller. The post Industrial Property Near Indianapolis Airport Changes Hands appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-06-17T19:21:17+00:00",
+      "bullets": [
+        "Marcus & Millichap sells 7770 W. New York St., Indianapolis (16,000 SF industrial) for $2.1M.",
+        "Greenspring Realty Partners buyer; near Indianapolis International Airport; occupied by Terracon.",
+        "Single-tenant, 1994-built property; 2.20 acres; quick close (29 days) signals market strength."
+      ],
+      "summary": "Marcus & Millichap completed the sale of 7770 West New York Street, a 16,000-square-foot single-tenant industrial property near Indianapolis International Airport, for $2.1 million to Greenspring Realty Partners. Built in 1994 and leased to Terracon Consultants, the property spans 2.20 acres. The deal closed in 29 days on a cash basis, exemplifying strong demand for airport-proximate industrial assets in Indianapolis.",
+      "impact": "Minimal direct multifamily impact. However, sustained strong transaction velocity in Indianapolis industrial, particularly near the airport, reflects robust last-mile logistics demand and supply-chain confidence, supporting job retention and population stability in the metro—positive underpinnings for multifamily demand in Indianapolis."
+    },
+    {
+      "title": "Kushner, Cain pay $43M for Edgewater site amid apartment rent-growth predictions",
+      "link": "https://therealdeal.com/miami/2026/06/17/cain-kushner-buy-miami-apartment-site-from-oko-group/",
+      "excerpt": "Cain and Kushner paid $43.1 million for a site in Edgewater where they’ve been planning a 364-unit luxury apartment tower.&#160; The firms bought the 1.5-acre property at 614 and 720 Northeast 27th Street from an entity tied to a joint venture between Miami-based OKO Group and Cain.&#160; London-based Cain, led by Jonathan Goldstein, and New York-based Kushner, headed by Laurent Morali and Nicole Kushner Meyer, have been planning the 40-story project since April. BDT &#38; MSD Partners provided a $42 million loan for the development, with construction expected to start late next year, The Real Deal previously reported.&#160; The property [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-06-17T18:59:28+00:00",
+      "bullets": [
+        "Cain, Kushner acquire 1.5-acre Edgewater (Miami) site for $43.1M; 364-unit luxury tower planned.",
+        "BDT & MSD Partners provided $42M construction loan; 40-story building; construction late 2025.",
+        "South Florida apartment supply down 7.8% YoY; strong demand; modest rent growth predicted; ranked #2 investor market."
+      ],
+      "summary": "London-based Cain and New York-based Kushner paid $43.1 million for a 1.5-acre site in Miami's Edgewater, where they plan a 40-story, 364-unit luxury apartment tower. BDT & MSD Partners provided $42 million in development financing, with construction expected to launch in late 2025. The acquisition marks the first project under a new Cain-Kushner South Florida joint venture. South Florida's apartment supply sits 7.8% below the three-year average; demand remains strong as elevated homeownership costs sustain rental appetite, with modest rent growth expected and multifamily ranking second in institutional investor intentions for 2025.",
+      "impact": "Cain-Kushner's entry into the Edgewater market at $43M for 364 units (~$118K/unit acquisition cost) signals continued capital aggregation in South Florida's tight supply environment. Strong institutional co-investment, constrained new supply (7.8% below average), and persistent demand fundamentals create a favorable window for existing and pipeline multifamily assets in Miami, supporting pricing power and investor returns across South Florida markets."
+    },
+    {
+      "title": "UBS offloads mostly vacant Downtown Houston office building ripe for conversion",
+      "link": "https://therealdeal.com/texas/2026/06/17/zhukovskyi-development-buys-downtown-houston-office-building/",
+      "excerpt": "UBS Realty Investors recently offloaded a mostly vacant Downtown Houston office building considered ripe for residential conversion.&#160; The Swiss bank’s real estate arm sold the 24-story, 542,000-square-foot building at 919 Milam Street, deed records show. The buyer is Tampa-based apartment developer Zhukovskyi Development. Realty News Report first reported the trade.&#160; The property, which was built in 1956 and last renovated in 2023, is less than 20 percent occupied. Tenants include the Coronado Club, a members-only dining club. Terms of the sale were not disclosed, but the property was last valued for tax purposes at $48.3 million, appraisal district records show.&#160; [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-06-17T18:30:00+00:00",
+      "bullets": [
+        "UBS Realty offloads 919 Milam Street, Downtown Houston; 24-story, 542,000 SF, <20% occupied.",
+        "Buyer: Zhukovskyi Development (Tampa-based apt. developer); property valued $48.3M for tax purposes.",
+        "November 2023 Aecom report ranked property #2 for conversion viability; large floor plates (22,500 SF) challenge conversion."
+      ],
+      "summary": "UBS Realty Investors sold the 24-story, 542,000-square-foot building at 919 Milam Street in Downtown Houston to Tampa-based apartment developer Zhukovskyi Development. The property, built in 1956 and last renovated in 2023, is less than 20% occupied and last valued at $48.3 million for tax purposes. An Aecom report from November 2023 ranked the property second for residential conversion potential, though its large floor plates (22,500 square feet) complicate conversion economics.",
+      "impact": "Office-to-residential conversion activity in Houston signals acknowledgment by institutional sellers that downtown office recovery is prolonged; distressed asset pricing and conversion plays attract developer capital. For multifamily operators, this creates both upside (new inventory) and competitive pressure; conversion entails lease-up risk, capital intensity, and extended hold periods, favoring strong balance sheets. The market shift implies sustained softness in Houston CBD office demand, supporting rental apartment demand but increasing construction risk and cost per unit in conversions."
+    },
+    {
+      "title": "City Invests $1B for New Affordable Housing Preservation Program",
+      "link": "https://commercialobserver.com/2026/06/nyc-affordable-housing-preservation-program-mamdani/",
+      "excerpt": "The New York City Department of Housing Preservation and Development (HPD) has put into action what it calls the Supportive Preservation Program (SPP), designed to provide greater support for and increase the preservation of affordable housing across the city’s five boroughs, the HPD announced Tuesday. Supportive housing around the city will see an investment of $1 billion from HPD, with a portion of that funding specifically dedicated to the preservation of New York City’s supportive housing supply, The Real Deal reported. The program is meant to specifically support units that provide services to people in danger of homelessness and facing other complex housing issues. That translates to more than 30,000 units. “What we’re announcing here today is a commitment to supportive housing in New York City and the New Yorkers who rely on it,” Patrick Love, deputy commissioner of development at HPD, said on Tuesday announcing the news. “The supportive housing model is a model that works.” Projects eligible for the SPP must be existing supportive housing projects in New York City and must have existing social service contracts administered by the city, according to the announcement. Through the SPP, the HPD will be able to grant tax exemptions, provide below-market loans and modify existing loans. Details about the timeline of HPD&#8217;s investment are unclear. “Supportive housing plays a critical role in our city, providing stability and services to New Yorkers in need. I am proud to be launching the new Supportive Preservation Program to ensure that providers and residents are able to succeed for many years to come,” Leila Bozorg, deputy mayor for housing and planning, said in a statement. “This program will be an important part of our holistic approach to provide and protect the housing that New Yorkers rely on.” Since entering office, Mayor Zohran Mamdani has made it his administration’s mission to supply New York City with more affordable housing. In May, the mayor an",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-06-17T18:08:14+00:00",
+      "bullets": [
+        "NYC HPD launches Supportive Preservation Program (SPP); $1B investment in affordable housing.",
+        "Funding dedicated to preservation of supportive housing; >30,000 units providing services to homeless-risk populations.",
+        "Program expands public subsidy footprint in affordable/supportive housing; reduces market-rate development incentive."
+      ],
+      "summary": "New York City's Department of Housing Preservation and Development announced the Supportive Preservation Program, a $1 billion investment dedicated to preserving and expanding affordable and supportive housing across the five boroughs. The program targets more than 30,000 units that provide services to people at risk of homelessness or facing complex housing issues. The funding commitment underscores the city's focus on public-sector-led preservation rather than market-rate new supply.",
+      "impact": "NYC's $1B supportive-housing preservation program signals municipal priorities skewing toward subsidized units and away from market-rate development incentives. For multifamily developers, this constrains zoning headroom and increases regulatory burden in exchange for affordability mandates. Developers should expect tighter land availability, longer entitlements, and reduced density bonuses unless projects include significant affordable components, pressuring pro-forma returns in Manhattan and outer boroughs alike."
+    },
+    {
+      "title": "Terreno Buys Maryland Industrial Property for $77M",
+      "link": "https://commercialobserver.com/2026/06/terreno-buys-maryland-industrial-property-for-77m/",
+      "excerpt": "Terreno Realty, a publicly traded owner of almost 20 million square feet of industrial real estate across six major U.S. markets, has acquired 3100-3300 Hubbard Road, an industrial property in Landover, Md., for approximately $77.1 million. The property includes three buildings totaling 305,000 square feet across 24 acres. It provides 49 dock-high and nine grade-level loading positions, according to a company announcement, and parking for 417 cars. The property is currently 92 percent leased to nine tenants. The purchase was completed June 16. Terreno did not immediately disclose the name of the seller or if brokers were involved in the transaction. Just one day prior, Terreno announced the purchase of 5751 General Washington Drive, a property in Alexandria, Va., hosting a 50,000-square-foot building on 2.8 acres, for $13 million. That property provides eight dock-high and one grade-level loading positions and parking for 73 cars, according to a company release. The identity of the buyer and the brokers were also unclear. According to its website, Terrano has offices in New York City and Bellevue, Wash., and its headquarters seems to be in San Francisco. It transacts in the New York City-Northern New Jersey area, as well as in Los Angeles, Miami, the San Francisco Bay area, Seattle and Washington, D.C. The company’s portfolio as of March 31 consisted of 19.9 million square feet and 310 buildings across 46 improved land parcels. Miami is currently the company’s largest market by square footage, with 42 buildings spanning 4.82 million square feet. Terreno also has 69 buildings across 3.58 million square feet in the New York City-Northern New Jersey market, and 27 buildings across 2.12 million square feet in the Washington, D.C., area. Terreno did not immediately respond to a request for comment. Larry Getlen can be reached at lgetlen@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-06-17T17:43:18+00:00",
+      "bullets": [
+        "Terreno Realty acquires Landover, MD industrial (3100-3300 Hubbard Rd) for ~$77.1M; 305,000 SF.",
+        "Three buildings on 24 acres; 92% leased to nine tenants; 49 dock-high, 9 grade-level positions.",
+        "Day prior: Terreno bought 5751 General Washington Drive, Alexandria, VA (50,000 SF) for $13M."
+      ],
+      "summary": "Terreno Realty, a publicly traded industrial REIT, acquired 3100-3300 Hubbard Road in Landover, Maryland for approximately $77.1 million. The property comprises three buildings totaling 305,000 square feet across 24 acres, currently 92% leased to nine tenants, with 49 dock-high and nine grade-level loading positions. One day prior, Terreno closed on 5751 General Washington Drive in Alexandria, Virginia (50,000 square feet) for $13 million, signaling aggressive deployment of capital into trophy industrial assets in the Mid-Atlantic.",
+      "impact": "Minimal direct multifamily impact. However, Terreno's rapid-fire acquisitions of high-occupancy, well-leased industrial properties in Maryland and Virginia reflect strong demand for last-mile logistics infrastructure in the Washington-Baltimore corridor. This suggests robust supply-chain demand, population stability, and job growth in the region, indirectly supporting long-term multifamily fundamentals in Northern Virginia and the Baltimore metro."
+    },
+    {
+      "title": "Pearson Ranch flattens with Tri Pointe development agreement",
+      "link": "https://therealdeal.com/texas/2026/06/17/tri-pointe-homes-takes-over-bulk-of-pearson-ranch/",
+      "excerpt": "Tri Pointe Homes won approval to develop most of Pearson Ranch near Austin, forecasting more horizontal development in a project once billed as a dense mixed-use community. Williamson County approved a development agreement on Tuesday that clears the way for the Incline Village, Nevada-based homebuilder to take up 95 acres in the 156-acre Pearson Ranch, the Austin Business Journal reported. Initial plans for Pearson Ranch, proposed by Austin-based Inspire Development in January 2022, described a $2 billion mixed-use development with a 48-acre office campus, two hotels, 200,000 square feet of retail, restaurant and community space, as well as 2,500 multifamily [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-06-17T17:23:24+00:00",
+      "bullets": [
+        "Tri Pointe Homes approved to develop 95 of 156 acres at Pearson Ranch near Austin.",
+        "Original Inspire mixed-use vision (2.5K multifamily units, office, hotel, retail) largely replaced by single-family.",
+        "Initial plan: $2B mixed-use; Tri Pointe's preliminary maps show residential neighborhoods supplanting commercial."
+      ],
+      "summary": "Williamson County approved a development agreement allowing Tri Pointe Homes to develop 95 of 156 acres at Pearson Ranch near Austin. The shift marks a dramatic departure from Inspire Development's 2022 mixed-use master plan, which called for 2,500 multifamily units, a 48-acre office campus, two hotels, and 200,000 square feet of retail and community space. Preliminary maps filed with Austin show Tri Pointe's residential neighborhoods (presumably single-family) supplanting much of the planned commercial, with only The Eden (306-unit multifamily) beginning construction in 2022.",
+      "impact": "Tri Pointe's substitution of single-family density for mixed-use (particularly multifamily) at Pearson Ranch signals a flight to lower-risk, higher-absorption residential product in the Austin market. For apartment developers, this reduces available land for multifamily near major employers (Dell) and reshapes the competitive landscape, pushing multifamily opportunities further into infill or requiring denser, urban-format projects. The shift also reflects builder preference for single-family in a market with elevated inventory and margin pressure."
+    },
+    {
+      "title": "Cashmere Brand Kujten Picks Acadia’s 92 Greene Street for Second U.S. Location",
+      "link": "https://commercialobserver.com/2026/06/kujten-92-greene-street-acadia-lease/",
+      "excerpt": "French cashmere brand Kujten has leased a second Manhattan location less than a year after opening its first U.S. flagship along Madison Avenue. The upcoming store at Acadia Realty Trust’s 92 Greene Street, a midblock address bordered by Spring and Broome streets, sits in the heart of SoHo’s bustling shopping corridor. Kujten signed a long-term, 2,567-square-foot lease, with 1,531 square feet on the ground floor and 1,036 square feet on the lower level, according to landlord broker Newmark. The retailer was represented by Eric Le Goff and Max Kreinces of Retail by MONA, along with David Sitt of Status Capital. Newmark’s Ariel Schuster, Michael Paster and Gabe Staab negotiated on behalf of Acadia. The exact length of the lease, which was signed June 1, was not disclosed. The asking rent was $1.65 million per year. “Kujten is exactly the kind of brand that defines what SoHo is becoming — authentic, design-driven, and globally recognized,” Schuster said in a statement. “Bringing them to 92 Greene Street is a testament to the continued strength of this corridor and highlights the trend of global brands wanting to work with quality owners like Acadia.” Kujten opened its three-level, 4,400-square-foot flagship store at 831 Madison Avenue in September of last year. Founded in Paris in 2012, the brand is known for its delicate products and premium pricing, and hosts a network of more than 50 locations across France and the rest of Europe. Kujten is operated under parent company BCS Group, also headquartered in Paris. Kujten’s SoHo storefront is expected to open in fall of this year. The storefront will neighbor other high-ticket fashion brands on Greene Street, including Givenchy, Jil Sander and ETRO. Spokespeople for Kujten, Acadia, Retail by MONA and Status Capital did not immediately respond to requests for comment. Emily Davis can be reached at edavis@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-06-17T17:20:00+00:00",
+      "bullets": [
+        "French cashmere brand Kujten leases 2,567 SF at Acadia Realty's 92 Greene Street (SoHo, NYC).",
+        "Second U.S. location, <1 year after Madison Ave flagship; 1,531 SF ground floor, 1,036 SF lower level.",
+        "Asking rent $1.65M/year; Newmark brokered; reflects strong SoHo retail demand and tenant anchoring."
+      ],
+      "summary": "Luxury French cashmere brand Kujten signed a long-term lease for 2,567 square feet at Acadia Realty Trust's 92 Greene Street in SoHo, Manhattan, marking its second U.S. location less than one year after opening a flagship on Madison Avenue. The space spans 1,531 square feet on the ground floor and 1,036 on the lower level; asking rent was $1.65 million per year. Newmark brokered the transaction.",
+      "impact": "Minimal direct multifamily impact. However, luxury branded retail clustering in SoHo and rapid expansion by high-end international retailers reflect strong foot traffic, affluent local demographics, and consumer confidence in Manhattan's prime shopping corridors. This supports residential rental demand and pricing power for luxury multifamily in adjacent neighborhoods (East Village, Nolita, Lower East Side)."
+    },
+    {
+      "title": "Gotham Org files plans for next phase of East New York project",
+      "link": "https://therealdeal.com/new-york/2026/06/17/gotham-org-files-plans-for-next-phase-in-east-new-york/",
+      "excerpt": "David Picket’s Gotham Organization is forging ahead with its multiphase affordable housing project in East New York. The firm filed applications for three buildings in the Brooklyn neighborhood that are part of its Urban Innovative Village complex, Crain’s reported. The three buildings that make up the second phase of the project will combine for 599 permanently affordable housing units, according to the Commercial Observer, and one of the trio will be for senior housing. At 12040 Flatlands Avenue, Gotham is planning a 14-story building with 224 rental units and 5,300 square feet of community space. At 12030 Flatlands Avenue, there [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-06-17T14:45:48+00:00",
+      "bullets": [
+        "Gotham Organization files Phase 2 (East New York, Brooklyn); 599 permanently affordable units.",
+        "Three buildings: 224 units (14-story), 206 senior units (13-story), 169 units (12-story); $315M loan closed April 2025.",
+        "Urban Innovative Village on 10.5-acre church campus; phase 1B delivered 386 units; phase 1 construction underway."
+      ],
+      "summary": "David Pickett's Gotham Organization filed applications for Phase 2 of its Urban Innovative Village complex in East New York, comprising three buildings with a combined 599 permanently affordable units, including dedicated senior housing. The 224-unit, 14-story building at 12040 Flatlands Avenue will include 5,300 square feet of community space; the 13-story, 206-unit senior building at 12030 Flatlands Avenue will have 2,900 square feet of retail; and the 12-story, 169-unit building at 395 Louisiana Avenue will offer 5,200 square feet of retail. Gotham closed a $315 million construction loan in April 2025 for Phase 2, building on Phase 1B (386 units, $270M loan in 2024).",
+      "impact": "Gotham's large-scale affordable-housing initiative in East New York, anchored by institutional debt financing and community partnerships, demonstrates the viability of mission-driven multifamily development in outer-borough submarkets with public subsidy. For competing multifamily developers, this signals strong capital availability for affordable/supportive housing projects and validates demand in East Brooklyn, but it also consumes subsidy and financing capacity, potentially crowding out market-rate development in the area."
     },
     {
       "title": "NYC’s top construction permits: Week ending June 12, 2026",
@@ -47,222 +257,12 @@
       "cat": "Development",
       "date": "2026-06-17T12:00:00+00:00",
       "bullets": [
-        "East New York (Brooklyn): 599-unit, 3-building development (533k SF) recently permitted.",
-        "Long Island City: 99-unit, 23-story mixed-use project filed; Greenpoint: 99-unit, 9-story mixed-use.",
-        "NYC pipeline: 697 residential units in three major permits alone in single week (June 12, 2026)."
+        "Gotham Organization files 533,487 SF, three-building mixed-use in East New York; 599 units, 12-14 stories.",
+        "ZD Jasper plans 23-story, 99-unit project at 35-25 Steinway Street, Long Island City (120,490 SF).",
+        "Mendy Schwimmer files 99-unit, nine-story project (105,210 SF) at 70 West Street, Greenpoint."
       ],
-      "summary": "NYC's top construction permits for the week ending June 12, 2026 included a 599-unit mixed-use development in East New York (three 12–14 story buildings), a 99-unit project in Long Island City, and a 99-unit development in Greenpoint, totaling 697 new residential units across three major filings. The largest single project was The Gotham Organization's 533,487-sq-ft East New York development at 12040 Flatlands Avenue and adjacent parcels.",
-      "impact": "Strong residential permitting velocity in Brooklyn (East New York, Greenpoint) and Queens (Long Island City) indicates active pipeline in outer boroughs where zoning is more favorable and land costs lower than Manhattan. Developers are consolidating or planning large mixed-use assemblies in emerging submarkets; watch absorption and pre-leasing on these projects to gauge whether supply is outpacing demand in outer-borough corridors."
-    },
-    {
-      "title": "The Plan: Suburb Meets City at 487 Henry Street in Brooklyn",
-      "link": "https://commercialobserver.com/2026/06/the-plan-suburb-meets-city-at-487-henry-street-in-brooklyn/",
-      "excerpt": "You get the best of both worlds at this newly completed luxurious — yet unassuming — townhouse in Brooklyn’s tranquil Cobble Hill neighborhood. Situated along a quaint, tree-lined boulevard, 487 Henry Street aligns perfectly with the vibe and visual of the neighborhood, looking outwardly like any other Brooklyn brownstone. The inside tells a different story. 487 Henry Street is a 6,300-square-foot, $14.5 million oasis featuring five bedrooms, six bathrooms, and a 130-year-old American elm tree in the backyard. In all this, it offers buyers a taste of both the city and suburban life. “We are a developer that specializes in townhouses, and this is probably our 29th townhouse,” said Carlos Saavedra, founder — along with wife Nicole Eckstrom — and principal of development firm Eckstrom NYC. “We do townhouses, we do condominiums, and we do one-family homes. And this one, the vibe seemed like it would be a very good one-family home.” And what a home that family will have. You’d be hard-pressed to find a room at 487 Henry Street that you would want to leave. What’s Commercial Observer’s favorite room? So glad you asked: It would have to be the main bathroom, which features a free-standing, deep-soaking tub, a separate closed-door stall for the toilet, and a separate stall for the steam shower, which has a rainfall showerhead. The bathroom also has a mini fridge, a frequent request among buyers, and not just for cosmetics and skin care. “Ozempic needs to be refrigerated,” Saavedra said. “It’s so much more common these days than it used to be, people have become more open about it, and buyers are asking for this.” Renovations at 487 Henry Street were completed in March, and the property was listed in April. Built between 1844 and 1845, the property now spans six levels and features two entrances, one on the first floor and one on the lower level. There are several outdoor spaces, including a glorious backyard, a small terrace off the main bedroom, and a rooftop lounge comple",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-06-17T10:00:31+00:00",
-      "bullets": [
-        "487 Henry Street, Cobble Hill: $14.5M, 6,300-SF renovated townhouse with suburban/urban hybrid appeal.",
-        "Developer Carlos Saavedra's firm specializes in townhouse conversion (29th property); targets mixed lifestyle positioning.",
-        "Single-family/small multifamily conversion trend in Brooklyn's historic neighborhoods."
-      ],
-      "summary": "Saavedra's development firm, which specializes in townhouse renovations, completed a $14.5 million repositioning of 487 Henry Street in Cobble Hill, Brooklyn—a 6,300-sq-ft, five-bedroom property marketed as offering 'both city and suburban life.' The property, sold in April after March completion, exemplifies the developer's strategy of high-end single-property conversions in established Brooklyn neighborhoods.",
-      "impact": "Minimal direct impact to multifamily development. This represents single-family/small luxury house repositioning, not apartment supply. However, the narrative reflects strong buyer demand for lifestyle-hybrid properties in desirable Brooklyn neighborhoods—a signal that demographic segments seeking 'suburban amenities in urban settings' are willing to pay premium prices, which could inform mixed-use or ground-floor amenity design in adjacent multifamily development."
-    },
-    {
-      "title": "Inside the AI Revolution Quietly Reshaping CRE’s Slowest Data Layer",
-      "link": "https://commercialobserver.com/2026/06/inside-the-ai-revolution-quietly-reshaping-cres-slowest-data-layer/",
-      "excerpt": "Most commercial real estate decisions begin with the same question: What can I do with this land? It is the most important question in the industry. Until recently, it was also one of the slowest to answer. Zoning rules are fragmented across more than 25,000 jurisdictions, buried in legal code, and constantly amended. A single-line query could turn into a three-day research project. Last week, on Crexi, the marketplace where hundreds of thousands of brokers, developers, and investors evaluate properties, the answer started arriving in seconds. Crexi integrated Zoneomics, an AI-enabled zoning data platform covering more than 25,000 U.S. cities, directly into its analytics product. Understanding what can be built on a site has traditionally meant navigating municipal databases that vary in quality, format, and accessibility across thousands of jurisdictions. The integration eliminates that detour. With Zoneomics integrated into Crexi Intelligence, users now access zoning classifications, permitted uses, and parcel boundary geometry directly on a property&#8217;s detail page. They can pose plain-language queries such as &#8220;Can I build a multifamily here?&#8221; or &#8220;Is manufacturing permitted on this site?&#8221; and receive direct, source-backed answers drawn from the underlying data. Interactive map overlays and filtering extend the same capability to market-level analysis, surfacing redevelopment opportunities by permitted use without leaving the platform. The launch arrives at a moment when zoning has never mattered more. According to the Housing Affordability Institute, state legislatures introduced 412 housing-reform bills in 2025 and enacted 124 of them. Office-to-apartment conversions reached 90,300 announced units nationally at the start of 2026, a 28 percent year-over-year jump. Proptech venture capital reached $16.7 billion globally in 2025, a 67.9 percent year-over-year increase, according to CRETI. Taken together, the signals point to an industry ",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-06-17T04:00:49+00:00",
-      "bullets": [
-        "Zoneomics AI zoning platform integrated into Crexi Intelligence; covers 25,000+ US jurisdictions.",
-        "Plain-language queries now answer 'Can I build multifamily here?' in seconds instead of 3+ days.",
-        "Eliminates fragmented municipal database research bottleneck across 25,000 zoning jurisdictions."
-      ],
-      "summary": "Crexi has integrated Zoneomics, an AI-enabled zoning data platform covering 25,000+ U.S. cities, directly into its analytics product. Users can now submit plain-language queries (e.g., 'Can I build multifamily here?') and receive instant zoning classifications, permitted uses, and parcel geometry data directly on property detail pages, eliminating the traditional three-day manual research process required to navigate fragmented municipal databases.",
-      "impact": "Material efficiency gain for site reconnaissance and deal sourcing across all multifamily developers. Faster zoning clarity reduces pre-acquisition due diligence cost and cycle time, enabling faster scoring of land deals and opportunities in markets with favorable entitlements. This advantage accrues to developers with Crexi platform access and scales site screening efficiency—expect increased competition for shovel-ready or easily-entitleable land as the research bottleneck dissolves."
-    },
-    {
-      "title": "Trump’s Federal Building Selloff Runs Into $26B Repair Backlog",
-      "link": "https://commercialobserver.com/2026/06/trump-federal-real-estate-office-deferred-maintenance/",
-      "excerpt": "Donald Trump’s plan to shrink the federal government’s real estate footprint has run into an 11-figure obstacle: The buildings need a lot of work. The U.S. General Services Administration (GSA) has identified more than $25.8 billion in maintenance needs across federally owned buildings, including at least 62 properties that each require $100 million or more in repairs, Bloomberg reported. Meanwhile, the Public Buildings Reform Board estimates the federal backlog could exceed $50 billion. The bottleneck is complicating the Trump Administration’s push to consolidate federal office space and sell off underutilized government property. General Services Administration Administrator Ed Forst listens during a meeting in April. PHOTO: Al Drago/Getty Images GSA Administrator Ed Forst, whom President Trump tapped to oversee the federal landlord agency, also said the plan is being slowed by congressional approval rules. Any repair project costing roughly $4 million or more must clear a so-called prospectus threshold, a process that can take more than a year before the work can be bid out. The issue has become more pressing while many agencies still occupy outdated buildings. Earlier in Trump’s second term, during the height of Elon Musk’s Department of Government Efficiency (DOGE) push, the GSA briefly posted a list of 443 federal buildings it was considering for sale, then pulled the list the following day. Forst said the agency is now trying to take a more deliberate approach. But he argued that consolidating federal offices and selling excess property often requires the government to first invest in the buildings it wants to keep. Even GSA’s headquarters has become an example, with 40 percent of the building deemed as unusable. GSA data show that more than $1 billion in repairs went uncompleted in fiscal year 2025 because proposals were not approved before the fiscal year ended. The Jacob K. Javits Federal Office Building in New York City needs $410 million in repairs, acco",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-06-16T22:15:16+00:00",
-      "bullets": [
-        "Federal building repair backlog: $25.8B identified (GSA); Public Buildings Reform Board estimates $50B+.",
-        "62+ federally owned properties each require $100M+ in repairs; prospectus approval process delays >1 year.",
-        "Trump administration selloff plans stalled by deferred maintenance and congressional approval thresholds."
-      ],
-      "summary": "The U.S. General Services Administration has identified $25.8 billion in maintenance needs across federally owned buildings, with the Public Buildings Reform Board estimating the total backlog could exceed $50 billion. At least 62 properties individually require $100 million or more in repairs. The Trump administration's plan to consolidate federal office space and sell underutilized properties is being slowed by repair backlogs and congressional prospectus approval requirements (projects costing ~$4 million+ require >1 year approval).",
-      "impact": "Limited direct impact to multifamily development. However, large-scale federal property dispositions could eventually flood secondary real estate markets with distressed or deferred-maintenance buildings, potentially creating acquisition and conversion opportunities for developers in gateway cities (if adaptive-reuse-to-multifamily becomes viable). Monitor GSA auction schedules in major metros; deep discounts on trophy federal buildings could unlock ground-floor commercial or mixed-use redevelopment opportunities adjacent to new residential."
-    },
-    {
-      "title": "Delshah Capital Buys 227 and 456 Grand Street in Williamsburg for $85M",
-      "link": "https://commercialobserver.com/2026/06/delshah-capital-buys-227-456-grand-street-williamsburg/",
-      "excerpt": "DelShah Capital has purchased two mixed-use residential properties in Williamsburg, Brooklyn. The Michael Shah-led firm bought 227 Grand Street and 456 Grand Street — the latter of which comes with a 421-a tax abatement that doesn’t expire until 2030 — for a combined $85 million from Bronstein Properties, The Real Deal reported. Bronstein paid $43 million for 456 Grand in 2018, according to property records. 456 Grand, which has 52 apartments, two retail spots and 50 parking spaces, sold for $39.5 million, while 227 Grand, which has 41 apartments, 10 retail slots and 21 spaces for parking, sold for $45.5 million, according to TRD. The two properties are half a mile apart, but separated by the Brooklyn-Queens Expressway and the onramps to the Williamsburg Bridge. Delshah and Bronstein did not immediately respond to requests for comment. The purchase was financed with a $60.5 million loan from Prospect Ridge. It was unclear what the buyer’s plans for the property are. Prospect Ridge did not immediately respond to a request for comment. The building at 456 Grand was constructed in 2015 under New York City’s PlaNYC Brownfield Cleanup Program. Bronstein acquired 227 Grand in a 2022 bankruptcy sale. Mark Hallum can be reached at mhallum@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-06-16T21:19:25+00:00",
-      "bullets": [
-        "Delshah Capital buys 227 & 456 Grand Street, Williamsburg: $85M combined ($39.5M + $45.5M).",
-        "456 Grand: 52 units, 421-a tax abatement through 2030; 227 Grand: 41 units, 10 retail, 21 parking.",
-        "Financed with $60.5M Prospect Ridge loan; buyer plans unclear."
-      ],
-      "summary": "Delshah Capital acquired two mixed-use residential properties in Williamsburg, Brooklyn—227 Grand Street (41 apartments, 10 retail, 21 parking) for $45.5 million and 456 Grand Street (52 apartments, 2 retail, 50 parking with 421-a abatement through 2030) for $39.5 million—for a combined $85 million from Bronstein Properties. Prospect Ridge financed the purchase with a $60.5 million loan; Delshah's post-acquisition strategy was not disclosed.",
-      "impact": "Williamsburg acquisition activity signals continued investor appetite for outer-Brooklyn multifamily with tax abatement benefit (456 Grand's 421-a extends to 2030, providing 4–5 years of additional shelter). The $85M buy-in for 93 units (~$914k per unit) in a maturing submarket suggests either value-add thesis (repositioning/rent growth) or hold-for-cashflow with tax subsidy benefit. Watch for refinancing or disposition announcements to understand Delshah's capital cycle intent; early acquisition patterns in Williamsburg may indicate broader investor positioning ahead of tax abatement expirations."
-    },
-    {
-      "title": "SFA Agency Extends, Expands Tenancy at One Battery Park Plaza",
-      "link": "https://www.connectcre.com/stories/sfa-agency-extends-expands-tenancy-at-one-battery-park-plaza/",
-      "excerpt": "Rudin said Tuesday that current tenant SFA Agency LLC will grow its footprint at One Battery Park Plaza, a 35-story, 800,000- square-foot office tower in Lower Manhattan. SFA Agency, an affiliate of Northwestern Mutual, will now occupy 14,071 square feet in a 10-year lease extension. A tenant at One Battery Park Plaza since 2023, the financial services company will expand by 5,170 square feet and relocate in early 2027. “SFA Agency’s long-term extension and expansion is a direct reflection of our commitment to superior customer service,” said Kevin Daly, VP of office leasing at Rudin. “As evidenced by the leasing success this year and reaching virtual full occupancy at One Battery Park Plaza, there remains a strong and growing market appetite for well-located and high-quality office space in Lower Manhattan.” Daly represented building ownership in the transaction. Scott Vinett of Savills represented SFA Agency. One Battery Park is now 99% leased. The post SFA Agency Extends, Expands Tenancy at One Battery Park Plaza appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-06-16T21:14:37+00:00",
-      "bullets": [
-        "SFA Agency (Northwestern Mutual affiliate) expands at One Battery Park Plaza (Lower Manhattan office).",
-        "10-year lease extension; 5,170 SF expansion; building now 99% leased, early 2027 occupancy.",
-        "Office tower stabilization signal amid NYC office market volatility."
-      ],
-      "summary": "SFA Agency LLC, a financial services affiliate of Northwestern Mutual, has executed a 10-year lease extension and 5,170-sq-ft expansion at One Battery Park Plaza, a 35-story, 800,000-sq-ft office tower in Lower Manhattan. The expansion and relocation will occur in early 2027. One Battery Park Plaza is now 99% leased, demonstrating strong market appetite for high-quality office space in Lower Manhattan despite broader sector headwinds.",
-      "impact": "Minimal direct impact to multifamily development. This is an office transaction. However, office stabilization in Lower Manhattan (a supply-constrained, transit-rich submarket) may reduce conversion pressure on Class-B office-to-multifamily redevelopment in that immediate area. Continued office demand preservation in Lower Manhattan means fewer redevelopment opportunities for residential developers, though it also stabilizes the district's daytime population and reinforces transit/walkability that supports nearby residential."
-    },
-    {
-      "title": "DTLA’s Bank of America Plaza Trades for $210M in Receivership Sale",
-      "link": "https://www.connectcre.com/stories/dtlas-bank-of-america-plaza-trades-for-210m-in-receivership-sale/",
-      "excerpt": "(Updated with additional information) Colliers on Tuesday announced the sale of 333 S. Hope St., a/k/a Bank of America Plaza, in Downtown Los Angeles. The 1.4-million-square-foot office tower traded through a receivership sale, with fee-simple title delivered at closing. The asset traded for $210 million, making it the largest office sale in Los Angeles in 2026 and the largest in Los Angeles County since 2023, according to Colliers. Vice chair Sean Fulp, EVPs Mark Schuessler and Todd Tydlaska, and associate VPs Jordan Garcia and Blake Hammerstein of Colliers’ investment sales team marketed the property and facilitated the transaction on behalf of the court-appointed receiver, Chris Nielsen, managing partner and co-head of Trigild. The buyer, Capital Group, was represented by Kevin Bender and Andrew Harper of JLL. “The sale is a meaningful step forward in the evolution of Downtown Los Angeles and another benchmark transaction for our team,” said Schuessler. “In conjunction with the receiver and special servicer, we were able to deliver pricing and deal terms that exceeded expectations, without a need for seller-financing.” Established in 1931, Capital Group has been a tenant at Bank of America Plaza since 1978. Post-acquisition, the property will 333 remain a multi-tenant building, with Capital Group as the largest and anchor tenant. The investment firm expects to add five floors to its current 14-floor occupancy when all locally based associates, who currently work across three locations, are brought in. &#8220;Completing the purchase of 333 S. Hope St. reinforces our long-term commitment to our associates, our clients, and our presence in Los Angeles,&#8221; said Rob Klausner, COO of Capital Group. &#8220;This building has been our home for decades, and as both landlord and anchor tenant, we are making meaningful investments to enhance the workplace experience today while building for the decades ahead.&#8221; The post DTLA&#8217;s Bank of America Plaza Trades for ",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-06-16T21:05:03+00:00",
-      "bullets": [
-        "Bank of America Plaza, DTLA: $210M sale in receivership (largest LA office sale since 2023).",
-        "Capital Group buyer (long-time tenant since 1978); consolidating 3-location workforce into 14 + 5 floors.",
-        "Anchor tenant anchors stabilization; office market floor-finding in DTLA."
-      ],
-      "summary": "Bank of America Plaza (333 S. Hope St.), a 1.4-million-sq-ft office tower in Downtown Los Angeles, traded for $210 million in a receivership sale—the largest office transaction in LA in 2026 and LA County since 2023. Capital Group, which has been a tenant since 1978, purchased the property as fee-simple and plans to consolidate local associates from three locations, expanding from 14 floors to 19 floors.",
-      "impact": "Modest impact. Capital Group's consolidation and expansion (14 → 19 floors) signals strong anchor-tenant demand in DTLA, reducing office supply and conversion risk for adjacent or competing office properties. However, no direct link to multifamily development. Monitor for second-order effects: if Capital Group's commitment stabilizes DTLA office market, it reduces urgency for Class-B office-to-multifamily conversions in the central city, preserving office supply and employment concentration that supports residential demand nearby."
-    },
-    {
-      "title": "“Behind our backs”: Ex-Lt Gov, Florida Rep Carlos Lopez-Cantera, father sued over Miami-Dade land deal",
-      "link": "https://therealdeal.com/miami/2026/06/16/carlos-lopez-cantera-father-sued-over-miami-dade-land-deal/",
-      "excerpt": "Former Florida politician Carlos M. Lopez-Cantera is accused of conspiring with his father to cheat partners out of millions of dollars in a Miami-Dade County real estate deal, a suit says.&#160; The pair face a lawsuit that claims they misled investment partners about the value of an 8.3-acre vacant tract, inducing them to sell it to Quarry Real Estate Holdings, an entity led by the younger Lopez-Cantera, for $40,000 –– even though it potentially could be worth over 400 times more –– with the intention to then flip it, essentially depriving investors from a potentially higher profit, according to the [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-06-16T21:00:00+00:00",
-      "bullets": [
-        "Miami-Dade land fraud suit: Lopez-Cantera family accused of undervaluing 8.3-acre vacant tract.",
-        "Property sold at $40k but potentially worth $16M+ (400x valuation gap); investment partnership defrauded.",
-        "Sweetwater Pan American West Business Park: vacant land development dispute, fiduciary breach allegation."
-      ],
-      "summary": "Former Florida Lieutenant Governor and U.S. Rep Carlos M. Lopez-Cantera and his father Carlos C. Lopez-Cantera face a lawsuit claiming they conspired to defraud investment partners by misrepresenting the value of an 8.3-acre vacant tract in Sweetwater (Miami-Dade County) within the Pan American West Business Park. The land was sold to Quarry Real Estate Holdings (led by the younger Lopez-Cantera) for $40,000 despite potentially being worth over $16 million, depriving investors of profit upside. The suit includes counts of breach of fiduciary duty and civil conspiracy.",
-      "impact": "Minimal direct impact. This is a real estate fraud/governance dispute affecting a specific land parcel and investor group in Sweetwater, not a market-wide signal. However, it highlights execution and governance risk in land assembly/partnership structures in South Florida, particularly in speculative or early-stage development entities. Developers should monitor Sweetwater (emerging industrial/business park submarket) for land-bank opportunities if properties tied to litigation are eventually liquidated or sold under pressure."
-    },
-    {
-      "title": "LaSalle Acquires Student Housing Complex Near Michigan State University",
-      "link": "https://www.connectcre.com/stories/lasalle-acquires-student-housing-complex-near-michigan-state-university/",
-      "excerpt": "LaSalle Investment Management has acquired Red Cedar Flats, a 190-unit, 436-bed purpose-built student housing community located within walking distance to Michigan State University in East Lansing, Michigan. LaSalle acquired the property on behalf of LaSalle Value Partners IX, alongside joint venture partners King Bridge Partners and Clear Rock Capital. Completed in 2021, Red Cedar Flats is strategically positioned to serve Michigan State University&#8217;s student population. The acquisition represents LVP IX&#8217;s first investment in the student housing sector.&#8220;Student housing is an attractive residential subsector, particularly for newer, campus-adjacent assets at large universities experiencing enrollment growth, limited new development and constrained housing options,&#8221; said Jeff Shuster, President of LaSalle Value Partners. Red Cedar Flats is a well-located, high-quality asset that fits this thesis. &#8220;The property was acquired below replacement cost with in-place cash flow and represents an attractive opportunity to generate strong risk-adjusted returns for our investors.&#8221; Housing operator University Partners will provide property management and co-asset management services. The post LaSalle Acquires Student Housing Complex Near Michigan State University appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-06-16T20:59:23+00:00",
-      "bullets": [
-        "LaSalle Invests Management acquires Red Cedar Flats: 190-unit, 436-bed student housing, East Lansing, MI.",
-        "Built 2021, walking distance to Michigan State University; acquired below replacement cost.",
-        "LVP IX's first student housing investment; thesis emphasizes enrollment growth + constrained supply."
-      ],
-      "summary": "LaSalle Investment Management, on behalf of LaSalle Value Partners IX alongside King Bridge Partners and Clear Rock Capital, acquired Red Cedar Flats, a 190-unit, 436-bed purpose-built student housing community completed in 2021 and located within walking distance of Michigan State University in East Lansing, Michigan. The acquisition was completed below replacement cost, and LaSalle cited Michigan State's enrollment growth and limited new student housing supply as core investment drivers.",
-      "impact": "Student housing subsector acceleration. LaSalle's entry into student housing alongside thesis focused on 'newer, campus-adjacent assets at large universities with enrollment growth and constrained housing supply' signals institutional capital redeployment into niche multifamily. For traditional multifamily developers, this indicates: (1) institutional capital now competing in student housing where supply is tight and enrollment growing; (2) campus-adjacent markets in college towns may see M&A consolidation; (3) early-stage development of student housing near major universities facing enrollment pressures remains underserved. Monitor enrollment data and student housing saturation in tier-1 university towns (Michigan State, Ohio State, University of Texas, etc.) for new supply opportunities before institutional capital saturates."
-    },
-    {
-      "title": "Hawkins Way JV Grows NYC Student Housing Portfolio with Upper West Side Sale-Leaseback",
-      "link": "https://www.connectcre.com/stories/hawkins-way-jv-grows-nyc-student-housing-portfolio-with-upper-west-side-sale-leaseback/",
-      "excerpt": "A joint venture of Hawkins Way Capital and Varde Partners has acquired 117 W. 70th St, a 382-unit student housing property located on Manhattan&#8217;s Upper West Side. The $8- million acquisition marks a strategic addition to the JV&#8217;s growing urban student housing enterprise, FOUND Study, and further strengthens the firm&#8217;s longstanding relationship with the American Musical and Dramatic Academy (AMDA), which will continue occupying and operating the property through a long-term master lease executed concurrently with the sale. THE JV now owns more than 6,000 student housing beds across supply-constrained New York City neighborhoods. The transaction also reflects the FOUND Study platform&#8217;s ability to partner with academic institutions with tailored occupancy and operating structures ranging from long-term NNN master leases to fully managed housing solutions. Previously owned and operated by AMDA as a dormitory property, the building will remain occupied by the institution as part of the long-term agreement. The post Hawkins Way JV Grows NYC Student Housing Portfolio with Upper West Side Sale-Leaseback appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-06-16T20:49:53+00:00",
-      "bullets": [
-        "Hawkins Way/Varde JV buys 117 W. 70th St, Upper West Side: $80M, 382-unit student housing (sale-leaseback).",
-        "AMDA (American Musical and Dramatic Academy) remains occupant via long-term master lease.",
-        "JV now owns 6,000+ student housing beds across NYC; platform-driven institutional consolidation."
-      ],
-      "summary": "A joint venture between Hawkins Way Capital and Varde Partners acquired 117 W. 70th Street, a 382-unit student housing property on Manhattan's Upper West Side, for $80 million in a sale-leaseback transaction with the American Musical and Dramatic Academy (AMDA), which continues to occupy and operate the property under a long-term master lease. The acquisition expands the JV's FOUND Study platform to over 6,000 student housing beds across NYC.",
-      "impact": "Concentrated institutional consolidation of NYC student housing supply via master-lease structures. Hawkins Way/Varde's growing bed count (6,000+ across 'supply-constrained' NYC neighborhoods) reflects: (1) institutional capital capturing student housing as alternative yield in tight multifamily markets; (2) long-term master-lease model (anchor tenant guarantees rent) de-risks institutional entry; (3) limited new construction of student housing in NYC due to cost/zoning, driving acquisition of existing properties. Implications: fewer development opportunities for student housing conversion/new construction in Manhattan; institutional operators will hold beds for long-term NNN cashflow, reducing portfolio turnover and limiting exit windows for smaller developers."
-    },
-    {
-      "title": "Bradford Allen Closes 60K-SF Office Lease in Lincolnshire",
-      "link": "https://www.connectcre.com/stories/bradford-allen-closes-60k-sf-office-lease-in-lincolnshire/",
-      "excerpt": "Bradford Allen has executed a 60,000-square-foot lease with office supply retailer Quill at 300 Tri State International Drive in Lincolnshire, Illinois. The office is within Tri State Lincolnshire, a five-building, 560,000-square-foot office complex owned, operated and leased by Bradford Allen in Chicago’s northern suburbs. Quill is a provider of office equipment, supplies and technology products for businesses. The lease renewal follows the company’s relocation to Tri State Lincolnshire in 2023. Bradford Allen’s Dan Fernitz, executive vice president, Chicago suburbs, negotiated the lease on behalf of ownership. Bradford Allen has invested more than $30 million in improvements since acquiring Tri State Lincolnshire in 2017. Renovations have included substantial upgrades to building lobbies, conference rooms, elevators, the 135-seat auditorium and on-site fitness center, as well as complete replacements to the properties’ roofs and cooling towers. Tri State Lincolnshire offers convenient access to downtown Chicago and O’Hare International Airport. The post Bradford Allen Closes 60K-SF Office Lease in Lincolnshire appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-06-16T20:46:57+00:00",
-      "bullets": [
-        "Quill (office supply) renews/expands 60k SF lease at Tri State Lincolnshire (Chicago suburbs).",
-        "Bradford Allen owns 560k-SF, 5-building office complex; invested $30M improvements since 2017.",
-        "Suburban Chicago office lease renewal amid larger office-to-remote transformation."
-      ],
-      "summary": "Office supply retailer Quill has executed a 60,000-sq-ft lease renewal at 300 Tri State International Drive in Lincolnshire, Illinois, following its 2023 relocation to the property. The building is part of Tri State Lincolnshire, a 560,000-sq-ft, five-building office complex owned and operated by Bradford Allen, which has invested over $30 million in renovations (lobbies, conference rooms, fitness center, roof/HVAC replacements) since acquiring the asset in 2017.",
-      "impact": "Minimal impact. This is an office lease renewal in suburban Chicago, not a residential or multifamily signal. However, Quill's continued commitment to 60k SF of suburban office space indicates some stabilization in corporate office demand (supply/logistics functions often retain physical footprint). Broader implication: suburban office stabilization may reduce pressure for office-to-multifamily conversion in outer-ring suburbs, preserving office supply. Developers should monitor suburban office vacancy and lease rates to identify when conversion economics become viable."
-    },
-    {
-      "title": "Landmark designation of Bryn Mawr Avenue building stalling demolition, development plans",
-      "link": "https://therealdeal.com/chicago/2026/06/16/landmark-designation-on-bryn-mawr-avenue-stalls-demo/",
-      "excerpt": "The Commission on Chicago Landmarks could bring to a halt a 95-unit apartment redevelopment with their designation of Bryn Mawr Avenue as a historic landmark. Harlem Irving Companies was planning to demolish 1114 West Bryn Mawr Avenue, 1106 West Bryn Mawr Avenue and 5614 North Winthrop Avenue in order to build a mixed-use apartment complex on the sites. The developer has submitted demolition permit applications, according to Block Club Chicago.&#160; However, the Commission on Chicago Landmarks has given a preliminary landmark recommendation — the first step in designating a place as an officially recognized historic site — to the Bryn [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-06-16T20:08:14+00:00",
-      "bullets": [
-        "Chicago Landmarks Commission denies demo permit for 1114 W. Bryn Mawr (1909 Classical Style building).",
-        "Harlem Irving Companies' 95-unit apartment redevelopment stalled; already spent $6M; bought project years ago.",
-        "Historic designation blocks demolition; Edgewater (Chicago) zoning/entitlement risk materializes."
-      ],
-      "summary": "The Chicago Commission on Landmarks has issued a preliminary landmark recommendation for the Bryn Mawr Avenue corridor (Broadway to Sheridan Road) in Edgewater, blocking demolition of 1114 West Bryn Mawr Avenue, which Harlem Irving Companies intended to raze as part of a 95-unit mixed-use apartment redevelopment. The commission approved demolition of two other sites (1106 W. Bryn Mawr and 5614 N. Winthrop), but denied 1114 W. Bryn Mawr due to its 1909 Classical Style character. Harlem Irving has already invested $6 million in the project since acquisition.",
-      "impact": "Critical entitlement and execution risk. Landmark designation in Edgewater removes a key parcel from the Harlem Irving redevelopment, materially reducing unit count and project economics (95 units may no longer be achievable). This exemplifies how historic preservation overlay can block infill multifamily development in Chicago's established neighborhoods. Developers underwriting projects in older urban neighborhoods (built pre-1940s) should stress-test for landmark risk during site control and entitlement phase. Harlem Irving's $6M sunk cost now at risk; monitor for project repricing, sale, or redesign to work around the protected building—possible signals of distress or capital recycling."
-    },
-    {
-      "title": "Legacy Real Estate, Urban American push resi plan for Miami Beach-owned land",
-      "link": "https://therealdeal.com/miami/2026/06/16/housing-coming-for-historic-miami-beach-site-city-condemned/",
-      "excerpt": "Legacy Real Estate Development and Urban American are seeking a density boost for their multifamily plans on a city-owned property in Miami Beach’s Collins Park neighborhood. The developers’ business entity requested a zoning change to build 105 residential units while preserving portions of the historic Barclay building, which has sat empty for years. The project will also add 1,000 square feet of neighborhood retail.&#160; The proposal is scheduled to go before the Miami Beach Planning Board on July 7 and requires approval from the Miami Beach City Commission to move forward. Miami Beach commissioners selected Legacy Real Estate and Urban [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-06-16T20:00:00+00:00",
-      "bullets": [
-        "Legacy Real Estate + Urban American seek zoning increase for Miami Beach Barclay project: 1.6 acres.",
-        "Request: 100 → 150 units/acre (bonus up to 180); targets 105 residential units + 1k SF retail (6 stories).",
-        "City-owned ground lease; July 7 Planning Board hearing; $2M upfront non-refundable payment."
-      ],
-      "summary": "Legacy Real Estate Development and Urban American, selected in 2024 for long-term ground lease rights from Miami Beach, are seeking a zoning amendment to increase residential density from 100 to 150 dwelling units per acre (with bonus provisions up to 180 du/ac) for their mixed-use redevelopment of the historic Barclay property at 1940 Park Avenue (Collins Park neighborhood). The 1.6-acre project proposes 105 residential units, 1,000 SF of retail, and six-story design; the developer will make a $2 million upfront payment and cover all development costs. The proposal is scheduled for Planning Board review on July 7 and requires City Commission approval.",
-      "impact": "Miami Beach infill development activity and zoning appetite signal. This is a city-sponsored, ground-lease redevelopment with public sector backing, indicating Miami Beach is actively pursuing residential density in underutilized parcels (Barclay has been vacant). The zoning request (100 → 150 du/ac, bonus to 180) reflects Miami Beach's willingness to grant density bonuses for well-designed projects, particularly on city-owned land. Developers should monitor Miami Beach's zoning initiatives and ground-lease RFP cycles for similar density-grant opportunities; the city appears to be using development partnerships to densify under-producing parcels while maintaining ground ownership and long-term income streams."
-    },
-    {
-      "title": "Terry Black’s BBQ owners plan $63M hotel in San Antonio",
-      "link": "https://therealdeal.com/texas/2026/06/16/terry-blacks-family-plans-63m-hotel-in-san-antonio/",
-      "excerpt": "Some haze cleared this week from one of San Antonio’s smokiest upcoming developments. Black Family Hospitality, founded by the children of Lockhart pitmaster Terry Black, filed plans on Monday to spend $63 million on a three-story hotel and restaurant over a garage and bathhouse at 1411 Alling Street in San Antonio, according to a project filing with the Texas Department of Licensing and Regulation. The hotel will be named the Mandeville, according to the project filing. The plan doesn’t detail the exact size of the hotel, but Terry Black’s BBQ co-owner Mark Black estimated in February that it will have [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-06-16T19:55:09+00:00",
-      "bullets": [
-        "Terry Black's BBQ owners (Black Family Hospitality) plan $63M mixed-use development, San Antonio.",
-        "3-story hotel (40+ rooms), restaurant, bathhouse ('The Depths'), garage at 1411 Alling Street.",
-        "Construction start September 2026, completion June 2028; family acquired 1.4-acre site in 2021."
-      ],
-      "summary": "Black Family Hospitality, founded by children of pitmaster Terry Black, filed plans for a $63 million mixed-use development at 1411 Alling Street in San Antonio near the Pearl District. The project includes a 40+-room hotel ('The Mandeville'), Terry Black's BBQ branch, a non-BBQ restaurant, and a 9,800-sq-ft bathhouse ('The Depths') featuring spas, cold plunges, steam/massage rooms. Construction is slated for September 2026 to June 2028. The family acquired the 1.4-acre site in 2021 and secured city approval in 2024 for initial elements.",
-      "impact": "Minimal direct multifamily impact. This is a hospitality/mixed-use project (hotel + F&B + spa), not apartment supply. However, the project's location near San Antonio's Pearl District and its lifestyle-amenity-forward positioning reflect broader demand for experiential urban mixed-use development in secondary markets. Developers considering multifamily or mixed-use projects in San Antonio's Pearl area should monitor absorption and leasing velocity on this project; strong hotel/F&B performance would validate the submarket's ability to support premium mixed-use with lifestyle/hospitality components, informing design and phasing of adjacent residential redevelopment."
-    },
-    {
-      "title": "DataBank lands more than $1B boost for Red Oak data center megacampus",
-      "link": "https://therealdeal.com/texas/2026/06/16/databank-reports-two-new-financing-totaling-more-than-1b/",
-      "excerpt": "Dallas-based DataBank, who is developing a 292-acre data center site in Red Oak, announced it is receiving $1.45 billion in new financing. The total amount is split across two separate transactions: an $800 million revolving credit facility, and $650 million to upsize its Red Oak campus. The windfall pushes the data center development to $2.65 billion.&#160; In April, DataBank received a $2 billion construction loan to supercharge the first phase of its campus. The $2 billion figure funds the first three of eight total planned data centers on Stainback Road, the Dallas Morning News reported. In total, the buildings will [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-06-16T19:27:09+00:00",
-      "bullets": [
-        "DataBank secures $1.45B new financing for Red Oak (Dallas) data center megacampus (292 acres).",
-        "Total capital stack: $2.65B; earlier $2B construction loan funds 3 of 8 planned data centers.",
-        "Phase 1: 600k SF, 180 MW, fully leased; Texas projected 40 GW grid demand by 2028 (4x 2025)."
-      ],
-      "summary": "Dallas-based DataBank announced $1.45 billion in new financing ($800 million revolving credit facility + $650 million for Red Oak campus upsizing) for its 292-acre data center megacampus in Red Oak (south of Dallas). Combined with an earlier $2 billion construction loan, total capital stack now reaches $2.65 billion. Phase 1 comprises three data centers (600,000 SF, 180 MW) already fully leased. DataBank has secured $6.15 billion total financing in the past 18 months. Texas is projected to become the nation's largest data center market by 2030, with grid demand reaching 40 GW by 2028 (vs. 8 GW in 2025).",
-      "impact": "Significant indirect impact on Texas multifamily markets, particularly Dallas and Austin suburbs. DataBank's massive capital deployment and full lease-up of Phase 1 facilities signal: (1) sustained tech infrastructure investment in Texas (data centers are energy-intensive, long-cycle projects requiring multi-year financing); (2) population and employment influx tied to tech operations and supporting services; (3) Red Oak and surrounding I-35 East corridor will attract workers, families, and service-sector populations; (4) grid/infrastructure constraints may limit residential density in high-growth data center zones. Multifamily developers should acquire land in Red Oak, Waxahachie, and nearby I-35 East corridors ahead of data center completion (2027–2028), as worker in-migration will lag facility opening by 12–24 months. This is a macro supply-side signal validating Texas as the nation's data center hub, with ripple effects on residential demand in secondary metros within the state."
+      "summary": "NYC's top construction permits filed in week ending June 12, 2026 included Gotham Organization's three-building, 599-unit, 533,487-square-foot mixed-use development in East New York (12-14 stories); ZD Jasper's 23-story, 99-apartment project at 35-25 Steinway Street in Long Island City (120,490 square feet); and Mendy Schwimmer's nine-story, 99-unit mixed-use project at 70 West Street in Greenpoint (105,210 square feet).",
+      "impact": "A steady pipeline of mid-rise multifamily permits in outer-borough submarkets (East New York, Long Island City, Greenpoint) reflects continued NYC multifamily development activity, driven by zoning flexibility, institutional debt availability (Gotham's $315M loan), and demographic demand. For developers, this signals: (1) competition intensifying in affordable/workforce-housing niches (Gotham), (2) sustained permit-filing velocity in Queens and Brooklyn despite constrained financing, and (3) concentration of new supply in transit-accessible, zoning-friendly corridors. Near-term deliveries will pressure rents and absorption timelines across these submarkets."
     }
   ]
 }
