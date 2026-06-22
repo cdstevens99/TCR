@@ -1,118 +1,238 @@
 {
-  "fetchedAt": "2026-06-19T23:50:55.386790+00:00",
+  "fetchedAt": "2026-06-22T21:35:37.125603+00:00",
   "rates": [
     {
       "label": "SOFR",
-      "value": "3.63%",
-      "pct": 0.0,
+      "value": "3.62%",
+      "pct": -0.01,
       "isBps": true
     },
     {
       "label": "10Y Treasury",
-      "value": "4.45%",
-      "pct": null
+      "value": "4.51%",
+      "pct": 1.3
     },
     {
       "label": "30Y Treasury",
-      "value": "4.90%",
-      "pct": null
+      "value": "4.95%",
+      "pct": 0.94
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "95.56",
-      "pct": -0.05
+      "value": "96.59",
+      "pct": 1.08
     }
   ],
   "stories": [
     {
-      "title": "Bronx STEAM Sets Up Shop at Simone’s Hutchinson Metro Center Atrium",
-      "link": "https://www.connectcre.com/stories/bronx-steam-center-sets-up-shop-at-simones-hutchinson-metro-center-atrium/",
-      "excerpt": "Simone Development Companies announced that the New York City School Construction Authority has signed a long-term lease to establish the new Bronx STEAM Center in 54,245 square feet across two floors at the Hutchinson Metro Center Atrium, a three-story, 361,857 square-foot mixed-use property located at 1776 Eastchester Rd. in the Bronx. The new lease marks a major public-private investment in career-connected education for Bronx students, with Bronx STEAM and Montefiore Medical Center partnering to launch offerings in high‑demand healthcare and technology pathways, including Certified Nursing Assistant, Cybersecurity and Medical Assisting. “Bringing the Bronx STEAM Center to the Hutchinson Metro Center is incredibly meaningful not only for participating students and for our campus, but for the borough as a whole,” said Joe Simone, president of Simone Development Companies. “This transformative project is more than a new educational facility. It reflects the power of public-private collaboration to create long-term opportunities in the Bronx.” The post Bronx STEAM Sets Up Shop at Simone&#8217;s Hutchinson Metro Center Atrium appeared first on Connect CRE.",
+      "title": "Naftali Credit Partners Arranges $75M Debt for Flatbush Condo Project",
+      "link": "https://www.connectcre.com/stories/naftali-credit-partners-arranges-75m-debt-for-flatbush-condo-project/",
+      "excerpt": "Naftali Credit Partners has closed on a $75-million loan to support the development of 757 Flatbush Ave., a nine-story ground-up condominium development in Brooklyn’s Flatbush neighborhood. The financing package includes a $58-million senior loan provided by Madison Realty Capital and a $17-million mezzanine loan provided by Naftali Credit Partners. Following a successful collaboration on 208 Delancey in 2020 and 24-01 Queens Plaza North in 2024, New Empire, a New York-based real estate development firm led by Bentey Zhou, has re-engaged with Naftali Credit Partners to finance 757 Flatbush Ave. The loan refinances existing land debt and funds the remaining hard and soft costs. “Brooklyn continues to be an important focus for residential development, particularly as demand remains strong for high-quality condominium projects,” said Glenn Grimaldi, CEO of Naftali Credit Partners. “At 757 Flatbush Avenue, New Empire is advancing a thoughtfully designed development that we believe is well aligned with the market.” The post Naftali Credit Partners Arranges $75M Debt for Flatbush Condo Project appeared first on Connect CRE.",
       "source": "Connect CRE",
       "cat": "Commercial",
-      "date": "2026-06-19T20:50:27+00:00",
+      "date": "2026-06-22T21:26:44+00:00",
       "bullets": [
-        "NYC School Construction Authority leases 54,245 SF at Simone's Hutchinson Metro Center in Bronx.",
-        "Bronx STEAM partners with Montefiore Medical Center for healthcare and tech career pathways.",
-        "Public-private investment signals institutional confidence in Bronx education and employment infrastructure."
+        "Naftali/Madison Realty close $75M debt on 757 Flatbush condo in Brooklyn",
+        "Senior ($58M) + mezzanine ($17M) structure refinances land, funds construction costs",
+        "Repeat developer New Empire signals strong condo financing appetite in Brooklyn market"
       ],
-      "summary": "The NYC School Construction Authority signed a long-term lease for 54,245 square feet at Simone Development's Hutchinson Metro Center in the Bronx to establish the Bronx STEAM Center, a career-connected education facility. The center will offer nursing, cybersecurity, and medical assistant training in partnership with Montefiore Medical Center. This marks a major public-private commitment to workforce development in the borough.",
-      "impact": "Institutional education and healthcare investment in the Bronx signals growing employer presence and job creation pipelines in the borough. This attracts working-age population inflow and strengthens rental demand fundamentals for multifamily development in the Bronx—particularly near employment hubs and transit corridors like Hutchinson."
+      "summary": "Naftali Credit Partners and Madison Realty Capital arranged $75 million in financing for New Empire's 757 Flatbush Ave., a nine-story condo development in Brooklyn. The deal includes a $58 million senior loan and $17 million mezzanine tranche, refinancing existing land debt and funding remaining hard and soft costs. This marks the third consecutive project Naftali has financed for New Empire, underscoring persistent lender confidence in Brooklyn residential.",
+      "impact": "Brooklyn condo financing remains accessible despite broader market headwinds, signaling developer appetite continues for well-capitalized firms targeting the high-design condo segment. Repeat financing wins by the same developer-lender pair suggest strong market fundamentals in Flatbush and broader Brooklyn, though condo-specific risk (absorption, pricing) differs from rental multifamily and warrants separate underwriting rigor."
     },
     {
-      "title": "Kidder Closes Hollywood Multifamily Sale Despite Softening Rental Trends",
-      "link": "https://www.connectcre.com/stories/kidder-closes-hollywood-multifamily-sale-despite-softening-rental-trends/",
-      "excerpt": "Kidder Mathews arranged the $7.6-million sale of The Carlton Apartments, a 36-unit property located at 5535 Carlton Way in Hollywood. EVP Darin Beebower and associate Dakoda Iversen represented Los Angeles-based James Investment Partners in the sale to a local real estate investor. The property generated more than 25 offers from prospective buyers despite softening rental trends in parts of the Hollywood market, which have led many investors to more closely scrutinize underwriting assumptions and future rent growth projections. “This transaction is a good example of the importance of persistence,” said Beebower. “We remained committed to the process, stayed engaged with the market and were ultimately able to identify the right buyer to help our client achieve a successful sale.” The post Kidder Closes Hollywood Multifamily Sale Despite Softening Rental Trends appeared first on Connect CRE.",
+      "title": "Zilber Opens Roseville Multifamily with Cottage-Style Residences",
+      "link": "https://www.connectcre.com/stories/zilber-opens-roseville-multifamily-with-cottage-style-residences/",
+      "excerpt": "Estia Roseville, a new residential community development by affiliated Zilber Ltd. entities Zilber Residential Group and Homes by Towne, is introducing a new housing option to Greater Sacramento with the debut of 209 cottage-style single-story apartment homes in Roseville. The complex recently held its grand opening with Roseville Mayor Krista Bernasconi, members of Roseville City Council, and other civic and community leaders in attendance. Located at 6350 Baseline Rd. in Roseville, Estia Roseville blends the privacy, comfort, and livability of single-family homes with the unit-sizing, amenities, and lower maintenance lifestyle of a professionally managed apartment community, according to Zilber Residential Group. &#8220;Estia Roseville represents and new and innovative in housing design that responds to how many people increasingly want to live,” said Mike King, director of residential investments for Zilber Residential Group. He continued, “Unlike traditional apartment communities made up of stacked two- and three-story walk-up buildings, Estia was intentionally designed to create a more private, home-like living experience.” The post Zilber Opens Roseville Multifamily with Cottage-Style Residences appeared first on Connect CRE.",
       "source": "Connect CRE",
       "cat": "Commercial",
-      "date": "2026-06-19T20:36:38+00:00",
+      "date": "2026-06-22T21:19:39+00:00",
       "bullets": [
-        "James Investment Partners sold 36-unit Carlton Apartments in Hollywood for $7.6M despite softening rents.",
-        "Property received 25+ offers despite deteriorating rental trends and tightened underwriting in market.",
-        "Hollywood rental market facing absorption and competitive pressure on pricing assumptions."
+        "Zilber opens 209-unit cottage-style apartments at 6350 Baseline Rd., Roseville, California",
+        "Single-story design blends single-family privacy with multifamily amenities and management",
+        "Product innovation targets shifting resident preference away from traditional stacked buildings"
       ],
-      "summary": "Kidder Mathews closed the $7.6 million sale of The Carlton Apartments, a 36-unit property in Hollywood, for James Investment Partners despite acknowledged softening rental trends in the submarket. The property attracted over 25 offers, but the market context reflects investor caution around rent growth and higher scrutiny of underwriting models. The deal underscores ongoing buyer interest but rising skepticism on near-term rent upside.",
-      "impact": "Softening Hollywood rents and tightened cap rate expectations signal market saturation and slower absorption. This raises cost-of-capital for new development in the submarket and pressures density and lease-up assumptions, particularly for mid-market Class B/C assets; developers should expect compressed returns and longer hold periods."
+      "summary": "Zilber Residential Group and Homes by Towne opened Estia Roseville, a 209-unit multifamily community featuring cottage-style, single-story floor plans in Roseville, California. The property combines the detached-home feel with professionally managed amenities, positioning it as an alternative to traditional walk-up or mid-rise apartment configurations. The grand opening was attended by city officials, signaling strong local support.",
+      "impact": "Cottage-style multifamily represents differentiated product gaining traction in secondary markets like Sacramento suburbs, addressing demographic demand for single-story, high-privacy formats without single-family maintenance burden. Architects and developers should track this trend as a competitive alternative to standard garden-style or mid-rise in Sunbelt/Western markets where land is available and single-family sentiment remains strong—product mix matters for lease-up speed and premium rents."
     },
     {
-      "title": "NYC DOT Modernizes Willets Point Offices and Yard with $121M Redevelopment",
-      "link": "https://www.connectcre.com/stories/nyc-dot-modernizes-willets-point-offices-and-yard-with-121m-redevelopment/",
-      "excerpt": "Construction is proceeding on the $121-million Harper Street DOT administration building and yard redevelopment project at 32-11 Harper St. in the Willets Point section of Queens. The project team includes the New York City Department of Design and Construction, New York City Department of Transportation (DOT) and the design-build team of lead architect Urbahn Architects, design excellence architect Selldorf Architects and builder Scalamandre-Tully JV. To replace obsolete and deteriorated facilities built in 1934 that no longer met modern operational, safety, or resiliency standards, NYC DOT is redeveloping its existing 160,000-square-foot Queens Roadway Repair and Maintenance &amp; Fleet Services maintenance yard . The project includes the design and construction of three new buildings: a 72,820-square-foot, five-story administration and personnel building and warehouse; an 1,849-square-foot, two-story washbay structure; and a 100-square-foot precast concrete flood- and storm-resistant security booth. “The DOT&#8217;s 160,000-square-foot yard operates 24/7 and houses over 300 Roadway Repair &amp; Maintenance and Fleet Services field employees, including warehousing and administration personnel,” said Urbahn associate principal Ijeoma D. Iheanacho, NOMA, AIA, LEED AP, “The redesigned facility will address the current deficiencies and limitations, including creating more efficient workflows and traffic pathways, increasing on-site safety for pedestrians and vehicles, increasing protection from flooding and implementing sustainable strategies to meet LEED Gold certification.” The post NYC DOT Modernizes Willets Point Offices and Yard with $121M Redevelopment appeared first on Connect CRE.",
+      "title": "John M. Corcoran Launches Leasing at Pawtucket Apartments",
+      "link": "https://www.connectcre.com/stories/john-m-corcoran-launches-leasing-at-pawtucket-apartments/",
+      "excerpt": "John M. Corcoran &amp; Co. has launched leasing at Dexter Street Commons, a new construction 150-unit apartment community with ground-floor retail in the Conant Thread District of Pawtucket, RI. Built by New England Construction, the five-story property will be managed by John M. Corcoran &amp; Co, with move-ins expected to begin in late August. “Dexter Street Commons was designed around how people want to live today, whether they’re commuting to Providence or Boston, working remotely, enjoying neighborhood dining and shopping, or simply seeking a home that supports their well-being,” said Kelli Ahearn-Lucas, Assistant Marketing Director at John M.&nbsp;Corcoran&nbsp;&amp; Company. “From the co-working spaces and lounges to the commuter-friendly location and wellness-focused design, this community offers residents a place to truly live, work, and thrive.” Rents range from studios starting at $1,750 up to two-bedroom apartments starting at $2,650. Thirty of the units are designated as workforce housing for qualified renters. The post John M. Corcoran Launches Leasing at Pawtucket Apartments appeared first on Connect CRE.",
       "source": "Connect CRE",
       "cat": "Commercial",
-      "date": "2026-06-19T20:26:53+00:00",
+      "date": "2026-06-22T21:17:06+00:00",
       "bullets": [
-        "NYC DOT $121M redevelopment of Willets Point facility in Queens includes three new buildings.",
-        "160,000-SF yard upgraded to 72,820-SF admin building, washbay, security booth; LEED Gold certified.",
-        "Public facility modernization reflects Queens infrastructure investment and operational resilience priorities."
+        "John M. Corcoran launches leasing at 150-unit Dexter Street Commons, Pawtucket, Rhode Island",
+        "Rents $1,750 studio to $2,650 two-bed; 30 units workforce-designated; ground-floor retail included",
+        "Providence-Boston corridor location targets remote workers and commuters; move-ins late August 2025"
       ],
-      "summary": "NYC Department of Transportation is redeveloping its 160,000-square-foot Willets Point maintenance yard in Queens with a $121 million construction project that includes a new 72,820-square-foot five-story admin building, washbay, and flood-resistant structures. The project, designed by Urbahn and Selldorf Architects, targets LEED Gold certification and addresses operational safety, efficiency, and climate resilience for 300+ employees operating 24/7.",
-      "impact": "Minimal direct impact on multifamily development. However, large public capital infrastructure spending in Queens (Willets Point/Jamaica/Forest Hills corridor) signals sustained city investment in the borough's operational base, which can support long-term commercial and residential mixed-use development and transit-oriented growth in adjacent submarkets."
+      "summary": "Dexter Street Commons, a 150-unit new construction apartment community by John M. Corcoran & Co. in Pawtucket's Conant Thread District, has begun leasing with studios from $1,750 and two-bedrooms from $2,650. The property includes ground-floor retail, 30 workforce-housing units, co-working spaces, and transit proximity to both Providence and Boston commute corridors. Move-ins are scheduled for late August 2025.",
+      "impact": "Pawtucket infill development signals reinvestment in secondary New England markets leveraging transit access and remote-work flexibility to compete with Providence proper. The 20% workforce-housing component suggests either tax incentives (TIF/PILOT) or community development priorities that future Rhode Island developers should factor into underwriting; construction costs and ramp timing matter for comparable Rhode Island markets (Cranston, Warwick)."
     },
     {
-      "title": "Locally Based Logistics Firm Scales Up with Menifee Warehouse Acquisition",
-      "link": "https://www.connectcre.com/stories/locally-based-logistics-firm-scales-up-with-menifee-warehouse-acquisition/",
-      "excerpt": "Colliers finalized the $40.5-million sale of Gateway at Menifee, a 229,934-square-foot industrial facility located at 33520 Zeiders Rd. in Menifee. The property is Building 3 within the five-building industrial complex, formerly known as Scott Road Commerce Center. EVP Rick Nunez, SIOR, associate Mateo Mobilia and senior client services specialist Michael Romero represented the buyer, Temecula-based logistics and distribution company Southwest Traders), in the acquisition of the asset from the seller, Scott Road Property, LLC. The deal moved at an accelerated pace, with escrow opening in May 2026, and both parties executed a quick close. “The Menifee facility represents a critical next step in our growth strategy,” said Terry Walsh, president of Southwest Traders. “It will allow us to scale our operations and expand our regional logistics footprint. In addition to the acquisition, we plan to invest approximately $25 million to retrofit a portion of the building into a state-of-the-art refrigerated distribution center.” The post Locally Based Logistics Firm Scales Up with Menifee Warehouse Acquisition appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-06-19T20:13:13+00:00",
-      "bullets": [
-        "Southwest Traders acquired Gateway at Menifee (229,934 SF) for $40.5M, plans $25M retrofit investment.",
-        "Temecula-based logistics firm scaling regional operations with refrigerated distribution center conversion.",
-        "Industrial capital deployment signals strong last-mile logistics demand in Inland Empire."
-      ],
-      "summary": "Colliers facilitated the $40.5 million sale of Gateway at Menifee, a 229,934-square-foot industrial building, to Southwest Traders, a Temecula-based logistics firm. The buyer plans to invest approximately $25 million to retrofit a portion of the facility into a state-of-the-art refrigerated distribution center as part of a broader growth and regional scaling strategy.",
-      "impact": "Minimal direct impact on multifamily. However, strong logistics capital deployment and e-commerce distribution expansion in the Inland Empire (Menifee/Riverside County) underscore robust job creation in the region, supporting population inflow and rental demand growth for multifamily near logistics hubs and corridors."
-    },
-    {
-      "title": "Basis Industrial Closes on Construction Loan for Wayne, NJ Self-Storage",
-      "link": "https://www.connectcre.com/stories/basis-industrial-closes-on-construction-loan-for-wayne-nj-self-storage/",
-      "excerpt": "Basis Industrial, a privately held and vertically integrated real estate owner and operator based in Delray Beach, FL closed on a $24-million construction loan on June 18, 2026, for a ground-up self-storage development located at 555 Hamburg Tpke. in Wayne, N.J. The project will encompass approximately 85,330 square feet and 586 climate-controlled storage units upon completion. The loan was provided by NexBank and NexPoint. Construction is expected to begin in August 2026, with delivery anticipated in February 2028. The project will deliver a storage solution to one of northern New Jersey&#8217;s most supply-constrained markets. &#8220;After more than three years of working through the approval process, we are pleased to reach this milestone and begin construction,&#8221; said Anthony Scavo, president and managing partner of&nbsp;Basis&nbsp;Industrial. &#8220;Wayne is a market with strong demographics and limited opportunities for new self-storage development, making it an attractive addition to our growing pipeline.&#8221; The post Basis Industrial Closes on Construction Loan for Wayne, NJ Self-Storage appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-06-19T20:00:58+00:00",
-      "bullets": [
-        "Basis Industrial closed $24M construction loan for 85,330-SF self-storage in Wayne, NJ; delivery Feb 2028.",
-        "Project delivers 586 climate-controlled units to supply-constrained northern New Jersey market.",
-        "3+ year entitlement process cleared; lender NexBank and NexPoint; construction begins August 2026."
-      ],
-      "summary": "Basis Industrial secured a $24 million construction loan from NexBank and NexPoint for an 85,330-square-foot ground-up self-storage development in Wayne, New Jersey, encompassing 586 climate-controlled units. After more than three years navigating approvals, construction is set to begin in August 2026, with delivery expected in February 2028. The project targets a supply-constrained market with strong demographics.",
-      "impact": "Minimal direct impact on multifamily. However, the 3+ year entitlement cycle and financing success in northern New Jersey indicate sustained capital appetite for real estate in the region despite regulatory burden. This signals stable credit conditions and investor confidence in the NJ market, supporting ancillary multifamily financing and development feasibility nearby."
-    },
-    {
-      "title": "Fintech Firm Digital Asset Returns to 4 WTC With 19K-SF Lease",
-      "link": "https://commercialobserver.com/2026/06/digital-asset-lease-4-wtc/",
-      "excerpt": "It’s a full-circle moment for fintech firm Digital Asset. The company has signed a 19,000-square-foot lease at 4 World Trade Center, Commercial Observer has learned. Digital Asset will return to the same building it occupied from 2018 until it moved to 107 Greenwich Street in March 2025. The new lease length is for 10 years, with an asking rent of $115 per square foot, a source close to the deal told CO. Savills&#8216; Slava Vaynberg and Kirill Azovtsev represented the tenant in the deal, while landlord Silverstein Properties was represented in-house by Harlan Strader and Keith Cody. Savills and Silverstein declined to comment. Founded in 2014, Digital Asset creates software for digital asset management and financial markets. In 2025, CO reported that the company signed a 10-year lease for 12,000 square feet on the entire 17th floor of Trinity Church Wall Street’s 107 Greenwich Street after subleasing temporary space at 4 WTC. It’s unclear why Digital Asset has decided to return to 4 WTC. The company did not immediately respond to a request for comment. Built in 2013, 4 WTC, also known as 150 Greenwich Street, is a 72-story, 2.3 million-square-foot office tower in Lower Manhattan. Other tenants at the office skyscraper include global investment firm KKR, investment research firm Morningstar, and music streaming service Spotify. Amanda Schiavo can be reached at aschiavo@commercialobserver.com.",
+      "title": "Content Creation Platform Spotter Takes 17K SF at Thor’s 25 West 39th Street",
+      "link": "https://commercialobserver.com/2026/06/spotter-lease-thor-25-west-39th-street/",
+      "excerpt": "Upload complete. Spotter, a platform that provides tools to help content creators post on YouTube, has signed a 17,000-square-foot lease at Thor Equities’ 25 West 39th Street in Midtown. The lease spans the entire 14th floor of the 16-story office building one block south of Bryant Park, according to Crain’s New York Business, which first reported the deal. The deal is a three-year lease with an asking rent of approximately $70 per square foot. It’s unclear whether the deal represents a relocation or an inaugural New York office for Spotter, which has its headquarters in Los Angeles, according to its website. Landlord Thor Equities was represented in the deal by Christopher Okada and Thomas Capuano from Okada &amp; Company. Okada did not immediately respond to Commercial Observer’s request for comment. Josh Berg from Newmark, who represented the tenant on this lease, declined to comment. A spokesperson for Spotter did not immediately respond to a request for comment. Built in 1907, 25 West 39th Street served as the Engineering Society’s building until it was converted into an office in 1961. Thor Equities acquired the midblock building in 2006 for $82 million, according to property records. It’s unclear when Spotter will move into its new Midtown offices, but it will join several other office tenants at 25 west 39th Street, including retailer Movado Group and art collective Tin Drum. Amanda Schiavo can be reached at aschiavo@commercialobserver.com.",
       "source": "Comm. Observer",
       "cat": "Commercial",
-      "date": "2026-06-19T12:00:09+00:00",
+      "date": "2026-06-22T21:06:35+00:00",
       "bullets": [
-        "Digital Asset signed 19,000-SF lease at 4 WTC, Manhattan; 10-year term at $115/SF asking rent.",
-        "Fintech firm returns to 4 WTC after brief 15-month stint at 107 Greenwich Street in 2025.",
-        "Manhattan office market absorbing tech tenant relocations; 10-year commitments signal confidence recovery."
+        "Spotter (content creation platform) leases 17,000 SF at Thor Equities' 25 West 39th St., Manhattan",
+        "Three-year lease at ~$70/SF on full 14th floor; unclear if relocation or inaugural NYC office",
+        "Tech/creator-economy tenant signals ongoing Midtown South office demand despite broader CRE uncertainty"
       ],
-      "summary": "Fintech firm Digital Asset has leased 19,000 square feet at 4 World Trade Center in Manhattan for 10 years at an asking rent of $115 per square foot. The company returns to the building it occupied from 2018 until relocating to 107 Greenwich Street in March 2025, marking a reversal in tenant flight patterns. Silverstein Properties was represented in-house; Savills represented the tenant.",
-      "impact": "Digital Asset's return to 4 WTC signals cautious stabilization in Lower Manhattan office markets and potential early signs of flight reversal among tech tenants. While modest, this supports office valuations and leasing pace near Battery Park, reducing pressure on conversion/adaptive reuse scenarios and suggesting multifamily supply pipeline may remain constrained in FiDi-adjacent neighborhoods dependent on office-to-residential conversions."
+      "summary": "Spotter, a Los Angeles-based content creation platform, signed a 17,000-square-foot, three-year lease at $70/SF on the entire 14th floor of Thor Equities' 25 West 39th Street in Midtown Manhattan. The lease is one block south of Bryant Park. It is unclear whether Spotter is relocating to NYC or establishing a new office.",
+      "impact": "Minimal direct impact to multifamily; office leasing signals remain noisy for residential. Relevant only as a secondary indicator of tech/creator-economy job growth and talent concentration in Manhattan—if Spotter signals broader creator-economy hiring in NYC, watch for secondary office and residential demand spillover in Midtown-adjacent neighborhoods (Long Island City, Williamsburg)."
+    },
+    {
+      "title": "Construction Tops Out at New Indiana Police Department HQ",
+      "link": "https://www.connectcre.com/stories/construction-tops-out-at-new-indiana-police-department-hq/",
+      "excerpt": "Skender, serving as general contractor, along with developer Garmong, has topped out construction on the new Westfield Police Department headquarters, a $35 million facility designed to support the city’s growth and public safety needs. The new headquarters is being built on an 11.7-acre site along Grand Park Boulevard, just north of 181st Street in Westfield, Indiana. The approximately 50,000-square-foot facility will replace the city’s existing Westfield Public Safety Building. Designed by architect Dewberry as a future-ready complex, the new headquarters will support current staffing needs while allowing for long-term expansion of up to 80,000 square feet, including a planned 30,000-square-foot addition over the next 15 to 20 years. Construction began in late 2025, with completion anticipated in 2027. &#8220;We’ve had a great partnership with the City of Westfield and the owner’s representative Veridus Group throughout this project,&#8221; said Brian Simons, President of Skender’s Indianapolis office. The post Construction Tops Out at New Indiana Police Department HQ appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-06-22T20:45:26+00:00",
+      "bullets": [
+        "Westfield Police Department HQ tops out $35M facility on 11.7 acres in Indiana",
+        "50,000 SF structure designed for 80,000 SF ultimate build-out; completion 2027",
+        "Infrastructure investment in Westfield signals municipal growth confidence north of Indianapolis"
+      ],
+      "summary": "Skender and developer Garmong topped out a $35 million, 50,000-square-foot Westfield Police Department headquarters on 11.7 acres along Grand Park Boulevard in Westfield, Indiana, north of Indianapolis. The facility is designed for long-term expansion to 80,000 square feet over 15–20 years. Construction began in late 2025 and completion is expected in 2027.",
+      "impact": "Public infrastructure investment (police HQ) in a suburban Indy growth corridor is a demand signal—major civic facilities often precede residential demand as municipalities invest in growth-supporting infrastructure. Monitor Westfield/Indianapolis northwest submarket for secondary residential and multifamily activity; if this reflects broader municipal confidence, expect residential developer activity to follow in the 2027–2029 window."
+    },
+    {
+      "title": "Changes in Retail Real Estate Nationwide Have Accelerated: Forum",
+      "link": "https://commercialobserver.com/2026/06/retail-real-estate-national-forum/",
+      "excerpt": "Kicking off a panel on the nature of experiential retail and the future of destination developments during Commercial Observer’s recent Retail &amp; Hospitality Forum, Nima Fazeli, senior vice president of development for the H.wood Group, made a statement that should have seemed more shocking than it was. “I don&#8217;t think you can really differentiate the different asset classes anymore,” Fazeli said of commercial real estate in general. “I think everybody in this room would agree that it&#8217;s all becoming blended into one homogeneous experience.” This simple statement, a dismantling of sorts of CRE’s conventional sector and asset class divisions, was just one at the event — which took place on June 18 at the Paramount Club at 1301 Avenue of the Americas in Midtown — indicating the sweeping changes engulfing the retail sector in 2026. After introductory remarks from Peter Brindley, head of real estate for building owner Elecor Properties (formerly Paramount Group), and the day’s emcee, Brian Pascus, a finance reporter for Commercial Observer, the event’s first panel included a discussion of curating leading retail corridors and the resurgence of Manhattan’s Upper East Side. David Koeppel, a partner at law firm Koeppel Rosen, noted that since COVID the area has developed a new sense of cool. “Post-COVID, there was somewhat of a void on the Upper East Side. People had left,” said Koeppel. “There were great values in residential real estate to be had, and those voids were filled by younger people starting families. Retailers like that. They love the foot traffic created by the residential tenants.” Rachel Abeles, senior vice president for customer and revenue growth for Bloomingdale’s, said the Upper East Side fixture has spent the last few years seeking to bring more ambition into their platform with an emphasis on digital growth. David Koeppel (from left), Rachel Abeles, Karen Bellantoni, and Jackie Totolo sit on a panel at the Commercial Observer Retail and H",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-06-22T20:35:18+00:00",
+      "bullets": [
+        "Industry panelists at Retail & Hospitality Forum declare retail/office/hospitality asset classes 'blended'",
+        "Mixed-use and experiential retail reshaping CRE sector divisions and investment strategy",
+        "Reflects accelerated shift toward non-traditional development models in 2026"
+      ],
+      "summary": "At a Commercial Observer Retail & Hospitality Forum on June 18 in Midtown Manhattan, developers and investors discussed sweeping changes in retail real estate. H.wood Group's Nima Fazeli stated that CRE asset-class distinctions are collapsing into a 'homogeneous experience,' reflecting broader industry recognition that retail, office, hospitality, and residential are converging into mixed-use, experiential formats.",
+      "impact": "Minimal direct impact to pure-play multifamily, but developers should recognize that ground-floor retail, mixed-use programming, and experiential amenities are no longer optional in multifamily projects—they are now table stakes for lease-up and pricing power. Retail distress and co-tenancy risk also matter more; ensure multifamily projects have resilient, diverse retail anchors (not high-street chains alone) to weather further retail-format disruption."
+    },
+    {
+      "title": "Greenstone Partners Facilitates Sale of Forest Park Retail Center",
+      "link": "https://www.connectcre.com/stories/greenstone-partners-facilitates-sale-of-forest-park-retail-center/",
+      "excerpt": "Greenstone Partners arranged the sale of Circle Plaza, a 100% occupied multi-tenant retail center located in Forest Park, Illinois, for $8.41 million. The transaction was brokered by Greenstone Partner and Investment Advisor Connor Sheedy. Situated at the intersection of Harlem Avenue and Circle Avenue, Circle Plaza is an 18,486-square-foot retail center that features a diverse mix of nationally recognized and service-oriented tenants, including Dunkin&#8217;, Pep Boys, Bloc Dispensary, HEAL Wellness, and Sploot Veterinary Care. Originally developed in 1984, the retail center has nearly maintained 100% continuous occupancy throughout its history. &#8220;Circle Plaza offered investors a rare opportunity to acquire an irreplaceable infill located retail asset with a proven operating history and significant long-term stability,&#8221; said Hagues. Positioned adjacent to both the CTA Green Line Harlem/Lake Station and Metra&#8217;s Union Pacific West Line, Circle Plaza benefits from exceptional accessibility and visibility along one of the western suburbs&#8217; most active retail corridors. The post Greenstone Partners Facilitates Sale of Forest Park Retail Center appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-06-22T20:34:36+00:00",
+      "bullets": [
+        "Circle Plaza, 18,486-SF retail center in Forest Park, Illinois, sells for $8.41 million (100% occupied)",
+        "Asset features Dunkin', Pep Boys, dispensary; adjacent to CTA Green Line and Metra transit",
+        "Strong operating history (1984 build) and infill location attract investor demand despite retail headwinds"
+      ],
+      "summary": "Greenstone Partners brokered the sale of Circle Plaza, an 18,486-square-foot, 100% occupied retail center in Forest Park, Illinois, for $8.41 million. The property is anchored by tenants including Dunkin', Pep Boys, Bloc Dispensary, HEAL Wellness, and Sploot Veterinary Care. Its location adjacent to CTA and Metra transit stations provides visibility and accessibility along a major suburban retail corridor.",
+      "impact": "Retail transaction is tangential to multifamily, but the premium valuation ($8.41M for infill, transit-proximate retail) suggests strong fundamentals in western Chicago suburbs. Multifamily developers targeting suburban Chicago markets (Forest Park, adjacent Oak Park, River Forest) should factor in transit access and nearby retail strength into site selection and amenity planning; transit-oriented infill commands retail premiums and signals residential demand stability."
+    },
+    {
+      "title": "Bread of Life starts another YIGBY project in Houston",
+      "link": "https://therealdeal.com/texas/2026/06/22/bread-of-life-unveils-yigby-supportive-housing-facility/",
+      "excerpt": "One of Houston’s best-known YIGBY developers teased plans for another project. Bread of Life Incorporated, a charitable organization associated with Beyoncé’s former church in Houston, plans to start work next month on The Weirton, a seven-story, 99-unit supportive housing facility to be constructed at 3208 Austin Street, according to a project filing submitted to the state. The 82,000-square-foot building is scheduled for completion in September 2027, and the estimated cost of construction is $20 million, or about $202,000 per unit. Texas Department of Licensing and Regulation Filings are preliminary and subject to change. The Midtown development will include 3,000 square [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-06-22T20:03:12+00:00",
+      "bullets": [
+        "Bread of Life files 99-unit supportive housing (The Weirton) at 3208 Austin St., Houston Midtown",
+        "Seven-story, $20M project ($202K/unit); completion September 2027; includes 3K SF retail, 65 parking",
+        "Fifth Bread of Life project in Houston; charity development model targets underserved populations"
+      ],
+      "summary": "Bread of Life Incorporated, a Houston-based nonprofit development organization affiliated with a former church, filed plans for The Weirton, a 99-unit supportive housing facility in Houston's Midtown at 3208 Austin Street. The seven-story, $20 million project (est. $202,000/unit) is scheduled for completion in September 2027 and includes 3,000 square feet of ground-floor commercial, dining areas, and 65 parking spaces. This marks Bread of Life's fifth Houston-area project.",
+      "impact": "Supportive/affordable housing development signals sustained nonprofit capital flows and tax-credit/HUD financing availability in Houston. While the Bread of Life model targets a different income tier than market-rate multifamily, its consistent execution (five projects) shows financing and development capacity exists in Houston—relevant for market-rate developers to understand the competitive landscape for land and labor, and to model longer lease-up curves if nearby workforce-housing projects compete for same tenant pools."
+    },
+    {
+      "title": "Kosher Grocer Bingo Wholesale Buys $50M Dev Site in Bed-Stuy",
+      "link": "https://commercialobserver.com/2026/06/bingo-wholesale-dev-site-brooklyn-sale/",
+      "excerpt": "Popular kosher grocery chain Bingo Wholesale is expanding its Brooklyn footprint into Bedford-Stuyvesant. Bingo’s holding company, Norworth Holdings, carried out a $50 million acquisition across three industrial property transactions along Warsoff Place and Walworth Street, according to property records filed Thursday. The selling entities, LFFT TIC and EFFT TIC, are tied to members of the Follman family, who owned the parcels. Abraham Follman served as the entity’s signatory. Among the transactions was the purchase of a $25 million commercial condo at 18 Warsoff Place, at the corner of Flushing Avenue. The industrial building spans 37,916 square feet and neighbors Bingo’s second $14 million acquisition at 39 Walworth Street. The 69,747-square-foot industrial building straddles both blocks between Flushing and Park avenues. An unaddressed Walworth Street property next door — the tax lot of which measures 13,613 square feet — was also included in the deal for $11 million. Additional air rights across the transactions totaled 172,796 square feet, according to PincusCo. The transaction is expected to result in Bingo’s fifth supermarket location. Its kosher offerings will serve Bed-Stuy’s growing Jewish community. Bingo’s stores in Brooklyn, Manhattan’s Inwood neighborhood, Monsey, N.Y., and Lakewood, N.J., all serve large Orthodox Jewish populations. Official site plans for the new Bed-Stuy spot, however, have not yet been disclosed by the grocer. Representatives for Bingo did not respond to a request for comment. The multi-parcel transaction has been years in the making, PincusCo reported, as now-resolved litigation within the Follman family sought to block the deal. Follman could not immediately be reached for comment. Emily Davis can be reached at edavis@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-06-22T19:44:41+00:00",
+      "bullets": [
+        "Kosher grocer Bingo Wholesale acquires $50M industrial portfolio in Bed-Stuy: 18 Warsoff Pl ($25M), 39 Walworth St ($14M), adjacent tax lot ($11M)",
+        "Three properties total 121,276 SF across Flushing/Park Ave.; industrial/retail use conversion planned",
+        "Large retail operator anchors Bed-Stuy industrial submarket; signals investor/operator confidence in neighborhood transformation"
+      ],
+      "summary": "Bingo Wholesale's holding company, Norworth Holdings, acquired three industrial properties in Bedford-Stuyvesant, Brooklyn for $50 million across three transactions. The portfolio includes a $25 million acquisition of a 37,916-square-foot property at 18 Warsoff Place, a $14 million purchase of a 69,747-square-foot building at 39 Walworth Street, and an $11 million adjacent lot. The properties are positioned for commercial/retail conversion.",
+      "impact": "Large grocery retailer anchor investment signals Bed-Stuy is transitioning from industrial-only to mixed-use retail-residential corridor. This mega-grocer presence will attract residential demand and make the submarket more appealing for multifamily development—expect nearby residential projects to benefit from grocery and retail agglomeration. Monitor Bed-Stuy/Crown Heights for emerging residential development opportunities; the $50M retail investment de-risks the neighborhood narrative and will support rental demand and pricing for adjacent multifamily."
+    },
+    {
+      "title": "Nashville Zoo Proving a Beast of an Opponent for Data Center",
+      "link": "https://commercialobserver.com/2026/06/nashville-zoo-proving-a-beast-of-an-opponent-for-data-center/",
+      "excerpt": "Data centers sometimes want the lion’s share of available resources. In what might be a first for a U.S. teeming with data center opposition, it’s a zoo that’s fighting back. On May 20, it was reported that DC Blox, an Atlanta-based digital infrastructure provider, intends to build a 69,000-square-foot data center at 648 Grassmere Park in Nashville’s Radnor neighborhood. If approved, the development would be built just yards from the Nashville Zoo — something the animal care facility is actively fighting against. The zoo, at 3777 Nolensville Pike, is home to over 3,700 animals, all of which the facility claims would be negatively impacted by the construction and utilization of the data center. Earlier this month, the zoo launched a petition against the building of the data center. Over Father’s Day weekend, the petition reached more than half a million signatures. “If the data center is built, it would have detrimental effects on our animals and the people who call South Nashville home,” Leah Trice, a representative for the Nashville Zoo, told Commercial Observer. “The property line of the proposed data center is only 320 feet from the breeding facilities of our top conservation species, the clouded leopard. These elusive animals are extremely sensitive to mechanical noises.” Trice added that the prolonged noise pollution caused by the proposed data center’s construction would cause health problems for the zoo’s animals, as well as introduce pollutants to the animal and human environment. “Stormwater runoff from this new construction would cause worse damage to our already fragile retention pond,” she said of the area, which already struggles with flooding. “The property’s water runoff goes directly into our watershed, potentially washing in pollutants that could harm our animals and the people who visit the zoo every day.” The zoo’s lawyers are in contact with DC Blox, Trice said. The zoo has until July 6 to stop the data center from being built. DC Blox did not im",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-06-22T19:38:55+00:00",
+      "bullets": [
+        "DC Blox proposes 69,000-SF data center at 648 Grassmere Park, Nashville Radnor neighborhood",
+        "Nashville Zoo (3,700+ animals) launching petition, reached 500K+ signatures opposing development",
+        "Data center approval faces local opposition; illustrates zoning/NIMBYism risk for industrial/tech infrastructure"
+      ],
+      "summary": "Atlanta-based digital infrastructure provider DC Blox plans to build a 69,000-square-foot data center at 648 Grassmere Park in Nashville's Radnor neighborhood, yards from the Nashville Zoo. The zoo, housing over 3,700 animals, has launched a petition against the project that has garnered over 500,000 signatures over Father's Day weekend, citing operational and environmental concerns.",
+      "impact": "Minimal direct multifamily impact, but the Nashville Zoo opposition illustrates a growing NIMBY trend against data center/industrial infrastructure in residential/mixed-use neighborhoods. For multifamily developers in Nashville and other growth markets, monitor zoning and entitlement risk; if data centers face local pushback, industrial/commercial zoning adjacent to residential could tighten, limiting mixed-use development feasibility and raising construction costs if servicing infrastructure (power, cooling) becomes constrained."
+    },
+    {
+      "title": "Moinian Group Signs Deals With Three AI Firms at 60 Madison Avenue",
+      "link": "https://commercialobserver.com/2026/06/moinian-group-tenex-labs-lease-60-madison-avenue/",
+      "excerpt": "The Moinian Group has been dealing with an avalanche of new leasing in Midtown over the last two weeks. The office landlord said it has signed 68,000 square feet of new leases with four new tenants — three technology firms and a communications company — at 60 Madison Avenue, with web developer Tenex Labs taking the largest slice at 25,000 square feet. The Moinian Group did not disclose the asking rent for the building or the length of the Tenex lease, but office asking rents in Midtown South averaged $86.38 per square foot in May, according to an office market report from CBRE. Tenex’s new office will span the entire 12th floor and penthouse level of the building, but it is unclear where the firm is relocating from. “60 Madison Avenue, with its prime Midtown South location directly on Madison Square Park, continues to attract innovative and fast-growing companies seeking high-quality office space in one of Manhattan’s most dynamic business districts,” Joseph Moinian, founder and CEO at the Moinian Group, said in a statement. “These leases, all signed within the last two weeks, demonstrate the strong demand for thoughtfully designed, move-in-ready spaces and build upon the momentum we have established at the property throughout 2026.” CBRE’s Gregg Rothkin, Hayden Pascal, Jared London, Taylor Walker and Keegan Schenk represented Moinian Group in all four deals, while Noel Flagg and E.N. Cutler of Newmark negotiated on behalf of Tenex. In a separate deal, Pace, a firm that develops artificial intelligence agentic workforce for insurance companies with backing from Sequoia Capital and Thrive Capital, also signed a lease for 17,500 square feet across the entire seventh floor of 60 Madison Avenue, according to the landlord. The deal marks a relocation and expansion from 734 Broadway, where Pace occupies 3,500 square feet, according to Nicholas Markel of Cresa, who represented the tenant “We&#8217;re customizing a prebuilt, they need space to accommodate their growing team",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-06-22T19:34:23+00:00",
+      "bullets": [
+        "Moinian Group signs 68,000 SF of new leases at 60 Madison Avenue, Manhattan (four tenants)",
+        "Tenex Labs (web developer) anchors with 25K SF (entire 12th floor + penthouse); Midtown South ~$86/SF asking",
+        "Tech/AI tenant concentration signals ongoing Midtown South office demand despite market softness"
+      ],
+      "summary": "The Moinian Group signed 68,000 square feet of new leases at 60 Madison Avenue in Midtown Manhattan with four new tenants, including three tech firms and one communications company. Web developer Tenex Labs leased 25,000 square feet (entire 12th floor and penthouse). Midtown South office rents averaged $86.38/SF in May 2025, per CBRE.",
+      "impact": "Tangential to multifamily, but ongoing Manhattan office leasing by tech/AI firms signals continued job concentration in Midtown and sustained residential demand in proximate neighborhoods (Flatiron, Kips Bay, Stuyvesant Town area). Multifamily developers targeting Manhattan should factor persistent tech/AI hiring into demand models; however, remote-work prevalence means office leasing no longer a perfect proxy for residential demand—segment tenants by role (engineering vs. corporate) to refine residential demand forecasts."
+    },
+    {
+      "title": "Domus lands approval for standard-breaking Fulton Market apartments",
+      "link": "https://therealdeal.com/chicago/2026/06/22/domus-lands-approval-for-standard-breaking-development/",
+      "excerpt": "Chicago City Council greenlit a Fulton Market development that could set a new density precedent for the area.&#160; Previously, zoning officials sought to reject a plan for the planned high-rise to gain a DX-16 zoning designation, which is normally reserved for skyscrapers. The new development at 215 North Racine Avenue is set to total 29 stories and 347 apartment units. A nearby parcel of unused land slated to be transformed into a public park was also purchased by the Domus Real Estate Group, the project’s developer, to fulfill a condition of the city’s approval. A small delay in acquiring the [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-06-22T18:00:00+00:00",
+      "bullets": [
+        "Domus secures DX-16 zoning for 347-unit, 29-story apartment tower at 215 North Racine, Chicago Fulton Market",
+        "High-density designation typically reserved for skyscrapers; breaks Fulton Market's prior development planning constraints",
+        "Approval conditional on Domus purchasing adjacent land for public park; raises precedent risk for future density requests"
+      ],
+      "summary": "Domus Real Estate Group won Chicago City Council approval for a 347-unit, 29-story apartment tower at 215 North Racine in Fulton Market, securing a DX-16 zoning designation typically reserved for major skyscrapers. The approval required Domus to purchase an adjacent parcel for conversion to public park. Zoning officials initially opposed the density, but the city ultimately approved it, raising concerns among neighbors that it may establish a new precedent for higher-density development in the historically planned district.",
+      "impact": "Landmark zoning win in Fulton Market signals Chicago willingness to densify even historically planned neighborhoods amid housing shortage. For multifamily developers in Fulton Market and surrounding Chicago submarkets (River North, West Loop), this opens upzoning precedent—proactive entitlement strategy on marginal sites could yield higher-density approval. However, the park condition adds cost and timeline risk; factor public-benefit contingencies into any Chicago Fulton Market feasibility model. Density precedent may also tighten future zoning as city responds to community backlash—move quickly if acquisition targets are at-risk."
+    },
+    {
+      "title": "“Straight out of Las Vegas”: Developers complete E11even Residences in Miami",
+      "link": "https://therealdeal.com/miami/2026/06/22/first-e11even-residences-in-miami-completed/",
+      "excerpt": "E11even Partners and PMG completed their first E11even-branded condo tower, and have recorded nearly all of the unit closings, according to The Real Deal’s analysis of property records.&#160; The 65-story tower at 20 Northeast 11th Street in Miami, across the street from the E11even nightclub in downtown’s Park West district, was the first high-rise condo tower in Miami to sell out in the post-pandemic frenzy. The developers reserved 90 percent of units at E11even Club Hotel &#38; Residences Miami within two months of presales in 2021. The building has 457 units.&#160; E11even Partners is led by Marc Roberts, Michael Simkins [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-06-22T13:00:00+00:00",
+      "bullets": [
+        "E11even Partners and PMG complete 457-unit, 65-story condo tower (20 NE 11th St., Miami downtown) with ~$375M sellout",
+        "First Miami post-pandemic condo tower to sell out (90% reserved within 2 months of 2021 presales); closings ~400 units recorded",
+        "Amenity package (casino-style lounge, rooftop bar, 22 hot tubs, luxury spa) targets ultra-high-net-worth buyers; first phase of two-tower development"
+      ],
+      "summary": "E11even Club Hotel & Residences Miami, a 457-unit, 65-story condo tower at 20 Northeast 11th Street developed by E11even Partners and PMG, has recorded nearly all unit closings with roughly $375 million in total sales. The building was the first Miami post-pandemic condo tower to sell out, achieving 90% reservation within two months of 2021 presales. The property includes luxury amenities (after-hours lounge, day club, rooftop bar, spa, sports lounge, branded dining) and marks phase one of a two-tower development connected by sky bridge.",
+      "impact": "Miami luxury condo market shows continued strength despite national rate headwinds—strong sellout signals continued wealth inflows to South Florida and demand for ultra-luxury product. For Miami multifamily rental developers, observe: (1) condo pre-sales remain robust, pulling high-income cohort away from rentals; (2) ultra-amenity positioning (nightlife, luxury dining, casinos) may pressure nearby rental properties on lease-up if they compete for same demographic; (3) two-tower connected development could set precedent for density/amenity intensity in downtown Miami—monitor for policy shifts that open zoning for larger mixed-use projects."
+    },
+    {
+      "title": "The challenge of cheap markets",
+      "link": "https://therealdeal.com/new-york/2026/06/20/can-luxury-rentals-pencil-out-in-lake-charles-louisiana/",
+      "excerpt": "Studios for $1,050 a month, one-bedrooms for $1,310 and two-bedrooms for $1,525. Those are actual asking rents for “high end,” downtown, market-rate units in the Erdace Apartments, “the epitome of a luxe residence.” As you might guess, they are not in New York City. They’re in downtown Lake Charles, Louisiana. These markets might as well be on different planets. A developer in Gotham would make a killing if he could build luxury rentals for $160,000 per unit, which in 2018 is what the Erdace Apartments were projected to cost. A developer building at that price in Lake Charles, by contrast, [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-06-20T13:00:00+00:00",
+      "bullets": [
+        "Muss Development and Amesbury Companies acquire 270-unit Erdace Apartments (Lake Charles, Louisiana) for ~$137K/unit",
+        "Luxury rents $1,050 studio to $1,525 two-bed in secondary market; original $160K/unit dev cost vs. $137K acquisition",
+        "Secondary-market multifamily economics highlight gap between construction cost and stabilized valuation; rent growth constrained"
+      ],
+      "summary": "Muss Development and Amesbury Companies acquired the 270-unit Erdace Apartments in Lake Charles, Louisiana for approximately $137,000 per unit via a HUD-insured loan assumption. The property opened in June 2020 with high-end finishes (in-unit dishwashers, granite counters, 10-foot ceilings, amenity-rich clubhouse) but rents only $1,050 studio, $1,310 one-bed, and $1,525 two-bed. Original development cost was roughly $160,000/unit. Muss plans minor capital improvements and rebranding.",
+      "impact": "Secondary-market multifamily arbitrage opportunity illustrates rent-growth cap in lower-cost metros—developers building new in Lake Charles face rent ceilings that may not support construction costs, making acquisition of performing assets at distressed basis more attractive than new construction. For Sunbelt/secondary-market developers, this signals: (1) new-construction capital must chase strong job/population growth to achieve rent levels that support hard costs; (2) established secondary markets with saturated supply have limited upside; (3) distressed asset acquisition and minor reposition strategies outperform ground-up development. Revisit markets with weak employment trends."
     },
     {
       "title": "Gauging the Obama Center’s real estate ripple effects across the South Side",
@@ -122,12 +242,12 @@
       "cat": "Development",
       "date": "2026-06-19T11:15:00+00:00",
       "bullets": [
-        "Obama Presidential Center opened (cost $850M vs. $300M initial estimate); drove East Woodlawn home prices from $220K to $440K median (2019–2025).",
-        "Real estate speculation and outside developer investment accelerated; new construction displaced older brick multifamily stock.",
-        "Chicago South Side experiencing gentrification wave; tenant rights battles and displacement pressures intensifying."
+        "Obama Presidential Center opens June 19; construction costs ballooned from $300M to $850M; sparked housing cost surge and displacement on South Side",
+        "East Woodlawn median home prices doubled 2019–2025 to $440K; vacant lot inventory collapsed; outside developers speculating with townhome construction",
+        "Anchor institution catalyzed real estate speculation, reduced affordability, sparked tenant-rights legislative battles in adjacent neighborhoods"
       ],
-      "summary": "The Obama Presidential Center's opening on Chicago's South Side, after cost overruns from $300 million to $850 million, has catalyzed significant real estate appreciation and speculation. East Woodlawn single-family and multifamily prices doubled to a median of $440,000 between 2019 and 2025—far exceeding Illinois state growth rates. Outside developers have acquired sites and constructed luxury townhomes, replacing older multifamily properties and altering the neighborhood's character while sparking fierce tenant rights and displacement battles.",
-      "impact": "Obama Center's economic gravitational pull is rapidly commodifying the South Side (60637 ZIP), creating a narrow window for acquisition and development in adjacent, less-appreciated submarkets before speculative premiums spread. However, intensified tenant protections and displacement litigation raise entitlement, financing, and operational costs; developers must factor regulatory friction and community opposition into proformas and timelines in gentrifying Chicago South Side corridors."
+      "summary": "The Obama Presidential Center opened on Juneteenth after construction costs nearly tripled from an initial $300 million estimate to $850 million, following a half-decade legal battle and pandemic delays. The 19-acre complex on Chicago's South Side has accelerated real estate speculation and housing-cost inflation, with East Woodlawn median home prices doubling from 2019 to 2025 ($440,000). Outside developers have acquired lots to build near-million-dollar townhomes, and the 60637 ZIP code's vacant lot inventory has collapsed, sparking intense tenant-rights and displacement debates.",
+      "impact": "Major anchor-institution opening (presidential library) has proven to be a double-edged sword for residential real estate: (1) tourism and economic-engine benefits will take years to materialize; (2) near-term effect is speculative land acquisition, property-tax increases, and displacement risk—multifamily developers targeting Woodlawn/Bronzeville should expect rising land costs and community resistance; (3) legislative response (tenant-rights ordinances, speculation taxes) may constrain future development feasibility; (4) project cost overruns ($850M vs. $300M budget) reflect Chicago construction cost/labor inflation relevant for any downtown South Side development. Timing of development relative to community pushback is critical—early movers (pre-backlash) may have had better land/financing access."
     },
     {
       "title": "Terra, BH to pay $100M for billionaire Jeff Greene’s West Palm land",
@@ -137,132 +257,12 @@
       "cat": "Development",
       "date": "2026-06-18T22:06:22+00:00",
       "bullets": [
-        "Terra and BH Group acquiring West Palm Beach waterfront site (1.6 acres) from Jeff Greene for $100M; purchased for $1.5M in 2014.",
-        "Two 31-story condo towers planned (281 units, 438,300 SF); average unit 1,760 SF; nearby Currie Park undergoing $35M renovation.",
-        "Related Group and BH Group also developing adjacent $34M Rosewood Residences site; waterfront condo cluster forming."
+        "Terra and BH Group acquire 1.6-acre West Palm Beach waterfront site (2085 North Flagler Drive) from billionaire Jeff Greene for ~$100M",
+        "Greene purchased land 2014 for $1.5M (6,567% gain); planned two 31-story condo towers, 281 units, retail, 362 parking",
+        "South Florida waterfront condo market remains strong; adjacent Currie Park $35M renovation signals municipal infrastructure investment"
       ],
-      "summary": "Terra and BH Group are acquiring a 1.6-acre waterfront parcel at 2085 North Flagler Drive in West Palm Beach from billionaire Jeff Greene for approximately $100 million, a 6,567 percent appreciation from Greene's $1.5 million 2014 purchase. The developers plan two 31-story condo towers with 281 units, averaging 1,760 square feet, plus 4,400 square feet of retail. The site benefits from proximity to Currie Park's $35 million renovation and adjacent Related Group/BH Rosewood development.",
-      "impact": "Strong waterfront condo absorption and capital deployment in West Palm Beach—combined with institutional anchor investments (Currie Park $35M public renovation)—signal tight supply and pricing power in the submarket. For multifamily renters, this condo activity and rising land costs may compress affordable rental supply; developers should prioritize workforce-housing density and mixed-income strategies to remain competitive and navigate demand bifurcation in West Palm Beach's increasingly luxury-oriented waterfront corridor."
-    },
-    {
-      "title": "L.A. Closer to Scaling Back ‘Mansion Tax’",
-      "link": "https://commercialobserver.com/2026/06/la-mansion-tax-ula-ballot-measure-multifamily/",
-      "excerpt": "Los Angeles lawmakers are moving toward asking voters to scale back perhaps the most controversial part of the city’s real estate regulations. The Los Angeles City Council voted 9 to 5 Wednesday to direct the city attorney to draft a ballot measure that would amend Measure ULA, the city’s so-called “mansion tax,” by exempting newly built multifamily properties sold within 10 years of construction, the Los Angeles Times reported. The draft will need to return to the council for final approval before landing on the November ballot. Measure ULA, which took effect in April 2023, imposes a 4 percent tax on nearly all property sales above $5.3 million, and a 5.5 percent tax on sales of $10.6 million or more. But, contrary to its nickname, the tax applies to all commercial assets, and developers and analysts have argued that it has been devastating to multifamily development. Under the ballot measure proposal, the transfer tax would be amended so it would not apply to new apartment buildings sold within 10 years of construction. The tax was initially designed to fund affordable housing construction and homelessness prevention, but the new ballot measure will also allow ULA revenue to be spent on temporary housing. Measure ULA has raised $1.19 billion for affordable housing production, tenant rental assistance, education and eviction defense. That’s less than half of the $2.7 billion that proponents estimated would be generated by early 2026. ULA opponents say the extra tax has significantly dissuaded multifamily investment and is worsening the affordability crisis by suppressing new supply. Data from think tank Rand Corporation found that Measure ULA has cut high-value real estate deals by 31 percent, and has had an even worse effect on commercial properties: Multifamily and commercial transactions fell more than 46 percent since the tax’s 2023 inception. Rand also reported that ULA reduced the production of large multifamily developments by 30 percent. Cityview CEO Sean B",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-06-18T21:05:31+00:00",
-      "bullets": [
-        "LA City Council voted 9–5 to draft ballot measure exempting newly built multifamily from Measure ULA 'mansion tax' (4–5.5%) if sold within 10 years.",
-        "Measure ULA (April 2023) applies 4% tax on $5.3M+ sales, 5.5% on $10.6M+ sales across all commercial assets.",
-        "Proposed exemption targets developer financing and syndication constraints on new apartment supply."
-      ],
-      "summary": "The Los Angeles City Council voted 9–5 to direct the city attorney to draft a ballot measure that would exempt newly constructed multifamily properties sold within 10 years of completion from Measure ULA, the city's controversial transfer tax (4–5.5% on sales above $5.3 million). The exemption aims to address developer and analyst concerns that the tax has constrained multifamily development. The draft ballot measure is expected to return to council for final approval before the November election.",
-      "impact": "Proposed Measure ULA exemption signals political recognition that the tax has materially impaired multifamily development economics and exit planning in LA. If passed, the exemption lowers effective cost of capital for new apartment development and syndication, improving underwriting returns and development starts. However, passage is not assured; developers should model both scenario (exemption vs. full tax) and monitor ballot measure dynamics closely, as the tax remains a significant headwind to LA multifamily feasibility and timing."
-    },
-    {
-      "title": "Miami-Area Warehouse Trades for $56M",
-      "link": "https://commercialobserver.com/2026/06/florida-warehouse-terreno-clarion/",
-      "excerpt": "Terreno Realty on Thursday announced it has paid $56.3 million for an industrial property in Hialeah Gardens, Fla. The 98,000-square-foot distribution building sits on 16.8 acres at 10910 Northwest 144th Street, adjacent to the intersection of Florida’s Turnpike and Okeechobee Road, Terreno Realty said in a statement. The property includes 36-foot ceilings, nine dock-high doors, six grade-level loading positions and parking for 596 cars. The building is fully leased to an e-commerce firm, but the buyer did not immediately disclose the name of the tenant. The estimated capitalization rate is 5 percent. The seller was Clarion Partners of New York, according to property records. It’s the first sale of the building, which was constructed in 2022. As of the end of 2025, Terreno Realty owned 41 buildings in the Miami area totaling 4.7 million square feet, according to its most recent annual report. Those warehouses had an occupancy rate of 92.2 percent. Terreno Realty is based in Bellevue, Wash. The company operates industrial real estate in six U.S. markets: New York City/Northern New Jersey, Los Angeles, Miami, the San Francisco Bay Area, Seattle and Greater Washington, D.C. It owns more than 300 properties in those markets. Jeff Ostrowski can be reached at jostrowski@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-06-18T20:50:42+00:00",
-      "bullets": [
-        "Terreno Realty acquired 98,000-SF industrial building in Hialeah Gardens, FL for $56.3M; 5% cap rate.",
-        "Property on 16.8 acres at FL Turnpike and Okeechobee Road intersection; 36-foot ceilings, 9 dock doors; fully leased to e-commerce tenant.",
-        "Terreno now owns 41 buildings (4.7M SF) in Miami area with 92.2% occupancy as of end-2025."
-      ],
-      "summary": "Terreno Realty purchased a 98,000-square-foot distribution facility in Hialeah Gardens, Florida, for $56.3 million at an estimated 5 percent cap rate. The property sits on 16.8 acres near the intersection of Florida's Turnpike and Okeechobee Road and features 36-foot ceilings, nine dock-high doors, and is fully leased to an e-commerce tenant. This acquisition represents Terreno's continued portfolio expansion in Miami, where it now owns 41 buildings totaling 4.7 million square feet with 92.2% occupancy.",
-      "impact": "Minimal direct impact on multifamily. However, robust industrial capital deployment and e-commerce logistics expansion in Miami (Hialeah Gardens, Doral corridor) reinforce strong job creation and worker population growth in South Florida. This supports downstream multifamily rental demand, particularly near logistics hubs and commute corridors serving warehouse and distribution centers."
-    },
-    {
-      "title": "Costco, multifamily on tap as mixed-use projects power Pompano Beach",
-      "link": "https://therealdeal.com/miami/2026/06/18/costco-wholesale-more-apartments-on-tap-in-pompano-beach/",
-      "excerpt": "Two major development proposals — a 163,000-square-foot Costco Wholesale and a 132-unit multifamily building — are set to go before Pompano Beach planners next week, adding to the long list of projects underway in the city. The proposed Costco store would sit on a 18.7-acre vacant parcel The Pompwithin the northwest corner of The Pomp, a 223-acre planned commercial development at Racetrack Road and Powerline Road, according to city documents. David Cordish’s The Cordish Companies and Thomas Reeg’s Caesars Entertainment are partnering on The Pomp, a mixed-use hospitality development that will include 1.3 million square feet of retail and entertainment [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-06-18T20:47:32+00:00",
-      "bullets": [
-        "Cordish Companies and Caesars Entertainment advancing Costco (163,000 SF) and 132-unit multifamily at The Pomp, Pompano Beach mixed-use.",
-        "The Pomp master plan: 1.3M SF retail/entertainment, 1.4M SF office, 4,000 luxury residential units on 223 acres.",
-        "Vera Fund also building 132-unit multifamily on Federal Highway (land acquired 2024 for $12.75M); mixed-use retail/office integration."
-      ],
-      "summary": "The Cordish Companies and Caesars Entertainment are seeking approvals for a 163,000-square-foot Costco and a separate 132-unit multifamily building at The Pomp, a 223-acre mixed-use development in Pompano Beach anchored by 1.3 million square feet of retail/entertainment, 1.4 million square feet of office, and 4,000 luxury residential units. Separately, developer Nick Polyushkin's Vera Fund is planning a 132-unit multifamily at 1600 South Federal Highway, acquired in 2024 for $12.75 million, with 3,700 square feet of retail space.",
-      "impact": "Dual multifamily projects in Pompano Beach (264 units combined) underscore strong rental demand and developer confidence in South Florida's growth trajectory. Large mixed-use anchors (Costco, Caesars) and institutional capital (Cordish, Caesars) signal sustained demographic inflow and leasing velocity; competitive multifamily supply is accelerating. Developers should expect tightening margins and higher lease-up risk if market absorption slows; focus on differentiation, location, and early delivery to capture rental momentum in the Pompano corridor."
-    },
-    {
-      "title": "Vilson Lumaj Plans Two 99-Unit Buildings in the Bronx After $14M Deal",
-      "link": "https://commercialobserver.com/2026/06/vilson-lumaj-buys-761-769-east-tremont-avenue/",
-      "excerpt": "Housing developer Vilson Lumaj has purchased a vacant property in the Bronx to build two 99-unit residential buildings, Commercial Observer has learned. The property at 761-769 East Tremont Avenue was sold for $10 million by real estate developer Yoram Eliyahu. The buyer also acquired 60,000 square feet of air rights above the property for $3.5 million from Michael and Rudolf Abramov, according to broker Rosewood Realty Group. The total sale price was $13.5 million. The development plans for two 99-unit buildings were meant to cut down on labor costs while still getting more units on the market, according to Rosewood’s Jonah Corney. “The development is going to be two 99-unit buildings which will be a work-around for the prevailing wage required under 485-x,” Corney told CO. “I guess it&#8217;s a sign of poor policy.” Corney represented the buyer alongside Rosewood’s Mike Kerwin and Mark Steinmetz. The proliferation of 99-unit developments throughout New York City has resulted in criticism of the state government for allegedly creating a piece of flawed policy after the expiration of the 421-a property tax abatement, as under its successor, the 485-x tax program, construction costs can increase 20 to 30 percent, depending on who you ask. Critics, such as the Real Estate Board of New York, have said that the tax program prevents the city from reaching its goals of meeting the needs of the national housing shortage. But it appears developers are simply building 99 units across multiple buildings, such as with Ami Weinstock working on six 99-unit buildings in Jamaica, Queens, in 2025, along with a scattering of other projects. Mark Hallum can be reached at mhallum@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-06-18T20:26:32+00:00",
-      "bullets": [
-        "Vilson Lumaj purchased vacant Bronx site (761 East Tremont) for $10M; acquired 60,000 SF air rights for $3.5M; total $13.5M.",
-        "Developer planning two 99-unit buildings to circumvent prevailing wage requirements under NY 485-x housing law.",
-        "Proliferation of 99-unit developments signals policy-driven workaround; developer criticism of state labor mandates."
-      ],
-      "summary": "Housing developer Vilson Lumaj acquired a vacant property at 761–769 East Tremont Avenue in the Bronx for $10 million, plus 60,000 square feet of air rights for $3.5 million (total $13.5 million), to develop two 99-unit residential buildings. The two-building structure is explicitly designed to avoid prevailing wage requirements under New York's 485-x law, which mandates higher labor costs for larger developments. Brokers cited this as a sign of poor state policy creating perverse development incentives.",
-      "impact": "Proliferation of 99-unit projects in NYC (to dodge 485-x prevailing wage mandates) distorts density and site economics, fragmenting supply and reducing per-site yields. For developers, this signals that regulatory labor cost burdens are material enough to reshape project architecture and unit counts—eroding competitive advantage and discouraging larger, more efficient developments. Monitor state labor policy closely; changes to prevailing wage thresholds or carve-outs could unlock larger, more viable projects in the Bronx and outer boroughs."
-    },
-    {
-      "title": "Related, Battery Park City Authority to Expand Affordable Housing at Tribeca Park",
-      "link": "https://commercialobserver.com/2026/06/related-battery-park-city-authority-expand-affordable-housing-400-chambers-street/",
-      "excerpt": "The Knicks parade wasn’t the only noise happening in Manhattan’s Battery Park on Thursday. Related Companies and the Battery Park City Authority (BPCA) have teamed up to preserve and expand the number of affordable units at Tribeca Park, Related’s 27-story Lower Manhattan residential building, the partners announced Thursday. Related built the 369-unit rental tower at 400 Chambers Street near Battery Park in 1999. The new agreement with BPCA amends the building’s ground lease to keep in place the 81 units already designated as affordable housing for individuals earning 50 percent of the area medium income. The agreement also will add 20 more units for people earning up to 130 percent of the area medium income. “We’re proud to work with Related to preserve and increase the number of affordable units in Tribeca Park,” Raju Mann, president and CEO of BPCA, said in a statement. “BPCA is committed to using any and every opportunity we have to add affordable homes to this neighborhood.” As part of the agreement, 101 units, or 25 percent of the building’s total residences, will be income-restricted through the remainder of the building’s lease term in 2069. Previously, the affordability at 400 Chambers Street was going to expire at the end of 2029. The agreement also increases the building’s ground rent payments to BPCA. “Battery Park City stands as one of New York City’s most successful mixed-income communities, and Related has been honored to be part of its evolution for more than four decades,” Bruce A. Beal Jr., president of Related Companies, said in a statement. “Maintaining and expanding affordable housing is critical to the city’s long-term economic strength and quality of life.” Amanda Schiavo can be reached at aschiavo@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-06-18T20:13:53+00:00",
-      "bullets": [
-        "Related Companies and Battery Park City Authority (BPCA) amended Tribeca Park ground lease to preserve 81 affordable units (50% AMI) and add 20 more (130% AMI).",
-        "27-story rental tower (369 units total) at 400 Chambers Street; 1999 construction; long-term affordability lock-in.",
-        "BPCA and Related partnering to expand affordable housing in Lower Manhattan as regulatory tool."
-      ],
-      "summary": "Related Companies and the Battery Park City Authority announced an amendment to the ground lease for Tribeca Park, the 27-story, 369-unit rental tower at 400 Chambers Street, to preserve 81 units designated as affordable for individuals earning 50 percent of area median income and add 20 additional units for those earning up to 130 percent AMI. The agreement reflects a public-private partnership to expand affordable housing in Lower Manhattan and secure long-term affordability commitments.",
-      "impact": "Minimal direct impact on market-rate multifamily development. However, BPCA-negotiated affordability deals on established properties signal regulatory appetite for extracting affordable units from existing portfolios. Developers should expect similar affordability demands in Lower Manhattan ground leases and refinancing negotiations; factor long-term rent-controlled unit drag into proformas and exit planning for Battery Park City and waterfront Manhattan assets."
-    },
-    {
-      "title": "Universal Music plans first US branded condo project at contentious Hill Country site",
-      "link": "https://therealdeal.com/texas/2026/06/18/universal-music-group-plans-austin-branded-condos/",
-      "excerpt": "Branded condo development is taking off in Texas, and Universal Music Group is tossing its hat in the ring.&#160; The “big three” record label is partnering with Austin developer White Rocks Entertainment to build UMusic Hotel &#38; Private Residences Austin at a Hill Country site near Bee Cave, the Austin Business Journal reported.&#160; The project, at 10549 SH 71, will feature 600 condo units, 150 hotel rooms and a 10,000-seat outdoor venue. Proposed amenities include professional recording studios, a nightclub, comedy club, indoor performance venue and two restaurants. It would be the first stateside hospitality project from Universal, which has [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-06-18T19:49:48+00:00",
-      "bullets": [
-        "Universal Music Group partnering with White Rocks Entertainment for UMusic Hotel & Private Residences Austin near Bee Cave (SH 71).",
-        "600 condo units, 150 hotel rooms, 10,000-seat outdoor venue; construction 2027–2030; units start at $2.3M; 100% water reuse target.",
-        "White Rocks' prior Violet Crown project (luxury apartments, amphitheater) killed over environmental opposition; new project redesigned for water/environmental compliance."
-      ],
-      "summary": "Universal Music Group is partnering with Austin developer White Rocks Entertainment to build UMusic Hotel & Private Residences Austin at a Hill Country site near Bee Cave. The project features 600 condo units, 150 hotel rooms, a 10,000-seat outdoor venue, and recording studios, with unit pricing starting at $2.3 million. Construction is scheduled to begin in early 2027 and conclude in 2030, contingent on approvals. The project incorporates a 100 percent water reuse standard and 70+ percent open space, addressing environmental concerns that derailed the prior Violet Crown project.",
-      "impact": "Universal Music's branded condo venture signals institutional entertainment capital flowing into Austin hill country and experiential mixed-use development. High average unit pricing ($2.3M+) targets luxury cache and international capital, not working-age renters. For multifamily developers, this underscores Austin market bifurcation: branded/experiential luxury projects are capturing capital and attention, while price-point competition and feasibility challenges intensify in workforce-housing segments; focus on infill, transit access, and cost efficiency to compete for capital in Austin."
-    },
-    {
-      "title": "Real estate getting drama treatment at Hulu",
-      "link": "https://therealdeal.com/new-york/2026/06/18/real-estate-getting-drama-treatment-with-hulu-series/",
-      "excerpt": "Real estate’s dramatics know no bounds, which will be on full display with a forthcoming Hulu series. George Stephanopoulos and Ali Wentworth are executive producing “The Pinnacle” at the streaming series, Deadline reported. The drama is being written by Damon Cardasis, who has been nominated for multiple awards.&#160; The series — which licenses content from The Real Deal in its pilot — is set in New York City and follows the journey of a man who becomes exposed to the upper class while serving as a sobriety companion to the son of a wealthy family that lives on Billionaires’ Row. [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-06-18T17:33:07+00:00",
-      "bullets": [
-        "Hulu series 'The Pinnacle' in development; George Stephanopoulos and Ali Wentworth executive producing; set on Manhattan Billionaires' Row.",
-        "Show follows sobriety companion exposed to wealthy family real estate world; licenses content from The Real Deal.",
-        "Prior Hulu real estate drama (Edgar Ramirez, Jacob Scipio as rival Manhattan developers) cancelled; scripted real estate content still emerging."
-      ],
-      "summary": "George Stephanopoulos and Ali Wentworth are executive producing a new Hulu drama series, \"The Pinnacle,\" set in New York City and centered on real estate in the upper-class market, particularly Billionaires' Row. The show follows a man who becomes exposed to wealth while serving as a sobriety companion to the son of a prominent family and licenses content from The Real Deal. Another real estate drama featuring rival Manhattan developers (Edgar Ramirez and Jacob Scipio) is no longer moving forward.",
-      "impact": "Minimal direct impact on market fundamentals. However, continued investment in scripted real estate entertainment (despite prior cancellations) signals sustained pop-culture interest in luxury Manhattan real estate, which can amplify brand awareness and aspirational demand among high-net-worth audiences and international buyers—supporting pricing and absorption for luxury condo and penthouses on Billionaires' Row and similar ultra-prime markets."
-    },
-    {
-      "title": "Trademark lassos Whole Foods for Southlake mixed-use development",
-      "link": "https://therealdeal.com/texas/2026/06/18/whole-foods-is-coming-to-trademark-property-company-project/",
-      "excerpt": "Trademark Property Company officially secured Whole Foods Market to anchor its Southlake mixed-use project.&#160; Terry Montesi’s Fort Worth-based development firm announced that the Austin-based organic grocer is coming to Shivers Farm, the 40-acre mixed-use development it’s advancing on White Chapel Boulevard, according to a release from Trademark. The news comes two days after Southlake City Council approved the project’s master development agreement.&#160; Locals speculated that Whole Foods would anchor the project after a city council member referred to the future grocery store as Whole Foods during an October meeting, the Fort Worth Star-Telegram reported. In the release, the firm said [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-06-18T16:34:24+00:00",
-      "bullets": [
-        "Trademark Property Company anchored Shivers Farm mixed-use (40 acres, Southlake) with Whole Foods; construction begins summer 2026, completion end-2027.",
-        "Shivers Farm: 111,000 SF retail, 38,000 SF office, 37 single-family lots, 3-acre pad for hotel/retail, 1-acre park.",
-        "Dallas retail pipeline 7M SF; 5M SF pre-leased; Trademark also developing Westbend and Waterside (another Whole Foods-anchored project) in Fort Worth."
-      ],
-      "summary": "Trademark Property Company officially secured Whole Foods Market as the anchor tenant for Shivers Farm, a 40-acre mixed-use development in Southlake on White Chapel Boulevard. The project will feature 111,000 square feet of retail, 38,000 square feet of office, 37 single-family lots, a three-acre pad approved for a hotel or retail use, and a one-acre park. Construction is scheduled to begin summer 2026 and wrap by end-2027. This is the first major grocer approved north of State Highway 114 in Southlake.",
-      "impact": "Minimal direct impact on multifamily. However, Whole Foods anchoring major mixed-use development in Southlake (affluent North Dallas suburb) signals sustained suburban retail appetite and demographic strength in the DFW metro. Trademark's Whole Foods strategy (Shivers Farm and Waterside in Fort Worth) mirrors broader North Texas retail resilience and mixed-use density trends; strong suburban economics support adjacency multifamily development and support demand for rental housing near shopping and office anchors."
+      "summary": "David Martin's Terra and BH Group acquired a 1.6-acre waterfront site at 2085 North Flagler Drive in West Palm Beach from billionaire Jeff Greene for approximately $100 million. Greene had purchased the land in 2014 for $1.5 million, representing a 6,567% appreciation. The developers plan two 31-story condo towers with 281 units, 4,400 square feet of retail, and 362 parking spaces, with unit sizes ranging from 1,065 to 4,510 square feet. The site is near Currie Park, which is undergoing a $35 million renovation.",
+      "impact": "Waterfront West Palm Beach condo market remains robust—$100M land price signals strong developer conviction in South Florida luxury condo demand and financing availability. The adjacent Currie Park renovation ($35M public investment) de-risks the submarket and supports long-term appreciation trajectory. For multifamily developers in Miami/Fort Lauderdale: (1) condo market strength pulls high-income renters away—expect rental-demand pressure if nearby condo supply increases; (2) waterfront premium ($100M for 1.6 acres) reflects scarcity value—monitor land availability and price appreciation in growth corridors to time acquisitions; (3) mixed-income retail components in condo towers may compete with standalone multifamily projects on retail anchor strength."
     }
   ]
 }
