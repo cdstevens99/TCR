@@ -1,29 +1,239 @@
 {
-  "fetchedAt": "2026-06-23T23:39:44.186442+00:00",
+  "fetchedAt": "2026-06-24T18:22:16.306175+00:00",
   "rates": [
     {
       "label": "SOFR",
-      "value": "3.61%",
-      "pct": -0.01,
+      "value": "3.62%",
+      "pct": 0.01,
       "isBps": true
     },
     {
       "label": "10Y Treasury",
-      "value": "4.49%",
-      "pct": 0.94
+      "value": "4.40%",
+      "pct": -1.15
     },
     {
       "label": "30Y Treasury",
-      "value": "4.94%",
-      "pct": 0.8
+      "value": "4.85%",
+      "pct": -0.98
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "97.86",
-      "pct": 1.31
+      "value": "96.92",
+      "pct": -0.96
     }
   ],
   "stories": [
+    {
+      "title": "Churchill seizing Pebb Capital’s Streeterville hotel eyed for apartments conversion in $28M foreclosure",
+      "link": "https://therealdeal.com/chicago/2026/06/24/churchill-seizing-streeterville-hotel-from-pebb-capital/",
+      "excerpt": "Todd Rosenberg’s plan to convert a Streeterville hotel into apartments is ending in a $28 million foreclosure, capping a yearslong saga of financial distress and insider dealmaking for the property at 201 East Delaware Place. Rosenberg’s firm, Boca Raton, Florida-based Pebb Capital, last month agreed to surrender the 18-story building to lender Churchill Real Estate. That company has offices in New York and Charlotte, North Carolina, and has been active in Chicago’s distressed property debt market, according to Cook County Circuit Court records. The hotel, which is out of operation, was known as the Gale Chicago in recent years and [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-06-24T18:15:33+00:00",
+      "bullets": [
+        "Pebb Capital's 18-story Streeterville hotel at 201 E Delaware foreclosed by Churchill Real Estate for $28M.",
+        "Planned residential conversion derailed; Chicago lodging market still depressed post-pandemic.",
+        "Distressed hotel-to-apartment pivots facing financing headwinds across Chicago Loop."
+      ],
+      "summary": "Pebb Capital's plan to convert the defunct Raffaello/Gale Chicago hotel (201 E Delaware) into apartments has ended in foreclosure to lender Churchill Real Estate. The $28M foreclosure reflects ongoing distress in Chicago's downtown hotel market, which has not fully recovered from the pandemic. Other developers, including Churchwick Partners and Blackstone entities, are attempting similar hotel-to-residential conversions but face complications from distressed debt.",
+      "impact": "Chicago's prolonged hotel recovery signals weak near-term demand for downtown conversion plays; developers pursuing speculative apartment conversions face tightened financing, pushing capital toward market-rate projects in stronger submarkets. Opportunity window for distressed acquisitions remains, but execution risk on value-add conversions is elevated."
+    },
+    {
+      "title": "New York Area the Nation’s Most Promising for Film, TV Production: CBRE",
+      "link": "https://commercialobserver.com/2026/06/new-york-area-the-nations-most-promising-for-film-tv-production-cbre/",
+      "excerpt": "At an uncertain time for television and film production nationwide as projects scatter across the globe and capitalize on massive tax benefits and other financial incentives, the New York tri-state area is the only production market in the U.S. that is clearly on the upswing, Commercial Observer has learned. According to a new report from CBRE, exciting metrics for the area’s production community show that spending on film and TV production increased 21 percent in 2025 over the previous year. Plus, soundstage space increased by 43 percent since 2020 (with more on the way), and leasing activity in Manhattan for film and TV production firms reached 755,000 square feet in 2025, the highest total since 2021. The report notes that in the wake of industry-shattering strikes by the writers and actors unions in 2023, the New York tri-state area is the only production market in the U.S. that has seen production starts recover to pre-2023 levels. “The region is emerging as a clear leader with a new wave of major studio investment and dedicated production partnerships that are reshaping the market,” Anthony Jasenski, CBRE Americas’ film production studio practice leader, said in a statement to CO. “This report underscores New York’s staying power even amid industry consolidation and shifting production strategies.” Drivers of this success include New York and New Jersey offering a combined $1.2 billion in tax incentives in 2026, as well as the increase in regional soundstage space recently introducing an influx of “modern, purpose-built facilities that allow the region to capture more stage-based, high-value production,” according to the report. Several major new studios have either opened in the area over the past year or so or are preparing to in the years to come. Sunset Pier 94 Studios in Manhattan, a collaboration between Vornado Realty Trust, Hudson Pacific Properties and Blackstone Real Estate, opened in January on the borough’s west side offering 232,000 square feet of",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-06-24T18:13:02+00:00",
+      "bullets": [
+        "NY tri-state film/TV production spending up 21% YoY in 2025; soundstage space +43% since 2020.",
+        "Manhattan production firm leasing reached 755k SF in 2025, highest since 2021.",
+        "Only U.S. production market showing clear upswing post-2023 writers/actors strikes."
+      ],
+      "summary": "The New York tri-state area is the only major U.S. film and television production market experiencing robust growth, with production spending up 21% in 2025 and soundstage capacity expanding 43% since 2020. Manhattan office leasing for production firms hit 755,000 square feet in 2025, the highest level since 2021. CBRE notes the region is recovering faster than other production hubs nationwide following industry strikes.",
+      "impact": "Growth in production spending and office leasing in Manhattan signals emerging tenant demand for creative/media office space; creates near-term absorption for Class A office conversions and mixed-use projects targeting creative tenants in Chelsea, Midtown, and Long Island City. Developers should track additional soundstage and production space entitlements as a leading indicator of sustained employment and population draw to the tri-state."
+    },
+    {
+      "title": "Capital One Provides $91M Letter of Credit for Far Rockaway Affordable Housing Project",
+      "link": "https://commercialobserver.com/2026/06/capital-one-far-rockaway-queens-affordable-housing/",
+      "excerpt": "Tishman Speyer has sealed $214 million of construction financing to develop a 100 percent affordable housing property in Far Rockaway, Queens, Commercial Observer has learned. Capital One closed a $91.4 million letter of credit to backstop a loan provided by the New York City Department of Housing Preservation and Development (HDP) to support construction of the 300-unit Edgemere Commons B2 project. The bank is also purchasing low-income tax credits through a fund with hudson housing capital to fund the 17-story building spearheaded by Tishman Speyer’s affordable housing platform, TS Communities. “This partnership on Edgemere Commons B2 underscores our community benefits plan commitment to addressing the affordable housing crisis by investing in safe, stable and sustainable housing,” Loretta Duffy, senior director at Capital One, said in a statement. TS Communities closed $214 million of total development financing, which includes a debt package that features a combination of tax-exempt bonds and subsidy loans from HDP and the New York City Housing Development Corporation (HDC) through New York City’s New Construction Finance Program. The development, which will also feature 6,000 square feet of ground-floor retail, is slated for compilation in late 2028. Michelle Adams, senior managing director at Tishman Speyer, said in a statement that the financing marks “another important step forward in creating a vibrant, affordable neighborhood” in Far Rockaway. Located at 332 Beach 52nd Street, Edgemere Commons B2’s apartments will range from studios to three-bedroom layouts with 255 of the apartments set aside for households earning between 30 and 80 percent of area median income (AMI). The remaining 45 units will be designated for supportive housing to formerly homeless individuals that will be managed by Breaking Ground, a social service provider who also partnered with TS Communities for Building A2 in Edgemere Commons. Edgemere Commons B2 marks the fourth of 11 planned",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-06-24T18:12:14+00:00",
+      "bullets": [
+        "Tishman Speyer closes $214M construction financing for 300-unit 100% affordable in Far Rockaway, Queens.",
+        "Capital One provides $91.4M letter of credit; includes LIHTC purchases via Hudson Housing Capital.",
+        "Edgemere Commons B2 (17-story) demonstrates strong capital availability for affordable multifamily in outer boroughs."
+      ],
+      "summary": "Tishman Speyer's TS Communities platform has closed $214 million in construction financing for Edgemere Commons B2, a 300-unit fully affordable housing project in Far Rockaway, Queens. Capital One issued a $91.4 million letter of credit backstopping a loan from NYC's Department of Housing Preservation and Development and is purchasing low-income housing tax credits. The project will deliver a 17-story building by tapping multiple subsidy layers.",
+      "impact": "Far Rockaway's absorption of 300 affordable units signals sustained investor appetite for LIHTC-backed deals in outer-borough submarkets; demonstrates capital flow toward workforce housing in transit-accessible locations. Developers should monitor NYC's HPD pipeline and LIHTC availability as constraints; strong institutional capital (Capital One, Tishman Speyer) signals competitive pressure for mission-driven projects in underserved geographies."
+    },
+    {
+      "title": "Kidder Mathews Arranges Sale of 22-Unit Fremont Apartment Property",
+      "link": "https://www.connectcre.com/stories/kidder-mathews-arranges-sale-of-22-unit-fremont-apartment-property/",
+      "excerpt": "The Francis, a 22-unit apartment community located at 3636 Francis Avenue N. in Seattle’s Fremont neighborhood, has sold for $7 million. Matt Laird and Jack Shephard of Kidder Mathews’ Simon | Anderson Multifamily Team served as the exclusive brokers representing the seller, Trimark Property Group, and sourced the buyer, Curtis Capitol Group. Built in 1988, The Francis offers a mix of studio, one-bedroom, and two-bedroom units. The acquisition delivers Curtis Capitol Group a value-add opportunity featuring updated building systems and continued upside potential. “This transaction reflects the continued depth of investor demand for quality multifamily investments in the city’s urban core, assets that are difficult to replicate and located where renters consistently want to live,” said Laird. Situated on the north side of the Lake Washington Ship Canal, just miles from downtown Seattle, the property is surrounded by employers, dining, shopping, and cultural amenities. Join the region’s leading multifamily owners, developers, investors, lenders, and brokers at Connect Texas Multifamily on August 13 in Dallas for a focused discussion on the market forces redefining Texas real estate. Be in the room with the decision-makers driving deals and growth across Texas. Register today: www.ConnectTXMF2026.com. The post Kidder Mathews Arranges Sale of 22-Unit Fremont Apartment Property appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-06-24T17:56:05+00:00",
+      "bullets": [
+        "Curtis Capitol Group acquires 22-unit Fremont apartment (The Francis, 1988-built) for $7M.",
+        "Value-add play in Seattle's urban core; $318k/unit pricing reflects tight supply of older multifamily.",
+        "Fremont location near downtown, employers, and amenities cited as replication difficulty."
+      ],
+      "summary": "The Francis, a 22-unit apartment building in Seattle's Fremont neighborhood, sold for $7 million to Curtis Capitol Group, representing a value-add acquisition of a 1988-built property. The $318k per-unit sale reflects strong investor demand for quality urban-core multifamily with embedded upside. Kidder Mathews brokers noted the property's scarcity and proximity to downtown, employers, and cultural amenities.",
+      "impact": "Seattle Fremont transaction signals continued investor appetite for older multifamily with renovation upside in walkable neighborhoods; limited supply of similar assets suggests rent-growth potential and development feasibility for new construction in Seattle's constrained core. No direct development signal, but validates stronghold demand for urban multifamily anchoring further value-add and new-build activity."
+    },
+    {
+      "title": "ZSD bets on family-sized condos in West Loop",
+      "link": "https://therealdeal.com/chicago/2026/06/24/zsd-planning-family-style-condo-building-in-west-loop/",
+      "excerpt": "ZSD is planning a building that features family style condos, with four bedrooms minimum in each unit.&#160; The development, dubbed 1282 Washington on West Washington Boulevard, has pre-sold 12 of the 16 total condos the building will allow for, according to Crain’s. The price per unit sold spanned $1.75 million to $3.2 million, with the remaining four up for a range of $2 million to $3 million. Every unit will have some outdoor space, according to the outlet. The building itself will span five stories. The site was previously owned by a toy company and spans 18,000 square feet.&#160; One [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-06-24T17:45:07+00:00",
+      "bullets": [
+        "ZSD pre-sold 12 of 16 luxury family condos in West Loop at $1.75M–$3.2M per unit.",
+        "1282 Washington: 5-story, four-bedroom-minimum condo play on school district proximity; completion fall 2027.",
+        "Site purchased April 2024 for $5M; reflects school-driven demand in West Loop family market."
+      ],
+      "summary": "Chicago developer ZSD has pre-sold 12 of 16 planned family-sized condos (four bedrooms minimum) at 1282 Washington in the West Loop, with units ranging from $1.75 million to $3.2 million. The five-story, 16-unit project emphasizes proximity to Mark T. Skinner Elementary West and local schools. ZSD acquired the 18,000-square-foot site for $5 million in April 2024 and expects completion by fall 2027.",
+      "impact": "Strong pre-sales (75% absorbed) in luxury family condo segment signals durable demand in West Loop driven by school quality; reflects parent demographic migration back to urban core with quality K–12 access. Validates opportunity for family-oriented, walkable urban multifamily and condo development anchored by school district reputation, particularly in Chicago's revitalizing neighborhoods."
+    },
+    {
+      "title": "New Tucson Tribal Casino Reveals Start Date",
+      "link": "https://www.connectcre.com/stories/new-tucson-tribal-casino-reveals-start-date/",
+      "excerpt": "Casino Del Sol, the resort enterprise owned and operated by the Pascua Yaqui Tribe, confirmed November 16 as the official opening date of Casino Del Sol, Vahi Taaʼam — the Tribe’s third gaming property. Located at 1055 W. Grant Road at Interstate 10, the 163,000-square-foot destination will include a 52,334-square-foot gaming floor that will feature 924 slot machines — including 56 dedicated High Limit games — seven bar-top gaming stations at the Center Bar, table games, a High Limit Lounge, and a SolSports sportsbook offering wagering on all major sports. Four food and beverage destinations will include the OP Grill (Old Pascua Grill), a 174-seat upscale casual restaurant drawing on distinctly local flavors; Sewa Market, bringing together UME, Streetscape, and Abuelitas Taqueria under one roof; and three bars — the Center Bar, the OP Grill Bar, and the High Limit Bar. A four-level parking structure with more than 1,200 spaces will serve guests on arrival. The post New Tucson Tribal Casino Reveals Start Date appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-06-24T17:31:39+00:00",
+      "bullets": [
+        "Pascua Yaqui Tribe opens Casino Del Sol Vahi Taaʼam in Tucson Nov 16; 163k SF with 924 slots, restaurants.",
+        "1,200-space parking structure; third gaming property for tribe; located at I-10 and W Grant Road.",
+        "No direct multifamily impact; hospitality/tourism demand driver for Tucson."
+      ],
+      "summary": "Casino Del Sol, owned and operated by the Pascua Yaqui Tribe, opens November 16 as the tribe's third gaming property in Tucson. The 163,000-square-foot property at I-10 and W Grant Road includes a 52,334-square-foot gaming floor, 924 slot machines, table games, restaurants, bars, and 1,200-space parking.",
+      "impact": "Limited direct relevance to multifamily development. Gaming and hospitality anchor may increase regional employment and visitor traffic, creating marginal incremental demand for hotel rooms and transient housing; potential modest boost to Tucson's service-sector employment but not a material supply or demand signal for apartment development in the near term."
+    },
+    {
+      "title": "CU Denver Buys 25-Story Downtown Highrise",
+      "link": "https://www.connectcre.com/stories/cu-denver-buys-25-story-downtown-highrise/",
+      "excerpt": "The University of Colorado Board of Regents okayed $29.75 million for the purchase of Independence Place, a 25-story downtown office tower. The purchase price includes the 55-year-old tower, two annexes and three levels of underground parking. The building, which is 79% vacant, was owned by an Alaskan public pension fund, which paid $144 million for it in 2007. The Denver Business Journal reports that after the meeting, the school said that extending further into downtown will enhance the student experience and position CU Denver as a workforce, economic and business development engine in the heart of the Central Business District. CU Denver operates in several downtown Denver buildings, most of them at the 150-acre Auraria Campus that sits adjacent to the city center. Funds for the purchase will come from CU Denver campus reserves. CU Denver expects to generate income through external leases, events and parking. The post CU Denver Buys 25-Story Downtown Highrise appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-06-24T17:07:20+00:00",
+      "bullets": [
+        "CU Denver purchases 25-story Independence Place downtown for $29.75M; building 79% vacant, built 1969.",
+        "Original buyer paid $144M in 2007; price drop reflects office-market distress in Denver CBD.",
+        "Institutional buyer repurposing office for campus use; no residential conversion signal."
+      ],
+      "summary": "CU Denver's Board of Regents approved a $29.75 million purchase of Independence Place, a 55-year-old, 25-story downtown office tower with 79% vacancy, owned by an Alaskan public pension fund that had paid $144 million in 2007. The transaction includes two annexes and three levels of underground parking. CU Denver plans to generate income through external leases, events, and parking.",
+      "impact": "Denver CBD office distress (79% vacancy, 80% decline in value over 18 years) reflects structural oversupply; limits new multifamily demand in downtown core. However, institutional repurposing and potential for mixed-use/residential conversion of distressed office assets in adjacent years could create pockets of opportunity. Developers should monitor other distressed office towers in Denver CBD for conversion feasibility."
+    },
+    {
+      "title": "Hillwood Adding 1.2M SF of Warehouse Space to AllianceTexas",
+      "link": "https://www.connectcre.com/stories/hillwood-adding-1-2m-sf-of-warehouse-space-to-alliancetexas/",
+      "excerpt": "Hillwood plans to develop Alliance Westport 16, a 1,214,969-square-foot Class A speculative industrial building in the Alliance Logistics District. Construction has commenced, and completion is expected in July 2027. Hillwood’s projects in AllianceTexas currently include 8.2 million square feet under construction or in design, comprising 6.8 million square feet currently under construction and 1.4 million square feet in design. The district is anchored by BNSF’s Alliance Intermodal Facility and designed to support efficient freight movement across air, rail and highway networks. Alliance Westport 16 will benefit from Denton County’s low tax rate and several economic incentives, including the Triple Freeport Inventory Tax Exemption and Foreign Trade Zone status within Alliance FTZ #196. The project also has access to a Centralized Examination Station and U.S. Customs and Border Protection services. The project is designed by GSR Andrade Architects. Hillwood Construction Services will serve as the general contractor, and financing was done by Fifth Third Bank. The post Hillwood Adding 1.2M SF of Warehouse Space to AllianceTexas appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-06-24T16:43:58+00:00",
+      "bullets": [
+        "Hillwood starts 1.21M SF Class A speculative industrial (Alliance Westport 16) at AllianceTexas; completion July 2027.",
+        "8.2M SF total pipeline in AllianceTexas (6.8M under construction, 1.4M in design).",
+        "Triple Freeport tax exemption and FTZ incentives; Fifth Third Bank financing; BNSF intermodal anchor."
+      ],
+      "summary": "Hillwood has commenced construction on Alliance Westport 16, a 1.21 million-square-foot Class A speculative industrial building in AllianceTexas, with completion expected July 2027. Hillwood's total AllianceTexas pipeline includes 8.2 million square feet, with 6.8 million currently under construction. The project benefits from Denton County tax incentives, Foreign Trade Zone status, and proximity to BNSF's intermodal facility.",
+      "impact": "Robust speculative industrial pipeline in Fort Worth logistics corridor signals confidence in e-commerce, distribution, and supply-chain demand; may drive regional employment and population influx to North Texas. Secondary effect: increased logistics/warehouse employment supports downstream demand for workforce housing and multifamily development in Denton County and northern DFW submarkets. Monitor employment data and wage growth in alliancetexas supply-chain jobs."
+    },
+    {
+      "title": "McKesson Building $179M OKC Distribution Center",
+      "link": "https://www.connectcre.com/stories/mckesson-building-179m-okc-distribution-center/",
+      "excerpt": "McKesson Corporation, a Fortune 100, U.S.-based company that helps ensure patients can access medicines, has selected Moore, Oklahoma , as the location for a $179 million automated regional distribution facility at the North Moore Industrial Park. The new facility will replace an existing distribution center, expanding capacity and modernizing capabilities to support future demand. McKesson distributes approximately one-third of all pharmaceuticals in North America and operates a digitally connected, automated distribution network designed to support the delivery of complex therapies to pharmacies and hospitals. The 330,000-square-foot facility will serve as a regional pharmaceutical distribution hub, combining digitally enabled logistics, state of the art automation, precision inventory management, and expanded cold chain capacity, helping ensure critical medicines reach customers safely and efficiently. Kadean Construction will be the construction partner for this distribution facility. Delivery is expected in 2028. The post McKesson Building $179M OKC Distribution Center appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-06-24T16:27:37+00:00",
+      "bullets": [
+        "McKesson builds $179M, 330k SF automated pharmaceutical distribution hub in Moore, Oklahoma; delivery 2028.",
+        "Fortune 100 distributor (one-third of N.A. pharma) modernizing regional capacity at North Moore Industrial Park.",
+        "Job creation and logistics-sector employment growth signal for OKC metro."
+      ],
+      "summary": "McKesson Corporation, a Fortune 100 pharmaceutical distributor, is constructing a $179 million, 330,000-square-foot automated regional distribution facility in Moore, Oklahoma. The facility will replace an existing distribution center and expand capacity with digital logistics, automation, and cold-chain capabilities. Delivery is expected in 2028.",
+      "impact": "Major employer capex investment in Moore/OKC signals job creation in logistics, operations, and support roles; expect secondary demand for workforce housing in OKC metro, particularly in proximity to North Moore Industrial Park. Monitor OKC wage and employment growth to inform multifamily development activity in suburban metros; favorable for value-add and workforce-housing development in Oklahoma City and Moore submarkets over next 2–3 years."
+    },
+    {
+      "title": "Blackstone Lands $115M Refi for Fort Lauderdale W Hotel From JP Morgan",
+      "link": "https://commercialobserver.com/2026/06/blackstone-w-fort-lauderdale-jp-morgan-chase/",
+      "excerpt": "Blackstone nabbed $115 million to refinance the oceanfront, W hotel in Fort Lauderdale, Fla., property records show. The debt from J.P. Morgan Chase covers the 346-room property at 401 North Fort Lauderdale Beach Boulevard, between Riomar Street and Bayshore Drive. In 2024, the private equity giant purchased the 19-story building from an affiliate of Related Companies. The $153 million deal included $97.6 million for the property’s real estate and another $55 million for the hotel&#8217;s operations and furniture. The 567,524-square-foot asset was built in 2009, and Related Companies spent about $55 million on renovations. The W hotel’s debt transaction marks the second notable refinancing J.P. Morgan Chase has issued to South Florida resorts lately. In April, the bank, alongside Citi Real Estate Funding, provided $600 million for the 1,000-room, oceanfront Diplomat Beach Resort in Hollywood, which Trinity Investments and Credit Suisse Asset Management had bought for $835 million in 2023. The recent refinancing also comes as the W property in South Beach is shutting down for renovations after the billionaire Reuben Brothers purchased the 407-room asset for more than $400 million in 2024. Earlier this week, the owners laid off over 100 workers. Representatives for Blackstone did not immediately respond to a request for comment. Julia Echikson can be reached at jechikson@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-06-24T16:23:49+00:00",
+      "bullets": [
+        "Blackstone refinances 346-room W Fort Lauderdale for $115M via JP Morgan; oceanfront at 401 N Fort Lauderdale Beach.",
+        "Blackstone acquired asset from Related Companies in 2024 for $153M (RE + ops/FF); 567k SF built 2009.",
+        "Second major South Florida resort refi by JPM in months (Diplomat $600M in April); hospitality financing active."
+      ],
+      "summary": "Blackstone secured a $115 million refinance from JP Morgan Chase for the oceanfront W Hotel in Fort Lauderdale (346 rooms, built 2009, 567,524 SF). Blackstone purchased the property from Related Companies in 2024 for $153 million. The refi represents the second major South Florida resort financing from JPM, following a $600 million credit for the Diplomat Beach Resort in April.",
+      "impact": "Active hospitality refinancing market in South Florida signals stabilizing lodging values and lender confidence in resort recovery post-pandemic. Indirect multifamily relevance: strong hospitality capital availability and pricing stability reduce conversion pressure on hotels, limiting near-term supply of distressed office/hotel assets for residential conversion. Developers should track hospitality cap rates and refinance activity as leading indicators of appetite for mixed-use resort-residences in Miami, Fort Lauderdale, and Palm Beach."
+    },
+    {
+      "title": "Brooklyn developer scores financing on one-time David Werner conversion target",
+      "link": "https://therealdeal.com/new-york/2026/06/24/silberstein-scores-debt-on-david-werner-conversion-target/",
+      "excerpt": "David Werner’s loss is Hershy Silberstein’s gain. The Blue Sky Builders honcho landed $102 million in construction financing for the office-to-residential conversion of 311 West 43rd Street in Hell’s Kitchen, the Commercial Observer reported. S3 Capital provided the debt for the redevelopment of the Press Building. Silberstein’s involvement in the project wasn’t previously disclosed. Instead, it appeared that one of New York City’s conversion kings, David Werner, would be spearheading the redevelopment. Werner was in contract to buy the 193,000-square-foot building for slightly more than $40 million, The Real Deal reported in April, about one-third of the $131 million that [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-06-24T16:17:06+00:00",
+      "bullets": [
+        "Blue Sky Builders (Hershy Silberstein) lands $102M financing from S3 Capital for office-to-residential conversion at 311 W 43rd St.",
+        "Press Building (193k SF, Hell's Kitchen): 160-unit rental + 40k SF retail; 467-m tax abatement (25% affordable).",
+        "David Werner deal fell through; Silberstein acquired at discount after WeWork default and lease rejection in bankruptcy."
+      ],
+      "summary": "Blue Sky Builders' Hershy Silberstein secured $102 million in construction financing from S3 Capital for the office-to-residential conversion of 311 West 43rd Street (Press Building) in Hell's Kitchen. The project plans 160 rental units and 40,000 square feet of commercial space, leveraging the 467-m tax abatement program (25% affordable). Silberstein acquired the 193,000-square-foot property after David Werner's acquisition fell through, following WeWork's 2023 bankruptcy abandonment of a major lease.",
+      "impact": "Hell's Kitchen conversion demonstrates access to financing for office-to-residential plays in Manhattan; S3 Capital's debut in this category suggests lender appetite expanding. WeWork's market contraction created distressed asset opportunities; monitor other coworking-heavy office buildings for conversion eligibility. 467-m tax abatement makes mixed-income rentals financially viable in Midtown West, signaling potential for further conversions. Track Manhattan office vacancy and WeWork lease defaults by submarket to identify conversion pipelines."
+    },
+    {
+      "title": "Workplace Safety Platform Intenseye Takes 9K SF at 220 West 19th Street",
+      "link": "https://commercialobserver.com/2026/06/intenseye-lease-220-west-19th-street/",
+      "excerpt": "Intenseye, an artificial intelligence-powered workplace safety platform, has signed a full-floor, 9,485-square-foot lease at Red Circle NY’s 220 West 19th Street in Manhattan’s Chelsea neighborhood, according to landlord broker Avison Young. The security firm’s deal on the entire fourth floor was one of two new leases totaling 13,264 square feet at the 12-story office building between Seventh and Eighth avenues. Game Changer Ventures, an investment firm that supports companies in the sports, media, gaming and entertainment industries, also signed a 3,779-square-foot lease on a portion of the building’s 11th floor. The asking rents and the lengths of each lease were not disclosed. The average asking rent for office space in Chelsea was $84.71 per square foot in the first quarter, according to Newmark data. Avison Young’s Michael Gottlieb, Joel Wechsler, Patrick Steffens and Thomas Usher represented the landlord in both deals. Intenseye was represented by JLL’s Sebastian Infante and Jamie Katcher, while Game Changer Ventures was represented by CBRE’s Evan Fiddle and Dan Jaffe. CBRE and JLL did not immediately respond to Commercial Observer’s requests for comment. “220 West 19th Street offers a compelling combination of character, upgrades and location,” Gottlieb said in a statement. “The addition of Intenseye and Game Changer Ventures reflects strong interest from forward-thinking firms seeking boutique space in Chelsea.” 220 West 19th Street sits midblock between Seventh and Eighth avenues. Built in 1910, the building has tenants including e-payment platform Flowglad, real estate firm the Corcoran Group, digital advertising firm Celtra, and gym Crunch Fitness. Amanda Schiavo can be reached at aschiavo@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-06-24T15:49:33+00:00",
+      "bullets": [
+        "Intenseye (AI workplace safety) leases 9,485 SF at 220 W 19th St (Chelsea, Manhattan); full fourth-floor deal.",
+        "Game Changer Ventures also signed 3,779 SF on 11th floor; total new leasing 13,264 SF at same building.",
+        "Average Chelsea asking rent $84.71/SF in Q1; small-floor deal signals creative/tech tenant activity in Chelsea."
+      ],
+      "summary": "Intenseye, an AI-powered workplace safety platform, signed a full-floor lease for 9,485 square feet at 220 West 19th Street in Chelsea, Manhattan. Game Changer Ventures (sports/media/gaming investment firm) also leased 3,779 square feet on the same building's 11th floor. The two deals total 13,264 square feet; average asking rent in Chelsea was $84.71 per square foot in Q1.",
+      "impact": "Small-floor leasing activity at $84.71/SF in Chelsea reflects modest tenant demand in creative/tech sectors but does not signal major employment influx or demand acceleration. Limited relevance to multifamily; minor confirmation that Manhattan office market has pockets of activity in tech/media but lacks catalytic momentum for speculative multifamily development. Monitor Chelsea office leasing velocity and tenant cohort (tech vs. creative) for signals of secondary demand for workforce housing."
+    },
+    {
+      "title": "New York City’s Pied-a-Terre Tax Hasn’t Affected the Luxury Market — So Far",
+      "link": "https://commercialobserver.com/2026/06/new-york-city-pied-a-terre-tax-luxury-market/",
+      "excerpt": "Pied-a-terre tax scare? Au contraire! For now at least. On May 26, the New York State Legislature enacted a tax targeting the wealthiest homeowners in New York City, a group that Mayor Zohran Mamdani and Gov. Kathy Hochul feel haven’t been paying their fair share. In an effort to get wealthier Gothamites pony up so the city can fund things like free child care and cleaner streets, an amendment to Article 30-C of the New York State Tax Law was added to tax city homes not listed in tax filings as primary residences. There are two phases to this tax law, which sunsets on June 30, 2031, and applies to owners of one- to three-family residential properties, stockholders in co-operative buildings, and condominium unit owners. Phase one, which runs July 1, 2026, to June 30, 2028, levies rates between 4 percent and 6.5 percent on properties with an assessed value of $1 million or more. Phase two, which runs from July 1, 2028, to June 30, 2031, means a yearly fee on a second (or third, or fourth, etc.) home worth over $5 million based on the price. The tax, after adjusting for the disconnect between assessed and market values for co-ops and condos, is expected to raise $500 million for the city, according to an analysis by New York City Comptroller Mark Levine. And while the city may — or may not, depending on whom you ask — benefit from the pied-a-terre tax, the overall consensus among the real estate industry and adjacent fields is that targeting the city’s big spenders isn’t a good plan, and has the potential to drive them away. It “may ultimately prove to be one of the most disruptive pieces of real estate legislation New York state has passed in years,” Bob Knakal, chairman and CEO of investment sales firm BK Real Estate Advisors, wrote in Commercial Observer in early June. “We can have a debate on whether or not this will deter purchases in New York — every state has separate tax structures for residents versus nonresidents,” said Alexander Goldfarb, managing director a",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-06-24T15:42:26+00:00",
+      "bullets": [
+        "NYC pied-à-terre tax enacted May 26; phases in 4–6.5% tax (2026–2028), then yearly fee on homes >$5M (2028–2031).",
+        "Tax applies to non-primary residences (1–3 family, co-ops, condos); expires June 30, 2031.",
+        "Luxury market shows no measurable impact to date; potential chilling effect on foreign/ultra-HNW buyers TBD."
+      ],
+      "summary": "New York State enacted a pied-à-terre tax on May 26, targeting owners of non-primary residences valued above $1 million (4–6.5% in Phase 1, 2026–2028) and $5 million-plus properties (annual fee in Phase 2, 2028–2031). The tax applies to one- to three-family homes, co-op shares, and condo units, sunsetting June 30, 2031. To date, the luxury condo market shows no apparent dampening.",
+      "impact": "Tax implementation delayed until July 2026; too early to assess impact on luxury condo demand or pricing. Developers should model potential reduction in ultra-high-net-worth buyers' willingness to acquire second homes in NYC, which could soften demand for luxury rentals and condos if enforcement is strict. Secondary effect: reduced demand for high-end owner-occupied units may shift capital toward rental multifamily, potentially benefiting institutional apartment developers. Monitor luxury market absorption and pricing post-July 2026 implementation."
+    },
+    {
+      "title": "Related Group, BH score approval for Rosewood Residences West Palm Beach",
+      "link": "https://therealdeal.com/miami/2026/06/24/related-group-bh-group-greenlighted-for-rosewood-residences/",
+      "excerpt": "Related Group and BH Group’s planned Rosewood Residences in West Palm Beach got the go-ahead. The city of West Palm Beach approved the luxury condo tower at 2001 North Flagler Drive, a BH spokesperson confirmed. The property is next to the site BH and Terra are buying from billionaire Jeff Greene for $100 million, planning a pair of 31-story condo towers. The developers paid $34 million for the 0.8-acre site in 2024. Earlier this year, they filed plans for a 27-story, 90-unit luxury high-rise with more than 13,000 square feet of indoor amenities, a swimming pool on the fifth floor [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-06-24T14:00:00+00:00",
+      "bullets": [
+        "Related Group and BH Group win approval for Rosewood Residences West Palm Beach; 27-story, 90-unit luxury condos.",
+        "Site purchased 2024 for $34M (0.8 acres); ~3,400 SF average units; replaces 2001 medical office building.",
+        "Adjacent to $100M Jeff Greene land deal (Terra/BH); West Palm condo pipeline >2,000 units under development."
+      ],
+      "summary": "Related Group and BH Group received West Palm Beach city approval for Rosewood Residences at 2001 North Flagler Drive—a 27-story, 90-unit luxury residential tower with ~3,400 SF average units and 13,000+ SF of amenities. The developers paid $34 million for the 0.8-acre site in 2024. The project replaces a 2001 medical office building and complements their adjacent Ritz-Carlton Residences project (138 units, $200M construction loan from Madison Realty in March).",
+      "impact": "West Palm Beach condo pipeline exceeds 2,000 units; Related and BH are major players expanding luxury residential inventory. Sustained approval and financing activity (Ritz-Carlton $200M in March) signal robust capital availability for luxury condos in West Palm. Risk: pipeline oversaturation and potential softening in ultra-luxury pricing if market absorbs 2,000+ units rapidly. Developers should monitor absorption rates and pricing in West Palm luxury condo market; opportunity window may be closing for new entrants unless targeting workforce/missing-middle segments."
+    },
     {
       "title": "Miami Design District brings another marquee mixed-use project",
       "link": "https://therealdeal.com/miami/2026/06/23/miami-design-district-brings-another-office-retail-hub/",
@@ -32,12 +242,12 @@
       "cat": "Development",
       "date": "2026-06-23T23:30:00+00:00",
       "bullets": [
-        "Miami Design District: 120,500-sf office-retail project (92k office, 22.5k retail) breaking ground August 2026.",
-        "Designed by Snøhetta; joint venture: Dacra, L Catterton Real Estate, Brookfield Properties; completion early 2028.",
-        "Signals continued mixed-use density and office demand in Miami's premium creative-class submarkets despite national office headwinds."
+        "Sweetbird North approved in Miami Design District: 8-story, 120.5k SF mixed-use (92k office, 22.5k retail); construction Aug 2027.",
+        "Designed by Snøhetta; developers include Dacra (Craig Robins), L Catterton Real Estate, Brookfield Properties.",
+        "Office targeting creative industries; 17k SF site; completion early 2028. Also developing Miami Design Residences condo by Fouquet's."
       ],
-      "summary": "Sweetbird North, an eight-story, 120,500-square-foot office-and-retail development designed by Snøhetta, is launching in Miami's Design District in August with delivery in early 2028. The project, a joint venture between Dacra, L Catterton Real Estate, and Brookfield Properties, will deliver 92,000 square feet of office space targeting creative industries and 22,500 square feet of retail across an 17,000-square-foot site. This follows Miami Design Residences by Fouquet's, another luxury mixed-use project in the same district by the same developer group.",
-      "impact": "Miami Design District remains a supply-constrained, high-barrier-to-entry submarket where mixed-use density and creative-industry office command premium financing and attract institutional capital. While office weakness plagues most U.S. metros, Design District's brand positioning and renter/office-user demographics (creative, affluent, younger) sustain lease-up velocity and cap-rate resilience. Developers eyeing Miami-Dade rental product should note that mixed-use, design-forward projects in submarkets with proven absorption still clear financing and command pre-leasing traction."
+      "summary": "Miami Design District Associates (Dacra, L Catterton RE, Brookfield) and Raycliff Capital plan Sweetbird North, an eight-story, 120,500-square-foot office-and-retail project with 92,000 SF of creative-industry office and 22,500 SF of retail. Designed by Snøhetta, construction begins August 2027 and wraps early 2028. The development team is also building Miami Design Residences by Fouquet's, a luxury condo project with architect David Chipperfield.",
+      "impact": "Continued momentum in Miami Design District mixed-use development signals sustained investor confidence in creative-office and luxury-residential demand in the submarket. Design District's appeal to international capital and branded residential (Fouquet's, Rosewood) validates walkable, amenity-rich urban submarkets. Secondary effect: office-to-residential pipelines and creative-industry office absorption support broader Miami's tech and creative-sector employment narrative. Developers should track Design District's ability to lease 92k SF of creative office as a forward indicator of Miami's tech-talent draw and downstream multifamily demand in Wynwood, Edgewater, and nearby residential."
     },
     {
       "title": "Will Miami commissioners put Live Local Act in legal crosshairs?",
@@ -47,222 +257,12 @@
       "cat": "Development",
       "date": "2026-06-23T23:00:00+00:00",
       "bullets": [
-        "Miami Commissioner Pardo seeks city attorney challenge to Florida's Live Local Act (signed 2023, offers tax breaks/zoning to BMR developers).",
-        "Hollywood won lawsuit vs. Condra Property Group (March 2025); Hillsborough County sued state same month; Sarasota County now sued by two developers.",
-        "Live Local Act removes local zoning/design review authority; 200+ projects approved statewide; legal outcome will reshape entitlement risk and cost for developers statewide."
+        "Miami Commissioner Damian Pardo sponsoring measure to instruct city attorney to challenge Florida Live Local Act validity.",
+        "Live Local Act (DeSantis 2023): tax breaks + zoning for developers building below-market-rate housing.",
+        "Multiple jurisdictions suing; Hollywood won March lawsuit; Hillsborough County sued in March; >200 Live Local projects statewide."
       ],
-      "summary": "Miami City Commissioner Damian Pardo is pushing the city to legally challenge Florida's Live Local Act, a 2023 state law offering tax breaks and zoning incentives to developers who build below-market-rate housing. The law has sparked legal backlash from multiple Florida cities and counties, including Hollywood (which won against a developer in March) and Hillsborough County (which sued the state the same month). Pardo argues the law overrides local planning authority and undermines neighborhood character, though the measure awaits a Thursday commission vote.",
-      "impact": "Live Local Act litigation will define entitlement and cost certainty across Florida. If Miami, Hillsborough, or other challenges succeed, developers lose streamlined state pre-emption and revert to local review—extending timelines and increasing soft costs. Conversely, if the Act survives challenges, it becomes a permanent low-cost entitlement shortcut, shifting locational arbitrage toward BMR-inclusive projects in supply-constrained markets like Miami-Dade, Broward, and Orange County. Developers should model both scenarios; BMR projects in hotly litigated counties face heightened entitlement risk and may see capital/lender cost-of-capital adjustments."
-    },
-    {
-      "title": "Trident Capital Group Expands Industrial Portfolio by 2 M SF in Ohio",
-      "link": "https://www.connectcre.com/stories/trident-capital-group-expands-industrial-portfolio-by-2-m-sf-in-ohio/",
-      "excerpt": "Trident Capital Group announced a series of transactions and developments across the Columbus region, adding approximately 1.94 million square feet of industrial space to its growing Midwest portfolio. A 191,077-square-foot industrial facility was delivered in 2025 and is 100% leased to three tenants. Trident is currently constructing the second phase of the development, which will deliver 177,607 square feet of industrial space. Nick Tomasone and Kilar Mariotti of CBRE are handling the leasing.In April, Trident acquired a 308,358-squarefoot distribution facility. Delivered in 2024, the asset is 100% leased to Ease Logistics Services on a long-term lease. Developed in partnership with O&#8217;Connor Capital Partners, Rickenbacker Industrial Center III is a landmark 958,740-square-foot speculative industrial development. Also developed in partnership with O&#8217;Connor Capital Partners, the Rickenbacker Industrial Center spans 303,670 square feet of industrial space, which will be delivered this month. Dan Wendorf, Brian Marsh, and Joe Davis of JLL are handling. The post Trident Capital Group Expands Industrial Portfolio by 2 M SF in Ohio appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-06-23T22:08:30+00:00",
-      "bullets": [
-        "Trident Capital Group adds 1.94M sf industrial across Columbus region; 191k sf delivered 2025 (100% leased), 177k sf phase 2 underway, 308k sf acquired.",
-        "Rickenbacker Industrial Center III: 958k sf speculative build (O'Connor Capital Partners joint venture); associated 303k sf delivers this month.",
-        "Columbus industrial fully leased at delivery; strong tenant demand (Ease Logistics long-term lease) signals supply-constrained logistics/distribution hub growth."
-      ],
-      "summary": "Trident Capital Group announced a series of industrial acquisitions and developments totaling 1.94 million square feet across the Columbus region. Deliveries include a 191,077-square-foot facility (100% leased to three tenants) and ongoing construction of a 177,607-square-foot phase two. Trident also acquired a 308,358-square-foot facility leased to Ease Logistics on a long-term lease, and is developing the 958,740-square-foot Rickenbacker Industrial Center III in partnership with O'Connor Capital Partners.",
-      "impact": "Columbus is emerging as a Midwest logistics and e-commerce fulfillment hub, with full lease-up at delivery and positive occupancy absorption among 3PLs. This signals strong last-mile and regional distribution demand, likely tied to proximity to Midwest consumer markets and Amazon/UPS expansion. Developers should monitor Columbus for light-industrial and cold-storage opportunity; the market's low land costs and lease-up velocity offer arbitrage vs. coastal metros with higher cap rates and slower absorption. Trident's scale (2M+ sf active pipeline) validates market trajectory and lender appetite."
-    },
-    {
-      "title": "Moinian Group Secures Quartet of Leases in Midtown South",
-      "link": "https://www.connectcre.com/stories/moinian-group-secures-quartet-of-leases-in-midtown-south/",
-      "excerpt": "The Moinian Group,has signed 70,000 square feet of new leases at 60 Madison Ave. in Midtown South with Foundational Labs, Inc. d/b/a Pace, GovWell Technologies, Inc., The Full Picture, LLC and Tenex Labs, LLC. Gregg Rothkin, Hayden Pascal, Jared London, Taylor Walker and Keegan Schenk from CBRE represented ownership in all transactions. “60 Madison Ave., with its prime Midtown South location directly on Madison Square Park, continues to attract innovative and fast-growing companies seeking high-quality office space in one of Manhattan’s most dynamic business districts,” said Joseph Moinian, founder and chief executive at The Moinian Group. The newly signed leases include the following: Tenex Labs, LLC signed a full-floor, 25,000-square-foot lease, represented by Noel Flagg and EN Cutler of Newmark. Foundational Labs, Inc. d/b/a Pace, an enterprise artificial intelligence startup, committed to 17,500 square feet, was represented by Nicholas Markel of Cresa. GovWell Technologies, Inc., leased 17,5000 square feet, represented by Christopher Foerch, Zev Holzman and Riley Scanlon of Savills. The Full Picture, LLC leased 8,000 square feet, represented by Michael Herz and Waite Buckley of Cresa. The post Moinian Group Secures Quartet of Leases in Midtown South appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-06-23T21:58:07+00:00",
-      "bullets": [
-        "Moinian Group secures 70k sf office leases at 60 Madison Ave. (Midtown South Manhattan) with Pace AI, GovWell, Full Picture, Tenex Labs.",
-        "Tenex Labs takes 25k sf full floor; Pace (AI startup) 17.5k sf; four tenants span 70k sf in tech/innovation sectors.",
-        "Midtown South office leasing momentum in 2026 indicates survival of high-barrier, brand-anchored Manhattan office for high-growth tech and government-tech tenants."
-      ],
-      "summary": "The Moinian Group signed 70,000 square feet of new office leases at 60 Madison Ave. in Midtown South with four tenants: Pace (Foundational Labs, AI startup, 17,500 sf), GovWell Technologies (17,500 sf), Tenex Labs (25,000 sf full floor), and The Full Picture (8,000 sf). All are high-growth, innovation-focused companies seeking Manhattan prime office near Madison Square Park.",
-      "impact": "Despite national office headwinds, trophy Manhattan office assets in branded submarkets (Midtown South) continue to attract venture-backed AI, proptech, and govtech firms. These tenants are not cost-sensitive and view Manhattan address/brand as customer/investor signaling—a structural support floor for class-A office. However, this signals bifurcation: gateway class-A office in high-visibility submarkets holds; secondary and suburban office continues to deteriorate. Multifamily developers should read this as validation of Manhattan's resilience for rent-paying knowledge workers in AI/tech sectors, supporting upmarket renter demand and rent growth."
-    },
-    {
-      "title": "Cityview, Stockbridge Cut Ribbon on Gardena Multifamily",
-      "link": "https://www.connectcre.com/stories/cityview-stockbridge-cut-ribbon-on-gardena-multifamily/",
-      "excerpt": "Cityview, a vertically integrated real estate investment manager specializing in multifamily, and Stockbridge, a private equity real estate investment management firm, recently celebrated the grand opening of Apollo – a 265-unit multifamily community in Los Angeles’ South Bay. Project partners, city officials, and Gardena Mayor Cerda joined the Cityview and Stockbridge teams to mark the milestone. &#8220;Apollo is ideally located in the heart of the aerospace corridor, which has made the South Bay one of the most exciting innovation hubs in the country,&#8221; said Sean Burton, CEO of Cityview. &#8220;By delivering new housing in this high-demand, job-rich area, we&#8217;re helping address Southern California&#8217;s critical housing shortage while creating a community that residents are proud to call home.&#8221; Located at 12888 Crenshaw Boulevard, the apartment community is within five miles of more than 260,000 jobs. Apollo is also a short walk from the Metro Green Line and minutes from LAX, SoFi Stadium, the Intuit Dome and some of Southern California&#8217;s most popular beaches. The post Cityview, Stockbridge Cut Ribbon on Gardena Multifamily appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-06-23T21:52:04+00:00",
-      "bullets": [
-        "Cityview & Stockbridge deliver Apollo: 265-unit multifamily in Gardena (South Bay LA), 18.5 acres, 12888 Crenshaw Boulevard.",
-        "Within 5 miles of 260k+ jobs; near Metro Green Line, LAX, SoFi Stadium; aerospace corridor submarket.",
-        "South Bay job concentration and transit access drive strong rent growth; supply scarcity (LA permitting) supports stabilized NOI and exit values."
-      ],
-      "summary": "Cityview and Stockbridge celebrated the grand opening of Apollo, a 265-unit multifamily community in Los Angeles' South Bay at 12888 Crenshaw Boulevard. The property is located within five miles of more than 260,000 jobs and is a short walk from the Metro Green Line and minutes from LAX, SoFi Stadium, and popular beaches. The South Bay is positioned as an innovation hub centered around the aerospace corridor.",
-      "impact": "South Bay Los Angeles (Gardena, Manhattan Beach, Torrance) is a supply-constrained job center anchored by aerospace, defense, and tech firms (Boeing, SpaceX, Northrop Grumman, Tesla Gigafactory). High job density (260k jobs within 5 miles) drives persistent rental demand and rent growth resilience during downturns. Apollo's 265-unit delivery in a supply-scarce, job-rich submarket validates long-cycle development timing; rents and absorption in aerospace corridor submarkets outpace LA-wide averages. Developers should prioritize South Bay infill and multifamily-to-mixed-use conversions; cost of land acquisition and entitlement will increase as institutional capital chases jobs-to-housing arbitrage."
-    },
-    {
-      "title": "Jonathan Mechanic Elected as Next Chair of REBNY",
-      "link": "https://www.connectcre.com/stories/jonathan-mechanic-elected-as-next-chair-of-rebny/",
-      "excerpt": "The Real Estate Board of New York (REBNY), the City&#8217;s leading real estate trade association, today announced that Jonathan L. Mechanic, Chairman of Fried Frank&#8217;s Real Estate Department, has been elected to serve as the next Chair of REBNY. Mechanic will succeed current Chair Jed Walentas, Chairman and CEO of Two Trees Management, and begin a three-year term on January 1, 2027. Walentas was elected in 2024. &#8220;Jed has been an exceptional leader during a pivotal period for New York City,&#8221; said Mechanic. &#8220;Under his leadership, the organization advanced policies that will strengthen our economy, create new housing opportunities, and support the city&#8217;s long-term growth. I am honored to succeed him and look forward to continuing that work on behalf of REBNY&#8217;s members and the city about which we all care deeply.” The post Jonathan Mechanic Elected as Next Chair of REBNY appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-06-23T21:47:46+00:00",
-      "bullets": [
-        "Jonathan Mechanic (Fried Frank Real Estate Chair) elected REBNY Chair; begins 3-year term January 1, 2027.",
-        "Succeeds Jed Walentas (Two Trees Management, elected 2024); focus on policy, housing, economic growth.",
-        "Leadership transition signals legal/institutional real estate focus; Mechanic's law firm roots may prioritize regulatory/zoning advocacy over developer-side risk."
-      ],
-      "summary": "Jonathan L. Mechanic, Chairman of Fried Frank's Real Estate Department, has been elected to serve as the next Chair of REBNY and will begin a three-year term on January 1, 2027. He succeeds current Chair Jed Walentas, who served during a pivotal period for New York City. Mechanic indicated his intent to continue advancing policies that strengthen the economy, create housing opportunities, and support the city's long-term growth.",
-      "impact": "Minimal direct development impact. Mechanic's appointment reflects REBNY's shift toward legal/institutional advocacy over developer-operator voices. His law firm background suggests emphasis on regulatory clarity, zoning reform, and tax incentive advocacy. Monitor his year-end 2026 and early-2027 policy agenda: housing density, TAMI zoning reform, and commercial property tax relief will signal whether REBNY will align with Albany/City Hall on housing density targets or prioritize protections for existing stakeholders. Developers should engage early on zoning/entitlement advocacy through REBNY during Mechanic's transition period."
-    },
-    {
-      "title": "Crescent Heights’ Skyline OC Lands $210M Financing",
-      "link": "https://www.connectcre.com/stories/crescent-heights-skyline-oc-lands-210m-financing/",
-      "excerpt": "Newmark has arranged a $210-million financing secured by the remaining condominium inventory at Skyline OC South Coast Residences, a 25-story luxury residential development at 9 MacArthur Pl. in Santa Ana. Co-Head of Global Debt &amp; Structured Finance Jordan Roeschlaub, Vice Chairman Nick Scribani, Senior Managing Director Ricky Braha, Director Holden Witkoff and Associate Niv Shahmoon arranged the financing on behalf of Crescent Heights. Investment vehicles advised by Centerbridge Partners, L.P. participated in the financing. &#8220;The financing reflects strong lender conviction in both the quality of the asset and Crescent Heights&#8217; proven track record of delivering landmark residential developments across the country,” said Braha. Skyline OC is Orange County&#8217;s tallest residence, comprising two luxury condominium towers with more than 349 residences. The property features floor-to-ceiling glass providing panoramic views spanning the Pacific Ocean, Santa Ana Mountains and the Orange County skyline, according to Newmark. The post Crescent Heights&#8217; Skyline OC Lands $210M Financing appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-06-23T21:41:19+00:00",
-      "bullets": [
-        "Crescent Heights secures $210M construction financing from Centerbridge Partners for Skyline OC (Santa Ana, Orange County).",
-        "25-story luxury condo towers; 349 units; remaining inventory financing; strong lender conviction signals sponsor track record and asset quality.",
-        "Orange County condo conversion/repositioning deal (from Essex apartments); $240M acquisition early 2025; cap rate floor and exit velocity for Southland resi."
-      ],
-      "summary": "Crescent Heights arranged a $210 million construction financing from Centerbridge Partners for the remaining condominium inventory at Skyline OC South Coast Residences in Santa Ana. The project comprises two 25-story luxury residential towers with more than 349 residences and is Orange County's tallest residential building. Centerbridge's willingness to finance the deal reflects confidence in both the asset quality and Crescent Heights' development track record.",
-      "impact": "Centerbridge's $210M construction financing on condo inventory signals active and deep institutional capital appetite for Orange County luxury for-sale residential, even amid broader condo credit tightening. Crescent Heights' $240M acquisition from Essex (apartment-to-condo conversion play) and subsequent $210M debt round suggests strong absorption and pre-sales (lenders rarely advance on unabsorbed inventory). This validates condo repositioning and conversion strategies in supply-constrained CA submarkets. Developers eyeing Santa Ana, Long Beach, and inland SoCal for resi should note financing is available and lenders are disciplined but not risk-averse on brand sponsors with repeat execution track records."
-    },
-    {
-      "title": "Developer loads up Reseda vacant lot with 20 homes, ADUs",
-      "link": "https://therealdeal.com/la/2026/06/23/leo-polosadjian-plans-20-residences-on-reseda-vacant-lot/",
-      "excerpt": "A local developer wants to squeeze 20 homes and granny flats into a vacant lot in Reseda. Leo Polosadjian filed plans to subdivide the two-thirds-acre rectangular property into five lots to build the homes at 19448 Saticoy Street, Urbanize Los Angeles reported, citing city planning records. Plans call for each lot to contain a single-family home, an attached accessory dwelling unit, a detached ADU and a junior ADU, with four homes per lot and a total 20 residences in the San Fernando Valley neighborhood. The proposal employs the provisions of Senate Bill 1123 and SB 684 to allow for streamlined [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-06-23T21:19:34+00:00",
-      "bullets": [
-        "Developer Leo Polosajian proposes 20 units (5 homes + 15 ADUs) on 2/3-acre lot in Reseda, San Fernando Valley via SB 1123 & SB 684.",
-        "State streamlined entitlement bills (SB 1123, SB 684) allow ministerial approval; median home price Reseda $775k (May 2026); developer owns 10 Valley/AV properties.",
-        "SB 1123/684 enable ADU-heavy, modest-unit projects with <12-month entitlement; supply pressure on SFH prices in Valley; land-banking play validated by entitlement velocity."
-      ],
-      "summary": "Developer Leo Polosajian filed plans to build 20 residences on a two-thirds-acre lot in Reseda by subdividing the property into five lots, each containing a single-family home, an attached ADU, a detached ADU, and a junior ADU. The proposal leverages California Senate Bills 1123 and 684 for streamlined approvals. The developer, a cardiologist, owns 10 properties across the Antelope Valley, San Fernando Valley, and Long Beach. A similar project is being proposed by another developer in Reseda; a 300-unit apartment project is also underway to replace a Walgreens store.",
-      "impact": "SB 1123 and SB 684 (ADU and ministerial entitlement reforms) are enabling small-lot, multi-unit infill plays in Valley and Inland Empire submarkets, collapsing entitlement timelines to 6-12 months and reducing soft costs. This accelerates supply in supply-constrained, high-barrier markets and pressures single-family home prices (Reseda median $775k in May). For multifamily developers, SB-enabled ADU projects increase 'invisible' supply and erode rental demand for 1-2BR units as ADUs and small projects proliferate. Land-banking and mid-sized (50-300 unit) multifamily projects in Valley need to account for SB-fueled supply competition and tighter rent growth assumptions."
-    },
-    {
-      "title": "S3 Capital Lends $102M for Hell’s Kitchen Office-to-Resi Conversion",
-      "link": "https://commercialobserver.com/2026/06/s3-capital-manhattan-office-to-resi-conversion/",
-      "excerpt": "Developer Hershy Silberstein has sealed $102 million of construction financing to execute an office-to-residential conversion of the Press Building in Manhattan’s Hell’s Kitchen, Commercial Observer can first report. S3 Capital supplied the loan for Silberstein’s planned transformation of 311 West 43rd Street in partnership with his general contractor firm Blue Sky Builders into 160 apartments and 39,712 rentable square feet of commercial space. The deal, which closed Monday, marks the first office-to-resi deal for S3 after originating a number of multifamily construction loans across the country. &#8220;We&#8217;ve underwritten many office-to-residential conversions over the years, but this is the first where everything aligned,” Shawn Safdie, head of origination at S3. “It starts with the sponsorship group, who we have developed a deep repeat relationship with.” Safdie added that the transaction was attractive due to the property’s location in “one of Manhattan&#8217;s most supply-constrained submarkets” coupled with “a building layout that&#8217;s ideal for a conversion project.” Located west of Times Square on 43rd Street between Eighth and Ninth avenues in Midtown West, the 15-story Press Building was acquired by DivcoWest Real Estate Investments from Billy Macklowe’s William Macklowe Company in December 2018 for $131 million, CO previously reported. WeWork signed a 66,000 square-foot lease in the 168,299-gross-square-foot office building in late 2016 before vacating the space along with 39 other underperforming locations in late 2022. Japanese restaurant and lounge Fushimi currently leases the ground-floor space. David Werner, who has executed a number of office-to-resi conversions around Manhattan, was in contract to purchase 311 West 43rd Street for around $40 million in April, according to The Real Deal. The deal never went through, however, and Silberstein recently acquired the property for an undisclosed purchase price, according to S3. The Midtown West a",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-06-23T20:08:30+00:00",
-      "bullets": [
-        "S3 Capital closes $102M construction financing for office-to-resi conversion (Press Building, 311 West 43rd Street, Hell's Kitchen, Manhattan).",
-        "Hershy Silberstein, developer; Blue Sky Builders, GC; 160 apartments + 39.7k sf commercial; S3 Capital's first office-to-resi deal.",
-        "Hell's Kitchen supply-constrained; building layout ideal for conversion; office stock glut makes acquisition/conversion feasible; signals lender appetite for urban conversion arbitrage."
-      ],
-      "summary": "S3 Capital supplied $102 million of construction financing for developer Hershy Silberstein's office-to-residential conversion of the Press Building at 311 West 43rd Street in Manhattan's Hell's Kitchen. The conversion will yield 160 apartments and 39,712 rentable square feet of commercial space. The deal marks S3 Capital's first office-to-residential conversion loan and closed on Monday. S3 cites the sponsor's track record, the building's supply-constrained submarket location, and ideal floor plate for conversion as key factors.",
-      "impact": "Hell's Kitchen is a supply-constrained Manhattan submarket where office-to-resi conversions face favorable unit economics: excess office inventory in the metro (negative absorption, 16%+ vacancy) depresses acquisition pricing, while Hell's Kitchen rents ($3,500–$4,500/2BR) support 6–7% yields and strong lender conviction. S3 Capital's first O-to-R deal signals lender appetite for urban conversion plays in supply-constrained high-rent markets. This is a template: Manhattan office buildings with 1970s-2000s layouts (problematic for modern office, ideal for resi floor plates) are increasingly viable development targets. Developers should audit Hell's Kitchen, Murray Hill, Long Island City office stock for conversion candidates; soft costs and entitlement risk are lower than ground-up new construction in Manhattan."
-    },
-    {
-      "title": "TA Realty Buys Two Staten Island Retail Buildings for $79M",
-      "link": "https://commercialobserver.com/2026/06/ta-realty-buys-tysens-park-shopping-center-staten-island/",
-      "excerpt": "Boston-based real estate investment firm TA Realty has purchased two buildings within Staten Island’s Tysens Park Shopping Center, according to property records made public Monday. The James Raisides-led TA Realty purchased the properties at 2712 Hylan Boulevard and 2754 Hylan Boulevard in New Dorp Beach, Staten Island, for a total of $79.2 million from the Bregman Organization, a deed transfer in property records indicates. Bregman owned the property under the shell corporation Park Tysen Associates, which shared an address with the Long Island-based owner in other filings tied to the property, with Paul Bregman as a signatory. TA Realty used the LLC SCRS Tysen Park with its Boston office address. TA Realty and Bregman did not immediately respond to requests for comment. It’s unclear when Bregman acquired the properties. The two buildings have a combined 184,204 square feet of built space and 632,284 square feet of air rights, giving the new owners a total of 818,733 square feet of buildable space as of right if they choose to redevelop the properties, according to PincusCo. 2712 Hylan is currently leased to Rumble Boxing Gym, while 2754 Hylan is occupied by a Stop &amp; Shop grocery store. The retail assets could be a departure from the norm for TA Realty, which mainly seems to own industrial sites across 230 properties in the U.S. Bregman owns three other properties, the Kohl’s Plaza Shopping Center in Lake Ronkonkoma, Jayne Plaza in Port Jefferson Station and a Popeyes Louisiana Kitchen at 17 McGraw Street in Shirley — all three in Long Island. Mark Hallum can be reached at mhallum@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-06-23T20:05:26+00:00",
-      "bullets": [
-        "TA Realty (Boston) acquires two Staten Island retail buildings (Tysens Park Shopping Center) for $79.2M from Bregman Organization.",
-        "2712 & 2754 Hylan Boulevard, New Dorp Beach; 184k sf built + 632k sf air rights = 818k sf total developable.",
-        "Retail-to-resi conversion play; Staten Island low land costs; air rights indicate zoning upside; value-add redevelopment thesis in outer-borough supply gap."
-      ],
-      "summary": "Boston-based TA Realty purchased two retail buildings in Staten Island's Tysens Park Shopping Center at 2712 and 2754 Hylan Boulevard in New Dorp Beach for a total of $79.2 million. The two buildings have a combined 184,204 square feet of built space and 632,284 square feet of air rights, giving the buyer a total of 818,733 square feet of buildable space if they choose to redevelop the properties. One building is currently leased to Rumble Boxing Gym.",
-      "impact": "TA Realty's acquisition signals institutional capital interest in outer-borough (Staten Island) retail-to-residential conversion and land assembly. The 632k sf of air rights indicates significant zoning upside—likely enabling mid-rise multifamily on underutilized retail parcels. Staten Island has low land costs ($400–$600/sf for retail vs. $2k+/sf in Manhattan) and chronically tight rental supply (vacancy 2–3%, limited new construction). This is a classic value-add play: acquire depressed retail, develop multifamily, capture both price appreciation (land basis) and rent growth (supply scarcity). Developers should monitor outer-borough retail vacancy and acquisition trends; TA Realty's move validates institutional playbook and may signal capital flow toward affordable outer-borough rentals."
-    },
-    {
-      "title": "Setting the Pace: A Day in the Life of North Bridge’s John Lewis",
-      "link": "https://commercialobserver.com/2026/06/north-bridge-john-lewis/",
-      "excerpt": "John Lewis’s young commercial real estate finance career kicked off in 2014, and has already involved multiple roles and market cycles. After seven years at Aareal Capital Corporation, Lewis moved to the banking side of CRE debt in November 2021 at First Citizens before deciding to pivot to the growing Commercial Property Assessed Clean Energy (C-PACE) lending space in March 2026 as vice president of investments at North Bridge. The 32-year old — already with $5.1 billion of originations under his belt — carried with him a versatile lending experience to North Bridge, a firm founded by Laura Rapaport in 2021 and now recognized as one of the innovators in the C-PACE industry. North Bridge under Rapaport has been a leader in the growing space, including originating the first New York City C-PACE multifamily loan in February. Commercial Observer tagged along with Lewis on June 15 to observe what a typical day looks like for the lender. 4:30 to 8 a.m. PHOTO: Ann Hermes/For Commercial Observer Lewis starts his Monday extra early as part of a regimented exercise routine, one he began during the COVID-19 pandemic in 2020. His workout on this day involves a Peloton boot camp program followed by lifting weights. Following the exercise, he takes care of some parental responsibilities one week after having his third child, a daughter named Scottie. He gives Scottie a bottle at around 6 a.m. and then makes lunches for his two other young children. Following a shower, he leaves his Westchester County home around 7:40 in time to make the 8:04 Metro-North train from White Plains to Grand Central Terminal. PHOTO: Ann Hermes/For Commercial Observer 8:45 to 10:30 a.m. After Lewis’s train arrives at Grand Central, he walks to the Vanderbilt Avenue exit to board an Uber to bring him to a client meeting in the Chelsea area. He makes his way through rush-hour traffic and arrives at Chelsea Table &amp; Stage inside the Hilton New York Fashion District at 152 West 26th Street at around 9:2",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-06-23T20:00:06+00:00",
-      "bullets": [
-        "Profile: John Lewis, Vice President Investments at North Bridge; transitioned from CRE debt banking to C-PACE (Commercial Property Assessed Clean Energy) lending in March 2026.",
-        "Lewis carries $5.1B originations; North Bridge founded 2021, recognized C-PACE innovator; originated first NYC C-PACE multifamily loan February 2026.",
-        "C-PACE lending emerging as alternative/complement to traditional construction debt; multifamily adoption signals lower-cost, long-duration capital access for green/ESG projects."
-      ],
-      "summary": "John Lewis, 32, recently moved to North Bridge as Vice President of Investments after seven years at Aareal Capital and four years in CRE debt at First Citizens. Lewis brings $5.1 billion in originations to North Bridge, a 2021-founded firm now recognized as an innovator in Commercial Property Assessed Clean Energy (C-PACE) lending. North Bridge originated the first New York City C-PACE multifamily loan in February 2026, signaling growing adoption of PACE financing in the residential sector.",
-      "impact": "C-PACE lending is beginning to displace or supplement traditional construction and bridge debt for multifamily projects, particularly in coastal and regulated markets. PACE's long duration (20–30 years) and lower cost-of-capital (often 150–250 bps cheaper than mezzanine or HF bridge) make it attractive for stabilized and value-add deals. North Bridge's NYC multifamily PACE origination validates product-market fit. For developers, C-PACE should be modeled as a permanent financing source on green/ESG-certified projects, particularly where cap rates are compressed and long-term rate locks are valuable. Monitor C-PACE regulatory changes and lender expansion; growth in PACE originations may reduce traditional debt demand and alter HF/mezzanine pricing power."
-    },
-    {
-      "title": "New York Developer Seeks to Build 296 Units in Flushing, Queens",
-      "link": "https://commercialobserver.com/2026/06/gary-chen-296-units-flushing-queens/",
-      "excerpt": "Nearly 300 units of new housing might be coming to Flushing, Queens. New York City-based developer Gary Chen has submitted a zoning change application to build a 10-story, mixed-use project at 32-02 Linden Place, according to a Monday filing with the New York City Department of City Planning. If approved, the project would have a total of 296 residential units on the second through 10th floors — 75 of which would be permanently affordable — along with 32,954 square feet of ground-floor commercial space and 194 parking spaces, the filing shows. Chen plans to build the project on the sites of four existing properties: a mixed-use building at 32-02 Linden Place, two industrial buildings at 32-11 Farrington Street and 32-09 Farrington Street, and another unnumbered address along Linden Place. Chen completed the purchase of all four properties in 2024, buying them for a combined total of $26.5 million, according to PincusCo, which first reported the new filing. Chen is now seeking a zoning change to the area encompassed by 32nd Avenue, Linden Place and Farrington Street to build his new mixed-use project. The properties are just south of the Whitestone Expressway, a block from the athletic fields of Leavitts Park. “The proposed rezoning would provide increased opportunities for housing development on an underutilized lot,” Chen wrote in the filing. “These actions would be consistent with the city’s goals of strengthening neighborhoods, expanding housing, including affordable housing and employment in transit-accessible areas, while respecting the character of the surrounding residential communities.” Chen, who owns at least 11 industrial and mixed-use properties across Queens, could not be reached for further comment. News of the filing comes during a busy period for new housing projects in the borough. Just this week, the Grun Group filed plans to bring two new residential developments with a total of 108 units to Kew Gardens’ Grosvenor Lane, while developer Derek Frase",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-06-23T19:59:29+00:00",
-      "bullets": [
-        "Gary Chen (NYC developer) files for zoning change in Flushing, Queens: 296 units (75 permanently affordable) on 4-property assemblage at 32-02 Linden Place.",
-        "10-story mixed-use; 32.9k sf ground retail; 194 parking spaces; Chen purchased properties for $26.5M (2024); seeking zoning variance.",
-        "Queens density play; affordable set-asides (75 units = 25% AMI); entitlement pending; Flushing supply-constrained submarket with strong transit (LIRR, subway) and job growth."
-      ],
-      "summary": "Developer Gary Chen filed a zoning change application to build a 10-story mixed-use project at 32-02 Linden Place in Flushing, Queens. The project would deliver 296 residential units (75 permanently affordable), 32,954 square feet of ground-floor commercial space, and 194 parking spaces. Chen purchased the four underlying properties in 2024 for a combined $26.5 million and is now seeking a zoning change to enable the development.",
-      "impact": "Flushing is a high-density, transit-rich Queens submarket with chronic multifamily supply scarcity and strong immigrant/Asian diaspora demographics supporting high rents and low vacancy. Chen's assembly (4 properties for $26.5M) and 296-unit entitlement strategy targets the submarket's density upside; 25% affordable units are likely required to secure city land or tax incentives but do not materially impair project economics in high-rent Flushing (rents $2,500–$3,000/2BR). Entitlement risk is moderate—Flushing has proven 15–25 story development track record (Tangram, Skyline). Developers eyeing Queens should note Flushing is a primary capital target; land costs are rising as institutional capital chases Asian-American submarket demographics and transit access."
-    },
-    {
-      "title": "Kingsbarn and Kelemen swapping offices for 480 homes in Laguna Hills",
-      "link": "https://therealdeal.com/la/2026/06/23/kingsbarn-kelemen-razing-laguna-hills-offices-to-make-way-for-housing/",
-      "excerpt": "Kingsbarn Realty Capital &#38; Development and the Kelemen Company are poised to bulldoze seven vacant office buildings in Laguna Hills to build nearly 500 homes. The respective Las Vegas- and Irvine-based developers announced approvals early this year to construct 480 townhomes and apartments on 18.5 acres at two adjacent office complexes between 23282 and 23422 Mill Creek Drive, the Orange County Business Journal reported. The project, dubbed Terravita, will replace the former HERE@Laguna Hills and Spectrum Summit Plaza office campuses. It was approved by the Laguna Hills City Council in February, but not announced by the developers until this month. [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-06-23T19:39:40+00:00",
-      "bullets": [
-        "Kingsbarn & Kelemen bulldozing 7 vacant office buildings (HERE@Laguna Hills, Spectrum Summit) for 480 units: 259 townhomes + 221-apt building on 18.5 acres.",
-        "Laguna Hills approved February 2026; Kingsbarn bought HERE campus (5 properties) from Cigna 2022 for $64M; acquired Summit Plaza 2023 for $14.5M.",
-        "Post-pandemic office emptying; OC median condo list $800k; project $300M (~$625k/unit); office-to-resi conversion validated by land holdcost and regulatory tailwinds."
-      ],
-      "summary": "Kingsbarn Realty Capital & Development and the Kelemen Company announced approvals to bulldoze seven vacant office buildings across two adjacent office complexes (HERE@Laguna Hills and Spectrum Summit Plaza) in Laguna Hills and build 480 residences. The project, dubbed Terravita, will deliver 259 three-story townhomes and a 221-unit apartment building on 18.5 acres. Kingsbarn and Kelemen purchased the five-property HERE campus from The Cigna Group in 2022 for $64 million and the two-property Summit Plaza in 2023 for $14.5 million. The project is estimated at more than $300 million, or $625,000 per unit.",
-      "impact": "Laguna Hills is a supply-constrained Orange County aerospace corridor submarket; post-pandemic office vacancy has left corporate campuses (Cigna's HERE, CJ Summit) economically obsolete. Kingsbarn's 5+ year hold and office-to-resi conversion captures both asset-level value destruction (office → resi) and land basis arbitrage (sub-$100/sf land acquired, ~$625k/unit developed). At $800k OC median condo prices, 259 townhomes + 221 rental apt building positions price-tiering for mixed-tenure exit (rent/sell split). Developers should audit OC and inland CA office parks (Irvine, Costa Mesa, Anaheim) for similar plays; office cap rates in secondary metros are collapsing and conversion to resi is becoming viable. Regulatory tailwinds (AB 68, local density bonus) and low land costs make 2025–2027 optimal entry window before office-to-resi bidders multiply."
-    },
-    {
-      "title": "Blue Road, Ilia cut hotel rooms, win resi upsize for North Miami Beach project",
-      "link": "https://therealdeal.com/miami/2026/06/23/blue-road-ilia-development-group-north-miami-beach-condos/",
-      "excerpt": "Blue Road and Ilia Development Group plan to start construction on a condo tower with a pickleball roof deck in North Miami Beach by early next year, after city officials approved a new site plan for the 650,384-square-foot condo project Monday. The North Miami Beach City Commission approved the developers’ request to increase the number of residences within The William, a 25-story development planned at 2040 Northeast 163rd Street, from 344 to 374. The change eliminates 30 planned hotel rooms. Blue Road and Ilia have already presold 23 percent of the units, their attorney Steve Warnick said. Designed by Uruguayan [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-06-23T19:35:44+00:00",
-      "bullets": [
-        "Blue Road & Ilia approved to increase units from 344 to 374 (+30 residential, -30 hotel rooms) at The William, North Miami Beach condo tower (25-story, 650k sf).",
-        "North Miami Beach City Commission approved Monday; 23% pre-sold; site: 2040 Northeast 163rd Street; replaces 1968 two-story office building.",
-        "Hotel-to-resi swap signals weak Miami Beach hotel demand and strong condo demand; submarket surrounded by low-density retail/office; tower density anchors infill."
-      ],
-      "summary": "Blue Road and Ilia Development Group won North Miami Beach City Commission approval to increase residential units at The William from 344 to 374 and eliminate 30 planned hotel rooms. The 25-story, 650,384-square-foot development at 2040 Northeast 163rd Street will include 4,500 square feet of retail, 448 parking spaces, and two amenity decks. The developers have already presold 23 percent of the units. The project will replace a two-story office building completed in 1968.",
-      "impact": "Hotel-to-residential swap at The William signals weak South Florida hotel demand absorption and strong condo-buyer conviction in North Miami Beach. 23% pre-sales in a low-barrier submarket (one-story strip mall context, no trophy anchor) indicates renter/buyer demand resilience outside Miami Beach/Brickell. This is a cap-rate arbitrage play: hotel revenue (3–4% yield) >> condo pre-sales revenue (6–8%+ when factoring buydown), so sponsor switches use to capture higher exit value. North Miami Beach is supply-constrained for resi; development approvals and pre-sales momentum validate buyer/investor appetite. Developers should monitor Miami-Dade and Broward for similar hotel-to-resi or office-to-resi conversion candidates; hotel market softness creates land basis and financing opportunities."
-    },
-    {
-      "title": "Centerbridge Partners Lends $210M on Orange County, Calif., Condos Repositioning",
-      "link": "https://commercialobserver.com/2026/06/centerbridge-partners-orange-county-california-condos/",
-      "excerpt": "Developer Crescent Heights has sealed a $210 million condominium inventory loan for the transformation of a newly acquired former multifamily property in Santa Ana, Calif., into Orange County’s tallest residential complex, Commercial Observer has learned. Centerbridge Partners supplied the loan for Skyline OC featuring 349 for-sale condos across two 25-story towers. Crescent Heights acquired the 2010-built complex for $240 million from Essex Property Trust in early 2025 and is in the process of selling the former apartment units as condos. Newmark negotiated the debt with a team consisting of Jordan Roeschlaub, Nick Scribani, Ricky Braha and Holden Witkoff. &#8220;The financing reflects strong lender conviction in both the quality of the asset and Crescent Heights&#8217; proven track record of delivering landmark residential developments across the country,” Braha, senior managing director at Newmark, said in a statement. Located at 15 MacArthur Place 38 miles southeast of Downtown Los Angeles, Skyline OC has amenities that include a swimming pool, a fitness center, coworking space, a pickleball court and a golf practice green. Centerbridge Partners and Crescent Heights did not immediately return requests for comment. Andrew Coen can be reached at acoen@commercialobserver.com. &nbsp; &nbsp;",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-06-23T18:56:21+00:00",
-      "bullets": [
-        "Centerbridge Partners finances $210M condominium inventory loan for Crescent Heights' Skyline OC (Santa Ana, Orange County) condo conversion project.",
-        "Two 25-story towers; 349 for-sale condos; acquired from Essex Property Trust ($240M, early 2025); lender conviction in sponsor track record.",
-        "Apartment-to-condo conversion play; institutional capital active in Orange County luxury resi; acquisition and inventory financing signals strong pre-sales and exit velocity."
-      ],
-      "summary": "Centerbridge Partners supplied a $210 million condominium inventory loan for Crescent Heights' acquisition and conversion of a former multifamily property in Santa Ana into Skyline OC, Orange County's tallest residential complex. Crescent Heights acquired the 2010-built complex from Essex Property Trust for $240 million in early 2025 and is converting and selling the 349 units as luxury condos across two 25-story towers. Centerbridge's willingness to finance highlights lender confidence in the asset quality and sponsor execution.",
-      "impact": "Centerbridge's $210M inventory financing on a $240M acquisition reflects 87% LTV and strong lender conviction in condo absorption and pricing power. This is effectively a condo conversion play: Crescent Heights acquired stabilized apartment yields (4–5% implied), rehabbed units, and is selling at 20–30% markup (condo premium), with lenders comfortable on absorption risk. Orange County rents and condo pricing ($800k median list) support this arbitrage. Developers should note: (1) institutional sponsors with proven condo delivery track records can access permanent, long-duration inventory financing at favorable terms; (2) apartment-to-condo conversions remain viable in supply-constrained CA markets where renter demand is strong enough to stabilize units pre-conversion; (3) Orange County remains a secondary capital target with lower competition than coastal CA."
-    },
-    {
-      "title": "Texas’ top construction permits for the week ending June 23, 2026",
-      "link": "https://therealdeal.com/texas/2026/06/23/texas-top-construction-permits-june-23-2026/",
-      "excerpt": "New Buildings San Antonio-based grocery chain H-E-B submitted the most expensive new construction project of the week: a new bakery production facility at 711 South Foster Road in San Antonio. Construction of the 356,354-square-foot building is expected to last from July 2026 to September 2028 and cost $125 million. Job filing number: TABS2026023377 1010 Emerald Isle LLC, an entity tied to Dallas-based JLB Partners, filed plans to spend $60 million on a new 40,000-square-foot leasing center for Autumn Leaves, an assisted living facility at 1010 Emerald Isle Drive in Dallas. Work is scheduled to start November 2026 and end November [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-06-23T18:15:00+00:00",
-      "bullets": [
-        "H-E-B (San Antonio) files $125M bakery facility (356k sf) in San Antonio; Centurion American redevelops Collin Creek Mall (Plano) for $50M mixed-use (apartments, retail, 230k sf phase).",
-        "QTS data center (Fort Worth) expands $300M project (July 2026–Oct 2027); Austin transit authority upgrades rail at Plaza Saltillo Station.",
-        "Texas commercial/industrial permits signal grocery supply-chain investment, mall death/conversion, logistics expansion, and public transit capital in Austin/DFW; mixed signals on resi demand."
-      ],
-      "summary": "Texas construction permits filed in the week ending June 23, 2026 included: H-E-B's $125 million bakery production facility (356,354 sf) in San Antonio (July 2026–September 2028); Centurion American's $50 million mixed-use redevelopment of Collin Creek Mall in Plano including apartments (January–July 2027); QTS's $300 million data center expansion in Fort Worth (July 2026–October 2027); and Austin's transit authority improvement project at Plaza Saltillo Station. JLB Partners also filed a $60 million assisted living leasing center in Dallas.",
-      "impact": "Texas permits reveal capital reallocation away from traditional retail (Collin Creek Mall conversion) toward supply-chain (H-E-B bakery), logistics/cloud (QTS data center), and senior living (assisted living in Dallas). Mall-to-mixed-use (Plano) is a template for secondary Texas markets; retail death is accelerating conversion-friendly entitlements and land basis collapse. H-E-B's $125M bakery plant signals food/CPG supply-chain reinvestment in Texas (labor cost advantage, proximity to Mexico). QTS's $300M data center reflects cloud/AI infrastructure boom in lower-cost metros (Fort Worth cost of power/land << coastal data center hubs). For multifamily developers: (1) avoid Plano/secondary DFW retail nodes (conversion competition incoming); (2) focus on high-growth job centers (Austin, San Antonio aerospace, tech); (3) monitor data center projects as proxies for job growth (QTS expansion = DFW tech talent inflow and renter demand tail). Austin transit capital suggests last-mile renter demand concentration near rail stations."
+      "summary": "Miami City Commissioner Damian Pardo has sponsored a measure instructing the city attorney to challenge the validity of Florida's Live Local Act (signed by Governor Ron DeSantis in 2023), which offers tax breaks and zoning relief to developers who include below-market-rate housing. Miami joins other municipalities in legal challenges; Hollywood won a lawsuit against a Live Local developer in March, and Hillsborough County sued the state the same month. More than 200 Live Local projects are in development statewide.",
+      "impact": "Legal challenges to Live Local Act create uncertainty for developers and lenders underwriting projects under the law; if Miami's challenge succeeds (and contagion spreads), tax incentives and zoning variances could be clawed back mid-construction, materially impacting project economics. Conversely, successful defense of the law (or local defeats) emboldens developers to pursue more Live Local deals. Developers should closely monitor litigation outcomes in Hollywood, Hillsborough, and Sarasota; legal risk on Live Local deals is rising, and pro-forma assumptions may require stress-testing. If law is weakened, expect slowdown in below-market-rate infill projects in South Florida unless developers can underwrite without subsidies."
     }
   ]
 }
