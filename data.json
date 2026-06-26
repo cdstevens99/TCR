@@ -1,118 +1,193 @@
 {
-  "fetchedAt": "2026-06-26T00:23:11.272408+00:00",
+  "fetchedAt": "2026-06-26T18:13:12.359370+00:00",
   "rates": [
     {
       "label": "SOFR",
-      "value": "3.62%",
-      "pct": 0.0,
+      "value": "3.64%",
+      "pct": 0.02,
       "isBps": true
     },
     {
       "label": "10Y Treasury",
-      "value": "4.39%",
-      "pct": -1.33
+      "value": "4.38%",
+      "pct": null
     },
     {
       "label": "30Y Treasury",
-      "value": "4.86%",
-      "pct": -0.88
+      "value": "4.87%",
+      "pct": null
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "97.19",
-      "pct": 0.19
+      "value": "98.33",
+      "pct": 1.17
     }
   ],
   "stories": [
     {
-      "title": "Connect Midwest Multifamily Trends 2026: Navigating Capital Flow & Deal Dynamics",
-      "link": "https://www.connectcre.com/stories/connect-midwest-multifamily-trends-2026-navigating-capital-flow-deal-dynamics/",
-      "excerpt": "The multifamily sector is seeing investment competition return, as sellers adjust pricing expectations and buyers show steadier interest. Our expert panel on navigating capital flow and deal dynamics at Connect Midwest Multifamily Trends 2026 discussed strategies for securing financing and managing loan maturities. Industry leaders shared their acquisition strategies for underwriting deals, identifying distress and acquiring assets. &#8220;There have been a lot of changes in the agency space, and the small balance program has really started to shrink with a bigger focus across the board for larger assets,&#8221; said Igor Zhizhin, Director at Lument. &#8220;Large deals are getting incredibly competitive capital.&#8221; The panel covered various approaches to challenges in the multifamily market. &#8220;One of the things that we&#8217;ve tried to do to try to solve some of these issues is to go up pretty high up on the leverage level, up to 85 or 90% of loan to cost, if we have a quick value creation component and we can get paid back relatively quickly,&#8221; said Stratos Athanassiades, Regional Manager, for Red Oak Capital Holdings. &#8220;So if the business plan works, we can provide some of that equity at rates that are a lot lower than they&#8217;d be paying.&#8221; The post Connect Midwest Multifamily Trends 2026: Navigating Capital Flow &amp; Deal Dynamics appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-06-25T22:08:35+00:00",
-      "bullets": [
-        "Agency small-balance multifamily loans shrinking; lenders favoring larger assets with competitive capital.",
-        "Developers using 85-90% loan-to-cost leverage with quick value-creation plans to lower equity costs.",
-        "Seller pricing expectations adjusting downward; buyer interest steadying across Midwest multifamily market."
-      ],
-      "summary": "Midwest multifamily capital markets are rebalancing after volatility: agency lending in smaller deals is contracting while larger assets attract intense competition and better terms. Developers are responding by structuring higher-leverage deals (85-90% LTC) with near-term value creation to reduce equity requirements and lower total cost of capital. Sellers are moderating price expectations and finding renewed buyer interest, signaling a stabilization phase rather than distress liquidation.",
-      "impact": "This signals a bifurcated capital market favoring scale—smaller Midwest acquisitions will face tighter, more expensive financing, while large-asset developers and portfolio players with quick hold periods can access competitive, high-leverage terms. Developers should prioritize deal size and value-add timeline when underwriting in the Midwest; marginal projects may no longer pencil at bank terms."
-    },
-    {
-      "title": "Wells Fargo Provides $46M Refi for SoCal Shopping Center",
-      "link": "https://commercialobserver.com/2026/06/california-retail-wells-fargo-walker-dunlop-target-rosemead/",
-      "excerpt": "A Target-anchored shopping center in Southern California’s San Gabriel Valley has secured refinancing, Walker &amp; Dunlop announced Thursday. Wells Fargo provided $46 million in fixed-rate, interest-only permanent financing for the 336,718-square-foot Rosemead Place in Rosemead, Calif., in Los Angeles County. PropertyShark lists MPM Partners, run by Herbert Yang, as the property’s owner. The shopping center is about 10 miles east of Downtown L.A. at 3506-3864 Rosemead Boulevard, at the intersection with Interstate 10. In addition to Target, the tenants at Rosemead Place include LA Fitness, Ross Dress for Less, PetSmart, ULTA Beauty and Dollar Tree. Trevor Fase and Lynn Pearson led the Walker &amp; Dunlop team, while Joel Minugh and James Ko represented Wells Fargo in-house. “Well-located, anchored retail assets like Rosemead Place continue to be viewed extremely favorably by a wide range of capital providers, including insurance companies, commercial mortgage-backed security lenders, and regional and national banks,” Fase said in a statement. “Despite several moving parts, including near-term lease rollover, we successfully closed the transaction in less than 60 days.” The San Gabriel Valley’s retail real estate market is putting pressure on landlords with declining asking rents, according to Lee &amp; Associates’ first-quarter analysis. The market’s average triple-net asking rate dropped slightly for at least the previous four quarters to about $2.81 per square foot per month. Gregory Cornfield can be reached at gcornfield@commercialobserver.com.",
+      "title": "Korean Chef Jiho Kim to Open Flagship Restaurant at 21 West 17th Street",
+      "link": "https://commercialobserver.com/2026/06/jiho-kim-restaurant-lease-21-west-17th-street/",
+      "excerpt": "Korean chef Jiho Kim has leased 3,120 square feet at 21 West 17th Street in Manhattan’s Flatiron District for his namesake flagship restaurant, Jiho. The New American eatery with a Korean-inspired menu will take up 1,868 square feet on the ground floor and 1,252 square feet of basement space at the Flatiron location between Fifth Avenue and Avenue of the Americas, Commercial Observer has learned. Asking rent was $120 per square foot. Carson Shahrabani and Noam Aziz of Meridian Capital Group negotiated on behalf of Kim in the transaction. “Jiho has been searching for his flagship location restaurant, and it was a pleasure to finally find the perfect site for him after showing him spaces for years,” Shahrabani told CO. Kim is the founder of the West Village restaurant Joomak and Olly Olly Market food hall restaurant Ddobar in West Chelsea. Joomak is temporarily closed, according to Yelp, and DDOBAR officially closed its doors in March of this year. The midblock address at 21 West 17th Street is within Louie, a two-building condominium complex developed by Vinbaytel Property Development. The building, completed in July 2024, includes 21 full-floor condo units. Its second retail space, located on the north side of the block at 16 West 18th Street, was leased to chef Andrew Sargent for his first New York City restaurant earlier this month. Ripco Real Estate’s Ben Davis and Alex Svetlakou represented the landlord. A spokesperson for the team did not immediately respond to a request for comment. Emily Davis can be reached at edavis@commercialobserver.com.",
       "source": "Comm. Observer",
       "cat": "Commercial",
-      "date": "2026-06-25T21:55:12+00:00",
+      "date": "2026-06-26T17:40:41+00:00",
       "bullets": [
-        "Wells Fargo refinances $46M for 336K-SF Target-anchored shopping center in San Gabriel Valley, Los Angeles County.",
-        "Rosemead Place near I-10: fixed-rate, interest-only permanent financing; lender confirms strong appetite for well-anchored retail.",
-        "Mixed-use and retail capital still flowing to best-located, credit-tenanted assets despite broader CRE headwinds."
+        "Chef Jiho Kim leases 3,120 sq ft at 21 West 17th, Flatiron Manhattan at $120/sf.",
+        "Kim's prior restaurants (Joomak, DDOBAR) closed; flagship represents repositioning.",
+        "Ground-floor retail demand in prime Manhattan submarket remains active."
       ],
-      "summary": "Wells Fargo provided $46 million in fixed-rate, permanent financing for Rosemead Place, a 336,718-square-foot Target-anchored shopping center in the San Gabriel Valley east of Downtown LA. The deal confirms lender appetite for well-positioned, credit-anchored retail despite macro uncertainty. Multiple major tenants (LA Fitness, Ross, ULTA, Dollar Tree) support stable cash flow.",
-      "impact": "Not directly relevant to multifamily. Signals that institutional capital—banks, insurers, CMBS lenders—remains available for prime retail, but this capital is NOT migrating to multifamily; it reinforces that best-location, strongest-credit assets across all property types still command financing, while secondary properties face capital constraints."
+      "summary": "Korean chef Jiho Kim has leased 3,120 square feet at 21 West 17th Street in Manhattan's Flatiron District for his namesake restaurant at $120 per square foot. The space comprises 1,868 square feet on the ground floor and 1,252 square feet in the basement. Kim's prior food concepts have closed, and this flagship represents a strategic refocus.",
+      "impact": "Minimal direct impact on multifamily development. Signals continued retail/hospitality investment and foot traffic in Flatiron, which can support nearby residential demand, but does not indicate supply, capital, or demand shifts material to apartment development."
     },
     {
-      "title": "Chicago/Midwest People & Company News, week of June 26, 2026",
-      "link": "https://www.connectcre.com/stories/chicago-midwest-people-company-news-week-of-june-26-2026/",
-      "excerpt": "Cresa announced that Julie Northcutt-Dunn joined as president, markets, a newly created executive role focused on driving growth across Cresa’s market operations through strategic planning, operational excellence and organic growth initiatives. She will be based in Cresa’s Chicago headquarters. Northcutt-Dunn joins from Colliers, where she was recently executive managing director, overseeing Chicago, Indianapolis, Kansas City, Omaha, St. Louis and Nashville. The Inland Real Estate Group has appointed Jacqueline Dagan as associate general counsel and Dhaval Parikh as head of institutional capital formation, adding two seasoned leaders to its institutional asset management platform, Inland Institutional. Dagan brings more than two decades of legal experience across investment management, real estate funds and alternative assets. Parikh brings nearly 20 years of experience in capital raising, investor relations, and product development within the real estate investment industry. Buffalo Grove-based PREMIER Design + Build Group announced the promotion of Stacy Reid to vice president of its new Reno office. The appointment marks a significant step in PREMIER&#8217;s continued growth across the United States. Reid has successfully delivered complex projects throughout the Western United States, including adaptive reuse, tenant improvements, healthcare, office, and large-scale industrial developments. JLL has appointed Chris Fernandez to lead its workplace management business across the Americas, where he will oversee teams, enhance operational performance and deploy future capabilities to accelerate growth. In his new role, Fernandez will leverage his two decades of corporate real estate experience to drive strategy for workplace optimization, facilities management, engineering, employee experience, technical building services, sustainable operations and occupancy management. Josh Koons has been hired as vice president of facilities for PsiQuantum in Chicago, helping lead",
+      "title": "New-Construction San Diego Apartments Score $53M Bridge Loan",
+      "link": "https://www.connectcre.com/stories/new-construction-san-diego-apartments-score-53m-bridge-loan/",
+      "excerpt": "Broadshore Capital Partners, LLC closed on a $53.2-million floating-rate senior bridge loan secured by Monroe North Park, a newly delivered 137-unit Class A multifamily community located at 3090 Polk Ave. in the North Park neighborhood of San Diego. The loan was completed in partnership with an institutional investor with whom Broadshore maintains an active lending relationship. The financing will facilitate the lease-up and stabilization of the property, which was delivered in 2025. It features institutional-quality construction, structured parking with EV charging capabilities, rooftop entertainment and co-working amenities. “San Diego is one of the most fundamentally sound multifamily markets in the country, and North Park represents exactly the kind of supply-constrained, high-demand urban submarket we want to be in,” said Broadshore CEO Bradford Howe. “This transaction is consistent with our strategy of deploying institutional capital into well-located, newly delivered assets where we have conviction in the collateral quality and the long-term fundamentals.” The post New-Construction San Diego Apartments Score $53M Bridge Loan appeared first on Connect CRE.",
       "source": "Connect CRE",
       "cat": "Commercial",
-      "date": "2026-06-25T21:41:42+00:00",
+      "date": "2026-06-26T17:31:18+00:00",
       "bullets": [
-        "Cresa hires Julie Northcutt-Dunn as President, Markets from Colliers (Chicago HQ); covers 6-city Midwest region.",
-        "Inland Real Estate adds capital formation head (Parikh, 20 yrs CRE investing) and general counsel to institutional platform.",
-        "JLL, PREMIER Design, and other CRE firms expand leadership in workplace and construction services across U.S."
+        "Monroe North Park, 137 units, San Diego North Park, closes $53.2M bridge loan.",
+        "New delivery in 2025; Broadshore cites supply-constrained, high-demand submarket fundamentals.",
+        "Bridge financing confirms lender confidence in San Diego multifamily collateral quality."
       ],
-      "summary": "Midwest commercial real estate firms are scaling institutional and capital-raising infrastructure. Cresa relocated a Colliers exec overseeing Chicago, Indianapolis, Kansas City, Omaha, St. Louis, and Nashville to drive organic growth. Inland Real Estate hired experienced institutional capital and legal talent. JLL, PREMIER, and Marcus & Millichap are all promoting national and regional leadership, signaling confidence in deal flow and client growth.",
-      "impact": "Personnel moves reflect consolidation of advisory and capital-raising power among large firms. For multifamily developers, this means brokerage and advisory services are concentrating among fewer platforms with deeper institutional relationships; smaller independents may struggle to access same-tier capital introductions and advisory depth. Chicago remains a capital hub for Midwest multifamily strategies."
+      "summary": "Broadshore Capital Partners closed a $53.2 million floating-rate senior bridge loan for Monroe North Park, a newly delivered 137-unit Class A multifamily community in San Diego's North Park neighborhood, delivered in 2025. The financing facilitates lease-up and stabilization. Broadshore CEO cited San Diego as fundamentally sound and North Park as supply-constrained with high demand.",
+      "impact": "Validates San Diego North Park as a prime infill submarket for institutional capital deployment. A lender's willingness to finance new construction at competitive LTV post-delivery signals strong market confidence in absorption and rent growth in this constrained urban infill pocket, supporting continued development feasibility for similar Class A product in San Diego urban neighborhoods."
     },
     {
-      "title": "Report: Has Brexit Been a Boon to the UK?",
-      "link": "https://www.connectcre.com/stories/report-has-brexit-been-a-boon-to-the-uk/",
-      "excerpt": "On June 23, 2016, citizens turned out in a national referendum to decide whether the United Kingdom should withdraw from the European Union. After the dust settled, 51.89% voted in favor of departing, while 48.11% voted to “Remain.” By December 2020, the UK officially left the EU. Ten years after the highly contentious vote that became known as Brexit, the question is whether the UK has benefited from it. According to economist Ray Perryman, not so much. In his recently released column, “Brexit—10 Years Later,” the president and CEO of The Perryman Group said that “the data clearly indicates that Brexit has indeed severely harmed the UK economy.” Why Leave? Many reasons led to the vote to “Leave.” Perryman said key issues included a desire for greater control and reduced immigration. Additionally, “proponents thought the UK would not only save billions of pounds in EU membership fees but would also be able to negotiate better trade deals without the EU bureaucracy,” he said. Other reasons included a massive publicity campaign by big-gun proponents, including Boris Johnson (former mayor of London) and Michael Gove (justice secretary), distrust of Prime Minister David Cameron (a proponent of the Remain campaign), and Labor’s failure to connect with voters. Adding to the issue were older voters who flocked to the polls, with research noting that Brexit support was “significantly higher among those aged 55 and over.” Meanwhile, in 2026 . . . Statista said that as of June 2026, 57% of UK citizens surveyed in a YouGov poll said their country shouldn’t have left the EU. Additionally, a July 2025 YouGov survey reported that “most people in the UK thought that Brexit had a mainly negative impact, especially on the cost of living and the economy,” Statista said. The opinion is based on fact. Quoting a study by the Stanford Institute for Economic Policy Research, Perryman said that Brexit had reduced the UK’s Gross Domestic Product by 6% to 8%, while investment has fallen by 1",
+      "title": "Gellner Retail Team at Kidder Mathews Welcomes Eric Hagen",
+      "link": "https://www.connectcre.com/stories/gellner-retail-team-at-kidder-mathews-welcomes-eric-hagen/",
+      "excerpt": "Kidder Mathews has welcomed Eric Hagen to the firm&#8217;s downtown Seattle headquarters as a member of the Gellner Team. Hagen joins Executive Vice President David Gellner, First Vice President Parker Ksidakis, and Client Services Coordinator Michelle Plafcan, specializing in the sale of retail investment properties throughout the Pacific Northwest. Together, the brokers have completed more than 210 transactions totaling over $742 million, representing a range of private investors, institutions, developers, and property owners. “Eric is a strong addition to an already high-performing team,” said Regional President of Brokerage Will Frame. “His market knowledge, energy, and commitment to serving clients make him a great fit for Kidder Mathews and reflect the kind of professionals we want to bring to the firm as we invest in top talent across the region.” Among the team’s transactions are the sales of Cordata Shopping Center in Bellingham, Kitsap Shopping Centers in Silverdale, Wilderness Crossing in Maple Valley, Hobby Lobby in Tacoma, and Trestle Station in Lake Stevens. “We&#8217;re excited to welcome Eric as we continue to build on the momentum we&#8217;ve created,” said Gellner. The post Gellner Retail Team at Kidder Mathews Welcomes Eric Hagen appeared first on Connect CRE.",
       "source": "Connect CRE",
       "cat": "Commercial",
-      "date": "2026-06-25T21:37:25+00:00",
+      "date": "2026-06-26T17:24:08+00:00",
       "bullets": [
-        "Brexit (10 years post-referendum): UK economy severely harmed per economist Ray Perryman; 57% of citizens regret vote.",
-        "Immigration control and cost-of-living concerns drove Leave vote; 2026 polling shows public sentiment reversed.",
-        "No direct UK economic recovery; trade friction and reduced business dynamism cited as primary harms."
+        "Kidder Mathews hires Eric Hagen; retail brokerage team has completed 210+ deals, $742M.",
+        "Team focuses on Pacific Northwest retail investment sales; no multifamily or residential signal.",
+        "Team hiring reflects strong commercial real estate market activity in region."
       ],
-      "summary": "Ten years after the 2016 Brexit referendum, UK economic data show severe contraction and continued hardship. Economist Ray Perryman's analysis concludes the economy has been 'severely harmed.' As of June 2026, 57% of UK citizens surveyed say the country should not have left the EU, and most blame Brexit for negative impacts on cost of living and growth. Initial promises of fiscal savings and better trade deals have not materialized.",
-      "impact": "Minimal relevance to U.S. multifamily development. UK regulatory and economic uncertainty may affect some international capital flows, but U.S. apartment markets are not materially dependent on UK capital or immigration. Could be relevant only if analyzing cross-border capital redeployment or considering UK-based investor portfolio rebalancing toward U.S. assets—a minor secondary effect."
+      "summary": "Kidder Mathews welcomed Eric Hagen to its retail brokerage team in Seattle. The Gellner Team has completed over 210 transactions totaling $742 million. The hire reflects continued strength in the Pacific Northwest retail market.",
+      "impact": "Not material to multifamily development. Retail brokerage team expansion signals healthy commercial real estate activity in the Pacific Northwest but does not indicate demand, supply, capital, or cost shifts affecting apartment development."
     },
     {
-      "title": "New York People and Company News, Week of June 26, 2026",
-      "link": "https://www.connectcre.com/stories/new-york-people-and-company-news-week-of-june-26-2026/",
-      "excerpt": "Newmark Group, Inc. has hired Munish Viralam as Executive Vice Chairman to lead its Real Estate Strategy &amp; Consulting Group. Based in New York, Viralam leads the group that combines Newmark&#8217;s New York Consulting and Financial Services teams, including Jason Perla and Romel Cañete. The practice serves as a centralized resource supporting Newmark&#8217;s brokerage teams, and complements Newmark&#8217;s broader real estate advisory capabilities. Allen Matkins announced that Ronald R. Rossi has joined the firm’s Litigation Practice as a partner in its New York office. A first-chair trial lawyer and lead counsel in complex, high-stakes commercial disputes with more than three decades of experience, Rossi is often called up to represent clients in their most significant business, real estate, insurance, technology, labor, and corporate governance disputes in courts and arbitration forums across the United States and internationally. Eastern Union, one of the nation&#8217;s leading commercial real estate mortgage brokerages, announced the next phase of its nationwide expansion, led by Chairman Ira Zlotowitz and President Abe Bergman, and the signing of top-producing broker Elliott Kunstlinger as the first senior broker to join under the plan. Kunstlinger, known for closing some of the market&#8217;s largest and most complex financings, is the first of several senior and emerging brokers now in discussions to join the firm. Colliers has appointed industry veteran Giles Wrench as EVP, Head of Enterprise Client Solutions, U.S. | Global Occupier Services, where he will lead the firm&#8217;s enterprise client growth strategy and help expand technology-enabled real estate solutions for major corporate occupiers. Wrench joins from JLL, where he helped build solutions for Fortune 500 clients and most recently launched a financial services industry vertical. A&amp;G Real Estate Partners, a leading real estate advisory firm specializing in sales of real estate and lease re",
+      "title": "Distressed Houston Office Property Hits the Market",
+      "link": "https://www.connectcre.com/stories/distressed-houston-office-property-hits-the-market/",
+      "excerpt": "JLL recently posted a listing for the 632,511-square-foot midrise office building at 5400 Westheimer Court, which sits on a 6.43-acre property less than half a mile west of The Galleria mall. Built in 1981, the nine-story building most recently was 100% occupied by Enbridge Inc. (NYSE: ENB) following the $28 billion acquisition of Houston-based Spectra Energy Corp., which closed in 2017. The Houston Business Journal reports that JLL’s listing said the building may offer a redevelopment opportunity within a premier infill location. The building was previously owned by PTAD Realty. The company began to struggle when its sole tenant, Spectra, was acquired by Enbridge, which then moved into another Houston office. Enbridge&#8217;s lease in the building ran through 2026, and the company continued to make rent payments until earlier this year. The owners defaulted as a result of the the move. Ladder Capital Finance was the lender. Rialto Capital serves as the loan’s special servicer. The post Distressed Houston Office Property Hits the Market appeared first on Connect CRE.",
       "source": "Connect CRE",
       "cat": "Commercial",
-      "date": "2026-06-25T21:29:44+00:00",
+      "date": "2026-06-26T17:23:58+00:00",
       "bullets": [
-        "Newmark hires Munish Viralam as EVX to lead Real Estate Strategy & Consulting Group in New York.",
-        "Eastern Union announces nationwide expansion; signs top broker Elliott Kunstlinger, known for large complex financings.",
-        "Colliers, JLL promote executives in enterprise solutions and workplace strategy roles across U.S."
+        "632,511-sq-ft office, 5400 Westheimer, Houston, listed as distressed; sole tenant vacated.",
+        "Enbridge departure after 2017 Spectra Energy acquisition; owners defaulted on Ladder Capital loan.",
+        "Listing highlights redevelopment opportunity in premier Houston infill location."
       ],
-      "summary": "New York–based commercial real estate advisory and brokerage firms are consolidating senior talent and expanding national platforms. Newmark created a centralized Real Estate Strategy & Consulting Group to support brokerage teams. Eastern Union is aggressively recruiting senior brokers to lead national expansion. Colliers and JLL are promoting veteran advisors into enterprise and workplace solutions roles.",
-      "impact": "Similar to article 3: advisory and brokerage power is concentrating in large, nationally branded firms. For multifamily developers seeking financing or institutional capital, relationship and platform depth now favor large brokerages; smaller or regional firms face talent drain. Debt and equity sourcing will increasingly flow through these consolidated advisory platforms, raising bar for deal access."
+      "summary": "A 632,511-square-foot office building at 5400 Westheimer Court in Houston near The Galleria has been listed as distressed. The nine-story 1981 building was 100% occupied by Enbridge following its 2017 acquisition of Spectra Energy, but Enbridge relocated, and owners defaulted on the Ladder Capital loan when the lease expired in 2026.",
+      "impact": "Signals ongoing office distress in Houston's suburban commercial corridors, which can accelerate conversion or repositioning opportunities. For multifamily developers, vacated or underperforming office near major employment clusters (The Galleria area) may present adaptive-reuse or ground-lease acquisition opportunities, though the 1981 construction quality and parking density likely limit immediate conversion to residential feasibility."
     },
     {
-      "title": "Marcus & Millichap Names National Lead for Net Lease Division",
-      "link": "https://www.connectcre.com/stories/marcus-millichap-names-national-lead-for-net-lease-division/",
-      "excerpt": "Marcus &amp; Millichap said Thursday that Thomas Gorman has been appointed senior managing director and leader of its national net lease division. In the newly created role, Gorman will oversee the ongoing growth of the national net lease division, partner with agents to strengthen existing industry relationships, and untap strategic growth opportunities. “Thomas is a proven leader and accomplished commercial real estate executive whose experience in net leased retail investment sales, institutional advisory, and brokerage operations make him the ideal leader for our expanding national net lease division,” said Gregory A. LaBerge, Marcus &amp; Millichap’s chief client officer. During a career spanning more than 20 years, Gorman has held senior positions with national commercial real estate platforms, advising institutional investors, REITs, developers, and private clients on net lease acquisitions, dispositions, financing and portfolio strategy. He began his career in commercial real estate as a single-tenant net-leased investment advisor. Along with being a successful broker, Gorman has recruited, trained and mentored investment sales teams and launched brokerage offices. The post Marcus &amp; Millichap Names National Lead for Net Lease Division appeared first on Connect CRE.",
+      "title": "Pine Pre Properties to Open The Yard Gym Timonium",
+      "link": "https://www.connectcre.com/stories/pine-pre-properties-to-open-the-yard-gym-timonium/",
+      "excerpt": "Pine Pep Properties, LLC has completed the $2.3 million acquisition of 2001-2003 Greenspring Drive, a single-story, 12,170-square-foot industrial and warehouse building situated in the Timonium section of Baltimore County, from 2001-2003 Greenspring Dr, LLC. Patrick J. Smith, Nick Maggio, and Mike Ruocco of MacKenzie Commercial Real Estate Services represented the seller, and KLNB’s David Fritz represented the buyer in this sale transaction. Pine Pre Properties intends to open The Yard Gym Timonium, a boutique, performance-driven training center with locations nationwide, in the nearly 4,200-square-foot vacant space this fall. The building, which fronts Greenspring Drive, was delivered in 1978 and fully renovated in 2024. It is equipped with 16-foot ceiling heights and two dock doors. “With Baltimore Flooring Supply retaining its presence, occupying approximately one-half of the total building space, Pine Pep Properties will be the immediate beneficiary of steady income flow from a stable tenant,” explained MacKenzie’s Smith. “Equally as important, the new owner has acquired a highly visible and strategically located asset with plans to backfill the remaining vacancy with a fitness concept.” The post Pine Pre Properties to Open The Yard Gym Timonium appeared first on Connect CRE.",
       "source": "Connect CRE",
       "cat": "Commercial",
-      "date": "2026-06-25T21:19:06+00:00",
+      "date": "2026-06-26T17:16:50+00:00",
       "bullets": [
-        "Marcus & Millichap appoints Thomas Gorman as Senior Managing Director, national net lease division (new role).",
-        "Gorman: 20+ years in net-lease retail, institutional advisory, and brokerage operations; proven recruiter and leader.",
-        "Firm signaling priority expansion in 1031 exchange and NNN retail investment sales to institutional and REIT buyers."
+        "Pine Pre Properties acquires 12,170-sq-ft industrial building, Baltimore County Timonium, for $2.3M.",
+        "Tenant Baltimore Flooring Supply retains 50% occupancy; remainder backfilled with The Yard Gym.",
+        "Reflects adaptive reuse of industrial real estate in suburban Baltimore."
       ],
-      "summary": "Marcus & Millichap created a dedicated national net lease division leadership role and hired Thomas Gorman, a veteran broker and advisor with two decades of experience in NNN retail acquisitions, dispositions, financing, and portfolio strategy for institutions, REITs, and developers. Gorman will oversee division growth, broker partnerships, and institutional relationships.",
-      "impact": "Indicates continued capital availability and investor demand for credit-rated, NNN retail assets (1031 flows, institutions, REITs), but reinforces that this capital is flowing to retail, not multifamily. For multifamily developers, this signals net-lease and other debt-free retail asset classes are still attractive to institutional allocators; multifamily demand faces relative headwinds in capital competition."
+      "summary": "Pine Pre Properties completed a $2.3 million acquisition of a 12,170-square-foot industrial/warehouse building in Timonium, Baltimore County, built in 1978 and fully renovated in 2024. Baltimore Flooring Supply retains approximately 50% occupancy; Pine Pre will open The Yard Gym boutique fitness center in the remaining 4,200-square-foot space this fall.",
+      "impact": "Not material to multifamily development. Reflects adaptive reuse of suburban industrial real estate for fitness/wellness uses, signaling neighborhood demand for lifestyle amenities but not indicating residential supply, demand growth, or capital availability affecting apartment development in Baltimore County."
+    },
+    {
+      "title": "Manhattan Subleasing Tightens as AI Firms Fuel Office Growth in Q2",
+      "link": "https://commercialobserver.com/2026/06/manhattan-subleasing-ai-firms-office-growth-q2/",
+      "excerpt": "Artificial intelligence and technology companies have been driving demand for office space in Manhattan during the second quarter of 2026, helping to soften the city’s post-pandemic sublease glut, according to preliminary second-quarter data from JLL. Manhattan&#8217;s sublease inventory has fallen below 11 million square feet, according to JLL, a steep drop from the late-2022 peak of approximately 23 million square feet of sublease space available. That decline is the result of an increase in leasing activity by AI companies, JLL found (although law firms have taken a rather large chunk of space so far in 2026 as well). So far this year, AI firms have signed 21 deals totaling 719,200 square feet in Manhattan, a number that is on track to overtake last year&#8217;s total of 845,000 square feet. About 70 percent of the leases signed were in the Midtown South market, which is evolving into a “tech and innovation core” in the city. Some of those Midtown South deals included AI sales platform Clay relocating to 163,095 square feet at 11 Madison Avenue in March and AI-driven advertising firm Agentio taking 20,000 square feet at 295 Fifth Avenue, also in March. &#8220;Manhattan&#8217;s office market gained momentum throughout the second quarter as demand continued to concentrate in high-quality space,” Jamie Katcher, executive managing director at JLL, said in a statement. “The most notable development is how quickly the sublease overhang has been absorbed,” Katcher added. “Growth from AI firms, as well as financial services companies and law firms, is driving long-term leasing decisions, while landlords are increasingly pulling back available sublease space to pursue direct deals at substantially higher rents.” Overall, office availability across Manhattan dipped by 50 basis points to 12.7 percent on a quarter-over-quarter basis, according to JLL’s data, meaning there was about 2 million square feet less space available in the second quarter than in the first three month",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-06-26T17:16:13+00:00",
+      "bullets": [
+        "AI firms signed 21 deals, 719,200 sq ft in Manhattan YTD; on pace to exceed 2025 (845k sf).",
+        "70% of AI leases in Midtown South; sublease inventory fell below 11M sf from 23M peak late-2022.",
+        "Tech-driven office demand tightening Manhattan sublease glut, stabilizing office market."
+      ],
+      "summary": "Artificial intelligence and technology companies drove Manhattan office demand in Q2 2026, signing 21 deals totaling 719,200 square feet year-to-date and on track to exceed 2025 total (845,000 square feet). Manhattan's sublease inventory has fallen below 11 million square feet from a late-2022 peak of 23 million square feet. About 70% of AI leases landed in Midtown South, transforming it into a \"tech and innovation core.\"",
+      "impact": "Strong office demand and sublease tightening may slow office-to-residential conversion pipelines in Manhattan and reduce investor pressure to convert trophy office assets. However, concentrated tech hiring in Midtown South and continued downtown revitalization create robust white-collar employment clusters that support premium multifamily demand in adjacent neighborhoods (Flatiron, NoMad, Hudson Yards), justifying continued Class A apartment development in transit-proximate infill sites serving tech worker demographic."
+    },
+    {
+      "title": "Target to Open Store at Medina Station",
+      "link": "https://www.connectcre.com/stories/target-to-open-store-at-medina-station/",
+      "excerpt": "Target is preparing to open its sixth store in Mesa next month. The Phoenix Business Journal reports Target will open a 148,000-square-foot store in Mesa at 1517 S. Signal Butte Road. The Target store will include a CVS Pharmacy, Starbucks Café and Target Optical. The new store is expected to employ more than 190 people. The new Target will be the first retailer to open as part of the new Medina Station shopping center. The 64.5-acre mixed-use center, which is on the southeast corner of Southern Avenue and Signal Butte Road, is being developed by Scottsdale-based SimonCRE. Medina Station will total approximately 300,000 square feet of retail space at full buildout. Besides Target, retailers and restaurants like Dick’s Sporting Goods, Einstein Bros. Bagels, Boot Barn, Zara Nails, Cafè Zupas, OHSO, U.S. Bank and Hawaiian Bros have signed leases for the project. The new Mesa Signal Butte Target will mark the 51st Target location in Arizona. The post Target to Open Store at Medina Station appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-06-26T17:06:06+00:00",
+      "bullets": [
+        "Target opens 148,000-sq-ft store in Mesa at Signal Butte Road; 190+ jobs, first tenant Medina Station.",
+        "SimonCRE developing 64.5-acre, 300k-sf mixed-use center; anchor retailer validates project.",
+        "Strong retail demand signals healthy suburban Phoenix commercial and residential fundamentals."
+      ],
+      "summary": "Target will open its sixth Mesa location and first tenant in the new Medina Station mixed-use center, a 64.5-acre development by Scottsdale-based SimonCRE at Southern Avenue and Signal Butte Road. The 148,000-square-foot Target will include CVS Pharmacy, Starbucks, and Target Optical, employing 190+. The center will total 300,000 square feet of retail space at full buildout and includes Dick's Sporting Goods, Zara Nails, and other anchors.",
+      "impact": "Target's commitment validates retail demand in southeast Phoenix/Mesa suburban corridor and anchors Medina Station mixed-use development, which typically includes multifamily. Strong anchor tenancy and retail pre-leasing signal healthy market fundamentals for residential density around the site; developers should monitor the mixed-use plan for residential component and acquisition opportunities in adjacent infill submarkets benefiting from new retail traffic and job creation."
+    },
+    {
+      "title": "NADG Lands $120M to Build Rental on Farmland in Palm Beach County",
+      "link": "https://commercialobserver.com/2026/06/nadg-north-american-development-group-nuvo-delray-beach/",
+      "excerpt": "North American Development Group (NADG) has secured a $120 million construction loan for a multifamily development on agricultural land near Delray Beach, Fla. Wells Fargo provided the financing for a 476-unit development, called NUVO Delray Beach, at 9494 Ilumina Way, located just south of Atlantic Avenue, about a mile and a half west of Florida’s Turnpike. The garden-style project will rise on 33 acres, 12 acres of which will be reserved for outdoor recreation, including a bird sanctuary. Construction got underway this week and is expected to be completed by late 2028. Four years ago, the West Palm Beach-based developer paid just under $42 million for the parcel, The South Florida Business Journal reported. The development sits within Palm Beach County’s 22,000-acre Agricultural Reserve, a protected farming region. In recent years, public officials have approved residential projects on the land, though mostly single-family homes developments. Some developments have been met with criticism. Last year, farmer Richard Bowman proposed building townhomes and workforce housing on nearby land, spanning about 75 acres, which environmentalists and some county commissioners opposed, the Palm Beach Post reported. So far, no construction has occurred, per property records. A representative for NADG did not immediately respond to a request for comment. Julia Echikson can be reached at jechikson@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-06-26T16:55:05+00:00",
+      "bullets": [
+        "NADG secures $120M construction loan, Wells Fargo, for 476-unit NUVO Delray Beach on farmland.",
+        "Parcel acquired 4 years ago for ~$42M; 33 acres, 12 acres recreation; delivery late 2028.",
+        "Development breaks zoning on Agricultural Reserve land; signals policy shift toward residential in Palm Beach County."
+      ],
+      "summary": "North American Development Group secured a $120 million construction loan from Wells Fargo for NUVO Delray Beach, a 476-unit garden-style multifamily development on 33 acres near Delray Beach, Florida. The parcel, purchased approximately four years ago for under $42 million, is located within Palm Beach County's 22,000-acre Agricultural Reserve. Construction began this week with completion expected late 2028.",
+      "impact": "Signals Palm Beach County policy aperture for converting protected farmland to residential; recent approvals for multifamily and mixed-income projects on Agricultural Reserve land indicate municipal willingness to balance preservation with housing growth. Wells Fargo's construction financing at scale (476 units) validates lender confidence in Delray Beach submarkets; developers should pursue similar Agricultural Reserve conversions and workforce housing sites as county incentivizes in-fill density to ease affordable housing pressure."
+    },
+    {
+      "title": "SoHo Leads U.S. Trophy Retail Property Sales in Q1: Report",
+      "link": "https://commercialobserver.com/2026/06/soho-trophy-retail-property-sales-report/",
+      "excerpt": "Manhattan’s SoHo neighborhood emerged as the country’s most active trophy retail market in the first quarter of 2026. A new report by boutique capital markets advisory firm Adirondack Capital Partners (ACP) tracked 14 trophy retail property sales in premier U.S. shopping corridors, totaling more than $704 million nationwide between January and March. The findings top off a dramatic two-year reversal in fortune for luxury high street retail properties after years of post-2018 pessimism. Of the trades followed by ACP, six occurred in SoHo, representing 43 percent of such transactions. Other destinations among the 20 corridors ACP tracks include Madison Avenue in New York City, Miami&#8217;s Design District and San Francisco&#8217;s Union Square. SoHo is “definitely the belle of the ball as it pertains to high street retail locations,” Michael Hunter Coghill, founder and managing partner at ACP, told Commercial Observer. Coghill expects the SoHo corridor to retain the report’s top spot by the end of the year, although competition from Palm Beach, Fla.&#8217;s Worth Avenue and Boston’s Newbury Street is fierce. The SoHo neighborhood’s more than $195 million in investment activity included 120 Spring Street, which traded in January for $18.5 million, or $8,043 per square foot, to a private Japanese investor for Birkenstock’s flagship store. The deal, arranged off-market by ACP, marked the highest price per square foot achieved nationally during the reporting period, and remains the highest in New York City so far this year, according to the firm. Cross-border, high-net-worth capital is driving the trend, according to the report, particularly from Japan. The same private investor at Spring Street was behind the $46 million Cartier building trade at 102 Greene Street in 2024, and Japanese accessories manufacturer Yoshida &amp; Company paid $34 million in March to acquire its own flagship building in Williamsburg, Brooklyn. Other high-flying New York City retail deals inclu",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-06-26T15:16:28+00:00",
+      "bullets": [
+        "SoHo leads US trophy retail sales Q1 2026; 6 of 14 deals (43%), totaling $704M nationwide.",
+        "SoHo dominates high-street retail investment; Manhattan Madison Avenue, Miami Design District, SF Union Square secondary.",
+        "Luxury retail market recovery after post-2018 pessimism validates NYC retail resilience."
+      ],
+      "summary": "Manhattan's SoHo neighborhood led the nation in trophy retail property sales in Q1 2026, accounting for six of 14 tracked deals (43%) totaling more than $704 million nationwide. Adirondack Capital Partners tracked transactions across 20 premier U.S. shopping corridors. Other top destinations include Madison Avenue in NYC, Miami's Design District, and San Francisco's Union Square.",
+      "impact": "Not directly material to multifamily development but signals robust capital flow into trophy retail assets in Manhattan, particularly SoHo. High-street retail recovery may accelerate ground-floor mixed-use development and discourage office-to-residential conversions in prime retail corridors; developers should prioritize multifamily projects that integrate premium ground-floor retail in SoHo, NoMad, and Upper West Side rather than pursuing pure residential conversions."
+    },
+    {
+      "title": "Habitat for Humanity shifts focus to outer boroughs",
+      "link": "https://therealdeal.com/new-york/2026/06/26/habitat-for-humanity-shifts-focus-to-outer-boroughs/",
+      "excerpt": "A renowned not-for-profit organization is expanding its output into New York City’s outer boroughs. Habitat for Humanity is constructing a total of 179 co-op units across Brooklyn and the Bronx, the Commercial Observer reported. The separate developments represent the largest influx for the New York chapter’s pipeline. In Brooklyn, Habitat is building Constellation, a community that spans eight sites in East New York, Ocean Hill, Brownsville, Bedford-Stuyvesant and Rugby Remsen Village, Brooklyn Paper reported. Originally envisioned for 77 units, the organization has since grown the project out to 108 units. Similarly, Claremont House in the Bronx jumped from a 40-unit [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-06-26T14:28:13+00:00",
+      "bullets": [
+        "Habitat for Humanity planning 179 co-op units across Brooklyn and Bronx; Constellation (108 units), Claremont House (71).",
+        "Projects leveraging City of Yes, Open Door Program, New Infill Housing Opportunity Program; Community Land Trust ownership.",
+        "Affordable housing pipeline targets 'missing middle'; City budget allocates $22B for housing."
+      ],
+      "summary": "Habitat for Humanity is constructing 179 co-op units across Brooklyn and the Bronx—its largest pipeline expansion. Constellation spans eight East New York, Brownsville, and Bed-Stuy sites (108 units, grown from 77) and Claremont House in the Bronx (71 units, grown from 40). Projects utilize City of Yes zoning, tax abatements, and a 99-year Community Land Trust ground lease model, targeting the 'missing middle.'",
+      "impact": "Signals NYC municipal acceleration of zoning and program reforms (City of Yes, Open Door) that will increase competitive supply of affordable co-op and community-land-trust units, reducing market for for-profit multifamily developers in underserved outer-borough neighborhoods. Developers should reposition toward higher-rent market-rate infill in Williamsburg, Astoria, and higher-opportunity submarkets, or pursue public-private affordable partnerships in less competitive secondary neighborhoods to preserve feasibility."
+    },
+    {
+      "title": "Peachtree Supplies $56M C-PACE Loan for Conversion of Former CNN HQ in Atlanta",
+      "link": "https://commercialobserver.com/2026/06/peachtree-c-pace-loan-conversion-former-cnn-hq-atlanta/",
+      "excerpt": "Breaking news: A conversion of CNN’s former global headquarters is underway with fresh long-term capital in hand. A joint venture between CP Group and Rialto Capital Management has secured a $56.4 million loan for the repositioning of the CTR building (previously known as CNN Center) in Downtown Atlanta, Commercial Observer has learned. Peachtree Group originated the 30-year Commercial Property Assessed Clean Energy (C-PACE) debt to support the transformation of the 1976-built property into a mixed-use campus and retail district. The historic building, which had sat vacant since CNN relocated its operations to the Ted Turner Techwood Campus in Midtown Atlanta in early 2024, debuted a new 24,000-square-foot food hall this spring to coincide with the kickoff of the FIFA World Cup. Jared Schlosser, head of credit originations at Atlanta-based Peachtree Group, said the deal was conducive to long-term debt like C-PACE due to the sponsors implementing a multiphase business plan at the 1.2 million-square-foot property that requires flexibility when building out. The C-PACE debt will be used to fund eligible improvements to the building including HVAC systems, lighting, plumbing infrastructure and LED media displays. “When you have a multiphase business plan like this where you need timing and flexibility, C-PACE becomes a really good product that not everyone&#8217;s thinking about,” Schlosser told CO. “Whenever you&#8217;re taking a building that&#8217;s as old as this and you&#8217;re repurposing it, you&#8217;re going to naturally have a lot of PACE-qualifying items.” Located at 190 Marietta Street NW and connected to State Farm Arena, the large-scale redevelopment project will involve activating 200,000 square feet of retail space in the property’s ground-floor atrium and installing some of the largest digital media displays in the Southeast. The upper floors of the center are slated to eventually feature office, hotel and residential use. Schlosser said the retail com",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-06-26T13:49:19+00:00",
+      "bullets": [
+        "CP Group and Rialto Capital secure $56.4M C-PACE 30-year loan for CNN Center conversion, Atlanta.",
+        "1.2M-sq-ft historic 1976 building converting to mixed-use campus and retail; food hall opened spring 2026.",
+        "Long-term C-PACE debt supports phased multiphase conversion strategy."
+      ],
+      "summary": "A joint venture between CP Group and Rialto Capital Management secured a $56.4 million 30-year C-PACE loan from Peachtree Group to reposition CNN Center (CTR building) in Downtown Atlanta into a mixed-use campus and retail district. The 1.2 million-square-foot historic property, vacant since CNN relocated to Midtown in early 2024, debuted a 24,000-square-foot food hall this spring. The C-PACE structure supports a multiphase redevelopment plan.",
+      "impact": "Demonstrates viability of long-term C-PACE debt for large-scale office-to-mixed-use conversions in secondary downtown cores. Atlanta developers should accelerate similar adaptive-reuse projects on vacant corporate campuses and historic office stock using C-PACE, which offers 30-year terms and flexible phasing; this deal validates lender appetite for downtown revitalization and validates Downtown Atlanta as a conversion opportunity zone despite recent tenant defections."
     },
     {
       "title": "Houston Rodeo partially breaks from NRG Park with $300M livestock campus",
@@ -122,12 +197,12 @@
       "cat": "Development",
       "date": "2026-06-25T20:34:02+00:00",
       "bullets": [
-        "Houston Livestock Show & Rodeo breaks from NRG Park; building $300M, 1M-SF campus at Highway 288 and Airport Boulevard.",
-        "New complex (860K SF barns, 140K SF barn, auction hall, outdoor yards) opens year-round events; main rodeo stays at NRG.",
-        "Clay Development & Construction (GC), Populous (design); project part of rodeo's 100-year vision and 2032 centennial."
+        "Houston Livestock Show and Rodeo commits $300M to new 1M-sq-ft campus at Highway 288 and Airport Blvd.",
+        "New facility includes 860k sq ft barns, 140k sq ft central barn, auction hall; year-round event flexibility.",
+        "Main rodeo events remain at NRG; new complex enables expanded agricultural events and tourism."
       ],
-      "summary": "The Houston Livestock Show & Rodeo is committing $300 million to build a dedicated 1 million-square-foot livestock and event campus about five miles east of NRG Park at Highway 288 and Airport Boulevard. The facility will include two large barns (860K SF), a central barn (140K SF), auction hall, and outdoor cattle yards, enabling year-round agricultural events while marquee rodeo shows remain at NRG. Construction begins fall 2026; Trammell Crow Company (developer), Populous (architect), Clay Development (GC).",
-      "impact": "Signals major institutional amenity/event infrastructure investment in outer Houston corridor (Highway 288), indicating confidence in suburban accessibility and long-term event-driven tourism demand. For multifamily developers, this suggests a secondary growth vector along Highway 288 corridor with complementary event/hospitality employment; opportunity to acquire/develop workforce and visitor-serving apartments near new rodeo campus in coming years, ahead of 2032 centennial activation."
+      "summary": "The Houston Livestock Show and Rodeo is building a $300 million, 1 million-square-foot complex five miles east of NRG Park at Highway 288 and Airport Boulevard. The facility will include two barns spanning 860,000 square feet, a central barn of 140,000 square feet, livestock yards, and a combination auction/convention center. Main rodeo events remain at NRG; the new campus will host year-round agricultural and livestock shows.",
+      "impact": "Signals major events-driven development opportunity in southeast Houston near Highway 288 corridor. The Rodeo's capital commitment and new event footprint will generate nearby hospitality, retail, and service demand; multifamily developers should assess infill opportunities near the Airport Boulevard corridor to capture long-term event-driven job creation and visitor-serving demand that will follow the Rodeo relocation."
     },
     {
       "title": "Developer looks to bring almost 300 units to Flushing",
@@ -137,42 +212,12 @@
       "cat": "Development",
       "date": "2026-06-25T20:11:38+00:00",
       "bullets": [
-        "Gary Chen files zoning change for 296-unit, 10-story mixed-use at 32-02 Linden Place, Flushing, Queens.",
-        "25% affordable units (74 units), 33K SF retail, 200 parking spaces; assemblage purchased 2024 for $26.5M.",
-        "Chen owns ~12 other Queens properties; developer competing for zoning approvals alongside Grun Group (108 units Kew Gardens) and others."
+        "Gary Chen files zoning change for 296-unit, 10-story mixed-use at 32-02 Linden Place, Flushing Queens.",
+        "~25% affordable units; 33k sf commercial, 200 parking spaces; site assembled 2024 for $26.5M.",
+        "Multiple Queens filings (Grun Group Kew Gardens 108 units, Derek Fraser Ditmars 26 units) signal pipeline acceleration."
       ],
-      "summary": "Developer Gary Chen submitted a zoning application to NYC Department of City Planning for a 296-unit, 10-story mixed-use residential project at 32-02 Linden Place in Flushing, Queens. The project would include 33,000 square feet of retail and roughly 200 parking spaces; 25% of units (approximately 74) designated as affordable. Chen acquired the four-parcel assemblage in 2024 for $26.5 million. The proposal aligns with NYC's transit-accessible housing goals.",
-      "impact": "Queens (Flushing submarket) is seeing multiple concurrent zoning applications for moderate-scale multifamily (200–300 units), signaling developer confidence in transit-accessible upzoning and affordable housing incentives. For multifamily operators and acquirers, Flushing zoning liberalization could yield new rental supply (if approved) or value-add conversions; monitor approval pace and competitive development density to assess rental rate pressure and hold-period returns."
-    },
-    {
-      "title": "Habitat for Humanity to Build 179 Co-op Units in Brooklyn and the Bronx",
-      "link": "https://commercialobserver.com/2026/06/habitat-for-humanity-179-co-op-units-brooklyn-bronx/",
-      "excerpt": "Habitat for Humanity is building out an ecosystem in the outer boroughs, Commercial Observer has learned. The not-for-profit homebuilder, known for building houses in disaster- and poverty-stricken communities, has announced it will construct a 108-unit co-operative development spanning eight sites across Brooklyn, as well as an additional building in the Bronx. The buildings utilize a number of city, state and federal programs to subsidize the projects, such as the Open Door Program and the New Infill Housing Opportunity Program, both provided by the New York City Department of Housing Preservation and Development (HPD) and the state’s Homes and Community Renewal program. The Constellation development in Brooklyn started as a 77-unit development before Habitat for Humanity grew the planned community to 108 units. Meanwhile the Bronx c-op, known as Claremont House, was originally 40 units before its expansion to 71 units. The two developments represent Habitat for Humanity’s largest construction pipeline in its history, and Claremont House will be the largest development it has ever built, according to Sabrina Lippman, CEO of the organization in New York City and Westchester County. Both expansion plans were made possible by the City of Yes for Housing Opportunity, the pro-development reforms instituted under former Mayor Eric Adams. “We serve working New Yorkers, so nurses, teachers, civil service workers, all the folks that are the backbone of the city who just do not have access to having a stake in the city they help run,” Lippman told CO. “I wish there were more of us building affordable homeownership buildings, but given how difficult these capital stacks are to put together, it’s hard to keep up with the demand that the city deserves.” Lippman added that this type of housing targets not the poorest residents, but also not the wealthiest, instead addressing a “missing middle” for whom homeownership would not be possible. “When people think Habitat, they think ",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-06-25T19:39:26+00:00",
-      "bullets": [
-        "Habitat for Humanity building 108 co-op units across 8 Brooklyn sites and 71-unit Claremont House in Bronx.",
-        "Projects leverage NYC HPD (Open Door, Infill Housing), NYS Homes & Community Renewal programs; both grew from smaller original plans.",
-        "Co-op model and subsidy stacking enable affordability without market-rate cross-subsidy or developer profit."
-      ],
-      "summary": "Habitat for Humanity NYC announced a 179-unit co-op development: 108 units across eight Brooklyn sites (Constellation) and 71 units in the Bronx (Claremont House). Both projects expanded from smaller initial plans and leverage NYC HPD and state affordable housing programs (Open Door Program, Infill Housing, Homes & Community Renewal) to subsidize construction and operations. Ownership structure is limited-equity cooperative, not rental.",
-      "impact": "Not directly relevant to for-profit multifamily operators. Highlights that subsidy-stacked co-op developments (not rental) are a material supply vector in outer boroughs; for rental multifamily, this represents permanent removal of land/sites from rental-supply development and competes for public subsidy attention. Developers should note that city and state capital increasingly favors ownership/co-op models in outer boroughs, potentially raising cost of debt and equity for rental projects."
-    },
-    {
-      "title": "Al Adelson of the Berkeley Palm Beach: 5 Questions",
-      "link": "https://commercialobserver.com/2026/06/al-adelson-of-the-berkeley-palm-beach-5-questions/",
-      "excerpt": "Developer Al Adelson helped usher in West Palm Beach’s new era of high-end condo developments with the Bristol, a pre-pandemic building that proved buyers would pay $1,000 a square foot for units west of the Intracoastal Waterway. Now Adelson is developing The Berkeley Palm Beach, a condo tower at 500 South Australian Avenue, on the western edge of Downtown West Palm Beach. With units priced at $2 million to $10 million, Adelson again is pushing the pricing envelope. The following conversation has been edited for length and clarity. &nbsp; Commercial Observer: I remember when you came to market with very aggressive pricing for the Bristol, and I was skeptical that it would sell. How did you know that price point was possible? Al Adelson: I have been in Florida for 25 years. I observed the market very closely, and I did studies. I interviewed almost 100 different brokers from Palm Beach to West Palm Beach, and I got a very, very good understanding. I did a lot of research on the island, and I understand very well how those people who lived there – I lived there myself for a few years – think and feel. I realized that there was a hardcore 20 percent of people who reside on Palm Beach Island who wouldn&#8217;t move off of it if you gave them something for nothing. You know, just dedicated to the island. Not only are they not bothered by the rules and regulations, they&#8217;re in favor of them — such as they have no high-rises allowed to be built above six stories. They have thousands of units that are very old, and it&#8217;s almost impossible to tear something down and build new, because the cost of the land is so prohibitive. And there’s no chance to go high, so you don&#8217;t get to spread out your cost over a large number of units. So, therefore, I felt very strongly that West Palm would have an opportunity to pick up a whole bunch of units, and I put my money where my mouth was. I did the Bristol, and it became beyond phenomenally successful. I think it&#8217;s ",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-06-25T19:15:32+00:00",
-      "bullets": [
-        "Al Adelson developing The Berkeley Palm Beach condo tower; units priced $2M–$10M at 500 South Australian Avenue, West Palm Beach.",
-        "Adelson's prior Bristol project proved $1K/SF pricing viable west of Intracoastal; new tower pushes pricing further.",
-        "Market research (100 broker interviews, behavioral analysis) informed aggressive pricing strategy and target buyer profile."
-      ],
-      "summary": "Developer Al Adelson is building The Berkeley Palm Beach, a luxury condo tower at 500 South Australian Avenue on the western edge of Downtown West Palm Beach, with units priced $2 million to $10 million. Adelson's prior success with the Bristol—which sold at $1,000/SF west of the Intracoastal—informed confidence in aggressive pricing for this project. Adelson conducted extensive market research (interviews with 100+ brokers, behavioral analysis of existing residents) to validate demand.",
-      "impact": "Not directly relevant to multifamily rental operators. Signals strong ultra-high-net-worth demand in South Florida (West Palm Beach, Miami metros) for ownership-model luxury condos; rental multifamily in these markets competes with condo conversion and condo rental arbitrage. For multifamily developers, rising condo pricing may pressure rental yields and tenant acquisition in high-end South Florida segments; consider mixed-use or condo-first strategies if targeting affluent buyer/renter demographics."
+      "summary": "Developer Gary Chen filed a zoning change application with NYC Department of City Planning for a 296-unit, 10-story mixed-use project at 32-02 Linden Place in Flushing. The development will include approximately 25% affordable units, 33,000 square feet of commercial space, and nearly 200 parking spaces. Chen assembled the multi-parcel site in 2024 for $26.5 million.",
+      "impact": "Flushing is experiencing accelerated zoning applications and multifamily pipeline growth, driven by Chen's strategic land assembly and emerging policy support (City of Yes). Queens developers should expedite zoning applications in Flushing and similarly transit-rich corridors before political/market cycles shift; strong early-stage filing activity suggests competitive entitlement windows and rising land costs as speculative capital flows to outer boroughs."
     },
     {
       "title": "Dallas secures $19M worth of incentives for potential Morgan Stanley move",
@@ -182,12 +227,12 @@
       "cat": "Development",
       "date": "2026-06-25T17:15:00+00:00",
       "bullets": [
-        "Dallas City Council approves $18.5M incentives for Morgan Stanley HQ move; bank commits $700M, Trammell Crow $650M total development cost $1.3B.",
-        "700K SF Uptown office campus at 2401 McKinney Avenue targets 3,800 employees; construction begins fall 2026, opens 2031.",
-        "Temporary 255K SF Downtown space (Fountain Place) during 5-year construction; Morgan Stanley can still opt out for Alpharetta, GA."
+        "Dallas City Council approves $18.5M incentive package for Morgan Stanley Uptown move; $700M total investment.",
+        "Morgan Stanley leasing 255k sf downtown Fountain Place temporarily until 2031; permanent 700k sf at 2401 McKinney.",
+        "Trammell Crow contributing $650M; 3,800 jobs projected; construction begins fall 2026."
       ],
-      "summary": "Dallas City Council approved an $18.5 million incentive package for Morgan Stanley to relocate its headquarters to Uptown. The bank is committing $700 million for a new 700,000-square-foot campus at 2401 McKinney Avenue, targeting approximately 3,800 employees. Trammell Crow Company is developing the project with $650 million investment; total development cost approximately $1.3 billion. Construction begins fall 2026, with occupancy in 2031. Morgan Stanley will temporarily occupy 255,000 SF at Fountain Place Downtown during construction.",
-      "impact": "Major labor demand inflection in Dallas Uptown submarket: 3,800 direct Morgan Stanley jobs plus secondary professional-services employment (law, accounting, consulting) drives sustained rental demand for workforce housing in Uptown and nearby urban core through 2031–2035. Multifamily developers should prioritize Uptown/McKinney corridor acquisitions and new development; rents likely to sustain 3–5% annual growth. Secondary impact: temporary Downtown activation may stabilize struggling CBD office market but unlikely to drive multifamily demand there; focus remains Uptown."
+      "summary": "Dallas City Council greenlit an $18.5 million incentive package for Morgan Stanley's potential relocation, contingent on the bank's $700 million office investment. Morgan Stanley will temporarily occupy 255,000 square feet at downtown's Fountain Place before moving to Uptown's 2401 McKinney Avenue in 2031, where it will occupy 700,000 square feet and employ approximately 3,800. Trammell Crow Company is investing $650 million; total project value is approximately $1.3 billion. Construction is set to begin fall 2026.",
+      "impact": "Morgan Stanley's $700M office commitment and 3,800-job influx will fuel sustained multifamily demand in Dallas Uptown through 2031 and beyond. Developers should acquire and entitle Class A residential product within walk/transit distance of 2401 McKinney and Fountain Place (Downtown) to capture sustained white-collar migration and high-income renter demand; this represents a 5+ year developmental tailwind for Dallas apartment supply in Central Business District and adjacent emerging neighborhoods (Deep Ellum, Lower Greenville)."
     },
     {
       "title": "Skyscrapers encouraged: Development near transit in California’s biggest cities poised for major boost from new bill",
@@ -197,42 +242,12 @@
       "cat": "Development",
       "date": "2026-06-25T17:00:00+00:00",
       "bullets": [
-        "California AB 2074 (Downtown Revitalization Act) mandates transit-oriented housing hubs in 7 major cities; minimum 150 ft, 450 ft+ buildings allowed.",
-        "State-backed $500M low-interest loan fund for developers; expedited permitting for projects meeting labor standards.",
-        "Targets: LA, San Diego, San Jose, San Francisco, Sacramento, Oakland, Long Beach; legislation advancing (Assembly passed 55–5, Senate reviewing)."
+        "California AB 2074 (Downtown Revitalization Act) passed Assembly 55-5; mandatory transit-oriented zoning in 7 cities.",
+        "$500M low-interest revolving construction loan fund; 150-ft minimum, 450-ft permitted in districts.",
+        "Applies to LA, San Diego, San Jose, SF, Sacramento, Oakland, Long Beach; expedited approval for labor-compliant projects."
       ],
-      "summary": "California Assembly Bill 2074 (Downtown Revitalization Act) would mandate creation of high-density housing districts in seven major cities—Los Angeles, San Diego, San Jose, San Francisco, Sacramento, Oakland, and Long Beach—with minimum building heights of 150 feet and allowing up to 450+ feet. The bill includes a $500 million state-backed revolving loan fund to lower construction costs for developers and streamlines permitting for projects meeting labor standards. The Assembly passed it 55–5 on May 28; Senate is reviewing.",
-      "impact": "If enacted, AB 2074 creates major entitlement and financing tailwind for transit-rich TOD multifamily in California's largest metros. $500M loan fund reduces cost of capital; streamlined approvals shrink risk timeline. For Trammell Crow and other West Coast developers, this significantly de-risks LA, San Francisco, San Jose, Oakland feasibility and front-loads site control in designated TOD zones. Monitor Senate passage; if approved, expect rapid permit applications and construction starts in Q4 2026–Q1 2027."
-    },
-    {
-      "title": "S3 Capital Lends $101M on Luxury Resort Project Near Orlando",
-      "link": "https://commercialobserver.com/2026/06/s3-capital-luxury-resort-orlando/",
-      "excerpt": "A joint venture between Urban Network Capital Group and Vertical Developments has landed $101 million of construction financing to build a master-planned luxury resort community in suburban Orlando, Commercial Observer has learned. S3 Capital provided the loan for the sponsorship’s multiphased Visions Orlando Resort &amp; Spa project in Davenport, Fla. The 70-acre project when completed will comprise a mix of single-family homes, townhomes and condos along with resident amenities and retail. “Visions Orlando represents exactly the type of thoughtfully designed residential community we look to support,” Steven Jemal, managing director of origination at S3 Capital, said in a statement. “From a lender’s perspective, the presale-driven capitalization provides significant downside protection while the underlying tourism dynamics support long-term liquidity and buyer demand.” Located at 7007 Osceola Polk Line Road, the Visions Orlando Resort development has sold out all 460 residential units in Phases I, II, III and V, according to S3. Phase IV of the project features 277 condo-hotel units geared toward vacationers. The master-planned community is expected to expand through Phase VIII along with a 4-acre commercial component, according to S3. Community amenities will include a 10,000-square-foot clubhouse with a fitness center, pool, sports courts, wellness facilities, restaurant, bar, movie theater and golf simulator. Urban Network Capital Group and Vertical Developments did not immediately return requests for comment. Andrew Coen can be reached t acoen@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-06-25T16:50:49+00:00",
-      "bullets": [
-        "S3 Capital provides $101M construction financing for Visions Orlando Resort & Spa, 70-acre master-planned community in Davenport (suburban Orlando).",
-        "Developer JV (Urban Network Capital, Vertical Developments); 460 units (single-family, townhomes, condos) sold out in Phase 1.",
-        "Financing underscores presale-driven capitalization and tourism-adjacent demand in Orlando metro exurban ring."
-      ],
-      "summary": "S3 Capital financed a $101 million construction loan for Visions Orlando Resort & Spa, a master-planned, 70-acre residential and mixed-use community in Davenport, Florida (suburban Orlando). The joint venture (Urban Network Capital & Vertical Developments) sold out all 460 units in Phase 1, comprising single-family homes, townhomes, and condos plus retail and amenities. Lender highlighted presale strength and tourism-adjacent location as downside protection.",
-      "impact": "Signals strong presale momentum and construction financing availability for Orlando metro exurban resort-adjacent mixed-use residential. Presale-driven deals offer lenders comfort; multifamily developers should consider hybrid resort/residential models in secondary Florida metros (Davenport, Kissimmee) where tourism jobs, airport access, and lifestyle amenities support rental demand. Orlando metro rents remain pressure-tested; resort-integrated communities may justify premium rents."
-    },
-    {
-      "title": "Law Firm Alston & Bird Takes 170K SF at 51 West 52nd Street",
-      "link": "https://commercialobserver.com/2026/06/alston-bird-lease-51-west-52nd-street/",
-      "excerpt": "International law firm Alston &amp; Bird has signed a major deal to relocate its offices from Park Avenue. Alston &amp; Bird, which provides legal counsel to Fortune 100 companies and private institutions, signed a 15-year, 169,664-square-foot lease at Harbor Group International’s 51 West 52nd Street, with plans to move its operations from 90 Park Avenue, according to landlord broker Newmark. Newmark did not disclose the asking rent for the building, also known as 51W52, but the average office asking rent in Midtown was $86.55 per square foot in May, according to a report from CBRE. “51W52 is now fully leased to a roster of prominent tenants, all of whom match the building&#8217;s prestige,&#8221; Jordan Slone, chairman and CEO of Harbor Group International, said in a statement. &#8220;The success of 51W52 validates our strong faith in the resilience of the New York office market, especially for the best trophy properties in the best locations.&#8221; Newmark’s Howard Hersch, Greg Conen, Scott Klau, Erik Harris, Jennifer Schreiber and Zach Weil negotiated on behalf of the landlord, while Brad Wolk, Matthew Barlow, David Goldstein, Joe Learner, Matthew Brainard and Laura Whelan of Savills represented the tenant. Savills did not immediately respond to a request for comment. Recent deals in the ominous 38-story tower include Kroll Bond Rating Agency taking 121,000 square feet in January and law firm Orrick, Herrington &amp; Sutcliffe renewing its 144,312-square-foot lease in July 2024. Mark Hallum can be reached at mhallum@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-06-25T16:44:02+00:00",
-      "bullets": [
-        "Alston & Bird signs 15-year, 170K-SF lease at 51 West 52nd Street, Manhattan; relocates from Park Avenue.",
-        "Harbor Group International (HGI) landlord; building now fully leased; asking rent ~$86.55/SF (Midtown avg May 2026).",
-        "Law firm anchor confirms trophy office recovery and sustained demand from white-collar tenants for best-location Midtown assets."
-      ],
-      "summary": "International law firm Alston & Bird signed a 15-year lease for 169,664 square feet at Harbor Group International's 51 West 52nd Street in Midtown Manhattan, relocating from 90 Park Avenue. The lease brings the building to full occupancy; estimated asking rent approximately $86.55 per square foot (Midtown average). Landlord CEO Jordan Slone stated the deal validates resilience of premium New York office market.",
-      "impact": "Not directly relevant to multifamily. Signals trophy office properties in Manhattan are stabilizing and leasing to high-credit tenants, but this does NOT indicate broad office recovery or job growth; rather, it reflects flight-to-quality and consolidation into best-location assets. For NYC multifamily developers, strong Manhattan office leasing does not guarantee residential demand—CBD office tenants are older, lower-density, lower-household-growth demographic. Focus remains on transit-accessible neighborhoods (Queens, Brooklyn) with younger, growing workforce."
+      "summary": "Assembly Bill 2074, the Downtown Revitalization Act, passed the California State Assembly 55-5 and was referred to Senate Housing Committee. The bill mandates creation of dense housing hubs in seven major cities (LA, San Diego, San Jose, SF, Sacramento, Oakland, Long Beach), sets minimum heights of 150 feet with 450-foot-tall buildings permitted in designated regional transit districts, and provides a $500 million low-interest revolving loan fund to lower construction costs for developers. Labor-compliant projects receive expedited approval.",
+      "impact": "AB 2074 represents a material regulatory shift favoring high-density multifamily in California's largest metros. If enacted, the $500M state construction loan fund and ministerial approval pathway will dramatically reduce entitlement risk and financing costs for Class A apartment development near transit; developers should immediately position land and begin pre-entitlement work in LA, SD, SF, Oakland urban core sites to secure advantage before competitive capital floods these markets post-enactment."
     },
     {
       "title": "Charney, Tavros snag $785M financing for historic Gowanus project",
@@ -242,27 +257,12 @@
       "cat": "Development",
       "date": "2026-06-25T15:31:49+00:00",
       "bullets": [
-        "Charney, Tavros, Incoco land $785M debt and equity for 175 Third Street, Gowanus Wharf, Brooklyn (5th phase).",
-        "Apollo ($600M debt), Affinius ($600M debt involvement, 4th Gowanus project), RXR ($185M equity); JLL Capital Markets brokered.",
-        "1.1M SF, 27 stories, 1,100 units; RFR remediated/designed; 421-a tax abatement in place; presale and lender confidence strong."
+        "Charney, Tavros, Incoco Capital close $785M (debt + equity) for 175 Third Street, Gowanus Brooklyn.",
+        "Apollo and Affinius Capital issue $600M debt; RXR injects $185M equity; 1,100 units, 27 stories, 1.1M sf.",
+        "Fifth Gowanus Wharf building; repeat lender/equity confidence signals neighborhood completion trajectory."
       ],
-      "summary": "Charney Companies, Tavros, and Incoco secured $785 million in financing for 175 Third Street in the Gowanus Wharf campus: $600 million senior debt (Apollo & Affinius) and $185 million equity (RXR). The project is the fifth phase of the broader Gowanus Wharf redevelopment and will deliver 1,100 units across 27 stories and 1.1 million square feet. Environmental remediation and design were completed by prior owner RFR; project benefits from a 421-a tax abatement. Strong lender appetite reflects success of earlier Gowanus phases.",
-      "impact": "Gowanus (Brooklyn) multiphase waterfront redevelopment demonstrates sustained institutional capital appetite (Apollo, Affinius, RXR) for large-scale, long-hold multifamily in Brooklyn with tax incentive support. Financing quantum ($785M for 1.1M SF, ~$714/SF) reflects competitive cap rates and strong investor conviction. For Trammell Crow and others, Gowanus validates Brooklyn waterfront as capital-accessible submarket; however, deal success hinges on 421-a tax abatement and presale momentum—regulatory risk remains if abatement program changes."
-    },
-    {
-      "title": "Is DC the next hot luxury resi space? BSH panelists talk about navigating capital’s emerging high-end market",
-      "link": "https://therealdeal.com/sponsored/bsh/is-dc-the-next-hot-luxury-resi-space-bsh-panelists-talk-about-navigating-capitals-emerging-high-end-market/",
-      "excerpt": "Long defined by easily-turned-over efficiency apartments, DC builders are working overtime to meet new demand for luxury housing in the nation’s capital. Last week, BSH and TRD brought representatives of the city’s design, development and operations communities together for a frank discussion about what’s working, and what isn’t, in the DC luxury space. The event was hosted at the BSH Experience &#38; Design Center, the capital&#8217;s home for everything Bosch, Thermador and Gaggenau. Across the three speakers’ portfolios, one trend has emerged: today’s luxury buyers don’t crave fancy pools or double height lobbies. For them, convenient amenities, services and retailers [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-06-25T12:50:00+00:00",
-      "bullets": [
-        "DC luxury multifamily demand rising; builders shifting from amenity-heavy (pools, lobbies) to time-saving services and local retail.",
-        "EYA, District Wharf Properties leading; co-working, private services, authentic neighborhood programming drive retention.",
-        "Luxury buyer preference for lifestyle integration and convenience over trophy amenities reshaping development and operating strategy."
-      ],
-      "summary": "Washington, DC has emerged as a growing luxury residential market, and developers and operators are learning that high-end renters prioritize time-saving services and local retail integration over traditional luxury amenities (pools, double-height lobbies, fitness). EYA and District Wharf Properties are redesigning entire communities around co-working spaces, programming, and retail environments that serve daily lifestyle needs. District Wharf Properties CEO Andrew Son emphasized creating 'a sense of place' with programming before residents move in.",
-      "impact": "DC luxury multifamily is entering maturation phase with refined underwriting: developers should prioritize retail/F&B partnerships, service-oriented amenities (co-working, concierge, dry cleaning integration), and neighborhood activation (free events, programming) over capital-intensive building-systems amenities. For Trammell Crow and other DC operators, this signals tenant preference for mixed-use, walkable, programmed environments; standalone buildings without surrounding activation face tenant acquisition and retention headwinds. Consider ground-floor retail partnerships and placemaking investment critical to DC luxury rents."
+      "summary": "Charney Companies, Tavros, and Incoco Capital secured $785 million in financing for 175 Third Street in Gowanus Wharf, Brooklyn, the fifth building in the campus. Apollo and Affinius Capital provided $600 million in debt; Scott Rechler's RXR injected $185 million in equity. The 27-story, 1.1 million-square-foot property will include 1,100 residential units. RXR joined after the sponsors acquired the site from Aby Rosen's RFR, which had undertaken environmental remediation and secured a 421-a tax abatement.",
+      "impact": "Repeat institutional debt and equity commitment to Gowanus Wharf signals lender conviction in neighborhood trajectory and waterfront apartment demand. Developers should pursue adjacent Gowanus infill sites and waterfront packages; RXR and Affinius' participation validates Gowanus as a sustained capital destination, supporting elevated land valuations and feasibility for Class A mixed-income multifamily in the 15,000+ unit development zone."
     }
   ]
 }
