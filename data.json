@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-01T22:58:06.833598+00:00",
+  "fetchedAt": "2026-07-02T10:16:51.565361+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -10,12 +10,12 @@
     {
       "label": "10Y Treasury",
       "value": "4.47%",
-      "pct": 2.36
+      "pct": -0.46
     },
     {
       "label": "30Y Treasury",
       "value": "4.97%",
-      "pct": 2.1
+      "pct": 0.12
     },
     {
       "label": "REIT Index (VNQ)",
@@ -32,12 +32,12 @@
       "cat": "Commercial",
       "date": "2026-07-01T22:18:09+00:00",
       "bullets": [
-        "Multifamily CMBS delinquencies rose 28 bps to 7.23% in June 2026; several large assets turned delinquent.",
-        "Manhattan multifamily property among five largest newly delinquent loans totaling $2.64B.",
-        "Retail delinquencies up 30 bps to 6.91%; office up 4 bps to 11.57%."
+        "Multifamily CMBS delinquencies rose 28 bps to 7.23% in June 2026, reversing prior gains.",
+        "Manhattan multifamily property among five largest newly delinquent loans totaling $2.64B nationwide.",
+        "Retail delinquencies spiked 30 bps to 6.91%; office and multifamily both deteriorating."
       ],
-      "summary": "Multifamily CMBS delinquencies jumped 28 basis points to 7.23% in June 2026, reversing prior-month gains as several major assets entered default. The sector's deterioration was part of a broader uneven picture: retail spiked 30 bps to 6.91%, while office edged up 4 bps to 11.57%. Lodging was the only bright spot, declining 79 bps to 5.22%.",
-      "impact": "Rising multifamily delinquency rates signal stressed assets entering the market, particularly in high-cost urban markets like Manhattan. This distress cycle typically precedes significant repricing and dispositions, creating acquisition windows for well-capitalized developers—but also flagging deteriorating underwriting fundamentals in prior vintage cohorts and tightening lender appetite for new multifamily originations across the board."
+      "summary": "The Trepp CMBS Delinquency Rate fell 20 basis points overall to 7.35% in June 2026, but multifamily posted a concerning 28 bp rise to 7.23% as several large assets turned delinquent, including a Manhattan property. Retail also surged 30 bp to 6.91%, while only lodging (down 79 bp) and industrial (down 11 bp) improved. The June reversal suggests stress in the debt stack despite headline improvement.",
+      "impact": "Rising multifamily delinquencies signal refinance or recapitalization pressure in the current rate environment, particularly in expensive coastal markets (Manhattan). Developers with floating-rate debt or 2024–2025 acquisition underwriting may face margin calls or forced sales; this creates both distressed acquisition windows and signals tightening credit for new development in trophy submarkets. Monitor cap rates and lender appetite for rehab vs. ground-up deals."
     },
     {
       "title": "Return to Lender: Week of July 2, 2026",
@@ -47,12 +47,12 @@
       "cat": "Commercial",
       "date": "2026-07-01T22:17:07+00:00",
       "bullets": [
-        "MetLife acquired retail/garage at 188 E. 64th St., Manhattan, via deed in lieu for $44.1M.",
-        "Two Old Town Alexandria office buildings (11, 99 Canal Center Plaza) headed to receivership auction Aug 3-5; one marketed for residential conversion.",
-        "Hillsboro Beach Resort (81 units) going to auction after $40M foreclosure judgment; $26M principal outstanding."
+        "MetLife took deed in lieu on retail unit at 188 E. 64th St., Manhattan, via foreclosure.",
+        "Old Town Alexandria office buildings (11 and 99 Canal Center) headed to receivership auction; one pitched for residential conversion.",
+        "Hillsboro Beach Resort, 81-unit hotel in Florida, foreclosed after $40M judgment; 1.93-acre waterfront site."
       ],
-      "summary": "MetLife Investment Management took a retail/garage unit at Lenox Hill Manhattan via deed-in-lieu foreclosure ($44.1M), while two Alexandria office buildings are scheduled for August receivership auction with one positioned for residential conversion. The Hillsboro Beach Resort (81-unit hotel on 1.93 acres) will also hit auction following a $40M foreclosure judgment with $26M in outstanding principal.",
-      "impact": "The emergence of office-to-residential conversion opportunities in secondary markets (Alexandria waterfront) and hotel-to-multifamily potential signal distressed capital reallocating from obsolete asset classes. Manhattan's deed-in-lieu activity hints at mixed-use and retail-heavy properties facing refinance cliffs; developers should monitor these auctions for shovel-ready adaptive-reuse sites with below-market acquisition costs."
+      "summary": "Distressed multifamily and mixed-use assets are returning to lenders across major markets. MetLife foreclosed on a retail/garage unit at a Manhattan residential condo; two Alexandria office buildings totaling part of a $126.8M complex are scheduled for August auction with one potential for resi conversion; and a 1.93-acre Hillsboro Beach oceanfront resort heads to auction after a $40M foreclosure judgment. Pattern suggests stress in transitional and hospitality-adjacent assets.",
+      "impact": "Distressed office-to-resi conversion pipelines in secondary markets (Alexandria) and hospitality-anchored waterfront sites (Florida) create acquisition opportunities for developers with capital and entitlement expertise. Manhattan's retail/condo debt stress underscores weakness in mixed-use street-level retail economics. Conversions and adaptive reuse windows are opening; monitor auction calendars in Wash DC suburbs and Florida for off-market or sub-market opportunities."
     },
     {
       "title": "Connect Midwest Multifamily Trends 2026: View from the Top",
@@ -62,12 +62,12 @@
       "cat": "Commercial",
       "date": "2026-07-01T21:26:20+00:00",
       "bullets": [
-        "Midwest multifamily leaders cite Chicago, suburban Chicago, Columbus, Indianapolis, Kansas City, Madison, Milwaukee as top opportunities.",
-        "Chicago new tax abatement policy enabling development pipeline; best-located, best-strategy deals getting financed.",
-        "CityPads sold first development in current fund; proof of concept achieved, pipeline advancing."
+        "Chicago suburb, Columbus, Indianapolis, Kansas City, Madison, and Milwaukee cited as top Midwest development markets.",
+        "Chicago new tax abatement unlocking stalled pipeline; best-positioned sponsors expected to win financing.",
+        "CityPads fund sold first development; proof-of-concept validates suburban/secondary market strategies."
       ],
-      "summary": "Midwest multifamily professionals at Connect Midwest 2026 conference identified Chicago (especially suburban), Columbus, Indianapolis, Kansas City, Madison, and Milwaukee as prime markets. Chicago's new municipal tax abatement has catalyzed a significant development pipeline, with speakers noting that financing now favors best-located properties with sound underwriting. CityPads announced successful exit on inaugural fund deal, validating current-market execution.",
-      "impact": "Chicago's tax abatement renewal is a major demand signal for development capital—it directly improves project returns and unlocks previously marginal deals. The convergence of multifamily leadership on secondary Midwest metros (Columbus, Indianapolis) suggests those markets are absorbing capital flight from oversupplied Sunbelt and coastal metros; developers should prioritize underwriting in these submarkets ahead of major corporate relocations or population inflows that typically follow investor precedent."
+      "summary": "Industry leaders at Connect Midwest Multifamily Trends 2026 in Chicago identified suburban Chicago, Columbus, Indianapolis, Kansas City, Madison, and Milwaukee as the strongest markets. Chicago's new tax abatement has reignited development financing for prime urban properties, with competitive underwriting favoring strong sponsors. CityPads' successful fund exit signals investor appetite for execution-focused suburban and secondary-market deals.",
+      "impact": "Tax abatement renewal in Chicago is a meaningful catalyst for in-city development closings; operators with strong balance sheets and track records should prioritize Chicago submissions now before financing windows tighten. Secondary Midwest markets (Columbus, Indianapolis, Kansas City) are attracting capital and are less supply-constrained than coastal metros—ideal for ground-up delivery with 2–3 year hold horizons. Suburban Chicago continues to outpace urban on risk-adjusted returns."
     },
     {
       "title": "Slatt Capital Arranges Acquisition Financing for Home2 Suites in Arkansas",
@@ -78,11 +78,11 @@
       "date": "2026-07-01T21:15:27+00:00",
       "bullets": [
         "Slatt Capital arranged $9.49M acquisition loan for 90-room Home2 Suites in Fort Smith, Arkansas.",
-        "Three-year term, 25-year amortization, 18-month interest-only; Chambers Bank executed.",
-        "Property built 2016, stabilized, branded hospitality asset with strategic airport/hospital adjacency."
+        "Chambers Bank financed; 3-year term, 25-year amortization, 18-month interest-only period.",
+        "Fort Smith market cited for proximity to airport, hospital, and leisure attractions; strong sponsorship supported deal."
       ],
-      "summary": "Slatt Capital closed a $9.49M acquisition financing for a 90-room Home2 Suites built in 2016 in Fort Smith, Arkansas. The loan featured a 3-year term, 25-year amortization, and 18-month interest-only period via Chambers Bank. Deal rationale centered on the property's stabilized cash flow, brand affiliation, and favorable location near Fort Smith Airport and Mercy Hospital.",
-      "impact": "Minimal direct multifamily relevance; hospitality financing environment in secondary markets remains active, but this deal is not a demand or supply signal for apartment development. Fort Smith is not a multifamily bellwether."
+      "summary": "Slatt Capital sourced a $9.49M acquisition loan through Chambers Bank for a stabilized 90-unit extended-stay hotel in Fort Smith, Arkansas. The financing structure featured a 3-year term with 25-year amortization and an 18-month IO period, reflecting lender confidence in the branded asset and sponsor strength. Strong submarket fundamentals (airport, healthcare, recreation) supported underwriting.",
+      "impact": "Limited relevance to multifamily development. Hospitality financing activity shows regional lenders remain available for stabilized, cash-flowing assets; extended-stay/hotel-to-resi conversion dynamics remain possible in secondary markets, but this deal is traditional hotel acquisition, not conversion."
     },
     {
       "title": "Greater L.A. Office Leasing Shows Signs of Life — Finally",
@@ -92,12 +92,12 @@
       "cat": "Commercial",
       "date": "2026-07-01T21:10:57+00:00",
       "bullets": [
-        "Greater L.A. office leasing 3.97M SF in Q2 2026, +15% QoQ, +8% YoY, +22% vs. 5-yr avg.",
-        "Bank of America 137.9K SF renewal/expansion; LA28 57.5K SF expansion; recovery driven by renewals/relocations.",
-        "Leasing velocity approaching 2019 levels but demand remains muted for new office."
+        "Greater LA office leasing reached 4M SF in Q2 2026, up 15% QoQ and 8% YoY.",
+        "Recovery driven by renewals and relocations, not new demand; leasing 22% above 5-year average.",
+        "Bank of America, LA28, Arrowhead led leasing; recovery uneven by submarket."
       ],
-      "summary": "Greater Los Angeles office leasing reached 3.97 million square feet in Q2 2026, up 15% sequentially and 8% year-over-year, approaching 2019 run rates. Large tenants like Bank of America, LA28, and Arrowhead Pharma drove volume via renewals and expansions. However, Savills noted the recovery remains skewed toward renewals and relocations rather than net new demand, with few requirements driving new office absorption.",
-      "impact": "L.A. office stabilization suggests reduced conversion urgency for office-to-multifamily adaptive reuse projects; strong renewal activity keeps landlords solvent and less willing to entertain repurposing. However, this recovery is fragile and tied to corporate consolidation, not growth—developers should monitor if this momentum sustains through 2027 or if office slips again, triggering a fresh wave of conversion opportunities."
+      "summary": "Greater Los Angeles office leasing totaled nearly 4 million square feet in Q2 2026, up 15% quarter-over-quarter and 8% year-over-year, according to Savills. While the recovery is uneven and driven largely by renewals and relocations rather than net new demand, the quarterly total is 22% above the five-year average and approaching 2019 levels. Bank of America's 137,873 SF renewal at Century Park Plaza was the largest deal.",
+      "impact": "LA office recovery remains fragile and renewal-driven; limited signal of organic business expansion or tenant in-migration. Resi developers should not expect office-to-apartment conversion urgency or repricing in LA yet—office landlords still anchored to stabilized tenants. Monitor for acceleration in secondary/tertiary submarkets where landlords may be more motivated to execute resi conversions."
     },
     {
       "title": "Charney Acquires 143 Roebling in Williamsburg",
@@ -107,12 +107,12 @@
       "cat": "Commercial",
       "date": "2026-07-01T20:38:04+00:00",
       "bullets": [
-        "Charney Companies acquired 143 Roebling St., Williamsburg, Brooklyn for $20M; 100K SF, built 1907.",
-        "Property vacant for years; includes residential and retail (Roebling Tea Room); BH3 Fund structured financing.",
-        "Plan: fortify, restore, and reactivate mixed-use asset."
+        "Charney Companies acquired 143 Roebling St., Williamsburg for $20M; 100K SF, 1907-built, formerly mixed residential/retail.",
+        "BH3 Fund Advisors provided acquisition financing; property vacant for several years.",
+        "JLL brokered sale by Calmwater Capital; restoration and modernization planned."
       ],
-      "summary": "Charney Companies completed a $20M acquisition of 143 Roebling Street in Williamsburg, Brooklyn—a 100,000-square-foot, 1907-built mixed-use property that has been vacant for several years. BH3 Fund Advisors provided structured financing. Charney plans restoration and modernization to reactivate residential and retail components, including the shuttered Roebling Tea Room.",
-      "impact": "Classic Williamsburg adaptive-reuse play; acquisition at $200/SF indicates stabilized valuation in a highly desirable submarket. This signals continued investor confidence in Brooklyn's core neighborhoods and availability of patient capital for repositioning. Developers should monitor Charney's execution timeline—successful rents and lease velocity will confirm market appetite for renovated product in North Brooklyn."
+      "summary": "Charney Companies purchased 143 Roebling Street in Williamsburg, Brooklyn for $20 million, a 100,000-square-foot 1907-built building that had been vacant for several years. BH3 Fund Advisors structured acquisition financing. Charney plans restoration and modernization of the mixed-use asset, which historically included residential, retail, and the Roebling Tea Room.",
+      "impact": "Williamsburg's adaptive reuse and restoration economics remain favorable for well-capitalized operators. This acquisition signals continued investor appetite for vacant, character-driven Williamsburg buildings; modernization plans likely include conversion to rental apartments from mixed-use. Developers with Williamsburg assemblage opportunities should monitor comps; sales velocity in core Brooklyn resi-conversion markets remains healthy."
     },
     {
       "title": "Zar Property NY Buys 118 West 22nd Street for $28M",
@@ -122,12 +122,12 @@
       "cat": "Commercial",
       "date": "2026-07-01T18:51:08+00:00",
       "bullets": [
-        "Zar Property NY purchased 118 W. 22nd St., Flatiron, Manhattan for $28M with $19.6M financing from Filler Capital.",
-        "12-story mixed-use building; JP Morgan loan structured; 18-year lender relationship highlight.",
-        "Tenants include Walter B. Melvin Architects, Kleinfeld Bridal, NY Cake; acquired by prior owner in 1986."
+        "Zar Property NY purchased 118 W. 22nd St., Manhattan Flatiron for $28M; 12-story mixed-use.",
+        "Filler Capital arranged $19.6M financing from J.P. Morgan; 18-year relationship milestone.",
+        "Building houses Walter B. Melvin Architects, Kleinfeld Bridal, NY Cake; institutional buyer and lender confidence."
       ],
-      "summary": "Zar Property NY acquired 118 West 22nd Street in Flatiron, Manhattan for $28M, with Filler Capital providing $19.6M in financing structured through JP Morgan. The 12-story mixed-use property houses Kleinfeld Bridal and other retail/office tenants. The deal highlighted an 18-year lender-sponsor relationship and was characterized as achieving strong financing terms.",
-      "impact": "Manhattan mixed-use acquisitions at $2.3M/floor in Flatiron suggest stable pricing for stabilized, multi-tenant buildings with diverse tenant bases. Lender willingness to execute at scale signals consistent capital availability for core NYC product, though pricing discipline remains tight. Developers should note Flatiron's durability as a mixed-use submarket, but conversion upside remains limited given existing strong rents and well-leased status."
+      "summary": "Zar Property NY acquired a 12-story mixed-use building at 118 West 22nd Street in Manhattan's Flatiron District for $28 million, with $19.6 million in financing from Filler Capital and J.P. Morgan. Adlie Associates, the prior owner, had held the property since 1986. The building's tenants include Walter B. Melvin Architects, Kleinfeld Bridal Boutique, and NY Cake.",
+      "impact": "Manhattan mixed-use trophy properties continue to attract institutional capital and benefit from strong institutional lender appetite. This Flatiron transaction signals J.P. Morgan and other prime lenders remain active for well-located, stabilized assets with mixed-use income. Developers eyeing Flatiron/Chelsea resi conversions should monitor comparable pricing and financing terms; cap rates remain compressed, favoring value-add and conversion strategies over ground-up new supply."
     },
     {
       "title": "Klyde Warren Park expansion set to bring $4B in real estate value to Dallas",
@@ -137,12 +137,12 @@
       "cat": "Development",
       "date": "2026-07-01T18:10:33+00:00",
       "bullets": [
-        "Klyde Warren Park 1.7-acre westward expansion (Jacobs Lawn) expected to generate $3.5–4B in new real estate value.",
-        "Park has already created $5.9B cumulative value for Arts District/Uptown; generated $957M in incremental tax revenue.",
-        "24K SF event/reception space plus retail; ice rink in winter; Archer & Wester/Gensler/HKS designers."
+        "Klyde Warren Park 1.7-acre expansion expected to generate $3.5B in new real estate value in Dallas.",
+        "Park chair claims total $5.9B cumulative value creation and $957M incremental tax revenue to city/county/schools.",
+        "Expansion includes 37K SF green space, ice rink, 24K SF event/retail building; aims to bridge Downtown decline and Uptown strength."
       ],
-      "summary": "Klyde Warren Park's planned 1.7-acre westward expansion into Jacobs Lawn is projected to generate $3.5–4B in new real estate value via incremental investment and tourism. The original park has created $5.9B in cumulative value and $957M in tax revenue for Dallas, Arts District, and Uptown. The expansion will include 37K SF of green space and a 24K SF event/reception venue with ground-floor retail.",
-      "impact": "Klyde Warren Park's proven track record of catalyzing real estate value ($5.9B over time) signals strong tailwinds for multifamily development in adjacent Uptown—the expansion will likely accelerate asset sales, entitlements, and construction starts in surrounding blocks. However, Downtown Dallas's structural headwinds (office exodus, sports team departures, Neiman Marcus loss) mean the Uptown leverage may mask or delay broader CBD softness; developers should prioritize Uptown-adjacent sites while monitoring Downtown conversion feasibility separately."
+      "summary": "Klyde Warren Park's planned 1.7-acre westward expansion (Jacobs Lawn) is projected to create $3.5 billion in new real estate value for Dallas, according to park chair Jody Grant. The park has already catalyzed $5.9 billion in cumulative value and $957 million in incremental tax revenue. The expansion will add 37,000 SF of green space (winter ice rink), a 24,000 SF mixed-use event/retail building, and further bridge the struggling Downtown with booming Uptown.",
+      "impact": "Klyde Warren's expansion signals a strategic effort to revitalize Downtown Dallas through placemaking and mixed-use activation. This is a high-visibility catalyst for Downtown residential conversion and new development—developers should prioritize Downtown Dallas assemblages and office-to-resi projects now, as catalytic investment from the park creates a near-term window for urban density, younger demographic draw, and rent growth. Uptown continues to expand; suburban flight risk remains real but park investment may slow it. Underwriting should reflect Uptown bifurcation and Downtown upside optionality."
     },
     {
       "title": "Mixed-use mania: Mapping mall redevelopments planned in South Florida",
@@ -152,12 +152,12 @@
       "cat": "Development",
       "date": "2026-07-01T17:00:00+00:00",
       "bullets": [
-        "South Florida: 6+ mall redevelopments adding thousands of apartments; Miami Intl Mall 896-unit Greystar project (Doral); Kohl's converting to 110K SF entertainment.",
-        "Easton Group acquired Sears/JCPenney parcels at Miami Intl for $29.3M (2024); Doral City Council advanced first reading June 2026.",
-        "Projects face political opposition, legal delays; demand for housing and owner intent to revive struggling retail hubs."
+        "South Florida malls undergoing mixed-use overhauls: 6+ projects; thousands of apartments proposed.",
+        "Miami International Mall (Doral): Greystar 896-unit project on former Sears/JCPenney sites; Easton Group paid $29.3M in 2024.",
+        "Department store conversions, retail repurposing, and political/legal hurdles slowing some projects."
       ],
-      "summary": "More than a half-dozen South Florida shopping centers (Miami-Dade, Broward, Palm Beach) are planning mixed-use redevelopments with thousands of proposed apartments. Simon Property Group's Miami International Mall in Doral is advancing a Greystar 896-unit apartment project on former Sears/JCPenney sites acquired by Easton Group for $29.3M; Doral City Council advanced the application on first reading in June. Redevelopments face obstacles including political opposition and legal challenges.",
-      "impact": "South Florida mall redevelopments represent a massive pipeline of entitled or nearly-entitled multifamily sites in secondary/tertiary submarkets (Doral, Coral Gables, Broward). Greystar's lead role signals institutional capital is already pre-leasing risk; however, political headwinds and zoning battles suggest execution risk. Developers should prioritize sites with clear entitlements and municipal support, while monitoring which projects get stalled—those may offer acquisition opportunities at distressed pricing if sponsors lose momentum or capital."
+      "summary": "Over six shopping centers across Miami-Dade, Broward, and Palm Beach counties are in planning or development stages for mixed-use redevelopment, adding thousands of apartments alongside retail, offices, and restaurants. Simon Property Group's Miami International Mall (Doral) is moving forward with Greystar's 896-unit apartment proposal on former Sears and JCPenney parcels (acquired by Easton Group for $29.3M in 2024). Projects face zoning challenges, political opposition, and legal hurdles, but reflect strong regional housing demand and mall owners' urgency to diversify income.",
+      "impact": "South Florida mall-to-resi conversions represent the region's highest-pipeline supply of suburban apartments; developers should monitor approval timelines and financing availability closely. Strong housing demand and department store vacancies create unique conversion economics in Doral, Miami Lakes, and secondary Broward/Palm Beach sites. Competition will be fierce; sponsors with entitlement relationships, construction expertise, and Greystar-scale scale advantages (or capital partnerships) will win. Expect delivery waves 2027–2028; plan entry timing and capital deployment accordingly."
     },
     {
       "title": "Obra Supplies $31M Refi on Arizona Northrop Grumman-Leased Office Property",
@@ -167,12 +167,12 @@
       "cat": "Commercial",
       "date": "2026-07-01T16:24:02+00:00",
       "bullets": [
-        "Obra Real Estate provided $31.4M bridge financing for Silver Creek's 120K SF office building in Gilbert, Arizona.",
-        "Northrop Grumman single-tenant lease (100% occupied); built 2021; acquired by Silver Creek for $43.1M in 2021 from SunCap.",
-        "Strong institutional credit and sponsorship; lender touts speed and certainty of close."
+        "Obra Real Estate arranged $31.4M bridge refi for Silver Creek's 120K SF Northrop Grumman office in Gilbert, Arizona.",
+        "Fully leased to major aerospace/defense tenant; 2021-built; acquired 2021 for $43.1M.",
+        "Bridge structure reflects sponsor experience and institutional tenant credit; strong demand for Arizona defense/tech assets."
       ],
-      "summary": "Obra Real Estate arranged $31.4M in bridge refinancing for Silver Creek Development's fully leased 120,294-square-foot office building in Gilbert, Arizona at 1715 West Elliot Road. The property is leased entirely to Northrop Grumman, an aerospace/defense anchor tenant. Silver Creek acquired the 2021-built asset from SunCap in early 2021 for $43.1M; the refinance structure emphasizes flexibility and sponsor-lender speed.",
-      "impact": "Minimal direct multifamily relevance; this is a stabilized single-tenant office deal. However, Phoenix's aerospace/defense industrial base (Northrop Grumman, Raytheon, etc.) drives strong office and industrial demand—developers should monitor whether such corporate anchors expand or relocate, which could trigger demand for worker housing in Gilbert and surrounding submarkets."
+      "summary": "Obra Real Estate provided a $31.4 million bridge refinance for Silver Creek Development's 2021-built, fully-leased office property at 1715 West Elliot Road in Gilbert, Arizona. The 120,294-square-foot complex is entirely leased to Northrop Grumman, a global aerospace and defense technology company. Silver Creek acquired the asset from SunCap Property Group in early 2021 for $43.1 million.",
+      "impact": "Limited direct multifamily impact. Arizona's defense and aerospace sector (Phoenix/Gilbert) continues to attract institutional tenants and strong finance, signaling durable office tenant demand in science/tech-focused corridors. Developers should monitor whether Northrop Grumman or peer aerospace firms expand campus presence in Phoenix—large tenant expansions can signal job growth and residential demand in adjacent submarkets. Gilbert and Chandler office-to-resi conversion economics remain challenged while institutional office leasing remains healthy."
     },
     {
       "title": "Manhattan’s Office Leasing Reaches Velocity Not Seen Since 2002: Report",
@@ -182,12 +182,12 @@
       "cat": "Commercial",
       "date": "2026-07-01T16:17:22+00:00",
       "bullets": [
-        "Manhattan office leasing H1 2026: 23M SF, strongest first-half velocity since 2002; Q2 alone: 11.02M SF.",
-        "Positive net absorption 3.51M SF; Simpson Thacher & Bartlett 916K SF lease at 570 Fifth Ave; law firm and tech tenants dominant.",
-        "Average asking rents sharp increases; demand outpaced tightening supply."
+        "Manhattan office leasing H1 2026: 23M SF, strongest velocity since 2002; Q2 alone 11.02M SF.",
+        "Positive net absorption 3.51M SF; law firms and tech drove demand; average asking rents surged.",
+        "Simpson Thacher & Bartlett 916K SF lease at Extell's 570 Fifth Avenue; law firms occupy five of top deals."
       ],
-      "summary": "Manhattan office leasing in H1 2026 totaled nearly 23 million square feet, marking the strongest first-half period since 2002. Q2 delivered 11.02 million square feet of leasing with 3.51 million SF of positive net absorption. Law firms (led by Simpson Thacher & Bartlett's 916K SF lease) and tech companies drove demand; average asking rents increased sharply as supply tightened.",
-      "impact": "Manhattan office recovery on this scale reduces near-term conversion urgency and improves landlord pricing power, likely extending hold periods for office-to-residential conversion projects. However, this velocity is heavily weighted toward law firms and tech firms seeking trophy space (570 Fifth Ave, etc.), not broad-based demand—developers should stress-test conversion underwriting for sustained office softness if this momentum reverses post-2026 and monitor whether net absorption turns negative again."
+      "summary": "Manhattan office leasing in the first half of 2026 totaled just under 23 million square feet—the strongest H1 leasing velocity since 2002, according to Colliers. Q2 alone posted 11.02 million square feet of leasing with 3.51 million SF of positive net absorption. Demand outpaced supply, rents increased sharply, and law firms and tech companies dominated deal flow, led by Simpson Thacher & Bartlett's 916,000 SF lease at Extell Development's 570 Fifth Avenue.",
+      "impact": "Manhattan's office recovery is real and driven by large institutional tenants (law, finance, tech) who are consolidating and expanding—this is NOT a conversion or distress signal. Strong office demand sustains rents and occupancy in prime buildings; office-to-resi conversion urgency in Manhattan is LOWER than expected. Developers should focus conversions on secondary/tertiary Manhattan office stock (below-grade, older, Class B/C), not trophy towers. Secondary Manhattan office buildings and B-class space remain conversion candidates; concentrate land banking and entitlements there."
     },
     {
       "title": "Miami’s Office Leasing Jumps Nearly 45% in Q2",
@@ -197,12 +197,12 @@
       "cat": "Commercial",
       "date": "2026-07-01T16:15:06+00:00",
       "bullets": [
-        "Miami-Dade office leasing jumped 45% YoY to 1.3M SF in Q2 2026; availability fell to 14.9% (from 17.1% YoY).",
-        "Average asking rent $67.12/SF, +7% YoY, +57% vs. 5-yr avg; Airport West, Downtown Miami, Coral Gables lead activity.",
-        "Pura Vida, Planet Fitness relocations; family offices, fintech, law firms, new to market driving demand."
+        "Miami office leasing jumped 45% YoY to 1.3M SF in Q2 2026; vacancy fell to 14.9% from 17.1% YoY.",
+        "Average asking rent climbed to $67.12/SF, up 7% YoY and 57% over five years.",
+        "Airport West, Downtown Miami, Coral Gables led activity; family offices, fintech, law firms relocating to Miami."
       ],
-      "summary": "Miami-Dade office leasing surged 45% year-over-year to 1.3 million square feet in Q2 2026, with availability tightening to 14.9% from 17.1% a year prior. Average asking rent climbed to $67.12/SF (+7% YoY, +57% over five years). Airport West, Downtown Miami, and Coral Gables saw largest activity; family offices, fintech, law firms, and corporate relocations drove new demand.",
-      "impact": "Miami office strength and rising rents signal robust business migration and investor confidence in the market—this typically precedes demand for worker housing and suggests multifamily rents are already pricing in employer concentration. However, Miami's recent rent growth is outpacing income growth; developers should model migration sustainability and monitor whether office momentum pulls forward multifamily demand or stretches affordability limits, which could trigger political/zoning resistance to new supply."
+      "summary": "Miami-Dade County's office market surged in Q2 2026 with leasing activity jumping 45% year-over-year to 1.3 million square feet. Vacancy tightened to 14.9% from 17.1% year-ago. Average asking rents reached $67.12 per square foot, up 7% annually and 57% over five years. Airport West, Downtown Miami, and Coral Gables drove activity; large tenants included Pura Vida (26,982 SF) and Planet Fitness (26,207 SF), with family offices, fintech, and law firms relocating to Miami.",
+      "impact": "Miami's office strength signals durable corporate in-migration (fintech, family offices, law) that will drive ancillary residential demand and rent growth. Developers should prioritize downtown/midtown Miami residential projects (resi-only and mixed-use) to capture influx of young professionals and institutional employees. Office recovery in Miami reduces conversion urgency; focus ground-up and adaptive reuse on downtown Miami core. In-migration patterns favor walkable, transit-adjacent resi in Wynwood, Midtown, and Downtown over suburban sprawl. Plan 2–3 year delivery windows to capture demand wave."
     },
     {
       "title": "Victor Sigoura on how to be a NYC condo developer",
@@ -212,12 +212,12 @@
       "cat": "Development",
       "date": "2026-07-01T16:10:00+00:00",
       "bullets": [
-        "Victor Sigoura, founder Legion Investment Group, building 30-story West Village condo, 20-story Gramercy Park, 26-unit Upper East Side projects.",
-        "Legion's first project (109 E. 79th St., 32 units) sold out before TCO at $4K+/SF; 1122 Madison penthouse under contract for $89.5M.",
-        "Sigoura transitioned from El-Ad/Naftali Group; focused on high-end condo development in prime NYC neighborhoods."
+        "Victor Sigoura, Legion Investment Group CEO, built 32-unit Upper East Side condo near $4K/SF; sold pre-occupancy.",
+        "Legion now developing 30-story West Village, 20-story Gramercy Park, 26-unit Madison Ave condo projects.",
+        "Penthouse at 1122 Madison Ave under contract for $89.5M; luxury condo market remains robust in prime NYC neighborhoods."
       ],
-      "summary": "Victor Sigoura's Legion Investment Group is advancing three large NYC luxury condo projects: a 30-story West Village tower, a 20-story Gramercy Park development, and a 26-unit Upper East Side project. Legion's debut (32 units at 109 E. 79th) nearly sold out pre-TCO at $4K+/SF; a penthouse at 1122 Madison recently went under contract for $89.5M. Sigoura has built Legion into a focused luxury-condo platform after stints at El-Ad and Naftali Group.",
-      "impact": "NYC luxury condo market remains active at the high end ($4K+/SF, $89M+ penthouses), signaling continued wealth concentration and international capital inflows. However, this is a thin, trophy segment; developers should not extrapolate pricing or absorption to broader multifamily. Bulk-unit rentals face different demand drivers (affordability, job growth, amenities) than condos; monitor whether luxury condo velocity eventually bleeds into rental conversions or if it remains insulated from broader market dynamics."
+      "summary": "Victor Sigoura, CEO of Legion Investment Group, grew his boutique firm from a 32-unit condo at 109 East 79th Street (which sold for over $4,000/SF pre-occupancy) into a portfolio of three major Manhattan condo projects: a 30-story West Village tower, a 20-story Gramercy Park building, and a 26-unit Upper East Side building at 1122 Madison Avenue. A penthouse at the Madison Avenue project is under contract for $89.5 million.",
+      "impact": "Manhattan luxury condo market remains robust at top-tier price points; $4K+ per SF achievable in UES/West Village for prime retail products. Multifamily developers should note that high-end condo conversion and ground-up development in Manhattan prime neighborhoods remain viable when targeted at HNW buyers and designed for trophy-level finishes and amenities. This is not a mass-market rental story but signals sustained high-end capital inflows and demand preservation in Manhattan's core neighborhoods. Monitor for conversion of trophy office buildings into condo offering; assemblage and zoning opportunities in core submarkets remain profitable."
     },
     {
       "title": "Texas developers thought a state law to expand as-of-right housing production in commercial zones would help them build",
@@ -227,12 +227,12 @@
       "cat": "Development",
       "date": "2026-07-01T14:00:00+00:00",
       "bullets": [
-        "Texas Senate Bill 840 requires larger cities to allow multifamily/mixed-use in commercial zones but local governments blocking via ordinances.",
-        "Arlington, Plano, Irving, Frisco passed height mandates, expensive amenities, industrial rezoning to circumvent state law (effective Sept 1, 2025).",
-        "Developers face labyrinthine approvals despite legal-as-of-right status; politicking and persuasion still required."
+        "Texas SB 840 allows mixed-use and multifamily as-of-right in office/commercial/retail/warehouse zones.",
+        "Arlington, Plano, Irving, Frisco passed counteracting ordinances: height limits, amenity mandates, industrial rezoning.",
+        "Developers report local bureaucracy, politicking still slow approval despite state law preemption; legal uncertainty remains."
       ],
-      "summary": "Texas Senate Bill 840, passed in 2024 and effective September 1, 2025, mandates that larger municipalities allow multifamily and mixed-use development in office, commercial, retail, and warehouse zones. However, North Texas cities including Arlington, Plano, Irving, and Frisco have passed ordinances imposing height restrictions, expensive amenities, and industrial rezoning to circumvent the state law. Developers report that despite SB 840's legal protections, local bureaucracy and political opposition still stall projects.",
-      "impact": "SB 840 represents a significant pro-housing signal at the state level, but municipal resistance reveals the political friction in high-growth Texas suburbs. Developers should view these anti-housing local ordinances as medium-term regulatory headwinds; expect prolonged entitlement timelines and higher soft costs in Plano, Arlington, Irving, Frisco. Conversely, municipalities that embrace SB 840 (e.g., Austin, San Antonio) may see accelerated approvals and lower landing costs—prioritize friendly jurisdictions and expect value-add opportunities in less-resistant markets."
+      "summary": "Texas Senate Bill 840, passed in 2025 and effective September 1, 2025, requires larger municipalities to allow mixed-use and multifamily development in zones permitting office, commercial, retail, or warehouse uses. However, Arlington, Plano, Irving, and Frisco passed local ordinances to circumvent the law through height mandates, expensive amenity requirements, and industrial rezoning to exploit exceptions. Developers report that state law preemption has not eliminated local delays and political obstacles to approvals.",
+      "impact": "Texas housing supply law faces implementation headwinds in North Texas suburbs; local land-use politics are directly opposing state intent. Developers should expect legal challenges and prolonged city negotiations even with SB 840 favorable language. Focus development efforts in cities with pro-housing councils or where local interest aligns (Austin, Houston). Engage early with city planning departments to understand local countermeasures. State-level zoning reform does NOT equal automatic permitting speed; budget extended pre-dev timelines and legal costs in North Texas."
     },
     {
       "title": "The Closing: Brian Steinwurtzel",
@@ -242,12 +242,12 @@
       "cat": "Development",
       "date": "2026-07-01T14:00:00+00:00",
       "bullets": [
-        "Brian Steinwurtzel, CEO GFP Development (Gural family spin-out), converting office to 1,300 units (SoMA, 25 Water St); 788 units (222 Broadway).",
-        "NYC selected GFP to convert 100 Gold Street (city-owned) to 3,700 apartments; grandfather Aaron Gural built dynasty from 1950s warehouse conversions.",
-        "Generational adaptive-reuse business; family includes Newmark founder, Flatiron Building conversion underway."
+        "Brian Steinwurtzel, GFP Development CEO, converting major Manhattan office towers: 25 Water (1,300 units), 222 Broadway (788 units).",
+        "GFP selected for NYC-owned 100 Gold Street: 3,700-apartment conversion; spinoff into standalone dev entity April 2026.",
+        "Gural family legacy: grandfather Aaron built West Side warehouses into offices; grandson now converting offices back to residential."
       ],
-      "summary": "Brian Steinwurtzel, newly named CEO of GFP Development (spun from Gural family's GFP Real Estate), is executing large-scale office-to-multifamily conversions: SoMA (1,300 units at 25 Water Street), 222 Broadway (788 units), and the city-selected 100 Gold Street (3,700 apartments). His grandfather Aaron Gural pioneered warehouse-to-office conversions in the 1950s; the family also owns the Flatiron Building, which is being converted to condos. The business model is generational adaptive reuse.",
-      "impact": "GFP Development's scale and city partnership on 100 Gold Street (3,700 units) signals that institutional capital is fully committed to large Manhattan office conversions. This validates the long-term supply-and-demand arbitrage (office to rental apartments). However, GFP's success is partly tied to trophy sites (Flatiron, downtown waterfront) and favorable NYC tax incentives; developers should benchmark conversions in secondary/tertiary markets against GFP's metrics while acknowledging potential execution cost and timeline advantages in Manhattan's institutional ecosystem."
+      "summary": "Brian Steinwurtzel, now CEO of GFP Development (spun out in April 2026 from GFP Real Estate), is leading major office-to-residential conversions in Manhattan, including SoMA (25 Water Street: 1,300 units), 222 Broadway (788 units), and 100 Gold Street (3,700 units, selected by NYC). His grandfather Aaron Gural founded Newmark & Company (now $2.5B) and pioneered West Side warehouse-to-office conversions in the 1950s; the family still owns iconic buildings including the Flatiron and Film Center Building.",
+      "impact": "Manhattan office-to-resi conversion pipeline is concentrated in experienced, well-capitalized operators (GFP, Gural family). GFP's spinoff and NYC selection on 100 Gold Street signal government appetite to partner with proven conversion experts. Smaller developers should expect tight competition and higher land/zoning barriers in prime Manhattan conversion plays. Secondary market conversion opportunities may offer better entry points for competitive advantage. Watch GFP delivery timelines and unit absorption for resi conversion underwriting benchmarks."
     },
     {
       "title": "Hamptons developer Jeremy Morton’s unfinished projects — and debts — stack up",
@@ -257,12 +257,12 @@
       "cat": "Development",
       "date": "2026-07-01T14:00:00+00:00",
       "bullets": [
-        "Hamptons developer Jeremy Morton has accumulated unfinished projects and debt; $30M Sag Harbor purchase (22K SF) in 2025 (highest retail price ever paid in Hamptons).",
-        "Morton owned East Hampton home, West Village apt, Ruschmeyer's nightclub, Cyril's Fish House, Rick's Crabby Cowboy Cafe, retail properties.",
-        "Portfolio leveraged via partner capital; conspicuous consumption lifestyle masking overleveraged position."
+        "Jeremy Morton's Hamptons portfolio: Ruschmeyer's nightclub, Cyril's Fish House, Rick's Crabby Cowboy, retail, Sag Harbor 2 Main St.",
+        "Paid $30M for Sag Harbor corner (22K SF, most ever for Hamptons retail); lifestyle/media profile masks mounting debt.",
+        "Multiple partners allege unfinished projects and mounting debts despite conspicuous wealth display and luxury lifestyle."
       ],
-      "summary": "Hamptons developer Jeremy Morton has taken on multiple unfinished projects while accumulating debt across hospitality, retail, and residential ventures. He paid a record $30M for a 22,000-square-foot Sag Harbor retail corner in 2025. Morton's portfolio includes Ruschmeyer's nightclub, Cyril's Fish House, Rick's Crabby Cowboy Cafe, retail in Water Mill and Southampton, and a custom East Hampton home. Partners report he leveraged assets heavily across properties.",
-      "impact": "This is a cautionary tale of overleveraging and project concentration in a volatile luxury market (Hamptons). Morton's distress (article appears to track debt accumulation and stalled projects) may lead to forced sales of Hamptons real estate at discounts. Developers in the Hamptons should monitor for forced liquidations and consider opportunistic acquisitions; however, the Hamptons market is micro-cap and seasonal—relevance to multifamily development across broader U.S. markets is negligible."
+      "summary": "Jeremy Morton, a Hamptons developer, constructed an apparent real estate and lifestyle empire including Ruschmeyer's nightclub, Cyril's Fish House, Rick's Crabby Cowboy restaurant, retail in Water Mill and Southampton, and a $30 million Sag Harbor acquisition (2 Main Street, 22,000 SF—highest ever paid for Hamptons retail). However, multiple partners report mounting debts, unfinished projects, and financial strain despite his public display of luxury properties, travel, and social prominence. The article implies a classic overleverage and project overcommitment scenario.",
+      "impact": "Hamptons development market may be experiencing speculative excess and developer over-extension in lifestyle-hospitality projects. Multifamily developers should avoid overleverage and over-acceleration of ground-ups in secondary/seasonal markets; Hamptons resi fundamentals support only select, prime projects with strong pre-leasing and equity. Monitor for distressed Hamptons hotel and mixed-use assets (e.g., Ruschmeyer's, Sag Harbor corner) that may become available if Morton's projects unwind—potential opportunistic conversions to hotel-to-resi or retail-to-residential. Discipline in capital deployment and project sequencing is critical in lifestyle/seasonal markets."
     }
   ]
 }
