@@ -1,88 +1,208 @@
 {
-  "fetchedAt": "2026-07-04T08:13:20.558047+00:00",
+  "fetchedAt": "2026-07-06T19:05:23.539788+00:00",
   "rates": [
     {
       "label": "SOFR",
-      "value": "3.66%",
+      "value": "3.64%",
       "pct": -0.02,
       "isBps": true
     },
     {
       "label": "10Y Treasury",
       "value": "4.48%",
-      "pct": null
+      "pct": -0.09
     },
     {
       "label": "30Y Treasury",
-      "value": "4.98%",
-      "pct": null
+      "value": "4.99%",
+      "pct": 0.16
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "98.02",
-      "pct": 1.24
+      "value": "97.38",
+      "pct": -0.65
     }
   ],
   "stories": [
     {
-      "title": "Secrecy Is Killing Data Center Deals",
-      "link": "https://commercialobserver.com/2026/07/secrecy-data-center-deals/",
-      "excerpt": "The data center industry does not have a communication problem. It has a transparency problem. Across the country, projects are being delayed, contested and, in some cases, stopped before construction begins. The common thread is not always power or water. It is process. Communities are finding out too late, with too little information, about projects that will reshape their local infrastructure. That is not a public relations issue. It is a development failure. The use of nondisclosure agreements, redacted filings and accelerated approvals has become common in many jurisdictions. These tools are often justified as necessary to protect proprietary information or to maintain competitive positioning. Suhail Y. Tayeb. PHOTO: Courtesy NYU In some cases, they are justified. But, when projects rely too heavily on secrecy, they create the very opposition they are trying to avoid. When residents discover that key decisions were made behind closed doors, trust collapses. When basic information about water use, energy demand or site impact is withheld, communities assume the worst. Once that perception takes hold, the project is no longer being evaluated on its merits. It is being rejected on principle. The industry often treats transparency as a concession — something to offer once a project is already underway or facing resistance. That approach is backward. Transparency is not a moral position. It is a development strategy. Projects that disclose early, clearly and consistently tend to move faster. They face fewer surprises in public hearings, fewer legal challenges and less political resistance. They give communities time to understand, question and adjust before positions harden. Projects that do not take this approach tend to follow a predictable path. Late disclosure, rapid opposition, prolonged delays and, in some cases, cancellation. This pattern is now visible across multiple states. And it is accelerating. What was once a localized reaction has evolved into a more ",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-03T15:00:42+00:00",
-      "bullets": [
-        "Data center projects nationwide delayed/stopped due to secrecy in approvals and NDAs.",
-        "Communities reject projects when environmental/infrastructure data withheld from public review.",
-        "Lack of transparency creates opposition that could have been mitigated with early disclosure."
-      ],
-      "summary": "The data center development industry relies heavily on nondisclosure agreements, redacted filings, and accelerated approvals to shield proprietary information, but this secrecy is backfiring. Projects are being delayed, contested, or halted before construction begins because communities discover key decisions were made behind closed doors. Once trust collapses and residents assume the worst about power, water, and site impacts, projects are rejected on perception rather than merit—a preventable outcome.",
-      "impact": "Multifamily developers should note the broader entitlement lesson: communities in growth markets (especially near data center hubs like Northern Virginia, Phoenix, Austin) are increasingly hostile to opaque development processes. Early and transparent community engagement on housing projects—especially regarding density, traffic, affordability—will reduce delay risk and improve political feasibility in competitive markets where data center competition for land and infrastructure is rising."
-    },
-    {
-      "title": "Stephen Wendell of Mountain Shore Properties: 5 Questions",
-      "link": "https://commercialobserver.com/2026/07/stephen-wendell-mountain-shore-properties-5-questions/",
-      "excerpt": "You can trace the history of Mountain Shore Properties back to the 1980s, when the firm had no name and was run by Stephen Wendell’s father, Charlie Wendell. In 1983, the older Wendell founded the company by opening his first Holiday Inn hotel in Oak Hill, W.Va., not far from where he was born and was raising a family. When Stephen Wendell joined the company in 2012 — following law school and a stint as a junior legal counsel with the Philadelphia Eagles — he knew it was time to grow the business, feeling that there was so much more the firm could do. Now, with the younger Wendell at the helm as CEO, Mountain Shore is a national real estate development company with over $400 million in project value, focusing on a mix of hospitality, residential and office properties. Its portfolio spans more than 25 cities across 11 states. And it’s also about to open its 30th hotel, a boutique inn in the Wendell family’s hometown in West Virginia. Commercial Observer caught up with Stephen Wendell last month to discuss the founding of Mountain Shore, the firm’s portfolio, and the lessons each new project imparts. This conversation has been edited for clarity and length. Commercial Observer: What is the history of Mountain Shore Properties? Stephen Wendell: Mountain Shore Properties essentially emanated from the real estate development company that my dad started in the early `80s. There was no name for the company at that point in time, but he started doing real estate development in the `80s — hotels specifically. He opened his first hotel the month I was born, so almost 43 years ago, in our small town in Fayetteville, W.Va. There’s now this full-circle moment, because we’re going to open a small boutique hotel in Fayetteville in August. When I got out of law school, I worked in Philadelphia for a year for the Eagles, and was doing real estate on the side, and then went to work for a law firm. After a while, I told my dad I wanted to work with him, and that I had ideas on how to ",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-03T14:00:33+00:00",
-      "bullets": [
-        "Mountain Shore Properties: $400M portfolio, 25+ cities, 11 states, mixed-use (hospitality/residential/office).",
-        "CEO Stephen Wendell expanded family hotel business (1983 founder) into national developer.",
-        "Opening 30th hotel; portfolio shows resilience across mixed-use property types."
-      ],
-      "summary": "Mountain Shore Properties, founded in 1983 by Charlie Wendell as a single Holiday Inn operator in West Virginia, has grown under CEO Stephen Wendell into a $400M national real estate developer with presence in 25+ cities across 11 states. The firm operates a diversified portfolio spanning hospitality, residential, and office properties and is set to open its 30th hotel property. The company exemplifies regional developer scaling into national mixed-use operations.",
-      "impact": "Limited direct impact to multifamily development strategy. This is a profile piece showing successful regional diversification; no market signals, capital movements, or cost/supply dynamics relevant to apartment development underwriting or project feasibility."
-    },
-    {
-      "title": "Land Use Intelligence Is Increasingly a Must-Have in Deal-Making",
-      "link": "https://commercialobserver.com/2026/07/land-use-intelligence-real-estate-deals/",
-      "excerpt": "For decades, commercial real estate underwriting has revolved around one central question: Do the numbers work? Investors scrutinize rent rolls, operating expenses, cap rates, financing assumptions and projected returns in pursuit of the answer. Financial models have become increasingly sophisticated, enabling market participants to evaluate opportunities faster and with greater precision than ever before. Yet some of the most costly mistakes in commercial real estate aren&#8217;t caused by faulty math, but rather by assumptions. A site that appears attractive on paper may have property characteristics or local considerations that materially impact its investment potential. A redevelopment opportunity may look compelling until additional factors affect project economics, timelines or execution risk. In each case, the pro forma may have been accurate, but the underlying assumptions were not. The industry&#8217;s challenge has never been a lack of financial analysis. It&#8217;s that critical information influencing those analyses has historically lived outside the underwriting process. Kyle Cowherd. Photo: Courtesy Crexi. Commercial real estate professionals have long understood the importance of zoning, land use regulations and entitlement considerations. The problem has been gaining this critical access. Unlike financial information, which has become increasingly standardized and centralized, zoning data remains fragmented across thousands of municipal jurisdictions. Every city, county and municipality maintains its own terminology, documentation standards and reporting systems. What should be a straightforward diligence process often requires navigating multiple government websites, reviewing lengthy zoning codes and manually interpreting permitted uses. As a result, zoning has traditionally been treated as a downstream diligence exercise rather than an underwriting input. That approach made sense when accessing land use information required significant time and ef",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-03T12:00:48+00:00",
-      "bullets": [
-        "Commercial real estate underwriting relies on financial models but misses critical site/local factors.",
-        "Property characteristics and zoning/regulatory constraints materially impact pro forma assumptions.",
-        "Land use intelligence now essential to avoid costly execution risk and timeline slippage."
-      ],
-      "summary": "The commercial real estate industry has become sophisticated in financial modeling but often fails to account for site-specific characteristics and local regulatory constraints that materially affect investment returns. A project may pencil on paper but face hidden challenges—zoning constraints, entitlement timelines, infrastructure limitations, or community opposition—that were not embedded in underwriting assumptions. The gap is not in math but in integrating land use, zoning, and regulatory intelligence into the deal evaluation process from the start.",
-      "impact": "Critical reminder for multifamily developers: underwriting must front-load entitlement risk, zoning density limits, and local regulatory timelines as primary variables, not afterthoughts. Markets with tight zoning (LA, SF, NY) and rising NIMBY pressure (data centers, housing in gateway metros) require upfront land use due diligence. Developers who fail to account for 12–24 month entitlement delays and density bonus complexity will mismodel returns and lose deals to competitors with integrated zoning/planning teams."
-    },
-    {
-      "title": "Inland Real Estate Group Offloads Lakewood Apartment Community for $71.5M",
-      "link": "https://www.connectcre.com/stories/inland-real-estate-offloads-lakewood-apartment-community-for-71-5m/",
-      "excerpt": "Inland Real Estate Group sold Westlink at Oak Station at 1665 Pierson St. in Lakewood for $71.5 million. Inland bought the property in 2016 for $63 million. Amenities at the community include a pool and hot tub, fitness and business centers, and a clubhouse. The acquisition was facilitated by&nbsp;CBRE’s Denver Multifamily team, which was led by Shane Ozment and Terrance Hunt. Debt financing was arranged by CBRE’s Debt and Structured Finance group led by Ryan Greer and Troy Tegeler. For nearly six decades, Inland’s dozen member companies have supported investment, development, and finance products through an end-to-end suite of commercial real estate services spanning acquisitions, asset management, property management, and operations. The post Inland Real Estate Group Offloads Lakewood Apartment Community for $71.5M appeared first on Connect CRE.",
+      "title": "AllianceBernstein Lends $75M on Master-Planned Rechler Industrial Park",
+      "link": "https://www.connectcre.com/stories/alliancebernstein-lends-75m-on-master-planned-rechler-industrial-park/",
+      "excerpt": "JLL Capital Markets has arranged a $75- million development facility for Rechler Business District, a master-planned industrial business park in Medford, NY, within Long Island&#8217;s Suffolk County. Senior managing director Peter Rotchford and managing director Tyler Peck worked on behalf of Rechler Equity Partners to secure the financing through AllianceBernstein L.P. Rechler Business District encompasses a newly constructed and fully leased 140,875-square-foot Class A shallow bay logistics facility at 10 Donald&#8217;s Way, 9.8 acres of fully leased industrial outdoor storage space at 25 Donald&#8217;s Way and approximately 45 acres of additional development-ready land. &#8220;Securing financing for a project of this scale required a lender that understood both the strength of the existing cash flow and the long-term value creation embedded in the to-be developed parcels,&#8221; said Rotchford. “AllianceBernstein recognized the compelling combination of stable income from an investment-grade tenant, a low leverage profile and Rechler’s track record for industrial development, which ultimately made this financing opportunity particularly attractive.&#8221; The post AllianceBernstein Lends $75M on Master-Planned Rechler Industrial Park appeared first on Connect CRE.",
       "source": "Connect CRE",
       "cat": "Commercial",
-      "date": "2026-07-03T01:12:51+00:00",
+      "date": "2026-07-06T18:58:03+00:00",
       "bullets": [
-        "Inland Real Estate sold Westlink at Oak Station (Lakewood, CO) for $71.5M; 2016 acquisition price $63M.",
-        "CBRE Denver Multifamily facilitated sale; debt arranged by CBRE Debt & Structured Finance.",
-        "8.5-year hold, modest appreciation in maturing Denver submarket."
+        "AllianceBernstein lends $75M to Rechler for industrial park in Medford, NY (Long Island/Suffolk County).",
+        "Asset includes 140,875 SF fully leased Class A logistics facility plus 45 acres development-ready land.",
+        "Low leverage, investment-grade tenant cash flow supports financing for future industrial expansion pipeline."
       ],
-      "summary": "Inland Real Estate Group sold the Westlink at Oak Station apartment community in Lakewood, Colorado for $71.5 million, realizing a $8.5 million gain (13.5%) on a 2016 acquisition price of $63 million over an eight-year hold. The 1.1M+ portfolio company exited via CBRE's Denver multifamily platform, with debt refinancing arranged by CBRE's structured finance team.",
-      "impact": "Minimal significance. This is a routine secondary market apartment disposition with modest appreciation; no signal on Lakewood/Denver demand, supply dynamics, or capital market shifts. The price appreciation (~1.6% annual) suggests normalized market conditions in Denver suburbs, not a meaningful shift in rents or development feasibility."
+      "summary": "AllianceBernstein has provided a $75 million development facility to Rechler Business District, a master-planned industrial park in Medford, NY (Suffolk County). The deal finances a newly constructed, fully leased 140,875-square-foot Class A shallow-bay logistics facility, 9.8 acres of leased industrial outdoor storage, and approximately 45 acres of undeveloped land. The lender was attracted to stable cash flow from an investment-grade tenant and Rechler's track record, lending at a low leverage ratio.",
+      "impact": "Industrial development financing strength in Long Island/Suffolk County signals sustained logistics demand and capital availability for speculative land plays. This funds future supply in a market with limited industrial vacancy, potentially constraining multifamily developer access to labor and materials if construction clusters intensify. Monitor Long Island wage/labor inflation spillover into adjacent residential markets."
+    },
+    {
+      "title": "Kinect Real Estate Partners Closes $127M Fund for MF Projects",
+      "link": "https://www.connectcre.com/stories/kinect-real-estate-partners-closes-127m-fund-for-mf-projects/",
+      "excerpt": "Kinect Real Estate Partners, a Bellevue investment firm linked to multifamily developer American Capital Group, announced the $126.5 million close of Kinect Opportunity Fund II, the firm’s second GP fund, exceeding its $100 million target. The fund will focus on development and value-add opportunities in multifamily assets, with a development pipeline totaling approximately $1.6 billion and more than 3,000 apartment units across high-growth western markets including Bellevue, Redmond and Bothell in Washington, as well as Mountain View and San Diego in California. &#8220;We set out to extend a time-tested real estate strategy to the private wealth channel through a platform where operational depth and investment discipline are fully aligned,&#8221; said BJ Kuula, Co-Founder and Managing Partner of Kinect Real Estate Partners and CEO of American Capital Group. &#8220;The close of Kinect Opportunity Fund II reflects the momentum we&#8217;re seeing from investors who value that alignment and are increasingly seeking institutional-quality real estate opportunities backed by experienced operators.&#8221; The post Kinect Real Estate Partners Closes $127M Fund for MF Projects appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-06T18:53:48+00:00",
+      "bullets": [
+        "Kinect Real Estate Partners closes $126.5M Fund II (exceeded $100M target) for multifamily development.",
+        "Pipeline of $1.6B across 3,000+ units in Seattle (Bellevue, Redmond, Bothell) and San Francisco Bay Area (Mountain View) and San Diego.",
+        "Fund targets development and value-add in high-growth western markets; aligned platform combining operator expertise with institutional capital."
+      ],
+      "summary": "Kinect Real Estate Partners, linked to developer American Capital Group, has closed its second opportunity fund at $126.5 million, exceeding its $100 million target. The fund has a $1.6 billion development pipeline spanning more than 3,000 apartment units across high-growth western markets including the Seattle metro (Bellevue, Redmond, Bothell), San Francisco Bay Area (Mountain View), and San Diego. The fund targets development and value-add multifamily opportunities with operational alignment between capital and execution.",
+      "impact": "Significant institutional capital commitments to western multifamily development—particularly Seattle and Bay Area—signal investor confidence and likely accelerate competitive pipeline pressure in those tight markets. For TCR: watch for density of competing starts in Bellevue/Redmond (Amazon/tech hub effects) and Mountain View (Google proximity); early entitlements critical. Capital availability suggests cost-per-unit trending upward; underwriting discipline will diverge winners from marginal deals."
+    },
+    {
+      "title": "Hyatt Regency to Take Over Vacant Tucson Hotel Tower",
+      "link": "https://www.connectcre.com/stories/hyatt-regency-to-take-over-vacant-tucson-hotel-tower/",
+      "excerpt": "Hyatt Hotels Corporation, in collaboration with HSL Properties and Desert Hospitality Management, will debut the Hyatt Regency Tucson Convention Center, expected to open in late 2027. The hotel will mark the first Hyatt Regency-branded property in Tucson. The building, once known at the Hotel Arizona, has been vacant since 2012. Located in the heart of downtown Tucson and steps from the Tucson Convention Center, Linda Ronstadt Music Hall, Leo Rich Theater and Tucson Arena, Hyatt Regency Tucson Convention Center will become a destination for meetings, conventions, business travelers and leisure guests in the city&#8217;s vibrant urban core. The hotel&#8217;s extensive multi-million-dollar transformation will introduce 291 guestrooms and suites, a fitness center, an elevated pool experience and approximately 22,000 square feet of flexible meeting and event space. The property will feature a large ballroom and multiple breakout meeting spaces. The post Hyatt Regency to Take Over Vacant Tucson Hotel Tower appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-06T18:48:04+00:00",
+      "bullets": [
+        "Hyatt Regency takes over vacant Hotel Arizona in downtown Tucson; opens late 2027.",
+        "Building vacant since 2012; includes 291 guestrooms, 22,000 SF meeting space in convention district.",
+        "Multi-million-dollar renovation targets meetings, conventions, business travel in downtown urban core."
+      ],
+      "summary": "Hyatt Hotels, in partnership with HSL Properties and Desert Hospitality Management, will convert the long-vacant Hotel Arizona in downtown Tucson into the Hyatt Regency Tucson Convention Center, opening in late 2027. The 291-room, 22,000-square-foot meeting-space property will anchor Tucson's convention district near the Tucson Convention Center, Linda Ronstadt Music Hall, and other cultural venues. The property has been empty since 2012.",
+      "impact": "Limited direct multifamily relevance; hospitality conversion does not generate apartment demand. However, downtown revitalization in Tucson may indirectly support foot traffic and mixed-use activation that could enhance rental appeal nearby. Monitor whether convention district upside translates into residential infill demand in downtown Tucson submarket."
+    },
+    {
+      "title": "Citigroup Refis East Flatbush Apartments With $35M Loan",
+      "link": "https://commercialobserver.com/2026/07/citigroup-east-flatbush-brooklyn-apartments/",
+      "excerpt": "Developer Jacob Rosenberg has landed a $35 million loan to refinance a newly built multifamily property in Brooklyn’s East Flatbush neighborhood. Citigroup supplied the loan for the 95-unit apartment building at 406 Remsen Avenue that was completed in 2024. PincusCo. first reported the refi, which closed June 26. Meridian Capital Group negotiated the debt with a team led by Naphtali Marrus and Ben Nevid. “406 Remsen Avenue is a standout new addition to the Brooklyn rental market, and the sponsorship brought a clear vision for the asset’s next chapter,” Marrus said in a statement. In a statement, Nevid credited Citigroup with taking “the time to understand the asset and the sponsorship” to “structure a financing solution that met the borrower’s objectives.” Rosenberg, who owns 406 Remsen Avenue with Michael Rosenberg, acquired the 111,027-square-foot property near the Saratoga Avenue subway station for $2 million in late 2024, according to PincosCo. Community amenities include a fitness center, a rooftop terrace, garage parking and bike storage. Citigroup and Rosenberg did not immediately return requests for comment. Andrew Coen be reached at acoen@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-06T18:41:44+00:00",
+      "bullets": [
+        "Citigroup refi: $35M loan on 95-unit new construction at 406 Remsen Avenue, Brooklyn East Flatbush.",
+        "Building completed 2024; Meridian Capital Group arranged with Naphtali Marrus and Ben Nevid.",
+        "Submarket benefit from Saratoga Avenue subway access; developer acquired land for $2M in late 2024."
+      ],
+      "summary": "Developer Jacob Rosenberg secured a $35 million refinance from Citigroup for 406 Remsen Avenue, a newly completed 95-unit luxury apartment building in Brooklyn's East Flatbush neighborhood near the Saratoga Avenue subway station. The 111,027-square-foot property was built in 2024. Meridian Capital Group negotiated the transaction, which closed June 26. Rosenberg and Michael Rosenberg acquired the site for just $2 million in late 2024, indicating significant value creation through development.",
+      "impact": "East Flatbush rental market is attracting both development and aggressive refi capital at favorable terms shortly after delivery—signaling strong leasing velocity, stabilization, and lender appetite for transit-proximate Brooklyn product. This validates infill development strategy in underused subway-adjacent neighborhoods. For TCR: East Flatbush density and transit-oriented development may indicate favorable basis and rent growth trajectory; competitive pressure increasing as lenders de-risk completed assets."
+    },
+    {
+      "title": "Lennar Closes on Former Office Building Site at Bishop Ranch Mixed-Use",
+      "link": "https://www.connectcre.com/stories/lennar-closes-on-former-office-building-site-at-bishop-ranch-mixed-use/",
+      "excerpt": "Sunset Development has selected Lennar to build within Canopy, a 27-acre residential neighborhood that is being developed on the BR8 office building site at Bishop Ranch in San Ramon. Lennar closed on 25 acres within the larger Canopy parcel. Sunset Development retains ownership of the remaining two acres, designated for future affordable multi-housing. Demolition of the existing BR8 building and construction are expected in mid-to-late 2027. “Building the best suburban downtown in America means getting the residential experience right,” said Alex Mehran Jr., president and CEO of Sunset Development Company. “Lennar brings the experience and scale to deliver that, and we look forward to seeing Canopy become a vital part of what Bishop Ranch is becoming.” Within Canopy, Lennar will build 255 detached single-family homes ranging from two to three stories. The site transitions from three-story homes on the western edge to two-story homes abutting Summerhill’s City Village to the east. The post Lennar Closes on Former Office Building Site at Bishop Ranch Mixed-Use appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-06T18:26:07+00:00",
+      "bullets": [
+        "Lennar closes on 25 acres within 27-acre Canopy residential at Bishop Ranch, San Ramon (Bay Area).",
+        "Lennar to build 255 detached single-family homes on office demolition site (BR8); construction mid-to-late 2027.",
+        "2 acres retained for affordable multi-housing; office-to-residential conversion on major Bay Area master-planned community."
+      ],
+      "summary": "Sunset Development has selected Lennar to build Canopy, a 27-acre residential neighborhood on the former BR8 office building site within the larger Bishop Ranch mixed-use development in San Ramon, California. Lennar closed on 25 acres and will construct 255 detached single-family homes (two to three stories). Sunset Development retains 2 acres for future affordable multi-housing. Demolition and construction are expected to begin in mid-to-late 2027.",
+      "impact": "Office-to-residential conversion at scale (27 acres) in Bay Area master-planned community signals sustained macro demand for housing over office and lender/investor appetite for suburban residential infill. For TCR: watch Bishop Ranch for multifamily infill opportunities; Lennar's single-family focus may leave gap for mid-rise rental product. Transit access and affordability overlay critical to Bay Area underwriting. Monitor whether SF Bay area office conversions accelerate, creating additional land supply and submarket competition."
+    },
+    {
+      "title": "U.S. Industrial Leasing, Absorption Rise More Than 25% Year-Over-Year",
+      "link": "https://www.connectcre.com/stories/u-s-industrial-leasing-absorption-rise-more-than-25-year-ove-year/",
+      "excerpt": "U.S. industrial leasing volume for the first half of 2026 increased 27.1% year-over-year to 490.6 million square feet, marking the third-strongest H1 for the sector after 2021 and 2022, while net absorption was up 28% from the year-ago period, Savills reported Monday. The firm&#8217;s preliminary Q2 report on U.S. industrial found that large-format leasing, particularly deals above 750,000 square feet, has been a key driver of the pickup. Although vacancy rose 10 basis points Y-O-Y, it held flat in the second quarter from the prior quarter, ending Q2 2026 at 8.2%, a further sign of stabilization at the midpoint of 2026. The construction pipeline totaled 320 million square feet in Q2 2026, well below the 782.4 million square feet of late 2022. Meanwhile, asking rents have been stable, rising 1.8% Y-O-Y. With vacancy still elevated and sublease availability ticking up, near-term rent growth is expected to remain modest, reported Savills. Pictured: International Commerce Center in Adairsville, GA, where Pactra signed a full-building lease for nearly 700,000 square feet in Q2. Connect Industrial West | August 20 | Irvine, CAOn August 20, Connect Industrial West will bring together the owners, investors, developers, brokers, lenders, and occupiers driving industrial real estate across the Western U.S. Join top decision-makers for an afternoon of market insights, dealmaking opportunities, and networking with the industry’s most influential players. Register now: www.connectindustrialwest2026.com The post U.S. Industrial Leasing, Absorption Rise More Than 25% Year-Over-Year appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-06T18:07:16+00:00",
+      "bullets": [
+        "U.S. industrial leasing up 27.1% YoY in H1 2026 to 490.6M SF; net absorption up 28% YoY.",
+        "Large-format deals (750K+ SF) driving growth; construction pipeline at 320M SF (well below 782M in late 2022).",
+        "Vacancy flat Q2 2026 at 8.2%; rents up 1.8% YoY; near-term rent growth expected modest with elevated vacancy."
+      ],
+      "summary": "U.S. industrial leasing volume surged 27.1% year-over-year in the first half of 2026 to 490.6 million square feet, marking the third-strongest H1 on record (after 2021 and 2022), while net absorption climbed 28% year-over-year. Large-format deals above 750,000 square feet have been the key driver. The active construction pipeline totaled 320 million square feet in Q2 2026—well below the 782.4 million square feet in late 2022—indicating a supply correction. Vacancy held flat sequentially at 8.2%, and asking rents rose 1.8% year-over-year.",
+      "impact": "Industrial supply normalization (pipeline down 59% from late 2022 peak) will tighten logistics market regionally over 12–24 months, driving construction labor scarcity and wage pressure across key multifamily markets (Dallas, Atlanta, Phoenix, LA). Large-format lease momentum signals sustained e-commerce/3PL demand, supporting industrial wage spillovers into nearby residential submarkets. TCR should expect labor cost inflation acceleration by late 2026–2027 in industrial-heavy metros; early stage locking subcontractor rates critical."
+    },
+    {
+      "title": "Affinius Capital Supplies $180M for Jersey Center Multifamily Tower",
+      "link": "https://commercialobserver.com/2026/07/affinius-capital-namdar-group-80m-for-jersey-center-multifamily/",
+      "excerpt": "The Jersey City building boom continues unabated, this time in the growing Journal Square submarket. Namdar Group — one of the city’s most prolific developers in recent years — has secured $180 million to refinance 35 Cottage Street, a 27-story, 564-unit luxury apartment tower in Journal Square, Commercial Observer can first report. Affinius Capital provided the debt, structured as a floating-rate, interest-only bridge loan, while the Walker &amp; Dunlop capital markets team of Aaron Appel, Jonathan Schwartz, Adam Schwartz, Keith Kurland, Dustin Stolly, Sean Reimer, Jordan Casella, Cole Grims and Edward Leboyer arranged the transaction. Schwartz, in a statement, called Journal Square one of the New York area’s “most dynamic mixed-use neighborhoods,” and said the submarket has continued to attract attention from the investment community. “35 Cottage Street is exceptionally well positioned to capitalize on that momentum through its transit-oriented location, differentiated product offering, and institutional-quality execution,” Schwartz added. Located at 35 Cottage Street — a short walk from the Journal Square PATH station — the new apartment tower has not yet opened, but will feature units ranging from studios to three-bedrooms. The initial plan for the tower included using three ground floors as a Chabad synagogue, a preschool and a party hall, as CO reported in August 2024. Namdar Group has been responsible for a prolific amount of new development in Jersey City. Last year, the firm secured a $335 million debt package to refinance three newly built Jersey City multifamily assets and a total of 833 units at 9 Homestead Place, 26 Van Reipen Avenue and 28 Cottage Street, CO reported. Brian Pascus can be reached at bpascus@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-06T17:57:48+00:00",
+      "bullets": [
+        "Affinius Capital provides $180M floating-rate bridge to refinance 35 Cottage Street, Jersey City (564 units, 27 stories).",
+        "Namdar Group developed luxury tower in Journal Square submarket; Walker & Dunlop arranged transaction.",
+        "Journal Square noted as dynamic mixed-use neighborhood attracting investor attention post-delivery."
+      ],
+      "summary": "Namdar Group has secured $180 million in refinancing from Affinius Capital for 35 Cottage Street, a 27-story, 564-unit luxury apartment tower in Jersey City's Journal Square submarket. The debt was structured as a floating-rate, interest-only bridge loan. Walker & Dunlop's capital markets team arranged the transaction. Journal Square is characterized as one of the New York area's most dynamic mixed-use neighborhoods with ongoing investor momentum.",
+      "impact": "Bridge financing on luxury rental tower in Journal Square at post-completion stage signals rapid value-add and stabilization capture; floating-rate structures imply developer expects rate environment to soften or refinance into permanent fixed debt soon. Jersey City/Journal Square supply continues to densify; monitor competing deliveries (NJ Transit/PATH access, gentrification pace) for rent compression risk. For TCR: Journal Square market tightening; earlier stage entitlements and lower-cost gaps relative to downtown Jersey City may still offer returns."
+    },
+    {
+      "title": "Waste Management Firm Buys Miami-Dade Trucking Terminal for $51M",
+      "link": "https://commercialobserver.com/2026/07/centerpoint-waste-connections-miami/",
+      "excerpt": "Centerpoint has sold another trucking parking lot in Miami-Dade County, this time for $51 million to a waste management company, property records show. Woodlands, Texas-based Waste Connections purchased the 12-acre site at 17707 Northwest Miami Court in Miami Gardens, Fla. The surface parking lot — facing Interstate 95, just north of the intersection with Florida’s Turnpike — holds 370 spots and a 3,786-square-foot building. The buyer specializes in waste collection services for residential and commercial buildings. CenterPoint purchased the property for $47.5 million in 2022, according to property records. The recent transaction marks CenterPoint’s second sale of a trucking terminal in Miami-Dade County over the past year. In October, the Oak Brook, Ill.-based firm sold a 17-acre site near Miami International Airport for $52 million to trucking logistics company Outpost. CenterPoint had purchased the property for $29.5 million in 2020, resulting in a 77 percent increase in value over five years. Representatives for Waste Connections and CenterPoint did not immediately respond to requests for comment. Julia Echikson can be reached at jechikson@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-06T17:33:42+00:00",
+      "bullets": [
+        "Waste Connections buys 12-acre Miami-Dade trucking terminal for $51M at 17707 NW Miami Court, Miami Gardens.",
+        "CenterPoint Properties sold (purchased 2022 for $47.5M); second Miami-Dade logistics property sale in 1 year.",
+        "Industrial logistics consolidation and value capture in Miami-Dade; positive for CenterPoint exit strategy."
+      ],
+      "summary": "Waste Connections purchased a 12-acre trucking parking lot and terminal at 17707 Northwest Miami Court in Miami Gardens for $51 million. The surface parking facility holds 370 spaces and a 3,786-square-foot building. CenterPoint Properties sold the asset, which it had acquired for $47.5 million in 2022. This marks CenterPoint's second Miami-Dade logistics terminal sale in the past year (prior sale near Miami International Airport for $52 million).",
+      "impact": "Minimal multifamily relevance. Industrial logistics market in Miami-Dade remains active and profitable; CenterPoint's exit at modest gain suggests stable industrial asset values. Monitor whether industrial consolidation and supply-chain investment create wage pressures or land scarcity in Miami-Dade, potentially affecting multifamily labor/land costs in the metro."
+    },
+    {
+      "title": "Avery Hall plots 250 units at stalled Crown Heights hotel site",
+      "link": "https://therealdeal.com/new-york/2026/07/06/avery-hall-plots-250-units-at-stalled-crown-heights-site/",
+      "excerpt": "One year on from purchasing the site out of bankruptcy, Avery Hall Investments is revealing the future for a Crown Heights lot once envisioned for a hotel. The Brooklyn-based developer filed an application with the New York City Department of Buildings for a mixed-use project on a vacant parcel at 1550 Bedford Avenue, the Commercial Observer reported. Through its land use application, Avery Hall is petitioning for zoning amendments to permit a mix of residential and commercial use, along with a mandatory inclusionary housing area designation for affordable housing. Avery Hall plans to build a 173,000-square-foot building with 250 units, [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-07-06T17:00:00+00:00",
+      "bullets": [
+        "Avery Hall filed application for 250-unit mixed-use at 1550 Bedford Ave, Crown Heights, Brooklyn (18 stories).",
+        "Site purchased out of bankruptcy for $10.1M; 75 units designated affordable; 173K SF includes retail.",
+        "Zoning amendment required; prior owner (Yoel Goldman) pursued hotel, folded during pandemic; liens exceeded $1.4M."
+      ],
+      "summary": "Avery Hall Investments has filed a New York City Department of Buildings application for a 250-unit mixed-use project at 1550 Bedford Avenue in Crown Heights, Brooklyn. The developer purchased the vacant parcel out of bankruptcy in August for $10.1 million. The 18-story, 173,000-square-foot building will include 250 residential units (75 designated affordable), ground-floor retail, and requires zoning amendments for residential/commercial mixed use. The site was previously controlled by Yoel Goldman, who attempted a luxury hotel project that stalled during the pandemic amid mechanic's liens exceeding $1.4 million.",
+      "impact": "Bankruptcy-to-development conversion in Crown Heights signals capital access for distressed Brooklyn sites and rental demand override of prior hotel strategy. Zoning flexibility (mixed-use, density bonus for affordability) indicates municipal receptivity to residential density in underutilized areas. For TCR: Crown Heights is a secondary Brooklyn submarket with improving connectivity; affordable-unit bundling improves entitlement risk. Monitor zoning approval timeline; if approved, validates multifamily-first strategy in outer Brooklyn versus hospitality."
+    },
+    {
+      "title": "Anchorage Capital Advisors Takes 21K SF at 125 West 57th Street",
+      "link": "https://commercialobserver.com/2026/07/anchorage-capital-advisors-lease-125-west-57th-street/",
+      "excerpt": "Billionaires’ Row continues to grow as a premier office destination as a new tenant seeks to move up from Lower Manhattan. Anchorage Capital Advisors, an investment firm with more than $27.8 billion in assets under management, has signed a 10-year, 20,560-square-foot lease at Alchemy-ABR Investment Partners and Cain&#8216;s 125 West 57th Street, the landlords announced Monday. The asking rent for the deal was not disclosed, but the average asking rent for office space in Midtown was $84.99 per square foot during the second quarter of 2026, according to Colliers’ latest Manhattan office report. “We are pleased to welcome Anchorage Capital to 125 West 57th Street, joining a growing roster of best-in-class tenants at the building,” Jonathan Goldstein, CEO and co-founder of Cain, and Kenneth Horn, co-founder and partner at Alchemy-ABR Investment Partners, said in a joint statement. “125 West 57th Street was developed for firms that place a premium on quality, location and the experience they can offer their people, and Anchorage’s lease is a strong reflection of the continued demand for this type of product.” Anchorage will occupy the entire 18th and 19th floors of the 30-story office tower on 57th Street between Avenue of the Americas and Seventh Avenue. It is unclear when the firm will move, but Anchorage’s current address is listed on its website as 610 Broadway. The firm did not immediately respond to Commercial Observer’s request for comment. Tim Hay, Brian Hay and Ethan Silverstein from Cushman &amp; Wakefield represented Anchorage in the deal, while JLL’s Mitch Konsker, Kristen Morgan, Christine Colley, Kate Roush and Dan Turkewitz represented the owners alongside Michael Werner and Elias Ayoub at Fried Frank. Representation on both sides of the deal declined CO’s requests for comment. 125 West 57th Street is also home to asset management firm Eldridge Industries and investment firm Jadin Capital. Ten Five Hospitality, which owns the Mother Wolf restaurants in Mi",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-06T16:12:52+00:00",
+      "bullets": [
+        "Anchorage Capital Advisors leases 20,560 SF (10-year term) at 125 West 57th Street (Billionaires' Row), Manhattan.",
+        "Investment firm with $27.8B AUM relocating from Lower Manhattan; Q2 2026 Midtown office avg rent $84.99/SF.",
+        "Alchemy-ABR and Cain landlords; positioning as premier office destination amid ongoing office market churn."
+      ],
+      "summary": "Anchorage Capital Advisors, an investment firm managing $27.8 billion in assets under management, has signed a 10-year lease for 20,560 square feet at 125 West 57th Street on Billionaires' Row in Manhattan. The firm is relocating from Lower Manhattan. The average asking rent in Midtown during Q2 2026 was $84.99 per square foot. Alchemy-ABR Investment Partners and Cain are the landlords.",
+      "impact": "Minimal multifamily relevance. Office leasing activity on Billionaires' Row reflects selective financial services demand concentration; does not signal broader office recovery or residential demand surge in Manhattan."
+    },
+    {
+      "title": "Grubb Properties Seals $377M in Financing for Financial District Resi Tower",
+      "link": "https://commercialobserver.com/2026/07/grubb-properties-maxim-fidi-greenbarn-skylight-axonic-meadow/",
+      "excerpt": "Fresh off the holiday weekend, a high-rise residential tower in Manhattan’s Financial District is officially inching closer to completion with some equally fresh funding. Grubb Properties just closed $377 million in construction financing for its 64-story property at 8 Carlisle Street, Commercial Observer has learned. In keeping with Grubb’s national multifamily brand, the property will be known as Link Apartments, and follows the development of Link Apartments QPN in Queens’ Long Island City, which completed construction last year. Maxim Capital Group provided the $300 million senior construction loan in the deal, while GreenBarn Investment Group, Skylight Real Estate Partners, Axonic Capital and Meadow Partners co-originated a $77 million mezzanine construction loan. The financing will facilitate the completion and lease-up of the building, which has been under construction for more than a year and is expected to top out in the next few weeks. The project’s total capitalization is around $500 million, sources familiar with the project said. Maxim Capital is plenty familiar with 8 Carlisle Street as its lending history with the asset dates back to May 2024. It provided a $67.5 million loan on the site at the time, gradually upsizing that loan to $193 million recently. Now, the firm is back with one of its largest construction loans. “It’s a huge loan for us, and one we’re very proud of,” Josh Greene, a managing director and partner at the firm, said, adding that originating larger loans such as 8 Carisle’s is part of a natural evolution for the firm. “We’ve grown substantially, and that growth has allowed us to grow into transactions like this.” The 8 Carlisle Street lending opportunity also ticks several boxes for Maxim. Roughly 70 percent of every dollar deployed by Maxim goes to repeat sponsors — like Grubb Properties — today, Greene said, and the property is also in a primary market with a residential component. “Grubb Properties is a repeat sponsor of ours, an",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-06T16:01:53+00:00",
+      "bullets": [
+        "Grubb Properties closes $377M construction financing for Link Apartments at 8 Carlisle Street, Manhattan Financial District (64 stories).",
+        "Maxim Capital $300M senior loan, GreenBarn/Skylight/Axonic/Meadow Partners $77M mezzanine (co-originators).",
+        "Follows Link Apartments QPN in Queens LIC (completed 2025); substantial completion Q4 2028."
+      ],
+      "summary": "Grubb Properties has closed $377 million in construction financing for Link Apartments, a 64-story residential tower at 8 Carlisle Street in Manhattan's Financial District. Maxim Capital provided the $300 million senior construction loan, while GreenBarn Investment Group, Skylight Real Estate Partners, Axonic Capital, and Meadow Partners co-originated a $77 million mezzanine loan. The project follows Grubb's earlier Link Apartments QPN delivery in Queens' Long Island City (completed 2025). Substantial completion is expected in Q4 2028.",
+      "impact": "Large-scale construction debt availability ($377M mezzanine-heavy stack) for Manhattan residential signals lender appetite and market confidence in Financial District rental demand. Grubb's multi-market Link expansion (LIC + Financial District) indicates successful rental brand and capital formation for growth. For TCR: note mezzanine co-origination trend (spread risk, speed deployment); Financial District submarkets may see density competition post-2028. Monitor office-to-residential conversion velocity in Lower Manhattan; supply-side pressure on rents possible by 2028–2029."
+    },
+    {
+      "title": "Abbott’s shift into reverse puts data center debate into overdrive",
+      "link": "https://therealdeal.com/texas/2026/07/05/texas-data-center-debate/",
+      "excerpt": "Texas’ typically pro-business governor did an about-face on data centers amid growing public sentiment against the resource-intensive developments.&#160; Less than a year ago, Gov. Greg Abbott lauded Texas as “the epicenter of AI development” when Google announced a $40 billion investment in November, the Texas Tribune reported.&#160; He changed his tune this week when he called for an outright ban on data centers in rural areas during a campaign stop in Bullard, per the outlet. The announcement built on a letter Abbott sent to the Texas Legislature in June when he called for regulating data center development in Texas. Specifically, [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-07-05T14:00:00+00:00",
+      "bullets": [
+        "Gov. Greg Abbott calls for rural data center ban in Texas; reverses pro-AI stance from Nov 2024.",
+        "Abbott June letter proposed regulation: annual reporting, incentive limits, closed-loop water systems for data centers.",
+        "San Marcos first Texas city to ban data centers; $50B+ data center construction nationally in 2026; HB 2559 restricts municipal bans."
+      ],
+      "summary": "Texas Governor Greg Abbott has shifted stance on data centers, calling for an outright ban in rural areas despite lauding Texas as the 'epicenter of AI development' less than a year ago. In June, Abbott sent a letter to the Texas Legislature proposing regulations including annual reporting, incentive limits, and closed-loop water system requirements. San Marcos became the first Texas city to attempt a data center ban. Data center construction nationwide exceeded $50 billion in 2026. State Senator Paul Bettencourt has vowed to challenge San Marcos' ban under House Bill 2559, which Abbott signed in 2025.",
+      "impact": "Data center regulatory tightening in Texas will constrain AI/cloud infrastructure growth-driven population migration assumptions for 2026–2027 multifamily demand forecasts in Austin, Dallas, and San Antonio metros. Water and power constraints (key anti-data-center rationale) suggest grid/utility capacity limits may also affect residential construction feasibility in high-growth corridors. For TCR: downside risk to tech-worker in-migration acceleration in Texas metros; underwriting should assume slower job-growth tailwinds and possible rent moderation. Monitor Austin/Dallas multifamily supply-demand rebalance as data center investment flattens."
     },
     {
       "title": "Blake Investment wins bid for $8B Tropicana Field redevelopment",
@@ -92,12 +212,12 @@
       "cat": "Development",
       "date": "2026-07-02T22:44:43+00:00",
       "bullets": [
-        "Blake Investment Partners selected for $8.1B Tropicana Field redevelopment (86-acre Historic Gas Plant District, St. Petersburg).",
-        "Related Group + Elliott Investment Management partners; $275M land purchase; 3,600 income-restricted units.",
-        "Two-decade development timeline; first building (Woodson African American Museum) prioritized."
+        "Blake Investment Partners wins $8.1B Tropicana Field redevelopment bid; includes Related Group and Elliott Investment Management.",
+        "86-acre Historic Gas Plant District in St. Petersburg, FL; 3,600 income-restricted units (for-rent and for-sale).",
+        "Blake's proposal: $275M land purchase, $8.1B development; two-decade project timeline; first building Woodson African American Museum."
       ],
-      "summary": "Blake Investment Partners, in partnership with the Related Group and Elliott Investment Management, won the bid to redevelop St. Petersburg's 86-acre Historic Gas Plant District, home to Tropicana Field. The team will acquire 58 acres for $275 million and invest $8.1 billion over a 20-year build-out, including 3,600 income-restricted housing units (for-sale and rental), plus retail, office, museums, and cultural anchors. The Related Group's involvement signals expertise in large mixed-use Florida plays.",
-      "impact": "South Florida multifamily supply and demand dynamic: This mega-redevelopment will deliver 3,600 workforce/income-restricted units over 20 years (roughly 180–200 units/year), a meaningful but slow supply addition to the Tampa Bay market. More important: the focus on income-restricted units and cultural/community amenities signals regulatory and political pressure for affordability in South Florida growth markets. Developers should expect zoning/entitlement negotiations to increasingly require 15–25% income-restricted units in Tampa Bay area deals, raising development costs and compressing returns unless captured in land pricing or density bonuses."
+      "summary": "Blake Investment Partners, led by St. Petersburg native Thompson Blake, has won the bid to redevelop St. Petersburg's Historic Gas Plant District, a high-profile 86-acre site that includes Tropicana Field. Blake's team includes the Related Group and Elliott Investment Management. The winning proposal, 'The Burg Bid,' includes purchase of 58 acres for $275 million and a total $8.1 billion development commitment. The plan includes 3,600 income-restricted housing units (both for-rent and for-sale), job creation, parks, museums, and a new home for the Woodson African American Museum. Development is expected to span approximately two decades.",
+      "impact": "Major mixed-use mega-project with $8.1B capital commitment and 3,600 units signals strong Southeast capital formation and income-restricted housing appetite in St. Petersburg. Affordable-unit-heavy program (anchored by public cultural amenities) indicates municipal/investor alignment on equitable development. For TCR: Tropicana Field redevelopment timing, phasing, and scale offer submarket supply/demand intelligence; early-stage ground-lease or land deals with Related may emerge. Monitor Tampa Bay metro wage growth and workforce housing demand as project begins; two-decade horizon suggests modular build-out with absorption risk assessment critical."
     },
     {
       "title": "Stevenson affiliate cuts unit count at proposed Glendale multifamily project",
@@ -107,12 +227,12 @@
       "cat": "Development",
       "date": "2026-07-02T22:26:43+00:00",
       "bullets": [
-        "Stevenson affiliate reduces Glendale (LA) project from 249 to 229 units; seeks 7-story height variance.",
-        "27 units designated affordable; density bonus incentive being pursued for height variance.",
-        "Glendale must deliver 13,425 new units by 2029; local market attracts office-to-res conversion activity."
+        "550 Riverdale LLC (Stevenson affiliate) downsizes proposed Glendale project from 249 to 229 units (7 stories vs. 6-story zoning).",
+        "Site at 2748 San Fernando Road; 27 affordable units; requires density-bonus entitlements to exceed zoning height.",
+        "Glendale must reach 13,425 new units by 2029 per state mandate; unit reduction suggests entitlement challenges or value engineering."
       ],
-      "summary": "A Stevenson Real Estate Services-affiliated LLC filed a revised application for a mixed-use project at 2748 San Fernando Road in Glendale, California, reducing the unit count from 249 to 229 units but seeking approval for a seven-story building (one story above zoning height limit). In exchange for density bonus incentives, 27 units will be deed-restricted affordable housing. The project reflects Glendale's aggressive state-mandated housing goal of 13,425 new units by 2029.",
-      "impact": "Los Angeles submarket signal: Glendale's housing mandate and density bonus framework are making mid-rise apartments (200–250 units, 7 stories) with 10–12% affordable units the pro forma development type. The mild unit reduction and design iterative process suggest either softening absorption/rents or tightening underwriting on construction costs. With three years remaining to hit entitlement targets, Glendale will likely see increased competitive volume; developers should model faster pre-lease timelines and lower rent velocity than other LA submarkets due to supply pipeline visibility."
+      "summary": "A developer affiliated with Glendale-based Stevenson Real Estate Services has filed revised plans to downsize a proposed multifamily project at 2748 San Fernando Road in Glendale from 249 units to 229 units. The new application calls for a seven-story, 229-unit building with 281 parking spaces across 247,000 square feet, with 27 units designated as affordable housing. The property is currently zoned for maximum six stories, requiring density-bonus entitlements. The project was initially filed in 2024.",
+      "impact": "Unit reduction (249 → 229) on Glendale site suggests entitlement delays or value-per-unit pressure offsetting density gains—indicates local regulatory friction or market softness. Glendale's RHNA obligation (13,425 units by 2029) creates ongoing zoning reform incentive and approvals pipeline. For TCR: Glendale remains supply-constrained relative to LA County/SoCA targets; but individual project value engineering signals tightening development economics in mid-tier LA markets. Monitor density-bonus program efficacy and competing projects for infill pace."
     },
     {
       "title": "LCOR lands $193M construction loan for Edgewater tower amid flurry of apartment projects",
@@ -122,12 +242,12 @@
       "cat": "Development",
       "date": "2026-07-02T22:00:00+00:00",
       "bullets": [
-        "LCOR secures $192.5M construction loan (39-story, 544-unit tower, Edgewater, Miami) at $354K per unit.",
-        "Natixis provided financing; maturity 2029; substantial completion Q4 2028.",
-        "South Florida faced 18,600 unit deliveries in 2024, outpacing absorption by ~20%; continued development despite oversupply."
+        "LCOR secures $192.5M construction loan for 544-unit tower at 1775 Biscayne Boulevard, Edgewater, Miami; $354K per unit.",
+        "39-story building; 40K+ SF amenities, 10K+ SF ground retail, 448-space garage; completion Q4 2028.",
+        "Site purchased 2022 for $49M; South Florida market oversupplied (18.6K units delivered 2024, outpacing absorption ~20%)."
       ],
-      "summary": "LCOR obtained $192.5 million in construction financing for a 39-story, 544-unit luxury apartment tower at 1775 Biscayne Boulevard in Edgewater, Miami, with a cost of $354,000 per unit. Natixis Corporate and Investment Banking led the syndicate; completion is targeted for Q4 2028. LCOR acquired the site in 2022 for $49 million and announced the project in 2023, proceeding despite South Florida's oversupply (18,600 units delivered in 2024, outpacing leasing by 20%).",
-      "impact": "South Florida multifamily supply glut persists but selective financing remains available for prime locations and experienced sponsors. Edgewater waterfront visibility and Related/LCOR pedigree attracted institutional lenders despite market oversupply. Implication: developers must compete on location (waterfront, walkability, amenity-dense submarkets) and sponsor strength; secondary/tertiary Miami locations will face financing headwinds. Supply overhang will suppress rents through 2025–2026 in non-flagship submarkets; capital should target infill Edgewater, Wynwood, Design District, or consider conversion/repositioning of distressed assets rather than greenfield class-A builds in weak-demand corridors."
+      "summary": "LCOR has secured a $192.5 million construction loan from Natixis Corporate and Investment Banking for a 544-unit luxury apartment tower at 1775 Biscayne Boulevard in Edgewater, Miami. The 39-story building includes over 40,000 square feet of amenities, over 10,000 square feet of ground-floor retail, and a 448-space garage. The construction loan amounts to $354,000 per unit and matures in 2029. LCOR acquired the site for $49 million in 2022 and announced the project the following year. Completion is expected in Q4 2028.",
+      "impact": "LCOR's $192.5M construction financing despite South Florida's documented oversupply (18.6K units delivered in 2024 vs. absorption shortfall of ~20%) signals either confident sponsor equity cushion or lender appetite for waterfront/submarket bifurcation. Edgewater location (proximity to Biscayne Boulevard, Margaret Pace Park) may justify premium thesis. For TCR: South Florida multifamily supply overhang persists; rents remain under pressure. Monitor Edgewater submarket rent trajectory closely; if rents decline despite premium positioning, broader metro rent ceiling signals cautious underwriting for 2026–2027 starts. $354K/unit loan-to-cost suggests equity injection; sponsor execution risk and lease-up speed critical."
     },
     {
       "title": "David Martin in talks to join Related, BH on Hollywood Beach Resort redevelopment",
@@ -137,132 +257,12 @@
       "cat": "Development",
       "date": "2026-07-02T21:30:00+00:00",
       "bullets": [
-        "David Martin (Terra Group) in talks to join Related Group + BH Group on Hollywood Beach Resort redevelopment.",
-        "Property: 4.5-acre oceanfront, 398-unit resort conversion; acquisition price ~$100M under contract.",
-        "Related/BH have 20+ projects together; Terra also developing with BH in West Palm Beach."
+        "David Martin (Terra Group CEO) in talks to join Related and BH Group on 4.5-acre Hollywood Beach Resort redevelopment.",
+        "Related and BH under contract for Chetrit Group's 398-unit property at 101 North Ocean Drive for ~$100M.",
+        "Terra also developing luxury condos in West Palm Beach (BH partnership, 1.6-acre site) with BH 20+ projects in South Florida."
       ],
-      "summary": "Terra Group CEO David Martin is negotiating to join the Related Group and BH Group in redeveloping the historic Hollywood Beach Resort, a 4.5-acre oceanfront property with 398 units currently owned by the Chetrit Group and under contract for approximately $100 million. BH and Related have an established track record with 20+ joint projects across South Florida and are also co-developing a luxury condo project in West Palm Beach. Terra's potential involvement signals consolidation among top-tier South Florida mixed-use developers.",
-      "impact": "South Florida: Continued consolidation of oceanfront conversion/repositioning work among Related, BH, and Terra suggests fragmented small-asset ownership is being rolled up into experienced mega-developers. This dynamic will limit land availability for smaller regional developers but signals strong capital appetite for beachfront adaptive reuse and condo/rental repositioning. Rents/sales prices on oceanfront may stabilize or grow faster than non-waterfront due to supply constraints and investor demand, creating a two-tier market in Miami/Fort Lauderdale."
-    },
-    {
-      "title": "Whirlybird dreams: Ken Griffin wants helipad for Miami Beach megayacht marina",
-      "link": "https://therealdeal.com/miami/2026/07/02/ken-griffin-seeks-helipad-for-miami-beach-megayacht-marina/",
-      "excerpt": "Billionaire Citadel founder Ken Griffin has already conquered the land and the sea in Miami Beach. His next target? The air.&#160; City commissioners approved Griffin’s massive private megayacht marina at 120 MacArthur Causeway a few months ago, but now Griffin wants to chopper in. He submitted a request for a private, waterfront helipad at his sprawling Terminal Island development, the Miami Herald reported. The proposal, sponsored by Miami Beach Commissioner Joseph Magazine, is navigating the city’s Land Use and Sustainability Committee and the Planning Board. To clear the runway for Griffin, officials would need to amend Miami Beach’s land development [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-07-02T21:00:00+00:00",
-      "bullets": [
-        "Ken Griffin (Citadel) seeking private helipad for Terminal Island megayacht marina (3.5-acre, Miami Beach).",
-        "Griffin acquired site from Related Group; adjacent to Coast Guard station; amends zoning for accessory use.",
-        "Griffin spent $169M assembling Star Island residential parcels; yacht (Defy) cost $175M in 2024."
-      ],
-      "summary": "Billionaire Ken Griffin is requesting approval for a private waterfront helipad at his Terminal Island megayacht marina development in Miami Beach, a 3.5-acre property he acquired from the Related Group. The proposal requires amending Miami Beach's land development regulations to permit private helipads as an accessory use in the industrial zoning district. Griffin has simultaneously invested $169 million assembling residential estates on Star Island nearby, but his 308-foot superyacht Defy is too large to moor at Star Island.",
-      "impact": "Minimal impact to multifamily development. This is a ultra-luxury niche amenity (private marina + helipad) reflecting Miami Beach's concentration of ultra-high-net-worth individuals and their ancillary real estate spending. No signal on residential absorption, rents, or supply dynamics; regulatory precedent for waterfront/industrial zoning variances may benefit future waterfront mixed-use developments, but this deal is luxury outlier, not market trend."
-    },
-    {
-      "title": "Houston’s office glut is fueling a demolition trend for mostly vacant properties",
-      "link": "https://therealdeal.com/texas/2026/07/02/demolition-latest-houston-trend-for-vacant-offices/",
-      "excerpt": "As the Houston office market struggles to recover at the same rate as other similar cities, sometimes just tearing the buildings down is better for everyone involved.&#160; Record low office vacancies and a need for private demolition has led to more demand than capital available for demolition work, according to Bisnow. Houston had an office vacancy rate of 26.8 percent, according to the outlet, a staggering figure attributable to old or obsolete office buildings and the pandemic ripple effect on employee hybrid schedules.&#160; Vacant or near-vacant buildings all over the city can’t be demolished due to debt and lenders that [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-07-02T21:00:00+00:00",
-      "bullets": [
-        "Houston office vacancy 26.8%; demolition demand outstrips capital/capability; old/obsolete buildings being torn down.",
-        "Pandemic hybrid work and obsolete Class B/C stock driving negative absorption; Dallas recovering faster.",
-        "Owner-occupier conversions and out-of-distress sales increasing; maintenance costs on vacant buildings exceed redevelopment ROI."
-      ],
-      "summary": "Houston's office market is experiencing a demolition wave as record vacancy (26.8%) and pandemic-driven hybrid work trends make demolition cheaper than repositioning. Old, obsolete office buildings are being torn down faster than capital can be deployed; demolition companies report demand outstripping capability. Unlike peer cities (Dallas, Austin), Houston's office market is recovering slowly, with negative annual absorption and increased out-of-distress sales and owner-occupier conversions.",
-      "impact": "Houston market signal: Office-to-residential conversion economics may be attractive if demolition is an alternative. Developers should evaluate underutilized office parks and downtown office buildings as conversion candidates, especially in neighborhoods with strong residential demand (Midtown, Heights, EaDo). However, conversion capex (mechanical/systems, code compliance, parking) often exceeds demolition + new build; opportunity lies in selective older Class B/C buildings in walkable corridors with underlying land value sufficient to justify conversion risk. Office oversupply in Houston will depress commercial rents and increase distressed asset availability through 2025–2026, creating windows for land-stack conversions or lease buyouts."
-    },
-    {
-      "title": "Inflationary Concerns Send School Shoppers Back to Discount Stores: Report",
-      "link": "https://commercialobserver.com/2026/07/inflation-school-shopping-retail-dollar-stores/",
-      "excerpt": "Parents’ back-to-school budgets are up nearly 12 percent this year, according to JLL’s 2026 Back-to-School Survey, and that’s good news for discount stores. The report, released Thursday, saw the dollar store sector enter the survey’s top 10 list of parents’ most-cited shopping destinations. The sector’s rising star comes as Americans continue to tighten belts in the face of inflation. The brokerage’s online survey collected responses from 1,022 U.S. parents with children between the ages of 5 and 18. Its release coincides with the July back-to-school shopping surge, when 27 percent of surveyed parents plan to check off their children&#8217;s classroom wish lists. Over 90 percent of parents plan to shop at physical stores this year, according to the survey, and dollar stores and mass merchants dominated their spending plans. The popularity of cheaper retailers such as Dollar Tree and Walmart are no surprise –– the report found school shopping budgets rising 11.7 percent from last year, up to an average of $489 per child. The uptick runs well ahead of the current U.S. inflation rate of around 4 percent. &#8220;Families are seeking retailers that respect their time and budgets, which explains why 68.7 percent cite saving money, and 35.1 percent prioritize finding the full school list in one place,&#8221; James Cook, JLL’s Americas director of retail research, said in a statement. The largest budget hike was found among middle-income families, who raised their spending expectations roughly 20 percent this year to $495 per child. The number of discretionary items on parents&#8217; shopping lists fell in kind for the second consecutive year, meaning fewer fidget spinners and novelty pens will be landing in shopping carts. Consumers are shopping more strategically, the report said, with stores like Dollar General and Dollar Tree gaining ground for their discounts, and mass retailers like Walmart taking the top spot for their one-stop-shop convenience. Walmart popularity r",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-02T20:21:58+00:00",
-      "bullets": [
-        "JLL back-to-school survey: parents' budgets up 11.7% to $489/child; dollar stores enter top-10 shopping destinations.",
-        "90%+ plan physical store shopping; discount retailers (Dollar Tree, Walmart) dominating amid inflation concerns.",
-        "Consumer spending shift to discount/value channels signals ongoing household budget pressure despite nominal wage growth."
-      ],
-      "summary": "JLL's 2026 Back-to-School Survey found parents' school shopping budgets rising 11.7% year-over-year to an average of $489 per child, but the spending is concentrated at discount retailers such as Dollar Tree and Walmart. Over 90% of surveyed parents plan to shop at physical stores, and dollar stores entered the survey's top 10 destinations for the first time. The shift reflects ongoing inflationary pressure on household budgets despite nominal spending increases.",
-      "impact": "Not directly relevant to multifamily development. This retail consumer behavior snapshot suggests household financial stress persists despite nominal budget growth—a macro signal that may inform apartment demand (renters prioritizing budget/value, deferring household formation) but the article provides no rent, migration, or employment data specific to multifamily markets."
-    },
-    {
-      "title": "CBRE Opens Hospitality-Inspired Office in Columbus",
-      "link": "https://www.connectcre.com/stories/cbre-opens-hospitality-inspired-office-in-columbus/",
-      "excerpt": "CBRE announced the opening of its new 19,500-square-foot office on the fifth floor at 10 W. Nationwide Blvd., a trophy office building within the Arena District owned and developed by Nationwide Realty Investors in downtown Columbus, Ohio. The firm has relocated from 200 Civic Center Drive. The new office is part of CBRE’s Workplace360 program, which showcases technology and a wide variety of collaborative spaces designed to support hybrid working. “As one of Columbus’s top trophy office buildings, 10 W. Nationwide Blvd. is an ideal home, and CBRE is proud to be its first tenant,” said CBRE’s Michael Copella, Executive Managing Director and Market Leader, Central Ohio. “The office design reflects the spirit of Columbus and its distinctive culture while highlighting the scope of CBRE’s capabilities.” New technology is installed throughout the office to support remote and in-person collaboration between employees. The office’s design reflects the unique character of Columbus, drawing inspiration from bespoke hotels and hospitality-focused experiences. The post CBRE Opens Hospitality-Inspired Office in Columbus appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-02T20:19:22+00:00",
-      "bullets": [
-        "CBRE relocates to 10 W. Nationwide Blvd., downtown Columbus; 19,500 SF, 5th floor, trophy office.",
-        "Building owned/developed by Nationwide Realty Investors; CBRE first tenant in Arena District.",
-        "Office design mimics hospitality/hotel experience; Workplace360 program supporting hybrid work."
-      ],
-      "summary": "CBRE relocated its Columbus, Ohio office to 19,500 square feet on the fifth floor of 10 W. Nationwide Boulevard, a trophy office building in the Arena District owned by Nationwide Realty Investors. The new office is the building's first tenant and features hospitality-inspired design and collaborative spaces aligned with CBRE's Workplace360 hybrid work program. The move from 200 Civic Center Drive signals confidence in downtown Columbus' office market and Arena District redevelopment.",
-      "impact": "Columbus office market: CBRE's flagship relocation to trophy downtown space is a positive signal for that submarket but offers no direct insight into multifamily demand or supply. However, the choice of Arena District signals regional corporate investment confidence in mixed-use downtown; developers should monitor upstream residential demand (student/young professional) linked to downtown office/entertainment clusters in secondary metros like Columbus."
-    },
-    {
-      "title": "JLL Arranges Sale of Lincoln Park Retail Center to Curbline Properties",
-      "link": "https://www.connectcre.com/stories/jll-arranges-sale-of-lincoln-park-retail-center-to-curbline-properties/",
-      "excerpt": "JLL has secured the sale of Clybourn Center, a 33,140-square-foot unanchored strip center strategically located in Chicago&#8217;s Lincoln Park neighborhood. JLL&#8217;s Capital Market Investment and Sales Advisory team, representing the seller, was led by Managing Director Michael Nieder and Director Brian Page. Leasing efforts at the center have been spearheaded by Steve Schwartz and his team. The buyer was Curbline Properties. Clybourn Center is strategically positioned at 2029-2073 N. Clybourn Ave., across from Foundry Park, a transformational $1 billion-plus mixed-use redevelopment project. When complete, Foundry Park will deliver approximately 3,700 residential units, 350,000 square feet of office space, 420,000 square feet of retail space, 250,000 square feet of hospitality space, and 12 acres of open space. The 91.2% occupied property features 86 surface-level parking spaces, which is a rare amenity for street-front retail in this dense urban corridor. Clybourn Center&#8217;s tenant mix is anchored by medical and wellness uses, with 38% of the gross leasable area occupied by medical tenants. The post JLL Arranges Sale of Lincoln Park Retail Center to Curbline Properties appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-02T20:01:14+00:00",
-      "bullets": [
-        "JLL sold Clybourn Center (33,140 SF, Lincoln Park, Chicago) to Curbline Properties; unanchored strip retail.",
-        "Property 91.2% occupied; 38% GLA medical/wellness tenants; 86 surface parking spaces (rare in urban density).",
-        "Positioned near Foundry Park: $1B+ mixed-use redevelopment (3,700 residential units, 350K SF office, 420K SF retail)."
-      ],
-      "summary": "JLL brokered the sale of Clybourn Center, a 33,140-square-foot unanchored retail strip in Chicago's Lincoln Park neighborhood, to Curbline Properties. The property is 91.2% occupied with a tenant mix anchored by medical and wellness uses (38% of GLA) and features 86 surface parking spaces, a rarity in dense urban corridors. It is positioned directly across from Foundry Park, a $1B+ mixed-use redevelopment expected to deliver 3,700 residential units, 350,000 SF of office, and 420,000 SF of retail.",
-      "impact": "Chicago submarket dynamic: Foundry Park's 3,700-unit residential pipeline will drive demographic influx and retail demand in Lincoln Park. Existing retail properties like Clybourn Center should see rent and occupancy upside as foot traffic and local population density increase. For multifamily developers, Foundry Park's retail/office mix signals blended-use development is viable in Chicago; the 3,700 units suggest strong absorption pipeline through 2028–2030 in the North Side. Competition for infill sites in Lincoln Park and Clybourn corridor will intensify; developers should secure land/entitlements before Foundry Park phases 1–2 stabilize."
-    },
-    {
-      "title": "MCA Realty Acquires 138K-SF Seattle-Area Industrial Portfolio",
-      "link": "https://www.connectcre.com/stories/mca-realty-acquires-138k-sf-seattle-area-industrial-portfolio/",
-      "excerpt": "MCA Realty, Inc., a real estate investment company based in California, announced the acquisition of West Valley Distribution Center, a three-building 138,296-square-foot multi-tenant industrial portfolio located in Kent, Washington. The firm acquired the property from Tamarisk West Valley LLC with its MCA Realty Industrial Growth Fund II. MCA now owns three industrial properties encompassing 268,843 square feet in the Seattle MSA. Newmark’s Andrew Briner, Aaron Banks and Kevin Shannon represented both MCA Realty and the seller in the transaction. The firm&#8217;s Taylor Hoff and Thad Mallory have been retained to oversee leasing at the property.MCA Realty will make significant exterior and interior improvements. It also plans to reconfigure the suites. “This acquisition reflects our view that the Kent Valley will remain an attractive location for industrial occupants,” said Tyler Mattox, Principal at MCA Realty. “The property’s infill location, durable tenant demand, and upside potential make it a compelling addition to our portfolio.” Hear from the West Coast’s Leading Industrial Real Estate Experts | August 20Gain firsthand insight from the executives, investors, and developers navigating today&#8217;s industrial market. From shifting capital flows and debt trends to evolving occupier demand and development strategies, take part in the conversations shaping the future of industrial real estate. Register now: www.connectindustrialwest2026.com The post MCA Realty Acquires 138K-SF Seattle-Area Industrial Portfolio appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-02T19:47:14+00:00",
-      "bullets": [
-        "MCA Realty acquired West Valley Distribution Center (138K SF, 3-building portfolio, Kent, WA) from Tamarisk West Valley LLC.",
-        "MCA now owns 269K SF across Seattle MSA; planning exterior/interior improvements and suite reconfigurations.",
-        "Kent Valley positioning as infill industrial location with durable tenant demand."
-      ],
-      "summary": "MCA Realty, a California-based investment company, acquired West Valley Distribution Center, a 138,296-square-foot three-building industrial portfolio in Kent, Washington, from Tamarisk West Valley LLC. The acquisition brings MCA's total Seattle MSA industrial holdings to 268,843 square feet across three properties. MCA plans significant capital improvements and suite reconfigurations to drive upside; the Kent Valley location is positioned as an infill option with strong tenant demand and appreciation potential.",
-      "impact": "Minimal impact to multifamily. Industrial portfolio acquisition in secondary Seattle market (Kent) reflects investor confidence in Pacific Northwest logistics demand but does not signal housing demand, supply, or rent dynamics. No relevance to apartment development feasibility or capital availability."
-    },
-    {
-      "title": "Rithm Capital Lands $515M Financing for Midtown Office Tower",
-      "link": "https://www.connectcre.com/stories/rithm-capital-lands-515m-financing-for-midtown-office-tower/",
-      "excerpt": "Cushman &amp; Wakefield and Newmark announced that their respective Equity, Debt &amp; Structured Finance teams advised Rithm Capital in securing $515 million in fixed-rate financing for 31 W. 52nd St., a 29-story, 785,000-square-foot office tower in Midtown Manhattan. The Cushman &amp; Wakefield team of Gideon Gil, Zach Kraft and Cecelia Galligan co-brokered the financing alongside Newmark’s Jordan Roeschlaub, Nick Scribani, Adam Spies, Adam Doneger, Tim Polglase, Dan Axelson and Jack Fenton. Led by Wells Fargo, the financing package consists of a $415-million senior mortgage, a $40 million B-Note and a $60-million mezzanine loan. The lending group also includes Bank of America, Barclays, Citi, Goldman Sachs and JPMorgan. The refinancing follows Rithm Capital’s acquisition of the larger Paramount Group office portfolio. &#8220;Securing financing of this scale from a consortium of leading lenders demonstrates continued confidence in well-positioned office assets in New York City&#8217;s premier business districts,&#8221; said Gil. &#8220;As capital markets continue to evolve, institutional lenders remain focused on high-quality properties backed by experienced ownership and strong long-term fundamentals.&#8221; The post Rithm Capital Lands $515M Financing for Midtown Office Tower appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-02T19:45:54+00:00",
-      "bullets": [
-        "Rithm Capital secures $515M fixed-rate refinancing for 31 W. 52nd St. (29-story, 785K SF, Midtown Manhattan office).",
-        "Senior $415M + $40M B-Note + $60M mezzanine; Wells Fargo led consortium (Bank of America, Barclays, Citi, Goldman Sachs, JPMorgan).",
-        "Rithm acquired larger Paramount Group office portfolio; refinancing follows consolidation."
-      ],
-      "summary": "Rithm Capital obtained $515 million in fixed-rate financing for 31 West 52nd Street, a 29-story, 785,000-square-foot office tower in Midtown Manhattan, comprising a $415 million senior mortgage, $40 million B-Note, and $60 million mezzanine loan. A consortium of seven major lenders (Wells Fargo, BofA, Barclays, Citi, Goldman Sachs, JPMorgan) participated. The refinancing follows Rithm Capital's acquisition of the larger Paramount Group office portfolio and demonstrates continued lender appetite for premier Manhattan office assets.",
-      "impact": "New York office market signal: Major lenders remain disciplined but active in Tier-1 trophy Manhattan office backed by strong sponsors. The $515M refinance (~$656/SF) suggests prime Midtown office is stabilizing at constructive valuations; however, this deal reflects institutional mega-sponsor activity (Rithm/Paramount), not broader market recovery. Secondary/tertiary Manhattan office remains distressed. No direct multifamily impact; however, office weakness in Manhattan may indirectly support conversion economics if underutilized Class B/C office towers in secondary locations become acquisition targets for conversion to residential, competing for capital with new apartment construction."
-    },
-    {
-      "title": "Auto Parts Distributor Signs $42M Lease in Southern California",
-      "link": "https://commercialobserver.com/2026/07/california-auto-distribution-industrial-invesco/",
-      "excerpt": "An auto parts distribution company is expanding in Southern California and has signed a lease to take over a 522,267-square-foot industrial building in the Inland Empire. The lease agreement with landlord Invesco is valued at more than $42 million, according to Daum Commercial Real Estate Services, which announced the deal Thursday and represented the tenant alongside Lara CRE. Daum said the lease represents a significant expansion of the tenant’s Southern California distribution footprint, but did not disclose the company’s name or the length of the lease. The property at 16380 Euclid Avenue is Building 3 at the Chino South Industrial Center in Chino, Calif. It was constructed in 2014 with 32-foot clear heights and dock-high loading bays. Chino’s direct industrial vacancy was at 3.24 percent in the first quarter with limited availability for large distribution space, according to Daum’s research. Daum’s Gus Andros represented the tenant along with Nathan Lara, Andrew Lara, Rudy Lara and Jack Nersesian of Lara CRE. Steve Bellitti, Tom Taylor, Joey Jones and Evelyn Manning of Colliers represented Invesco. Colliers did not immediately return a request for comment. Gregory Cornfield can be reached at gcornfield@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-02T19:25:14+00:00",
-      "bullets": [
-        "Auto parts distributor signs $42M lease for 522K SF building (Chino, CA, Inland Empire industrial).",
-        "Lease represents significant tenant expansion in Southern California distribution network; property built 2014, 32-ft clear heights.",
-        "Chino direct industrial vacancy 3.24% Q1; limited large distribution space availability."
-      ],
-      "summary": "An undisclosed auto parts distribution company signed a lease valued at over $42 million for a 522,267-square-foot industrial building (Building 3, Chino South Industrial Center) in Chino, California. The lease represents a significant expansion of the tenant's Southern California distribution footprint. The property, built in 2014 with 32-foot clear heights and dock-high loading, is in a tight Inland Empire submarket with direct industrial vacancy at just 3.24% in Q1, limiting large distribution space availability.",
-      "impact": "Inland Empire industrial supply remains tight, supporting rents and occupancy in logistics/distribution submarkets (Chino, San Bernardino, Riverside). However, no direct relevance to multifamily development. Continued industrial demand and tight vacancies in Inland Empire suggest strong regional employment and population; this may support apartment demand in communities like Ontario, Fontana, and Moreno Valley, but the article provides no housing market data to confirm absorption or rent trends."
+      "summary": "David Martin, CEO of Terra Group, is negotiating to join Related Group and BH Group in redeveloping the Hollywood Beach Resort, a 4.5-acre oceanfront property at 101 North Ocean Drive. Related and BH are under contract to acquire the 398-unit century-old resort from the Chetrit Group for approximately $100 million. Terra is also partnering with BH on a luxury condo development at 2085 North Flagler Drive in West Palm Beach. BH Group has over 20 projects with Related across South Florida.",
+      "impact": "Oceanfront resort-to-residential conversion signals capital-intensive land banking and repositioning in South Florida; Related-BH-Terra partnership density indicates coordinated South Florida multifamily/mixed-use strategy across waterfront submarkets. Terra's involvement adds condo development expertise alongside Related rental; watch for mixed-tenure product strategy. For TCR: monitor deal closure timing (vested development rights pending); Hollywood Beach submarket supply and absorption impact material to South Florida metro thesis. Waterfront infill commanding premium capital; basis compression if resort conversion timelines slip."
     }
   ]
 }
