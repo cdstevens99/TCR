@@ -1,43 +1,223 @@
 {
-  "fetchedAt": "2026-07-07T23:31:55.801051+00:00",
+  "fetchedAt": "2026-07-08T17:13:06.660103+00:00",
   "rates": [
     {
       "label": "SOFR",
-      "value": "3.63%",
+      "value": "3.62%",
       "pct": -0.01,
       "isBps": true
     },
     {
       "label": "10Y Treasury",
-      "value": "4.53%",
-      "pct": 0.98
+      "value": "4.58%",
+      "pct": 1.15
     },
     {
       "label": "30Y Treasury",
-      "value": "5.04%",
-      "pct": 1.16
+      "value": "5.07%",
+      "pct": 0.58
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "98.40",
-      "pct": 1.19
+      "value": "97.22",
+      "pct": -1.2
     }
   ],
   "stories": [
     {
-      "title": "Longpoint Partners Buys Miami-Dade Warehouses for $39M",
-      "link": "https://commercialobserver.com/2026/07/longpoint-partners-miami-medley/",
-      "excerpt": "Private equity firm Longpoint Partners has paid $38.8 million for a 121,579-square-foot industrial complex in Miami-Dade County. The property includes three warehouses, two totaling 94,500 square feet at 7200 Northwest 84th Avenue and the third spanning 27,079 square feet at 8251 Northwest 70th Street. All three are in Medley about half a mile west of the Palmetto Expressway. The sale is equal to about $319 a square foot. The small-bay warehouses are fully leased to about a dozen tenants, according to the Business Journals, which first reported the sale. The sellers, Martha and Ruben Artiles, have owned the 5.2-acre properties since the 1980s and 1990s. They could not be reached for comment. Longpoint Partners has been an active player in the South Florida industrial market. In 2023, the Boston-based firm paid $260 million for a 25-building industrial portfolio, totaling nearly 1.4 million square feet. The following year, it bought a 26-building last-mile industrial portfolio from Blackstone for $331 million. A representative for Longpoint did not immediately respond to a request for comment. Julia Echikson can be reached at jechikson@commercialobserver.com.",
+      "title": "New Houston Rental Community Rents Start at $9,480",
+      "link": "https://www.connectcre.com/stories/new-houston-rental-community-rents-start-at-9480/",
+      "excerpt": "The Langley, a 20-story residential high-rise developed by StreetLights Residential and Hunt Real Estate, has completed construction at the intersection of Houston&#8217;s historic Boulevard Oaks and Southampton neighborhoods. Located at 1717 Bissonnet Street near Rice University, The Langley features 134 luxury residences for lease. Two- and three-bedroom homes range from approximately 2,165 to 3,396 square feet, with monthly rents starting at approximately $9,480, with some rents reaching up to $20,000 a month. With just eight residences per floor, the tower departs from traditional high-rise apartment layouts in favor of a more intimate and private residential experience. The development&#8217;s signature outdoor amenities include a pool deck, cabanas, grilling areas, landscaped paseos, and a commercial-grade dual-fuel pizza oven imported and installed as a centerpiece of the outdoor entertaining experience. Connect Texas Multifamily in Dallas on August 13 brings together the owners, developers, brokers, investors, and lenders shaping the future of Texas multifamily for a day of market intelligence, networking, and actionable insights. Join 300+ decision-makers and be part of the conversations driving the Texas multifamily market. Register today:&nbsp;www.ConnectTXMF2026.com. The post New Houston Rental Community Rents Start at $9,480 appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-08T16:40:05+00:00",
+      "bullets": [
+        "StreetLights Residential and Hunt completed 134-unit luxury high-rise at 1717 Bissonnet, Houston near Rice University",
+        "Market rents $9,480–$20,000/month for 2–3 bed units (2,165–3,396 sf); only 8 units per floor",
+        "Ultra-premium positioning signals strong demand and pricing power in Boulevard Oaks/Southampton submarket"
+      ],
+      "summary": "The Langley, a 20-story luxury development by StreetLights and Hunt, delivered 134 units near Rice University in Houston's Boulevard Oaks neighborhood. Rents range from $9,480 to $20,000/month for two- and three-bedroom units, with intimate layouts (8 units/floor) and high-end amenities. The project reflects confident positioning in a high-barrier-to-entry submarket.",
+      "impact": "Ultra-luxury rents at $9,480+ in Boulevard Oaks signal sustained pricing power and demand from affluent tenants near Rice. Developers should note the receptiveness of this affluent Houston submarket to premium-priced, limited-supply product—a potential template for similar mixed-income/career-hub markets seeking to drive rent growth above metro averages."
+    },
+    {
+      "title": "Rise48 Equity Acquires N. Phoenix Rental Community",
+      "link": "https://www.connectcre.com/stories/rise48-equity-acquires-n-phoenix-rental-community/",
+      "excerpt": "Tailwind Investment Group offloaded Rise at the Northern, a 108-unit apartment community at 17840. N. Black Canyon Highway in far north Phoenix. Rise48 Equity paid $21.7 million for the multifamily venture. Rise48 Equity pre-empted the offer process and submitted a full-price offer with a non-refundable deposit on Day 1. Northmarq&#8217;s Phoenix Investment Sales (IS) team of Jesse Hudson, Chris Michl and Logan Baca arranged the sale for Tailwind. The property, formerly known as The Northern, was built in 1983. Situated on 3.62 acres within the Deer Valley submarket Rise at the Northern consists of four three-story residential buildings with a mix of one- and two-bedroom floor plans averaging 868 square feet. At the time of sale, approximately 20% of units had been renovated. Rise48 Equity plans a light value-add renovation across 100% of the units. Community amenities include a swimming pool with lounge chairs and shade structures, heated jacuzzi, outdoor dining area and ramada, fitness center, and picnic area and BBQ grills. Connect Texas Multifamily in Dallas on August 13 brings together the owners, developers, brokers, investors, and lenders shaping the future of Texas multifamily for a day of market intelligence, networking, and actionable insights. Join 300+ decision-makers and be part of the conversations driving the Texas multifamily market. Register today:&nbsp;www.ConnectTXMF2026.com. The post Rise48 Equity Acquires N. Phoenix Rental Community appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-08T16:20:24+00:00",
+      "bullets": [
+        "Rise48 Equity acquired 108-unit Rise at the Northern, 1983-built, Deer Valley Phoenix for $21.7M",
+        "Only 20% of units renovated at sale; buyer plans full light value-add across 100% of portfolio",
+        "Day-1 preemptive bid on <$200K/unit asset signals investor confidence in Phoenix value-add market"
+      ],
+      "summary": "Rise48 Equity acquired the 108-unit Rise at the Northern in Phoenix's Deer Valley submarket for $21.7 million ($201K/unit). The 41-year-old property was only 20% renovated at sale. Rise48 plans a comprehensive light value-add across all units, having preempted the formal marketing process with a full-price, non-refundable Day 1 offer.",
+      "impact": "Aggressive acquisition and immediate value-add pipeline in Deer Valley signals robust investor appetite for class-B, older Phoenix multifamily. Thin cap rates and strong demand for repositionable inventory compress pricing and entry windows for development-stage competitors; near-market delivery of 100% renovated units may create rental comp pressure in North Phoenix if absorption lags."
+    },
+    {
+      "title": "SDC Capital Partners Inks 23K-SF Lease at Savanna’s 799 Broadway",
+      "link": "https://commercialobserver.com/2026/07/sdc-capital-partners-lease-savanna-799-broadway/",
+      "excerpt": "SDC Capital Partners has signed a new office lease just south of Manhattan’s Union Square, Commercial Observer has learned. The global digital infrastructure investment firm is taking 22,531 square feet of office space at Savanna’s 799 Broadway, according to a source with knowledge of the deal. The lease seems to represent a minor relocation for SDC, which lists its current offices a block north at 817 Broadway. For its new office, the firm signed a 12-year lease on the entire 12th floor of 799 Broadway, bringing the property on the corner of East 11th Street to 100 percent occupancy, Savanna told CO. Savanna did not disclose the name of the building’s new tenant, but a source confirmed it was SDC. SDC did not immediately respond to CO’s request for comment. The asking rent for the new lease was not disclosed. The average asking rent for office space in the Union Square/Flatiron District area was $86.96 per square foot during the second quarter, according to data from Newmark. The tenant was represented by Cushman &amp; Wakefield&#8216;s Evan Algier, David Mainthow, Michael Montesi and Nick Masi. Savanna was represented by JLL&#8216;s Benjamin Bass, Mitchell Konsker and Thomas Swartz. Both C&amp;W and JLL declined to comment. &#8220;Achieving full office occupancy at 799 Broadway is a tremendous accomplishment for both Savanna and our partner, Anastacia, and a testament to the quality of the asset, its exceptional location and the strength of demand for best-in-class office space,” Brian Reiver, chief real estate officer at Savanna, said in a statement. “When we acquired the property together, we recognized the opportunity to build upon an already strong foundation and create one of Lower Manhattan&#8217;s premier office destinations.” Built in 2022, 799 Broadway is a 12-story office building with tenants including venture capital firm Lightspeed and investment firm Wellington Management. Amanda Schiavo can be reached at aschiavo@commercialobserver.com.",
       "source": "Comm. Observer",
       "cat": "Commercial",
-      "date": "2026-07-07T22:20:56+00:00",
+      "date": "2026-07-08T16:17:56+00:00",
       "bullets": [
-        "Longpoint Partners buys 121,579 SF Miami-Dade industrial complex for $38.8M ($319/SF).",
-        "Three fully leased warehouses in Medley; firm owns $591M South Florida industrial portfolio.",
-        "Reflects continued PE demand for stabilized, leased last-mile and small-bay assets in metro."
+        "SDC Capital Partners signed 22,531-sf office lease at Savanna's 799 Broadway, Union Square NYC",
+        "12-year lease on full 12th floor; property now 100% occupied; tenant relocated <1 block north",
+        "Market rents ~$87/sf; minimal movement signals strong coworking/flex demand in Union Square submarket"
       ],
-      "summary": "Longpoint Partners acquired a 5.2-acre, fully leased three-building industrial complex in Medley, Miami-Dade for $38.8 million ($319/SF). The deal reinforces the firm's aggressive South Florida industrial strategy; it has deployed $591 million in the region since 2023. The purchase signals sustained investor appetite for stabilized, income-producing industrial real estate in supply-constrained submarkets.",
-      "impact": "Limited direct bearing on multifamily development. Industrial capital concentration in South Florida does not displace multifamily financing or development; if anything, it validates the metro's fundamentals and attracts more diverse investor capital to the market overall."
+      "summary": "Digital infrastructure firm SDC Capital Partners leased 22,531 sf at 799 Broadway in Manhattan's Union Square/Flatiron district on a 12-year lease. The deal brought the property to full occupancy. SDC relocated from a building one block north, suggesting minimal tenant churn and strong locational stickiness despite market softness.",
+      "impact": "Minimal relevance to multifamily development. Office absorption in Union Square does not directly signal residential demand; however, persistent office-to-residential conversion interest in Midtown East and Manhattan at large reflects longer-term office distress that may accelerate adaptive-reuse opportunities and debt/equity availability for conversion players."
+    },
+    {
+      "title": "Feil Organization Hires Samantha Perlman to Help Lead Commercial Leasing",
+      "link": "https://commercialobserver.com/2026/07/feil-organization-hires-samantha-perlman-office-leasing/",
+      "excerpt": "The Feil Organization has hired Samantha Perlman as its new associate director of commercial leasing. Perlman, who most recently served as a senior associate at Cushman &amp; Wakefield, will help lead leasing efforts for Feil’s New York City office portfolio, which spans approximately 7.2 million square feet across about 42 properties, according to the management and development firm. “The Feil Organization has built an exceptional portfolio backed by long-term ownership, a hands-on approach and an unwavering commitment to its tenants,” Perlman said in a statement. “I’m excited to join the team and build on the firm’s success while helping deliver the personalized service and dedicated tenant relationships that have defined the Feil Organization for generations.” During her time at C&amp;W, Perlman had a hand in leasing at 18 Manhattan properties totaling 5 million square feet while managing transactions through lease execution, preparing proposals, and negotiating lease terms, according to Feil. Prior to her role at C&amp;W, Perlman graduated from the University of Michigan’s Ross School of Business and held intern roles at Jafri Capital, Tamarack Real Estate Services and Turnberry, according to her LinkedIn profile. It’s unclear when Perlman will start in her new position at Feil. “Samantha brings a thoughtful, tenant-focused approach, and her background makes her well positioned to continue the strong leasing momentum in our New York City office portfolio,” Andrew Wiener, head of commercial leasing at Feil, said in a statement. “As we continue investing in our properties and strengthening relationships with our tenants, Samantha’s expertise will be a tremendous asset to our team and our continued growth.” Perlman’s hire comes after some big leasing news at Feil’s Manhattan office buildings recently. In May, engineering firm HDR signed a deal for 74,500 square feet at the firm’s 7 Penn Plaza, while poverty-relief nonprofit Robin Hood took 53,000 square feet at Fei",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-08T16:15:30+00:00",
+      "bullets": [
+        "Feil Organization hired Samantha Perlman as Associate Director of Commercial Leasing from Cushman & Wakefield",
+        "Feil portfolio spans 7.2M sf across ~42 Manhattan office properties; C&W leasing experience covers 5M sf/18 properties",
+        "Talent consolidation reinforces scale and hands-on management model among largest NYC office holders"
+      ],
+      "summary": "The Feil Organization hired Samantha Perlman as Associate Director of Commercial Leasing to manage the company's 7.2 million-sf office portfolio across ~42 Manhattan properties. Perlman previously handled 5 million sf of leasing at Cushman & Wakefield. The move reflects Feil's strategy to centralize leasing talent and strengthen tenant relationships across a vast holdings base.",
+      "impact": "Minimal direct relevance to multifamily development. Illustrates consolidation and operational sophistication among Manhattan's largest office holders—potential upstream indicator of asset quality and proactive management that may translate to conversion-readiness if/when markets favor office-to-residential transitions."
+    },
+    {
+      "title": "Livmark Lands $115.5M Construction Loan for Ft. Collins Apartments",
+      "link": "https://www.connectcre.com/stories/livmark-lands-115-5m-construction-loan-for-ft-collins-apartments/",
+      "excerpt": "Livmark Properties obtained a $115.5 million construction loan for Collins at Union Park, a 457-unit luxury multifamily community in Fort Collins, Colorado. The debt, arranged by Concord Summit Capital, was structured on a non-recourse basis with an 88% loan-to-cost ratio. Collins at Union Park is a thoughtfully designed residential development featuring upscale apartments and carriage homes. Planned amenities include a clubhouse, pool, golf simulator, playground, parks, trails, and gathering spaces. The project is situated within walking distance of Front Range Village Shopping Center. Site work is underway, and vertical construction is expected to start&nbsp;immediately&nbsp;at the project site&nbsp;located&nbsp;on Un Pk Ave in Fort Collins, CO 80525. The financing was arranged by Concord Summit Capital’s Daniel J. Eidson, Keegan Burger and Ben Applebaum on behalf of Livmark. &#8220;We successfully structured one loan facility to combine two phases into a single development, while negotiating a meaningful rate stepdown upon completion,&#8221; said Concord’s Eidson. The post Livmark Lands $115.5M Construction Loan for Ft. Collins Apartments appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-08T15:58:01+00:00",
+      "bullets": [
+        "Livmark Properties secured $115.5M construction loan at 88% LTC for Collins at Union Park, Fort Collins (457 units)",
+        "Non-recourse structured debt with rate stepdown on completion; vertical construction imminent on 457-unit luxury community",
+        "Colorado multifamily financing availability and strong LTC at scale demonstrates lender comfort in Denver-area frontrange markets"
+      ],
+      "summary": "Livmark Properties obtained $115.5 million in non-recourse construction financing from Concord Summit Capital for Collins at Union Park, a 457-unit luxury community in Fort Collins, Colorado. The loan carried an 88% LTC and included a meaningful rate stepdown upon project completion. Vertical construction is beginning immediately.",
+      "impact": "Colorado multifamily lending at 88% LTC and non-recourse terms signals lender confidence in Fort Collins' demand tailwinds and capture of Denver-area population migration. Developers considering Front Range entry should note robust debt availability; however, rising supply (visible in major starts like this) may compress rent growth and cap rates within 24–36 months if demand growth stalls."
+    },
+    {
+      "title": "S3 Capital Lends $111M for Miami Resi Tower",
+      "link": "https://commercialobserver.com/2026/07/s3-capital-miami-apartments/",
+      "excerpt": "Argentine developer HA Emprendimientos has sealed $111 million of construction financing to build a luxury multifamily tower in Miami, Commercial Observer has learned. S3 Capital provided the loan for the 36-story Sense 22 project in Miami’s Edgewater neighborhood. Gonzalo Espinosa, chief financial officer at HA Emprendimientos, acquired the development site for Sense 22 at 114-138 NE 22nd Street for $8 million in December 2023 from Cain. JLL’s Max La Cava negotiated the debt. &#8220;We like the Edgewater market because of its premier location,” Steven Jemal, managing director of Origination at S3 Capital, said in a statement. “It&#8217;s close enough to Biscayne Boulevard, Wynwood and the Design District to stay connected to Miami&#8217;s core, without asking residents to live in the middle of downtown.” Jemal added that “recent absorption trends” for the multifamily sector in Miami and tax advantages under Florida’s Live Local Act “made Sense 22 a compelling opportunity” for S3. Located about two miles north of Downtown Miami, Sense 22 will feature 328 apartments ranging from studios to three-bedroom units, along with 372 parking spaces. Community amenities will include a swimming pool, a rooftop terrace with outdoor grilling areas, a spa, a fitness center and coworking spaces. “We identified Edgewater as a neighborhood with tremendous growth potential and proven financial performance,” Ignacio Aldazabal, CEO of HA Emprendimientos, said in a statement. The project spans approximately 262,000 net rentable square feet, with an average unit size of 799 square feet. South Florida-based Grycon is serving as general contractor for the Sense 22 development, which is slated for completion in late 2028 “Seeing the project take shape is a fulfilment of the developers’ vision for the future of Miami’s quickly evolving skyline,” La Cava, managing director at JLL, said in a statement. “Sense 22 is setting a new standard for urban living and cementing Edgewater as one of Miami’",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-08T15:53:43+00:00",
+      "bullets": [
+        "S3 Capital provided $111M construction loan for 36-story Sense 22 (328 units) in Miami Edgewater",
+        "Land acquired December 2023 for $8M; project targets Edgewater's proximity to Biscayne Boulevard, Wynwood, Design District",
+        "Lender cited 'recent absorption trends' and Live Local Act tax benefits as deal drivers in Miami multifamily"
+      ],
+      "summary": "S3 Capital closed $111 million in construction financing for Sense 22, a 36-story luxury multifamily tower with 328 units in Miami's Edgewater neighborhood. Developer HA Emprendimientos acquired the land in December 2023 for $8 million. The lender highlighted Miami's strong multifamily absorption and Florida's Live Local Act tax incentives as key underwriting drivers.",
+      "impact": "Miami Edgewater is attracting capital on strength of absorption momentum and tax incentives under Live Local. Strong financing availability and lender appetite for Edgewater (now a secondary location vs. downtown/Brickell) signals developer confidence in rental demand spillover from downtown saturation. Expect accelerating competitive supply deliveries; developers must secure entitlements and financing early to avoid cap-rate compression downstream."
+    },
+    {
+      "title": "Texas Southern Debuts $1.7B Campus Master Plan",
+      "link": "https://www.connectcre.com/stories/texas-southern-debuts-1-7b-campus-master-plan/",
+      "excerpt": "Texas Southern University in Houston has launched a Campus Master Plan that establishes a framework for future campus development. The plan outlines an approximately $1.7 billion campus investment and more than 20 phased projects over the next decade. It aligns future capital investments with the University&#8217;s strategic priorities. The Master Plan identifies a series of intersecting phased capital projects that support student success, workforce preparation, research expansion, and community engagement. Future priorities include student-centered facilities, academic and research infrastructure, residential and recreational amenities, and spaces that strengthen connections between the University and the broader community. Several major projects are already advancing. Construction on three new academic and research facilities &#8211; the interconnected Catalyst for Urban Transformation, the Nabrit Science Center, and the Health and Wellness Center, is expected to begin later this year. Supported by more than $95 million in state funding, all three facilities are expected to open during the University&#8217;s Centennial year. The post Texas Southern Debuts $1.7B Campus Master Plan appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-08T15:46:19+00:00",
+      "bullets": [
+        "Texas Southern University announced $1.7B Campus Master Plan over 10 years; 20+ phased projects in Houston",
+        "Three major facilities (Catalyst for Urban Transformation, Nabrit Science Center, Health & Wellness) starting later 2024",
+        "$95M state funding committed; facilities expected to open during University's Centennial year"
+      ],
+      "summary": "Texas Southern University launched a $1.7 billion Campus Master Plan featuring 20+ phased projects over the next decade in Houston. Construction on three interconnected flagship facilities—Catalyst for Urban Transformation, Nabrit Science Center, and Health & Wellness Center—is slated to begin later in 2024 with $95 million in state funding and completion during the university's centennial year.",
+      "impact": "Major institutional investment and construction activity at TSU (Third Ward/Midtown Houston) will drive local job creation, student/faculty population retention, and ancillary demand for student and workforce housing. Developers should scout nearby residential land and partner opportunities; TSU's commitment signals confidence in the Third Ward's long-term trajectory and may catalyze broader neighborhood investment and rent growth in adjacent submarkets."
+    },
+    {
+      "title": "Pfizer Building Collapse Stabilized as Metro Loft, David Werner Assess Damage",
+      "link": "https://commercialobserver.com/2026/07/office-resi-conversion-structural-collapse-pfizer-metro-loft/",
+      "excerpt": "Workers managed to stabilize the former Pfizer headquarters building at 235 East 42nd Street and 219 East 42nd Street overnight after columns buckled under the weight of added floors early Tuesday. The near-disaster put the surrounding blocks of Midtown East on high alert as city authorities evacuated the area and suspended activity in neighboring buildings. Metro Loft’s Nathan Berman has since described the event as a “freak accident.” What the crisis means in the long run for Metro Loft and its development partner David Werner — or for the future of office-to-residential conversions in general — is unclear. But the high-profile nature of the development itself, as the largest ongoing office-to-residential conversion in the U.S. with the addition of 11 new stories, takes the implications beyond just liability and insurance. “This is a freak accident that something occurred with these two specific columns that either were not reinforced or were not reinforced sufficiently, and they gave way,” Berman told The Real Deal Tuesday evening. “It’s very simple. You add more load to something that can’t support it, it’ll give way, and that’s what happened, and now it just needs to be fixed.” But in the past, the building was no stranger to incidents and violations. There were previous complaints filed with the New York City Department of Buildings (DOB) that a worker fell six feet off a ladder, a metal panel fell from the 33rd floor to the street level below, and unapproved excavations took place in the cellar, according to reports. Possibly the most alarming complaint filed with the DOB came from October 2025. “Unlicensed workers and unsafe conditions,” the complaint said. “Today a large item fell and broke through five floors and almost hit someone. There are gas machines without proper ventilation. These are hazardous conditions for the workers. The wielders are unlicensed, there aren&#8217;t any spotters, and the sparks hit workers because they don&#8217;t use a safety b",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-08T15:40:17+00:00",
+      "bullets": [
+        "Columns buckled at 235 East 42nd Street (former Pfizer HQ) during night stabilization; MetroLoft/David Werner conversion adding 11 floors",
+        "Near-collapse forced street evacuations; largest office-to-residential conversion in U.S. with structural safety now in public eye",
+        "Incident raises regulatory scrutiny and insurance/liability implications for similar high-profile conversion projects nationwide"
+      ],
+      "summary": "Columns buckled overnight at the former Pfizer headquarters (235 East 42nd Street) during stabilization work. MetroLoft's Nathan Berman downplayed the incident as a \"freak accident,\" attributing it to insufficient reinforcement under added construction loads. The event forced evacuations and street closures in Midtown East and thrust the nation's largest ongoing office-to-residential conversion into a high-profile safety crisis.",
+      "impact": "Structural failure at Metro Loft's flagship 1,500+ unit conversion—the largest in the U.S.—will accelerate regulatory scrutiny and increase insurance/liability costs for office-to-residential conversions across major markets. NYC DOB may impose stricter load-path and structural reinforcement requirements, raising hard costs and extending timelines for conversion entitlements and financing approvals. Lenders may demand enhanced structural reviews, depressing capital availability and conversion deal flow in the near term."
+    },
+    {
+      "title": "S2 Acquires 589K-SF FW Industrial Campus",
+      "link": "https://www.connectcre.com/stories/s2-acquires-589k-sf-fw-industrial-campus/",
+      "excerpt": "Lonpoint Realty Partners sold Point 820, a 589,022-square-foot campus in Fort Worth, Texas, to S2 Industrial. S2 will rebrand it as Panther City Industrial Park. Panther City Industrial Park comprises 31 buildings developed between 1966 and 1968 across a 34-acre site. The campus is at 5721 E. Rosedale St., just off Interstate 820, also providing easy access to state routes 303 and 180, as well as interstates 20, 30 and 35. Commercial Search reports that, because the previous ownership has recently renovated the building’s common areas and exterior facades, the new owner&nbsp;plans to invest in upgrading suite interiors. S2 Industrial’s property management arm, Fort Management, will handle day-to-day operations at the property. Dallas-Fort Worth has registered more than $2.3 billion in industrial investment sales year-to-date through May, according to a recent&nbsp;Yardi Matrix report, ranking first in the U.S. Connect Industrial West | August 20&nbsp;| Irvine, CAOn August 20,&nbsp;Connect Industrial West&nbsp;will bring together the owners, investors, developers, brokers, lenders, and occupiers driving industrial real estate across the Western U.S. Join top decision-makers for an afternoon of market insights, dealmaking opportunities, and networking with the industry&#8217;s most influential players. &nbsp;Register now:&nbsp;www.connectindustrialwest2026.com The post S2 Acquires 589K-SF FW Industrial Campus appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-08T15:32:45+00:00",
+      "bullets": [
+        "S2 Industrial acquired Point 820 (589,022 sf, 31 buildings) in Fort Worth from Lonpoint Realty Partners",
+        "Campus rebranded as Panther City Industrial Park; built 1966–1968; off I-820 with easy access to major interstates/state routes",
+        "DFW industrial sales exceeded $2.3B YTD through May 2024; new owner planning suite interior upgrades"
+      ],
+      "summary": "S2 Industrial acquired Point 820, a 589,022-sf industrial campus comprising 31 buildings developed between 1966 and 1968, from Lonpoint Realty Partners in Fort Worth. S2 rebranded it as Panther City Industrial Park and plans interior suite upgrades. The property sits on 34 acres off I-820 with direct access to major transportation corridors.",
+      "impact": "Minimal direct relevance to multifamily development. However, strong industrial investment activity in DFW ($2.3B YTD through May) and logistics/distribution employment growth support population and wage growth in Fort Worth, bolstering downstream multifamily demand and rent stability, particularly in logistics-adjacent submarkets."
+    },
+    {
+      "title": "Uptown Theatre owner seeks $200M overhaul with bigger city subsidy",
+      "link": "https://therealdeal.com/chicago/2026/07/08/scuffle-brewing-over-funding-for-uptown-theater/",
+      "excerpt": "How much money is enough to renovate a classic Chicago landmark? The developers aiming to revamp the long-shuttered Uptown Theatre at 4816 North Broadway and the city of Chicago are about to find out.&#160; Uptown Theatre owner Jerry Mickelson said that a full renovation would come with a $200 million price tag, and the majority of that funding would have to be public, according to Block Club Chicago. He went on to cite a downtown office building on LaSalle Street that received $98 million from the city in tax increment financing, while he’s been offered around half of that figure.&#160; [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-07-08T15:30:00+00:00",
+      "bullets": [
+        "Chicago Uptown Theatre owner Jerry Mickelson seeks $200M renovation; requesting TIF subsidy >50% of total cost",
+        "Previous $79M 2018 deal collapsed when partner Farpoint Development exited in 2021; COVID cited as factor",
+        "TIF guidance caps assistance at 30%; Mickelson claims 35% insufficient; comparable Congress Theater project used 31% TIF"
+      ],
+      "summary": "Uptown Theatre owner Jerry Mickelson is seeking a $200 million renovation with majority public funding via TIF (Tax Increment Financing). His 2024 application requests assistance well above the city's 30% TIF guidance; a prior $79 million deal collapsed in 2021 when partner Farpoint Development exited, citing pandemic conditions. Comparable Congress Theater used 31% TIF support.",
+      "impact": "Stalled landmark conversion tied to financing gap signals broader challenge for adaptive-reuse and historic preservation projects in secondary/tertiary markets: modest private equity appetite and tight TIF/PILOT availability limit feasibility studies and kill deals early. Developers eyeing similar cultural/entertainment conversions should expect long entitlement timelines, political friction, and limited public subsidy—raising equity requirements and depressing project returns."
+    },
+    {
+      "title": "Rockpoint and Urby Form JV to Develop Luxury Resi Tower on the Jersey City Waterfront",
+      "link": "https://commercialobserver.com/2026/07/rockpoint-urby-jersey-city/",
+      "excerpt": "A new, ultra-luxury residential tower with views of the Manhattan skyline is getting ready to rise across the Hudson River. Rockpoint and Urby have formed a joint venture to acquire the land at 201 Hudson Street on the Jersey City waterfront and develop phase two of a three-tower multifamily development on the coveted site, Commercial Observer has learned. Once completed, the new building, 201 Hudson — by Urby, will feature 748 market-rate apartments, 10,000 square feet of retail and 102 parking spots. Designed with commuters to Manhattan and other parts of New Jersey in mind as residents, the new tower will feature top-tier amenities and is expected to take three years to complete. Newmark’s Adam Spies, Adam Doneger and Michael Collins advised both Urby and Rockpoint on the transaction and, along with a Newmark team of Jordy Roeschlaub and Chris Kramer, are currently in the market with the construction financing mandate, seeking $267 million for the project, sources familiar with the offering memorandum told Commercial Observer. Brookfield is the seller of the site, and the partnership between the buyers has been years in the making. Boston-based Rockpoint made a preferred equity investment in Roseland Residential Trust, the multifamily subsidiary of Mack-Cali Realty Corporation — now Veris Residential — in 2018, and got to know the Urby team tangentially through that investment. When Urby developed the first tower, Jersey City Urby — now known as Sable — with Roseland and Ironstate Development, Rockpoint had a firsthand view. “We had a front-row seat watching that tower’s construction, which was really transformational for that submarket at the time,” Dan Domb, a managing member and chief operating officer of Rockpoint, said. Rockpoint exited that investment in 2023. At the time, the development was structured as having two phases, and Newmark’s Spies and Doneger suggested that Rockpoint consider working with Urby on the next tower. “It took a while to come togeth",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-08T15:23:42+00:00",
+      "bullets": [
+        "Rockpoint and Urby JV to develop 201 Hudson Street, Jersey City waterfront; phase 2 of 3-tower project",
+        "Planned: 748 market-rate apartments, 10,000 sf retail, 102 parking; 3-year construction window; seeking $267M construction financing",
+        "Manhattan skyline views and NJ Transit access position project as high-demand commuter/remote-work residential"
+      ],
+      "summary": "Rockpoint and Urby formed a joint venture to acquire and develop 201 Hudson Street on the Jersey City waterfront as phase two of a three-tower residential complex. The new tower will deliver 748 market-rate apartments, 10,000 sf of retail, and 102 parking spaces over three years. The partnership is currently marketing $267 million in construction financing through Newmark.",
+      "impact": "Waterfront Jersey City multifamily continues to attract top-tier capital and JV sponsors, signaling sustained demand from Manhattan-commuting and remote workers seeking lower costs and lifestyle amenities. Strong construction financing appetite ($267M mandate) suggests healthy lender appetite for well-located NJ residential; however, rising supply in Jersey City waterfront (Urby 2 plus competing deliveries) may compress rent growth—developers should focus on distinctive amenity/design positioning and early lease-up momentum."
+    },
+    {
+      "title": "“People come here to make babies”: Mapping development in Hallandale Beach",
+      "link": "https://therealdeal.com/miami/2026/07/08/hallandale-beach-attracts-wave-of-new-development/",
+      "excerpt": "Hallandale Beach is emerging as the next Broward County development target with a surge of projects entering the city’s pipeline. Projects underway include residential towers, a branded hotel and an office development.&#160; Hallandale&#8217;s appeal is twofold: Rising prices in Miami-Dade and Palm Beach counties are pushing buyers into Broward, and the city&#8217;s location between Miami and Fort Lauderdale makes it an attractive base, said Scott Patterson, who leads the Scott Patterson Group and specializes in luxury and waterfront real estate throughout Hallandale Beach and South Florida. “People come here to make babies; they don’t [just] come here to vacation anymore,” [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-07-08T13:00:00+00:00",
+      "bullets": [
+        "Hallandale Beach emerging as Broward County development hub: rising Miami-Dade/Palm Beach prices pushing buyers into Hallandale",
+        "Kadima Developers' Seven Park: $70M, 121 condos, starting at $375K ($750/sf average) targets priced-out luxury buyers",
+        "Eight-story mixed-use with 300K sf amenities signals suburban shift and value-driven buyer migration between Miami/Fort Lauderdale"
+      ],
+      "summary": "Hallandale Beach is emerging as a high-growth development node between Miami and Fort Lauderdale, driven by price migration from Miami-Dade and Palm Beach counties. Kadima Developers' Seven Park ($70M, 8-story mixed-use) features 121 condos starting at $375K ($750/sf average), targeting buyers priced out of newer luxury but wary of aging stock. Projects underway include additional residential towers, hotel, and office.",
+      "impact": "Hallandale's position as an affordability valve between Miami and Fort Lauderdale signals structural demand tailwinds for multifamily and for-sale product. Developers should monitor absorption rates and rent/price stickiness; rapid supply additions could compress achievable yields if job and population migration into Broward slows. Early-stage entitlements and land acquisition in Hallandale's secondary corridors may offer value before cap rates compress."
+    },
+    {
+      "title": "“Freak accident”: Pfizer building developer denies risk of collapse",
+      "link": "https://therealdeal.com/new-york/2026/07/07/freak-accident-pfizer-building-developer-denies-risk-of-collapse/",
+      "excerpt": "The developer behind the conversion of the former Pfizer headquarters in Midtown is speaking out to quell concerns after the massive development site was the subject of an emergency response early Tuesday. Hours after city officials warned of an “extremely dangerous situation” at the in-progress conversion of the former office property, Nathan Berman of MetroLoft said in an interview with The Real Deal that reports of the building’s impending collapse have been “blown a little bit out of proportion,” adding that despite videos of sagging upper floors and buckled support columns, the building “was never at risk of collapse” and [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-07-08T00:52:45+00:00",
+      "bullets": [
+        "MetroLoft Nathan Berman denies collapse risk at 235 East 42nd Street (former Pfizer HQ) despite buckled columns, sagging floors",
+        "Berman claims issue was added construction weight on two specific under-reinforced columns; disputes insufficient steel design allegations",
+        "Developer maintains building 'never at risk of collapse' and issues are 'fixable'; project aims to exceed 1,320-unit 25 Water Street record"
+      ],
+      "summary": "MetroLoft's Nathan Berman publicly responded to structural concerns at the former Pfizer headquarters conversion (235 East 42nd Street), attributing the incident to added construction weight exceeding the capacity of two specific columns. Berman disputed claims of inadequate steel reinforcement and maintained the building was never at risk of collapse. If completed, the project would be the largest office-to-residential conversion in U.S. history, surpassing his prior 25 Water Street (1,320 units).",
+      "impact": "Public reassurance from a prominent conversion developer does little to mitigate regulatory, insurance, and market-perception damage from a high-profile structural failure at the nation's most visible office-to-residential conversion. Lenders and insurers will demand independent third-party reviews and enhanced structural remediation plans across all active conversion pipelines, raising hard costs 5–15% and compressing conversion deal flow until confidence is restored. Conversion cap rates will widen in the near term."
     },
     {
       "title": "Related Group’s Hollywood Live Local project draws suit from residents, nonprofit",
@@ -47,12 +227,12 @@
       "cat": "Development",
       "date": "2026-07-07T22:15:00+00:00",
       "bullets": [
-        "Related Group's Hollywood Live Local project (84 workforce units, 117 market-rate) faces lawsuit from residents.",
-        "Plaintiffs claim deed restriction and city charter bar 50+ year lease without voter referendum; case in Broward Circuit.",
-        "Live Local Act exemption from rezoning may not shield from ballot/deed restrictions in Florida."
+        "Keep Public Lands Public and resident Kathleen DiBona sued City of Hollywood and Related Group affiliate over 1301 South Ocean Boulevard project",
+        "Related holds 99-year lease on 4-acre beachfront; Live Local Act allowed bypass of rezoning; project includes 201 residences (84 workforce units)",
+        "Lawsuit challenges deed restriction and city charter, requiring voter approval for 50+ year park/recreational property leases east of Intracoastal"
       ],
-      "summary": "Related Group's 201-unit mixed-use project at 1301 South Ocean Boulevard in Hollywood, approved under Florida's developer-friendly Live Local Act in May, is now under legal challenge by residents and a newly formed nonprofit. The lawsuit alleges violation of a deed restriction on the public beachfront site and claims city charter requires a voter referendum for leases of park/recreational land exceeding 50 years. Related obtained Live Local Act exemption from rezoning in exchange for 84 workforce units at 120% AMI.",
-      "impact": "Live Local Act approvals in South Florida may face extended litigation delays and unexpected legal costs, even post-rezoning. Developers betting on Live Local streamlining should model contingency for 12–24 month legal challenges and cost escalation. Hollywood market timing risk is now material for Related and competitors."
+      "summary": "Residents and newly formed nonprofit Keep Public Lands Public sued the City of Hollywood and a Related Group affiliate over the planned Live Local Act project at 1301 South Ocean Boulevard. The 4-acre beachfront property is subject to deed restrictions and city charter rules that nominally require voter approval for 50+ year leases of public recreational land. Related negotiated a 99-year lease and planned development of 201 residences (84 workforce units) and a community center via the streamlined Live Local process.",
+      "impact": "Live Local Act litigation in Hollywood signals political/legal backlash to developer-friendly regulatory streamlining when applied to publicly held or deed-restricted waterfront land. Developers pursuing Live Local projects on public or quasi-public sites should conduct early legal due diligence on deed restrictions, charter provisions, and community opposition risk; legal/entitlement timelines may extend significantly, raising carry costs and deal risk. This may slow Live Local adoption in South Florida and similar markets."
     },
     {
       "title": "Nahla’s $1B Raleigh Miami Beach expansion proposal secures blessing from board despite height concerns",
@@ -62,12 +242,12 @@
       "cat": "Development",
       "date": "2026-07-07T21:10:04+00:00",
       "bullets": [
-        "Nahla Capital secures board approval to boost Raleigh Miami Beach FAR from 2.0 to 2.5 (+66,000 SF).",
-        "Project now ~332,000 SF; 52 condos, <80 hotel rooms; $1B total investment, on 3-acre oceanfront site.",
-        "Redevelopment timeline extended; fifth ownership change in 15 years; final city approvals still pending."
+        "Nahla Capital secured 5–1 planning board vote recommending approval for Raleigh Miami Beach expansion (Rosewood-branded hotel/condo)",
+        "Project to increase FAR from 2.0 to 2.5, adding 66,000 sf via 2 residential floors; total project size ~332,000 sf ($1B investment plan)",
+        "Nahla is 5th owner in 15 years; hotel closed since 2017; acquisition price $270M for 3-acre oceanfront assemblage (Oct 2023)"
       ],
-      "summary": "Nahla Capital won Miami Beach Planning Board approval (5–1 vote) to amend the Raleigh Miami Beach comprehensive plan and zoning, raising the floor-area ratio from 2.0 to 2.5. The move adds two floors and 66,000 SF to the luxury Rosewood-branded condo-hotel on a 3-acre Collins Avenue oceanfront site acquired by Nahla in October 2022 for $270 million. The $1B project will deliver 52 residential units and fewer than 80 hotel rooms; full city sign-off remains outstanding.",
-      "impact": "Nahla's FAR relief signals Miami Beach's willingness to densify premium oceanfront product and supports condo-hotel hybrid models. The project's fifth ownership in 15 years underscores prior underwriting or entitlement risks; accelerated approvals by Nahla reduce carry cost risk for future oceanfront assemblies but set precedent for density negotiation."
+      "summary": "Nahla Capital secured a 5–1 planning board vote recommending approval of comprehensive plan amendments to increase the floor area ratio from 2.0 to 2.5 for the Raleigh Miami Beach project. The expansion adds ~66,000 sf via two additional residential floors. Nahla acquired the 3-acre oceanfront assemblage for $270 million in October 2023. Total project investment is projected at ~$1 billion.",
+      "impact": "Successful planning approval and Nahla's large-scale capital commitment ($1B+) signal strong institutional appetite for luxury hotel/condo mixed-use on Miami Beach. However, Raleigh's history (5 owners in 15 years, closed since 2017) reflects long-cycle entitlements and capital intensity for ultra-luxury hospitality-residential hybrids. Developers should note that even well-capitalized sponsors face execution and absorption risk in luxury hotel/condo products; focus on early/strong leasing commitments and diversified revenue streams to de-risk long hold periods."
     },
     {
       "title": "Meet the developers behind the Pfizer building conversion",
@@ -75,194 +255,7 @@
       "excerpt": "New York City turned its eyes towards the former Pfizer building in Midtown East Tuesday morning, but not for the reason the developers would’ve hoped. Reports emerged before 8 a.m. of debris falling from the construction site at 235 East 42nd Street, arguably the country’s most notable office-to-residential conversion post-pandemic to unfold. As of midday, concerns about the safety of the building remain as columns within the building buckle, forcing evacuations and street closures in and around the property. It’s not the first notable incident at the project, which commanded real estate’s attention long before pedestrians were forced to steer [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
       "source": "TRD Development",
       "cat": "Development",
-      "date": "2026-07-07T21:05:51+00:00",
-      "bullets": [
-        "Pfizer building office-to-residential conversion (235 East 42nd Street, Midtown East) halted due to construction safety.",
-        "Structural columns buckling; debris fallen; Metro Loft's Nathan Berman and co-developer David Werner overseeing project.",
-        "Would surpass 25 Water Street's 1,320 units as largest U.S. residential conversion if completed."
-      ],
-      "summary": "The Pfizer headquarters conversion at 235 East 42nd Street in Midtown East was forced to suspend work after structural columns buckled and debris fell, triggering street closures. The project, led by Metro Loft Management's Nathan Berman and David Werner, faced safety inspections; the scale (would exceed 1,320 units when complete) and historic structure amplify reputational and financial risk. Berman has faced prior recapitalization challenges at other conversion projects.",
-      "impact": "Conversion projects in Midtown East now face heightened scrutiny and likely extended permitting timelines; lenders may tighten diligence on historic/structural conversion deals. The Pfizer incident reinforces execution risk premium on large-scale office conversions in constrained downtown submarkets; developers with unproven conversion track records will face capital cost pressure."
-    },
-    {
-      "title": "Chase Bank Branch Garners Manhattan’s Sixth-Highest Price Per Square Foot Since 2023",
-      "link": "https://www.connectcre.com/stories/chase-bank-branch-garners-manhattans-sixth-highest-price-per-square-foot-since-2023/",
-      "excerpt": "Net lease real estate advisory and investment platform SURMOUNT has completed a $13-million sale of a Chase Bank branch located at 1295 Madison Ave. in the Carnegie Hill neighborhood. The firm represented both buyer and seller. The 3,000-square-foot ground-floor bank branch traded at a 4.74% cap rate, or $4,300 per square foot. The sale price per square foot ranks as the sixth highest achieved for a retail sale in Manhattan since 2023, a list that includes tenants such as Prada and Van Cleef &amp; Arpels, according to SURMOUNT. The sale marks the latest chapter in a continued relationship between SURMOUNT and Patriot Real Estate Holdings, for whom the firm served as advisor on both the original acquisition in 2024 and its subsequent disposition. “Closing the sixth highest retail price per square foot in Manhattan since 2023 on a sub-3,000-square-foot bank branch speaks to the trophy nature of this asset and the depth of our buyer network,” said Anthony Bird, VP, investments at SURMOUNT. The post Chase Bank Branch Garners Manhattan&#8217;s Sixth-Highest Price Per Square Foot Since 2023 appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-07T21:01:48+00:00",
-      "bullets": [
-        "Chase Bank branch at 1295 Madison Ave, Carnegie Hill sells for $13M ($4,300/SF) at 4.74% cap rate.",
-        "Sixth-highest retail price per SF in Manhattan since 2023; trophy ground-floor retail asset in prime neighborhood.",
-        "Market signals continued trophy-asset price resilience despite broader retail headwinds."
-      ],
-      "summary": "SURMOUNT closed the sale of a 3,000-SF Chase Bank branch at 1295 Madison Avenue in Carnegie Hill for $13 million, or $4,300/SF, at a 4.74% cap rate. The transaction ranks sixth-highest for retail per-square-foot pricing in Manhattan since 2023, on par with luxury flagship tenants like Prada and Van Cleef & Arpels.",
-      "impact": "Minimal multifamily impact. Trophy retail pricing in Manhattan's best neighborhoods underscores flight-to-quality and institutional land scarcity; it does not signal ground-floor retail fundamentals for mixed-use or new multifamily product. Confirms that brand-name ground-floor anchors command premium valuations independent of broader retail disruption."
-    },
-    {
-      "title": "Marcus & Millichap Brokers Self-Storage Property Deal in Chicago",
-      "link": "https://www.connectcre.com/stories/marcus-millichap-brokers-self-storage-property-deal-in-chicago/",
-      "excerpt": "Marcus &amp; Millichap completed the sale of a brand-new, 916-unit Public Storage property in Chicago, Illinois.“Above-average development complexity has constrained new self-storage supply, contributing to Chicago’s status as one of the industry’s strongest self-storage rental rate markets,” said Jeffrey Herrmann, senior director of investments. “Those market fundamentals continue to attract investors seeking high-quality assets in supply-constrained locations.”Herrmann and Sean Delaney, investment specialists in Marcus &amp; Millichap’s Chicago Oak Brook office, marketed the property on behalf of the seller, an Illinois-based LLC. Delaney procured the buyer, a Texas-based LLC. Public Storage, located at 5251 N. Kedzie Ave., was completed in 2024 and consists of 916 climate-controlled self-storage units totaling 72,899 rentable square feet. The institutional-quality facility is situated in a densely populated area with a predominantly renter-occupied housing base and benefits from strong visibility along North Kedzie Avenue. Hear from the West Coast’s Leading Industrial Real Estate Experts | August 20Gain firsthand insight from the executives, investors, and developers navigating today&#8217;s industrial market. From shifting capital flows and debt trends to evolving occupier demand and development strategies, take part in the conversations shaping the future of industrial real estate. Register now: www.connectindustrialwest2026.com The post Marcus &amp; Millichap Brokers Self-Storage Property Deal in Chicago appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-07T21:01:18+00:00",
-      "bullets": [
-        "Marcus & Millichap brokered sale of 916-unit brand-new Public Storage facility in Chicago.",
-        "Self-storage supply constraints cited; Chicago listed among strongest self-storage rental-rate markets.",
-        "Reflects investor appetite for supply-constrained, high-yield non-residential asset classes in Midwest."
-      ],
-      "summary": "Marcus & Millichap completed the sale of a newly constructed 916-unit Public Storage facility in Chicago. Broker commentary highlighted above-average development complexity constraining new self-storage supply and positioning Chicago as one of the industry's strongest rental-rate markets, attracting capital to supply-constrained assets.",
-      "impact": "Limited direct multifamily relevance. Self-storage capital flows do not compete with multifamily debt or equity. Chicago's self-storage supply constraints may indirectly signal strong land absorption and limited infill opportunities, potentially raising land costs for multifamily near transit or urban cores."
-    },
-    {
-      "title": "Milhaus Receives Approval to Develop Kansas City Affordable Apartments",
-      "link": "https://www.connectcre.com/stories/milhaus-receives-approval-to-develop-kansas-city-affordable-apartments/",
-      "excerpt": "Milhaus has received approval from the Missouri Housing Development Commission for Low-Income Housing Tax Credits to advance Linwood &amp; Troost Apartments in Kansas City. The project will convert two vacant lots at 3200 Troost Ave. into a 100% affordable residential development featuring two four-story buildings with 194 units. The project marks Milhaus&#8217;s first Low-Income Housing Tax Credit development in Kansas City. Funding for the project includes 4% federal tax credits, a tax abatement from Kansas City&#8217;s Planned Industrial Expansion Authority, and $1.5 million awarded from the Kansas City Housing Trust Fund. Milhaus will develop both four-story buildings concurrently. Construction is expected to begin by the end of 2026, with completion anticipated in approximately 2028. Located on the Troost MAX transit corridor, the development includes transit-supportive infrastructure such as wide sidewalks and designated loading areas. Milhaus is serving as both developer and general contractor on the project. The post Milhaus Receives Approval to Develop Kansas City Affordable Apartments appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-07T20:54:30+00:00",
-      "bullets": [
-        "Milhaus wins MHDC 4% LIHTC allocation for 194-unit affordable project (Linwood & Troost, Kansas City).",
-        "100% affordable development; tax abatement + $1.5M Housing Trust Fund grant; on transit corridor.",
-        "Milhaus' first LIHTC deal in KC; construction starts late 2026, completion 2028."
-      ],
-      "summary": "Milhaus received Missouri Housing Development Commission approval for 4% federal tax credits to finance Linwood & Troost Apartments, a 194-unit, 100% affordable conversion of two vacant lots in Kansas City. The project combines LIHTC, a municipal tax abatement, and $1.5 million from Kansas City's Housing Trust Fund. The transit-oriented development (Troost MAX corridor) will feature two four-story buildings; construction begins late 2026.",
-      "impact": "LIHTC availability and Kansas City tax incentive structures support entry of established developers (Milhaus) into the affordable market. Success here signals viable development-finance stacking in secondary Midwest markets; may attract more class-A developers to build affordable supply near transit, reshaping competitive dynamics and potentially moderating market-rate rent growth in Kansas City."
-    },
-    {
-      "title": "Targus Relocates Headquarters to BGO-Owned Business Park",
-      "link": "https://www.connectcre.com/stories/targus-relocates-headquarters-to-bgo-owned-business-park/",
-      "excerpt": "CBRE facilitated an 84,041-square-foot industrial lease for Targus at Anaheim Concourse, located at 1206 N. Miller St. in Anaheim. Targus will relocate its corporate headquarters to Anaheim, upgrading to a newly constructed Class A facility, owned by BGO. Sean Ward, Brian DeRevere and Ryan Peterson. of CBRE represented both the tenant and the landlord. The space is part of the Anaheim Concourse business park. It features a modern industrial design with 32-foot clear heights, an ESFR sprinkler system, a secured truck court and direct access to the region’s major freeway network. “This lease checked all the boxes, providing a modern Class A building with the functionality, location and image needed to support the company’s next chapter,” said Ward. “We’re continuing to see occupiers prioritize quality facilities in established infill markets, and this transaction is another example of companies making strategic real estate decisions that position them for long-term growth while staying connected to their employees, customers and the communities they serve.” Connect Industrial West | August 20 | Irvine, CAOn August 20, Connect Industrial West will bring together the owners, investors, developers, brokers, lenders, and occupiers driving industrial real estate across the Western U.S. Join top decision-makers for an afternoon of market insights, dealmaking opportunities, and networking with the industry’s most influential players. Register now: www.connectindustrialwest2026.com The post Targus Relocates Headquarters to BGO-Owned Business Park appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-07T20:42:41+00:00",
-      "bullets": [
-        "Targus relocates headquarters to Anaheim Concourse: 84,041 SF Class A industrial, 32-foot clear heights.",
-        "New facility replaces existing HQ; BGO owner; CBRE arranged; signals occupier flight to modern infill facilities.",
-        "Trend: corporates prioritizing quality, location, freeway access, and employee/customer connectivity."
-      ],
-      "summary": "Targus signed an 84,041-SF industrial lease at Anaheim Concourse (1206 N. Miller Street) for its corporate headquarters relocation. The newly constructed Class A facility features 32-foot clear heights, ESFR sprinklers, secured truck court, and direct freeway access. CBRE represented both tenant and landlord.",
-      "impact": "Corporates relocating to Class A industrial parks near freeways signal preference for modern, flexible space over legacy HQs; this may depress older industrial conversion/repositioning opportunities in secondary Orange County submarkets but validates newer infill product rents and lease terms in Anaheim area."
-    },
-    {
-      "title": "Joseph Kavanagh Co. Completes Sale of HQ, Manufacturing Facility",
-      "link": "https://www.connectcre.com/stories/joseph-kavanagh-co-completes-sale-of-hq-manufacturing-facility/",
-      "excerpt": "Joseph Kavanagh Co. has completed the sale of its corporate headquarters and manufacturing facility at 8100 Lynhurst Road in Dundalk, Maryland, to Titan Steel Corporation for $2.3 million. MacKenzie Commercial Real Estate Services Senior Vice President and Principal Andrew Meeder, SIOR, and Matthew Curran, together with Real Estate Advisor Alton Curry, represented Joseph Kavanagh Co. in the sale of the nearly 19,000-square-foot building in Dundalk, containing a mix of office, industrial, and warehouse space. Established in 1866 by Joseph Kavanagh, the company began as a coppersmith shop and later transitioned into a metal-bending and rolling company. The 2.27-acre site, located at the intersection of Lynhurst Road and North Point Road, fronts Interstate 696 and features 14- to 16.5-foot ceilings, two drive-in loading docks, approximately 2,500 square feet of office space, and a fenced outdoor storage yard. 8100 Lynhurst Road is positioned approximately five miles from Interstate 95 and the Dundalk Marine Terminal, and is less than 20 miles from BWI Airport. The post Joseph Kavanagh Co. Completes Sale of HQ, Manufacturing Facility appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-07T20:37:49+00:00",
-      "bullets": [
-        "Joseph Kavanagh Co. sells HQ/manufacturing at 8100 Lynhurst Road, Dundalk, Maryland to Titan Steel for $2.3M.",
-        "19,000 SF office/industrial/warehouse building; 2.27 acres; near I-696, BWI, marine terminal.",
-        "Sale by 159-year family company reflects strategic asset redeployment, not distress."
-      ],
-      "summary": "Joseph Kavanagh Co., a 159-year-old coppersmith/metal-bending manufacturer, sold its Dundalk, Maryland headquarters and 19,000-SF manufacturing facility to Titan Steel Corporation for $2.3 million. The 2.27-acre site offers mixed office, industrial, and warehouse space with 14–16.5-foot ceilings, two drive-in docks, and proximity to I-95, I-696, BWI Airport, and the Dundalk Marine Terminal.",
-      "impact": "Minimal multifamily relevance. Reflects industrial real estate consolidation by manufacturing end-user (Titan Steel); does not signal capital flows, development risk, or supply dynamics affecting multifamily markets in Baltimore-Dundalk submarket."
-    },
-    {
-      "title": "“You get what you pay for”: Fort Lauderdale will pursue $217M city hall project",
-      "link": "https://therealdeal.com/miami/2026/07/07/fort-lauderdale-oks-217-million-city-hall-development/",
-      "excerpt": "After briefly considering buying and retrofitting an existing building into a city hall, Fort Lauderdale reverted to its original plan to develop from the ground up.&#160; Commissioners voted 3-2 on Thursday in favor of having a developer build a $217.1 million city hall, which would cost Fort Lauderdale $15.8 million annually for 30 years, the South Florida Sun-Sentinel reported. FTL City Hall Partners LLC, an entity with a development team that includes Core Construction and the Stiles family’s eponymously named firm based in Fort Lauderdale, will be the developer.&#160; The vote came after commissioners delayed proceeding earlier this year due [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-07-07T20:34:43+00:00",
-      "bullets": [
-        "Fort Lauderdale Commission approves $217.1M new city hall; FTL City Hall Partners LLC (Core + Stiles family) to develop.",
-        "Annual cost $15.8M for 30 years ($474M total); represents $50M reduction from initial $268M design-build estimate.",
-        "Commission vote 3-2; approval is preliminary; city may still pursue existing-building purchase."
-      ],
-      "summary": "Fort Lauderdale's city commission voted 3-2 to proceed with a $217.1 million new city hall developed by FTL City Hall Partners LLC (Core Construction and Stiles Family Firm partnership). The project carries a 30-year debt service and operations cost of $15.8 million annually ($474M total), reflecting a $50 million reduction from the original $268 million design-build proposal. The vote was preliminary; the city retained option to pursue buying an existing building.",
-      "impact": "Limited direct multifamily bearing. Municipal capital deployment in Fort Lauderdale does not constrain private multifamily development financing or land supply; if anything, large civic projects signal downtown reinvestment interest and may support mixed-use or Class-A multifamily development near city center."
-    },
-    {
-      "title": "Affinius Capital Provides $188M Refi for N.J. Mixed-Use Apartment Complex",
-      "link": "https://commercialobserver.com/2026/07/affinius-capital-188m-refi-nj-apartment-complex/",
-      "excerpt": "A joint venture among PCCP, Claremont Development, and Stanbery Development Group has secured $188 million to refinance the District 15Fifteen, a 498-unit multifamily property in Parsippany, N.J., Commercial Observer can first report. Affinius Capital provided the debt, which will finance the lease-up and stabilization of the property, as it opened only last month. Cushman &amp; Wakefield’s Chuck Kohaut arranged the transaction. David Greenburg, Affinius Capital&#8217;s co-head of debt originations, described District 15Fifteen in a statement as a “high-quality asset” and noted that the Parsippany submarket benefits from “compelling” fundamentals stemming from a persistent lack of supply across the multifamily and retail spaces. “District 15Fifteen combines thoughtful design and a robust amenity offering in a supply-constrained, transit-oriented New Jersey submarket, exactly the kind of mixed-use property we look to finance,” he said. Located at 1515 Route 10 East in Parsippany — an affluent New Jersey suburb about 30 miles west of New York City — District 15Fifteen sits on nearly 13 acres of land and features three different buildings. A four-story residential building holds 262 units, while a five-story building holds 236 units. A third building is devoted entirely to retail. The entire complex holds 58,800 square feet of retail space and includes an 853-space parking garage. Amenities include a fitness center, multiple courtyards, a pool, a roof deck, and a dog spa. Brian Pascus can be reached at bpascus@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-07T20:28:20+00:00",
-      "bullets": [
-        "Affinius Capital refinances District 15Fifteen (Parsippany, NJ) with $188M; 498 units, just opened.",
-        "PCCP/Claremont/Stanbery JV; financing backs lease-up and stabilization; supply-constrained NJ submarket cited.",
-        "Parsippany transit-oriented; multifamily/retail supply gaps supporting debt terms."
-      ],
-      "summary": "A joint venture among PCCP, Claremont Development, and Stanbery Development Group secured $188 million from Affinius Capital to refinance District 15Fifteen, a 498-unit mixed-use multifamily property in Parsippany, New Jersey that opened last month. The refinance backs lease-up and stabilization. Affinius cited compelling submarket fundamentals: persistent lack of multifamily and retail supply and strong transit orientation.",
-      "impact": "Parsippany's supply-constrained multifamily submarket supports strong lease-up velocity and attractive debt terms for new supply. Developers with identified Parsippany-area sites or off-market land should accelerate entitlements; new supply will command rents supporting double-digit returns and tight refinancing timelines, reducing carry risk."
-    },
-    {
-      "title": "PwC’s Move to Century City Is Another Blow to Downtown L.A.",
-      "link": "https://commercialobserver.com/2026/07/pwc-relocation-office-lease-century-city-los-angeles/",
-      "excerpt": "The Los Angeles office market has shown measurable signs of recovery in recent months, but Downtown L.A. just suffered another high-profile setback. In a further extension of the larger flight-to-quality trend, accounting giant PricewaterhouseCoopers (PwC) is set to relocate from Downtown L.A. to Century City when its current lease expires in 2028, according to the Los Angeles Times. The firm signed a 15-year lease reportedly valued at roughly $200 million for approximately 150,000 square feet at Irvine Company&#8216;s 2121 Avenue of the Stars in Century City. PwC will vacate its 114,000 square feet at the 52-story tower at 601 South Figueroa Street downtown, where its logo has been for years. PwC said the move was centered on growth and accessibility rather than an indictment of Downtown L.A. PwC’s Andy Sofield told the Times the Century City location provides additional space while offering stronger access to transportation corridors and airports for its clients and employees. He also noted the move returns the firm to a neighborhood where it previously maintained offices more than two decades ago. The move comes after Greater L.A. recorded nearly 4 million square feet of office leasing during the second quarter, according to Savills, which is 15 percent more than the prior quarter and nearly 8 percent above the same period last year. Leasing volume also exceeded the market&#8217;s five-year quarterly average by 22 percent. But PwC’s move also adds to a list of marquee tenants that have either reduced their space or left downtown behind. For example, Deloitte, KPMG and Wedbush Securities have all moved away from the city&#8217;s financial district in recent years, while Bank of America recently signed the region&#8217;s largest office transaction of the first half at Century Park Plaza. Century City has continued separating itself from the rest of the markets in Southern California. Savills reported the neighborhood commanded the region&#8217;s highest average ask",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-07T20:00:28+00:00",
-      "bullets": [
-        "PwC relocates HQ from Downtown LA to Century City (Irvine Company); 150,000 SF; 15-year lease ~$200M.",
-        "Vacates 114,000 SF at 601 South Figueroa (52-story); move effective 2028.",
-        "High-profile exodus from Downtown LA; continues 'flight-to-quality' trend away from urban core."
-      ],
-      "summary": "PricewaterhouseCoopers signed a 15-year lease at Irvine Company's 2121 Avenue of the Stars in Century City for approximately 150,000 SF, valued at roughly $200 million, and will vacate its 114,000-SF space at 601 South Figueroa in Downtown Los Angeles when the current lease expires in 2028. PwC cited growth and accessibility; the move exemplifies a broader 'flight-to-quality' trend.",
-      "impact": "PwC's exit signals ongoing Downtown LA office distress and reduced urban-core appeal for large employers. Loss of 114,000 SF of quality office space in Downtown may depress adaptive-reuse (office-to-residential) conversion economics in the 52-story tower; conversely, Century City's appeal to major tenants will support Class-A office rents and may constrain multifamily development opportunity in Westside infill markets due to land cost competition."
-    },
-    {
-      "title": "Manufacturing, Big-Box Leasing Fuel U.S. Industrial Reset in 2026",
-      "link": "https://commercialobserver.com/2026/07/industrial-manufacturing-leasing-warehouseing-defense-q2/",
-      "excerpt": "The U.S. industrial market is on stronger footing after the first half of 2026, with stronger leasing activity, calmer development compared to the pandemic-era highs, and a new wave of manufacturing investment reshaping demand. National asking rents climbed 1.8 percent year-over-year to $9.74 per square foot per year on a triple-net basis, despite elevated vacancy and rising sublease availability, according to a report from Savills. After two years of sustaining record-high deliveries, the national vacancy rate finished the second quarter at 8.2 percent, unchanged from the first quarter, and just 10 basis points higher than a year ago. Industrial leasing hit 491 million square feet through the first half of the year, which is 27 percent more than the first six months of 2025. The numbers represent the third-strongest first-half leasing total on record behind the pandemic boom years of 2021 and 2022. Deals for larger spaces — particularly leases exceeding 750,000 square feet — are driving activity nationally as big distributors and logistics users regain confidence after months of tariff and supply chain uncertainty, per Savills. As such, quarterly net absorption more than doubled year-over-year to 53.3 million square feet, while first-half absorption was 28 percent higher than during the same period in 2025. Meanwhile, industrial construction has also continued to reset. The national pipeline ticked up modestly to 320 million square feet, less than half the 782 million-square-foot peak in late 2022. Deliveries dropped to 49.4 million square feet during the second quarter from more than 82 million square feet at this point last year. At the same time, industrial demand is diversifying. Logistics remains the sector engine, but manufacturing is growing significantly. Savills tracked nearly 66,000 manufacturing jobs announced over the trailing 12 months through May, accompanied by almost $50 billion in planned capital investment. And, instead of electric vehicle manufac",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-07T19:55:31+00:00",
-      "bullets": [
-        "U.S. industrial leasing H1 2026: 491M SF (+27% YoY); vacancy 8.2%; asking rents +1.8% YoY to $9.74/SF NNN.",
-        "Large-format leases (750K+ SF) driving activity; manufacturing wave reshaping demand vs. pandemic highs.",
-        "Supply moderation post-2023; third-strongest H1 leasing on record behind 2021–2022 boom."
-      ],
-      "summary": "U.S. industrial leasing totaled 491 million SF in the first half of 2026, up 27% year-over-year and representing the third-strongest H1 leasing total on record. National asking rents climbed 1.8% YoY to $9.74/SF (NNN basis). Vacancy remained flat at 8.2% Q1 to Q2. Large-format deals (750K+ SF) and a new wave of manufacturing investment are driving demand as deliveries moderate from pandemic-era peaks.",
-      "impact": "Industrial supply normalization and manufacturing resurgence reduce logistics-real-estate competition for capital and land. However, continued wage inflation and freight-hub infrastructure investment (especially near ports and interstates) may raise construction costs and land values in key industrial nodes, indirectly raising multifamily development costs in adjacent infill markets (e.g., LA, NJ, Chicago logistics nodes)."
-    },
-    {
-      "title": "BH, Apollo Cos buy out Related Group’s stake in Aventura mixed-use project",
-      "link": "https://therealdeal.com/miami/2026/07/07/bh-group-apollo-cos-buy-out-aventura-city-center-stake/",
-      "excerpt": "BH Group and Apollo Companies bought out Related Group&#8217;s stake in an Aventura development site slated for a mixed-use project, The Real Deal has learned. The Aventura City Center project at 2999 Northeast 191st Street is approved for a residential tower, a hotel and 26,000 square feet of retail space. The development is situated south of the Aventura Mall and near the Brightline station. BH and Related bought the 4.5-acre site, home to the Aventura View office building, for $51 million in 2022 and launched sales for Viceroy Residences Aventura there in early 2025. Plans call for a 23-story multifamily [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-07-07T19:30:00+00:00",
-      "bullets": [
-        "BH Group and Apollo Companies buy out Related Group's stake in Aventura City Center development.",
-        "Approved for 248-unit residential tower, 153-room hotel, 26,000 SF retail; near Brightline, Aventura Mall.",
-        "Viceroy Residences pre-sales launched early 2025; original land purchase $51M in 2022."
-      ],
-      "summary": "BH Group and Apollo Companies acquired Related Group's stake in Aventura City Center, a mixed-use development at 2999 Northeast 191st Street approved for a 23-story, 248-unit residential tower; a 13-story, 153-room Marriott-branded hotel; and 26,000 SF of retail. The 4.5-acre site was purchased by Related and BH for $51 million in 2022. Viceroy Residences pre-sales commenced in early 2025.",
-      "impact": "Related's exit from the Aventura project (retaining no equity) may signal capital redeployment away from hospitality-hybrid multifamily or margin compression on the asset class. BH's continued South Florida expansion signals strength in South Florida multifamily and mixed-use fundamentals; competition for transit-oriented, hotel-adjacent sites near Brightline stations will likely intensify, supporting land and entry valuations."
-    },
-    {
-      "title": "Bravo Property Trust Lends $68M on New Jersey Waterfront Apartments",
-      "link": "https://commercialobserver.com/2026/07/bravo-property-trust-bayonne-new-jersey-apartments/",
-      "excerpt": "Skyrock Capital has landed $68 million of construction financing for the development of a luxury waterfront multifamily project in Bayonne, N.J., Commercial Observer has learned. Bravo Property Trust supplied the loan for Skyrock’s planned 180-unit Bayonne Luxury Waterwalk apartment development. Elan Goldberg, co-head of originations at Bravo, originated the debt. &#8220;Bayonne&#8217;s waterfront is attracting serious long-term investment, and we were proud to give this sponsor the certainty to build,” Aaron Krawitz, CEO of Bravo Property Trust, said in a statement. Skyrock, under the entity Bayonne Luxury Waterwalk, acquired the 2.3-acre waterfront site along Newark Bay at 219 West Fifth Street for $4.55 million in 2019, Jersey Digs previously reported. Two floors of the six-story building will be utilized for parking with the property featuring amenities that include a swimming pool and fitness center, according to Jersey Digs. Skyrock Capital did not immediately return a request for comment. Andrew Coen can be reached at acoen@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-07T18:25:19+00:00",
-      "bullets": [
-        "Bravo Property Trust provides $68M construction loan to Skyrock Capital for Bayonne Luxury Waterwalk (180 units).",
-        "Waterfront development in Bayonne, NJ; 2.3-acre site at 219 West Fifth Street; six stories, parking on two floors.",
-        "Waterfront NJ market attracting long-term investment; favorable lender appetite for stabilized multifamily."
-      ],
-      "summary": "Bravo Property Trust provided $68 million in construction financing to Skyrock Capital for Bayonne Luxury Waterwalk, a 180-unit luxury multifamily project on a 2.3-acre Newark Bay waterfront site in Bayonne, New Jersey. The six-story building includes two floors of parking and amenities such as pool and fitness center. Skyrock acquired the site for $4.55 million in 2019.",
-      "impact": "Bayonne waterfront's emergence as multifamily investment target (strong construction lending appetite, long-term sponsor confidence) signals rising Jersey City submarket strength. Developers with Bayonne waterfront or adjacent Newark Bay assemblies should accelerate entitlements; waterfront premium and transit connectivity (PATH access) justify density and rent premiums supporting new-supply development."
-    },
-    {
-      "title": "Namdar Group grabs additional financing in Jersey City",
-      "link": "https://therealdeal.com/new-york/tristate/2026/07/07/namdar-group-grabs-additional-financing-in-jersey-city/",
-      "excerpt": "The Namdar Group will not be deterred from building in Jersey City, or scoring the requisite financing to do so. Joel Namdar’s company secured $180 million in debt from Affinius Capital for its project at 35 Cottage Street in the Journal Square neighborhood, the Commercial Observer reported. The project was previously the recipient of a $152 million loan. The refinancing will support the 27-story, 564-unit luxury multifamily property going up a short walk from the local PATH station. Units at the building will range from studios to three-bedroom layouts, while commercial space is being earmarked for a Chabad synagogue, a [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-07-07T17:04:06+00:00",
-      "bullets": [
-        "Namdar Group secures $180M refinance from Affinius Capital for 35 Cottage Street (Journal Square, Jersey City).",
-        "27-story, 564-unit luxury tower; previously received $152M loan; completion targeted early 2027.",
-        "Namdar controls 1,126 additional units in concurrent Journal Square projects (29 Van Reipen, 612 Pavonia)."
-      ],
-      "summary": "Namdar Group obtained $180 million in floating-rate, interest-only bridge financing from Affinius Capital (via Walker & Dunlop) for 35 Cottage Street, a 27-story, 564-unit luxury multifamily project in Jersey City's Journal Square neighborhood. The refinance builds on a prior $152 million loan. The project, one block from PATH station, is targeted for completion in early 2027 and will include studios to three-bedroom units plus commercial space (synagogue, preschool, party hall).",
-      "impact": "Namdar's control of ~1,800 units across three concurrent Journal Square projects (including $358M refinance in August for 1,126 units) signals sustained developer confidence in PATH-adjacent Jersey City submarkets and strong lender appetite for transit-oriented multifamily. Competitive supply density in Journal Square may compress rents in 2027–2028; developers entering Jersey City should prioritize differentiation (amenities, unit mix) and accelerate pre-leasing to capture early occupancy windows."
+      "date": "2026-07-07T21:05:51+00:00"
     }
   ]
 }
