@@ -1,60 +1,238 @@
 {
-  "fetchedAt": "2026-07-09T10:38:53.032285+00:00",
+  "fetchedAt": "2026-07-09T18:28:01.490130+00:00",
   "rates": [
     {
       "label": "SOFR",
-      "value": "3.62%",
-      "pct": -0.01,
+      "value": "3.58%",
+      "pct": -0.04,
       "isBps": true
     },
     {
       "label": "10Y Treasury",
-      "value": "4.57%",
-      "pct": 0.88
+      "value": "4.53%",
+      "pct": -0.79
     },
     {
       "label": "30Y Treasury",
-      "value": "5.07%",
-      "pct": 0.44
+      "value": "5.05%",
+      "pct": -0.28
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "96.80",
-      "pct": -1.63
+      "value": "97.34",
+      "pct": 0.56
     }
   ],
   "stories": [
     {
-      "title": "Partnership Unveils Plans for Redevelopment of Former Brooklyn Macy’s Building",
-      "link": "https://www.connectcre.com/stories/partnership-unveils-plans-for-redevelopment-of-former-brooklyn-macys-building/",
-      "excerpt": "United American Land, together with partners The Jackson Group and Dreamscape Retail &amp; Entertainment, has unveiled plans for BKX, a redevelopment of the former Macy&#8217;s building at 422 Fulton St. into one of New York City&#8217;s largest and most ambitious retail developments. Spanning approximately 440,000 square feet across five levels, BKX will represent the largest contiguous block of retail space currently available in New York City. It has been designed for flagship retail, immersive entertainment, hospitality and experiential concepts, the development team said. “When we acquired this property, we saw an opportunity to reimagine one of New York’s most iconic sites for the next generation,” said Albert Laboz, principal of United American Land. “Rather than pursuing a traditional retail redevelopment, we’re creating a destination that reflects how people want to spend time today – bringing together entertainment, dining, retail and community under one roof.”",
+      "title": "Vernon Hills clears 1.2M sf industrial redevelopment on former American Hotel Register site",
+      "link": "https://therealdeal.com/chicago/2026/07/09/new-industrial-park-plans-in-vernon-hills-given-green-light/",
+      "excerpt": "Redevelopment of an ex-American Hotel Register property northwest of Chicago was approved,&#160; greenlighting an additional 1 million-square-foot industrial park in the region.&#160; The Vernon Hills site spans 70 acres and is set for 1.2 million square feet spread across three speculative buildings, one existing warehouse and a site for hand2mind, a classroom supplies and teacher curriculum company. An entity listed as JCA Hayes LLC has been trying to get this project in motion since late 2024, according to the Chicago Daily Herald. The planned site sits at 100-230 South Milwaukee Avenue.&#160; At one point, it appeared that the land was [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-07-09T18:15:00+00:00",
+      "bullets": [
+        "Vernon Hills approves 1.2M sf industrial park on 70-acre American Hotel Register site northwest Chicago.",
+        "JCA Hayes LLC revised proposal to three speculative warehouses plus hand2mind facility after local traffic/noise pushback.",
+        "Site previously eyed by Amazon under 'Project Zeus' (3M sf office/warehouse); proposal withdrawn four years ago."
+      ],
+      "summary": "Vernon Hills greenlit a 1.2-million-square-foot industrial redevelopment on a formerly stalled 70-acre property northwest of Chicago. The project, led by JCA Hayes LLC, includes three speculative warehouses and consolidation of four hand2mind classroom-supply facilities. The parcel was once rumored as an Amazon 'Project Zeus' target but that 3-million-square-foot proposal was withdrawn; the current plan is smaller and faced local conditions including a sound wall.",
+      "impact": "Industrial supply in the Chicago northwest suburbs is expanding, but this is a scaled-down outcome compared to earlier corporate interest. The failure of a presumed Amazon play suggests softer demand fundamentals or tighter underwriting for mega-logistics; multifamily developers should monitor whether job/wage growth in industrial-heavy suburbs like Vernon Hills (and employer relocations into the region) can drive residential demand or if the market is overbuilt on the industrial side."
+    },
+    {
+      "title": "Vanbarton Group’s 452 Lexington Ave. Refinanced for $352M",
+      "link": "https://www.connectcre.com/stories/vanbarton-groups-452-lexington-ave-refinanced-for-352m/",
+      "excerpt": "JLL’s Capital Markets arranged a $352-million refinancing for 425 Lexington Ave., a 31-story, 750,000-square-foot Class A office tower in Midtown Manhattan. Senior managing directors Christopher Peck and Drew Isaacson and directors Christopher Pratt and Jennifer Zelko worked on behalf of Vanbarton Group, LLC, to secure the floating rate, single-asset single-borrower refinancing through Goldman Sachs, which was pre-placed entirely with funds and accounts managed by BlackRock. &#8220;As we move into the second half of 2026, New York City&#8217;s office market shows exceptional strength, with high-quality space increasingly scarce,&#8221; said Peck. &#8220;Premium office towers like 425 Lexington continue to attract robust financing interest from lenders driven by the building&#8217;s consistently strong occupancy rates, prime location opposite the city&#8217;s most heavily trafficked transit hub, and recent upgrades that include highly desirable tenant amenities.&#8221; Located directly across from Grand Central Terminal, 425 Lexington serves as the global headquarters location for longtime anchor Simpson Thacher. The property is 99% leased and has undergone nearly $35 million in recent upgrades.",
       "source": "Connect CRE",
       "cat": "Commercial",
-      "date": "2026-07-08T21:36:35+00:00"
+      "date": "2026-07-09T18:01:45+00:00",
+      "bullets": [
+        "Vanbarton Group refinanced 425 Lexington Ave. (750K sf, 31-story Class A office) for $352M via Goldman Sachs/BlackRock.",
+        "Floating-rate, single-asset deal arranged by JLL; property is 99% leased opposite Grand Central Terminal.",
+        "Recent $35M in amenity upgrades and strong occupancy cited as lender confidence drivers in H2 2026."
+      ],
+      "summary": "JLL arranged a $352-million floating-rate refinancing for 425 Lexington Ave., a 750,000-square-foot, 31-story Class A office tower in Midtown Manhattan opposite Grand Central. The deal, secured by Vanbarton Group, was placed entirely with BlackRock funds. The property maintains 99% occupancy and has received nearly $35 million in recent upgrades, signaling strong institutional demand for prime Manhattan office.",
+      "impact": "Minimal to multifamily. This is a trophy office asset in Manhattan with exceptional transit access and anchor tenancy (Simpson Thacher); it reflects lender confidence in premium, irreplaceable office but does not signal broader office-to-residential conversion trends or housing demand shifts in NYC."
     },
     {
-      "title": "Kolter and Rockpoint Land $108M Loan for Palm Beach Gardens Rental",
-      "link": "https://commercialobserver.com/2026/07/kolter-rockpoint-sutton-hilltop-gardens-mobile-home-park-palm-beach-gardens/",
-      "excerpt": "Developer Kolter Group and private equity firm Rockpoint have secured $107.8 million to build a garden-style multifamily project in Palm Beach Gardens, Fla., property records show. PNC Bank provided the construction debt for the Sutton, a five-story, 432-unit development just north of North Military Trail, west of Dixie Highway. Amenities will include a pool, a gym, coworking rooms, a resident lounge, a dog park, and a children’s playground. Earlier this week, the joint venture closed on the $30 million purchase of the 17.6-acre site that housed the Hilltop Gardens Mobile Home Park. Construction is expected to be completed in 2028. “Our selective development strategy allows us to focus on submarkets like Palm Beach Gardens that are highly supply constrained and have demand for newer vintage apartment living,&#8221; Dan Domb, a managing member and COO at Rockpoint, said in a statement. Both Rockpoint and Kolter are active players in South Florida. In June, Kolter, which focuses on residential development, nabbed a $92 million construction loan for a 386-unit, Live Local Act project in Delray Beach, where the firm is based. In February, Boston-based Rockpoint, alongside 13th Floor Investments, nabbed $100 million in debt to build a transit-oriented multifamily project in Boca Raton. The private equity firm is also a backer of Related Group’s oceanfront, 56-unit luxury condo project in Bal Harbour. Julia Echikson can be reached at jechikson@commercialobserver.com.",
+      "title": "S3 Capital Continues Texas Focus, Provides $28M for New Multifamily Construction",
+      "link": "https://commercialobserver.com/2026/07/s3-capital-texas-28m-multifamily-construction/",
+      "excerpt": "S3 Capital appears to be in Texas for the long haul. Tannos Group has secured $28 million in construction financing to build the Albritton, a four-story, 111-unit Class A multifamily development in Friendswood, Texas. S3 Capital provided the debt, bringing the lender’s total to just under $200 million in new construction financings across the Lone Star State since May 2025. No broker was listed on the transaction. Steven Jemal, managing director of origination at S3 Capital, noted that the strong school district of Friendswood is a demand driver for families to rent in the area, and that Tannos Group has built roughly 200,000 square feet of multifamily developments in the same submarket for 25 years. &#8220;We see Texas as a long-term strategic opportunity and this deal is right in our sweet spot,” he said. Located at 408 South Friendswood Drive in Friendswood — a southeastern Texas city 20 miles south of Houston and 40 miles north of Galveston Island — the Albritton will feature studios to two-bedrooms and span 111,000 rentable square feet. The overall complex will include a two-level parking garage, ground-floor retail and resort-style amenities. Construction of the asset comes after Friendswood politicians amended zoning laws that had restricted new development in the city for more than 20 years. The Albritton became the first purpose-built rental complex to receive construction entitlements since laws were amended, according to S3 Capital. The loan from S3 Capital comes after the New York-based real estate lender financed $116 million in student housing construction at Texas State University in San Marcos in May 2026, and $46.5 million in construction financing to build a 306-unit garden-style community in Denton, Texas, in May 2025. &#8220;Our pipeline in Texas continues to grow as we build new relationships and show local developers the benefits of working with S3,&#8221; said Jemal. Brian Pascus can be reached at bpascus@commercialobserver.com.",
       "source": "Comm. Observer",
       "cat": "Commercial",
-      "date": "2026-07-08T21:30:52+00:00"
+      "date": "2026-07-09T17:53:35+00:00",
+      "bullets": [
+        "S3 Capital provided $28M construction financing for The Albritton, 111-unit Class A multifamily in Friendswood, Texas.",
+        "Tannos Group developer; lender has deployed ~$200M in Texas multifamily construction debt since May 2025.",
+        "Strong Friendswood school district noted as demand driver; submarket 20 miles south of Houston, 40 miles north of Galveston."
+      ],
+      "summary": "S3 Capital funded a $28-million construction loan for The Albritton, a 111-unit, four-story Class A multifamily in Friendswood, Texas, developed by Tannos Group. The financing brings S3 Capital's total Texas multifamily construction deployments to nearly $200 million since May 2025. The lender highlighted the submarket's strong schools and Tannos's 200,000-square-foot track record as demand anchors.",
+      "impact": "S3 Capital's aggressive $200M+ capital deployment into Texas multifamily construction signals robust lender appetite and suggests strong fundamentals in Houston suburbs. Friendswood's school-district demand profile is a secondary market strength play; this indicates the Houston metro is absorbing Class A supply and rent growth is supporting new construction. Developers should recognize extended financing windows and active capital flow into Texas submarkets as a window to acquire/underwrite ahead of demand tightening."
     },
     {
-      "title": "Feds Pay $1.5B for Two Immigration Detention Centers in California",
-      "link": "https://commercialobserver.com/2026/07/us-government-ice-dhs-immigration-detention-centers-california/",
-      "excerpt": "The federal government has spent nearly $1.5 billion to acquire two California detention centers from prison operator CoreCivic, marking one of the largest real estate deals tied to the Trump administration’s expansion of immigration enforcement. The U.S. Department of Homeland Security (DHS) purchased the 1,994-bed Otay Mesa Detention Center in Greater San Diego for $739.2 million, and the 2,560-bed California City Detention Facility in Kern County north of Los Angeles for $732.6 million, CoreCivic announced. The deals closed July 2. CoreCivic anticipates it will continue to manage both detention centers under contracts with U.S. Immigration and Customs Enforcement (ICE), although those agreements can be terminated by the agency. The California City management contract runs through August 2027, while the Otay Mesa agreement extends through December 2029. The deals are a slight shift in strategy for DHS. Earlier this year, DHS paid more than $1 billion to acquire about 7.6 million square feet of warehouse space to convert into detention facilities across eight states, according to CoStar News, as opposed to buying existing detention facilities. The first industrial deals drew increased scrutiny: DHS’s Office of Inspector General launched an audit in May to evaluate if the acquisitions were a cost-effective use of taxpayer funds, and The New York Times reported last month that ICE is looking to sell some of the warehouse properties. CoreCivic also indicated there could be more sales after the deals in California. The company said it is in discussions with ICE regarding the potential sale of additional detention facilities from its national portfolio, which includes 45 correctional facilities and management contracts for nine others. But CoreCivic also said it is not guaranteed any more deals will close. Gregory Cornfield can be reached at gcornfield@commercialobserver.com.",
+      "title": "Dependable Equities Lands $54M Resi Loan in Fort Lauderdale",
+      "link": "https://commercialobserver.com/2026/07/dependable-equities-fort-lauderdale/",
+      "excerpt": "Dependable Equities has nabbed a $54 million preconstruction loan for a two-tower residential project in Fort Lauderdale, Fla., the New York-based developer announced. CDK Capital provided the bridge financing, which covers a site at 101 Southeast Seventh Street and 633 Southeast Third Avenue, just south of the Broward County Clerk of Courts building, halfway between the New and Tarpon rivers. The 2 million-square-foot development is expected to include 1,460 units, a mix of both condos and rentals, as well as 14,000 square feet of ground-floor retail space. Each tower is expected to rise about 45 stories. Construction is scheduled to begin in early 2028. Dependable Equities bought the parcel for $40 million in 2022. Dependable Equities, an affiliate of Sky Equity Group, founded by Isaac Schlesinger and Simon Dushinsky, has another Fort Lauderdale project in the pipeline. Called Ombelle, the development will house 754 condos across two 44-story towers. Sales have been underway since 2024. In April, Dwight Mortgage Trust provided a $50 million preconstruction loan. Julia Echikson can be reached at jechikson@commercialobserver.com.",
       "source": "Comm. Observer",
       "cat": "Commercial",
-      "date": "2026-07-08T21:25:49+00:00"
+      "date": "2026-07-09T17:50:33+00:00",
+      "bullets": [
+        "Dependable Equities closed $54M preconstruction bridge loan for two-tower, 1,460-unit (mix condo/rental) residential project in Fort Lauderdale.",
+        "CDK Capital provided financing; site at 101 SE 7th Street and 633 SE 3rd Avenue; 45-story towers; construction starts early 2028.",
+        "Developer acquired parcel for $40M in 2022; 14K sf ground-floor retail; another Dependable project (Ombelle, 754 condos) underway in market."
+      ],
+      "summary": "Dependable Equities secured a $54-million preconstruction loan from CDK Capital for a two-tower, 1,460-unit mixed-use residential development in downtown Fort Lauderdale. Each tower will rise approximately 45 stories, with construction slated to begin in early 2028. The developer paid $40 million for the site in 2022 and is simultaneously advancing another 754-unit condo project (Ombelle) in the same market.",
+      "impact": "Fort Lauderdale's downtown (New River corridor) is attracting significant capital for mixed-use, high-rise residential—Dependable's dual active projects signal sustained demand for Class A urban rental and for-sale units. The early-2028 start suggests a 2-3 year lag from financing to delivery; developers should prepare for potential cap-rate compression and rent-growth moderation if supply ramps post-2029 in South Florida's downtown submarkets."
     },
     {
-      "title": "MMCC Arranges Financing for Northridge Offices",
-      "link": "https://www.connectcre.com/stories/mmcc-arranges-financing-for-northridge-offices/",
-      "excerpt": "Marcus &amp; Millichap Capital Corporation (MMCC) arranged $5.7 million in financing for a 48,954-square-foot office property located at 9221 Corbin Ave. in the Northridge neighborhood of Los Angeles. Dean Giannakopoulos, senior managing director in&nbsp;MMCC’s Chicago office, secured the three-year loan at 65% loan-to-value through a regional bank on behalf of a private client. Additional terms include a 6% interest rate and a 25-year amortization schedule. “This financing reflects continued lender interest in well-located Los Angeles office assets with stable tenancy and strong surrounding demand drivers,” said Giannakopoulos. “By securing competitive leverage and a fixed-rate structure through a bank, we were able to provide our client with a reliable capital solution aligned with the property’s long-term ownership strategy.” The property is located near California State University, Northridge and is occupied by a diverse mix of tenants, including a tutoring service, internet service provider, computer repair service, consultants, real estate agents and accountants.",
+      "title": "Deal for Shuttered San Francisco Centre Collapses as Buyers Walk Away",
+      "link": "https://www.connectcre.com/stories/deal-for-shuttered-san-francisco-centre-collapses-as-buyers-walk-away/",
+      "excerpt": "The sale of the now-vacant San Francisco Centre has fallen through as developers Prado Group and Presidio Bay Ventures have walked away from the pending deal, the San Francisco Chronicle first reported. Sources told the Chronicle that the plan is now to re-list the 1.5-million-square-foot retail property, which went on the market shortly after lenders Goldman Sachs and JPMorgan Chase won a foreclosure auction with a $134-million credit bid last November. In a statement, the would-be buyers confirmed that they had dropped out. &#8220;Presidio Bay Ventures and the Prado Group were diligently evaluating a potential purchase transaction,&#8221; according to the statement. &#8220;After extensive diligence and thoughtful evaluation, we are not currently moving forward with the transaction.&#8221; The Centre&#8217;s previous owners, Unibail-Rodamco-Westfield and Brookfield Properties, defaulted on a $558-million loan in June 2023, saying the downtown mall was no longer financially viable following the COVID-19 pandemic and downtown&#8217;s slow commercial recovery.",
       "source": "Connect CRE",
       "cat": "Commercial",
-      "date": "2026-07-08T21:09:42+00:00"
+      "date": "2026-07-09T17:46:12+00:00",
+      "bullets": [
+        "Prado Group and Presidio Bay Ventures withdrew from San Francisco Centre acquisition after due diligence.",
+        "Goldman Sachs and JPMorgan Chase foreclosed and credit-bid $134M in November 2025; 1.5M sf vacant retail property.",
+        "Previous owners (Unibail-Rodamco-Westfield, Brookfield) defaulted on $558M loan June 2023; property to be re-listed."
+      ],
+      "summary": "Prado Group and Presidio Bay Ventures walked away from a pending acquisition of San Francisco Centre, a 1.5-million-square-foot vacant retail property that lenders Goldman Sachs and JPMorgan Chase acquired via foreclosure and $134-million credit bid in November 2025. The prior owners (Unibail-Rodamco-Westfield and Brookfield Properties) defaulted on a $558-million loan in June 2023, citing pandemic-era downtown decline and slow commercial recovery. The property will be re-listed.",
+      "impact": "San Francisco's downtown is in prolonged distress; retail conversion or adaptive-reuse fundamentals remain challenged (buyer withdrawal after diligence suggests repositioning economics are unfavorable). For multifamily developers, this signals continued oversupply/low absorption in SF office markets and weak retail rents; any residential conversion plans must assume below-market retail carry-costs or deep value-add risk in the near-term."
+    },
+    {
+      "title": "Big Events Like the World Cup and the Olympics Are Reshaping Los Angeles",
+      "link": "https://commercialobserver.com/2026/07/la-megaevents-world-cup-olympics/",
+      "excerpt": "Mexico fans cheer at Seoul International Park in the Koreatown neighborhood of Los Angeles after their team won a World Cup match against South Korea. PHOTO: ETIENNE LAURENT/AFP via Getty Images If the World Cup is Los Angeles&#8217; dress rehearsal for the 2028 Olympics, the curtain is already up. As millions of visitors pour in and out of Southern California, the soccer tournament is offering the city&#8217;s first real test of whether it can deliver on a decade of promises about transportation, tourism and infrastructure. Apprehension rightfully permeated the air in advance of Los Angeles’ mega-event era, which kicked off with eight World Cup games at the $5 billion SoFi Stadium. Between lackluster hotel bookings and worries about poor attendance due in part to larger travel and immigration issues, there was a sense that the beautiful game’s effect on host cities in the United States might not be so pretty. “Hotel demand in host cities has evolved differently than many initially anticipated, driven in part by lower than expected international visitation,” said Rosanna Maietta, president and CEO of the American Hotel &amp; Lobbying Association (AHLA), in a statement to Commercial Observer in late June. But early indications suggest the events surrounding the World Cup games have been positive, if anything highlighting the need for better public spaces, plazas and places to gather. L.A.’s bars, streets and parks have seen a solid reaction to the World Cup. A packed to (over)capacity crowd at Seoul International Park in Koreatown for the match between South Korea and Mexico game underscored the frenzy for football, and the need for the city to channel more investment into parks and places for these kinds of public gatherings. Team Spain fans march on their way to SoFi Stadium before a World Cup round of 32 match against Austria. PHOTO: Ronaldo Bolanos/Los Angeles Times via Getty Images While the AHLA continues to collect final figures on the impact of the World Cup,",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-09T17:30:04+00:00",
+      "bullets": [
+        "Los Angeles hosting FIFA World Cup (2026); 2028 Olympics follow; millions of visitors inbound but hotel demand weaker than expected.",
+        "International visitation below forecast; travel and immigration concerns cited as headwinds; 'dress rehearsal' for Olympic lodging/infrastructure readiness.",
+        "Retail, entertainment, transportation, and workforce accommodation capacity under stress-test during mega-event window."
+      ],
+      "summary": "Los Angeles is hosting FIFA World Cup matches at SoFi Stadium and will follow with the 2028 Olympics, drawing millions of visitors. However, hotel bookings and international visitation have fallen short of expectations, driven partly by travel concerns and immigration issues. The World Cup is functioning as a 'dress rehearsal' for Olympic infrastructure and capacity management, with visible gaps in lodging and tourism demand.",
+      "impact": "Multifamily developers should monitor LA's hospitality-to-residential conversion pipeline; if World Cup visitor demand underwhelms despite major events, hoteliers may accelerate conversions or reduce tourism-driven development spend. Conversely, heavy domestic visitation and local event-driven foot traffic could lift service-sector wage growth and workforce in-migration into LA metro, supporting renters. The Olympics (2028) and World Cup (2026) are short-window demand spikes; sustained multifamily demand depends on post-event job creation and permanent population growth, not temporary tourism."
+    },
+    {
+      "title": "Pacific Life Insurance Provides $125M Refi for Chicago Luxury Tower",
+      "link": "https://commercialobserver.com/2026/07/pacific-life-125m-refi-chicago-luxury-tower/",
+      "excerpt": "Capital keeps flowing into the Windy City. LG Development Group has secured $124.6 million to refinance Arthur on Aberdeen, a 363-unit, 18-story luxury residential tower that opened two years ago in Downtown Chicago. Pacific Life Insurance provided the debt, structured as a three-year, floating-rate loan, while the JLL Capital Market’s team of Danny Kaufman, Medina Spiodic, Rebecca Mitchell, Merrick Evans and Annie Thomas arranged the transaction. JLL’s Kaufman called Arthur on Aberdeen an “institutional-quality development” in a statement, and said that the Downtown Chicago market is currently constrained by a lack of new supply across the multifamily space. He also cited the asset’s performance in its first two years in the Fulton Market submarket. &#8220;The property&#8217;s rapid lease-up, strong lease trade-outs and accretive tax structure demonstrate why trophy assets in irreplaceable locations like Fulton Market command lender confidence,&#8221; added Kaufman. Located at 210 North Aberdeen Street in Fulton Market — a former industrial yard that is now a niche live-work-play environment that sits near the West Loop across the Chicago River — Arthur on Aberdeen features studios to two-bedroom units that have achieved 92 percent occupancy since 2024. Much of the strong leasing metrics comes on the heels of Chicago’s overall leasing rebound — which has recorded occupancy rates of 97 percent year-over-year — and the 80 percent growth of the West Loop submarket since 2010, according to JLL. Arthur on Aberdeen absorbed approximately 20 units per month during lease-up, per JLL. The building also features a rooftop pool and a 2,000-square-foot fitness center, as well as podcasting studios, coworking spaces, and 10,000 square feet of ground-floor retail space. Brian Pascus can be reached at bpascus@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-09T17:22:13+00:00",
+      "bullets": [
+        "LG Development Group refinanced Arthur on Aberdeen, 363-unit luxury tower in Downtown Chicago Fulton Market, for $124.6M.",
+        "Pacific Life Insurance provided three-year floating-rate debt via JLL; property opened two years ago, showed rapid lease-up and strong trade-outs.",
+        "JLL noted Downtown Chicago multifamily constrained by limited new supply; trophy asset in irreplaceable location demonstrates lender confidence."
+      ],
+      "summary": "LG Development Group secured a $124.6-million refinancing from Pacific Life Insurance for Arthur on Aberdeen, a 363-unit, 18-story luxury residential tower that opened two years ago in Downtown Chicago's Fulton Market submarket. JLL arranged the three-year floating-rate loan. The property's rapid lease-up and strong lease trade-outs underscore strong market performance and lender appetite for trophy assets in supply-constrained submarkets.",
+      "impact": "Fulton Market (Downtown Chicago) is supply-constrained and attracting institutional capital for luxury residential refinances at favorable terms. Developers should view this as signal to acquire/entitle in Fulton Market NOW before supply tightens further; rapid lease-up and strong rate growth justify new Class A development. The refi at 3-year floating suggests lenders expect near-term rate stability; construction window is open for 2026–2028 delivery."
+    },
+    {
+      "title": "Dim Sum Restaurant Breeze to Open at 590 Fulton Street in Downtown Brooklyn",
+      "link": "https://commercialobserver.com/2026/07/dim-sum-breeze-lease-590-fulton-street-brooklyn/",
+      "excerpt": "Popular Sichuan and dim sum restaurant Breeze is set to open a second Brooklyn location this fall. Breeze, also known for its curated wine and cocktail program, signed a 15-year, 3,569-square-foot lease at the base of the Gotham Organization’s 52-story, 586-unit residential building at 590 Fulton Street in Downtown Brooklyn, broker Lee &amp; Associates NYC announced Thursday. The restaurant leased 2,790 square feet on the ground floor and 779 square feet on the lower level of the property. The asking rent was not disclosed, but the average asking rent for retail space along Brooklyn’s Fulton Street was $190 per square foot in 2025, according to the most recent retail report from the Real Estate Board of New York. Brad Schwarz and Zev Sonkin of Lee &amp; Associates NYC represented the tenant and the landlord in this deal. Breeze has another Brooklyn location at 595 Manhattan Avenue in Greenpoint. &#8220;Following the success of its Greenpoint location, Breeze recognized an opportunity to establish a flagship location in one of Brooklyn&#8217;s most rapidly developing submarkets,&#8221; Schwarz said in a statement. &#8220;The combination of outstanding frontage, dramatic ceiling heights, and strong residential density made this an ideal fit for an operator looking to elevate and expand its brand,” Schwarz added. “Well-located restaurant spaces like this continue to attract significant demand from operators seeking long-term growth opportunities.&#8221; Amanda Schiavo can be reached at aschiavo@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-09T16:57:55+00:00",
+      "bullets": [
+        "Breeze (Sichuan/dim sum restaurant) signed 15-year, 3,569 sf ground/lower-level lease at 590 Fulton Street, Brooklyn.",
+        "Gotham Organization's 52-story, 586-unit residential tower; asking rent ~$190/sf on Fulton Street corridor (2025 average).",
+        "Anchor tenant signals strong retail demand in rapidly developing Downtown Brooklyn submarket; Breeze opening second location after Greenpoint success."
+      ],
+      "summary": "Breeze, a popular Sichuan and dim sum restaurant, signed a 15-year, 3,569-square-foot lease at 590 Fulton Street in Downtown Brooklyn, occupying ground and lower-level space in a 52-story, 586-unit residential tower by Gotham Organization. The asking rent aligns with the $190-per-square-foot 2025 average for Fulton Street retail. Breeze is opening a second Brooklyn location after success in Greenpoint.",
+      "impact": "Strong retail anchor tenancy in new residential towers signals robust ground-floor economics and validated demand in Downtown Brooklyn corridors. For multifamily developers, this validates retail-base viability in 50+ story residential projects; upscale food/beverage (not just fast-casual) can command rents and drive residential traffic. Retailer expansion (second Brooklyn location) suggests demographic strength and consumer spending in outer-borough submarkets."
+    },
+    {
+      "title": "Caterpillar digs into new $34M HQ expansion in Las Colinas",
+      "link": "https://therealdeal.com/texas/2026/07/09/caterpillar-digs-into-new-34m-hq-in-las-colinas/",
+      "excerpt": "Caterpillar, a worldwide construction and engineering manufacturer that calls suburban Dallas home, is planning an expansion of its headquarters around three miles down the road from its current one at the Towers at Williams Square. The company is expected to spend $36 million to renovate portions of an office property at 901 West Walnut Hill Lane in Irving. Initial phases of the project are slated to cover 107,000 square feet and are expected to be completed around August 2027, according to the Dallas Morning News. The total square footage of the Las Colinas offices is pegged at over 400,000 square [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-07-09T16:45:00+00:00",
+      "bullets": [
+        "Caterpillar expanding Dallas-Fort Worth HQ by $34M (107K sf phase one, 400K+ sf total) at 901 West Walnut Hill Lane, Irving.",
+        "Completion targeted August 2027; company relocated to DFW from Deerfield, Illinois in 2022; space for workforce and customer/dealer hosting.",
+        "Site formerly Zales headquarters, recently Vari (office furniture); Gensler designing ('Project Stone'); workforce growth in North Texas suburbs."
+      ],
+      "summary": "Caterpillar is investing $34 million to expand its Dallas-Fort Worth headquarters in Irving with an initial 107,000-square-foot phase expected to complete by August 2027. The company, which relocated its HQ from Deerfield, Illinois to DFW in 2022, is renovating a 400,000-plus-square-foot former Zales/Vari office campus at 901 West Walnut Hill Lane. The expansion will accommodate workforce growth and provide space for customer and dealer engagement.",
+      "impact": "Caterpillar's continuing HQ expansion (post-2022 relocation) confirms sustained workforce in-migration and job creation in the DFW metro, particularly in North Texas office/industrial corridors. This amplifies secondary demand drivers: manager and engineer salary growth, supporting spouse job-seeking, and family in-migration into suburban DFW—all tailwinds for rental demand in Irving, Las Colinas, and surrounding submarkets. Developers should acquire/entitle multifamily land near major corporate parks (CAT, Mary Kay, etc.) ahead of supply tightening."
+    },
+    {
+      "title": "High Leverage Drives Bankruptcies in U.S. Gaming, Leisure, Lodging and Restaurant Sector",
+      "link": "https://www.connectcre.com/stories/high-leverage-drives-bankruptcies-in-u-s-gaming-leisure-lodging-and-restaurant-sector/",
+      "excerpt": "Recent bankruptcies in the U.S. gaming, leisure, lodging, and restaurant (GLLR) sector reflect elevated leverage, higher borrowing costs, persistent cost inflation and softer discretionary consumer spending, Fitch Ratings reported. Pressures have been most acute for highly leveraged companies, particularly those serving more budget-constrained consumers. Leveraged loan default activity in GLLR increased between 2022 and 2024 after remaining consistently below 0.5% since 2015. Issuers in the sector account for 6.8% of&nbsp;Fitch’s U.S. High Yield Default Universe and 6.0% of its U.S. Institutional Leveraged Loan Default Universe. Most first-lien lenders fared well in GLLR bankruptcies. Among the 84 issuers analyzed, median and average recovery rates were 88% and 71%, respectively, while recoveries on second-lien and unsecured claims were more varied. GLLR bankruptcies also produced above-average exit multiples compared with the cross-sector median in Fitch’s U.S. corporate bankruptcy database. Of 59 GLLR case studies compiled by Fitch, 56 remain going concerns and have avoided liquidation.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-09T16:27:15+00:00",
+      "bullets": [
+        "Fitch reports elevated bankruptcies in U.S. gaming, leisure, lodging, restaurant (GLLR) driven by high leverage, cost inflation, softer consumer spend.",
+        "GLLR sector comprises 6.8% of High Yield Default Universe, 6.0% of Leveraged Loan Default Universe; default rates rose 2022–2024.",
+        "First-lien lenders recovered well (median 88%); 56 of 59 GLLR bankruptcies remain going concerns (no liquidations)."
+      ],
+      "summary": "Fitch Ratings reports elevated bankruptcy activity in U.S. gaming, leisure, lodging, and restaurant (GLLR) sectors, driven by elevated leverage, higher borrowing costs, persistent cost inflation, and softer discretionary consumer spending. The sector comprises 6.8% of the High Yield Default Universe. However, most first-lien lenders recovered well (median recovery 88%), and 56 of 59 bankruptcies analyzed remained going concerns rather than liquidations.",
+      "impact": "Minimal to multifamily. GLLR distress reflects consumer spending headwinds and refinancing pressures but is contained to overleveraged operators in capital-intensive, cyclical sectors. For multifamily, watch whether broader consumer-spending softness (flagged by GLLR distress) spills into renters' ability to pay; if discretionary-spend pullback continues, lower-income renter cohorts (and B/C-class properties) face rent-collection risk before A-class urban markets weaken."
+    },
+    {
+      "title": "Return to Lender: Week of July 9, 2026",
+      "link": "https://www.connectcre.com/stories/return-to-lender-week-of-july-9-2026/",
+      "excerpt": "The Chapter Buildings in Seattle&#8217;s University District traded June 30 after their owners surrendered the newly completed office and life science campus through a deed in lieu of foreclosure, according to the Puget Sound Business Journal. Bank OZK took ownership of the development after the borrowers transferred the buildings to satisfy a $196 million loan secured in 2022, according to King County records. The 10- and 12-story towers total over 400,000 square feet. The transfer ends the ownership for Touchstone, an affiliate of Seattle&#8217;s Urban Renaissance Group, and Atlanta-based Portman Holdings, which developed the project with Houston-based joint venture partner Lionstone Investments. The Pittsburgh Business Times reported that one of downtown Pittsburgh&#8217;s best known and most highly visible office properties has a new owner. Great Neck, NY-based Namdar Realty Group, best known locally as the owner of the long-struggling Galleria at Pittsburgh Mills, has quietly disclosed on its website that it is now also the owner of Gateway Center. Namdar lists the approximately 1.5-million-square-foot Gateway Center complex among its portfolio of properties on its website, designating the complex on its website as a &#8220;note&#8221; buy. Wells Fargo Bank had filed the foreclosure action against Hertz Gateway Center LP in October 2024 after it had entered special servicing in August of that year. The loan, originally valued at $112 million, had a balance of $91.8 million. Three years after foreclosing on a North Broad Street apartment building, its debt holders have sold the property to a national investment firm for $40.5 million, reported the Philadelphia Business Journal. An entity tied to Florida-based Kayne Anderson Real Estate acquired the 265-unit Lofts 640 from a CMBS trust that owned the $46-million loan that previously backed the building. The loan matured in late 2021, and the trust took possession of Lofts 640 after a foreclosure judgment was issu",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-09T16:26:07+00:00",
+      "bullets": [
+        "Week of July 9, 2026; lender distress and return-to-lender activity summary (article body not provided).",
+        "Generic headline only; no actionable data on market-specific distress, rates, or capital availability.",
+        "Unable to assess impact without substantive transaction or trend detail."
+      ],
+      "summary": "Article headline references 'Return to Lender' activity for the week of July 9, 2026, but the article body is not provided. No transactions, markets, or capital trends are disclosed.",
+      "impact": "Insufficient information to assess. A standalone 'Return to Lender' headline typically signals distressed asset sales or lender takedowns; would need market-specific data (assets, price declines, geographic clusters, rate environment) to flag impact on multifamily underwriting or acquisition strategy."
+    },
+    {
+      "title": "Pendry Nashville enlists Douglas Elliman, broker to woo New York condo buyers",
+      "link": "https://therealdeal.com/national/2026/07/09/pendry-nashville-taps-elliman-agent-to-woo-new-york-buyers/",
+      "excerpt": "A development advisory firm is wagering that a formula crafted in New York combining an intimate live music concert series with philanthropy can draw interest to a high-end Nashville condo project.&#160; Redeavor, the two-year-old firm serving as the exclusive sales and marketing team for the Pendry Residences Nashville, has tapped Douglas Elliman and one of its longtime brokers, Greg Williamson, as New York City marketing partners.&#160; Developed by SomeraRoad, the 30-story, $364 million tower is slated to include 146 condo units on the upper floors, as well as a 180-key hotel. Redeavor’s Maranda Blanton said they anticipate construction will be [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-07-09T16:00:00+00:00",
+      "bullets": [
+        "Redeavor (SomeraRoad developer) tapped Douglas Elliman and Greg Williamson to market Pendry Residences Nashville (30-story, 146 condos, 180-key hotel) to NYC buyers.",
+        "Pendry Nashville targeting completion end of 2027; $26M in condo pre-sales (Q1 2026); penthouse $7M, units start ~$1.3M; total project $364M.",
+        "Marketing strategy includes Soho Sessions concert series (Williamson co-founder); Gulch submarket includes 278-unit apartment complex (opened 2024) and mixed-use retail/office."
+      ],
+      "summary": "Redeavor engaged Douglas Elliman and broker Greg Williamson to market Pendry Residences Nashville, a 30-story, $364-million mixed-use tower with 146 condos and a 180-key hotel, to New York buyers. The project has closed $26 million in condo pre-sales in Q1 2026, with units starting around $1.3 million and a penthouse at approximately $7 million. Construction is expected to complete by end of 2027, with hotel opening in early 2028. Marketing includes the Soho Sessions concert series.",
+      "impact": "Nashville Gulch submarket is attracting significant capital and out-of-market buyer interest (NYC wealth targeting high-end for-sale units). The mix of condo, hotel, and apartments (278-unit complex opened 2024) signals Nashville's emergence as a secondary-market destination for mixed-income, mixed-tenure development. For-sale condo presales ($26M) and hotel development reduce rental supply competition; developers eyeing Nashville should focus on workforce/rental-income demographics rather than condo buyers and hospitality."
+    },
+    {
+      "title": "Provident Building $25M Tucson Distribution Center",
+      "link": "https://www.connectcre.com/stories/provident-building-25m-tucson-distribution-center/",
+      "excerpt": "Provident Industrial acquired 10 acres in Tucson, Arizona, for the development of Valencia Airport Center, a 163,000-square-foot Class A distribution facility. The project will deliver the market&#8217;s only institutional-quality availability featuring trailer parking, a fully concrete truck court, and perimeter fencing with controlled access for enhanced security and operations. Construction is underway on the $25 million development, which is expected to be ready for occupancy in Q2 2027. Once complete, Valencia Airport Center will introduce new Class A supply to one of Tucson&#8217;s most active industrial submarkets. The project is being led by Provident’s Chris Martin and Steven Nemer. Situated at the southwest corner of Palo Verde Road and Valencia Road, the property sits in the core of the Tucson Airport submarket. The location provides users with direct connectivity to Mexico via I-19 and access to major Western U.S. logistics corridors through I-10. Valencia Airport Center represents Provident&#8217;s third project in Arizona and its first in Tucson. Connect Industrial West | August 20&nbsp;| Irvine, CAOn August 20,&nbsp;Connect Industrial West&nbsp;will bring together the owners, investors, developers, brokers, lenders, and occupiers driving industrial real estate across the Western U.S. Join top decision-makers for an afternoon of market insights, dealmaking opportunities, and networking with the industry&#8217;s most influential players. &nbsp;Register now:&nbsp;www.connectindustrialwest2026.com",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-09T15:47:08+00:00",
+      "bullets": [
+        "Provident Industrial developing Valencia Airport Center, 163K sf Class A distribution facility in Tucson, Arizona; $25M, 10 acres.",
+        "Q2 2027 delivery; only institutional-quality supply in Tucson Airport submarket with trailer parking and controlled access.",
+        "Third Provident Arizona project, first in Tucson; location at Palo Verde and Valencia roads provides direct Mexico connectivity via I-19."
+      ],
+      "summary": "Provident Industrial is constructing Valencia Airport Center, a 163,000-square-foot Class A distribution facility in Tucson, Arizona, on a 10-acre site. The $25-million project is expected to be ready for occupancy in Q2 2027 and will introduce new institutional-quality supply to the Tucson Airport submarket. The location at the southwest corner of Palo Verde and Valencia roads offers direct connectivity to Mexico via I-19 and major Western U.S. logistics corridors.",
+      "impact": "Minimal to multifamily. Industrial development in Tucson reflects logistics/nearshoring interest in Arizona and Mexico gateway markets; however, warehouse supply does not directly compete with multifamily demand. Developers should note that industrial job creation in Tucson (distribution, logistics) may drive modest in-migration and workforce housing demand but is not a primary multifamily growth catalyst without major corporate expansions or population influx signals."
+    },
+    {
+      "title": "Miami Freedom Park redevelopment, West Palm office tower among $370M-plus construction permits for week ending July 8, 2026",
+      "link": "https://therealdeal.com/miami/2026/07/09/south-floridas-top-construction-permits-july-8-2026/",
+      "excerpt": "🏆 New Building: The largest permit issued was a $193 million new construction permit for 1822 Northwest 37th Avenue in Miami, tied to the redevelopment of Miami Freedom Park near the Miami International Airport, which will include more than 1 million square feet of retail, dining, entertainment and office space, 750 hotel rooms, a 58-acre public park, a new City of Miami administration building and Inter Miami CF’s Nu Stadium — which is already complete.Job Filing Number: BD25026033 📊 New Building: The second-largest permit was a $180 million commercial permit for 850 South Quadrille Boulevard in West Palm Beach, where [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-07-09T13:00:00+00:00",
+      "bullets": [
+        "Miami Freedom Park redevelopment: $193M permit for 1M+ sf retail/dining/entertainment/office, 750 hotel rooms, 58-acre park, Inter Miami CF stadium.",
+        "West Palm Point office tower (Cohen Brothers): $180M permit; construction stalled since 2020 launch; foreclosure suit filed 2025.",
+        "South Florida permits totaled $370M+ week ending July 8, 2026; includes Fort Lauderdale Broward Health 110K sf buildout and Miami Beach hotel renovations."
+      ],
+      "summary": "Miami Freedom Park redevelopment received a $193-million permit for a 1-million-plus-square-foot mixed-use complex near Miami International Airport, including retail, dining, office, 750 hotel rooms, a 58-acre public park, a new city administration building, and Inter Miami CF's completed Nu Stadium. A separate $180-million permit was issued for West Palm Point, an office tower by Cohen Brothers that has been stalled since 2020 and faced a 2025 foreclosure lawsuit. South Florida permits totaled over $370 million for the week ending July 8, 2026.",
+      "impact": "Mixed signals: Miami Freedom Park's approval is a major urban catalyst (mixed-use, hotel, office, retail, sports) but is airport-adjacent and entertainment-focused, not residential-primary. West Palm Point's stalled office project and foreclosure history signal continued office market weakness and developer distress in South Florida. For multifamily, monitor whether Miami Freedom Park's retail/hotel/entertainment activation drives secondary residential demand in nearby corridors, but note office weakness and cap-rate compression risk in West Palm Beach office submarkets as distressed sales accelerate."
     },
     {
       "title": "Naterra eyeing a $34M combination office and warehouse in Coppell",
@@ -62,31 +240,14 @@
       "excerpt": "Naterra International, a cosmetics and beauty company, is looking to expand their operations in Coppell with a new $34 million combination headquarters and warehouse facility.&#160; The facility is expected to span 442,010 square feet, with no additional information on how the space will be split between the office and the warehouse, according to the Dallas Business Journal.&#160; Dallas-based Pross Design Group will be heading up the construction. The future headquarters of the company will sit at 1525 Point West Boulevard in the suburb just northwest of Dallas, and the facility should be completed around December 2027. The price of the [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
       "source": "TRD Development",
       "cat": "Development",
-      "date": "2026-07-08T21:00:00+00:00"
-    },
-    {
-      "title": "Development Site Sale Closes Nearly Nine Years After Going Under Contract",
-      "link": "https://www.connectcre.com/stories/development-site-sale-closes-nearly-nine-years-after-going-under-contract/",
-      "excerpt": "Lee &amp; Associates NYC has completed the $7.5-million acquisition of a 2.84-acre development site at 374 Atlantic Ave. in Oceanside, NY on behalf of Sunrise Senior Living, concluding a transaction that spanned nearly nine years. Kelly Koukou, executive managing director and principal at Lee NYC, represented Sunrise Senior Living. Marlon Matza of Strategic Realty Advisors represented the sellers, Grossman Nurseries and Breslin Development. The parties originally signed the purchase contract in 2017, expecting a typical entitlement process. Instead, the project evolved into a complex, multi-year effort involving municipal approvals, public hearings and an extended entitlement process that coincided with the COVID-19 pandemic and related legal proceedings before ultimately closing in 2026. &#8220;This transaction is a reminder that commercial real estate brokerage often requires much more than simply bringing a buyer and seller together,&#8221; said Koukou. &#8220;Over the course of nearly nine years, we worked alongside our client through a complex entitlement process, changing market conditions and unforeseen challenges, while never losing sight of the end goal. We&#8217;re proud to have helped Sunrise reach this important milestone, and we&#8217;re excited to see the project move from years of planning into development.” Sunrise Senior Living plans to develop an approximately 77,400-square-foot assisted living and memory care community on the site, with 84 residential units offering assisted living and dedicated memory care services.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-08T20:56:14+00:00"
-    },
-    {
-      "title": "Walker Webcast: Economist Peter Linneman Says Economy is Stable",
-      "link": "https://www.connectcre.com/stories/walker-webcast-economist-peter-linneman-says-economy-is-stable/",
-      "excerpt": "Despite persistent uncertainty surrounding inflation, gasoline prices and politics, economist Peter Linneman believes the U.S. economy remains on solid footing. During the July 8 Walker Webcast, Linneman told host Willy Walker, Chairman and CEO of Walker &amp; Dunlop, that the economy could be performing even better if businesses and consumers had greater confidence. &#8220;Could the U.S. economy be doing better? Of course, if we didn&#8217;t have all this uncertainty,&#8221; Linneman said. The Quick Growth of AI Linneman also discussed the impact of artificial intelligence on employment, saying that he doesn’t see the technology eliminating a massive number of jobs. He argued that technological innovation has historically created new industries and occupations while eliminating others. Instead, he said that workforce changes will happen gradually, rather than generating near-term widespread job losses. But he worries that today’s AI investment boom could resemble previous periods of overinvestment, such as the housing bubble. In fact, “I think AI actually is going to slow the economy over the next couple of years because we did too much too soon,” he said, adding that he believes what’s happening in AI is that “we’re investing about four years of what we should invest in two years.” Lower Interest Rates Still Expected Interest rates remain the ongoing key variable for commercial real estate. Linneman said the Federal Reserve&#8217;s relatively restrictive policy remains appropriate, adding that inflation has largely returned to the Fed&#8217;s target when owners&#8217; equivalent rent and volatile energy prices are excluded. He backed off his previous prediction of a 75-basis-point decrease in the federal funds rate in 2026, saying the Fed will likely cut 50 bps by the end of the year. His reasons were that temporary inflationary pressures from oil price volatility should end, which could support lower interest rates. Consumer Confidence Should Improve Consumer con",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-08T20:39:41+00:00"
-    },
-    {
-      "title": "JLL Closes Sale of Boutique Hotel in New Hampshire Capital City",
-      "link": "https://www.connectcre.com/stories/jll-closes-sale-of-boutique-hotel-in-new-hampshire-capital-city/",
-      "excerpt": "JLL’s Hotels &amp; Hospitality Group finalized the sale of The Centennial Hotel, a 32-room Victorian-era boutique hotel located at 96 Pleasant St.t in downtown Concord, New Hampshire&#8217;s capital city. Senior managing director Alan Suzuki represented the seller, Sparta Properties, with John Linell serving as JLL’s New Hampshire broker of record for the transaction. Lord Hotels acquired the asset. The sale price was not disclosed. Built in 1898 and converted to a hotel in 1996, The Centennial Hotel sits on 1.85 acres along Pleasant Street. Between 2023 and 2024, ownership completed comprehensive capital improvements. The property serves New Hampshire&#8217;s most concentrated business and medical district. &#8220;We continue to see high-net-worth individuals and families gravitating toward boutique hotel acquisitions, particularly assets with strong stories and strategic locations like The Centennial Hotel,&#8221; said Suzuki. &#8220;This Victorian-era property offered an ideal combination of recent capital improvements, unencumbered operations and immediate upside through hands-on management and food &amp; beverage optimization.&#8221;",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-08T20:39:13+00:00"
+      "date": "2026-07-08T21:00:00+00:00",
+      "bullets": [
+        "Naterra International (cosmetics/beauty supplier, Baby Magic/Tree Hut brands) planning $34M, 442K sf headquarters/warehouse in Coppell, Texas.",
+        "Completion target December 2027; ~$77/sf blended construction cost; current HQ also in Coppell (601 Fritz Drive); Pross Design Group contractor.",
+        "Dallas-Fort Worth region home to Mary Kay, Sally Beauty, Jack Black, Cetaphil; 'thriving' but 'virtually undercover' beauty supply cluster with deep Walmart relationships."
+      ],
+      "summary": "Naterra International, a family-owned cosmetics manufacturer and 30-year Walmart supplier (brands: Baby Magic, Tree Hut, Splash), is planning a $34-million, 442,010-square-foot headquarters and warehouse facility in Coppell, Texas, to be completed by December 2027. The facility equates to approximately $77 per square foot. Naterra is relocating from its current Coppell headquarters at 601 Fritz Drive. The Dallas-Fort Worth region hosts a significant beauty-supply industry cluster including Mary Kay, Sally Beauty, and Cetaphil.",
+      "impact": "Naterra's HQ expansion and in-place relocation within Coppell signals continued manufacturing/distribution job stability in DFW suburbs but does not necessarily drive in-migration (it is a local consolidation). However, the Dallas-Fort Worth beauty-supply cluster (Mary Kay, Sally Beauty, Cetaphil, Jack Black) is a major wage and employment anchor; multifamily developers should recognize DFW's industrial/logistics/CPG base as a long-term demand foundation and watch for major headquarters moves or expansions (cross-relocations) that could trigger workforce in-migration into office-adjacent submarkets."
     },
     {
       "title": "San Antonio closes on three key Project Marvel parcels for $30M",
@@ -94,63 +255,14 @@
       "excerpt": "San Antonio formally acquired federal properties downtown that are within the boundaries of a potential sports and entertainment district dubbed Project Marvel.&#160; Officials for the General Services Administration and the city announced Monday that San Antonio paid $30 million for the federal office building at 727 East César Chávez Boulevard and two parking lots on Indianola Street. The purchase was funded by the NBA franchise the San Antonio Spurs, city manager Erik Walsh said in a statement. The San Antonio Business Journal reported that part of Project Marvel is set aside for the Spurs, who plan on building a new [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
       "source": "TRD Development",
       "cat": "Development",
-      "date": "2026-07-08T20:36:14+00:00"
-    },
-    {
-      "title": "Arlington, Va., Hotel-to-Resi Project Sells for $35M",
-      "link": "https://commercialobserver.com/2026/07/arlington-va-hotel-to-resi-multifamily/",
-      "excerpt": "An extended-stay hotel in Arlington, Va., is set to be transformed back into multifamily housing. GoodHomes Communities put down $35 million to acquire the Arlington Court Suites, a 187-key hotel that the buyer plans to convert into a 180-unit apartment building. KLNB announced the deal and, together with HREC Investment Advisors, represented the seller, Arlington Hotel Holdings, run by Sunburst Hospitality. NewPoint Real Estate Capital provided a $34.6 million in financing for the property, Commercial Observer can first report. The 219,000-square-foot development is at 1200 North Courthouse Road. It was built in 1963 as an apartment complex but changed to an extended-stay hotel in the 1980s. With Arlington County approving the conversion back to apartments, the sale adds to the growing number of adaptive reuse projects in the region. Similarly, the deal extends GoodHomes’ redevelopment strategy to reposition aging hospitality assets into multifamily housing. The KLNB team included Rawles Wilcox, Justin Shay and Dutch Seitz, and HREC’s team included Mark Morris and Scott Stephens. Gregory Cornfield can be reached at gcornfield@commercialobserver.com. &nbsp; Update: This article has been updated since it was first published to include the name of the seller, and to include information about financing.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-08T20:35:45+00:00"
-    },
-    {
-      "title": "Ideal Marketplace Renews 15K-SF Grocery Store at Chelsea’s 317 Ninth Avenue",
-      "link": "https://commercialobserver.com/2026/07/ideal-marketplace-lease-renewal-317-ninth-avenue/",
-      "excerpt": "Supermarket chain Ideal Marketplace has renewed the lease on its 14,770-square-foot store in Manhattan’s Chelsea neighborhood. The retail deal’s address at 317 Ninth Avenue resides between West 28th and West 29th streets, inside a United States Postal Service (USPS) property that spans the entire city block. USPS, which is actively operating at the connected 341 Ninth Avenue, owns the five-story property. Founded in 2007, Ideal Marketplace, a cooperative of independent food grocers, operates locations in New York, Florida, Pennsylvania, Massachusetts, Connecticut, Georgia and Rhode Island, according to its website. The terms of the Chelsea location’s renewed lease are unclear, but asking rents have risen across the city’s prime retail submarkets, according to a second-quarter report by JLL. In the nearby Meatpacking District, retail asking rents averaged $329 per square foot during the period. The brokers involved in the renewal deal were also unclear. A spokesperson for Ideal Marketplace did not respond to a request for comment. The site of the store’s renewal, also known as Morgan South, is part of the city&#8217;s historic USPS distribution center, which stretches across West 29th Street to the building known as Morgan North. Morgan North was recently repositioned into a multi-use property. Although USPS leases most of its post offices, USPS is a landlord in its own right. The postal service owns 8,400 facilities nationwide, according to a 2020 report by the think tank R Street. Emily Davis can be reached at edavis@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-08T19:45:47+00:00"
-    },
-    {
-      "title": "Chinese Camera Company Insta360 to Open Store in Times Square",
-      "link": "https://commercialobserver.com/2026/07/china-camera-insta360-lease-times-square/",
-      "excerpt": "Insta360, a China-based global optics and camera company, has signed its first U.S. lease for a 1,100-square-foot store at 1515 Broadway in Manhattan’s Times Square, Commercial Observer has learned. The world’s No. 1 360-degree camera brand, which is a direct competitor to the popular GoPro brand, has been used for purposes ranging from undersea exploring to documenting sustainable outer space adventures. The company expects to open its new Times Square shop in August or September, where it will feature immersive demo zones, creator-led sessions, on-site product education and marketing events. Louis Franco and Joseph Isa of Isa Realty Group represented the tenant, while Ross Berkowitz of Newmark represented the building owner, SL Green Realty. The asking rent on the two-year deal was $1,000 per square foot. Sources said the short term of the lease was at the behest of SL Green, which wants to preserve options for the property that it had hoped to convert into a casino once Paramount&#8216;s office lease ends. SL Green has also indicated it may still continue with a hotel, entertainment and observation deck conversion plan at the property between West 44th and West 45th streets. “We approached Insta360 with the idea of opening a flagship store in Times Square because there is no better retail destination in the world to make a statement for a U.S. launch,” Franco said. “Insta360 is an innovative global brand, and 1515 Broadway gives them the visibility, energy and foot traffic that only Times Square can provide.” Insta360 has previously run successful New York pop-up events for its X series of cameras, including one at Grand Central Terminal. A spokesperson for the camera company said its new, more permanent space in Times Square will give it the opportunity to “deepen connections” made through those pop-ups and “serve as a hub for the city’s creative community.” Asian brands are focusing on Times Square due to its global tourism, video billboards and late-night shop",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-08T19:11:26+00:00"
-    },
-    {
-      "title": "Inside developer Michael Stern and his Italian investor’s breakup",
-      "link": "https://therealdeal.com/miami/2026/07/08/inside-developer-michael-stern-gianluca-vacchis-dispute/",
-      "excerpt": "A partnership between developer Michael Stern and Italian investor and entrepreneur Gianluca Vacchi is imploding, newly filed court records show. Stern, founder and CEO of JDS Development Group, teamed up with Vacchi in 2024. They formed a joint venture to invest in a $4 billion pipeline of new developments that included Mercedes-Benz Places Miami, the Dolce &#38; Gabbana-branded 888 Brickell, the 1250 West Avenue project in Miami Beach, and a planned buyout Casablanca condo-hotel, also in Miami Beach.&#160; Of those, only two are still owned by Stern: Mercedes-Benz Places and 888 Brickell. Both are facing separate lawsuits, including a foreclosure.&#160; [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-07-08T19:02:18+00:00"
-    },
-    {
-      "title": "JVP’s spec office construction underway at $3B Frisco project The Mix",
-      "link": "https://therealdeal.com/texas/2026/07/08/jvps-office-build-part-of-3b-frisco-project-the-mix/",
-      "excerpt": "New York-based JVP Development broke ground on a $3 billion speculative office building in Frisco’s 112-acre The Mix development.&#160; The building at 7725 Lebanon Road will span 110,000 square feet when completed next summer if the given timeline remains on track. The Mix itself is slated to be a decades-long project that will feature dining options, two hotels, a 9-acre park and apartment complexes.&#160; Tim Campbell, The Mix’s head of development, told the Dallas Business Journal that JVP’s office building is a crucial step in building out the rest of the development. An adjacent Whole Foods fixture that spans 100,000 [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-07-08T18:45:00+00:00"
-    },
-    {
-      "title": "Engineering failure likely behind Pfizer project scare",
-      "link": "https://therealdeal.com/new-york/2026/07/08/engineering-failure-likely-behind-pfizer-project-scare/",
-      "excerpt": "Major renovations on aging buildings require delicate structural work, particularly when developers add floors, cantilever new sections or redistribute loads through an existing frame. Structural engineers say those projects demand extensive analysis to ensure existing structures can safely support new weight and altered load paths. When something is overlooked in the design, engineering or construction process, the consequences can be severe. “There&#8217;s a lot of structural analysis that has to go on. If that goes on carefully, everything should work out the way the engineers planned it,” said real estate attorney and structural engineering expert Barry LePatner. “If they fail [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-07-08T18:00:00+00:00"
-    },
-    {
-      "title": "Uptown Theatre owner seeks $200M overhaul with bigger city subsidy",
-      "link": "https://therealdeal.com/chicago/2026/07/08/scuffle-brewing-over-funding-for-uptown-theater/",
-      "excerpt": "How much money is enough to renovate a classic Chicago landmark? The developers aiming to revamp the long-shuttered Uptown Theatre at 4816 North Broadway and the city of Chicago are about to find out.&#160; Uptown Theatre owner Jerry Mickelson said that a full renovation would come with a $200 million price tag, and the majority of that funding would have to be public, according to Block Club Chicago. He went on to cite a downtown office building on LaSalle Street that received $98 million from the city in tax increment financing, while he’s been offered around half of that figure.&#160; [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-07-08T15:30:00+00:00"
+      "date": "2026-07-08T20:36:14+00:00",
+      "bullets": [
+        "San Antonio acquired three downtown federal properties for $30M: 727 East César Chávez Boulevard (federal office building) and two parking lots on Indianola Street.",
+        "San Antonio Spurs funded the purchase via General Services Administration accelerated disposition sale; property within Project Marvel sports/entertainment district boundaries.",
+        "Project Marvel total cost $1.2B–$1.5B; includes new Spurs arena, 50 acres mixed-use, 1,000-room hotel, Henry B. González Convention Center expansion; Frost Bank Center to become rodeo district."
+      ],
+      "summary": "San Antonio, funded by the NBA San Antonio Spurs, closed on the acquisition of three federal properties downtown for $30 million: a federal office building at 727 East César Chávez Boulevard and two Indianola Street parking lots. The purchases are part of Project Marvel, a $1.2 billion–$1.5 billion mixed-use district centered on a new Spurs arena, 50 acres of mixed-use development, and a 1,000-room hotel. The Frost Bank Center (current Spurs venue) will be redeveloped as a rodeo district.",
+      "impact": "Project Marvel represents a major downtown San Antonio catalyst—arena + mixed-use + hotel + convention center expansion. The Spurs' direct funding and GSA federal-property acquisition at scale signal municipal/private-sector commitment and catalytic redevelopment. For multifamily developers, Project Marvel will generate sustained downtown demand (arena jobs, hotel services, retail/entertainment foot traffic, office) and create a window for Class A residential in-fill around the arena/convention corridor. Monitor entitlements and public/private financing; Project Marvel completion (expected 2027+) will likely drive rental demand and justify new construction in Downtown San Antonio submarkets adjacent to the arena."
     }
   ]
 }
