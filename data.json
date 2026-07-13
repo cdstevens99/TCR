@@ -1,29 +1,223 @@
 {
-  "fetchedAt": "2026-07-11T07:19:35.724988+00:00",
+  "fetchedAt": "2026-07-13T18:20:03.238733+00:00",
   "rates": [
     {
       "label": "SOFR",
-      "value": "3.53%",
-      "pct": -0.05,
+      "value": "3.55%",
+      "pct": 0.02,
       "isBps": true
     },
     {
       "label": "10Y Treasury",
-      "value": "4.57%",
-      "pct": 0.66
+      "value": "4.62%",
+      "pct": 1.07
     },
     {
       "label": "30Y Treasury",
-      "value": "5.07%",
-      "pct": 0.36
+      "value": "5.10%",
+      "pct": 0.65
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "97.32",
-      "pct": 0.24
+      "value": "97.66",
+      "pct": 0.34
     }
   ],
   "stories": [
+    {
+      "title": "Winkler Purchases 94K-SF Broomfield Mixed-Use Property",
+      "link": "https://www.connectcre.com/stories/winkler-purchases-94k-sf-broomfield-mixed-use-property/",
+      "excerpt": "Winkler Development acquired all the properties that make up Mainstreet at FlatIron, a 94,000-square-foot portfolio in Broomfield that includes a two-story retail and office property, a multi-tenant retail building, and a surface parking lot. The price for the package was $19.95 million. Wells Fargo provided a $12 million acquisition loan to help fund the deal. The properties sit across the street from the FlatIron Crossing mall in Broomfield. Mainstreet at FlatIron was constructed in 2002. Aequus Partners was the seller. The group previously purchased the two-building portfolio for $5.08 million in 2017. Mainstreet at FlatIron was constructed in 2002. Last November, Winkler purchased the shopping center of Parker Pavilions, at 11465 S. Parker Road, for $8.4 million. Winkler targets investments that range from $5 million to $80 million. The post Winkler Purchases 94K-SF Broomfield Mixed-Use Property appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-13T18:07:32+00:00",
+      "bullets": [
+        "Winkler Development acquired 94K-SF Broomfield mixed-use portfolio for $19.95M",
+        "Wells Fargo provided $12M acquisition loan; seller Aequus Partners bought property for $5.08M in 2017",
+        "Property across from FlatIron Crossing mall; Winkler expanding retail portfolio in Colorado"
+      ],
+      "summary": "Winkler Development purchased Mainstreet at FlatIron, a 94,000-square-foot mixed-use property in Broomfield, Colorado, for $19.95 million with $12 million in Wells Fargo financing. The portfolio includes retail, office, and parking across from FlatIron Crossing mall. Aequus Partners, the seller, had acquired the property in 2017 for $5.08 million, reflecting significant value appreciation in the submarket.",
+      "impact": "Limited relevance to multifamily development. This is a retail/office acquisition targeting value-add in suburban Denver, not a residential play. No direct signal for apartment supply, demand, or financing trends."
+    },
+    {
+      "title": "CREFC Sentiment Index Shows Market Stabilizing into Caution",
+      "link": "https://www.connectcre.com/stories/crefc-sentiment-index-shows-market-stabilizing-into-caution/",
+      "excerpt": "The CRE Finance Council (CREFC) said Monday its Second-Quarter 2026 (2Q26) Board of Governors (BOG) Sentiment Index rose 0.9% to 101.0 from 100.1 in the previous quarter, holding near the survey&#8217;s 2017 baseline of 100.0 after the prior quarter&#8217;s 20.2% decline. However, Beneath the modest headline move, results were mixed. Five of nine core questions improved – led by the economic outlook – while four softened, led by borrower and investor demand, which moderated from 1Q26&#8217;s elevated readings. Conducted between June 25 and July 6, the survey captured a market stabilizing after the geopolitical shock that drove last quarter&#8217;s decline, but stabilizing into caution rather than conviction. &#8220;After last quarter&#8217;s shock, this is what a market catching its breath looks like,&#8221; said Lisa Pendergast, president and CEO of CREFC. Neutral was the most common answer on seven of the nine core questions. For example, 58% of respondents now expect the U.S. economy to perform at the same level over the next 12 months, while 24% expect worse performance, down from 54% in the previous survey. Views on interest rates remained the weakest reading for a second consecutive quarter. The post CREFC Sentiment Index Shows Market Stabilizing into Caution appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-13T18:03:44+00:00",
+      "bullets": [
+        "CREFC Sentiment Index rose 0.9% to 101.0 in 2Q26 after 20.2% prior quarter decline",
+        "Five of nine core questions improved; borrower and investor demand softened from elevated 1Q26 levels",
+        "Market stabilizing into caution: 58% expect flat U.S. economy; interest rate views remain weakest reading"
+      ],
+      "summary": "The CRE Finance Council's 2Q26 Sentiment Index rebounded slightly to 101.0 from 100.1, recovering from the prior quarter's 20.2% shock-driven decline. Mixed results underneath the modest headline: five core indicators improved (led by economic outlook) while four softened, particularly borrower and investor demand. The survey reflects a market catching its breath but stabilizing into caution, with 58% expecting flat economic performance and interest rate views remaining the weakest metric.",
+      "impact": "CRITICAL FOR UNDERWRITING AND CAPITAL. Moderating borrower/investor demand signals tightening leverage availability and rising selectivity in multifamily lending. Weak interest rate outlook suggests SOFR volatility will persist, making fixed-rate construction debt expensive and floating-rate refinance risk real. Cautious sentiment may delay leverage-dependent development starts and flag higher cap rates for stabilized acquisitions across all metros—a headwind for both new builds and refinances."
+    },
+    {
+      "title": "Mamdani Selects Underutilized NYPD Parking Lot for Affordable Housing",
+      "link": "https://commercialobserver.com/2026/07/mamdani-nypd-parking-lot-housing-324-east-fifth-street/",
+      "excerpt": "Mayor Zohran Mamdani announced Monday that an underutilized New York Police Department parking lot in Manhattan’s East Village will be redeveloped as mixed-use housing. The site, at 324 East Fifth Street, is slated for approximately 131 affordable housing units, 30 percent of which will be reserved for formerly homeless New Yorkers. The mixed-use project was designated to a development team of Spatial Equity, Housing Works, the Cooper Square Committee and the This Land Is Ours Community Land Trust. The mayor announced the redevelopment plans jointly with Deputy Mayor Leila Bozorg and Dina Levy, head of New York City Housing Preservation and Development. The development, dubbed the Aurea, will include a senior center, community space and replacement parking. Plans also include landscaped terraces, green roofs and all-electric systems. Housing Works will provide on-site support services for residents. On his first day in office this year, Mayor Mamdani mandated a review of city-owned sites that could be used to develop at least 25,000 new housing units over the next decade. The Land Inventory Fast Track (LIFT) task force was created for the purpose. “This project will provide permanently affordable housing, create homes for formerly homeless New Yorkers and put community stewardship at its center through a community land trust,” Mamdani said in a statement. “It&#8217;s the first city land designation of our administration, and it&#8217;s exactly the kind of housing we&#8217;re committed to building across the five boroughs: deeply affordable, community-led and worthy of the greatest city in the world.” Emily Davis can be reached at edavis@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-13T17:56:45+00:00",
+      "bullets": [
+        "NYC Mayor Mamdani announces 131-unit affordable housing on underutilized NYPD parking lot, East Village",
+        "30% of units reserved for formerly homeless; development team includes nonprofits and community land trust",
+        "Project includes senior center, community space, replacement parking, green roofs, all-electric systems"
+      ],
+      "summary": "Mayor Zohran Mamdani announced redevelopment of an underutilized NYPD parking lot at 324 East Fifth Street in Manhattan's East Village into a mixed-use affordable housing project called The Aurea. The 131-unit building will reserve 30% of units for formerly homeless New Yorkers and will include community services, a senior center, and green infrastructure. Development is led by Spatial Equity, Housing Works, Cooper Square Committee, and This Land Is Ours CLT.",
+      "impact": "MODEST RELEVANCE TO FOR-PROFIT MULTIFAMILY DEVELOPMENT. Public/nonprofit-led affordable housing using city land diverts potential market-rate development sites in tight Manhattan submarkets. The emphasis on homeless services and CLT control signals continued regulatory/political preference for deed-restricted inventory. For-profit developers should monitor East Village entitlement trends—public land transfers may reduce available market-rate opportunities, but ground-lease partnerships with nonprofits could unlock otherwise constrained sites."
+    },
+    {
+      "title": "From the gridiron to the high-rise: Blake Poston planning $100M Uptown Dallas high-rise",
+      "link": "https://therealdeal.com/texas/2026/07/13/blake-poston-planning-100m-uptown-dallas-high-rise/",
+      "excerpt": "A former SMU football player is developing a $100 million, 20-story high-rise just north of Uptown Dallas, around a mile from where he used to drop into coverage on Saturdays.&#160; Blake Poston, who was a part of the Southern Methodist University Mustangs football team for three years and went to Highland Park High School, is also the founder of Cover2 Capital. Poston told the Dallas Morning News that Cover2 is aiming to begin construction on an Uptown high-rise at 5220 McKinney Avenue late next year. The building is dubbed The Savannah, and Cover2 is still in design and city development [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-07-13T17:35:00+00:00",
+      "bullets": [
+        "Cover2 Capital (founded 2022) planning $100M, 20-story, 100-unit luxury high-rise in Dallas Uptown",
+        "The Savannah targets late 2026 construction start; 1,800 SF avg units, 1–3 bedrooms plus three penthouses",
+        "Cover2 also developing 297-unit Wheelhouse (North Richland Hills) and garden-style Greerhouse (Anna)"
+      ],
+      "summary": "Blake Poston's Cover2 Capital is planning The Savannah, a $100 million, 20-story luxury apartment tower at 5220 McKinney Avenue in Dallas Uptown with 100 units and three penthouses. Average unit size is 1,800 square feet, targeting similar rents to nearby luxury properties. Construction is slated to begin late 2026. Cover2 also operates the 297-unit Wheelhouse mixed-use project in North Richland Hills.",
+      "impact": "STRONG SIGNAL OF UPTOWN DALLAS MARKET MOMENTUM AND CAPITAL CONFIDENCE. Luxury infill development in constrained Uptown submarket—larger unit sizes and premium positioning reflect strong rental demand and pricing power. Young developer's $100M raise and aggressive timeline suggest capital appetite for high-quality urban multifamily in Dallas. Wheelhouse and Greerhouse completions will test absorbtion and exit strategy; success could unlock future UpMarket pipeline in core Dallas submarkets."
+    },
+    {
+      "title": "Real Estate Firm Landmark Management Signs 12K-SF Lease at One Grand Central Place",
+      "link": "https://commercialobserver.com/2026/07/landmark-management-lease-one-grand-central-place/",
+      "excerpt": "A real estate investment and management firm is relocating its offices to Midtown East, near Grand Central Terminal, Commercial Observer has learned. Landmark Management signed a 12,168-square-foot lease on the 52nd floor of Empire State Realty Trust (ESRT)’s One Grand Central Place, according to the landlord, in a relocation from its current offices at 115 East 69th Street on the Upper East Side. ESRT did not disclose the asking rent or the length of the lease, but the average office asking rent in Midtown during the second quarter of 2026 was $86.18 per square foot, according to a report from CBRE. Ryan Kass, Jordan Berger, Shanae Ursini and Kerry Lavelle represented ESRT in-house alongside a Newmark team of Scott Klau, William Cohen, Erik Harris and Neil Rubin. CBRE’s Christopher Corrinet and Evan Fiddle negotiated on behalf of the tenant. Newmark and CBRE did not immediately respond to requests for comment. Other tenants in the 55-story building along East 42nd between Madison and Park avenues Street include financial and consulting services firm Gerson Lehrman Group, which expanded to 95,612 square feet there in November 2025, as well as fintech firm iCapital, which expanded to 219,928 square feet in February 2025. J.P. Morgan Chase Bank also operates a large retail location at the base of the building. Chase renewed its 21,683-square-foot lease in February 2026. Mark Hallum can be reached at mhallum@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-13T17:20:59+00:00",
+      "bullets": [
+        "Landmark Management relocated 12,168-SF office lease to 52nd floor, One Grand Central Place, Midtown East",
+        "Midtown average office asking rent $86.18/SF (2Q26); relocation from Upper East Side (115 E. 69th St)",
+        "ESRT landlord; Newmark and CBRE brokered transaction"
+      ],
+      "summary": "Real estate investment and management firm Landmark Management signed a 12,168-square-foot office lease on the 52nd floor of Empire State Realty Trust's One Grand Central Place in Midtown East, relocating from its Upper East Side offices. Midtown's average office asking rent stands at $86.18 per square foot as of 2Q26. ESRT, Newmark, and CBRE represented all parties.",
+      "impact": "Minimal relevance to multifamily development. Office leasing activity near Grand Central is a positive sign of Midtown East stability and tenant demand, but does not directly affect apartment supply, demand, or development capital. However, sustained office leasing may support secondary demand for urban rental housing in Midtown/Upper East Side adjacencies."
+    },
+    {
+      "title": "Apollo Provides $71M Loan for Tribeca Luxury Condo Conversion",
+      "link": "https://commercialobserver.com/2026/07/apollo-139-franklin-street-tribeca-luxury-condo-conversion/",
+      "excerpt": "A joint venture between Broad Street Development and TPG Angelo Gordon has secured $71 million in construction financing to build 139 Franklin Street, a boutique residential condominium that will deliver up to 18 units in Manhattan’s Tribeca neighborhood, Commercial Observer can first report. Affiliates of Apollo Global Management provided the construction debt, while a JLL Capital Markets team of Michael Gigliotti and Aaron Niedermayer arranged the transaction. Raymond Chalmé, principal of Broad Street Development, described the new asset as “one of Tribeca&#8217;s most distinctive boutique residential offerings,&#8221; in a statement and noted that the building is being marketed specifically to luxury buyers in the swanky Manhattan submarket. “We appreciate Apollo&#8217;s confidence in our team and JLL&#8217;s expertise in arranging financing that positions the development for a successful delivery,&#8221; he said. Located near the intersection of Franklin Street, Varick Street and West Broadway, 139 Franklin Street is being built on the site of a 56,384-square-foot, 10-story, 74-unit self-storage facility. The site is in the heart of Tribeca, an enclave of lofts and converted luxury apartments on the west side of Manhattan below Canal Street. Broad Street Development and TPG Angelo Gordon acquired the former site from the Sofia family for $43.5 million in 2025, according to YIMBY. This is far from Broad Street’s first luxury or conversion play in Lower Manhattan. The firm oversaw the construction of 40 Bleecker Street and 215 Sullivan Street in the last decade, and converted the old Maritime Exchange Building into 326 luxury apartments at 80 Broad Street. The new residential condo at 139 Franklin Street is expected to deliver three- to five-bedroom homes with private outdoor space and wellness-style amenities, according to JLL. JLL’s Gigliotti described Tribeca in a statement as one of Manhattan’s most sought-after residential submarket due to the limited invento",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-13T17:19:34+00:00",
+      "bullets": [
+        "Apollo Global Management funded $71M construction loan for 139 Franklin Street, Tribeca luxury condo conversion",
+        "Broad Street Development and TPG Angelo Gordon JV building 18-unit boutique residential condominium",
+        "JLL Capital Markets (Gigliotti, Niedermayer) arranged; property near Franklin/Varick/Broadway intersection"
+      ],
+      "summary": "A joint venture between Broad Street Development and TPG Angelo Gordon secured $71 million in construction financing from Apollo Global Management for 139 Franklin Street, a boutique luxury condominium project in Tribeca with up to 18 units. The financing was arranged by JLL Capital Markets. The property is positioned as one of Tribeca's most distinctive high-end residential offerings.",
+      "impact": "Limited relevance to multifamily (rental) development. Luxury condo conversion financing reflects strong capital availability for high-end Manhattan residential and investor appetite for trophy assets. However, condo sales vs. rental apartments serve different investor bases and capital sources. Signal is positive for Manhattan residential fundamentals and trophy-location confidence, but does not inform apartment supply, rents, or multifamily construction debt."
+    },
+    {
+      "title": "Newmark Refis Multifamily Portfolio With $163M Fannie Mae Loan",
+      "link": "https://commercialobserver.com/2026/07/newmark-fannie-mae-multifamily-portfolio/",
+      "excerpt": "LaSalle Investment Management has sealed $163 million of Fannie Mae-backed debt to refinance three multifamily properties in Washington, D.C., Northern Virginia and Oregon, Commercial Observer has learned. Newmark, a delegated underwriting and servicing (DUS) lender for Fannie Mae, supplied the loan for the 833-unit portfolio. The debt was arranged by Newmark&#8217;s Jordan Roeschlaub, Christopher Kramer, Aaron Golesorkhi and Capri Van Gilder. The transaction refinances LaSalle’s existing cross-collateralized Fannie Mae credit facility for the properties while also enabling it to add collateral in the future, according to Newmark. The deal provides “long-term financing while maintaining conservative leverage and strong credit metrics,” Newmark said. The portfolio includes 14W Apartments at 1315 W Street NW in Washington, D.C. Pearson Square at 410 South Maple Avenue in Falls Church, Va.; and Nexus at Orenco Station at 1299 NE Orenco Station Parkway in Hillsboro, Ore. LaSalle Investment Management did not immediately return a request for comment. Andrew Coen can be reached at acoen@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-13T16:54:37+00:00",
+      "bullets": [
+        "LaSalle Investment Management refinanced 833-unit multifamily portfolio with $163M Fannie Mae DUS loan via Newmark",
+        "Portfolio spans Washington D.C., Northern Virginia, Oregon; includes 14W Apartments (DC), Pearson Square (Falls Church), Nexus at Orenco Station (Hillsboro)"
+      ],
+      "summary": "LaSalle Investment Management closed $163 million in Fannie Mae-backed debt arranged by Newmark (DUS lender) to refinance three multifamily properties totaling 833 units across Washington, D.C., Northern Virginia, and Oregon. The deal refinanced LaSalle's existing cross-collateralized credit facility and enables future collateral additions. Properties include 14W Apartments (DC), Pearson Square (Falls Church), and Nexus at Orenco Station (Hillsboro).",
+      "impact": "POSITIVE SIGNAL FOR MULTIFAMILY CAPITAL AND LEVERAGE. Large-scale GSE refinancing of stabilized portfolio at conservative leverage indicates Fannie Mae's continued appetite for seasoned multifamily, particularly outside hot coastal markets (D.C., Va., Oregon). Refinancing success validates market fundamentals in mid-Atlantic and Pacific Northwest and suggests DUS execution remains smooth. Useful comp for developers targeting stabilized exit financing in these metros."
+    },
+    {
+      "title": "Austin Office Tower Trades for $151M",
+      "link": "https://www.connectcre.com/stories/brandywine-sells/",
+      "excerpt": "Brandywine Realty Trust sold downtown Austin’s 405 Colorado tower for $151 million. Chris Price at Partners was quoted in LinkedIn saying the buyer was Hines and that the 25-story tower is 100% leased. At its annual meeting, Brandywine’s CEO said the company was looking to divest between $250 million and $300 million in assets. Completed in 2021, 405 Colorado is a 206,000-square-foot office tower with a 520-space, above-ground parking garage located at its namesake address in downtown Austin. The tower was designed by Duda Paine Architects. The Austin Business Journal reports Brandywine has been active in Austin in recent years. It’s developing its sprawling Uptown ATX development adjacent to North Austin’s The Domain and attracting tenants like Nvidia. Last year, Brandywine sold North Austin&#8217;s Quarry Lake II, a 120,600-square-foot office building, to Brick Row Holdings. It also sold Southwest Austin&#8217;s Four Barton Skyway, a 225,580-square-foot building, to an unknown buyer. The post Austin Office Tower Trades for $151M appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-13T16:50:18+00:00",
+      "bullets": [
+        "Brandywine Realty Trust sold 405 Colorado (25-story, 206K SF office tower, Austin downtown) to Hines for $151M",
+        "Tower 100% leased, completed 2021, includes 520-space parking garage; deal part of $250–300M asset divestiture plan",
+        "Brandywine divesting from Austin office while developing Uptown ATX mixed-use (with Nvidia); also sold other Austin assets in 2024"
+      ],
+      "summary": "Brandywine Realty Trust sold the fully-leased 405 Colorado office tower in downtown Austin to Hines for $151 million. The 25-story, 206,000-square-foot building was completed in 2021 and includes a 520-space parking garage. The sale is part of Brandywine's broader $250–300 million asset divestiture plan. Brandywine continues mixed-use development at Uptown ATX near The Domain.",
+      "impact": "INDIRECT SIGNAL FOR AUSTIN MULTIFAMILY MARKET. Brandywine's pivot from stabilized downtown office to mixed-use development (Uptown ATX) reflects developer flight from core office and redeployment into residential-anchored urban development. Hines' acquisition at $151M (≈$733/SF) suggests non-zero life for Class A office with strong credit tenants. However, the broader message is that forward-deployed capital and developer bandwidth are moving toward multifamily-integrated projects in growing Austin submarkets, not traditional office."
+    },
+    {
+      "title": "Brixmor Picks Up Two Texas Shopping Centers",
+      "link": "https://www.connectcre.com/stories/brixmor-picks-up-two-texas-shopping-centers/",
+      "excerpt": "In this year&#8217;s second quarter, Brixmor Property Group Inc. acquired two Texas retail centers. The company paid $46.5 million for Jones Crossing in College Station, Texas, home to Texas A&amp;M University. The center is anchored by an H-E-B market and has 15 acres of undeveloped land at its center. Stratus Properties sold the College Station property to Brixmor. The company also acquired Vintage Marketplace, an approximately 72,000-square-foot grocery-anchored neighborhood center in the northwest suburbs of Houston, Texas, for $32.7 million. Anchored by Whole Foods Market, the property complements 26 other Brixmor assets in the Houston market. The company cited near-term leasing of vacancies and below-market in-place rents as opportunities for value creation. In the first six months of the year, Brixmor reported the disposition of six shopping centers. The company generated gross proceeds of $123 million on the sales. Brixmor owns 344 open-air shopping centers totaling 62 million square feet nationwide. The post Brixmor Picks Up Two Texas Shopping Centers appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-13T16:33:32+00:00",
+      "bullets": [
+        "Brixmor acquired Jones Crossing (College Station, 15 acres, H-E-B anchor) for $46.5M from Stratus Properties",
+        "Brixmor also bought Vintage Marketplace (72K SF, Whole Foods anchor, NW Houston) for $32.7M in 2Q26",
+        "Portfolio now 344 open-air centers, 62M SF; Brixmor cited vacancy leasing and below-market rents as value drivers"
+      ],
+      "summary": "Brixmor Property Group acquired two Texas retail centers in 2Q26: Jones Crossing in College Station (15 acres, H-E-B anchored, $46.5M from Stratus Properties) and Vintage Marketplace in NW Houston (72,000 SF, Whole Foods anchored, $32.7M). Both acquisitions target near-term leasing upside and below-market rent spreads. Brixmor's portfolio now includes 344 open-air centers totaling 62 million square feet.",
+      "impact": "Minimal relevance to multifamily development. REIT acquisition of grocery-anchored neighborhood retail reflects broader consumer spending resilience and retail recovery, but does not directly affect apartment demand, supply, or construction economics. College Station (Texas A&M) and Houston suburb assets may indirectly support populations feeding local student and suburban rental demand."
+    },
+    {
+      "title": "Cavan Spins Off Phoenix BTR Community for $112.5M",
+      "link": "https://www.connectcre.com/stories/cavan-spins-off-phoenix-btr-community-for-112-5m/",
+      "excerpt": "Cavan Cos. has sold The Bungalows on Camelback, a 334-unit, build-to-rent asset in Phoenix, for $112.5 million. That comes out to about $337,000 a unit. A private individual acquired the property. This deal marked the biggest single-asset BTR sale in the metro’s history. Located on more than 29 acres at 4747 N. 99th Ave., The Bungalows on Camelback is less than 1 mile from Loop 101, which connects to Interstate 10 within roughly 3 miles. Completed in 2022, the property features one- to three-bedroom homes ranging between 674 and 1,355 square feet. Community amenities include a clubhouse, swimming pool, dog park and washing station, among others. Cavan Cos. debuted its BTR developments in 2016 through its Bungalow model. The company’s portfolio includes more than 100 projects and some 5,500 BTR units. Outside of Arizona, Cavan expanded to Omaha, Neb., in 2024 and Kansas City, Mo., this year. The company also looks to enter Santa Fe, N.M. The post Cavan Spins Off Phoenix BTR Community for $112.5M appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-13T16:09:57+00:00",
+      "bullets": [
+        "Cavan Cos. sold The Bungalows on Camelback (334-unit BTR, Phoenix) to private buyer for $112.5M ($337K/unit)",
+        "Largest single-asset BTR sale in Phoenix metro history; property on 29 acres near Loop 101, completed 2022",
+        "Cavan expanding BTR model beyond Arizona: Omaha (2024), Kansas City (2025), Santa Fe planned"
+      ],
+      "summary": "Cavan Cos. sold The Bungalows on Camelback, a 334-unit build-to-rent community in Phoenix completed in 2022, for $112.5 million ($337,000 per unit) to a private buyer. The transaction marks the largest single-asset BTR sale in Phoenix metro history. Located on 29+ acres near Loop 101, the property features one- to three-bedroom homes with amenities including clubhouse, pool, and dog park. Cavan is expanding its BTR model to Omaha, Kansas City, and Santa Fe.",
+      "impact": "STRONG CAPITAL SIGNAL FOR BTR SECTOR AND PHOENIX MARKET. $337K/unit exit validates Cavan's BTR thesis and demonstrates investor appetite for single-family rental as liquid alternative to traditional multifamily. Phoenix market fundamentals strong enough to support trophy-asset single-owner takeout at premium valuation. Cavan's geographic expansion (Midwest, Southwest) signals confidence in secondary-market BTR economics and suggests BTR competition heating up outside California; developers should monitor cost and financing for BTR in tier-2 markets."
+    },
+    {
+      "title": "REIT Values Are Hard to See Sometimes",
+      "link": "https://commercialobserver.com/2026/07/reit-values-earnings-stocks-sl-green/",
+      "excerpt": "Real estate investment trusts have earned a relatively clean bill of health in 2026, so far. After a prolonged period of underperformance, the investment vehicles for publicly traded real estate — widely known as REITs — are finally outperforming the S&amp;P 500, with year-to-date total returns outpacing the index by more than 5 percentage points as of late June. But, despite the recent rebound, many REIT execs still don’t think the market has truly captured their value. Matt DiLiberto, chief financial officer at the New York City-based office titan SL Green, is among them. SL Green is having a banner year, benefiting from New York City’s record-high rents and limited vacancy among the company’s Class A office assets. Despite this, the company calculates that its stock price sits at a discount to the total value of its buildings — although SL Green’s calculations and those of analysts disagree on exactly how wide that gap stretches. “I really think it comes down to the inherent difference in how public investors trade — or invest in stocks, but I’ll call it trading because it’s not really investing — and how private market investors truly invest directly in real estate,” DiLiberto said. “It’s down to one thing: What is your investment horizon?” Those earnings-focused investors represent a growing share of REIT stock ownership, tilting the scales further toward near returns. Not to mention, the investment world got pretty distracted by the artificial intelligence boom in 2025. “If you’re trying to sell a 10- to 15-year investment vehicle to somebody who is trying to make a buck in three to six months, inherently there’s going to be a mismatch,” DiLiberto said. Whether the cause of the mismatch is interest rate fluctuations or property fundamentals, the industry and its investors agree on one thing: REIT values are an increasingly tough nut to crack. A REIT offers anyone the chance to be a passive investor in real estate via the stock market as opposed to investing di",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-13T16:00:09+00:00",
+      "bullets": [
+        "REITs outperforming S&P 500 by 5+ percentage points YTD 2026; office REIT SL Green benefits from NYC record-high rents",
+        "SL Green calculates its stock trades at discount to net asset value (NAV); CFO DiLiberto cites public market trading vs. private capital divergence",
+        "SL Green Class A office portfolio tight on vacancy; public investors 'trading' vs. private market 'investing'"
+      ],
+      "summary": "REITs have outperformed the S&P 500 by over 5 percentage points year-to-date in 2026. SL Green, a NYC office-focused REIT, is benefiting from record-high Manhattan rents and limited Class A vacancy. However, SL Green's CFO contends the stock trades at a discount to the underlying real estate's true value, attributing the gap to public market trading behavior versus private investor conviction. Public and private market valuations remain diverged.",
+      "impact": "MIXED SIGNAL FOR MULTIFAMILY DEVELOPMENT FINANCING AND EXIT STRATEGY. REIT outperformance suggests improving appetite for stabilized real estate equity and may unlock REIT-sponsored development financing pipelines. However, SL Green's NAV discount and public-private valuation gap caution that REIT equity multiples remain volatile and exit timing is uncertain. For developers seeking REIT partnerships or planning stabilized sales, public market sentiment is improving but not uniformly confident; private capital remains selective on pricing."
+    },
+    {
+      "title": "South Florida Dirt: A timeline of the Vacchi vs. Stern legal battle",
+      "link": "https://therealdeal.com/miami/2026/07/11/behind-michael-sterns-dispute-with-vacci-over-miami-projects/",
+      "excerpt": "Developer Michael Stern teamed up with Italian investor and TikToker Gianluca Vacchi in 2024.&#160; At the time, Stern said that Vacchi “understands new media and how to cut through the noise on social media in a way most real estate people don’t,” calling him an effective marketer and tastemaker. Online to his 22.1 million Instagram followers and 22.3 million TikTok followers, Vacchi has showcased his jetsetting lifestyle, workouts, cold plunges, and maybe most frequently, his dancing.&#160; Two years ago, Stern and Vacchi said they were 50-50 partners on a $4 billion pipeline of JDS Development’s projects (Stern’s firm). That included [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-07-11T17:00:00+00:00",
+      "bullets": [
+        "Michael Stern (JDS Development) and Gianluca Vacchi ($4B pipeline) partnership imploded; Vacchi suing over Ponzi scheme allegations",
+        "Vacchi alleges Stern misrepresented projects (Mercedes-Benz Places, Dolce & Gabbana 888 Brickell, 1250 West Ave) and diverted funds",
+        "JDS exiting 1250 West Avenue; Mercedes-Benz and D&G projects stalled in litigation; JDS securing new debt and Jeff Soffer as partner"
+      ],
+      "summary": "Developer Michael Stern's 50-50 partnership with Italian social-media investor Gianluca Vacchi on a $4 billion project pipeline has collapsed. Vacchi is suing Stern, alleging a Ponzi scheme and misrepresentation of project status, claiming promised investments were diverted to other developments. Projects including Mercedes-Benz Places Miami, Dolce & Gabbana-branded 888 Brickell, and 1250 West Avenue remain stalled. JDS is seeking new financing and has brought in developer Jeff Soffer as a partner.",
+      "impact": "CAUTIONARY SIGNAL FOR SOUTH FLORIDA CAPITAL AND EXECUTIVE DUE DILIGENCE. High-profile developer litigation over fund diversion and project misrepresentation raises governance and LP risk concerns for Miami trophy-asset development. Projects backed by social-media influencers as co-investors introduce reputational and capital stability risk; lenders and equity partners should stress-test sponsor track records and fund controls. South Florida condo/luxury market may face temporary headwinds from stalled projects and reputational spillover; watch for capital flight from JDS and similar structures."
+    },
+    {
+      "title": "Mark Cuban takes Adelson to court on Mavs plans for new arena",
+      "link": "https://therealdeal.com/texas/2026/07/11/mark-cuban-takes-dallas-mavericks-owner-to-court/",
+      "excerpt": "Who could’ve guessed that selling a basketball team would change who’s in charge? Apparently not Mark Cuban.&#160; After hinting at his regret over selling the Dallas Mavericks to Las Vegas Sands on a podcast in March, the billionaire businessman isn’t just going public with his concerns about the team’s new ownership–he’s taking them to court.&#160; Cuban, who sold his majority stake in the team to Miriam Adelson’s casino company in 2023, claims in a new court filing that he was shut out of decisions about the team’s new arena, the Dallas Morning News reported. He’s asking the court to grant [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-07-11T14:00:00+00:00",
+      "bullets": [
+        "Mark Cuban sues Las Vegas Sands/Miriam Adelson over Dallas Mavericks arena development (Valley View Mall site)",
+        "Cuban claims verbal agreement to oversee operations while Sands pursued casino development, now shut out of decisions",
+        "Casino-arena contingent on Texas legalizing gambling; Dončić trade dispute cited as relationship nail-in-coffin"
+      ],
+      "summary": "Mark Cuban, who sold his majority stake in the Dallas Mavericks to Las Vegas Sands (Miriam Adelson) in 2023, is suing to gain review rights over the team's planned arena development at the Valley View Mall site. Cuban alleges a verbal agreement to continue overseeing operations while Sands pursued casino development, but claims he was excluded from the Valley View acquisition decision. The casino-arena project remains contingent on Texas legalizing gambling.",
+      "impact": "MINIMAL DIRECT RELEVANCE TO MULTIFAMILY DEVELOPMENT. Sports franchise and casino-gaming land use are outside multifamily scope. However, the Valley View Mall site redevelopment—if stalled due to litigation—may delay mixed-use regeneration and indirectly affect Dallas' urban infill pipeline. Monitor for resolution; if Adelson/Sands move forward despite Cuban's challenge, the precedent could unlock additional major Dallas development sites tied up in corporate uncertainty."
+    },
     {
       "title": "Nonprofit pitches housing conversion at Palo Alto site with SB 79 proposal",
       "link": "https://therealdeal.com/san-francisco/2026/07/10/apartments-planned-for-palo-alto-near-caltrain-station/",
@@ -32,72 +226,12 @@
       "cat": "Development",
       "date": "2026-07-10T22:45:00+00:00",
       "bullets": [
-        "Minority Television Project proposes 70-unit, 6-story project at 555 College Ave, Palo Alto using SB 79",
-        "Property purchased for $7.1M in 2023; transit-oriented development near California Ave Caltrain station",
-        "Nonprofit also pursuing 24-unit office conversion at 127 Lytton Ave, both leveraging new state density allowances"
+        "Minority Television Project proposes 70-unit, 6-story apartment building at 555 College Ave, Palo Alto via SB 79",
+        "Property near California Avenue Caltrain station; nonprofit purchased site in 2023 for $7.1M; also proposing 24-unit conversion at 127 Lytton",
+        "SB 79 allows taller transit-oriented housing near qualifying major transit hubs (effective start 2026)"
       ],
-      "summary": "A San Mateo nonprofit is advancing two multifamily projects in Palo Alto totaling 94 units using California's Senate Bill 79, which streamlines approvals for transit-oriented housing within half-mile of major transit hubs. The 555 College Ave project—a 70-unit six-story building with ground-floor retail on a $7.1M acquisition—exemplifies how nonprofits and developers are capitalizing on SB 79 to build taller and denser near Caltrain. Both projects target the California Ave Caltrain station corridor.",
-      "impact": "SB 79 is materially accelerating entitlements and feasibility for mid-rise multifamily near Bay Area transit nodes. In Silicon Valley's supply-constrained Palo Alto submarket, this signals a pipeline shift from office redevelopment toward aggressive residential densification. As AI-driven tech hiring continues, these pre-entitled transit sites are becoming high-velocity acquisition targets for developers ahead of rental-demand spikes; developers should monitor nonprofit and public-land partnerships in similar Bay Area corridors where state law now overrides local zoning."
-    },
-    {
-      "title": "Marcus & Millichap Arranges $14M Sale, Financing of Illinois LA Fitness-Anchored Retail Property",
-      "link": "https://www.connectcre.com/stories/marcus-millichap-arranges-14m-sale-financing-of-illinois-la-fitness-anchored-retail-property/",
-      "excerpt": "Marcus &amp; Millichap announced the sale of a LA Fitness-anchored, four-suite retail property in Mundelein, Illinois. The property sold for $13.976 millkion. Marcus &amp; Millichap Capital Corporation, a subsidiary of Marcus &amp; Millichap, arranged $9.78 million in acquisition financing.“The Sharko | Weisenbeck | Mendoza Group was the second broker to list this deal, speaking volumes for our proprietary database and Marcus’ platform,” said Austin Weisenbeck, senior managing director. Weisenbeck and Sean Sharko, investment specialists in Marcus &amp; Millichap’s Chicago Oak Brook office, had the exclusive listing to market the property on behalf of the seller, an experienced real estate investor/developer in the Chicagoland area. The Sharko | Weisenbeck | Mendoza Group also procured the out-of-state buyer who was in a 1031 exchange. Dean Giannakopoulos, senior managing director, also based in the firm’s Chicago Oak Brook office, secured the financing.The 89,357-square-foot shopping center is situated on 7.48 acres at 1555 S. Lake St. Built in 2019, the property is anchored by LA Fitness, with Kids Empire, The Dog Stop and The Picklr Club among its other tenants. The post Marcus &amp; Millichap Arranges $14M Sale, Financing of Illinois LA Fitness-Anchored Retail Property appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-10T22:20:01+00:00",
-      "bullets": [
-        "Marcus & Millichap brokered $14M sale of LA Fitness-anchored retail in Mundelein, Illinois",
-        "Deal includes $9.78M acquisition financing from Marcus & Millichap Capital Corporation",
-        "Four-suite retail portfolio; pricing and financing typical for secondary market retail anchored by fitness tenants"
-      ],
-      "summary": "Marcus & Millichap arranged a $13.976 million acquisition and $9.78 million in debt financing for a four-suite, LA Fitness-anchored retail property in Mundelein, Illinois. The brokers highlighted their proprietary database and platform strengths in executing the transaction.",
-      "impact": "Minimal relevance to multifamily development. This is a secondary-market retail transaction anchored by a single service tenant. No signal on residential demand, supply, cost, or capital availability affecting apartment development."
-    },
-    {
-      "title": "Colliers Facilitates Sale of 954K-SF Industrial Portfolio in Indianapolis",
-      "link": "https://www.connectcre.com/stories/colliers-facilitates-sale-of-954k-sf-industrial-portfolio-in-indianapolis/",
-      "excerpt": "Colliers announced the sale of a six-building industrial portfolio totaling 954,072 square feet located throughout the Northwest, Northeast and Southwest submarkets of the Indianapolis metropolitan area. The portfolio includes properties at 7555 Woodland Drive, 7645 Woodland Drive, 5350 Lakeview Parkway and 7601 Winton Drive in Indianapolis, as well as 12001 Exit 5 Parkway in Fishers and 1380 Perry Road in Plainfield, Indiana. Colliers Industrial Capital Markets advisors Alex Cantu, Alex Davenport, Jeff Devine, Steve Disse and Tyler Ziebel represented seller EQT in partnership with local market advisors Jason Speckman, Jimmy Cohoat and Andrea Hopper. The portfolio was acquired by MLG Capital, based in Brookfield, Wisconsin. “Indianapolis continues to benefit from its position along major Midwestern transportation corridors and as a Midwestern growth market. The portfolio locations in Park 100, Fishers and Plainfield are some of the highest demand user markets in the city,” said Cantu. “We’re seeing strong interest in Midwestern markets, particularly Indianapolis, as investors continue to recognize the region’s economic momentum, strategic location, and long-term growth potential.” The post Colliers Facilitates Sale of 954K-SF Industrial Portfolio in Indianapolis appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-10T21:49:03+00:00",
-      "bullets": [
-        "Colliers brokered sale of 954K-SF industrial portfolio across six Indianapolis-area buildings for undisclosed price",
-        "MLG Capital acquired from EQT; assets in Park 100, Fishers, Plainfield submarkets",
-        "Investors citing Indianapolis logistics position, Midwestern growth momentum, strong user demand"
-      ],
-      "summary": "Colliers facilitated the sale of a six-building, 954,072-square-foot industrial portfolio spanning Northwest, Northeast, and Southwest Indianapolis and outlying Fishers and Plainfield. Buyer MLG Capital, based in Wisconsin, acquired the assets as investors recognize Indianapolis's strategic location along major Midwestern transportation corridors and stable user demand.",
-      "impact": "Minimal direct relevance to multifamily. However, the continued capital flow into Indianapolis logistics and industrial assets—and the stated enthusiasm for Midwestern growth markets—suggests strong investor appetite for the region's long-term fundamentals. Multifamily developers should monitor whether this industrial capital confidence translates into job growth and in-migration that strengthens residential demand in Indianapolis's expanding suburban corridors."
-    },
-    {
-      "title": "Stand-Alone Data Centers Banned in Tacoma",
-      "link": "https://www.connectcre.com/stories/stand-alone-data-centers-banned-in-tacoma/",
-      "excerpt": "A new interpretation of Tacoma&#8217;s zoning code clarifies that stand-alone data centers cannot be permitted under current regulations. In a joint statement released this week, Tacoma City Councilmember Latasha Palmer and Olgy Diaz said local communities have raised concerns about the rapid development of stand-alone data centers, citing potential impacts and increased utility costs. &#8220;Many communities across the country are expressing concern about the development of new independent data centers – and some are outright rejecting them – due to the real and potential impacts on amenities, local infrastructure, neighborhood noise levels, jobs, and many other issues,&#8221; said the council members in a statement. &#8220;We hear these same concerns echoed by Tacoma residents as well.” In light of these concerns, the city&#8217;s planning and development services department issued a new interpretation pursuant to the Tacoma Municipal Code, clarifying that single data centers are not permitted under Tacoma’s existing zoning code. The post Stand-Alone Data Centers Banned in Tacoma appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-10T21:29:55+00:00",
-      "bullets": [
-        "Tacoma city planning department clarified stand-alone data centers not permitted under existing zoning code",
-        "Council members citing resident concerns over utility costs, infrastructure strain, noise, job quality impacts",
-        "Zoning interpretation effective immediately; preempts prior permitting ambiguity"
-      ],
-      "summary": "Tacoma's city planning department issued a new zoning interpretation clarifying that stand-alone data centers cannot be permitted under current municipal code. Council members Latasha Palmer and Olgy Diaz cited resident concerns over rapid development, utility costs, infrastructure impacts, and job quality, noting similar pushback in cities nationwide.",
-      "impact": "Regulatory headwind for any data-center-dependent industrial-to-residential conversion strategies in Tacoma. More important: the residential backlash against large industrial/infrastructure facilities signals potential demand for housing alternatives and community amenities in redeveloping industrial waterfronts. Multifamily developers eyeing Tacoma's older industrial or maritime zones should anticipate heightened community scrutiny of non-residential reuse and potentially stronger political/market support for residential infill, but also stricter permitting timelines."
-    },
-    {
-      "title": "JLL Completes HQ Lease for Sandbox at Richmond’s Davenport Building",
-      "link": "https://www.connectcre.com/stories/jll-completes-hq-lease-for-sandbox-at-richmonds-davenport-building/",
-      "excerpt": "JLL completed a 6,576-square-foot lease in the Shockoe Slip district of Richmond, Virginia. Sandbox, a Richmond-based consulting firm and provider of fractional finance and accounting, HR, business operations and recruiting services, will occupy the ground-floor space at 1401 E. Cary Street as its new headquarters this month. Originally constructed in 1870, 1401 E. Cary Street occupies a prominent corner at Cary and South 14th streets in Richmond&#8217;s historic Shockoe Slip district. JLL&#8217;s Kaylin Farruggio and Charlie Polk represented Sandbox in the transaction. Farruggio and Gareth Jones, in partnership with John Jay Schwartz of Have Site Will Travel LTD, represented SNP Properties. JLL’s Katie Chalmers, vice president, PDS, assisted with the buildout; RCS Commercial Moving &amp; Warehousing handled moving logistics for Sandbox. &#8220;Companies continue to prioritize workplaces that support culture, collaboration and employee experience,&#8221; said Gareth Jones, senior managing director, JLL. &#8220;1401 E. Cary Street offered Sandbox a rare opportunity to secure a highly visible headquarters location with authentic historic character and a turnkey creative office environment.&#8221; The post JLL Completes HQ Lease for Sandbox at Richmond’s Davenport Building appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-10T21:20:12+00:00",
-      "bullets": [
-        "Sandbox (Richmond consulting firm) leased 6,576 SF ground-floor HQ at 1401 E. Cary St, Shockoe Slip",
-        "Historic 1870 building; JLL brokered lease; move reflects corporate demand for distinctive office culture/experience",
-        "No financial terms disclosed; positioning emphasizes historic character and employee experience"
-      ],
-      "summary": "JLL completed a ground-floor lease for Sandbox, a Richmond-based fractional finance and HR services firm, to occupy 6,576 square feet at 1401 E. Cary Street in Richmond's historic Shockoe Slip district. The 1870 structure, located at a prominent corner, offers turnkey creative office space and serves as Sandbox's new headquarters.",
-      "impact": "Minimal direct relevance to multifamily. However, the high-profile corporate lease in a historic mixed-use district reflects broader corporate flight from suburban office parks to walkable, mixed-use urban neighborhoods. This signals demand for residential units nearby in Shockoe Slip; multifamily developers should target infill and conversion projects near such office anchors where employee density is rising and urban amenities drive demand."
+      "summary": "San Mateo-based nonprofit Minority Television Project proposes a six-story, 70-unit apartment building at 555 College Avenue in Palo Alto, paired with 8,000 square feet of ground-floor commercial space. The project, filed under California Senate Bill 79, leverages the law's transit-oriented development provisions to exceed typical height limits near the California Avenue Caltrain station. The nonprofit purchased the property in 2023 for $7.1 million and is also pursuing a 24-unit office conversion at 127 Lytton Avenue.",
+      "impact": "MODERATE RELEVANCE TO BAY AREA MULTIFAMILY SUPPLY AND REGULATORY ENVIRONMENT. SB 79 is a supply-unlocking tool that will compress entitlement timelines and allow density near transit across Bay Area. Nonprofit development may crowd out for-profit sites, but SB 79's streamlined approval process could catalyze infill multifamily pipelines in Palo Alto and adjacent transit corridors. For-profit developers should monitor AI-driven labor demand in Silicon Valley and prioritize SB 79 sites to capture housing demand before scarcity inflates rents further; timing is critical for pre-emptive development."
     },
     {
       "title": "Steel IQ’s 3D-printed steel could slash builds from months to weeks",
@@ -107,27 +241,12 @@
       "cat": "Development",
       "date": "2026-07-10T21:15:00+00:00",
       "bullets": [
-        "Steel IQ (Lake Dallas startup) developing 3D-printed steel framing that reduces construction timeline from months to weeks",
-        "Technology requires fewer skilled workers, cuts labor needs and waste vs. wood framing despite higher material cost",
-        "First deployed on luxury mansion ($15M Infinity project in Frisco); affordable housing applications pending"
+        "Steel IQ (Lake Dallas startup) offers 3D-printed steel framing; reduces construction timeline from months to weeks, labor needs",
+        "System uses digital model + AI to print steel frames with screw holes; assembled on-site like Legos",
+        "Cost offset by waste reduction, shorter timelines, fewer skilled workers; resistant to adverse weather; zero-tree environmental benefit"
       ],
-      "summary": "Steel IQ, a Lake Dallas startup, is commercializing 3D digital extrusion and printing of steel frames that significantly accelerate construction timelines and reduce skilled-labor dependency. The process uses AI to digitally model buildings, prints steel frames with screw holes pre-cut, and enables on-site assembly. While steel costs more than wood, time and labor savings offset the premium. The technology was first deployed on a $15 million luxury home in Frisco.",
-      "impact": "Potential game-changer for multifamily construction cost and timeline in labor-constrained markets like Dallas. Reduced framing duration and lower skilled-labor dependency could improve project underwriting margins and accelerate lease-up windows, especially for affordable housing. However, adoption is pre-commercial; developers should track pilot performance on mid-rise and garden-style projects to assess ROI and insurability. Texas markets with acute labor shortages (Austin, Houston, Dallas) are logical early adopters."
-    },
-    {
-      "title": "Aspen Hospitality Plans Rockefeller Center’s First and Only Hotel",
-      "link": "https://www.connectcre.com/stories/aspen-hospitality-plans-rockefeller-centers-first-and-only-hotel/",
-      "excerpt": "Aspen Hospitality, a division of Aspen One, said it will build the first and only hotel in Rockefeller Center as part of its launch of Nell Hotels, a new luxury brand. The Nell New York is set to open in fall 2027 and will be New York City&#8217;s only Relais &amp; Chateaux property, Representing an investment of more than $350 million, the Nell New York will be built within the existing 10 Rockefeller Plaza. The 134-key hotel will repurpose former space. &#8220;We are honored to welcome The Nell New York to Rockefeller Center and to partner with a brand that shares our commitment to creating meaningful experiences through art, dining, culture, and community,&#8221; said EB Kelly, head of Rockefeller Center and senior managing director, Tishman Speyer. &#8220;Built nearly a century ago as a city within a city, Rockefeller Center has long offered a singular destination experience. With the arrival of The Nell New York, that experience is now complete.&#8221; The post Aspen Hospitality Plans Rockefeller Center&#8217;s First and Only Hotel appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-10T20:47:21+00:00",
-      "bullets": [
-        "Aspen Hospitality (Aspen One) building first Nell Hotels luxury brand at 10 Rockefeller Plaza; 134-key hotel",
-        "Investment exceeds $350M; opening fall 2027; repurposing existing space within historic Rockefeller Center",
-        "Nell New York to be NYC's only Relais & Chateaux property; emphasizes culture, dining, art, community"
-      ],
-      "summary": "Aspen Hospitality, a division of Aspen One, announced The Nell New York, a 134-key luxury hotel within 10 Rockefeller Plaza, representing over $350 million in investment and opening in fall 2027. The property will be Nell Hotels' flagship and NYC's only Relais & Chateaux property, repurposing existing space while preserving historic character.",
-      "impact": "Not material to multifamily development. High-end hospitality in a premier Manhattan landmark does not affect apartment supply, demand, financing, or construction economics."
+      "summary": "Lake Dallas-based startup Steel IQ is developing a 3D digital extrusion and printing system for steel-framed construction. The process uses AI-assisted digital models to print customized steel frames with pre-drilled screw holes, reducing framing timelines from months to weeks and cutting skilled labor requirements. While steel costs more than wood, the efficiency gains (waste reduction, labor savings, timeline compression) offset the material premium. The framing is weather-resistant and environmentally advantageous (zero deforestation).",
+      "impact": "SIGNIFICANT FOR DEVELOPMENT FEASIBILITY AND COST IN LABOR-CONSTRAINED MARKETS. 3D-printed steel framing directly addresses multifamily construction bottleneck (skilled labor shortage) and could accelerate delivery timelines, particularly for mid-rise and garden-style products. For affordable-housing developers, labor-cost savings may unlock feasibility at lower rents; for luxury, faster stabilization improves ROI. Texas and Southwest markets facing labor constraints should pilot Steel IQ; if cost parity or premium is under 3–5%, adoption could unlock delayed pipelines and compress carry costs."
     },
     {
       "title": "There are no offices being built in Philadelphia",
@@ -137,132 +256,12 @@
       "cat": "Development",
       "date": "2026-07-10T19:39:22+00:00",
       "bullets": [
-        "Philadelphia office pipeline zeroed out after 438K-SF Chubb project delivery in Q2 2024",
-        "Vacancy 19.8% in CBD; 492K SF absorbed (mostly Chubb); lack of pre-leased tenants stalling new speculative starts",
-        "Sublease inventory down 1M SF YoY; office inventory fell 2M+ SF; conversions scarce in Center City"
+        "Philadelphia office pipeline zeroed out after 438K-SF Chubb built-to-suit delivery in 2Q26; no active projects remain",
+        "2Q26 vacancy dropped to 19.8% in CBD; absorption 492K SF mostly from Chubb; sublease inventory down 1M SF YoY",
+        "JLL cites lack of anchor tenants pre-leasing as major impediment; office inventory fell 2M+ SF YoY; few conversions announced"
       ],
-      "summary": "Following delivery of a 438,000-square-foot office building at 2000 Arch Street in Q2, Philadelphia has zero office projects in active development pipeline, according to JLL. The persistent lack of pre-leased anchors is deterring speculative development; the market's mixed fundamentals are skewed by Chubb's big move. Q2 showed 19.8% CBD vacancy, 492,000 square feet of absorption (largely Chubb), but sublease inventory dropped 1 million square feet YoY.",
-      "impact": "Strong signal for office-to-residential conversion opportunity in Philadelphia's CBD and suburbs. With office pipeline dead and sublease supply contracting, developers should prioritize conversion entitlements and value-add deals converting Class B/C office to multifamily. However, the absence of announced conversions in Center City suggests regulatory or market headwinds; clarify zoning, parking, and adaptive-reuse incentives before land acquisition. The suburban slowdown (43% YoY leasing decline) also signals weaker office-adjacent residential demand in outlying markets."
-    },
-    {
-      "title": "In Likely a Culver City Record, Black Equities Buys Multifamily Asset for $106M",
-      "link": "https://commercialobserver.com/2026/07/culver-city-califonria-multifamily-housing-black-equities-greystar/",
-      "excerpt": "Culver City, CA &#8211; February 12: An aerial of the Kirk Douglas Theatre on in Culver City. photo: Kayla Bartkowski / Los Angeles Times Stanley Black’s Beverly Hills-based investment firm is closing on a nine-figure mixed-use acquisition in another small city a few miles away. Black Equities has paid $106 million for a 115-unit property in what is said to be perhaps the largest multifamily deal in the history of Culver City, Calif., which is one of Los Angeles County’s priciest rental markets. Greystar sold the decade-old property called Access Culver City — which includes 31,000 square feet of fully leased ground-floor retail — at 8770 Washington Boulevard. Approximately $81 million of the purchase price was allocated to the residential component and $25 million to the retail space, according to Sandy Albert, managing partner at investment and development firm CityPads. The deal is roughly equal to an incredible $704,000 per residential unit and $805 per square foot for the retail component. The acquisition comes as Culver City has become one of Southern California&#8217;s hottest multifamily investment markets, fueled by media and technology employers and pro-development housing policies. The city has more than 4,500 housing units in the pipeline and has emerged as one of the few municipalities in L.A. County attracting multifamily investment. Newmark represented Greystar on the sale. Neither the buyer nor the seller immediately returned requests for comment. Gregory Cornfield can be reached at gcornfield@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-10T19:10:31+00:00",
-      "bullets": [
-        "Black Equities paid $106M for 115-unit mixed-use property in Culver City, CA (Access Culver City)",
-        "Deal allocates ~$81M to residential, $25M to 31K SF retail; ~$704K per unit, $805/SF blended",
-        "Greystar sold 10-year-old property; likely record for single multifamily transaction in Culver City submarket"
-      ],
-      "summary": "Stanley Black's Beverly Hills investment firm, Black Equities, closed a $106 million acquisition of Access Culver City, a 115-unit mixed-use property with 31,000 square feet of fully leased ground-floor retail at 8770 Washington Boulevard. The deal allocated approximately $81 million to residential and $25 million to retail, representing roughly $704,000 per unit and is said to be the largest multifamily transaction in Culver City history.",
-      "impact": "High-priced land sale in one of LA County's costliest rental submarkets signals strong institutional investor appetite for Culver City and the Westside despite tight acquisition yield. The $704K/unit pricing reflects deep value-add or value preservation positioning rather than new development; however, the large capital deployment suggests confidence in long-term rent growth and low vacancy. Multifamily developers should monitor nearby entitlement and land-bank activity; Culver City's limited supply and no-rezone pressure make infill sites scarce and expensive, favoring conversion and value-add over ground-up development."
-    },
-    {
-      "title": "Palm Beach County Pauses Data Center Applications",
-      "link": "https://commercialobserver.com/2026/07/palm-beach-county-data-center-project-tango/",
-      "excerpt": "South Florida has entered the data center debate. In one of the first moves to regulate the construction of the asset class in the region, the Palm Beach County Commission paused data center proposals this week until it adopts appropriate zoning, following pushback from residents. Commissioners this week voted 5-2 to freeze new data center applications targeting unincorporated parts of Palm Beach County under a zoning-in-progress doctrine, which allows local governments to suspend proposals while they evaluate changes to zoning regulations. In another vote, commissioners directed county staff to draft a moratorium on new data center proposals. They are expected to finalize the ordinance next month, after which the moratorium would remain in effect for up to a year, or until new zoning regulations are adopted. “This temporary moratorium will allow sufficient time to evaluate the potential impact of these facilities,” said Palm Beach County Mayor Sara Baxter, who initiated the moratorium. “Palm Beach County must ensure that development at this scale is considered with full transparency and a clear understanding of long-term impacts on infrastructure, resources and residents.” The suspension came as concerns grew over one application, which is scheduled to go before the commission next week. Despite the votes, the development, called Central Park Commerce Center, will be allowed to undergo a review since it was filed before the moratorium. The development, also known as Project Tango, called for the construction of a 3.7 million-square-foot data center across 202 acres at 20125 State Road 80/Southern Boulevard in Loxahatchee, facing Route 98, near the Arden residential development and Saddle View Elementary School. It’s a joint venture involving Atlanta-based developer TPA Group, infrastructure contractor Phillips, the Milstein family’s New York-based Ogden Cap Properties and Loxahatchee Groves-based Palm Beach Aggregates. Despite the rapid rise of artificial intellige",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-10T18:50:02+00:00",
-      "bullets": [
-        "Palm Beach County Commission voted 5-2 to pause data center applications under zoning-in-progress doctrine",
-        "Pause effective immediately pending zoning evaluation; formal moratorium vote expected next month lasting up to 1 year",
-        "Residents objected to scale, transparency, and impacts; first major regulatory action on data centers in South Florida"
-      ],
-      "summary": "Palm Beach County commissioners voted to freeze new data center applications in unincorporated areas pending zoning revisions, following resident pushback over potential facility scale and impacts. A formal moratorium ordinance is expected next month and would remain in effect for up to one year or until new zoning rules are adopted. County officials cite the need to evaluate impacts on infrastructure, services, and neighborhood character.",
-      "impact": "Similar to Tacoma: regulatory headwind for industrial/data-center uses in South Florida. Multifamily implications are mixed. If data-center moratorium signals broader resident opposition to large industrial redevelopment, it may block conversion of aging industrial/logistics land to residential. Conversely, if it redirects capital away from speculative infrastructure toward residential infill and mixed-use, it could strengthen rents in established residential corridors. Monitor whether Palm Beach County's formal moratorium (next month) includes carve-outs for mixed-use development or adaptive reuse; that will clarify risk for any conversion plays."
-    },
-    {
-      "title": "SF approves another condo project for fast-densifying Market Street corner",
-      "link": "https://therealdeal.com/san-francisco/2026/07/10/san-francisco-officials-approve-condos-on-market-street/",
-      "excerpt": "San Francisco officials gave final approval to a condominium project planned for a long-entitled Market Street development site.&#160; Property owner Keller Grover secured the city’s approval for a 23-story, 201-unit condominium tower on the site of a historic Mission Revival building at 1965 Market Street, the San Francisco Chronicle reported. The entitled property is now expected to be listed for sale, with brokers betting it could establish a new benchmark for development sites approved under California’s expanded housing laws. “It will be a barometer of what is going on because it’s the first project going on the market that was [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-07-10T18:08:54+00:00",
-      "bullets": [
-        "San Francisco approved 23-story, 201-unit condo tower at 1965 Market St, designed by Keller Grover",
-        "Project evolved from 96-unit, 7-story proposal (2015) using successive state density bonus laws and SB 423",
-        "Includes 28 affordable units (28 percent) for <50% AMI; preserves historic 1870s mortuary as lobby/amenities"
-      ],
-      "summary": "San Francisco officials approved a 23-story, 201-unit condominium tower at 1965 Market Street, representing a significant densification from a 96-unit, seven-story proposal filed a decade earlier. The project leveraged successive California state housing laws—density bonuses and SB 423 (streamlined approval)—to maximize height and units. It includes 28 affordable units for households earning less than 50 percent of AMI and preserves the historic building as the lobby and amenities core.",
-      "impact": "Critical signal for development-site valuation under expanded California housing law. This is the first fully-entitled Market Street site hitting the sale market under SB 423 and stacked density bonuses; brokers expect it to establish a new price benchmark for entitled sites in SF. For developers: approved-and-listed sites in tight coastal markets are now commanding premium land valuations as buyers factor in state-law certainty and expedited timelines. However, affordability requirements (28 percent AMI) compress margins; model deal economics carefully and confirm financing availability for mixed-income projects."
-    },
-    {
-      "title": "Related Ross appointment fires up West Palm Beach development debate",
-      "link": "https://therealdeal.com/miami/2026/07/10/related-ross-appointment-fuels-west-palm-development-debate/",
-      "excerpt": "West Palm Beach residents are pushing back after the city commission appointed a Related Ross executive to the Downtown Development Authority. The appointment of Jordan Rathlev, an executive vice president at Related Ross, added fuel to an ongoing debate over downtown development, as residents demand greater transparency and a larger role in shaping the city’s future, WPTV reported.&#160; In two public meetings this week, residents in “Save West Palm Beach” shirts expressed their concern about rapid development and high-rise construction, arguing the city is moving too quickly and prioritizing developer alignment over community interests.&#160; They criticized what they see as [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-07-10T17:00:33+00:00",
-      "bullets": [
-        "West Palm Beach city commission appointed Related Ross executive Jordan Rathlev to Downtown Development Authority (DDA)",
-        "Residents in 'Save West Palm Beach' campaign protested rapid high-rise growth and perceived developer favoritism",
-        "Related Ross (Steve Ross) investing $10B in city including 6M SF office, 1.4M SF condos; political backlash imminent"
-      ],
-      "summary": "West Palm Beach residents pushed back after the city commission appointed Jordan Rathlev, an executive vice president at Related Ross, to the Downtown Development Authority, which oversees public safety, economic development, and downtown character. Residents cited concern about rapid high-rise development and city prioritization of developer interests over community input. Related Ross, led by billionaire Steve Ross, is investing an estimated $10 billion in West Palm Beach projects, including 6 million square feet of office and 1.4 million square feet of condos.",
-      "impact": "Community resistance to density and developer concentration in West Palm Beach is hardening. While Related Ross's massive pipeline signals capital confidence and rental/condo demand, rising NIMBY opposition and political risk may slow approvals, increase concession requirements (public realm, affordability, community benefits), and lengthen entitlement timelines. Developers should expect heightened public scrutiny, demand for transparency, and possible moratorium or design/density caps. The city's pause on its downtown master plan signals policy uncertainty; coordinate early with city leadership and resident groups to minimize approval friction."
-    },
-    {
-      "title": "Douglaston Realty Offloads 7 Cornelia Street in West Village for $25M",
-      "link": "https://commercialobserver.com/2026/07/douglaston-realty-offloads-7-cornelia-street-25m/",
-      "excerpt": "A business partner involved with the owner of the SoJo Spa Club in New Jersey signed mortgage documents tied to the sale of a West Village building, according to property records. While it’s unclear if Eun Rae Jo is involved in the $25 million purchase of 7 Cornelia Street, the involvement of Hyun Jun An, an investor and partner working alongside Jo, on the financing side raises the question of whether the famed spa owner has acquired yet another Manhattan property. The buyer in the deed transfer filed to property records on Thursday afternoon was masked behind a shell corporation lacking any indication of the beneficial owner. An was the authorized signatory on the $17.6 million mortgage documents from Woori America bank, according to property records. Douglaston Realty Management was the seller, alongside other entities that had a stake in the 2013 acquisition of the property for $24.6 million. Douglaston did not immediately respond to a request for comment. Neither Jo nor An could be reached for comment. Both have been working together on deals recently, including the acquisition of 893 Broadway in the Flatiron District for $31 million in early June and 16 East 18th Street from Revere Capital for $16.3 million the week prior. 7 Cornelia Street sits just south of West Fourth Street, about a block and a half west of Washington Square Park. The five-story prewar building has 47 apartments and two retail slots on the ground floor, according to StreetEasy. Worker-owned cocktail bar Donna occupies one of the two ground-floor spaces. Mark Hallum can be reached at mhallum@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-10T16:51:43+00:00",
-      "bullets": [
-        "Douglaston Realty sold 7 Cornelia St, West Village for $25M; buyer masked behind shell corporation",
-        "Hyun Jun An (investor/partner of SoJo Spa Club owner Eun Rae Jo) signed $17.6M mortgage from Woori America Bank",
-        "Uncertain beneficial ownership; potential additional Manhattan acquisition by Jo's investment vehicle"
-      ],
-      "summary": "Douglaston Realty Management sold 7 Cornelia Street in Manhattan's West Village for $25 million. The buyer used a shell corporation, obscuring the beneficial owner, though property records show Hyun Jun An—an investor and partner working with SoJo Spa Club owner Eun Rae Jo—as authorized signatory on a $17.6 million mortgage from Woori America Bank.",
-      "impact": "Not material to multifamily development. This is a single small West Village building sale with opaque ownership; no signal on residential supply, demand, financing, or development pipeline."
-    },
-    {
-      "title": "Siemens Financial, First Horizon Lend $65M on Palm Beach Gardens Medical Complex",
-      "link": "https://commercialobserver.com/2026/07/siemens-first-horizon-sina-jupiter-medical-center/",
-      "excerpt": "Siemens Financial and First Horizon have supplied $64.8 million of construction financing to develop a hospital and medical outpatient complex in Florida’s Palm Beach County, Commercial Observer has learned. Sina Companies secured the loan for the planned Health Park at Avenir project in Palm Beach Gardens, Fla., that is fully leased to Jupiter Medical Center. The Real Deal reported news of the loan on Thursday but did not identify the lender. Aztec Group negotiated the debt with a team led by Ezra Katz and Sean Harrington. Located at 12001 Northlake Boulevard, Health Park at Avenir will comprise a two-story neighborhood hospital and three-story medical outpatient building spanning 101,517 square feet. The project, which will be built within the 4,752-acre Avenir in Palm Beach Gardens master-planned community, includes an approved future phase for the development of 24,000 square feet of additional medical outpatient space, according to Sina. “We are excited to welcome Jupiter Medical Center to Avenir and further expand access to high-quality health care in Palm Beach Gardens,” Malcolm Sina, executive chairman of Sina Companies, said in a statement. Siemens Financial and First Horizon did not immediately return requests for comment. Andrew Coen can be reached at acoen@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-10T16:35:24+00:00",
-      "bullets": [
-        "Siemens Financial and First Horizon provided $64.8M construction financing for Health Park at Avenir medical complex",
-        "Project: 101.5K SF, two-story hospital + three-story outpatient building, 100% pre-leased to Jupiter Medical Center",
-        "Located within 4,752-acre Avenir master-planned community in Palm Beach Gardens; future phase 24K SF approved"
-      ],
-      "summary": "Siemens Financial and First Horizon supplied $64.8 million in construction financing for Health Park at Avenir, a 101,517-square-foot medical campus in Palm Beach Gardens, Florida, fully leased to Jupiter Medical Center. The project includes a two-story neighborhood hospital and three-story medical outpatient building within the 4,752-acre Avenir master-planned community, with an approved future phase for 24,000 additional square feet.",
-      "impact": "Not material to multifamily development. Medical facility construction financing does not affect residential supply, demand, or capital availability. However, the fact that Avenir is a large master-planned community is relevant context: if Avenir includes mixed-use residential, this medical anchor adds to the planned community's employment and amenity density, potentially supporting nearby multifamily absorption."
-    },
-    {
-      "title": "Handshake deal could turn 17 acres of former Shell campus into Houston concert venue",
-      "link": "https://therealdeal.com/texas/2026/07/10/houston-tirz-nearing-deal-to-buy-17-acres-for-concert-venue/",
-      "excerpt": "The planned effort to transform a former Shell research facility into an outdoor music venue appears ready to become reality.&#160; While the deal is not closed, a handshake deal to purchase the land has been made, according to the Houston Business Journal. Officials representing Southwest Houston’s Tax Increment Reinvestment Zone No. 20 told the outlet that the deal isn’t finalized and still needs to go before the Houston City Council, but there are agreements to purchase the 17 acres earmarked for the project.&#160; Naina Magon, the managing principal of Hawes Hill &#38; Associates, told the outlet that the City Council [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-07-10T16:30:00+00:00",
-      "bullets": [
-        "Houston handshake deal to convert 17 acres of former Shell research campus into Levitt Pavilion outdoor music venue",
-        "Agreed purchase price $5.4M (City paid $3.4M in 2019); TIRZ No. 20 financing via TIF increment",
-        "Venue part of Southwest Houston revitalization; free concerts, no designer selected yet; Houston City Council approval pending"
-      ],
-      "summary": "A handshake agreement has been reached to purchase 17 acres of a former Shell research facility in Southwest Houston for conversion into the Levitt Pavilion Houston, an outdoor music venue operated by the Levitt Family Foundation. The agreed purchase price is $5.4 million (the city acquired the land for $3.4 million in 2019), and the project is expected to go before Houston City Council in coming months for final approval.",
-      "impact": "Signal of municipal and philanthropic investment in Southwest Houston revitalization. The free public-venue model and TIRZ-funded acquisition suggest city is prioritizing place-making and amenity-driven redevelopment rather than market-rate commercial real estate. For multifamily developers: this is a soft anchor that improves neighborhood perception and walkability but does not directly drive jobs or population in-migration. Monitor whether the pavilion catalyzes private infill residential, retail, or mixed-use; if so, adjacent land and structures become higher-value redevelopment targets."
-    },
-    {
-      "title": "Twain Capital Supplies $65M C-PACE Loan for Colorado Hotel Project",
-      "link": "https://commercialobserver.com/2026/07/twain-capital-colorado-hotel/",
-      "excerpt": "Developer Nathaniel Kelly Foote has secured $65 million of Commercial Property Assessed Clean Energy (C-PACE) debt to complete a mixed-use project with a Marriott-branded hotel in the heart of Colorado’s Rocky Mountains, Commercial Observer has learned. Twain Capital Partners provided the C-PACE loan for the 144,597-square-foot Foote’s Rest development in Frisco, Colo., that will be anchored by an 80-key Marriott Tribute Hotel. The large-scale project will feature an underground 13,500-square-foot entertainment venue with bowling lanes and golf swing suites. It is slated for completion in October 2027. Andy Meyer, managing partner of Twain, said the deal was attractive from an underwriting perspective given Colorado’s strong C-PACE program that empowers property owners to fund 100 percent of sustainability upgrades coupled with solid hospitality demand in the Frisco market. He said Frsisco, which is 26 miles east of Vail and 15 minutes north of Breckenridge Ski Resort, has a lack of hotel supply. “Frisco continues to see more year-round travel,” Meyer told CO. “It was a challenging underwrite because there are no direct comps in the Frisco market, but a hotel of this size and scale with the amenities that are proposed we believe will achieve very strong occupancy.” Located at 500 Main Street, Foote’s Rest will also include a 4,000 square-foot ballroom, a 1,500 square feet of event space, a conference center, restaurants and a 10,000 square-foot rooftop bar. Colorado-based Greenwood Hospitality will serve as operator for the property. Foote did not immediately return a request for comment. The Foote’s Rest deal adds to Twain’s strong lending volume since the St. Louis-based lender launched a C-PACE business in late 2025 to complement its bridge lending platform. Meyer said the firm has executed $265 million of C-PACE loans over the past six months and has a pipeline $140 million under contract million that it expects to close by the end of 2026. Meyer, who joined Twa",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-10T16:18:42+00:00",
-      "bullets": [
-        "Twain Capital Partners provided $65M C-PACE financing for Foote's Rest mixed-use project in Frisco, Colorado",
-        "144.6K SF development: 80-key Marriott Tribute Hotel, 13.5K SF underground entertainment (bowling, golf simulator)",
-        "Completion October 2027; Frisco benefits from 26-mile proximity to Vail, 15 minutes to Breckenridge; hotel supply shortage noted"
-      ],
-      "summary": "Developer Nathaniel Kelly Foote secured $65 million in Commercial Property Assessed Clean Energy (C-PACE) debt from Twain Capital Partners for Foote's Rest, a 144,597-square-foot mixed-use project anchored by an 80-key Marriott Tribute Hotel in Frisco, Colorado. The development includes a 13,500-square-foot underground entertainment venue with bowling and golf swing suites, slated for completion in October 2027.",
-      "impact": "Not material to multifamily development. This is a ski-resort-area hospitality-focused mixed-use project. However, the fact that Twain and other capital sources are actively deploying C-PACE for mixed-use projects in supply-constrained mountain markets suggests that alternative debt structures (property-tax-based financing) are available for developers seeking non-traditional capital. Multifamily developers in resort or secondary markets may explore C-PACE for sustainability-enhanced projects if conventional acquisition financing is tight."
+      "summary": "Following the completion of Chubb's 438,000-square-foot built-to-suit development at 2000 Arch Street in 2Q26, Philadelphia has zero office projects in its active development pipeline. The CBD vacancy rate fell to 19.8% in 2Q26, with 492,000 square feet of absorption—predominantly from Chubb. Declining inventory (down 2+ million square feet YoY) and reduced sublease space (down 1 million SF YoY) reflect market tightness, but the lack of pre-leased tenants is a major hurdle for new development. Suburban leasing slowed 43% YoY in 2Q26.",
+      "impact": "LIMITED RELEVANCE TO MULTIFAMILY, BUT SIGNALS BROADER MARKET BIFURCATION. Philadelphia's office collapse and zero-pipeline signal is evidence of structural office decline and tenant reluctance to commit to new space; this does NOT directly drive apartment demand. However, it underscores why multifamily developers should focus on transit-adjacent, mixed-use infill (office conversion, ground-floor retail) rather than office-dependent submarkets. If Philadelphia begins office-to-residential conversions as a desperate supply play, competition for conversion sites and financing may tighten; monitor for regulatory zoning/tax changes enabling conversions."
     }
   ]
 }
