@@ -1,21 +1,21 @@
 {
-  "fetchedAt": "2026-07-13T23:45:00.014767+00:00",
+  "fetchedAt": "2026-07-14T13:11:38.192847+00:00",
   "rates": [
     {
       "label": "SOFR",
-      "value": "3.55%",
-      "pct": 0.02,
+      "value": "3.60%",
+      "pct": 0.05,
       "isBps": true
     },
     {
       "label": "10Y Treasury",
-      "value": "4.61%",
-      "pct": 0.88
+      "value": "4.57%",
+      "pct": -0.78
     },
     {
       "label": "30Y Treasury",
-      "value": "5.10%",
-      "pct": 0.53
+      "value": "5.09%",
+      "pct": -0.2
     },
     {
       "label": "REIT Index (VNQ)",
@@ -25,6 +25,126 @@
   ],
   "stories": [
     {
+      "title": "June CPI Decelerates from May, Driven by Drop in Energy Index",
+      "link": "https://www.connectcre.com/stories/june-cpi-decelerates-from-may-driven-by-drop-in-energy-index/",
+      "excerpt": "U.S. inflation decelerated in June, with the Consumer Price Index (CPI) declining 0.4% after increasing 0.5% in the previous month. A 5.7% drop in the energy index drove the monthly all-items decrease, more than offsetting increases in indexes for shelter and food, the Bureau of Labor Statistics said Tuesday. The energy index was up 15.7% on an annual basis. The monthly decline followed increases of 3.9% in May, 3.8% in April and 10.9% in March. This decline in the all-items index was the largest monthly decrease since April 2020, when it fell 0.8%. On a year-over-year basis, the CPI climbed 3.5%, below the consensus estimate of 3.8% as well as the May annual increase of 4.2%. Core inflation, which excludes food and energy, was unchanged from May, while the Y-O-Y increase of 2.6% came in below a consensus estimate of 2.9%. Indexes that decreased over the month include motor vehicle insurance, communication, apparel, medical care, and used cars and trucks. Conversely, the indexes for recreation, household furnishings and operations, and personal care increased in June. The food index maintained the May monthly increase of 0.2%. The shelter index rose 0.1% in June, below the May level of 0.3%. Both the CPI release and the Producer Price Index announcement on Wednesday occur ahead of Federal Reserve Chair Kevin Warsh’s appearances before the House and Senate. Warsh is scheduled to appear before the House Financial Services Committee at 10 a.m. EDT on Tuesday, and before the Senate Banking Committee at the same time on Wednesday. The post June CPI Decelerates from May, Driven by Drop in Energy Index appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-14T13:01:48+00:00",
+      "bullets": [
+        "June CPI fell 0.4% month-over-month, largest drop since April 2020",
+        "Year-over-year inflation at 3.5%, below 3.8% consensus; core inflation 2.6%",
+        "Energy index down 5.7% monthly; shelter index rose only 0.1%"
+      ],
+      "summary": "U.S. inflation decelerated sharply in June as energy prices fell 5.7% month-over-month, driving the all-items CPI down 0.4%—the largest monthly decline since April 2020. Year-over-year CPI came in at 3.5%, beating the 3.8% consensus, while core inflation held at 2.6%. Shelter costs, critical to multifamily underwriting, rose just 0.1% in June versus 0.3% in May, signaling moderating rent pressures.",
+      "impact": "Slower inflation trajectory reduces Fed rate-cut resistance and improves refinancing visibility for multifamily lenders and sponsors. Deceleration in shelter growth—the metric closest to rent appreciation—suggests rental demand may be normalizing after years of rapid growth; developers should reassess pro-forma rent growth assumptions and cap rate expansion risk across all major markets."
+    },
+    {
+      "title": "RealPage Acquires Cherre in Major Proptech Deal",
+      "link": "https://commercialobserver.com/2026/07/realpage-cherre-acquisition/",
+      "excerpt": "Multifamily software and data analytics giant RealPage announced Tuesday that it has acquired institutional portfolio intelligence firm Cherre. Richardson, Texas-based RealPage acquired Cherre in a cash and money deal, said Dirk Wakeham, president and CEO of RealPage. Wakeham declined to provide specific figures on the acquisition. Manhattan-based Cherre will retain its brand as part of RealPage, said L.D. Salmanson, co-founder and now the former CEO of Cherre. Salmanson will remain with Cherre as the company’s senior vice president, he said. “We are not going away — in fact, the very opposite,” Salmanson said of Cherre, a data platform that connects decision-makers to property investment, management and market information. “We will continue to grow the RealPage ecosystem and continue to grow with our clients. I&#8217;m very excited about that. My role essentially is the same, which is to help insurance companies in the world have access to governed trusted data to be able to power their agentic future. And now we have an extra continued mission together, which is to bring that across the entire capital stack, the entire ecosystem, and leverage the existing RealPage product line, which is very broad.” Founded in 2016, Cherre’s platform involves unifying and analyzing more than 4 billion entities and $4 trillion in real assets globally to create a vetted and compliant environment for institutional owners and investors. In acquiring Cherre, RealPage customers will gain access to a layer of intelligence built specifically to bridge property-level data with portfolio- and fund-level context, according to the announcement. “This was more about the value that this brings to our data,” said Wakeham. “We&#8217;ve got 25 petabytes [a million gigabytes] of data, and the opportunity for the 1 plus 1 equals 3 here is pointing the Cherre technology, their unified data models and data, against our 25 petabytes of data that&#8217;s largely unorganized and somewhat unusable.” In be",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-14T13:00:52+00:00",
+      "bullets": [
+        "RealPage acquires Manhattan-based Cherre in undisclosed cash deal",
+        "Cherre integrates into RealPage ecosystem; retains brand and leadership",
+        "Combines multifamily software/analytics (RealPage) with institutional portfolio intelligence (Cherre)"
+      ],
+      "summary": "RealPage, the dominant multifamily software and data platform, has acquired Cherre, a Manhattan-based institutional portfolio intelligence firm that provides property investment, management, and market data to institutional investors and insurers. Cherre's founders and leadership remain with the company under RealPage ownership. The deal amount was not disclosed.",
+      "impact": "Consolidation strengthens RealPage's data moat and analytical depth, giving institutional multifamily owners and developers (RealPage's core customer base) richer market intelligence and portfolio benchmarking. For smaller developers, this reinforces RealPage's dominance and raises switching costs; for large operators, it improves underwriting and asset management tools but may increase software spending. Watch for data-driven market timing advantages flowing to well-capitalized sponsors."
+    },
+    {
+      "title": "Noda Launches Agentic AI for Commercial Building Operations",
+      "link": "https://commercialobserver.com/2026/07/noda-agentic-ai-commercial-building-operations/",
+      "excerpt": "Noda, a leading artificial intelligence startup for commercial building operations, has launched what it calls the first agentic AI providing 24/7 automation to help ameliorate the industry-wide shortage of facility operators. The Washington, D.C.-based company rebranded to its present form in 2023, with the goal of optimizing building operations by mapping data points, automating tasks and driving actionable insights, said Kate Henningsen, CEO of Noda. “This technology was only about 32 percent accurate a year ago,” said Henningsen. “Although people are doing AI in buildings, we have not run across anybody who&#8217;s tackling the workflows of building engineers on site. I think it was probably impossible to do this over a year or 18 months ago, and we haven&#8217;t seen anybody who was aiding the actions of building operators and engineers in this way.” That created a business opportunity. “Every building in a portfolio is leaving net operating income (NOI) on the table right now, because no team has the capacity to find and fix operational waste at the speed and scale the problem demands,” said Henningsen. “Noda changes that equation. Our AI runs alongside the team you already have, doing the work of a full engineering organization across every asset, every hour of every day — and the impact shows up directly on the profit and loss statement.&#8221; Noda’s agentic AI platform creates a fundamental shift in how owners and operators run their buildings and portfolios, the company claims. Unlike analytics tools that surface problems for staff to investigate, Noda&#8217;s platform finds, fixes and verifies the problem and its financial impact across every asset, without requiring human intervention. The company has a portfolio of 1,200 buildings, totaling 350 million square feet, based on Salesforce data, said Henningsen. “We’re doing a lot of the building engineering and facilities management operations with new tools,” she said. “There&#8217;s great agentic ways to",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-14T13:00:50+00:00",
+      "bullets": [
+        "Noda launches agentic AI automating 24/7 commercial building operations",
+        "Technology improved from 32% to significantly higher accuracy over one year",
+        "Addresses industry-wide facility operator shortage by automating building engineer workflows"
+      ],
+      "summary": "Noda, a Washington D.C.-based AI startup, has launched agentic AI technology that automates building operations and facility engineer tasks 24/7, addressing a widespread shortage of skilled operators. The company claims it has dramatically improved accuracy from 32% a year ago and is the first to autonomously handle building engineer workflows at scale. The tech maps data, automates tasks, and recovers NOI left on the table.",
+      "impact": "Reduces labor cost risk and improves NOI recovery on multifamily assets, particularly relevant for larger portfolios where operational inefficiency is measurable. Early adoption by institutional owners will lower per-unit operating expenses and improve competitiveness; widespread deployment could pressure facility operator wages and reduce operator shortage risk—a critical constraint on new supply delivery in tight labor markets."
+    },
+    {
+      "title": "RXR, Waterfall, NYLife Finance $103M Recap of Englewood Cliffs Medical Campus",
+      "link": "https://commercialobserver.com/2026/07/rxr-waterfall-nylife-finance-103m-recap-of-englewood-cliffs-medical-campus/",
+      "excerpt": "Scott Rechler’s RXR continues to make moves. RXR, Waterfall Asset Management and New York Life Investment Management will finance a $103 million recapitalization of Sylvan Corporate Center, a four-building, 276,000-square-foot medical office campus owned by the Andalex Group in Englewood Cliffs, N.J., Commercial Observer can first report. The new capital will refinance an existing mortgage and support a major expansion of the center’s existing footprint for anchor tenant Englewood Health, which has signed a 20-year lease extension and plans to double its footprint to 202,000 square feet, according to a release. The asset, which opened in 1998, is currently 100 percent leased. “This recapitalization, together with Englewood Health’s long-term expansion, validates the strength of the asset, the quality of the location and the long-term vision we have had for the property,” said Andrew Silverman, principal of Andalex, whose firm acquired Sylvan Corporate Center in 2004 and oversaw the construction of two additional buildings on-site by 2008. Englewood Health currently operates several buildings at Sylvan Corporate Center: an orthopedics and primary care offices, an Asian health and wellness center, and an ambulatory surgery center. The firm is expected to develop a 50,000-square-foot outpatient imaging and therapeutics center and a 50,000-square-foot physician office space as part of the new expansion. “Sylvan Corporate Center represents the type of high-quality, relationship-driven credit investment that RXR is well positioned to execute,” said Russ Young, head of investments at RXR. Englewood Health’s credit profile is also of note, as the provider is scheduled to merge with RWJ Barnabas Health, in a deal that would create the largest combined health care system in the state of New Jersey. Alexander Silverman, another principal at Andalex, called Englewood Health “an exceptional institution and an ideal long-term partner,” in a statement. “Their commitment to more th",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-14T13:00:33+00:00",
+      "bullets": [
+        "RXR, Waterfall, NYLife Finance $103M recap of Englewood Cliffs medical campus",
+        "Anchor tenant Englewood Health signs 20-year extension, doubles footprint to 202K sf",
+        "Englewood Cliffs, N.J. asset currently 100% leased; expansion drives refinance"
+      ],
+      "summary": "RXR, Waterfall Asset Management, and New York Life Investment Management are refinancing a $103 million recapitalization of Sylvan Corporate Center, a 276,000-sf medical office campus in Englewood Cliffs, N.J., owned by Andalex Group. Anchor tenant Englewood Health has signed a 20-year lease extension and plans to expand to 202,000 sf from its current footprint. The asset is fully leased and the expansion is driving new capital.",
+      "impact": "Not directly relevant to multifamily development. However, signals strong healthcare real estate fundamentals in the NYC suburbs and demonstrates healthy long-term lease growth; medical office strength can indirectly support multifamily demand in secondary markets (Englewood Cliffs) via employment stability and professional-class retention."
+    },
+    {
+      "title": "Gaia CEO Danny Fishman Grew the Development Firm by Looking Way Ahead",
+      "link": "https://commercialobserver.com/2026/07/gaia-real-estate-ceo-danny-fishman-sun-belt-development/",
+      "excerpt": "Danny Fishman swims against the current. Unlike most companies during the Global Financial Crisis (GFC) — which from 2007 to 2009 triggered a worldwide economic downturn — Fishman, co-founder and CEO of GAIA Real Estate, took the opportunity to be extremely active in deal-making. Not only did he launch Gaia during the period, but he also hit his professional stride by acquiring distressed properties — properties no other company would dare buy during a financial crisis — for steep discounts, flipping them into desirable assets, and selling them for more than triple what they’re worth. “Danny’s been very successful in not falling where a lot of other people fell,” said Doron Broman, founder and CEO of Moderno Development Group and a frequent business partner of Gaia. “His strategy is very smart, and he’s very disciplined.” Fishman’s tactic of acquiring mispriced assets has turned Gaia, a private equity and property development firm focusing on acquiring, renovating and managing residential properties across the U.S., into a prominent institutional investor. All told, the firm — along with its privately held real estate investment trust Gaia REIT — has a portfolio encompassing more than 80 properties, 20,000 residential units and $4 billion in assets under management. But all of that success came after Fishman grew the firm’s humble roots. Fishman was born and raised in Jerusalem, launching an early career preparing large Israeli government-owned real estate companies for privatization. He then moved on to found Tamir Fishman, an Israeli investment bank and asset management firm that’s still growing today. Fishman eventually met his business partner and Gaia co-founder, Ken Woolley, in Israel around 2008. From there, Gaia was born, taking its name from Greek mythology. (Gaia is the Earth.) The co-founders hit it off and both saw what they called a “rare opportunity” at the time, which was to invest in apartments during what was going to be an epic downturn during the ",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-14T11:00:17+00:00",
+      "bullets": [
+        "GAIA Real Estate CEO Danny Fishman built firm by acquiring distressed properties during GFC",
+        "Strategy: buy mispriced assets during crises, renovate, sell at multiples of acquisition cost",
+        "GAIA specializes in residential acquisition, renovation, and management across U.S."
+      ],
+      "summary": "Danny Fishman, co-founder and CEO of GAIA Real Estate, built a prominent residential development and investment firm by taking contrarian risk during the 2007–2009 financial crisis, acquiring distressed properties at steep discounts and flipping them for multiples of cost. GAIA focuses on acquiring, renovating, and managing residential properties nationwide and has become a major institutional investor through disciplined underwriting and opportunistic timing.",
+      "impact": "Illustrates the enduring playbook for multifamily value creation: buy mispriced assets when capital is scarce, control basis, and sell or hold as refinancing becomes available. Signals importance of capital discipline and dry powder positioning during macro uncertainty; developers with patient capital and strong underwriting will have outsized returns in the next dislocation cycle."
+    },
+    {
+      "title": "Information Is Becoming Cheaper. Judgment Is Becoming Priceless.",
+      "link": "https://commercialobserver.com/2026/07/information-cheaper-judgment-priceless-2/",
+      "excerpt": "For most of my career, one of the greatest competitive advantages you could possess was information. If you knew more than your competitors, you had an edge. You knew who owned what, who was refinancing, who was thinking about selling, what buyers were paying, where rents were moving, and what was happening before everyone else did. That information allowed you to make better decisions and create opportunities others simply couldn&#8217;t see. In many respects, that informational advantage was one of the foundations upon which my old firm Massey Knakal was built. We invested enormous amounts of time collecting, organizing and studying market information. We knew more about New York City investment properties than anyone else because we made it our business to know everything about something, as opposed to knowing something about everything. That knowledge became an enormous competitive advantage and ultimately helped us build what became the most dominant investment sales company in the history of the United States. Robert Knakal. PHOTO: Patrick McMullan/Patrick McMullan via Getty Images But the world is changing. Artificial intelligence is rapidly commoditizing information. Today, virtually anyone can ask an AI platform a sophisticated question and receive an intelligent, comprehensive answer in seconds. Market statistics, legal precedents, financial models, zoning information, demographic trends and research that once required years to accumulate are now available almost instantly. The cost of acquiring information is collapsing. Economics teaches us that when something becomes abundant, its value inevitably declines. That doesn&#8217;t mean expertise is becoming less valuable. Quite the opposite. It means the source of expertise is changing. As information becomes commoditized, judgment becomes the new competitive advantage. Judgment is the ability to look at the same information everyone else has and arrive at a better conclusion. It is knowing which facts actua",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-14T10:45:53+00:00",
+      "bullets": [
+        "AI commoditizes market data; information advantage eroding for RE professionals",
+        "Judgment and deal sourcing becoming new competitive edge over raw market intel",
+        "Author notes shift from Massey Knakal's data-hoarding to AI-democratized landscape"
+      ],
+      "summary": "As AI rapidly commoditizes access to real estate market information, the traditional competitive advantage of information arbitrage is disappearing. Market data, deal sourcing intel, and pricing trends are now available to anyone via AI; the new edge lies in judgment, relationships, deal sourcing, and speed of execution rather than privileged data. The author, a founder of Massey Knakal, contrasts the old information-dominant model with today's leveled playing field.",
+      "impact": "Accelerates consolidation of deal-sourcing and underwriting advantage toward firms with strong broker networks, institutional relationships, and capital—not data. Smaller and undercapitalized development firms will struggle to compete on deal flow and timing; larger platforms with multiple capital sources and broad GP networks will command the market. Forces developers to compete on execution, cost control, and sponsor reputation rather than information edge."
+    },
+    {
+      "title": "Buyer scores $2M judgment against Mandarin Oriental Boca developer",
+      "link": "https://therealdeal.com/miami/2026/07/13/mandarin-oriental-developer-loses-2m-judgment-to-buyer/",
+      "excerpt": "The legal troubles at Penn-Florida’s Mandarin Oriental Boca Raton continue to mount after the developer lost a $2 million judgment.&#160; A Palm Beach County Circuit Court judge sided with Douglas and Debra Jacobs after they filed a lawsuit against Penn-Florida affiliate Via Mizner Owner III, which alleged the developer failed to complete their condo in time, the South Florida Business Journal reported.&#160; The developer announced plans for the 248-unit hotel-condo Mandarin Oriental in 2015, with an initial opening target of 2017, the outlet reported. The complaint alleged that the Jacobses signed a contract to buy a condo in the development [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-07-13T23:45:11+00:00",
+      "bullets": [
+        "Penn-Florida's Via Mizner loses $2M judgment in Palm Beach County for condo delay",
+        "Jacobses signed 2022 contract with Dec. 31, 2025 completion date; unit not finished",
+        "13 total lawsuits filed against Via Mizner over Mandarin Oriental delays; one other settled for $2.1M"
+      ],
+      "summary": "A Palm Beach County Circuit Court judge ruled against Penn-Florida's Via Mizner Owner III affiliate, awarding the Jacobses a $2 million judgment for failure to complete their condo unit by the December 31, 2025 deadline. The couple had signed a purchase agreement in 2022 and will receive refund authorization from escrow. Via Mizner faces 13 lawsuits over Mandarin Oriental delivery delays; another buyer recently settled for $2.1 million.",
+      "impact": "South Florida condo developer liability risk rising sharply due to completion delays and contract breaches. Signals demand softness or cost overruns forcing delays on speculative condo projects; buyers are holding developers accountable in court and winning. For multifamily developers, illustrates risk of over-leveraging spec condo pipelines tied to market timing and the importance of contingency reserves for cost inflation and labor constraints."
+    },
+    {
+      "title": "Chicago proposes $287M TIF raid for Related Midwest’s megaproject The 78",
+      "link": "https://therealdeal.com/chicago/2026/07/13/chicago-proposes-278m-tif-raid-for-relateds-the-78/",
+      "excerpt": "Chicago officials are set to throw $287 million of property tax revenue into the megaproject that includes Major League Soccer team the Chicago Fire’s new stadium in the South Loop.&#160; The proposal for the project known as the 78 is being considered by the Chicago City Council Finance Committee. The shift in funding is expected to partially reorganize a tax increment financing subsidy for the project’s developer, Related Midwest, according to Crain’s.&#160; The revised agreement would add $287 million from the Canal/Congress TIF district to the TIF district that the 78 sits in, meaning the project’s developers would not have [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-07-13T22:55:50+00:00",
+      "bullets": [
+        "Chicago proposes $287M TIF raid on Canal/Congress district to fund 'The 78' megaproject",
+        "The 78 includes Chicago Fire MLS stadium and mixed-use development by Related Midwest",
+        "Shift redirects Union Station maintenance funds; would capture ~9 years of Canal/Congress TIF revenue"
+      ],
+      "summary": "Chicago city officials propose redirecting $287 million in property tax increment financing (TIF) revenue from the Canal/Congress district to fund infrastructure for The 78, a megaproject anchored by the Chicago Fire's new MLS stadium in the South Loop developed by Related Midwest. The move is controversial because it reallocates funds earmarked for Union Station maintenance and would essentially consume all Canal/Congress TIF revenue for nine years. Original plan was only $85 million over three years.",
+      "impact": "TIF raid signals Chicago's commitment to South Loop placemaking and large mixed-use development but creates fiscal drag on competing infrastructure projects (Union Station). Increased public subsidy reduces equity returns for private developers on large urban renewal projects; developers bidding on Chicago catalytic projects should model optimistic TIF participation but lower sponsor IRR assumptions. Success of The 78 as a mixed-use anchor could drive multifamily demand in South Loop but at reduced unit economics due to land cost escalation and longer entitlement timelines."
+    },
+    {
       "title": "Events Operator Glasshouse Signs 30-Year Lease for 3 World Trade Center",
       "link": "https://www.connectcre.com/stories/events-operator-glasshouse-signs-30-year-lease-for-3-world-trade-center/",
       "excerpt": "Glasshouse has signed a long-term lease for 66,436 square feet at 3 World Trade Center. The 30-year agreement for a portion of the ground floor and the entirety of the second and third floors brings the event, hospitality and experiential venue operator to the World Trade Center campus for its fourth Manhattan location. CBRE’s Chris Mansfield, Anthony Dattoma and Zachary Weil represented Glasshouse. The transaction involved a three-party structure among Glasshouse, Unibail-Rodamco-Westfield (URW) and the Port Authority of New York and New Jersey. URW represented itself. “This transaction represents one of the most significant experiential leasing transactions completed in Manhattan in recent years,” said Dattoma. “Beyond creating a flagship venue for Glasshouse, this lease complements the continued momentum and surge of leasing activity across Lower Manhattan. The new venue is expected to attract more than 250,000 visitors annually, bringing additional energy and activation to the World Trade Center campus while further strengthening Downtown as one of New York City’s premier destinations for business, hospitality, culture and community engagement.” The post Events Operator Glasshouse Signs 30-Year Lease for 3 World Trade Center appeared first on Connect CRE.",
@@ -32,27 +152,27 @@
       "cat": "Commercial",
       "date": "2026-07-13T21:25:00+00:00",
       "bullets": [
-        "Glasshouse signs 30-year lease for 66,436 SF at 3 World Trade Center, Manhattan.",
-        "Event venue expected to attract 250,000+ annual visitors to Lower Manhattan campus.",
-        "Transaction signals strong experiential/hospitality tenant demand in NYC office market."
+        "Glasshouse events operator signs 30-year lease for 66,436 sf at 3 World Trade Center",
+        "Three-party structure: Glasshouse, URW, Port Authority of NY/NJ",
+        "Venue expected to attract 250K+ visitors annually; fourth Manhattan Glasshouse location"
       ],
-      "summary": "Events operator Glasshouse committed to a three-decade lease spanning ground and second-third floors of 3 World Trade Center, representing one of Manhattan's largest experiential leases in years. The venue expects to draw over 250,000 visitors annually, anchoring URW's continued momentum at the World Trade Center campus. This transaction reflects resurgent leasing activity and tenant confidence in Downtown Manhattan as a premier business and hospitality destination.",
-      "impact": "While not directly a multifamily play, this signals strong downtown NYC activation and foot-traffic generation that benefits surrounding residential demand. Glasshouse's massive visitor draw (250K+/year) strengthens the case for mixed-use residential development in Lower Manhattan, particularly rental apartment projects targeting young professionals drawn by nightlife and experiential amenities near transit."
+      "summary": "Glasshouse, an event and experiential venue operator, has signed a 30-year lease for 66,436 square feet across ground, second, and third floors of 3 World Trade Center in Lower Manhattan. The transaction is structured among Glasshouse, developer Unibail-Rodamco-Westfield (URW), and the Port Authority. The venue is projected to draw over 250,000 visitors annually and is Glasshouse's fourth Manhattan location.",
+      "impact": "Long-term activation and foot traffic anchor at WTC campus improves neighborhood vitality and residential appeal; signals sustained institutional confidence in Lower Manhattan as a mixed-use destination. For multifamily developers, validates continued demand for residential stock near transit-rich, culturally activated downtown nodes; supports rents and absorption in nearby Battery Park City, South Street Seaport, and downtown Brooklyn residential projects."
     },
     {
       "title": "Silver Lake Development Parcel Increases Density Through Re-Entitlement",
       "link": "https://www.connectcre.com/stories/silver-lake-development-parcel-increases-density-through-re-entitlement/",
-      "excerpt": "Northmarq&#8217;s Los Angeles Investment Sales team of Mike Hanassab, Steven Goldstein and Elliot Hassan arranged the $5.25-million sale of Hyperion Residences, a three-parcel development site located at 835 N. Hyperion Ave. in Los Angeles&#8217; Silver Lake neighborhood. Northmarq represented the seller, Hyperion Apartments LP. The buyer is a locally based affordable housing developer. The site was delivered fully entitled and Ready-to-Issue for a six-story, approximately 54-unit project under Transit Oriented Communities Tier 3. During escrow, the buyer leveraged Executive Directive 1 to re-entitle the parcels for 105 units, increasing density and reducing per-unit cost significantly. The community is now under construction as a mixed-income development. “Silver Lake remains one of Los Angeles&#8217; most entitlement-constrained corridors, and sites that pencil for Executive Directive 1 projects are increasingly sought after,” said Hanassab. “The buyer recognized the deeper opportunity and moved swiftly to re-entitle the parcels during escrow, bringing their basis to roughly $50,000 per buildable unit — an exceptional outcome for both parties.” The post Silver Lake Development Parcel Increases Density Through Re-Entitlement appeared first on Connect CRE.",
+      "excerpt": "Northmarq&#8217;s&nbsp;Los Angeles&nbsp;Investment Sales team of&nbsp;Mike Hanassab,&nbsp;Steven Goldstein&nbsp;and&nbsp;Elliot Hassan&nbsp;arranged the $5.25-million sale of Hyperion Residences, a three-parcel development site located at 835 N. Hyperion Ave. in Los Angeles&#8217; Silver Lake neighborhood. Northmarq represented the seller, Hyperion Apartments LP. The buyer is a locally based affordable housing developer. The site was delivered fully entitled and Ready-to-Issue for a six-story, approximately 54-unit project under Transit Oriented Communities Tier 3. During escrow, the buyer leveraged Executive Directive 1 to re-entitle the parcels for 105 units, increasing density and reducing per-unit cost significantly. The community is now under construction as a mixed-income development. “Silver Lake remains one of Los Angeles&#8217; most entitlement-constrained corridors, and sites that pencil for Executive Directive 1 projects are increasingly sought after,” said Hanassab. “The buyer recognized the deeper opportunity and moved swiftly to re-entitle the parcels during escrow, bringing their basis to roughly $50,000 per buildable unit — an exceptional outcome for both parties.” Connect Texas Multifamily in Dallas on August 13 brings together the owners, developers, brokers, investors, and lenders shaping the future of Texas multifamily for a day of market intelligence, networking, and actionable insights. Join 300+ decision-makers and be part of the conversations driving the Texas multifamily market. Register today: www.ConnectTXMF2026.com. The post Silver Lake Development Parcel Increases Density Through Re-Entitlement appeared first on Connect CRE.",
       "source": "Connect CRE",
       "cat": "Commercial",
       "date": "2026-07-13T21:10:56+00:00",
       "bullets": [
-        "Hyperion Residences, Silver Lake LA, re-entitled from 54 to 105 units via Executive Directive 1.",
-        "Buyer achieved ~$50K per buildable unit basis by leveraging density bonus post-acquisition.",
-        "Silver Lake remains entitlement-constrained; ED1 sites increasingly competitive for affordable developers."
+        "Hyperion Residences (Silver Lake, Los Angeles) sold for $5.25M fully entitled for 54 units",
+        "Buyer re-entitled during escrow via Executive Directive 1 to 105 units (+94% density)",
+        "Final basis ~$50K per buildable unit; mixed-income project now under construction"
       ],
-      "summary": "A locally based affordable housing developer purchased Hyperion Residences (835 N. Hyperion Ave., Silver Lake) for $5.25M fully entitled for 54 units, then swiftly re-entitled during escrow to 105 units using Executive Directive 1 density incentives. The re-entitlement nearly doubled unit count while reducing per-unit cost to roughly $50K—a significant arbitrage on entitled land in a supply-constrained submarket. The project is now under construction as mixed-income housing.",
-      "impact": "Silver Lake's entitlement constraints and ED1 density bonus availability create a window for strategic land acquisition and re-entitlement plays in LA. Multifamily developers should monitor other entitled but underbuilt sites in transit-adjacent LA corridors eligible for ED1; the $50K/unit basis demonstrates the leverage available when entitlements are re-optimized post-close, improving project feasibility in high-cost urban submarkets."
+      "summary": "Northmarq arranged the $5.25 million sale of Hyperion Residences, a three-parcel development site in Silver Lake, Los Angeles, delivered fully entitled for a 54-unit Transit Oriented Communities project. The buyer, a local affordable housing developer, leveraged Executive Directive 1 during escrow to re-entitle the parcels for 105 units, a 94% density increase. Final basis achieved ~$50,000 per buildable unit—an exceptional outcome reflecting the buyer's entitlement arbitrage.",
+      "impact": "Los Angeles' Executive Directive 1 (streamlined approval for affordable projects) is creating significant value capture for agile developers with entitlement expertise; Silver Lake remains highly constrained, making density arbitrage critical to project feasibility. Multifamily developers should prioritize ED1 entitlement strategies and re-entitlement optionality in acquisition underwriting; $50K/unit basis in Silver Lake is highly competitive and signals strong builder demand for entitled sites. Trend favors institutional sponsors with in-house entitlement teams."
     },
     {
       "title": "Condo High-Rise Launches Construction in Sunnyside",
@@ -62,117 +182,27 @@
       "cat": "Commercial",
       "date": "2026-07-13T21:00:10+00:00",
       "bullets": [
-        "51-02 Roosevelt Ave., Sunnyside Queens: 19-story, 84-unit condo launched construction, delivery 2029.",
-        "Hiwin Group USA developer; prior Chelsea project (69 units) sold out in nine months.",
-        "Rare high-rise addition to neighborhood with strong transit; includes ground-floor retail and office."
+        "Hiwin Group USA begins construction on 51-02 Roosevelt Ave., Sunnyside, Queens",
+        "19-story condo tower, 84 units, delivery 2029; 70 one-bed, 14 two-bed units",
+        "Rare high-rise in neighborhood; developer behind 69-unit Chelsea project (sold out in 9 months)"
       ],
-      "summary": "Hiwin Group USA broke ground on a 19-story condominium at the Sunnyside-border with 84 units (70 one-bed, 14 two-bed), ground-floor retail and office, and community spaces. Delivery is slated for 2029. The developer's track record includes a 69-unit Chelsea condo (300 W. 30th St.) that sold out in nine months, signaling strong sponsor credibility and buyer demand for urban product in gateway markets.",
-      "impact": "Limited relevance to multifamily rental development; this is condo (for-sale) product. However, the Sunnyside location and strong transit access underscore robust demand for high-rise residential at Queens-Manhattan borders. Rental developers should note that sell-out velocity in transit-rich outer-borough projects validates demand; similar sites may support high-density rental apartments if zoning permits."
-    },
-    {
-      "title": "Midwood Buys Mixed-Use Building Across From Former Downtown Brooklyn Macy’s",
-      "link": "https://commercialobserver.com/2026/07/midwood-buys-423-fulton-street-downtown-brooklyn-macys/",
-      "excerpt": "A four-story office and retail building across the street from the former Macy’s department store in Downtown Brooklyn has traded, Commercial Observer has learned. Midwood Investment &amp; Development, a New York City-based real estate development and management firm, purchased 423 Fulton Street — opposite the former Macy’s at 422 Fulton Street — for $9.5 million, according to broker KSR. The property on the corner of Fulton and Pearl streets is home to Panda Express in the ground-floor retail space and Staywell Medical Group in the office space. The seller of 423 Fulton Street is BNN Fulton Flushing Owner, an LLC comprising several parties, including real estate investor Ralph Braha and the Nakash family, which owns Jordache Enterprises. The Nakash family also owns the historic Versace Mansion in Miami Beach, Fla., where it just secured a $44.7 million refinancing loan in May. KSR’s Albert Sultan and Joseph Ash brokered the 423 Fulton Street deal for both the buyer and the seller entity. A spokesperson for Midwood did not immediately respond to a request for comment, while a spokesperson for Jordache could not be reached for comment. While Midwood’s exact plans for its new property are unclear, the deal comes as Downtown Brooklyn experiences a bit of a retail renaissance, especially following news that the neighborhood’s former Macy’s department store will be redeveloped into a five-floor retail and amusement destination called BKX, as CO first reported. Owners United American Land and Jackson Group plan to transform the 440,000-square-foot space at 422 Fulton Street into a hot spot for large-format retail tenants, a wellness or fitness facility, and food and beverage companies. And while there’s still 125 available storefronts in Downtown Brooklyn, the area has found success in retail that meets its population’s needs, including three new supermarkets on Fulton Street, Regina Myer, president of the Downtown Brooklyn Partnership, said during CO’s 2026 Brooklyn Foru",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-13T20:56:16+00:00",
-      "bullets": [
-        "Midwood Investment & Development acquired 423 Fulton Street, Downtown Brooklyn, for $9.5M.",
-        "Four-story mixed-use building opposite former Macy's; tenanted by Panda Express and Staywell Medical.",
-        "Downtown Brooklyn continues consolidating with mixed-use acquisitions near transit and anchors."
-      ],
-      "summary": "Midwood Investment & Development purchased a four-story office-retail building at 423 Fulton Street (corner of Pearl) in Downtown Brooklyn for $9.5M, directly across from the former Macy's department store. The asset is currently leased to Panda Express (ground-floor) and Staywell Medical Group (office). The transaction underscores continued real estate activity in the Downtown Brooklyn submarket despite broader retail challenges.",
-      "impact": "Minor relevance to multifamily. The deal signals that mixed-use sites near Downtown Brooklyn transit and landmark anchors (even vacant ones like former Macy's) attract development capital. If the former Macy's site is redeveloped for residential, it could trigger a wave of residential-heavy mixed-use conversions in the submarket, driving multifamily demand upward. Monitor the vacancy and reuse plans for the 422 Fulton Street (old Macy's) site."
-    },
-    {
-      "title": "JPMorgan Funnels $205M to Refi Blackstone’s East Hotel in Miami",
-      "link": "https://commercialobserver.com/2026/07/jpmorgan-east-hotel-miami-brickel-blackstone/",
-      "excerpt": "Blackstone Real Estate has once again landed debt from J.P. Morgan Chase to refinance a South Florida hotel. The bank supplied a $205 million loan backed by the East Miami hotel in the Brickell district, property records show. The 39-story hotel houses 352 rooms, including 89 serviced apartments, a 20,000-square-foot pool deck and the Sugar rooftop bar, located within the 5 million-square-foot Brickell City Centre mixed-use complex at 788 Brickell Plaza. New York-based private equity giant Blackstone purchased the 536,070-square-foot asset for about $300 million last year from Trinity Investments and Certares Real Estate Management. The refinancing appears to be the first loan Blackstone has loaded onto the property, which was completed in 2016. East Miami is one of three hotels in the luxury East brand. The others are in Hong Kong and Beijing. Just last month, J.P. Morgan Chase funneled $115 million to refinance Blackstone’s oceanfront W hotel in Fort Lauderdale. The firm had purchased the 346-room asset for $153 million in 2024. The financing comes on the back of other major refinancings in South Florida. In April, Trinity Investments and UBS nabbed $600 million for the 1,000-room, oceanfront Diplomat Beach Resort in Hollywood also from J.P. Morgan Chase and Citi Real Estate Funding. Representatives for Blackstone did not immediately provide comment. Julia Echikson can be reached at jechikson@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-13T20:50:20+00:00",
-      "bullets": [
-        "JPMorgan supplied $205M refi loan for Blackstone's East Miami hotel in Brickell.",
-        "39-story asset: 352 rooms, 89 serviced apartments, 20K SF pool deck in 5M SF mixed-use complex.",
-        "Blackstone acquired for ~$300M in 2023; first debt layered on property; strong lender appetite for premium hospitality."
-      ],
-      "summary": "JPMorgan Chase provided a $205M refinancing loan for Blackstone Real Estate's East Miami hotel, a 39-story luxury property within the 5M-square-foot Brickell City Centre. The asset contains 352 rooms (including 89 serviced apartments), premium amenities, and was acquired by Blackstone for ~$300M in 2023 from Trinity/Certares. This is the first debt placed on the property since completion in 2016, signaling strong lender confidence in premium South Florida hospitality assets.",
-      "impact": "Limited direct multifamily impact. However, strong refinancing appetite for luxury hotels in major mixed-use complexes (Brickell City Centre) suggests robust capital availability and lender confidence in mixed-use submarkets. This supports the feasibility of large residential-hotel hybrid developments in similar South Florida submarkets; lenders viewing hotel components as stabilizing anchors may be more receptive to mixed-use residential financing."
+      "summary": "Construction has launched at 51-02 Roosevelt Ave. in Sunnyside, Queens, a 19-story condominium developed by Hiwin Group USA scheduled for delivery in 2029. The project includes 84 units (70 one-bedroom, 14 two-bedroom) with ground-floor retail, office, medical space, and parking. Hiwin previously developed a 69-unit Chelsea condo that sold out in nine months, demonstrating strong execution track record.",
+      "impact": "Signals continued condo investor confidence in Queens secondary markets near transit. While rental multifamily focused, the project's scale and rapid pre-sales (Chelsea precedent) validate demand for housing near Sunnyside Transit Hub; rental developers should monitor condo absorption rates as a demand barometer for the submarket. Long 2029 delivery timeline suggests current entitlements and construction financing remain available in outer boroughs despite broader NYC market softness."
     },
     {
       "title": "Marcus & Millichap Closes Sale of North Shore Industrial Condo",
       "link": "https://www.connectcre.com/stories/marcus-millichap-close-sale-of-north-shore-industrial-condo/",
-      "excerpt": "Marcus &amp; Millichap closed the sale of an industrial condominium at 30 Log Bridge Rd. in Middleton, MA. The asset sold for $2,525,000. “The quality of this industrial condo drove interest from owner-users and investors,” said Mattias Edenkrans, associate director investments in Marcus &amp; Millichap’s Boston office. &#8220;Ultimately, the low market vacancy in this core North Shore market appealed to an investor group that purchased with conviction, allowing us to achieve certainty of execution for our client.” Edenkrans and Luigi Lessa of Marcus &amp; Millichap marketed the property on behalf of the seller, E Homes Realty, LLC, and procured the buyer, Richardson Green. The property, located at 30 Log Bridge Road #303, is a 12,975-square-foot industrial condominium on a 13.51-acre lot. The property is split into a 7,025-square-foot warehouse, a 2,975-square-foot showroom on the first floor and a 2,975-square-foot second-floor office space. It was built in 2016 and includes 25 parking spaces. The post Marcus &amp; Millichap Closes Sale of North Shore Industrial Condo appeared first on Connect CRE.",
+      "excerpt": "Marcus &amp; Millichap closed the sale of an industrial condominium at 30 Log Bridge Rd. in Middleton, MA.&nbsp;The asset sold for $2,525,000. “The quality of this industrial condo drove interest from owner-users and investors,” said Mattias Edenkrans, associate director investments in Marcus &amp; Millichap’s Boston office. &#8220;Ultimately, the low market vacancy in this core North Shore market appealed to an investor group that purchased with conviction, allowing us to achieve certainty of execution for our client.” Edenkrans and Luigi Lessa of Marcus &amp; Millichap marketed the property on behalf of the seller, E Homes Realty, LLC, and procured the buyer, Richardson Green. The property, located at 30 Log Bridge Road #303, is a 12,975-square-foot industrial condominium on a 13.51-acre lot. The property is split into a 7,025-square-foot warehouse, a 2,975-square-foot showroom on the first floor and a 2,975-square-foot second-floor office space. It was built in 2016 and includes 25 parking spaces. The post Marcus &amp; Millichap Closes Sale of North Shore Industrial Condo appeared first on Connect CRE.",
       "source": "Connect CRE",
       "cat": "Commercial",
       "date": "2026-07-13T20:40:23+00:00",
       "bullets": [
-        "Marcus & Millichap closed $2.525M sale of 12,975 SF industrial condo in Middleton, MA (North Shore).",
-        "Low market vacancy in North Shore drew investor conviction despite industrial headwinds.",
-        "Buyer: Richardson Green; 2016-built, mixed warehouse-showroom-office condo with 25 parking spaces."
+        "Marcus & Millichap closed sale of 12,975-sf industrial condo in Middleton, MA for $2.525M",
+        "Property sold to investor group (Richardson Green) citing low North Shore market vacancy",
+        "Built 2016; includes warehouse, showroom, office, 25 parking spaces on 13.51-acre lot"
       ],
-      "summary": "An industrial condominium at 30 Log Bridge Road, Middleton, MA sold for $2.525M, comprising 7,025 SF warehouse, 2,975 SF showroom, and 2,975 SF office space on a 13.51-acre lot. Built in 2016, the property features 25 parking spaces. Low market vacancy in the core North Shore market attracted investor conviction despite broader industrial headwinds, driving certainty of execution for the seller.",
-      "impact": "No direct multifamily relevance. Low vacancy in North Shore industrial underscores tight supply in the Boston metro's secondary markets, which may indicate broader supply constraints lifting rents across submarkets and supporting multifamily asset valuations and development feasibility in the region."
-    },
-    {
-      "title": "CBRE Adds Freddie Mac’s Robert Koontz to Lead Multifamily Debt Capital Markets",
-      "link": "https://commercialobserver.com/2026/07/cbre-robert-koontz-freddie-mac/",
-      "excerpt": "CBRE has added Robert Koontz as head of multifamily debt capital markets after he led a similar role at Freddie Mac, the company announced Monday. Koontz, who spent 17 years at Freddie Mac and most recently served as head of multifamily capital markets at the government-sponsored enterprise, joined CBRE on July 6 as part of the brokerage’s efforts to expand its multifamily loan business. He will report to James Millon, co-head of capital markets, and work closely with Kelli Carhart, head of multifamily capital markets who worked with Koontz at Freddie Mac prior to joining CBRE in 2022. Koontz left Freddie Mac in November 2025. “Robert was a free agent and is super talented, and he’s one of those people that if they are available you figure out a way to bring them forward,” Carhart told Commercial Observer. “We’re bringing on somebody who is a platform builder, who culturally is a great fit, a great leader and a great visionary.’ At Freddie Mac, Koontz built out the GSE’s K-Deal CMBS program that launched in 2009. He will be focused at CBRE on expanding its balance sheet and risk transfer strategies which includes more bridge debt offerings such as bridge-to-agency loans. Koontz, who will split his time between Washington. D.C.. and New York, arrives at CBRE in a growth period for multifamily debt coming off a more than $30 billion origination output in 2025 with this year’s volume up 60 percent, according to Carhart. “The combination of origination capabilities, market intelligence, and an integrated platform across commercial real estate sales and investment banking creates a clear competitive advantage for clients,” Koontz said in a statement. “I look forward to working with this team to drive execution and expand what we can deliver for multifamily borrowers and investors across the country.&#8221; Andrew Coen can be reached at acoen@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-13T20:40:22+00:00",
-      "bullets": [
-        "CBRE hired Robert Koontz (17 years at Freddie Mac) as head of multifamily debt capital markets.",
-        "Koontz built Freddie Mac's K-Deal CMBS program (2009); will expand bridge, agency, risk-transfer at CBRE.",
-        "Senior hire signals CBRE's strategic push to capture multifamily debt origination and syndication."
-      ],
-      "summary": "CBRE appointed Robert Koontz, a 17-year Freddie Mac veteran and architect of the GSE's K-Deal CMBS program, as head of multifamily debt capital markets. Koontz will report to co-head James Millon and work alongside Kelli Carhart (his former Freddie Mac colleague) to expand CBRE's balance sheet, bridge-to-agency loans, and risk-transfer strategies. The hire reflects CBRE's commitment to deepen its multifamily lending business and compete aggressively for originations.",
-      "impact": "Capital signal: CBRE's multimillion-dollar bet on Freddie Mac talent suggests confidence in sustained multifamily debt demand and potential gaps in GSE/lender capacity to fund the pipeline. Developers should expect CBRE to become a more aggressive originator of construction and bridge debt; this may tighten pricing competition and expand available debt structures (e.g., bridge-to-agency) for qualified sponsors, easing refinance paths and potentially lowering cost of capital for new starts."
-    },
-    {
-      "title": "Rubicon Point Acquires Three-Building Office Complex Near Apple Headquarters",
-      "link": "https://www.connectcre.com/stories/rubicon-point-acquires-three-building-office-complex-near-apple-headquarters/",
-      "excerpt": "Rubicon Point Partners (RPP) has acquired Wolfe Square, a Class A, 117,795-square-foot multi-tenant office and medical campus located adjacent to Apple&#8217;s global headquarters in Cupertino. Although the buyer didn&#8217;t disclose the acquisition price, the Silicon Valley Business Journal recently reported it as more than $50 million. &#8220;Wolfe Square represents exactly the type of quality investment in a quality location that defines our investment strategy,&#8221; said Ani Vartanian, RPP co-Founder &amp; managing director. &#8220;This is a community-critical building with institutional-grade tenancy, a proven rent roll, and a location that simply cannot be replicated. We are proud to steward this asset for years to come.&#8221; RPP plans to bring its UnCommon hospitality platform to the property. Will Connors, Dan Renz &amp; Michael Manas of JLL represented the seller in the transaction. Bob Simpson and Erik Hallgrimson of Cushman &amp; Wakefield serve as the leasing brokers for the property. The post Rubicon Point Acquires Three-Building Office Complex Near Apple Headquarters appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-13T20:34:21+00:00",
-      "bullets": [
-        "Rubicon Point Partners acquired Wolfe Square: 117,795 SF Class A office near Apple HQ, Cupertino, >$50M.",
-        "Multi-tenant office-medical campus; RPP plans UnCommon hospitality platform activation.",
-        "Silicon Valley institutional office with proven rent roll and unreplicable location near tech anchor."
-      ],
-      "summary": "Rubicon Point Partners purchased Wolfe Square, a 117,795-square-foot Class A office-medical campus adjacent to Apple's global headquarters in Cupertino, for more than $50M (per Silicon Valley Business Journal). The multi-tenant property boasts institutional-grade tenancy and a proven rent roll. RPP plans to activate the asset with its UnCommon hospitality platform, leveraging proximity to one of Silicon Valley's largest employment centers.",
-      "impact": "No direct multifamily play, but Apple HQ proximity and RPP's hospitality overlay signal strong commercial viability in Cupertino. Office-to-residential conversions or ground-floor lifestyle retail within 1-mile of Apple's campus could support premium rental apartment demand from Apple workers and visiting executives. Monitor Cupertino zoning flexibility for office-to-residential conversions, particularly if tech employment remains robust and housing supply stays constrained."
-    },
-    {
-      "title": "Fashion Platform Orly Inks 20K-SF Office Lease at 20 West 33rd Street",
-      "link": "https://commercialobserver.com/2026/07/orly-office-lease-20-west-33rd-street/",
-      "excerpt": "Consumer products and fashion platform Orly has leased 20,014 square feet of office space at 20 West 33rd Street in Midtown South, according to the landlord broker. The deal, first reported by Traded, was signed with landlord JLA Home two weeks ago. Asking rent for the 10-year lease was $55 per square foot. Orly, founded in 1980 and also known as Orly-Corp., currently manages a portfolio of over 20 brands, ranging from footwear and apparel to household products and travel accessories. Its partnerships include Aeropostale, Lucky Brand and Nine West. Orly expects to move into its new, larger space early next year, according to a post on the company’s LinkedIn page. The company’s website locates its current headquarters one block north of their new lease, at 15 West 34th Street. Representatives of Orly could not immediately be reached for comment. LSL Advisors’ Wayne Siegel, Daniel Lolai and Zach Sarraf represented the tenant in the negotiations, while Lincoln Property Company’s Jeffrey Rosenblatt and Christina De Jesus worked on behalf of JLA. An entity of JLA, a home furnishing company, purchased its office condos at 20 West 33rd Street in 2022. Other tenants at the 13-story property include home and houseware company Vanderbilt Home Collections, restaurant Turntable Jazz Chicken and painting services provider JB Painters. Spokespeople for LSL Advisors and JLA Home did not immediately respond to requests for comment. Emily Davis can be reached at edavis@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-13T20:09:49+00:00",
-      "bullets": [
-        "Fashion platform Orly leased 20,014 SF at 20 West 33rd Street, Midtown South, for 10 years at $55/SF.",
-        "Orly (1980 founder) manages 20+ brands including Aeropostale, Lucky Brand, Nine West; move-in early 2025.",
-        "Midtown South office leasing sustained; tenant growth supports retail-office mixed-use demand."
-      ],
-      "summary": "Orly, a consumer products and fashion platform managing 20+ brands (Aeropostale, Lucky Brand, Nine West), signed a 10-year lease for 20,014 square feet at 20 West 33rd Street in Midtown South at $55/SF. The company is relocating from nearby 15 West 34th Street and expects to occupy the new space in early 2025. The deal, brokered by Lincoln Property and LSL Advisors, underscores sustained office demand in the Midtown South submarket.",
-      "impact": "Minimal direct multifamily impact. Midtown South office leasing activity (especially at mid-market rents like $55/SF) suggests market health and tenancy stability. Sustained office demand in the submarket supports mixed-use residential projects; developers should continue monitoring office conversion feasibility for underutilized Manhattan office buildings, particularly in Midtown South, if office-to-residential regulatory paths open further."
-    },
-    {
-      "title": "Hackman’s Television City Heads Toward Sale as Studio Distress Grips Hollywood",
-      "link": "https://commercialobserver.com/2026/07/la-studios-distress-hackman-television-city-default-sale/",
-      "excerpt": "Television City, a landmark studio in Los Angeles that has been home to productions ranging from “The Price Is Right” to “American Idol,” is poised to hit the market in another blow to owner and studio mogul Hackman Capital Partners (HCP). A lender group led by Deutsche Bank filed a notice of default last month alleging Hackman owes more than $357 million on the 25-acre property in the Fairfax District, according to the Los Angeles Times. The default follows months of negotiations between Hackman and its lenders as the company weighs alternatives, and it’s another marquee studio property in HCP’s industry-leading portfolio to fall into distress. “As an owner of studio assets in multiple U.S. and international markets, we have seen firsthand how Los Angeles studio real estate faces significant pressure from high production costs and uncompetitive tax incentives,” HCP said in a statement shared with Commercial Observer. “Television City is a local treasure, home to decades of iconic productions, and we remain in active discussions with our lending partners as we carefully evaluate all alternatives available for its future.” It’s also the latest chapter in the unraveling of the industry’s bet that streaming would fuel an expansion and an extension of studio real estate demand. Culver City-based HCP over the past decade assembled the largest portfolio of studio properties, including a 2019 deal for $750 million to acquire Television City with its partner Affinius Capital (formerly Square Mile Capital) from CBS. HCP also planned a roughly $1 billion redevelopment that would add nearly 1 million square feet of offices, soundstages, production facilities and retail. But show business, and HCP’s portfolio, were significantly hamstrung by the post-pandemic slowdown, the 2023 writers and actors strikes, rising interest rates and studio consolidation. Earlier this year, Goldman Sachs took control of the 1.2 million-square-foot Radford Studio Center — where HCP also planned a $",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-13T19:35:37+00:00",
-      "bullets": [
-        "Television City, Los Angeles, default notice filed by Deutsche Bank lender group; $357M+ owed.",
-        "Hackman Capital Partners studio asset in distress amid high production costs, low tax competitiveness.",
-        "Landmark 25-acre Fairfax District studio property heading toward forced sale."
-      ],
-      "summary": "Hackman Capital Partners' iconic Television City (25 acres, Fairfax District) received a notice of default from a Deutsche Bank-led lender group alleging over $357M in debt. The distress follows months of negotiations as HCP faces mounting pressure from elevated LA production costs and diminished tax incentives relative to other studios. The property, home to \"The Price Is Right\" and \"American Idol,\" is poised to be marketed following the default.",
-      "impact": "Significant opportunity: Television City's 25-acre Fairfax location could become available for mixed-use redevelopment (residential, retail, office) if HCP's debt restructuring or sale results in operational exit. The site's size, proximity to West Hollywood and mid-city transit, and entertainment-district cache make it a potential trophy redevelopment for a multifamily-focused developer. Monitor the default timeline and lender intent; a 25-acre studio lot reprieve in urban LA could unlock 500–1,500+ unit residential opportunity if zoning permits mixed-use infill."
+      "summary": "Marcus & Millichap closed the sale of an industrial condominium at 30 Log Bridge Road in Middleton, Massachusetts for $2.525 million. The 12,975-sf property, built in 2016, includes warehouse, showroom, and office space on a 13.51-acre parcel. The buyer was an investor group attracted by tight North Shore industrial vacancy and asset quality.",
+      "impact": "Not directly relevant to multifamily. North Shore Boston industrial vacancy tightness suggests strong regional logistics/e-commerce demand and employment base that indirectly supports multifamily fundamentals in suburban Boston; however, article lacks direct multifamily signal."
     },
     {
       "title": "Judge tosses suit over Two Roads’ Four Seasons Bahamas. Not so fast, plaintiff says",
@@ -182,27 +212,27 @@
       "cat": "Development",
       "date": "2026-07-13T18:19:55+00:00",
       "bullets": [
-        "Soho Development sues Two Roads over $300M Four Seasons condo project exclusion, Bahamas.",
-        "Two Roads developing Ocean Club: 67 units, two-bedroom to four-bedroom units plus villas, 2028 completion.",
-        "Legal dispute over breach of 2021 NDA; presales underway despite litigation; Access Industries (Len Blavatnik) backing."
+        "Judge dismisses Soho Development suit vs. Two Roads over $300M Four Seasons Bahamas condo project",
+        "Two Roads and Access Industries (Len Blavatnik) developing 67-unit Ocean Club; construction to 2028",
+        "Soho alleges breach of 2021 NDA and sidelining from project; plaintiff says judge dismissed wrong complaint"
       ],
-      "summary": "Soho Development, led by attorney Roger Stein, sued Two Roads Development alleging exclusion from a roughly $300M Four Seasons-branded condo project on Paradise Island, Bahamas, claiming breach of a 2021 NDA and misuse of confidential information. Two Roads is developing the Ocean Club with 67 luxury units (two-bedroom to five-bedroom) in partnership with Access Real Estate (Blavatnik-backed). Presales are underway despite litigation, with construction completion expected in 2028.",
-      "impact": "Limited multifamily relevance; this is luxury for-sale condo product. However, the dispute underscores capital concentration and deal complexity in high-net-worth Caribbean real estate. If the project faces delays or capital reallocation due to litigation, it could signal weakness in luxury Caribbean development sentiment. Multifamily developers in Caribbean or secondary-market luxury segments should monitor partner stability and NDA/non-compete enforceability in competitive development environments."
+      "summary": "A judge dismissed Soho Development's lawsuit accusing Two Roads Development of sidelining the firm from a ~$300 million Four Seasons-branded condo project in the Bahamas, though Soho claims the judge addressed an outdated complaint filing. Two Roads and Access Industries are developing Ocean Club, Four Seasons Residences (67 units, Paradise Island) with presales underway and 2028 completion target. Soho alleges breach of a 2021 NDA and non-circumvention clause.",
+      "impact": "Illustrates partner/sponsor disputes in large luxury condo developments and litigation risk in joint ventures; relevant to multifamily sponsors considering JV structures with institutional capital partners. South Florida luxury condo market remains litigious and capital-constrained post-pandemic, signaling slower absorption and risk of holdups; multifamily developers should avoid speculative condo partnerships and focus on institutional rental multifamily where demand is clearer."
     },
     {
-      "title": "From the gridiron to the high-rise: Blake Poston planning $100M Uptown Dallas high-rise",
+      "title": "Blake Poston jumps from the gridiron to the high-rise with plans for a $100M Uptown Dallas apartment project",
       "link": "https://therealdeal.com/texas/2026/07/13/blake-poston-planning-100m-uptown-dallas-high-rise/",
       "excerpt": "A former SMU football player is developing a $100 million, 20-story high-rise just north of Uptown Dallas, around a mile from where he used to drop into coverage on Saturdays.&#160; Blake Poston, who was a part of the Southern Methodist University Mustangs football team for three years and went to Highland Park High School, is also the founder of Cover2 Capital. Poston told the Dallas Morning News that Cover2 is aiming to begin construction on an Uptown high-rise at 5220 McKinney Avenue late next year. The building is dubbed The Savannah, and Cover2 is still in design and city development [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
       "source": "TRD Development",
       "cat": "Development",
       "date": "2026-07-13T17:35:00+00:00",
       "bullets": [
-        "Cover2 Capital (founder Blake Poston) planning $100M, 20-story, 100-unit luxury rental in Uptown Dallas.",
-        "The Savannah project: 1,800 SF avg unit size, three penthouse units, ground-floor retail; late-2025 groundbreak.",
-        "Cover2 portfolio: 297-unit Wheelhouse (North Richland Hills), planned Greerhouse (Anna); emerging Dallas developer."
+        "Blake Poston (former SMU football player) developing $100M, 20-story high-rise in Uptown Dallas",
+        "The Savannah: 100-unit luxury rental building, avg. 1,800 sf units, 3 penthouse units",
+        "Cover2 Capital (Poston's firm) also developing Wheelhouse (297 units, North Richland Hills) and Greerhouse (Anna)"
       ],
-      "summary": "Blake Poston's Cover2 Capital is developing The Savannah, a $100M, 20-story luxury apartment high-rise at 5220 McKinney Avenue (Uptown Dallas) with 100 units (one to three bedrooms) averaging 1,800 SF, plus three penthouses and ground-floor retail. Groundbreaking is targeted for late 2025. Cover2's portfolio includes the 297-unit Wheelhouse mixed-use project (North Richland Hills) and planned Greerhouse garden-style development (Anna), positioning the firm as an emerging luxury multifamily developer in the Dallas region.",
-      "impact": "Strong signal of rental demand and financing confidence in Dallas/Fort Worth luxury segments. Cover2's scale-up (three concurrent projects totaling 400+ units) and $100M Uptown commitment reflect lender and investor appetite for well-capitalized new sponsors. Uptown Dallas continued densification (high-rise focus vs. suburban garden) suggests structural shift toward transit-proximate urban rental. Monitor Cover2's capital sources and debt terms as indicators of multifamily financing ease for emerging sponsors in Texas."
+      "summary": "Blake Poston, founder of Cover2 Capital and former SMU football player, is developing The Savannah, a $100 million, 20-story luxury apartment tower at 5220 McKinney Avenue in Uptown Dallas with 100 units (mostly 1–3 bedrooms) plus three penthouses. Construction is targeted to begin late 2025. Cover2 is also behind Wheelhouse (297 units, North Richland Hills) and Greerhouse (Anna), demonstrating depth in Dallas-area multifamily development.",
+      "impact": "New luxury supply entering tight Uptown Dallas submarket; 100-unit boutique positioning (1,800-sf avg units) suggests targeting high-rent demographic and premium rents. Larger competitive projects (300+ units) from established sponsors will pressure occupancy and rent growth, but demographic fit (young professionals, affluent singles/couples) remains strong in Uptown. Monitor rents at similar competitive properties (nearby luxury towers) to gauge early lease-up momentum and whether market absorbs 100+ units of new luxury supply without significant rate compression."
     },
     {
       "title": "South Florida Dirt: A timeline of the Vacchi vs. Stern legal battle",
@@ -212,12 +242,12 @@
       "cat": "Development",
       "date": "2026-07-11T17:00:00+00:00",
       "bullets": [
-        "Michael Stern (JDS Development) and Gianluca Vacchi (22M+ social followers) partnership imploded; Vacchi sues for fraud.",
-        "Vacchi claims Stern diverted his investment between projects (Mercedes-Benz, Dolce & Gabbana, 1250 West Ave, Miami).",
-        "JDS exiting 1250 West Avenue; Mercedes-Benz and D&G projects in litigation; Stern securing new capital/partners."
+        "JDS Development (Michael Stern) partnership with Gianluca Vacchi (social media influencer) dissolving",
+        "Vacchi sues Stern alleging Ponzi scheme, fund diversion between $4B project pipeline",
+        "Affected projects: Mercedes-Benz Places Miami, 888 Brickell, 1250 West Avenue, Casablanca Miami Beach"
       ],
-      "summary": "Developer Michael Stern and Italian influencer Gianluca Vacchi's 2024 partnership and 50-50 equity deal on a $4B pipeline of JDS Development projects has collapsed. Vacchi is suing Stern alleging fraud and Ponzi-scheme conduct, claiming Stern misrepresented project status and diverted capital between developments including Mercedes-Benz Places Miami, 888 Brickell (Dolce & Gabbana), and 1250 West Avenue (Miami Beach). JDS has exited 1250 West Avenue; Mercedes-Benz and D&G projects remain in litigation but Stern is pursuing new debt and partnership with developer Jeff Soffer.",
-      "impact": "Capital risk signal for Miami luxury condo market: high-profile developer disputes and litigation over a $4B pipeline indicate project stress, sponsor credibility concerns, and potential capital constraints. The exit from 1250 West Avenue and D&G/Mercedes-Benz entanglements suggest financing headwinds in Miami's ultra-luxury condo segment. Multifamily developers should monitor Miami condo-to-rental conversion opportunities if luxury condo projects are abandoned or stalled; tight rental supply and flight-to-quality could support apartment rents if condo development slows."
+      "summary": "Developer Michael Stern's partnership with Italian investor and social media influencer Gianluca Vacchi (22M Instagram, 22M TikTok followers) has imploded. Vacchi has sued Stern alleging a Ponzi scheme and misrepresentation of project status, claiming Stern diverted his capital between projects in the $4 billion JDS Development pipeline. Litigation has stalled high-profile Miami condo projects including Mercedes-Benz Places, 888 Brickell, and 1250 West Avenue.",
+      "impact": "South Florida luxury condo market turmoil continues; high-profile projects tied up in litigation with institutional equity exiting. JDS has secured new debt and partnered with Jeff Soffer for Mercedes-Benz Places rescue, signaling distress. Multifamily developers should avoid spec condo partnerships with influencer/celebrity equity, as governance and capital discipline are poor substitutes for institutional oversight. Pipeline delays and litigation signal weakening South Florida presales velocity; multifamily fundamentals (rental demand, NOI stability) remain stronger than condo sales."
     },
     {
       "title": "Mark Cuban takes Adelson to court on Mavs plans for new arena",
@@ -227,42 +257,12 @@
       "cat": "Development",
       "date": "2026-07-11T14:00:00+00:00",
       "bullets": [
-        "Mark Cuban sues Miriam Adelson/Las Vegas Sands over Dallas Mavericks new arena deal and Valley View Mall site.",
-        "Cuban claims he was shut out of arena contract review despite verbal agreement to oversee team operations.",
-        "Casino gambling still conditional on Texas legalization; Mavericks arena is major Dallas development catalyst."
+        "Mark Cuban sues Adelson's Las Vegas Sands over Dallas Mavericks arena deal at Valley View Mall",
+        "Cuban claims verbal agreement excluded him from new arena decisions after 2023 Sands sale",
+        "Texas casino gambling legalization still blocked despite lobbying; arena contingent on passage"
       ],
-      "summary": "Mark Cuban, who sold his majority Mavericks stake to billionaire Miriam Adelson's Las Vegas Sands in 2023, filed a lawsuit alleging he was excluded from decisions on the team's planned new arena at Valley View Mall in Dallas. Cuban claims a verbal agreement entitled him to continue overseeing team operations while Sands pursued casino-arena development. The new arena is contingent on Texas legalizing casino gambling, a legislative effort that has stalled despite years of lobbying and campaign donations.",
-      "impact": "Development timing uncertainty in Dallas: the Mavericks arena at Valley View is a major mixed-use anchor catalyst for that submarket, potentially driving residential demand nearby. Cuban's lawsuit and the ongoing Texas gaming legalization impasse create ambiguity around the project's greenlight and completion timeline. Multifamily developers with nearby land or in-entitlement projects should monitor the lawsuit outcome and legislative status before committing capital; if the arena stalls or scales down, the submarket support for density weakens materially."
-    },
-    {
-      "title": "Nonprofit pitches housing conversion at Palo Alto site with SB 79 proposal",
-      "link": "https://therealdeal.com/san-francisco/2026/07/10/apartments-planned-for-palo-alto-near-caltrain-station/",
-      "excerpt": "A small office building in Palo Alto could give way to a multifamily building not far from one of the city’s Caltrain stops.&#160; San Mateo-based nonprofit Minority Television Project proposed the plan to erect a six-story building at 555 College Avenue with 70 apartments and roughly 8,000 square feet of ground-floor commercial space, Mercury News reported. The nonprofit purchased the property in 2023 for $7.1 million, according to documents filed with the Santa Clara County Recorder’s Office.&#160; The building would consist of five stories of housing above a ground floor that could accommodate retail, dining or other commercial uses. The [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-07-10T22:45:00+00:00",
-      "bullets": [
-        "Minority Television Project proposes 70-unit, 6-story apartment at 555 College Ave, Palo Alto, via SB 79.",
-        "Site within 0.5 miles of California Avenue Caltrain station; nonprofit purchased property for $7.1M in 2023.",
-        "Nonprofit also pursuing 24-unit office-to-residential conversion at 127 Lytton Ave, same SB 79 pathway."
-      ],
-      "summary": "San Mateo-based nonprofit Minority Television Project filed a proposal for 70 apartments and ~8,000 SF of ground-floor commercial on 555 College Avenue (Palo Alto) using SB 79 transit-oriented development incentives. The property, purchased for $7.1M in 2023, qualifies for taller-than-usual zoning within 0.5 miles of California Avenue Caltrain. The nonprofit is also seeking SB 79 approval for a 24-unit office-to-residential conversion at 127 Lytton Avenue, targeting the same Caltrain station.",
-      "impact": "Major supply signal for Bay Area: SB 79 (effective immediately) is unlocking multifamily density near Caltrain stations in Palo Alto—a historically entitlement-constrained market. Minority Television Project's dual conversions (office-to-residential + new construction) suggest aggressive use of SB 79 to bypass restrictive local zoning. As AI boom drives tech worker immigration to Silicon Valley, SB 79-enabled apartments near transit hubs will absorb demand. Developers should identify other office buildings within SB 79 corridors in Palo Alto, Mountain View, and Sunnyvale; the statute creates a 2-3 year window for conversions before local zoning reasserts itself."
-    },
-    {
-      "title": "Steel IQ’s 3D-printed steel could slash builds from months to weeks",
-      "link": "https://therealdeal.com/texas/2026/07/10/steel-iqs-3d-printed-steel-could-slash-build-time/",
-      "excerpt": "The new Lake Dallas startup Steel IQ believes that its 3D digital extrusion and printing is the sustainable future for affordable housing in America.&#160; One of the major problems in the United States’ development pipeline is a lack of skilled construction workers. Steel IQ’s 3D printed steel frames may cost more to install, but require fewer skilled workers and cut down on framing timelines. The process uses a&#160; digital model of a building, finds its dimensions with AI assistance and prints it in steel, down to the holes for the screws, according to the Dallas Morning News. Steel IQ’s founder [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-07-10T21:15:00+00:00",
-      "bullets": [
-        "Steel IQ (Lake Dallas startup) develops 3D-printed steel framing; reduces construction timeline from months to weeks.",
-        "Process cuts labor needs, waste, cost vs. wood; uses digital model + AI for precision; zero-tree environmental benefit.",
-        "Founder Nejeeb Khan cites skilled labor shortage as key problem; used in $15M Infinity mansion (Frisco)."
-      ],
-      "summary": "Lake Dallas-based Steel IQ is pioneering 3D-printed steel framing systems that dramatically accelerate construction timelines (months to weeks) and reduce labor requirements compared to traditional wood framing. The AI-guided digital extrusion process prints structural steel with pre-cut holes, allowing on-site assembly akin to Lego blocks. While steel costs more than wood, the process offsets expenses via reduced waste, shorter schedules, and lower labor intensity. The system has already been deployed on high-end residential (e.g., $15M Infinity mansion in Frisco).",
-      "impact": "Structural cost-reduction opportunity for multifamily: Steel IQ's technology could materially improve project feasibility for labor-constrained, high-velocity builds, especially in Texas and other skilled-labor-short markets. If 3D steel framing can reduce construction duration by 30–50% and lower total labor spend, developer IRRs improve and pro-forma sensitivity to interest-rate delays weakens. Track Steel IQ's adoption rate and cost curve; if scalable to mid-rise multifamily (5–10 story), it could unlock affordable-housing feasibility in supply-constrained submarkets by reducing per-unit hard costs by 5–10%."
+      "summary": "Mark Cuban, who sold his majority stake in the Dallas Mavericks to Las Vegas Sands owner Miriam Adelson in 2023, is suing to assert review rights over the team's planned new arena at the Valley View Mall site. Cuban claims a verbal agreement with Sands preserved his operational oversight, but Sands has excluded him from key decisions. The arena development is contingent on Texas legalizing casino gambling, which has stalled despite years of lobbying and spending.",
+      "impact": "Mavericks arena/casino project likely delayed due to litigation and legislative uncertainty around gaming legalization. Uptown Dallas multifamily supply pipeline linked to Valley View redevelopment may face uncertainty; developers should deprioritize near-term absorption of large Valley View-adjacent supply and monitor arena litigation closure before major commitments. Texas casino legalization failure removes major economic catalyst for Dallas downtown activation; multifamily demand remains strong but mega-project uncertainty should not anchor development timing."
     }
   ]
 }
