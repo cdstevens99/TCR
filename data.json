@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-15T21:50:22.715919+00:00",
+  "fetchedAt": "2026-07-15T22:51:24.890298+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -32,12 +32,12 @@
       "cat": "Commercial",
       "date": "2026-07-15T21:09:31+00:00",
       "bullets": [
-        "Senior floating-rate loans (BKLN) returned 3% since Feb 28; long Treasuries fell 5%.",
-        "Rising inflation expectations and federal debt concerns shift safe-haven demand away from Treasuries.",
-        "Floating-rate credit offers duration protection in higher-for-longer rate environment."
+        "Floating-rate senior loans (BKLN) outperformed long Treasuries by ~8.5% since Feb 28 geopolitical shock.",
+        "Market shifted to higher-for-longer rates, inflation expectations, and federal debt concerns.",
+        "Institutional capital fleeing safe-haven Treasuries into floating-rate credit misprices risk for development finance."
       ],
-      "summary": "Market risk-off since late February has driven investors from long-duration Treasuries into floating-rate senior-secured credit, signaling persistent inflation and rate expectations. Senior loan ETFs outperformed traditional safe havens by 8+ percentage points over five months. This reflects structural shift in macro expectations away from rate-cut scenarios.",
-      "impact": "Higher-for-longer rate environment tightens multifamily development underwriting and cap-rate assumptions; floating-rate debt becomes riskier for bridge financing. Expects persistent refinance pressure on stabilized assets and potential slowdown in new starts if cost of capital remains elevated. Watch cap-rate expansion across all markets."
+      "summary": "Since late February geopolitical tensions, investors abandoned long-duration Treasuries (down ~5–6%) in favor of floating-rate, senior-secured credit (up ~3%), driven by expectations of persistently higher rates and Fed policy uncertainty. Core bond indexes also underperformed. This reflects a structural repricing of what investors view as 'safe,' away from duration and toward floating-rate instruments tied to SOFR.",
+      "impact": "Rising rate expectations and investor flight from long Treasuries tighten fixed-rate financing availability for multifamily development. Developers should expect refinance and acquisition financing to migrate toward floating-rate structures or hybrid products; construction-period and forward-commitment interest-rate locks become more expensive and harder to obtain. Expect cap rates to reprice upward in all markets as institutional buyers demand higher spreads over SOFR."
     },
     {
       "title": "CPC Mortgage Company Secures $42M to Rehabilitate Michigan Housing Property",
@@ -47,12 +47,12 @@
       "cat": "Commercial",
       "date": "2026-07-15T21:05:13+00:00",
       "bullets": [
-        "CPC Mortgage structures $42.1M permanent financing for 315-unit affordable rehab in Inkster, Michigan.",
-        "Freddie Mac Targeted Affordable Housing forward commitment enables Section 8 RAD conversion from public housing.",
-        "Tax-exempt structure with LIHTC syndication (Cinnaire) stabilizes long-term affordability."
+        "CPC Mortgage secured $42.1M for 315-unit Inkster, Michigan affordable-housing rehab via Freddie Mac.",
+        "Public housing-to-Section 8 conversion under HUD's RAD program; Huntington Bank structured construction.",
+        "Tax-exempt, permanent financing unlocks affordable product; LIHTC syndication via Cinnaire."
       ],
-      "summary": "CPC Mortgage closed permanent financing on a 315-unit public housing conversion in Inkster, Michigan, using Freddie Mac affordable housing commitments and LIHTC syndication. The RAD program transition from public to Section 8 tenure provides stable 30+ year cash flow. Huntington, Deutsche, and Associated banks provided construction financing.",
-      "impact": "Limited direct impact to market-rate multifamily development. Relevant as signal of continued GSE appetite for affordable preservation deals—confirms Freddie Mac appetite for RAD programs in secondary/tertiary Midwest markets. Public housing conversions reduce future stock pressure but do not compete for market-rate renters or development capital."
+      "summary": "Good Housing Partnership and Inkster Housing Commission secured $42.1 million from CPC Mortgage Company (a Freddie Mac lender) to rehabilitate Parkside Estates and Demby Terraces, a 315-unit public-housing property converting to Section 8. The deal used a tax-exempt structure and included LIHTC syndication, with Huntington Bank and co-lenders funding construction. Full site and unit upgrades are planned.",
+      "impact": "Demonstrates sustained government appetite for affordable-housing rehab in secondary Midwest markets (Inkster). Freddie Mac forward commitments and RAD conversions remain viable pathways for long-term hold acquisition; Midwest secondary-market affordability play signals investor confidence in demographic stability and stable subsidized rent. Little relevance to for-profit market-rate development."
     },
     {
       "title": "Ice Cream Franchise Coming to Bleecker Street with First NYC Location",
@@ -62,12 +62,12 @@
       "cat": "Commercial",
       "date": "2026-07-15T21:02:41+00:00",
       "bullets": [
-        "Scoop N Scootery signs 15-year lease on Bleecker Street, NYC; opening Sept 2026.",
-        "1,325 SF ground-floor retail at $75/SF on iconic Manhattan submarket.",
-        "Expansion signal: 10 existing locations across 7 states; Bleecker Street flagship play."
+        "Scoop N Scootery opened first NYC location on Bleecker Street; 1,325 SF, 15-year lease.",
+        "Franchise expansion signals pedestrian retail confidence in Greenwich Village submarket.",
+        "No direct multifamily signal; pure retail tenant story."
       ],
-      "summary": "A 10-location ice cream franchise from Sarasota signed a 15-year ground-floor lease in prime Greenwich Village retail at 162 Bleecker Street. The 1,325-SF unit commands premium Manhattan retail rents and represents the brand's first NYC location and flagship expansion marker.",
-      "impact": "Minimal direct relevance to multifamily. Bleecker Street retail scarcity and premium rents indicate continued tourist/experiential retail demand in lower Manhattan, but does not signal residential demand shifts or provide cost/labor signals for apartment development."
+      "summary": "Scoop N Scootery, a 10-location ice cream franchise, leased 1,325 SF on Bleecker Street (162 Bleecker St.) for 15 years at an undisclosed rate, opening September 2026. The brand selected the high-foot-traffic Greenwich Village corridor for its NYC flagship, citing density and limited retail availability.",
+      "impact": "Minimal relevance to multifamily development. Signals continued retail demand in dense, transit-rich NYC neighborhoods, which indirectly supports renter demand in proximate residential. No supply, capital, cost, or demand implications for apartments."
     },
     {
       "title": "Pair of Frisco entrepreneurs ordered to pay $400M in damages to Georgetown business over alleged fraud scheme",
@@ -77,12 +77,12 @@
       "cat": "Development",
       "date": "2026-07-15T21:00:00+00:00",
       "bullets": [
-        "Frisco entrepreneurs Krishnan and Gounder ordered to pay $400M in fraud damages.",
-        "Scheme: promised 400-acre luxury waterfront development ('The District') that never materialized.",
-        "SEC-targeted pair previously subject to 2023 Ponzi scheme asset freeze."
+        "Frisco (Dallas) entrepreneurs Krishnan and Gounder ordered to pay $400M fraud judgment to Georgetown business.",
+        "Scheme involved fake 400-acre luxury waterfront 'District' development; $21M paid to contractor, never built.",
+        "Developer fraud; no asset or capital availability impact on market."
       ],
-      "summary": "A Williamson County jury found Gopala Krishnan and Sakthivel Gounder liable for defrauding a Georgetown business owner via a phantom luxury development scheme promising $5B bond financing and massive infrastructure spending. The pair concocted promotional materials for a 400-acre San Gabriel River development, collected $21M in symbolic payments, and defaulted entirely.",
-      "impact": "Reputational risk signal for Texas development market, but limited systemic impact. No direct bearing on multifamily underwriting or capital markets. Fraud liability in development deals is priced into due diligence and title work; this case confirms enforcement risk for bad-faith promoters but does not affect project feasibility, financing, or demand."
+      "summary": "A Williamson County jury found Gopala Krishnan and Sakthivel Gounder liable for defrauding Georgetown-based Energy Commissioning Inc., awarding $400 million in damages. The pair marketed a fake 400-acre 'luxury waterfront District' around San Gabriel River, contracted $21M in build work that never materialized, and engaged in parallel fraud schemes. The defendants were previously subject to SEC restraining orders in 2023.",
+      "impact": "No direct market impact. Illustrates execution risk and developer reputation vulnerability in Texas land-development space; likely to increase lender and investor due-diligence scrutiny on speculative luxury projects in Hill Country/DFW fringe markets, but no systemic supply or capital effect."
     },
     {
       "title": "Bascom Acquires Buena Park Apartments as Value-Add Deal",
@@ -92,12 +92,12 @@
       "cat": "Commercial",
       "date": "2026-07-15T20:53:23+00:00",
       "bullets": [
-        "Bascom Group acquires Castlewood Park, 183-unit value-add in Buena Park, CA for $53.1M ($290k/unit).",
-        "1963 vintage property; large floorplans, garage parking, green space preservation strategy.",
-        "Brightspire Capital provided acquisition debt; SD-Cap handling renovations."
+        "Bascom Group acquired 183-unit Castlewood Park in Buena Park, CA for $53.1M ($290K/unit).",
+        "1963 vintage low-density asset; value-add renovation via SD-Cap; Brightspire provided acquisition financing.",
+        "North Orange County market shows appetite for older, suburban garden apartments with large units."
       ],
-      "summary": "Bascom Group acquired a 183-unit 1963-vintage apartment community in Buena Park for $53.1M ($290k/unit) with Brightspire financing. The value-add thesis preserves low-density character and large unit sizes while modernizing finishes and systems. Positioned for North Orange County rental market.",
-      "impact": "Confirms continued institutional appetite for value-add in Orange County coastal/suburban submarkets at sub-$300k/unit acquisition prices. Signals persistence of vintage supply (60+ years old) ripe for renovation—suggests soft cost inflation manageable and cap rates stable in Inland Empire/OC. No systemic demand shift; typical secondary-market consolidation."
+      "summary": "Bascom Group purchased Castlewood Park Apartments (183 units, built 1963) in Buena Park, Orange County for $53.1 million (~$290K/unit). The deal was a value-add acquisition financed by Brightspire Capital; IPA Capital Markets arranged the transaction. The property offers large floorplans, garage parking, and green space; planned renovations will modernize while preserving these characteristics.",
+      "impact": "Signals continued capital availability for suburban Orange County value-add plays and confidence in large-unit, parking-inclusive Garden product persistence in Southland. $290K/unit valuation reflects modest underwriting in secondary infill market; development risk remains in construction cost inflation and absorption timeline for renovated older stock vs. new supply."
     },
     {
       "title": "Bellhops and bass fishing: Wildhaven developer bets big on nature-centric luxury in Denton",
@@ -107,12 +107,12 @@
       "cat": "Development",
       "date": "2026-07-15T20:48:20+00:00",
       "bullets": [
-        "An Ki Land Development plans Wildhaven resort in Denton, TX: 740 acres, $350–450M total value.",
-        "152 homes priced $1.5M–$3M+ plus 100-key hotel, equestrian, dining, 10-acre fishing pond.",
-        "Denton experiencing rapid DFW population growth; Noble Classic Homes leading first-phase homebuilding."
+        "Wildhaven luxury resort/residential development planned on 740 acres in north Denton; $350–450M total value.",
+        "152 homes ($1.5M–$3M+), 100-key hotel, equestrian, spa, bass fishing pond; 400 acres developed, 300+ preserved.",
+        "Nature-centric positioning in high-growth DFW fringe; An Ki Land Development (Sarasota) leading, Noble Homes building first 20 lots."
       ],
-      "summary": "Sarasota-based An Ki Land Development is planning a 740-acre luxury resort-lifestyle development in Denton with 152 high-end homes ($1.5M–$3M+), 100-key hotel, equestrian facilities, and 10 acres of amenities. Total project value $350–450M. First phase led by Noble Classic Homes; branded resort replication planned in Colorado and Florida.",
-      "impact": "Strong signal of institutional capital targeting Denton's rapid population growth and affluent in-migration from DFW metro. Hybrid resort-residential model targets high-net-worth relocating executives—indirect demand driver for downstream market-rate apartments in Denton/Frisco once resort stabilizes and anchors wealth migration. Watch for secondary effects: trophy-home pricing may inflate land costs regionally; potential residential agent competition for affluent renters."
+      "summary": "An Ki Land Development (Sarasota, FL) is developing Wildhaven, a 740-acre master-planned luxury resort community in north Denton, Texas, with total projected value of $350–450 million. The project includes 152 homes ($1.5M–$3M+), a 100-key hotel, equestrian facilities, spa, restaurants, and a bass-fishing pond; 400 acres will be developed with 300+ preserved for natural feel. Noble Classic Homes will build the first 20 homes, with additional builders to follow.",
+      "impact": "Reflects strong demand in DFW luxury for nature-anchored, low-density resort experiences; signals that high-end residential in fast-growing fringe submarkets (Denton has surged in population) can command premium pricing and capital. Minimal direct multifamily impact, but demonstrates capital appetite in North Texas and validates Denton population growth narrative. Large master-planned communities can absorb land that might otherwise support infill multifamily; competes for DFW institutional capital."
     },
     {
       "title": "Walker & Dunlop Arranges Refi for BellWorks Fort Monmouth Campus",
@@ -122,12 +122,12 @@
       "cat": "Commercial",
       "date": "2026-07-15T20:41:36+00:00",
       "bullets": [
-        "Walker & Dunlop arranges $60M bridge refinance for BellWorks Fort Monmouth, Tinton Falls, NJ.",
-        "Mixed-use campus (ex-Commvault HQ) pivoted to flexible office, retail, coworking, dining.",
-        "Hudson Bay Capital lender; JV: Inspired by Somerset + H.I.G. Realty Partners."
+        "Walker & Dunlop arranged $60M bridge loan for Bell Works Fort Monmouth mixed-use campus (Tinton Falls, NJ).",
+        "Hudson Bay Capital lender; JV of Inspired by Somerset and H.I.G. Realty; strong leasing momentum cited.",
+        "Metroburb suburban mixed-use model funded; office/retail/coworking alternative to traditional CBD."
       ],
-      "summary": "Walker & Dunlop closed a $60M bridge refinance for BellWorks Fort Monmouth, a 230K+ SF mixed-use former office campus redeveloped into flexible workspace, retail, and dining. The asset is anchored by Inspired by Somerset's 'Metroburb' suburban mixed-use model. Hudson Bay Capital provided debt; H.I.G. Realty platform co-owns with Inspired by Somerset.",
-      "impact": "Signals continued refinance availability for stabilized suburban mixed-use campuses with leasing momentum. Implies investor conviction that flexible office / coworking demand sustains in suburban NJ markets. Limited direct multifamily impact unless asset plan includes residential; primarily office/retail capital dynamics."
+      "summary": "Walker & Dunlop secured a $60 million bridge loan from Hudson Bay Capital to refinance Bell Works Fort Monmouth, a mixed-use campus in Tinton Falls, NJ, developed by Inspired by Somerset and H.I.G. Capital. The property features flexible office, retail, dining, coworking, and amenities using Inspired by Somerset's 'Metroburb' model. Strong leasing momentum supports the refinance.",
+      "impact": "Demonstrates institutional capital availability for mixed-use suburban campuses in Northeast; validates suburban flight-to-quality and 'office conversion to living' trend. Not a multifamily development story per se (asset is mixed-use office-centric), but signals investor confidence in suburban 15-minute cities and live-work-play density. May indicate broader reallocation of office capital into experiential mixed-use, constraining pure-play apartment development financing in secondary suburban markets."
     },
     {
       "title": "Shops at Sunset Place owner seeks taxing district to raise $149M",
@@ -137,12 +137,12 @@
       "cat": "Development",
       "date": "2026-07-15T20:30:00+00:00",
       "bullets": [
-        "Midtown Development (Alex Vadia) seeks $149M Community Development District to fund Downtown SoMi mixed-use, South Miami.",
-        "Project: 10.2 acres, 1,513 units, 287 hotel rooms, 65.9K SF office, 200K+ SF retail, 1,300-seat theater.",
-        "Infrastructure bond issuance; construction starts 2027, ends Q1 2029."
+        "Shops at Sunset Place (South Miami) seeking $149M Community Development District for Downtown SoMi mixed-use.",
+        "1,513 apartments, 200K+ SF retail, 287 hotel rooms, 65.9K SF office; infrastructure bonds via tax-exempt district.",
+        "Infrastructure financing via CDD; construction start 2027, completion Q1 2029; Midtown Development led by Alex Vadia."
       ],
-      "summary": "Midtown Development is seeking Miami-Dade County approval for a special taxing district to finance $149M in infrastructure (roads, utilities, parking, stormwater, chilled water) for a 10.2-acre Downtown SoMi redevelopment. The mixed-use project includes 1,513 residential units, 287 hotel rooms, 65.9K SF office, 200K+ SF retail, and a 1,300-seat theater. Tax-exempt bonds repaid via property assessments; construction 2027–Q1 2029.",
-      "impact": "Strong South Florida multifamily signal: 1,513 units in premium SoMi submarket with private infrastructure financing (CDD) de-risks municipal cost-sharing. Vadia's track record (Midtown Miami, etc.) confirms execution capability. Implies South Miami/Sunset Place corridor gentrification and upscale rental demand. Watch: CDD approval by July 21 critical; if denied, signals local resistance to density that may ripple across Miami-Dade retail-to-residential conversions."
+      "summary": "Midtown Development (Alex Vadia) is seeking Miami-Dade County approval to establish a Community Development District to issue $149 million in tax-exempt bonds for infrastructure financing of its Downtown SoMi redevelopment on 10.2 acres at the Shops at Sunset Place. The mixed-use project includes 1,513 residential units, 287 hotel rooms, 200K+ SF of retail, 65.9K SF of office, and a 1,300-seat cinema. Infrastructure work slated for 2027–Q1 2029.",
+      "impact": "CDD structure allows developer to finance horizontal infrastructure without county tax dollars, freeing municipal capital and enabling aggressive development schedule in South Miami. Signal of strong institutional appetite for Miami infill mixed-use; 1,513 units is material supply in SoMi submarket. Watch for competitive pressure on rents and absorption if multiple large projects deliver simultaneously. CDD model increasingly common in Florida growth markets; limits municipal housing-support options for affordable components."
     },
     {
       "title": "Pure Paws Veterinary Care to Relocate to 5K SF at Brooklyn’s 1 Putnam Avenue",
@@ -152,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-07-15T20:09:15+00:00",
       "bullets": [
-        "Pure Paws Veterinary Care leases 5,000 SF at 1 Putnam Avenue, Brooklyn, Clinton Hill; $75/SF, 10-year term.",
-        "Relocation within neighborhood; third NYC location for practice; signed July 1.",
-        "Momentum Realty Group (Gabriel & Solomon Betesh) negotiated deal."
+        "Pure Paws Veterinary Care leased 5,000 SF at 1 Putnam Avenue, Brooklyn (Clinton Hill) at $75/SF/yr.",
+        "10-year lease; Momentum Realty Group negotiated for landlord Abe Betesh; signed July 1.",
+        "Indicates stable neighborhood-serving retail demand in Clinton Hill; no multifamily signal."
       ],
-      "summary": "Pure Paws Veterinary Care signed a 5,000-SF lease at 1 Putnam Avenue in Brooklyn's Clinton Hill neighborhood at $75/SF for a 10-year term, relocating from a nearby smaller location. The practice operates three NYC locations and is expanding to accommodate growing Clinton Hill demand.",
-      "impact": "Negligible multifamily impact. Retail lease activity in Clinton Hill signals neighborhood vitality and professional services demand, but does not indicate residential demand shift or construction cost signals relevant to apartment development."
+      "summary": "Pure Paws Veterinary Care signed a 10-year, 5,000-SF lease at 1 Putnam Avenue in Clinton Hill, Brooklyn at $75/SF/year (signed July 1). Momentum Realty Group represented the landlord, Abe Betesh, in the transaction. The practice is relocating from a smaller nearby location to support its multi-location Brooklyn footprint.",
+      "impact": "Negligible relevance to multifamily. Signals stable neighborhood-retail demand and Clinton Hill gentrification/stabilization; indirectly supports renter viability in the area but offers no supply, capital, or cost implications for apartment development."
     },
     {
       "title": "Bridges Development Group Buys Kingswood Center in Brooklyn for $31M",
@@ -167,12 +167,12 @@
       "cat": "Commercial",
       "date": "2026-07-15T19:20:17+00:00",
       "bullets": [
-        "Bridges Development Group buys Kingswood Center, Midwood, Brooklyn, 229.9K SF, $31M ($135/SF).",
-        "Down 65% from $89M sale in early 2020; T.J. Maxx-anchored, 100K SF retail vacant.",
-        "JLL arranged $34.65M acquisition financing; property renovated 2019, on-site parking garage."
+        "Bridges Development Group acquired Kingswood Center (Midwood, Brooklyn) for $31M; down 65% from $89M in 2020.",
+        "229,926 SF Class B shopping center; T.J. Maxx anchor; ~100K SF retail space available.",
+        "Steep price decline signals retail distress; acquisition financing $34.65M secured via JLL."
       ],
-      "summary": "Bridges Development Group acquired the 229.9K-SF Kingswood Center shopping mall in Brooklyn's Midwood neighborhood for $31M, a 65% markdown from its $89M sale in early 2020. The Class B property is T.J. Maxx-anchored with ~100K SF of available retail space. JLL secured $34.65M acquisition financing.",
-      "impact": "Signals distress in suburban retail real estate; 65% price collapse in 4 years reflects e-commerce headwinds and retail format obsolescence. Relevant to multifamily only if Bridges converts to residential or mixed-use—otherwise pure retail distress signal. Watch for retail-to-residential conversion plays in Brooklyn outer boroughs as anchored malls lose viability."
+      "summary": "Bridges Development Group purchased Kingswood Center, a 229,926-SF shopping center in Brooklyn's Midwood neighborhood, for $31 million—a 65% decline from its $89 million sale in early 2020. The Class B property is anchored by T.J. Maxx and features ~100K SF of available retail space. JLL secured $34.65M in acquisition financing for the buyer; the seller was PNC's Midland Loan Services.",
+      "impact": "Illustrates structural retail-asset weakness and cap-rate expansion in Brooklyn; opportunity for conversion or mixed-use redevelopment on distressed retail footprints. If Bridges pivots toward residential conversion or mixed-use, signals emerging development pipeline for adaptive-reuse apartments in Brooklyn secondary submarkets. Monitor for potential value-add play converting ground-floor retail to residential; however, at current pricing and financing context, conversion underwriting likely marginal."
     },
     {
       "title": "Data Intelligence Firm Curinos Takes 14K SF at Marx Realty’s 10 Grand Central",
@@ -182,12 +182,12 @@
       "cat": "Commercial",
       "date": "2026-07-15T19:06:56+00:00",
       "bullets": [
-        "Curinos (fintech data intelligence) leases 14K SF at Marx Realty's 10 Grand Central, Midtown Manhattan.",
-        "Asking rent $85–135/SF; building 98% leased; relocation from 485 Lexington Ave (two blocks north).",
-        "Cushman & Wakefield and JLL brokered deal."
+        "Curinos (financial data firm) leased 14,000 SF at Marx Realty's 10 Grand Central (Midtown Manhattan).",
+        "Relocating from 485 Lexington Ave (~2 blocks north); rents $85–135/SF; building 98% leased.",
+        "No multifamily impact; office leasing momentum in premier Manhattan tower."
       ],
-      "summary": "Curinos, a global data intelligence firm serving financial services, leased 14,000 SF at Marx Realty's 10 Grand Central in Midtown Manhattan at rents ranging $85–135/SF. The company is relocating from 485 Lexington Avenue nearby. The office tower is now 98% leased.",
-      "impact": "Minimal multifamily relevance. Office leasing activity in Midtown confirms white-collar employment stability and premium office market tightness, but does not signal residential demand or construction cost shifts. Useful as barometer of Manhattan professional-class job growth, which feeds indirect apartment demand, but is secondary signal."
+      "summary": "Curinos, a global data intelligence firm, leased 14,000 SF at Marx Realty's 10 Grand Central in Midtown Manhattan, relocating from nearby 485 Lexington Avenue. Asking rents at 10 Grand Central range from $85–135/SF; the building is 98% leased. Cushman & Wakefield represented Curinos; JLL represented Marx Realty.",
+      "impact": "Minimal relevance to multifamily. Signals ongoing demand for premium Midtown office space among tech/financial tenants; indirectly supports renter demand in Midtown residential but offers no supply, capital, or cost implications for apartments."
     },
     {
       "title": "Iris Escarrá of Greenberg Traurig: 5 Questions",
@@ -197,12 +197,12 @@
       "cat": "Commercial",
       "date": "2026-07-15T18:05:40+00:00",
       "bullets": [
-        "Iris Escarrá (Greenberg Traurig land-use co-chair) led entitlements for Miami Freedom Park mixed-use + Nu Stadium.",
-        "Project: 73 acres, 26.7K-seat MLS stadium (Inter Miami), retail, hotel, office.",
-        "Environmental remediation, code compliance, traffic/aviation approvals executed pre-opening April 2024."
+        "Iris Escarrá (Greenberg Traurig co-chair) led approvals for Miami Freedom Park (73 acres, mixed-use).",
+        "Project includes Nu Stadium (Inter Miami CF, 26.7K seats, opened April 2024) plus retail, hotel, office.",
+        "High-profile zoning/entitlement counsel; successful execution of complex mixed-use in South Florida."
       ],
-      "summary": "Iris Escarrá of Greenberg Traurig co-led entitlements and approvals for Miami Freedom Park, a 73-acre mixed-use development anchored by Nu Stadium (26.7K seats for Inter Miami CF). The project required environmental remediation, code compliance reviews, and aviation/traffic coordination. Nu Stadium opened in April 2024.",
-      "impact": "Signals complexity and extended timeline for major mixed-use/stadium entitlements in South Florida. Relevant to developers planning large Miami projects: expect multi-year land-use, environmental, and aviation reviews. Does not directly impact multifamily supply or demand, but indicates regulatory bottleneck that may delay competing projects in Miami market."
+      "summary": "Iris Escarrá, co-chair of the land use practice at Greenberg Traurig, led the legal and entitlement team for Miami Freedom Park, a 73-acre mixed-use development near Miami International Airport. The centerpiece Nu Stadium (26,700 seats, home of MLS's Inter Miami CF) opened in April 2024; the broader complex includes retail, hotel, and office components. The project navigated environmental remediation, code compliance, traffic, and aviation issues.",
+      "impact": "Demonstrates South Florida's capacity to execute large, complex mixed-use projects with sports/entertainment anchors; signals investor/municipal appetite for destination development near MIA. No direct multifamily signal, but validates Miami as growth market willing to rezone/entitle for major projects. Implies zoning flexibility and political will for mixed-use development in South Florida, which can accelerate multifamily approvals in similar contexts."
     },
     {
       "title": "Hochul taps developers to build $1B Hell’s Kitchen towers",
@@ -212,12 +212,12 @@
       "cat": "Development",
       "date": "2026-07-15T18:00:00+00:00",
       "bullets": [
-        "NY Gov. Hochul selects Gotham, Fisher Brothers, Mural to build Hudson Landing in Hell's Kitchen: 1,127 units.",
-        "621 W. 45th Street: 1.3M SF on 1.2 acres; 108 condos (28 affordable), 1,019 rentals (338 affordable @ 40–130% AMI).",
-        "$1B project; state overrides zoning; site sale at fair-market value; pending approvals."
+        "Gov. Hochul selected Gotham Organization, Fisher Brothers, Mural Real Estate to build Hudson Landing: 1,127 units.",
+        "Hell's Kitchen waterfront (621 W 45th St); $1B project; 108 for-sale condos (28 affordable), 338+ rental units affordable.",
+        "State-owned site; zoning override under Hochul's RUSH policy; pedestrian bridge to Intrepid Museum."
       ],
-      "summary": "Gov. Hochul selected Gotham Organization, Fisher Brothers, and Mural Real Estate to develop Hudson Landing, a $1B, two-tower project on a state-owned parking lot in Hell's Kitchen. The 1,127-unit mixed-income development (108 for-sale condos, 1,019 rentals) will include retail, dining, and a 10K-SF park. The state is overriding local zoning under its 2024 Redeveloping Underused Sites housing policy.",
-      "impact": "Landmark state-zoning override signal for Manhattan multifamily: Hochul's RUS policy validates state preemption of local zoning to unlock high-density housing on publicly owned land. Implies continued supply push in West Side Manhattan at significant scale (1,127 units); expect similar state-led projects in underutilized transit-proximate sites. Increases competitive pressure on market-rate developers to close and deliver; sets affordability benchmarks (30% affordable rental units). Watch for replication in secondary NYC markets and other high-cost metros adopting similar overrides."
+      "summary": "New York Gov. Kathy Hochul selected The Gotham Organization, Fisher Brothers, and Mural Real Estate to develop Hudson Landing, a $1 billion two-tower project with 1,127 homes on 621 West 45th Street in Hell's Kitchen. The project includes 1.3 million SF across two connected towers on a 1.2-acre state-owned parcel; 108 for-sale condos (28 affordable) and ~338+ rental apartments for households earning 40–130% AMI. The state is overriding local zoning via its Redeveloping Underused Sites as Housing (RUSH) policy to enable residential on a former gas-plant site zoned for light manufacturing.",
+      "impact": "Hochul's RUSH policy and state zoning override unlock substantial West Side waterfront density; signals political will to override local opposition and unlock prime Manhattan sites for mixed-income housing. Positive supply signal for NYC market (1,127 units) but competitive pressure on Midtown West rents and condo values. Demonstrates state-level intervention to bypass local NIMBYism; watch for replication in other NYC waterfront sites and strong signal that Manhattan infill will remain politically prioritized, supporting long-term rent stability in prime submarkets."
     },
     {
       "title": "Hochul Selects Developers to Build 1,127 Housing Units in Hell’s Kitchen",
@@ -227,12 +227,12 @@
       "cat": "Commercial",
       "date": "2026-07-15T17:12:45+00:00",
       "bullets": [
-        "Gov. Hochul selects Gotham, Fisher Brothers, Mural for Hudson Landing Hell's Kitchen; 1,127 homes, $1B.",
-        "50.6K SF parking lot at 621 W. 45th Street transformed to two residential towers; 338 units affordable.",
-        "State override of local light-manufacturing zoning; pending approvals; Feb 2024 RUS policy launch."
+        "Hochul/Gotham/Fisher Brothers/Mural selected for Hell's Kitchen 621 W 45th housing: 1,127 units, $1B project.",
+        "Parking lot converted to two towers (1.3M SF); 108 condos + 338+ affordable rentals; state zoning override.",
+        "Infrastructure: pedestrian bridge to Intrepid, retail, restaurants, ~10K SF park."
       ],
-      "summary": "Hochul announced developer selection for Hudson Landing, a $1B mixed-use development on a state-owned Hell's Kitchen parking lot. Two residential towers will deliver 1,127 units (108 for-sale condos, 1,019 rentals), with 338 rental units affordable to 40–130% AMI households. The project includes retail, dining, and public park space.",
-      "impact": "Duplicate of idx 13 with minor variation. Same strategic signal: state zoning override enables large-scale density on public land; West Side Manhattan rental supply increase; affordability mandate reshapes pro forma expectations for prime Manhattan developments. Expect cap-rate compression in West Side submarket as supply overhang materializes 2027–2029."
+      "summary": "Gov. Hochul announced developer selection for Hudson Landing at 621 West 45th Street, a 1,127-unit, $1 billion mixed-use project on a state-owned 50,584-SF parking lot in Hell's Kitchen. Two connected towers will house 1.3 million SF; 108 for-sale condos and rental apartments for households at 40–130% AMI. The state-owned site is being converted from a former gas plant zoned for light manufacturing via Hochul's 2024 Redeveloping Underused Sites as Housing initiative.",
+      "impact": "Duplicate of article 13 with minor detail variations. Confirms state commitment to unlock underutilized sites for housing; 1,127 units on Manhattan waterfront is significant supply. RUSH policy removes zoning friction and accelerates timelines; competitive pressure on neighboring residential and condo markets. Strong signal of continued institutional support for NYC housing development."
     },
     {
       "title": "PTM Partners, Peacock launch subsidy-free workforce housing platform",
@@ -242,12 +242,12 @@
       "cat": "Development",
       "date": "2026-07-14T23:00:00+00:00",
       "bullets": [
-        "PTM Partners + Peacock Capital launch Inception Housing: subsidy-free workforce housing platform.",
-        "Targeting 80–120% AMI renters; 25% hard-cost savings vs. traditional; 6–7-month delivery (50% faster).",
-        "South Orlando pilot: 74 units added to 14-townhome acquisition (Magnolia Flats)."
+        "PTM Partners and Peacock Capital launched Inception Housing: subsidy-free workforce housing platform.",
+        "Standardized design, cold-formed steel, in-house procurement cut hard costs ~25% vs. traditional; 6–7 month delivery (50% faster).",
+        "First project: Magnolia Flats (South Orlando), 74 new units + 14 existing townhomes; targets 80–120% AMI."
       ],
-      "summary": "PTM Partners and Peacock Capital launched Inception Housing, a standardized construction platform targeting workforce renters (80–120% AMI) without government subsidies. Using cold-formed steel, in-house design/procurement, and standardized building systems, Inception cuts hard costs ~25% and delivery time 50% vs. traditional construction. First project: Magnolia Flats, South Orlando (14 acquired + 74 new units).",
-      "impact": "Significant cost-structure signal for Florida multifamily: Inception's 25% hard-cost reduction and 6–7-month delivery times indicate construction inflation easing and supply-chain optimization gaining traction. Targets underserved 80–120% AMI cohort—segment often unprofitable at market rates. If replicable at scale, platform could unlock secondary-market development in high-cost Florida metros (Tampa, Miami, Jacksonville) and shift competitive calculus. Watch for project performance: cost parity achievement validates model and may prompt adoption by regional/national operators."
+      "summary": "PTM Partners (Florida) and Peacock Capital launched Inception Housing, a platform delivering lower-cost workforce housing (80–120% AMI) without government subsidies. The platform standardizes design and procures cold-formed steel directly from suppliers, cutting hard construction costs ~25% and delivery time to 6–7 months (vs. traditional ~14 months). The first project, Magnolia Flats (South Orlando), combines 14 acquired townhomes with 74 new units. Florida faces a 30.5K-unit housing shortage statewide; live-local and other incentives are complementary.",
+      "impact": "Inception Housing represents emerging class of cost-engineered, subsidy-free workforce housing using modular/standardized approaches. If replicable and financeable at scale, pressures rents in 80–120% AMI cohort but enables development where public subsidy unavailable. Watch for lending appetite; lower costs and faster delivery may compress multifamily cap rates and increase development pace in Sunbelt secondary markets. South Florida/Orlando supply implications material if model gains capital backing."
     },
     {
       "title": "Dallas apartment pipeline gets a boost with pair of financing deals",
@@ -257,12 +257,12 @@
       "cat": "Development",
       "date": "2026-07-14T19:00:00+00:00",
       "bullets": [
-        "Endeavor Real Estate secures financing for Lucille luxury high-rise: 265 units, 22 stories, 2700 McKinney, Uptown Dallas.",
-        "StreetLights Residential closes $54M equity for apartment tower at Park at Legacy redevelopment, Plano; 6501 Legacy Drive.",
-        "Lucille: construction starts summer 2024, leasing late 2028; 320K SF, 10K retail, rooftop pool."
+        "Endeavor Real Estate secured financing for Lucille (265 units, 22 stories, Uptown Dallas) at 2700 McKinney Ave.",
+        "Construction begins summer 2025; opening late 2028; 320K SF, 10K SF ground-floor retail, rooftop pool, 4-level underground parking.",
+        "StreetLights Residential secured $54M equity for 22-story tower in Plano (Legacy redevelopment, 6501 Legacy Drive); 5-yr financing via Northmarq."
       ],
-      "summary": "Endeavor Real Estate secured financing for Lucille, a 265-unit luxury high-rise in Dallas Uptown (22 stories, 320K SF, 10K retail ground floor, late 2028 delivery). Separately, StreetLights Residential closed $54M equity for an apartment tower in Plano's 107-acre Park at Legacy mixed-use redevelopment. Northmarq structured five-year financing for StreetLights.",
-      "impact": "Strong DFW multifamily pipeline signal: two institutional-scale projects (265 + unknown StreetLights unit count) with secured capital in Uptown and Plano submarket anchors. Uptown Lucille targets working professionals in financial district—signals stable white-collar employment and rent growth. Park at Legacy redevelopment (office-to-mixed-use) confirms suburban office-to-residential conversion thesis in North Dallas. Both deals signal continued equity appetite and refinance feasibility for new supply. Watch: if Lucille delays or StreetLights under-leases, signals Uptown/Plano absorption risk; confirmation of both tracking as planned validates DFW resilience through 2028–2029 delivery."
+      "summary": "Two Dallas-area luxury apartment financing deals: (1) Endeavor Real Estate locked financing for Lucille, a 265-unit, 22-story luxury high-rise at 2700 McKinney in Uptown, with partner Canyon Partners; construction begins summer 2025, opening late 2028; property includes 10K SF ground retail, rooftop pool, observation deck, and 4 levels underground parking. (2) StreetLights Residential secured $54 million equity for a 22-story tower in Plano as part of the 107-acre Legacy redevelopment; Northmarq structured the 5-year financing.",
+      "impact": "Dual Uptown Dallas + Plano financing closures signal strong capital availability and continued confidence in DFW luxury apartment and mixed-use office-to-residential conversion. Uptown Lucille delivery (late 2028) adds 265 units to tight, high-barrier-to-entry submarket; Legacy redevelopment in Plano represents major office-campus-to-mixed-use pivot, unlocking suburban renter demand. Both transactions indicate construction financing still available despite rate environment; development momentum in DFW remains robust. Supply pressure on rents in Uptown and emerging Plano mixed-use rental demand likely."
     }
   ]
 }
