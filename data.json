@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-16T15:27:32.109763+00:00",
+  "fetchedAt": "2026-07-16T17:04:54.036458+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -9,35 +9,140 @@
     },
     {
       "label": "10Y Treasury",
-      "value": "4.59%",
-      "pct": 0.9
+      "value": "4.58%",
+      "pct": 0.77
     },
     {
       "label": "30Y Treasury",
       "value": "5.11%",
-      "pct": 0.61
+      "pct": 0.43
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "99.58",
-      "pct": 1.76
+      "value": "99.51",
+      "pct": 1.69
     }
   ],
   "stories": [
     {
-      "title": "West Palm Beach Eyeing Waterfront Property Moratorium",
+      "title": "New York City Hotels Are Still Struggling to Regain Pre-Pandemic Numbers",
+      "link": "https://commercialobserver.com/2026/07/new-york-city-hotels-struggle-pre-pandemic-numbers/",
+      "excerpt": "The New York City hotels and hospitality sector is among the strongest in the nation, but it still hasn’t recovered to meet its pre-pandemic occupancy and revenue metrics. This is the conclusion drawn by New York State Comptroller Thomas DiNapoli in his annual study of New York City’s hotel industry, which found that while domestic visitors have surged, international visitors remain lower than their pre-pandemic benchmarks, contributing to lower pre-pandemic occupancy, employment and room rates. “The city’s hotel industry has largely recovered from the pandemic. It is doing well, but it could be doing even better if international visitors returned more quickly,” DiNapoli said in the report released this week. “Despite the challenges, we expect the sector to continue to grow, but a complete recovery requires a return of international visitors and increased employment to keep up with demand.” Of the 65 million visitors New York City hosted in 2025, 52.4 million were domestic tourists, while international visitors only accounted for 12.5 million, which was down from 2024 and roughly 93 percent of its pre-pandemic numbers, according to DiNapoli. Moreover, while the city’s 84 percent hotel occupancy rate was the highest in the nation for the third straight year, the city’s occupancy metric remained 3.5 percent below its 2019 number. Furthermore, the $333.71 average daily room rate remained lower than its pre-pandemic average adjusted for inflation. Perhaps most concerning, the New York City hotel industry today employs 45,325 men and women, which is 13 percent fewer than it employed in 2019. “The comptroller’s report confirms what the hotel industry has been saying for years: We have yet to recover from the pandemic, and we are still thousands of jobs and millions of visitors below where we were,” said Vijay Dandapani, president and CEO of the Hotel Association of New York City, a trade group that represents 250 city hotels. That said, it’s not all doom and gloom. The nu",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-16T16:59:51+00:00",
+      "bullets": [
+        "NYC hosted 65M visitors in 2025; only 12.5M international (down YoY, 93% of pre-pandemic).",
+        "Hotel occupancy, employment, room rates still below pre-pandemic despite strong domestic surge.",
+        "State Comptroller: full recovery requires international visitor return and employment growth."
+      ],
+      "summary": "New York City's hotel sector has recovered broadly but lags pre-pandemic benchmarks, with occupancy and room rates held back by weak international travel. Of 65 million 2025 visitors, 52.4 million were domestic; international arrivals of 12.5 million fell short of 2024 and remain at roughly 93% of pre-pandemic levels. State officials expect ongoing sector growth but signal that complete recovery hinges on international traveler rebound.",
+      "impact": "Weak international tourism signals sustained softness in NYC's white-collar office markets and luxury multifamily absorption. Delayed business travel and international relocation dampens prime office tenant demand and high-end residential leasing in Manhattan, likely keeping cap rates elevated and limiting rent growth in luxury segments through 2026."
+    },
+    {
+      "title": "Catholic Homes Secures $147M Construction Loan for Bronx Housing Development",
+      "link": "https://commercialobserver.com/2026/07/catholic-homes-construction-loan-bronx-housing-east-178th-street/",
+      "excerpt": "An affiliate of the Roman Catholic Archdiocese of New York just secured construction financing for a housing development at 484 East 178th Street in the Bronx’s Tremont neighborhood. Catholic Homes, a nonprofit dedicated to developing and managing affordable housing for families and seniors, received a $146.9 million construction loan from the New York State Housing Finance Agency to bring 251 new units to the site, according to property records. The site at the corner of East 178th Street and Washington Avenue is currently a vacant lot. Monsignor Kevin Nelan was the signatory for Catholic Homes. The organization did not immediately respond to Commercial Observer’s request for comment. Catholic Homes acquired the development site earlier this year for $17 million from another church organization, the Roman Catholic Church of Saint Simon Stock and Saint Joseph. The NYS Housing Finance Agency — which also did not immediately respond to a request for comment — was founded in 1960 to provide financing for low- and moderate-income rental multifamily housing. Catholic Homes develops and preserves properties across New York City, with the goal of providing aid to poor and vulnerable individuals and families. All told, Catholic Homes has provided New Yorkers with 481 senior housing units, 2,350 family housing units and 128 supportive housing units. The organization has several housing and supportive developments across the city, including Clinton Broome at 157 and 165 Broome Street in Manhattan’s Lower East Side, the George Hardy at 440 East 137th Street in the Bronx’s Mott Haven neighborhood, and the Carmel Apartments at 61 Carmel Court in Staten Island. Amanda Schiavo can be reached at aschiavo@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-16T16:47:38+00:00",
+      "bullets": [
+        "Catholic Homes secures $146.9M construction loan from NYS Housing Finance Agency, Bronx Tremont.",
+        "251-unit affordable housing development at 484 E. 178th St.; site acquired for $17M earlier this year.",
+        "Vacant lot conversion; nonprofit positioning for senior and family-focused rental in outer borough."
+      ],
+      "summary": "Catholic Homes, an affiliate of the Roman Catholic Archdiocese, closed a $146.9 million construction loan from the New York State Housing Finance Agency to develop 251 units of affordable multifamily housing on a vacant parcel in the Bronx's Tremont neighborhood. The nonprofit acquired the site in early 2025 for $17 million from another church entity and aims to serve families and seniors. The deal signals continued institutional capital flow toward affordable housing in underutilized Bronx submarkets.",
+      "impact": "Demonstrates sustained HFA lending appetite for outer-borough affordable development, creating pipeline pressure on market-rate rents in Bronx Transit-Oriented pockets like Tremont. Capital flowing to nonprofit affordable production limits land availability and raises land costs for for-profit developers, particularly in walkable subway corridors where gentrification risk is highest."
+    },
+    {
+      "title": "Mamdani Releases Action Plan to Tackle Rental Ripoff Hearing Findings",
+      "link": "https://commercialobserver.com/2026/07/mamdani-report-rental-ripoff-hearing/",
+      "excerpt": "Mayor Zohran Mamdani’s administration released a report Thursday morning detailing what it gleaned from the so-called Rental Ripoff hearings and what it plans to do about some of the most pervasive issues experienced by tenants and landlords. Complaints expressed during the hearings didn’t stray far from expectations, with 16 percent of the 2,400 participants complaining of pest infestations, as well as mold, heat, hot water issues and broken elevators. But many tenants also expressed a sense of fear of retaliation from landlords and building managers for voicing grievances. Cea Weaver, director of the Mayor&#8217;s Office to Protect Tenants, briefed reporters on the findings in the report Wednesday and discussed measures to hold bad landlords accountable while exploring new options to take control of problematic buildings and portfolios. “The recommendations [in the report], some of them are administrative actions that we can take as a city,” Weaver said during the briefing. “Some of them are legislative actions that we will need to work with the City Council to make a reality. And some of them require court action or litigation. So we&#8217;re going to be rolling these out over the next few years. This is not something that we&#8217;re going to be able to implement in the report tomorrow.” One of the ways the Mamdani administration plans to tackle complaints is by requiring that inspectors at least attempt to launch an investigation on every complaint, starting in October with the upcoming building heating season. If there are multiple complaints from different apartments within the same building, they will no longer be bunched together into one complaint, but will be treated as individual potential violations, according to the report. Audience members cheer and listen as Mayor Zohran Mamdani speaks at a &#8220;Rental Ripoff&#8221; hearing at Fordham University in the Bronx in March. PHOTO: Spencer Platt/Getty Images The city will also crack down on false self-cer",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-16T16:38:01+00:00",
+      "bullets": [
+        "NYC Mayor Mamdani releases action plan from 'Rental Ripoff' hearings; 2,400 participants surveyed.",
+        "16% complained of pest/mold/heat; widespread tenant fear of retaliation from landlords.",
+        "City exploring new enforcement, lease protection, and potential building acquisition/control measures."
+      ],
+      "summary": "New York City's Office to Protect Tenants released findings from spring 'Rental Ripoff' hearings attended by 2,400 residents. Common complaints included pest infestations, mold, heating failures, and broken elevators; tenants also expressed fear of retaliation for reporting issues. The city's action plan includes both administrative enforcement and legislative proposals to hold landlords accountable and explore acquisition of problem buildings and portfolios.",
+      "impact": "Escalating tenant protections and landlord enforcement in NYC increase operating compliance costs and reputational risk for multifamily owners, narrowing NOI margins on smaller, older stock. Risk of city intervention (building seizure, rent-control expansion, mandatory capital spend orders) pressures valuations and slows investor appetite for value-add repositioning in outer boroughs where compliance deficiencies are highest."
+    },
+    {
+      "title": "San Antonio’s Aztec Hotel Reveals Open Date",
+      "link": "https://www.connectcre.com/stories/san-antonios-aztec-hotel-reveals-open-date/",
+      "excerpt": "It’s taken 10 years for the developers of a River Walk boutique hotel to reach the point where they can announce their opening date. The San Antonio Business Journal reports the Aztec Hotel, at the site of the Aztec Theatre building, will open near the end of August. The owners of the downtown property, led by Sam Panchevre, are nearing completion of the project to transform a portion of the structure into a new boutique hotel. The redevelopment of multiple floors into a new River Walk hotel is now more than 90% complete. The project has survived historic preservation hurdles, a global pandemic and economic instability. Panchevre’s group has teamed with Shreem Capital, which will co-own and manage the new 77-room hotel and fly the Marriott flag. A river-level speakeasy and rooftop terrace with a restaurant and bar will open at roughly the same time as the hotel. The post San Antonio’s Aztec Hotel Reveals Open Date appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-16T16:26:04+00:00",
+      "bullets": [
+        "Aztec Hotel, San Antonio River Walk redevelopment, opens late August after 10-year timeline.",
+        "77-room boutique hotel; Marriott flag; speakeasy and rooftop restaurant/bar amenities included.",
+        "Survived historic preservation, pandemic, economic headwinds; Shreem Capital co-owns and manages."
+      ],
+      "summary": "The Aztec Hotel, a 77-room boutique redevelopment of the historic Aztec Theatre in downtown San Antonio's River Walk, will open in late August after a decade-long entitlement and construction cycle. Co-owned and managed by Shreem Capital under the Marriott brand, the project includes a river-level speakeasy and rooftop restaurant/bar. The long timeline reflects San Antonio's historic preservation and zoning complexity in high-visibility waterfront districts.",
+      "impact": "Limited relevance to multifamily development; hospitality conversion signals demand for River Walk experiences but does not materially affect residential supply or rental demand in San Antonio's broader multifamily markets."
+    },
+    {
+      "title": "Intercontinental Real Estate Corporation Acquires Grocery-Anchored Retail Center in Auburn for $70M",
+      "link": "https://www.connectcre.com/stories/intercontinental-real-estate-corporation-acquires-grocery-anchored-retail-center-in-auburn-for-70m/",
+      "excerpt": "Boston-based Intercontinental Real Estate Corporation has acquired Lakeland Town Center, a 125,233-square-foot grocery-anchored retail center located in Auburn, Washington, for $69.5 million. Geoff Tranchina, Gleb Lvovich, Dan Tyner, and Tess Berghoff with JLL Capital Markets marketed the property on behalf of the seller. Built in 2002, Lakeland Town Center is situated on a 12.61-acre site at the commercial heart of Lakeland Hills. Lakeland Center is 100% leased and is anchored by regional grocer Haggen Northwest Fresh. “Lakeland Town Center is the dominant daily-needs destination in a captive, high-income trade area, supported by a top-performing grocery anchor and one of the tightest retail submarkets in the Seattle metro,” said Jessica Levin, Managing Director, West Coast and Associate CIO at Intercontinental. The property consists of both pad and inline retail with 704 parking spaces. “This acquisition reflects our focus on well-located, grocery-anchored retail with strong demand fundamentals,” added Ross Karetsky, Associate Director, Acquisitions at Intercontinental. The post Intercontinental Real Estate Corporation Acquires Grocery-Anchored Retail Center in Auburn for $70M appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-16T16:25:16+00:00",
+      "bullets": [
+        "Intercontinental Real Estate acquires Lakeland Town Center, Auburn, Washington for $69.5M.",
+        "125K SF, 100% leased, grocery-anchored (Haggen NW Fresh); 12.6-acre site in high-income Seattle suburb.",
+        "Reflects investor appetite for well-located, tight-supply retail submarkets with strong daily-needs anchor."
+      ],
+      "summary": "Boston-based Intercontinental Real Estate purchased Lakeland Town Center, a 125,233-square-foot fully leased grocery-anchored retail center in Auburn, Washington, for $69.5 million. Built in 2002 and anchored by regional grocer Haggen Northwest Fresh, the 12.61-acre property sits in a high-income trade area with one of the Pacific Northwest's tightest retail submarkets. Intercontinental's acquisition reflects continued capital strength in Seattle-area essential retail.",
+      "impact": "Limited relevance to multifamily development; retail acquisition in suburban Seattle does not directly signal residential demand or supply shifts, though tight retail submarkets may correlate with constrained land availability and rising development costs in Auburn and surrounding South King County markets."
+    },
+    {
+      "title": "Taiwan Semiconductor Adding Another $100B to Phoenix Chip Making Effort",
+      "link": "https://www.connectcre.com/stories/taiwan-semiconductor-adding-another-100b-to-phoenix-chip-making-effort/",
+      "excerpt": "Taiwan Semiconductor Manufacturing Co. (TSMC) plans to spend an extra $100 billion to grow its U.S. business. The company says that money will likely help add four new fabrication plants in Arizona, which would make some of the world’s most advanced computer chips, 2-nanometer and smaller. Those new factories would be added to TSMC’s big Arizona project in the North Valley. The company has already announced a $165 billion expansion that includes six chip plants, two advanced packaging facilities and a research and development center. The site is south of Loop 303 and west of Interstate 17. All together, the company’s total promised investment in U.S. chipmaking now looks like roughly $265 billion. TSMC makes chips used by big-name companies like Nvidia and Apple. The company says the big push is happening because more and more people and businesses want AI, and AI needs powerful computer chips. Earlier this year, TSMC paid nearly $200 million for land south of its sprawling campus near 43rd Avenue and Dove Valley Road in northwest Phoenix. The post Taiwan Semiconductor Adding Another $100B to Phoenix Chip Making Effort appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-16T15:52:13+00:00",
+      "bullets": [
+        "TSMC committing additional $100B to U.S. chipmaking, bringing total U.S. investment to ~$265B.",
+        "Four new fab plants planned for Phoenix area (North Valley, south of Loop 303/west of I-17).",
+        "Expansion driven by AI demand; company already owns ~$200M land south of 43rd Ave/Dove Valley Rd."
+      ],
+      "summary": "Taiwan Semiconductor Manufacturing Co. announced an additional $100 billion investment in U.S. operations, raising its total committed U.S. capital to approximately $265 billion. The funding will support four new advanced chip fabrication plants in Arizona's North Valley, built atop an already-announced $165 billion program including six fabs, two packaging facilities, and an R&D center. TSMC's expansion is driven by surging AI chip demand and its role as supplier to Nvidia and Apple.",
+      "impact": "TSMC's massive Phoenix capex influx will accelerate AI-sector job and population migration into metropolitan Phoenix, particularly north of the Loop 303 corridor and west of I-17. This unlocks strong multifamily demand in North Valley submarkets (Glendale, Surprise, Peoria) and secondary employment hubs over the next 5–7 years; developers should acquire land and underwrite projects now ahead of lease-up acceleration in 2027–2029."
+    },
+    {
+      "title": "Affinius Provides $177M Construction Loan for Central Florida Student Housing",
+      "link": "https://commercialobserver.com/2026/07/affinius-177m-construction-loan-central-florida-student-housing/",
+      "excerpt": "Student housing continues to secure institutional capital. Gideon Friedman’s Beachwold Residential has secured $176.6 million of construction financing to build the first two phases of Place at Alafaya, a four-building 1,395-bed student housing property near the University of Central Florida campus in Orlando, Commercial Observer can first report. Affinius Capital provided the construction debt, while JLL’s Mona Carlton, Elliott Throne and Josh Odessky arranged the transaction. The financing is the largest private residential construction loan in Orlando’s history, according to JLL. Tyler Figley, senior vice president at Affinius Capital, said in a statement that the new student housing property will benefit from its location near the campus and the growing student enrollment at UCF. “This development aligns with our strategy of financing high-quality student housing with top-tier sponsorship at leading universities,” added Figley. Located at 11600 MacKay Boulevard — just west of North Alafaya Trail and a 15 minute walk from UCF campus — the first phase of Place at Alafaya will deliver two buildings featuring 284 units with just over 800 beds of student housing. Construction for this section will include 767 parking spaces and be finished in 2028, while the second phase will deliver a 200-unit, 585-bed property and 534 parking spaces by 2029. The complex also includes a three-story, 16,000-square-foot clubhouse that will feature amenities such as a coffee bar, social and study lounges, a theater, and a fitness and wellness center, along with courtyards, cabanas, pickleball courts, a basketball court and a dog park. Brian Pascus can be reached at bpascus@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-16T15:39:16+00:00",
+      "bullets": [
+        "Affinius Capital provides $176.6M construction loan for Beachwold Residential student housing, Orlando.",
+        "Place at Alafaya: 1,395 beds across four buildings near UCF campus; largest private residential construction loan in Orlando history.",
+        "Strong student enrollment growth at UCF supports leasing fundamentals and institutional capital appetite."
+      ],
+      "summary": "Beachwold Residential secured $176.6 million in construction financing from Affinius Capital for Place at Alafaya, a 1,395-bed, four-building student housing development adjacent to the University of Central Florida campus. The deal, arranged by JLL, is the largest private residential construction loan in Orlando's history. Affinius cited UCF's rising student enrollment and the property's proximity to campus as core underwriting drivers.",
+      "impact": "Strong institutional capital deployment to UCF-area student housing reflects tight supply and sustained enrollment growth at one of Florida's largest state universities. Success of this mega-deal signals investor confidence in Central Florida's demographic tailwinds and positions aggressive student housing investors to compress pricing in the submarket; non-student multifamily operators should monitor UCF-area rent growth and occupancy to assess spillover rental demand in nearby off-campus rental markets."
+    },
+    {
+      "title": "West Palm Beach Eyeing Waterfront Rezoning Moratorium",
       "link": "https://www.connectcre.com/stories/west-palm-beach-eyeing-waterfront-property-moratorium/",
-      "excerpt": "West Palm Beach gave tentative approval to a measure that would pause redevelopment in a waterfront area of the city’s downtown. It will mostly affect the seven apartment and condo projects on S. Flagler Drive and Washington Road. The S. Florida Business Journal reports the measure would halt any new projects in the area that require rezoning. Developments filed earlier wouldn’t be affected. The measure comes amid growing community pushback against the scale and speed of redevelopment in West Palm Beach’s urban core in recent years. The six-month pause would give the city time to hire an outside consultant to recommend potential zoning changes to the area, which is home to a number of vintage multifamily and condominium buildings (shown) that could be ripe for luxury redevelopment. Before the moratorium can go into effect, the ordinance would require a second reading by city commissioners. That vote is slated for July 20. The post West Palm Beach Eyeing Waterfront Property Moratorium appeared first on Connect CRE.",
+      "excerpt": "West Palm Beach gave tentative approval to a measure that would pause redevelopment in a waterfront area of the city’s downtown. It will mostly affect the seven apartment and condo projects on S. Flagler Drive and Washington Road. The S. Florida Business Journal reports the measure would halt any new projects in the area that require rezoning. Developments filed earlier wouldn’t be affected. The measure comes amid growing community pushback against the scale and speed of redevelopment in West Palm Beach’s urban core in recent years. The six-month pause would give the city time to hire an outside consultant to recommend potential zoning changes to the area, which is home to a number of vintage multifamily and condominium buildings (shown) that could be ripe for luxury redevelopment. Before the moratorium can go into effect, the ordinance would require a second reading by city commissioners. That vote is slated for July 20. Stay ahead of the multifamily market at Connect Apartments. Gain firsthand insights from industry leaders on capital markets, development, operations, financing, and investment trends while expanding your network with the people making deals happen. See you on September 22! The post West Palm Beach Eyeing Waterfront Rezoning Moratorium appeared first on Connect CRE.",
       "source": "Connect CRE",
       "cat": "Commercial",
       "date": "2026-07-16T15:03:14+00:00",
       "bullets": [
-        "West Palm Beach approves six-month moratorium on waterfront rezoning applications south of Monroe Drive",
-        "Pause affects seven apartment/condo projects on S. Flagler Drive; filed projects exempt",
-        "City hiring consultant for zoning analysis; second vote scheduled July 20"
+        "West Palm Beach tentatively approves six-month rezoning moratorium on S. Flagler Drive/Washington Road waterfront area.",
+        "Moratorium affects seven apartment/condo projects; aims to slow rapid downtown redevelopment pace.",
+        "City hiring consultant for zoning analysis; second reading vote scheduled July 20; expires January 20, 2027."
       ],
-      "summary": "West Palm Beach commissioners gave tentative approval to a six-month moratorium on new waterfront development applications in downtown, affecting seven planned apartment and condo projects along the S. Flagler Drive corridor. The pause—set to expire January 20, 2027—allows the city to hire a zoning consultant and study redevelopment patterns. Projects already filed are grandfathered; a final vote is scheduled for July 20.",
-      "impact": "This moratorium creates a window of uncertainty and potential deal acceleration in West Palm Beach before January 2027, favoring developers with entitled sites. More importantly, it signals municipal pushback against luxury-focused redevelopment and signals demand for affordability/preservation—a regulatory headwind for value-add acquisition play in the waterfront submarket and a sign that future entitlements may face political friction."
+      "summary": "West Palm Beach's city commission gave tentative approval to a six-month moratorium on new rezoning applications in a waterfront corridor spanning S. Flagler Drive and Washington Road, affecting approximately seven planned apartment and condo projects. The pause, pending final commission vote on July 20, reflects community pushback against rapid downtown redevelopment. The city is hiring a consultant to recommend zoning changes; the moratorium is set to expire January 20, 2027, unless extended.",
+      "impact": "Moratorium creates regulatory uncertainty and delays capital deployment in West Palm Beach's highest-velocity redevelopment corridor, pressuring sponsors to accelerate entitlements before January 2027 or defer projects. Vintage multifamily and condo buildings on Flagler—prime conversion/demolition candidates—face frozen development status, potentially steepening land prices for developers with pre-moratorium approvals and dampening competitive bidding for long-held assemblies."
     },
     {
       "title": "Peerless Building 259-Unit NCSU Student Housing Development",
@@ -47,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-07-16T14:36:02+00:00",
       "bullets": [
-        "Peerless Development pursuing 259-unit, 713-bed student housing project at NCSU South Campus",
-        "Five- to seven-story mixed-use building with 294 parking spaces; site requires razed existing apartment complex",
-        "Unit mix: 96 four-bed, 80 two-bed, 50 one-bed, 23 three-bed, 10 five-bed units"
+        "Peerless Development planning 259-unit, 713-bed student housing on Crest Road behind NCSU South Campus, Raleigh.",
+        "7-story mixed-use with underground parking (294 spaces); retail component TBD; existing apartment complex to be razed.",
+        "Unit mix: 50 one-BR, 80 two-BR, 23 three-BR, 96 four-BR, 10 five-BR; emphasizes shared-bed supply."
       ],
-      "summary": "Peerless Development is planning a 259-unit, 713-bed student housing project on 2.57 acres directly behind North Carolina State University's South Campus in Raleigh. The mixed-use, five- to seven-story building will replace an existing apartment complex and include 294 parking spaces, underground parking, a pool, and retail. The unit mix heavily favors four-bedroom units (96 of 259), reflecting student household demand.",
-      "impact": "Student housing at NCSU—a major research institution with 34,000+ students—signals strong, steady-state demand for beds rather than traditional apartments. This project demonstrates continued developer confidence in university-adjacent infill in Raleigh, a Sunbelt market with persistent enrollment and job growth. The high concentration of four-beds (37% of units) reflects a specific student demand pattern that differs from traditional multifamily, lowering lease-up risk but constraining adult/family repositioning optionality."
+      "summary": "Peerless Development is planning a 259-unit, 713-bed student housing project directly behind North Carolina State University's South Campus on Crest Road in Raleigh. The mixed-use 5–7 story building will include two levels of underground parking (294 spaces), a swimming pool, and undisclosed retail. Unit mix emphasizes shared-bedroom configurations (four- and five-bedroom units comprise 41% of units). Existing apartment stock at the site will be demolished.",
+      "impact": "NCSU student housing pipeline expansion in Raleigh signals sustained enrollment and rent growth; Peerless's aggressive bed-count focus (2.75 beds/unit) indicates sponsor confidence in shared-lease demand and ability to command premium rents from upper-class cohorts. Competing multifamily operators near campus should monitor absorption and rent trajectory to assess spillover pressure on older off-campus student rental stock and general Raleigh market tightening."
     },
     {
       "title": "Center for Justice Innovation Expands to 34K SF at GFP’s 520 Eighth Avenue",
@@ -62,42 +167,12 @@
       "cat": "Commercial",
       "date": "2026-07-16T14:22:22+00:00",
       "bullets": [
-        "Center for Justice Innovation expands to 34.3K SF across two floors at 520 Eighth Avenue, Manhattan",
-        "20-year lease renewal consolidates tenant from five floors into contiguous 18th-19th floor space",
-        "Nonprofit gains 1.3K SF while landlord improves asset utilization and rental stability"
+        "Center for Justice Innovation expands to 34.3K SF at GFP Real Estate's 520 Eighth Ave, Midtown Manhattan.",
+        "20-year lease extension; nonprofit consolidates from fragmented 33K SF across three floors to cohesive 18th–19th floor footprint.",
+        "Long-term tenant retention signals stable nonprofit office demand and landlord willingness to offer continuity pricing."
       ],
-      "summary": "The Center for Justice Innovation, a nonprofit tenant since 1999, expanded its lease at GFP Real Estate's 520 Eighth Avenue in Midtown Manhattan to 34,300 square feet on the 18th and 19th floors, gaining 1,300 square feet. The 20-year renewal consolidates the tenant's fragmented footprint from five floors into two contiguous floors, improving operational efficiency and landlord asset management.",
-      "impact": "Minimal relevance to multifamily development. This is an office transaction in a historically office-heavy Manhattan asset; it reflects stable nonprofit demand and landlord strategy to consolidate underutilized tenancies, but signals no broader Manhattan market trends affecting residential supply, demand, or capital flows."
-    },
-    {
-      "title": "Investor Duo Spending $20M on Charlotte Office Tower Revamp",
-      "link": "https://www.connectcre.com/stories/investor-duo-spending-20m-on-charlotte-office-tower-revamp/",
-      "excerpt": "Trinity Capital Advisors and Town Lane kicked off the makeover of the 15-story, 388,657-square-foot office tower at 440 S. Church St. The Charlotte Business Journal reports the $20 million project will focus on the 17-year-old building&#8217;s two lobbies and include upgrades to existing tenant amenities, common areas and conference rooms at the office tower on 440 South Church. The building is less than 50% leased. The two investors bought the building from Epic Investment Partners in October 2025 for about $75.8 million. Trinity Capital originally developed the tower, which delivered in 2009. The renovations will encompass 21,000 square feet of the building&#8217;s interior as well as significant street-level improvements, Collier said. Work is expected to be completed in the second quarter of 2027. Additionally, the firms are building out about 24,000 square feet of speculative suites on floors nine and 10. Redline Design Group is the project architect and designer, and Choate Construction is the general contractor. The post Investor Duo Spending $20M on Charlotte Office Tower Revamp appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-16T14:05:36+00:00",
-      "bullets": [
-        "Trinity Capital Advisors and Town Lane acquire Charlotte office tower for $75.8M; investing $20M renovation",
-        "388.7K SF Class B building at 440 S. Church St. less than 50% leased; 21K SF interior + street-level remodel",
-        "Speculative build-out of 24K SF suites on floors 9-10; completion targeted Q2 2027"
-      ],
-      "summary": "Trinity Capital Advisors and Town Lane purchased a 388,657-square-foot, 15-story office tower in Charlotte for $75.8 million in October 2025 and are investing $20 million in a comprehensive repositioning. The building—currently less than 50% leased—will receive lobby, amenity, and street-level upgrades plus speculative suites on floors 9-10, with work slated for completion in Q2 2027.",
-      "impact": "Deep distress in Charlotte office fundamentals (sub-50% occupancy, steep discount to 2009 delivery cost) reflects national office crisis but has minimal direct impact on multifamily development. However, the $20M repositioning bet signals landlord confidence in Charlotte's core recovery and suggests employment stabilization in the market—a positive secondary indicator for residential demand growth but not an immediate supply or capital driver for apartment development."
-    },
-    {
-      "title": "U.S. Industrial Market Tightens as New Deliveries Diminish",
-      "link": "https://www.connectcre.com/stories/u-s-industrial-market-tightens-as-new-deliveries-diminish/",
-      "excerpt": "U.S. industrial real estate continued to strengthen in 2026&#8217;s second quarter as demand and supply were in balance, pushing the national vacancy rate below 7% while leasing activity reached its highest level since mid-2022, Cushman &amp; Wakefield said in its latest report. Year-to-date, occupiers have absorbed 113.6 million square feet of industrial space, the strongest first-half performance since 2023. At the same time, industrial vacancy declined to 6.9% as new deliveries remained relatively modest. Developers completed 62 million square feet of new space in Q2, bringing first-half deliveries to 119 million square feet, nearly 20% below the year-ago period. &#8220;After several quarters of market recalibration, the U.S. industrial sector is entering a new phase characterized by healthier fundamentals and more balanced growth,&#8221; said Jason Tolliver, president, Logistics &amp; Industrial Americas, at Cushman &amp; Wakefield. &#8220;Occupier demand continues to build while development has become much more disciplined than it was during the peak construction cycle. That combination is beginning to tighten market conditions once again, particularly for newer, high-quality logistics facilities.&#8221; The post U.S. Industrial Market Tightens as New Deliveries Diminish appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-16T14:04:07+00:00",
-      "bullets": [
-        "U.S. industrial vacancy fell to 6.9% in Q2 2026; leasing absorbed 113.6M SF year-to-date",
-        "New deliveries slowed to 62M SF in Q2, bringing first-half completions to 119M SF (down 20% year-over-year)",
-        "Market tightening pushes developers to discipline; occupier demand building across sectors"
-      ],
-      "summary": "U.S. industrial real estate tightened significantly in Q2 2026 as supply and demand balanced. National vacancy fell below 7% to 6.9%, while year-to-date leasing absorption reached 113.6 million square feet—the strongest first-half since 2023. Crucially, new deliveries declined 20% year-over-year to 119 million square feet in the first half, signaling developers have cut back construction after the 2021–2024 boom.",
-      "impact": "Industrial tightening signals sustained logistics demand (likely e-commerce, nearshoring, reshoring) across major metros, which indirectly supports population and employment growth in gateway and secondary markets—a positive underlying signal for multifamily demand. However, the slowdown in industrial starts may dampen construction-labor costs and availability, temporarily improving multifamily project economics. Monitor industrial market for capacity constraints and wage pressure that could spill into apartment construction labor costs in tight industrial metros (Dallas, Atlanta, Phoenix)."
+      "summary": "The Center for Justice Innovation, a nonprofit focused on community safety and racial justice, signed a 20-year lease extension to expand to 34,300 square feet at GFP Real Estate's 520 Eighth Avenue in Midtown Manhattan. The organization consolidates from 33,000 square feet scattered across the 10th, 18th, and 23rd floors to occupy the entire 18th floor and part of the 19th floor, gaining an additional 1,300 square feet. The nonprofit has been a 520 Eighth Avenue tenant since 1999.",
+      "impact": "Limited relevance to multifamily development; nonprofit office expansion signals modest Midtown Class B office demand and tenant permanence but does not materially affect residential market supply, demand, or rent dynamics in Manhattan."
     },
     {
       "title": "Miami secures $193M permit to build civic center at Freedom Park",
@@ -107,27 +182,12 @@
       "cat": "Development",
       "date": "2026-07-16T14:00:00+00:00",
       "bullets": [
-        "Miami secures $193M permit for 257K SF civic center at Freedom Park; topping-off July 10",
-        "Eight-story building combines city administrative functions; $20M pedestrian bridge to Metrorail under construction",
-        "130-acre Freedom Park development anchored by Inter Miami CF stadium; completion expected spring 2028"
+        "Miami secures $193M construction permit for new civic center at Freedom Park; building topped off July 10.",
+        "257K SF, eight-story city administrative hub replacing downtown office and Coconut Grove City Hall (70+ years).",
+        "Part of $1B mixed-use Freedom Park anchored by Inter Miami CF stadium; $20M Metrorail pedestrian bridge; completion spring 2028."
       ],
-      "summary": "Miami's new civic center, part of the $1 billion Freedom Park mixed-use development near Miami International Airport, received a $193 million construction permit and topped off in July. The 257,000-square-foot, eight-story building will consolidate city government functions and connect via a $20 million pedestrian bridge to a nearby Metrorail station. The broader 130-acre development is anchored by Inter Miami CF's stadium and is slated for completion by spring 2028.",
-      "impact": "Freedom Park is a major transit-oriented, mixed-use anchor development signaling significant municipal and private capital flowing to the MIA airport submarket. The Metrorail connection and stadium anchor will drive population concentration and demand for both market-rate and workforce housing near the station. Developers should track Freedom Park's retail, office, and hotel deliveries for residential absorption patterns and renter demand near transit; this is a flagship placemaking project that may outpace traditional multifamily absorption curves and attract lifestyle-focused renters."
-    },
-    {
-      "title": "CMBS Special Servicing Rate Reverses May’s Monthly Decline",
-      "link": "https://www.connectcre.com/stories/cmbs-special-servicing-rate-reverses-mays-monthly-decline/",
-      "excerpt": "The Trepp CMBS special servicing rate increased by 34 basis points in June to 11.20%, reversing May&#8217;s decline. Special servicing rates increased in four of the six major property types in June, reported Trepp. Lodging posted the largest increase, rising 44 bps to 8.89%, and office climbed 36 bps to 17.11%, also led by several large transfers. Mixed-use rose 28 bps to 11.90%, and industrial edged up nine bps to 1.37% Multifamily posted the biggest improvement, falling 27 bps to 8.23%, aided by the large Yorkshire &amp; Lexington Towers loan return. Retail edged down five bps to 12.95%. In June, new transfers totaled roughly $3.08 billion across 42 loans. The largest loan to transfer in June was the $975-million IMC Portfolio loan, which transferred for imminent balloon/maturity default. It&#8217;s backed by a 16-property, 9.6-million-square-foot showroom portfolio in Las Vegas and High Point, NC, with properties constructed between 1907 and 2017. The post CMBS Special Servicing Rate Reverses May&#8217;s Monthly Decline appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-16T13:10:54+00:00",
-      "bullets": [
-        "CMBS special servicing rate rose 34 bps in June to 11.20%; office jumped 36 bps to 17.11%",
-        "Multifamily improved 27 bps to 8.23%, aided by Yorkshire & Lexington Towers loan return to performing",
-        "New transfers totaled $3.08B across 42 loans; lodging rose 44 bps to 8.89%"
-      ],
-      "summary": "The CMBS special servicing rate increased 34 basis points in June to 11.20%, reversing May's decline. Multifamily showed the strongest improvement, falling 27 basis points to 8.23% following a large loan return to performing status. Office posted the largest increase at 36 basis points to 17.11%, reflecting continued distress; new transfers totaled $3.08 billion across 42 loans.",
-      "impact": "Multifamily special servicing improvement signals stabilization of CMBS multifamily collateral, likely reflecting 2023–2024 rent growth and rate resilience. However, office and lodging distress (17.11% and 8.89% respectively) indicate capital stress and loan transfers accelerating in competing property types. For multifamily developers, this suggests capital for multifamily remains available (lower special servicing rate = lower default risk = better debt terms), while office-to-residential conversion or development may face tighter financing conditions if mixed-use sponsors are capital-constrained."
+      "summary": "The City of Miami received a $193 million construction permit for its new 257,000-square-foot civic center at Freedom Park, with topping-off completed July 10. The eight-story building will consolidate city administrative functions from downtown and the 1954 City Hall landmark in Coconut Grove, ending more than 70 years of governance at the Art Deco Pan Am building. The civic center is part of the $1 billion, 130-acre Miami Freedom Park mixed-use development anchored by Inter Miami CF's stadium; project completion is targeted for spring 2028.",
+      "impact": "City investment in Freedom Park civic infrastructure accelerates broader mixed-use development momentum near Miami International Airport, increasing long-term office, retail, and entertainment employment density and supporting multifamily demand in south-central Miami and nearby neighborhoods. Developers should monitor Freedom Park's phased openings (2027–2028) and Inter Miami's tenant draw to forecast residential absorption and rent growth in submarkets within 2–3 miles."
     },
     {
       "title": "Santa Monica, elevated: Related sets new standard for SoCal luxury with lifestyle amenities, Thermador appliances",
@@ -137,27 +197,12 @@
       "cat": "Development",
       "date": "2026-07-16T12:35:00+00:00",
       "bullets": [
-        "Related California delivers 700 Broadway luxury project in Santa Monica with 70K SF amenity space",
-        "Three-building, mixed-cladding design surrounds private 0.75-acre courtyard; rooftop pools, sauna, hot tubs, BBQ",
-        "Interior amenities include Speakeasy-style bar, handmade materials; target resident seeks lifestyle integration"
+        "Related California delivers 700 Broadway luxury residential, Santa Monica; 70K SF amenity-centric design.",
+        "Three buildings (brick and glass), private courtyard (0.75 acres), rooftop pools/hot tubs/sauna; lifestyle-first positioning.",
+        "Thermador appliances, speakeasy bar, natural/handmade materials; targets affluent residents seeking elevated beachside experience."
       ],
-      "summary": "Related California completed 700 Broadway, a luxury residential project in Santa Monica anchored by 70,000 square feet of curated amenity space. The three-building development—two in brick, one in glass/metal—surrounds a 0.75-acre private courtyard and rooftop recreation areas (dual pools, hot tubs, sauna, BBQ). Interior amenities emphasize lifestyle design, including The Reserve speakeasy bar and handcrafted finishes targeting affluent, experience-driven residents.",
-      "impact": "700 Broadway exemplifies the \"amenity arms race\" in West LA luxury markets, where lifestyle programming and outdoor resort-style space command pricing power. The project's 70K SF amenity footprint (likely 15–20% of total GBA) signals that Santa Monica luxury renters willingly trade unit square footage for curated common space and experiential design. Developers targeting affluent coastal/gateway markets should note this shift: amenity-dense, lower unit-count designs may achieve higher rents-per-SF despite smaller individual units, but require high-level design and programming expertise."
-    },
-    {
-      "title": "The New Stakeholder in Data Center Development",
-      "link": "https://commercialobserver.com/2026/07/new-stakeholder-data-center-development/",
-      "excerpt": "A new stakeholder has entered the data center development process. It does not appear on a cap table. It does not sign a lease. But it is now shaping outcomes as much as capital, land and power. The anti-data center movement is no longer a fringe reaction. It is organized, informed and increasingly effective. Consider Missouri, where organized opposition groups are relatively few, but claim more combined members than any other state in the country — more than triple the next closest. Small in number, enormous in reach. That is not a grassroots reaction. That is an organized constituency operating with real discipline. Suhail Y Tayeb. PHOTO: Courtesy NYU Or consider Utah, where Kevin O&#8217;Leary&#8217;s Stratos data center project was originally planned to span an area roughly twice the size of Manhattan. After weeks of resident protests and a formal letter from the state Senate president, the company cut its footprint by three quarters and its own leadership admitted the rollout had been mishandled from the start. That is not a story about one developer&#8217;s mistake. It is a story about what a coordinated stakeholder can now do to a fully financed project, regardless of its economics. Across the country, projects are being delayed, restructured or canceled not because demand is weak, but because opposition is strong. Local groups are coordinating across states, sharing playbooks, and learning how to influence zoning boards, utility commissions and elections. More than 100 local communities have already enacted their own moratoriums, and they did so independently of one another, without any centralized campaign coordinating the effort.What began as isolated project-level opposition has evolved into a broader network of communities comparing experiences, strategies and outcomes. This is not a temporary phase. It is a structural shift in how infrastructure gets approved. For years, data center development followed a familiar pattern. Secure land, line up power, mo",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-16T10:31:14+00:00",
-      "bullets": [
-        "Organized anti-data center opposition movements shaping development outcomes across U.S.; Missouri groups claim record combined membership",
-        "Kevin O'Leary's Stratos project in Utah cut footprint by 75% after state Senate opposition and resident protests",
-        "Anti-data center constituency now a material stakeholder in site selection, entitlements, and feasibility"
-      ],
-      "summary": "Organized anti-data center opposition movements are increasingly affecting development feasibility and project scope across the U.S. Missouri anti-data center groups claim combined membership exceeding any other state—more than triple the next closest. In Utah, O'Leary's Stratos data center project was forced to cut its planned footprint by three-quarters following coordinated resident and state Senate opposition, signaling a new material constraint on industrial development.",
-      "impact": "This trend indirectly affects multifamily by reshaping land availability and municipal bandwidth: as data centers face local opposition and entitlement delays, competing industrial uses (warehouses, logistics) may intensify competition for sites, and jurisdictions may pivot industrial/employment zones toward residential or mixed-use. However, the anti-data center movement also reflects underlying community and environmental concerns (power, water, noise) that may constrain any large-footprint industrial/residential development. Developers should monitor data center opposition in target markets as an indicator of municipal/resident appetite for high-intensity development and regulatory risk."
+      "summary": "Related California's 700 Broadway in Santa Monica is a three-building luxury residential development emphasizing lifestyle amenities over unit count. The project includes nearly 70,000 square feet of curated indoor and outdoor amenity space: a multi-acre private courtyard, rooftop pools, hot tubs, sauna barrels, a speakeasy bar, and recreational areas. Design philosophy blends beachside ease with urban energy; residences feature Thermador appliances and natural materials. The development targets affluent buyers seeking curated luxury experiences.",
+      "impact": "Limited relevance to multifamily development strategy; this is a luxury condo/for-sale project, not rental. However, amenity-density trends and lifestyle positioning reflect broader Santa Monica market tightening and rising per-unit development costs, suggesting rental developers should expect higher construction and capital costs and increased value-capture expectations from coastal LA luxury projects."
     },
     {
       "title": "Moratorium on waterfront project applications in downtown West Palm heads to final vote",
@@ -167,12 +212,12 @@
       "cat": "Development",
       "date": "2026-07-15T23:00:00+00:00",
       "bullets": [
-        "West Palm Beach commissioners approve second reading vote on waterfront moratorium, July 20",
-        "Moratorium applies to S. Flagler Drive corridor; 12+ luxury condo projects totaling 2K+ units in pipeline",
-        "Related Group, Terra, BH Group driving Miami-based condo development; Steve Ross leading downtown buildout"
+        "West Palm Beach moratorium on high-rise waterfront applications (south Monroe to north Southern Blvd, W. Flagler to E. Washington).",
+        "Six-month pause expires January 20, 2027; city hiring Zyscovich for zoning/economic analysis and redevelopment recommendations.",
+        "12+ luxury condo projects totaling 2K+ units in works; Related, Terra, BH Group (Miami-based) driving development spree."
       ],
-      "summary": "West Palm Beach commissioners approved the waterfront moratorium on first reading and scheduled a final vote for July 20. The six-month pause affects high-rise developments in downtown's Flagler Drive corridor. More than a dozen luxury condo projects totaling 2,000+ units are in the works, led by Miami-based developers including Related Group, Terra, and BH Group, with Steve Ross spearheading the buildout.",
-      "impact": "The large pipeline of luxury condo projects (12+ projects, 2K+ units) reflects speculative overheating in West Palm Beach's downtown waterfront, driven by Miami-based capital chasing limited infill sites. The moratorium will create a hard deadline (January 2027) for entitlements and a potential deal acceleration before the pause takes effect. For apartment developers, this signals that condo-for-sale projects are crowding out rental supply in this submarket; any multifamily projects should target workforce/attainable segments or secondary locations outside the Flagler corridor to avoid entitlement delays and political friction."
+      "summary": "West Palm Beach commissioners approved a six-month moratorium on new planned development applications for high-rise waterfront projects in downtown (south of Monroe, north of Southern Boulevard, between Flagler and Washington Road). The pause, effective through January 20, 2027, is a response to rapid downtown transformation and luxury condo development concentration. The city is hiring Zyscovich Architects to analyze zoning and redevelopment strategy. Over a dozen luxury condo projects totaling 2,000+ units are underway, with Related Group, Terra, and BH Group spearheading the boom.",
+      "impact": "Moratorium creates hard deadline pressure for sponsors with pending applications and applications filed before the freeze; expect filing surge through mid-July and potential bid-up of shovel-ready assets. Moratorium also signals political risk to future high-rise approvals and may incentivize shift toward rental (apartment) vs. condo supply; multifamily developers should position to acquire and fast-track entitled rental projects in the Q4 2025–Q1 2026 window before sentiment hardens further."
     },
     {
       "title": "MidPen floats 110-unit affordable housing project on former Wells Fargo site in Sunnyvale",
@@ -182,12 +227,12 @@
       "cat": "Development",
       "date": "2026-07-15T23:00:00+00:00",
       "bullets": [
-        "MidPen Housing proposes 110-unit affordable housing at former Wells Fargo site, 295 South Mathilda Avenue, Sunnyvale",
-        "All units income-restricted except manager's unit; 25% earmarked for previously unhoused; area median income $143.9K",
-        "Proposal reflects Sunnyvale emergence as multifamily destination as AI boom drives tech worker demand"
+        "MidPen Housing proposes 110-unit affordable building at former Wells Fargo site (295 S. Mathilda Ave), Sunnyvale.",
+        "All units save manager's unit income-restricted; 25% designated for previously unhoused individuals; Area Median Income ~$143.9K.",
+        "AI-driven tech worker inflow and office-to-residential conversions fueling Sunnyvale multifamily investment momentum."
       ],
-      "summary": "MidPen Housing is planning a 110-unit affordable housing development in Sunnyvale at a former Wells Fargo bank site. All units except the manager's unit will be income-restricted, with 25% designated for previously unhoused individuals. The project reflects Sunnyvale's emergence as a multifamily destination as AI-driven employment growth and housing demand spill out from San Francisco into Silicon Valley.",
-      "impact": "Sunnyvale is experiencing secondary tech-worker migration and demand spillover from San Francisco, driven by AI/Big Tech expansion and constrained Bay Area housing. The presence of affordable housing development alongside market-rate projects (Beam Reach's 265-unit office-to-residential conversion nearby) signals strong, broad-based residential demand across income segments. Developers should view Sunnyvale as an increasingly competitive infill market where entitlements are moving (mixed-use, conversion-friendly zoning) and rents are climbing relative to San Francisco. The AI boom tailwind suggests sustained job growth; monitor employment data and tech HQ announcements in Sunnyvale/Santa Clara for early-stage demand signals."
+      "summary": "Foster City-based nonprofit MidPen Housing is advancing a 110-unit affordable residential project on a vacant former Wells Fargo bank site in downtown Sunnyvale. All units except a market-rate manager's unit will be income-restricted; 25% will serve formerly unhoused individuals. County area median income is $143,850 (one-person household). The project has support from local advocacy groups and reflects broader multifamily investment surge in Sunnyvale driven by AI-sector growth and office-to-residential conversion interest.",
+      "impact": "Sunnyvale emerging as secondary multifamily hub for Bay Area AI and tech workers as San Francisco office-to-residential conversion and remote-work trends push demand south. Affordable housing at downtown Sunnyvale's core (near transit) signals strong market fundamentals and investor confidence; for-profit developers should accelerate acquisition in Sunnyvale's tech-corridor office parks and mixed-use districts to capture conversion and new-build opportunity ahead of zoning/entitlement tightening."
     },
     {
       "title": "Pair of Frisco entrepreneurs ordered to pay $400M in damages to Georgetown business over alleged fraud scheme",
@@ -197,12 +242,12 @@
       "cat": "Development",
       "date": "2026-07-15T21:00:00+00:00",
       "bullets": [
-        "Frisco entrepreneurs Krishnan and Gounder ordered to pay $400M for fraud scheme over fake 'District' luxury development",
-        "Pair defrauded Georgetown business owner of $21M contract for infrastructure on 400-acre project never intended to build",
-        "Scheme involved dual pitches—small plan to seller, large plan with inflated Army appeal to European bankers"
+        "Frisco entrepreneurs Krishnan and Gounder liable for $400M damages; defrauded Georgetown business owner via fake 'District' waterfront development.",
+        "Scheme: 400-acre luxury River San Gabriel project never meant to materialize; $21M paid for infrastructure by duped partner.",
+        "Krishnan/Gounder previously targeted by SEC (2023) for alleged Ponzi scheme; never secured $5B bond."
       ],
-      "summary": "Frisco entrepreneurs Gopala Krishnan and Sakthivel Gounder were ordered to pay $400 million in damages for defrauding Georgetown business owner Marshall Hussain over a nonexistent luxury development called \"The District.\" The pair obtained a $21 million infrastructure contract for a 400-acre waterfront development, made only symbolic payments, and used dual marketing pitches to solicit a $5 billion bond from European banks. This follows a 2023 SEC action against the pair for an alleged Ponzi scheme.",
-      "impact": "Minimal direct impact on multifamily development. This is a fraud/criminal case with no operational real estate development significance. However, it is a cautionary signal about speculative development promotion in Texas and the necessity of due diligence on founders/sponsors claiming large mixed-use projects, particularly waterfront/resort developments marketed to foreign capital. Developers should monitor sponsor/founder backgrounds, especially in trophy markets (Georgetown, TX), where promotional overreach and misrepresentation are elevated risks."
+      "summary": "A Williamson County jury found Frisco entrepreneurs Gopala Krishnan and Sakthivel Gounder liable for $400 million in damages to Georgetown-based Energy Commissioning Inc. for breach of contract and fraud. The pair marketed a fake 400-acre luxury waterfront development called 'The District' around the San Gabriel River and defrauded the company's owner, Marshall Hussain, by securing a $21 million construction contract for infrastructure that was never meant to materialize. Krishnan and Gounder made only symbolic payments and caused Hussain to lose his home. Both defendants were previously targeted by the SEC in 2023 for an alleged Ponzi scheme.",
+      "impact": "Limited relevance to multifamily development; this is a fraud/litigation case involving real estate scheme operators. However, it signals reputational and legal risk in Central Texas waterfront development deals and underscores importance of counterparty due diligence, particularly with lesser-known developers pitching mega-scale mixed-use projects with vague financing structures."
     },
     {
       "title": "Bellhops and bass fishing: Wildhaven developer bets big on nature-centric luxury in Denton",
@@ -212,57 +257,12 @@
       "cat": "Development",
       "date": "2026-07-15T20:48:20+00:00",
       "bullets": [
-        "An Ki Land Development planning 740-acre Wildhaven luxury resort in Denton, TX; $350–$450M total value",
-        "152 homes priced $1.5M–$3M+; six miles horse trails, 100-key hotel, spa, 10-acre bass fishing pond",
-        "400 acres developed, 300+ preserved; Noble Classic Homes to build first phase; HKS design"
+        "An Ki Land Development (Sarasota) planning Wildhaven luxury resort, Denton, Texas; 740 acres, $350–450M total value.",
+        "152 homes ($1.5M–$3M+), 100-key hotel, restaurants, equestrian, spa, bass pond; 400 acres developed, 300+ preserved.",
+        "Noble Classic Homes building 20 homes in Phase 1; additional builders TBD; positioned as first Wildhaven lifestyle brand location."
       ],
-      "summary": "Sarasota-based An Ki Land Development is planning Wildhaven, a 740-acre master-planned luxury resort in Denton with $350–$450 million in total value. The project will include 152 homes ($1.5M–$3M+), a 100-key hotel, equestrian facilities, spa, and a 10-acre bass fishing pond, with 300+ acres preserved for natural space. Noble Classic Homes will build the first phase; Wildhaven-branded projects are also planned in Colorado and Florida.",
-      "impact": "Wildhaven reflects growing developer interest in lifestyle-centric, nature-themed luxury development in DFW suburban metros, driven by population inflow and affluent household growth in Denton. However, this is a for-sale luxury home and hospitality play, not multifamily rental development. The project signals strong demand for premium lifestyle experiences and experiential amenities (equestrian, fishing, trails) in Sunbelt high-growth markets, which multifamily developers should consider in master-planned community and luxury-mixed-use contexts. Monitor Denton employment and population growth for rental demand spillover into adjacent markets."
-    },
-    {
-      "title": "Pure Paws Veterinary Care to Relocate to 5K SF at Brooklyn’s 1 Putnam Avenue",
-      "link": "https://commercialobserver.com/2026/07/pure-paws-veterinary-care-lease-1-putnam-avenue/",
-      "excerpt": "A pack of Brooklyn veterinarians are taking themselves for a short walk. Pure Paws Veterinary Care is relocating its Brooklyn practice to a larger, nearby location in the Clinton Hill neighborhood. The veterinary office signed a 5,000-square-foot lease at 1 Putnam Avenue, near the intersection of Cambridge Place and Fulton Street. The asking rent for the 10-year lease, signed July 1, was $75 per square foot. Traded first reported the deal. The mixed-use building’s landlord is Abe Betesh. Gabriel and Solomon Betesh of commercial brokerage Momentum Realty Group negotiated the deal on the landlord&#8217;s behalf. “We are excited to welcome Pure Paws Veterinary to a new and expanded site to service Clinton Hill,&#8221; the brokers said in a joint statement. &#8220;We believe in the continued growth of the neighborhood and are proud to play a role in strengthening and enhancing its retail landscape by bringing high-quality businesses to the community.&#8221; Pure Paws Veterinary Care currently operates three New York City locations, at 506 West 42nd Street in Manhattan’s Hell’s Kitchen, at 350 Hudson Street in Hudson Square and at 944 Fulton Street in Brooklyn’s Clinton Hill, according to its website. It is unclear when the practice will relocate from its current Clinton Hill address, which is less than a block from its future location.. Babson Real Estate Advisors&#8216; Richard Bradbury represented the practice in the lease negotiations. Bradbury told Commercial Observer in a statement that Babson was pleased to represent the Pure Paws. “It will give them the opportunity to better serve their loyal and growing customer base for years to come,” Babson said. A representative for Pure Paws did not immediately respond to a request for comment. Emily Davis can be reached at edavis@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-15T20:09:15+00:00",
-      "bullets": [
-        "Pure Paws Veterinary Care relocates to 5K SF at 1 Putnam Avenue, Brooklyn; $75/SF asking rent",
-        "10-year lease signed July 1 in Clinton Hill neighborhood; deal negotiated by Momentum Realty Group brokers",
-        "Expansion signals neighborhood retail/healthcare services growth and landlord confidence in Clinton Hill demand"
-      ],
-      "summary": "Pure Paws Veterinary Care signed a 10-year lease for 5,000 square feet at 1 Putnam Avenue in Brooklyn's Clinton Hill neighborhood at $75 per square foot. The relocation from nearby represents a neighborhood expansion and signals increased veterinary/healthcare tenant demand in the submarket. Momentum Realty Group brokers negotiated the deal on behalf of landlord Abe Betesh.",
-      "impact": "Minimal relevance to multifamily development. This is a small-format retail/services lease in a secondary Brooklyn neighborhood. The $75/SF rent reflects tight retail availability in Clinton Hill but signals no broader residential demand or supply trends. However, the expansion of neighborhood services (veterinary, retail) into previously underserved Clinton Hill blocks may indicate gentrification/demographic upgrading, which could correlate with upward rent pressure in the submarket; monitor for broader neighborhood health-and-wellness/luxury retail clustering as an early-stage demographic signal."
-    },
-    {
-      "title": "Bridges Development Group Buys Kingswood Center in Brooklyn for $31M",
-      "link": "https://commercialobserver.com/2026/07/bridges-development-group-kingswood-center-sale-brooklyn/",
-      "excerpt": "Kingswood Center in Brooklyn’s Midwood neighborhood has a new owner, Commercial Observer has learned. The 229,926-square-foot shopping center at 1630 East 15th Street sold for $31 million to Michael Berfield’s Bridges Development Group, according to broker JLL. The sale marks a steep discount from the $89 million that the shopping center fetched in early 2020, the last time it traded. The three-story, Class B property is currently anchored by T.J. Maxx. A LoopNet listing advertises nearly 100,000 square feet of retail and commercial space available for lease. Kingswood Center was constructed in 2007 and renovated in 2019, according to the listing, and features an on-site parking garage. JLL’s Ethan Stanton, Michael Mazzara and Brendan Maddigan represented the seller, PNC’s Midland Loan Services, in direct negotiations with the buyer. A JLL debt team of Scott Aiese and Alex Staikos secured $34.65 million in acquisition financing for the buyer. The firm declined to disclose the lender. The financing will allow Bridges Development Group to execute a business plan of investing in the property and leasing its vacant space, according to a JLL spokesperson. Midland took possession of the property from its former owner, retail shopping REIT Urban Edge Properties, in 2023. The REIT fell behind on a $66 million commercial mortgage-backed securities (CMBS) loan used to acquire the center in February 2020. Following the ill-timed purchase, the shopping center’s annual net operating income fell to $1.9 million and occupancy declined to 35 percent, The Real Deal reported at the time. Urban Edge Properties still owns the nearby Kingswood Crossing at 1715 East 13th Street, according to its website. Spokespeople for Bridges Development Group and PNC did not immediately respond to requests for comment. Emily Davis can be reached at edavis@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-15T19:20:17+00:00",
-      "bullets": [
-        "Bridges Development Group acquires Kingswood Center in Brooklyn for $31M; 65% discount from 2020 price of $89M",
-        "229.9K SF Class B shopping center in Midwood anchored by T.J. Maxx; 100K SF vacant/available",
-        "JLL secured $34.65M acquisition financing; seller PNC's Midland Loan Services in distressed liquidation"
-      ],
-      "summary": "Bridges Development Group purchased Kingswood Center, a 229,926-square-foot shopping center in Brooklyn's Midwood, for $31 million—a 65% discount from its $89 million sale price in early 2020. The Class B property, anchored by T.J. Maxx, currently has nearly 100,000 square feet of vacant retail/commercial space. JLL arranged $34.65 million in acquisition financing for the buyer.",
-      "impact": "Kingswood Center's steep valuation decline (from $89M to $31M) reflects national retail distress and asset-liability management by distressed lender PNC. However, for multifamily developers, this signals potential opportunity: class B retail centers in secondary Brooklyn neighborhoods (Midwood) may be targets for ground-floor repositioning in mixed-use conversions or intensive redevelopment. The low acquisition cost and large vacant footprint suggest Bridges is positioning for a value-add or conversion play; monitor the property for mixed-use/residential redevelopment signals, which could accelerate if the submarket gentrifies or transit access improves."
-    },
-    {
-      "title": "Data Intelligence Firm Curinos Takes 14K SF at Marx Realty’s 10 Grand Central",
-      "link": "https://commercialobserver.com/2026/07/curinos-lease-marx-realty-10-grand-central/",
-      "excerpt": "Curinos, a global data intelligence firm serving the financial industry, is relocating to Marx Realty’s 10 Grand Central after signing a 14,000-square-foot lease, Commercial Observer has learned. Curinos will move from its current office about two blocks north at 485 Lexington Avenue, though it is unclear when the move will happen. The length of the lease was not disclosed. Asking rents at 10 Grand Central — which is now 98 percent leased, according to the landlord — ranges from $85 to $135 per square foot. Adam Ardise and Rachel Rosenfeld from Cushman &amp; Wakefield represented Curinos in the lease, while JLL’s Mitchell Konsker, Thomas Swartz, Carlee Palmer and Margaux Kelleher represented Marx Realty. Spokespeople for C&amp;W and JLL did not immediately respond to CO’s requests for comment. “The robust leasing activity at 10 Grand Central demonstrates the ongoing appeal of thoughtfully designed workplaces and white glove service that combine to give companies an elevated office experience,” Craig Deitelzweig, CEO of Marx Realty, said in a statement. “Curinos’ decision to relocate within the Grand Central market speaks to the differentiated hospitality-infused experience we’ve created at 10 Grand Central and further strengthens the building’s exceptional tenant roster,” Deitelzweig added. 10 Grand Central is a hospitality-infused office building that offers tenants a variety of amenities, including a reservable house car for transportation, a lounge and cafe on the seventh floor, a 1930s French garden-style outdoor terrace, and a newly opened speakeasy-style restaurant called Highball Ltd. Other tenants at 10 Grand Central include data center developer Edged, bank holding company Merchants Bancorp and research firm Green Street Advisors. Amanda Schiavo can be reached at aschiavo@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-15T19:06:56+00:00",
-      "bullets": [
-        "Curinos, data intelligence firm, relocates to 14K SF lease at Marx Realty's 10 Grand Central, Manhattan",
-        "Building now 98% leased; asking rents range $85–$135/SF; move from 485 Lexington Avenue (two blocks north)",
-        "Cushman & Wakefield and JLL brokered lease; CEO highlights 'elevated office experience' and white-glove service"
-      ],
-      "summary": "Curinos, a global data intelligence firm, signed a 14,000-square-foot lease at Marx Realty's 10 Grand Central in Manhattan after relocating from nearby 485 Lexington Avenue. The building is now 98% leased with asking rents of $85–$135 per square foot. The transaction reflects strong demand for premium Midtown office space and Marx Realty's successful repositioning of the asset.",
-      "impact": "Minimal relevance to multifamily development. This is a premium office lease in Manhattan and signals class A Midtown office strength and landlord investment in amenities/experience. High occupancy (98%) and robust rents ($85–$135/SF) reflect a bifurcated Manhattan office market where trophy assets attract capital while secondary stock languishes. No direct impact on residential supply, demand, or capital. However, strong financial services employment (Curinos serves finance clients) in Midtown suggests sustained workforce demand, which supports underlying Manhattan residential demand for market-rate apartments."
+      "summary": "An Ki Land Development is planning Wildhaven, a 740-acre luxury master-planned resort in Denton combining 152 upscale homes ($1.5M–$3M+ price points), a 100-key hotel, restaurants, equestrian facilities, spa, and a 10-acre bass fishing pond. Total project value is estimated at $350–450 million. Of 740 acres, 400 are slated for development and 300+ preserved for natural experience. Noble Classic Homes will build 20 homes in Phase 1; additional builders will be announced. Wildhaven is positioned as the flagship property in a planned brand expansion to Colorado and Florida.",
+      "impact": "Wildhaven signals strong investor appetite for luxury experiential/lifestyle-driven resort communities in DFW growth corridors north of Dallas, driven by Denton's rapid population and job growth. Successful execution could accelerate land development and presales velocity in North Texas exurban markets; multifamily operators should monitor Denton's absorption and pricing to assess spillover rental demand from luxury homebuyers seeking temporary housing during construction and from resort/hospitality employees."
     }
   ]
 }
