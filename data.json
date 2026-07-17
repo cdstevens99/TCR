@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-17T17:02:05.646995+00:00",
+  "fetchedAt": "2026-07-17T18:55:35.962545+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -10,20 +10,35 @@
     {
       "label": "10Y Treasury",
       "value": "4.54%",
-      "pct": -0.53
+      "pct": -0.7
     },
     {
       "label": "30Y Treasury",
       "value": "5.06%",
-      "pct": -0.69
+      "pct": -0.77
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "99.72",
-      "pct": -0.35
+      "value": "99.78",
+      "pct": -0.29
     }
   ],
   "stories": [
+    {
+      "title": "Miami design board swoons over OKO Lilli, 13th Floor’s Nobu condo towers",
+      "link": "https://therealdeal.com/miami/2026/07/17/oko-lilli-tower-13th-floors-nobu-condo-tower-nab-approvals/",
+      "excerpt": "Vlad Doronin’s second condo tower in Edgewater and 13th Floor Investments’ proposal for a Nobu-branded residential building next to a historic Brickell church are advancing.&#160; The Miami Urban Development Review Board voted in favor of both developments on Wednesday, with most board members gushing over the designs of what would be the latest luxury tower additions to the city’s quickly evolving skyline. One board member voted no on Doronin’s planned building, citing issues with some of the design.&#160; Miami-based OKO Group, led by Doronin, plans the 53-story, 117-unit project, called OKO Lilli Tower, on the half-acre lot at 717 Northeast [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-07-17T18:00:00+00:00",
+      "bullets": [
+        "OKO Group (Doronin) advancing 53-story, 117-unit condo tower in Miami Edgewater; 13th Floor proposing 75-story, 321-unit Nobu tower in Brickell.",
+        "Both projects cleared Miami UDRB design review; final city approval required before construction.",
+        "Ultra-luxury condo market remains active in Miami despite broader market headwinds; little supply constraint at high end."
+      ],
+      "summary": "Two luxury condo towers—OKO Lilli (117 units, Edgewater) and 619 Brickell by Nobu (321 units, Brickell)—advanced past Miami's Urban Development Review Board. Designed by top architecture firms (Adrian Smith + Gordon Gill, ODP), both projects feature high-end finishes and branded amenities. UDRB approval is advisory; city planning director makes final decision. OKO Lilli includes 244 parking spaces and ground-floor retail; Nobu tower replaces parking and school lot adjacent to historic church.",
+      "impact": "Both are condo, not multifamily rental, so limited direct relevance to apartment development. However, they signal continued capital confidence in Miami luxury residential despite market headwinds. For rental developers, the absorption of these ultra-luxury units may reduce condo conversion risk but does not materially shift rental demand curves in Miami—which remains driven by workforce migration and affordability constraints, not luxury supply."
+    },
     {
       "title": "CRE Comes Together at MADE Bush Terminal for Cocktails and an Exciting New Development",
       "link": "https://commercialobserver.com/2026/07/cre-made-bush-terminal-new-development/",
@@ -32,12 +47,27 @@
       "cat": "Commercial",
       "date": "2026-07-17T16:53:22+00:00",
       "bullets": [
-        "MADE Bush Terminal, Sunset Park Brooklyn, hosts mixed-use industrial/creative tenants.",
-        "Event venue signals demand for flexible light-industrial space in Brooklyn.",
-        "No direct multifamily component disclosed; primarily office, retail, hospitality focus."
+        "MADE Bush Terminal (Sunset Park, Brooklyn) hosted mixed-use networking event; hosts brewery, 1,000-capacity music venue, light industrial tenants.",
+        "NYCEDC assists leasing; Building A already occupied by multiple tenants.",
+        "Industrial-mixed-use hybrid model gaining traction in post-industrial Brooklyn submarkets."
       ],
-      "summary": "MADE Bush Terminal, a mixed-use complex in Sunset Park, Brooklyn, opened a 1,000-capacity music venue and hosts light industrial and creative tenants. The NYCEDC manages leasing for the property. This signals strong tenant demand for adaptive-reuse industrial space in outer-borough Brooklyn.",
-      "impact": "Minimal direct multifamily impact. However, the successful leasing and activation of industrial/creative space in Sunset Park indicates broader neighborhood momentum that could support future residential development, particularly mixed-use projects targeting younger professionals and creative workers seeking proximity to Brooklyn's emerging employment clusters."
+      "summary": "Commercial Observer held summer networking event at MADE Bush Terminal, a new mixed-use development in Sunset Park, Brooklyn featuring light industrial, food-and-beverage, and live-event components. NYCEDC's Bridget Chansakul handles leasing. Building A is already leased to early tenants. The event highlighted the complex's role as a hub for creative and logistics operators seeking flexible industrial space in Brooklyn.",
+      "impact": "Minimal direct multifamily impact. MADE Bush Terminal is industrial-retail-hospitality mixed-use; does not add rental apartment supply or signal demand shifts. However, the continued viability of mixed-use industrial redevelopment in Sunset Park suggests sustained demand for flexible creative/logistics space, which may compete with residential zoning conversion opportunities on similar sites in the neighborhood."
+    },
+    {
+      "title": "Palm Beach County nixes proposed Project Tango data center",
+      "link": "https://therealdeal.com/miami/2026/07/17/palm-beach-county-rejects-data-center-proposal/",
+      "excerpt": "Plans for a proposed data center in Palm Beach County hit a major roadblock Wednesday after county commissioners rejected a zoning application that would have allowed the project’s development.&#160; At the end of a 12-hour hearing, officials voted 5-1 to deny an amended zoning application that would have permitted for a 1 million-square-foot data center at 20125 State Road 80/Southern Boulevard, the South Florida Business Journal reported. The project also would have included 2.3 million square feet of warehouses and 216,000 square feet for minor utility use.&#160; Plans for Central Park Commerce Center, also known as Project Tango, were filed [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-07-17T16:45:00+00:00",
+      "bullets": [
+        "Palm Beach County commissioners voted 5-1 to deny Project Tango zoning for 1M SF data center, 2.3M SF warehouses on ~200-acre parcel.",
+        "PBA Holdings owns ~130 acres; 12-hour hearing with 80+ speakers opposed; motion denied without prejudice, allowing resubmission.",
+        "Data center demand rejected; industrial/warehouse already approved; community opposition halted tech infrastructure."
+      ],
+      "summary": "Palm Beach County commissioners rejected a zoning application for Project Tango (Central Park Commerce Center), which would have permitted a 1 million-square-foot data center plus 2.3 million square feet of warehouses on a ~200-acre parcel in unincorporated county. PBA Holdings, a joint venture of four entities, filed the application. Hundreds of community members and over 80 public speakers opposed the project, citing infrastructure and community impacts. The developer had already secured approval for 2 million square feet of warehousing but can pursue data centers via separate permitting.",
+      "impact": "Data center rejection signals strong community resistance to dense tech infrastructure in exurban South Florida, which may slow industrial/logistics land value appreciation in Palm Beach County's peripheral corridors. For multifamily, this reduces the likelihood of job anchors and population magnets from data-center payroll in the area. However, the earlier warehouse approval remains valid, so light logistics and fulfillment tenants may still drive some inbound worker migration and rental demand in West Palm Beach and surrounding submarkets—albeit at lower velocity than if a major tech HQ or data campus had been greenlit."
     },
     {
       "title": "Stetson’s Law School, Bromley Partnering on Tampa Mixed-Use Venture",
@@ -47,12 +77,12 @@
       "cat": "Commercial",
       "date": "2026-07-17T16:36:38+00:00",
       "bullets": [
-        "Stetson University College of Law Tampa, Bromley Companies planning 664 multifamily units, 300 hotel rooms.",
-        "6.5-acre redevelopment with late 2027 groundbreaking; rezoning approval pending.",
-        "Mixed-use phased development preserves law center operations; tax implications for university partner."
+        "Stetson University College of Law partnering with Bromley Companies on 6.5-acre Tampa mixed-use redevelopment: 664 multifamily units, 440K SF office, 37.5K SF retail, 300 hotel keys.",
+        "Late 2027 groundbreaking target; phased development; university retains law center ownership and hotel/parking access.",
+        "Rezoning application filed with Tampa City Council; no disruption to ongoing law classes."
       ],
-      "summary": "Stetson University and Bromley Companies plan a phased mixed-use redevelopment of the Tampa Law Center campus (6.5 acres) featuring 664 multifamily units, 300 hotel keys, 440,000 sq ft office, and 37,450 sq ft retail. Groundbreaking targeted for late 2027 pending City Council rezoning approval. The university retains ownership of the law center and permanent access to hotel and parking.",
-      "impact": "Significant supply addition for Tampa multifamily market. The 664-unit project, coupled with institutional partnership providing land/zoning certainty, signals developer confidence in Tampa's education-anchored growth corridor. Permanent hotel/parking use reserves upside value for the university; project enables institutional capital recycling while introducing workforce and market-rate housing near downtown employment."
+      "summary": "Stetson University and Bromley Companies plan a phased mixed-use redevelopment of the Stetson Law Tampa Law Center and surrounding 6.5-acre site. The project includes 664 apartment units, 440,000 square feet of office, 37,450 square feet of retail, and 300 hotel rooms. Groundbreaking targeted for late 2027. The university retains ownership of the law center and permanent access to hotel and parking. A rezoning application was filed with Tampa City Council.",
+      "impact": "664 units in Tampa market signals institutional anchor-driven multifamily development gaining traction in tier-2 Sun Belt markets. Bromley's presence and scale (664 units + mixed-use) indicates strong developer confidence in Tampa rental fundamentals driven by education anchor tenancy, professional workforce demand (law school), and hospitality integration. This project de-risks site assembly in underutilized central urban locations and may attract additional capital to similar university-adjacent mixed-use opportunities in Tampa, lifting rents and cap rates in the education corridor."
     },
     {
       "title": "Apartment Developer Pursuing Phillips Place for Multifamily Community",
@@ -62,12 +92,12 @@
       "cat": "Commercial",
       "date": "2026-07-17T16:30:23+00:00",
       "bullets": [
-        "Mid-America Apartment Communities seeking rezoning for 275-unit development at Phillips Place, Charlotte SouthPark.",
-        "Simon Property Group acquired mixed-use center November 2025 for $144.8M; former Regal Cinemas site.",
-        "MAA has 20+ properties across Charlotte region; conversion signals decline in traditional retail demand."
+        "Mid-America Apartment Communities (MAA) seeking zoning change for 275-unit apartment + 15K SF retail at Phillips Place SouthPark, Charlotte.",
+        "Site of former Regal Cinemas (demolished 2022); Simon Property Group acquired Phillips Place in Nov 2025 for $144.8M.",
+        "MAA operates 300+ properties across 16 states; Charlotte portfolio now 20+ properties since 2010 entry."
       ],
-      "summary": "Mid-America Apartment Communities is pursuing a zoning change to build 275 apartments and 15,000 sq ft retail at Phillips Place in Charlotte's SouthPark submarket, on the site of a demolished Regal Cinemas. Simon Property Group acquired the 134,000-sq-ft mixed-use property in November 2025 for $144.8M. MAA has operated 20+ Charlotte-area properties since 2010.",
-      "impact": "Strong signal of multifamily conversion appetite in Charlotte's premier retail corridor. Simon's acquisition and MAA's zoning push suggest traditional retail assets in high-traffic mixed-use centers are becoming development targets for residential. This de facto retail-to-residential conversion indicates demand strength in Charlotte SouthPark and SPG's openness to mixed-use repositioning—key for other retail-heavy assets across the sunbelt."
+      "summary": "Mid-America Apartment Communities is pursuing a zoning change to develop a 275-unit apartment complex and 15,000 square feet of retail at Phillips Place in SouthPark, Charlotte, on the site of the former Regal Cinemas demolished in 2022. Simon Property Group acquired the 134,000-square-foot mixed-use center in November 2025 from Lincoln and The Village Collection for $144.8 million. MAA has operated 300+ properties in 16 states and entered Charlotte in 2010, now operating 20+ properties in the region.",
+      "impact": "SPG's recent $144.8M acquisition of Phillips Place suggests REITs are actively repositioning underperforming retail centers into mixed-use (retail + residential) through partnership with apartment operators. This signals capital re-direction from pure retail to hybrid models in tier-1 suburbs. For multifamily developers, the MAA zoning push indicates strong Charlotte rental demand and willingness from major operators to convert Class-B retail anchors to residential. Success on this 275-unit conversion could unlock similar opportunities across Charlotte's aging retail base, accelerating supply and potentially moderating rent growth in SouthPark and similar submarkets."
     },
     {
       "title": "S2 Capital Offloads 229-Unit Plano Rental Community",
@@ -77,12 +107,12 @@
       "cat": "Commercial",
       "date": "2026-07-17T16:26:32+00:00",
       "bullets": [
-        "S2 Capital sells Hathaway at Willow Bend, 229-unit Plano garden-style community to Granite Towers Equity Group.",
-        "DFW added 604,400 jobs (16.3% growth) 2019–2026; leads nation in employment growth.",
-        "Strong fundamentals cited; acquisition financing arranged by Newmark; market remains active."
+        "S2 Capital Acquisitions sold Hathaway at Willow Bend, 229-unit garden-style community in West Plano, Texas, to Granite Towers Equity Group.",
+        "DFW multifamily market added 604.4K jobs (16.3% growth) 2019–2026, strongest U.S. employment growth.",
+        "Newmark arranged sale and acquisition financing; continued investor appetite for Plano rental assets."
       ],
-      "summary": "S2 Capital sold Hathaway at Willow Bend, a 229-unit garden-style multifamily property in West Plano, Texas, to Granite Towers Equity Group. Newmark arranged the sale and acquisition financing. DFW employment grew 16.3% (604,400 jobs added) from 2019–2026, leading the nation.",
-      "impact": "Portfolio secondary-market exit in a fundamentally strong DFW submarket. The sale reflects seller's likely capital recycling; continued buyer appetite in West Plano signals sustained multifamily health despite rising rates, underpinned by DFW's dominant employment growth. This supports development feasibility across DFW metros—active acquisition market reduces sponsorship exit risk and sustains lending."
+      "summary": "S2 Capital Acquisitions sold Hathaway at Willow Bend, a 229-unit garden-style multifamily community at 2525 Preston Road in West Plano, Texas, to Granite Towers Equity Group. Newmark arranged the sale and acquisition financing. The Dallas-Fort Worth market added more than 604,400 jobs from 2019 through 2026, a 16.3% increase—leading the nation in employment growth. The property offers one-, two-, and three-bedroom residences, including townhomes, plus amenities (pools, fitness, bark park).",
+      "impact": "DFW's outsized employment growth (604K jobs, #1 U.S. 2019–2026) continues to drive multifamily investor demand and price appreciation. The sale of a stabilized 229-unit asset signals strong secondary buyer demand for Class-B multifamily in West Plano suburbs. Granite Towers' acquisition and Newmark's financing arrangement indicate capital remains readily available for DFW multifamily despite broader market tightening. For developers, DFW's sustained job growth and tight cap rates imply limited new-supply opportunity at market rates; focus should shift to workforce/affordable or premium urban infill to differentiate and capture pricing power."
     },
     {
       "title": "NYC Multifamily Sales Reflect “Two Very Different Markets” in Q2",
@@ -92,27 +122,27 @@
       "cat": "Commercial",
       "date": "2026-07-17T16:23:54+00:00",
       "bullets": [
-        "NYC multifamily Q2 2026: $2.46B (298 transactions), up 25% YoY volume, down 4% transaction count.",
-        "Manhattan free-market rents up 10% YoY; rent-stabilized valuations reset downward, refinancing at 2x original rates.",
-        "Brooklyn, Bronx, Queens saw double-digit dollar-volume declines; affordable housing remains resilient institutional demand."
+        "NYC Q2 2026 multifamily sales: $2.46B across 298 transactions (+25% Y-O-Y dollar volume, -4% Y-O-Y transaction count); 367 properties traded (-11% Y-O-Y).",
+        "Manhattan below 96th St. (+315% Y-O-Y dollar volume, +21% transaction count); rents +10% Y-O-Y; free-market strength vs. rent-stabilized distress.",
+        "Brooklyn, Bronx, Queens all saw double-digit dollar-volume declines; rent-stabilized owners exiting; affordable housing draws institutional capital."
       ],
-      "summary": "NYC multifamily Q2 2026 sales reached $2.46B across 298 transactions (up 25% YoY in dollars, down 4% in count). Manhattan free-market rents grew 10% YoY with strong high-conviction buyer activity; Manhattan below 96th Street saw 315% YoY dollar-volume increase. Rent-stabilized assets face steep valuation resets amid rising expenses and refinancings at double original rates. Brooklyn, Bronx, and Queens declined double-digit YoY on dollars.",
-      "impact": "Bifurcated market creates distinct development and investment opportunities. Manhattan free-market supply-constrained assets command premiums and likely attract development capital seeking value-create through renovation and rent growth. Rent-stabilized portfolio exits from longtime owners signal institutional buyer opportunity for value-add repositioning (if legal/regulatory path exists). Outer-borough weakness suggests softer demand fundamentals—developers should focus on cost control and affordability/mixed-income products in Brooklyn/Bronx/Queens to anchor feasibility."
+      "summary": "NYC multifamily sales totaled $2.46 billion across 298 transactions in Q2 2026, up 25% year-over-year in dollar volume but down 4% in transaction count, with 367 properties traded (down 11% Y-O-Y). Manhattan below 96th Street led with a 315% increase in dollar volume and 21% increase in transaction volume. Manhattan free-market rents are up 10% Y-O-Y, with high-conviction buyers acquiring supply-constrained assets at steep premiums. Conversely, rent-stabilized assets face a valuation reset amid rising expenses and refinancings at double historical rates; longtime owners are exiting. Brooklyn, the Bronx, and Queens all posted double-digit dollar-volume declines. Affordable housing remains resilient, drawing deep institutional demand.",
+      "impact": "NYC multifamily market has bifurcated sharply: free-market Manhattan strength (+315% dollar volume, +10% rent growth) reflects flight-to-quality and supply constraint, while rent-stabilized and outer-borough assets face forced exits and distress sales. For developers, this signals: (1) Manhattan free-market development commands investor premiums despite rates/cap spreads; (2) rent-stabilized portfolio acquisitions at discounts may offer value for operators with 10+ year hold horizons; (3) affordable housing (government-backed, stable cash flow) remains defensive and attracts institutional capital, justifying new construction in all boroughs if subsidy/LIHTC available. Outer-borough weakness suggests softer rents and selective development—prioritize only highest-growth/employment corridors (Long Island City, Astoria, Downtown Brooklyn)."
     },
     {
-      "title": "Dallas Development Duo Opens 168-Unit Mixed-Income Community",
+      "title": "Dallas Developer Duo Opens 168-Unit Mixed-Income Community",
       "link": "https://www.connectcre.com/stories/dallas-development-duo-opens-168-unit-mixed-income-community/",
-      "excerpt": "Bonner Carrington and Sycamore Development opened Cypress Creek Montfort Drive, a mixed-income community of 168 apartment homes in North Dallas. Located at 14119 Montfort Drive, Cypress Creek Montfort Drive features 116 apartment homes that are income-restricted for residents earning between 30% and 80% of the area median income (AMI), with 52 apartment homes offered at market rate. One-, two-, and three-bedroom apartment homes are available with private balconies. Community amenities include a fitness center, an outdoor grilling station by the pool, a business center with private work pods, and a pet spa. Financing for the community was made possible through the collaboration of multiple public and private partners, including: ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Federal 9% Low-Income Housing Tax Credit equity syndicated by Hunt Capital Partners, awarded by the Texas Department of Housing and Community Affairs&nbsp; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Construction and permanent financing from East West Bank&nbsp; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A soft loan from the City of Dallas&nbsp; The community was built by Moss Construction, with Arrive Architecture Group serving as architect. Join the region’s leading multifamily owners, developers, investors, lenders, and brokers at Connect Texas Multifamily on August 13 in Dallas for a focused discussion on the market forces redefining Texas real estate. Be in the room with the decision-makers driving deals and growth across Texas. Register today: www.ConnectTXMF2026.com. The post Dallas Development Duo Opens 168-Unit Mixed-Income Community appeared first on Connect CRE.",
+      "excerpt": "Bonner Carrington and Sycamore Development opened Cypress Creek Montfort Drive, a mixed-income community of 168 apartment homes in North Dallas. Located at 14119 Montfort Drive, Cypress Creek Montfort Drive features 116 apartment homes that are income-restricted for residents earning between 30% and 80% of the area median income (AMI), with 52 apartment homes offered at market rate. One-, two-, and three-bedroom apartment homes are available with private balconies. Community amenities include a fitness center, an outdoor grilling station by the pool, a business center with private work pods, and a pet spa. Financing for the community was made possible through the collaboration of multiple public and private partners, including: ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Federal 9% Low-Income Housing Tax Credit equity syndicated by Hunt Capital Partners, awarded by the Texas Department of Housing and Community Affairs&nbsp; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Construction and permanent financing from East West Bank&nbsp; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A soft loan from the City of Dallas&nbsp; The community was built by Moss Construction, with Arrive Architecture Group serving as architect. Join the region’s leading multifamily owners, developers, investors, lenders, and brokers at Connect Texas Multifamily on August 13 in Dallas for a focused discussion on the market forces redefining Texas real estate. Be in the room with the decision-makers driving deals and growth across Texas. Register today: www.ConnectTXMF2026.com. The post Dallas Developer Duo Opens 168-Unit Mixed-Income Community appeared first on Connect CRE.",
       "source": "Connect CRE",
       "cat": "Commercial",
       "date": "2026-07-17T16:21:20+00:00",
       "bullets": [
-        "Cypress Creek Montfort Drive opens 168 units North Dallas: 116 affordable (30-80% AMI), 52 market-rate.",
-        "9% LIHTC equity, East West Bank financing, City of Dallas soft loan; mixed-income model proven.",
-        "Dallas public-private partnerships enabling workforce housing; tax-credit structure de-risks affordable development."
+        "Bonner Carrington and Sycamore Development opened Cypress Creek Montfort Drive, 168-unit mixed-income community in North Dallas: 116 units income-restricted (30–80% AMI), 52 market-rate.",
+        "Federal 9% LIHTC equity (Hunt Capital Partners), construction/permanent financing from East West Bank, City of Dallas soft loan.",
+        "One-, two-, three-bedroom homes; fitness, pool, business center, pet spa; mixed-income model signals strong public-private collaboration."
       ],
-      "summary": "Bonner Carrington and Sycamore Development opened Cypress Creek Montfort Drive, a 168-unit mixed-income community in North Dallas with 116 affordable units (30–80% AMI) and 52 market-rate units. Financing included 9% LIHTC equity (Hunt Capital Partners), East West Bank construction/permanent loans, and a Dallas soft loan. The property offers one-, two-, and three-bedroom units and full amenities.",
-      "impact": "Model demonstrates viability of dense mixed-income multifamily in Dallas with layered public-private capital. The 9% LIHTC structure, municipal soft debt, and private construction/perm financing show how developers can build workforce housing at scale in supply-constrained sunbelt markets. This template is replicable across Dallas and other high-growth metros facing affordability pressure; success signals city willingness to deploy soft capital for housing, reducing sponsor equity need and improving returns on affordable-focused development."
+      "summary": "Bonner Carrington and Sycamore Development opened Cypress Creek Montfort Drive, a 168-unit mixed-income community in North Dallas (14119 Montfort Drive). The project comprises 116 income-restricted apartments (30–80% AMI) and 52 market-rate units. Financing included federal 9% LIHTC equity syndicated by Hunt Capital Partners (via TDHCA), construction and permanent financing from East West Bank, and a soft loan from the City of Dallas. Amenities include fitness, pool, business center, and pet spa. Moss Construction was the general contractor; Arrive Architecture Group the designer.",
+      "impact": "Mixed-income LIHTC delivery in Dallas signals strong tax-credit market conditions and public financing availability, which typically precedes broader multifamily expansion. Public-private capital stack (federal LIHTC, bank financing, city soft loan) indicates Dallas municipalities are actively deploying incentives to support affordable/workforce housing amid high market-rate rents. For developers, success in LIHTC-financed mixed-income projects de-risks affordable components and unlocks institutional investor pools; expect similar projects to cluster in North Dallas and suburbs where land costs and labor remain feasible for 9% credit returns. This signals emerging affordability pressure in Dallas rental market warranting subsidized product supply."
     },
     {
       "title": "Logistics Firm Highline Commerce Grows to 60K SF at Industry City, Thanks to Robots",
@@ -122,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-07-17T16:07:55+00:00",
       "bullets": [
-        "Highline Commerce expands to 60,000 sq ft at Industry City Brooklyn, adding 18,000 sq ft in five-year renewal.",
-        "E-commerce 3PL uses humanoid robots (Ultra Robotics tenant partnership) for 30% of fulfillment; automation drives occupancy retention.",
-        "Industrial submarket benefiting from logistics/automation tenant stickiness in mixed-use setting."
+        "Highline Commerce, third-party logistics firm, expanded at Brooklyn's Industry City from 42K to 60K SF (18K SF addition); five-year lease renewal.",
+        "Tenant uses humanoid robots (Ultra Robotics partner) to fulfill 30% of client orders; heavy robotics/automation deployment in urban logistics.",
+        "Second expansion in four years signals robust e-commerce fulfillment demand and tech-enabled industrial viability in Sunset Park."
       ],
-      "summary": "Highline Commerce, a Brooklyn-based third-party logistics provider, renewed and expanded its lease at Industry City in Sunset Park to 60,000 sq ft total (adding 18,000 sq ft over five years). The company leverages humanoid robots (partnered with fellow tenant Ultra Robotics) to fulfill approximately 30% of client orders. The space houses fulfillment, office, and social areas.",
-      "impact": "Demonstrates underlying strength of Brooklyn's mixed-use industrial ecosystem and the durability of last-mile logistics tenancy. Automation adoption by high-growth 3PLs justifies both renewal and expansion, suggesting robust demand for flexible industrial space in waterfront/transit-proximate submarkets. For multifamily developers near industrial clusters (e.g., Sunset Park, Williamsburg waterfront), this signals strong job/income stability in adjacent residential catchments, supporting rent growth and absorption assumptions."
+      "summary": "Highline Commerce, a Brooklyn-based third-party logistics provider specializing in early-stage e-commerce fulfillment, renewed and expanded its lease at Industry City in Sunset Park from 42,000 square feet to 60,000 square feet (18,000 SF addition) on a five-year deal. The company has now more than doubled its footprint at the mixed-use industrial campus in four years. Highline has partnered with fellow Industry City tenant Ultra Robotics to deploy humanoid robots that fulfill up to 30% of client orders, driving operational efficiency and growth.",
+      "impact": "Minimal direct multifamily impact. However, Highline's 60K SF footprint and rapid expansion in Sunset Park, combined with adjacent mixed-use (MADE Bush Terminal), signals sustained tech-enabled logistics density in post-industrial Brooklyn. This may compress available industrial land for conversion to residential/mixed-use and sustain high industrial rents, which can support higher ground-floor commercial rents in mixed-use projects. For multifamily developers seeking logistics/industrial ground-floor anchors, Sunset Park's roster (Highline, MADE, Industry City) demonstrates strong operator demand and absorption, suggesting mixed-use multifamily with light-industrial ground floors may perform well in the neighborhood."
     },
     {
       "title": "Bakery Shop Cafe Aroma to Open New Spot on the Upper East Side",
@@ -137,12 +167,12 @@
       "cat": "Commercial",
       "date": "2026-07-17T16:05:12+00:00",
       "bullets": [
-        "Cafe Aroma opens 2,200 sq ft retail space at 1410 Madison Avenue, Upper East Side; landlord Avenues Equity Partners.",
-        "Manhattan retail comps: $252/sq ft asking rent Q2 2026; high-traffic residential-anchored location near Mount Sinai.",
-        "Ground-floor retail activation in residential building; F&B tenant signals consumer confidence in UES retail."
+        "Cafe Aroma, family-owned coffee/bakery, signed 2,200 SF retail lease at 1410 Madison Avenue (Carnegie Hill, Upper East Side) in five-story residential building.",
+        "Upper East Side retail average asking rent Q2 2026: $252/SF; location cited for proximity to Mount Sinai, dense residential base.",
+        "Neighborhood retail leasing active; coffee/café tenants filling ground-floor spaces in residential buildings."
       ],
-      "summary": "Cafe Aroma, a family-owned coffee shop and bakery, leased 2,200 sq ft of retail space at 1410 Madison Avenue in Manhattan's Carnegie Hill (Upper East Side) at the base of a five-story residential building owned by Avenues Equity Partners. The area's average retail asking rent was $252/sq ft in Q2 2026. The deal was brokered by Meridian Capital Group and eRealty Advisors.",
-      "impact": "Minimal direct development impact. However, successful ground-floor F&B leasing in an Upper East Side residential building underscores the viability and resilience of integrated retail-residential mixed-use in Manhattan's prime neighborhoods. For multifamily developers planning ground-floor activations in Manhattan, this signals tenant interest in high-traffic residential nodes and justifies retail hold-ready units or flexible ground-floor designs."
+      "summary": "Family-owned coffee shop and bakery Cafe Aroma signed a 2,200-square-foot retail lease at 1410 Madison Avenue in the Carnegie Hill neighborhood of Manhattan's Upper East Side. The space is at the base of a five-story residential building owned by Avenues Equity Partners. Meridian Capital Group represented the landlord. Average asking rent for Upper East Side retail was $252 per square foot in Q2 2026. The location is near Mount Sinai and Carnegie Hill's dense residential population.",
+      "impact": "Minimal direct impact to multifamily development. However, successful ground-floor café leasing in residential buildings on the UES suggests strong retail demand and density-driven foot traffic, which supports value-add or new multifamily projects with retail components. The $252/SF asking rent for neighborhood retail (vs. ~$150–$200/SF in secondary markets) indicates premium pricing power in high-density residential neighborhoods, justifying higher mixed-use development density and ROI in Upper East Side conversions and new construction."
     },
     {
       "title": "Hudson Bay Capital Supplies $60M Refi for Redeveloped N.J. Office Campus",
@@ -152,12 +182,12 @@
       "cat": "Commercial",
       "date": "2026-07-17T15:56:02+00:00",
       "bullets": [
-        "Hudson Bay Capital $60M bridge refi for Bell Works Fort Monmouth, 276,900 sq ft mixed-use office/retail campus.",
-        "Jersey Mike's HQ relocation tenant anchor; Netflix $1B studio complex development nearby Fort Monmouth.",
-        "Suburban office redevelopment as mixed-use destination amid office decline; public-asset repurposing catalyst for regional revival."
+        "Hudson Bay Capital provided $60M bridge loan to Somerset Development/HIG Capital JV for Bell Works Fort Monmouth refinance in Tinton Falls, New Jersey.",
+        "276.9K SF redeveloped office campus; Jersey Mike's headquarters incoming; mixed-use flexible office/retail repositioning.",
+        "Former Commvault HQ (2014); near Netflix $1B studio complex; suburban NJ mixed-use gaining refinance capital."
       ],
-      "summary": "A joint venture between Somerset Development and HIG Capital secured a $60M bridge loan from Hudson Bay Capital to refinance Bell Works Fort Monmouth, a 276,900-sq-ft mixed-use office campus in Tinton Falls, N.J. Jersey Mike's sandwich chain is relocating its headquarters to the property. Commvault originally developed the site as its HQ in 2014; Somerset acquired it last year to repurpose as flexible office and retail. Netflix is building a $1B studio complex nearby.",
-      "impact": "Signals successful suburban office-to-mixed-use conversion and private-sector anchoring via corporate HQ relocation. Jersey Mike's move signals confidence in Fort Monmouth submarket revival. Netflix's nearby $1B studio investment and HQ tenant migration create employment clustering that could support multifamily development on adjacent or underutilized suburban parcels. Developers should scout Fort Monmouth-area land for workforce housing targeting office/tech/media workers in this emerging secondary market."
+      "summary": "A joint venture between Somerset Development and HIG Capital closed a $60 million bridge loan from Hudson Bay Capital to refinance Bell Works Fort Monmouth, a 276,900-square-foot mixed-use office campus in Tinton Falls, New Jersey. Originally developed as Commvault's headquarters in 2014, Somerset acquired the property last year and has been repositioning it as flexible office and retail space. Jersey Mike's sandwich chain will soon establish its headquarters at the site. The campus is located near Netflix's $1 billion studio complex under construction in the region.",
+      "impact": "Suburban NJ mixed-use office-to-flex repositioning gaining refinance capital suggests asset-class demand for adaptive-reuse office campuses outside major metros. While not multifamily, the trend signals capital appetite for mixed-use conversions in suburban corridors with HQ/corporate anchors. For multifamily developers, Jersey Mike's HQ anchor (and proximate Netflix studio) may drive worker housing demand in Tinton Falls/Monmouth County exurbs, creating opportunity for workforce multifamily near Fort Monmouth. However, the $60M refi for 277K SF office/retail suggests low leverage and modest returns, implying market caution on suburban flex office; residential-focused developers should target this corridor early before office-to-residential conversion becomes cost-prohibitive."
     },
     {
       "title": "New Empire Corporation Buys Midtown Parking Garage for $33M",
@@ -167,12 +197,12 @@
       "cat": "Commercial",
       "date": "2026-07-17T15:36:04+00:00",
       "bullets": [
-        "New Empire Corporation acquires Midtown parking garage at 10 East 30th Street for $33.5M; demolition application filed.",
-        "Ponce Bank provided $20M mortgage; deal undisclosed use, marketed as Manhattan expansion site.",
-        "Parking-to-residential conversion play; New Empire planning luxury condo 567 Second Avenue nearby."
+        "New Empire Corporation (Bentley Zhao) purchased Midtown Manhattan parking garage (10 East 30th Street) for $33.5M; filed demolition permit.",
+        "Seven-story, 48.5K SF structure; $20M Ponce Bank mortgage; New Empire plots Manhattan expansion and luxury condo development.",
+        "Nearby, New Empire planning 14-story luxury condo at 567 Second Avenue; single-family teardowns continue in prime Manhattan submarkets."
       ],
-      "summary": "New Empire Corporation acquired a seven-story, 48,500-sq-ft Midtown parking garage at 10 East 30th Street for $33.5M and immediately filed for demolition permits with NYC DOB. A $20M mortgage from Ponce Bank financed the deal. The developer has not disclosed redevelopment plans but markets the site as part of its Manhattan expansion; New Empire is also developing a 14-story luxury condo at 567 Second Avenue (four blocks east).",
-      "impact": "Opportunistic acquisition of underutilized parking asset by residential developer signals continued tightness in Manhattan developable land. New Empire's rapid pivot to demolition suggests high confidence in residential-use entitlements or market demand in the Kips Bay/Murray Hill submarket. The $33.5M acquisition price for 48,500 sq ft (~$690/sq ft) implies developer expects significant upside from residential conversion, indicating strong market fundamentals or zoning allowance for higher density/residential use in Midtown—watch for similar parking conversions as Manhattan zoning continues to shift toward housing."
+      "summary": "New Empire Corporation, a NYC-based developer of residential mixed-use buildings, purchased a seven-story, 48,500-square-foot parking garage at 10 East 30th Street in Midtown Manhattan for $33.5 million. The developer filed an application to demolish the structure. New Empire financed the purchase with a $20 million mortgage from Ponce Bank. The developer has not disclosed exact plans for the site but has listed the address as part of its \"Manhattan expansion\" portfolio. Nearby at 567 Second Avenue, New Empire is planning a 14-story luxury condominium building.",
+      "impact": "Parking garage acquisition and demolition for Manhattan residential redevelopment signals ongoing site assembly by residential developers in constrained Midtown submarkets. New Empire's $33.5M purchase for 48.5K SF parking (≈$690/SF land cost) and adjacent 14-story luxury condo pipeline indicates strong developer confidence in Midtown residential fundamentals despite office headwinds. For multifamily operators, continued parking-to-residential conversions in Midtown reduce operational parking supply and may justify higher residential rents in car-free or reduced-parking units. However, condo development (not rental) limits direct multifamily relevance; the macro signal is that Midtown remains a target for luxury residential capital despite office market softness."
     },
     {
       "title": "Musk’s companies prep $5M Seaholm office renovation",
@@ -182,12 +212,12 @@
       "cat": "Development",
       "date": "2026-07-17T15:27:33+00:00",
       "bullets": [
-        "Musk-affiliated companies occupying 35,000 sq ft Seaholm Power Plant downtown Austin; $5.2M office renovation underway.",
-        "SpaceX/Wit Tech driving Terafab semiconductor fab in Grimes County; $55B project, 100M sq ft potential, tax breaks secured.",
-        "Austin major employer expansion; office renovation signals company permanence; regional impact on housing demand, labor clustering."
+        "Wit Tech (SpaceX-affiliated company) planning $5.2M renovation at Seaholm Power Plant, Downtown Austin; Musk companies occupy 35K SF at 800 West Cesar Chavez.",
+        "Elon Musk pursuing $55B Terafab semiconductor manufacturing plant in Grimes County (6,000+ acres); tax breaks and TIF approved; 100M SF potential scope.",
+        "Austin office space absorption driven by Musk ecosystem; suburban industrial/manufacturing expansion signals downstream workforce housing demand."
       ],
-      "summary": "Multiple Elon Musk-affiliated companies occupy 35,000 sq ft at Seaholm Power Plant (800 West Cesar Chavez, downtown Austin) and are undertaking a $5.2M renovation via Wit Tech (SpaceX-linked). Musk's Terafab semiconductor manufacturing project in Grimes County (40+ miles north) is planned at $55B with potential scaling to 100M sq ft. Grimes County approved tax breaks and a tax increment reinvestment zone (TIRZ).",
-      "impact": "Major employment anchor formation on a multi-year horizon. Terafab's $55B scale and potential 100M-sq-ft footprint would drive significant in-migration of engineering, manufacturing, and support-services workforce to central Texas. Downtown Austin office demand and Grimes County land development create parallel housing demand vectors: downtown professionals and suburban/exurban manufacturing workforce. Developers should accelerate land acquisition in Austin metro (downtown, north Austin, Grimes County corridor) and model workforce housing, mixed-income product, and master-planned communities ahead of phase-one Terafab buildout (likely 2027+)."
+      "summary": "Multiple Elon Musk-affiliated companies are renovating office space at Downtown Austin's Seaholm Power Plant. Wit Tech, a company with SpaceX links, is planning a $5.2 million facelift for 35,000 square feet of space at 800 West Cesar Chavez Street occupied by Musk entities. Separately, Musk is developing the Terafab semiconductor manufacturing facility in Grimes County, a $55 billion project on 6,000+ acres near Bastrop, east of Austin. Grimes County Commissioners approved tax breaks and a tax increment reinvestment zone. Musk has hinted the facility could eventually expand to 100 million square feet. The project is advancing despite local environmental and property-value concerns.",
+      "impact": "Musk's $55B Terafab semiconductor plant and 100M SF potential scope in Grimes County represents a generational job-creation anchor for Central Texas and Austin exurbs. Office absorption (35K SF Downtown) plus manufacturing/semiconductor capex will drive inbound professional and technical payroll. For multifamily developers, this signals urgent opportunity to acquire/entitle land in Bastrop, Grimes, and East Austin corridors within 20–30 miles of Terafab before land prices spike. Expect strong workforce housing demand 2027–2032 as construction ramps and operations begin; developers entering now will capture highest returns. Tax increment financing (TIF) approval also suggests municipal support for infrastructure and subsidized housing—coordinate with local housing authorities to blend multifamily with local incentives."
     },
     {
       "title": "Florida’s largest Live Local Act project is bold. Its ambitious developer is controversial",
@@ -197,12 +227,12 @@
       "cat": "Development",
       "date": "2026-07-17T14:00:00+00:00",
       "bullets": [
-        "Pablo Castro (Spanish developer) proposing HueHub: 4,040 units, 7 towers, 12 acres West Little River Miami; Live Local Act.",
-        "All units furnished, attainably priced; exceeds 40% affordable requirement; amenities free to residents.",
-        "Developer faces three lawsuits alleging non-payment to local industry partners; unproven US track record raises execution risk."
+        "Pablo Castro (Spanish developer, new to U.S. market) developed HueHub in West Little River, Miami: 4,040 units across 7 towers under Florida Live Local Act.",
+        "All units furnished and attainably priced (exceeds 40% affordable requirement); 100% affordable/workforce housing mix; free amenities (gym, learning center, kitchens).",
+        "Castro faces three lawsuits from local industry players alleging non-payment; project approved and site acquired; largest known Live Local multifamily complex."
       ],
-      "summary": "Spanish developer Pablo Castro is building HueHub, Florida's largest known multifamily project: 4,040 units across seven 34-story towers on 12 acres in West Little River, Miami, under the state's Live Local Act. All units will be furnished and attainably priced (exceeding the 40% affordable requirement); free amenities include kitchens, learning center, fitness studios. Castro secured land and approvals but faces three lawsuits alleging he stiffed local industry partners; he has no prior U.S. development experience.",
-      "impact": "High-risk, high-reward supply injection into Miami market. HueHub's 4,040 units represent significant new competitive supply; the furnished, all-affordable model may set market precedent and rental-rate pressure in West Little River/Wynwood corridor. Castro's litigation and track-record vacuum create uncertainty around delivery timing and ultimate absorption. Competing developers should monitor HueHub's leasing velocity and unit economics closely—if successful, it validates all-affordable furnished model and may drive competitive response; if delayed/troubled, it signals sponsor-execution risk and potential supply-pipeline volatility in Miami. Existing Miami multifamily owners should stress-test rents and occupancy assumptions for HueHub phase-in (likely 2027+)."
+      "summary": "Pablo Castro, a Spanish multifamily developer new to the U.S. market, is developing HueHub in West Little River, Miami—Florida's largest known multifamily complex under the state's Live Local Act. The project comprises 4,040 units across seven 34-story towers on 12 acres. All units are furnished and attainably priced, exceeding the Live Local requirement of 40% below-market-rate units. The development includes free amenities (kitchens, fitness studios, learning center) and is designed for cost-burdened tenants. Castro has acquired the site and secured approval, but faces three lawsuits from local industry players alleging non-payment for services rendered.",
+      "impact": "HueHub represents a test case for Florida's Live Local Act as an alternative financing/entitlement pathway for ultra-large affordable/workforce multifamily, bypassing traditional LIHTC/subsidy complexity. The 4,040-unit scale and 100% attainable-pricing model signal new-market entrant confidence in Miami rental fundamentals and permitting speed under Live Local. However, Castro's litigation history raises developer/counterparty risk and may deter institutional co-investment if disputes persist. For multifamily developers in Florida, HueHub's approval demonstrates Live Local viability for large-scale projects; prioritize site control and title clarity before engaging with inexperienced or undercapitalized sponsors. If HueHub delivers successfully, expect a wave of large Live Local submissions in Miami, Tampa, and Jacksonville, accelerating affordable supply and moderating rent growth in those markets."
     },
     {
       "title": "Faena Residences developers presell $30M penthouse for record price along Miami River",
@@ -212,12 +242,12 @@
       "cat": "Development",
       "date": "2026-07-16T23:25:24+00:00",
       "bullets": [
-        "Faena Residences Miami River presold penthouse for $30M (~$3,700/sq ft); 8,200 sq ft interior, 7,000 sq ft outdoor.",
-        "KAR Properties and Fortune International Group joint venture; Rafael Viñoly architecture; Swire's Mandarin Residences comparable ($6,300/sq ft when built).",
-        "Luxury pre-sales momentum signals strong high-end condo demand and financing availability in Miami waterfront."
+        "Shahab Karmely (KAR Properties) and Edgardo Defortuna (Fortune International Group) presold penthouse at Faena Residences (Miami River) for $30M on 8,200 SF interior + 7K SF outdoor space.",
+        "Duplex penthouse with private rooftop, pool, wellness space; presale price ~$3,700/SF interior; breaks record for Miami River neighborhood.",
+        "Record-setting presale before groundbreaking; signals ultra-luxury condo market depth and investor appetite for branded, waterfront Miami luxury."
       ],
-      "summary": "KAR Properties and Fortune International Group's Faena Residences (Miami River) presold a penthouse duplex for $30M (~$3,700/sq ft interior) with 8,200 sq ft interior and 7,000 sq ft outdoor space including private rooftop pool. The project is designed by Rafael Viñoly. Comparable luxury pre-sales include Swire's Mandarin Residences (targeting ~$6,300/sq ft upon 2030 completion) and Witkoff/Monroe Capital's Shore Club Miami Beach ($120M+ penthouse).",
-      "impact": "Demonstrates robust pre-construction luxury condo demand and financing in Miami's prime waterfront submarkets. Pre-sales at these price points ($30M–$120M) signal deep institutional and UHNW buyer demand ahead of groundbreaking—critical for sponsor equity and construction financing confidence. For mid-market multifamily developers, this signals affluent residential demand in Miami but also highlights concentration of capital at ultra-luxury tiers. Watch: if luxury condo pre-sales slow, it may indicate broader financing tightness or cap-rate compression limiting sponsor returns; conversely, strong waterfront sales may absorb wealthy buyer demand and leave upper-middle-market renter pools relatively uncontested."
+      "summary": "Faena Residences, a Rafael Viñoly-designed luxury condo development along the Miami River by Shahab Karmely (KAR Properties) and Edgardo Defortuna (Fortune International Group), presold a penthouse in the east tower for $30 million. The duplex unit spans 8,200 square feet of interior space plus 7,000 square feet of outdoor space (private rooftop with pool, wellness, entertainment). The presale breaks down to approximately $3,700 per square foot and sets a new neighborhood record. The presale occurred before project groundbreaking, reflecting strong investor demand for branded luxury waterfront residential in Miami.",
+      "impact": "Record-setting $30M penthouse presale (before groundbreaking) on Miami River indicates ultra-luxury condo market remains robust despite broader multifamily headwinds, driven by wealth preservation and waterfront scarcity. However, this is condo, not multifamily rental, limiting direct relevance. The presale success may pull capital away from multifamily rental development in Miami as investors prioritize higher-ASP condo projects with faster presale absorption. For rental developers, the ultra-luxury condo strength at $3,700/SF suggests limited downside risk to premium rentals at $3.00–$4.00/SF in similar Miami River/Brickell locations, but expect slower lease-up if condos continue to absorb top-tier renters seeking ownership and lifestyle branding."
     },
     {
       "title": "LA city’s top construction permits: Week ending July 11, 2026",
@@ -227,42 +257,12 @@
       "cat": "Development",
       "date": "2026-07-16T20:00:00+00:00",
       "bullets": [
-        "LA permits week ending July 11, 2026: single-family (11,278 sq ft Encino), ADU/duplex (8,765 sq ft Valley Glen).",
-        "Alteration permits: $350K+ for Bel Air megamansion 'The One' (Richard Saghian, Fashion Nova owner, $141M purchase 2022).",
-        "Single-family, ADU focus; limited multifamily permit activity reported; market tilted toward ultra-high-end residential and detached housing."
+        "LA city permits week ending July 11, 2026: Encino single-family (11.3K SF), Valley Glen duplex + ADU (8.8K SF, $880K cost), Bel Air megamansion 'The One' alterations (75.9K SF, $350K+).",
+        "Largest demolition: Studio City project (details truncated); Van Nuys Golf Club alterations (16.3K SF driving range, $1.1M).",
+        "Single-family and luxury residential permits dominate LA permitting; accessory dwelling unit supply increasing."
       ],
-      "summary": "LA building permits issued week of July 11, 2026, included a single-family home in Encino (11,278 sq ft with attached garage and pond), an ADU and three-story duplex in Valley Glen (8,765 sq ft, ~$880K cost), and a major alteration to Bel Air's 'The One' megamansion (75,856 sq ft, $350K+ budget). Richard Saghian (Fashion Nova owner) purchased The One in 2022 for $141M.",
-      "impact": "Minimal multifamily signal. LA permit flow shows continued ultra-luxury single-family, ADU, and ultra-high-end alterations; absence of large multifamily permits suggests either (1) permit batching/lag, (2) slow new entitlements, or (3) developer focus on pipeline clearance rather than new starts. For multifamily sponsors, this underscores LA's zoning-constrained development environment and the value of entitled land. Track multi-family permit trends monthly; sustained low multifamily issuance despite strong metro demand indicates supply-side bottleneck that supports rents but limits development volume."
-    },
-    {
-      "title": "Jed Walentas, Tom Brady’s ex-manager abruptly settle legal battle over Bahamas mansion",
-      "link": "https://therealdeal.com/new-york/2026/07/16/jed-walentas-former-tom-brady-manager-settle-over-bahamas-mansion/",
-      "excerpt": "A game of catch-me-if-you-can between Jed Walentas and Tom Brady’s former manager over a hurricane-damaged Bahamas mansion has come to an abrupt end. The Two Trees Management CEO had been trying to collect a $300,000 arbitration award from Will McDonough since last July, but repeatedly failed to locate him for formal legal service, court filings show. On Monday, Walentas notched a win when Manhattan Supreme Court Justice Kathleen Waterman-Marshall authorized Walentas to serve McDonough via email and set October 27 as the date McDonough or his legal team must show up at court to explain why he shouldn&#8217;t be forced [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-07-16T20:00:00+00:00",
-      "bullets": [
-        "Jed Walentas (Two Trees Management CEO) and Will McDonough (Tom Brady's ex-manager) settle Bahamas mansion dispute; $300K arbitration award.",
-        "Bunkers Investments LLC partnership (2015): $4.9M combined capital; hurricane damage required major capital infusion beyond insurance.",
-        "Partnership/litigation resolved abruptly via email service; outcome (payment vs. settlement) unclear from court filing."
-      ],
-      "summary": "Jed Walentas (Two Trees Management CEO) and Will McDonough (Tom Brady's former manager) settled a legal dispute over a hurricane-damaged luxury rental mansion at Bakers Bay, Bahamas. Walentas had been pursuing a ~$300K arbitration award since July 2025. The partners formed Bunkers Investments LLC in 2015 with combined capital of $4.9M ($2.45M Walentas, $750K + $1.7M credits McDonough). Hurricane damage required substantial capital beyond insurance payouts.",
-      "impact": "Minimal multifamily development impact. Story reflects underlying risk in luxury resort/vacation-rental development partnerships: insurance inadequacy post-disaster, capital calls, and partnership dissolution. For multifamily sponsors with resort or second-home product lines, note: catastrophic event capital requirements and partner-dispute resolution timelines are material underwriting variables. Avoid overleveraged luxury-rental partnerships without robust insurance, buyout, or dissolution mechanisms."
-    },
-    {
-      "title": "Fort Worth Stockyards will get $71M apartment project as $1B planned redevelopment hangs in balance",
-      "link": "https://therealdeal.com/texas/2026/07/16/oldham-goodwin-launches-71m-fort-worth-stockyards-project/",
-      "excerpt": "Oldham Goodwin Group and Fort Worth Housing Solutions broke ground on The Exchange, a $71 million, 296-unit affordable apartment complex north of Fort Worth’s historic Stockyards. The apartments are a small slice of a 14.6-acre mixed-use development from Oldham Goodwin aimed at enhancing the Stockyards. The apartment complex features affordable units in partnership with Fort Worth Housing Solutions, and is slated to be the residential portion of the wider development. Amenities include a pool, clubhouse and a dog park. The apartment sizes begin at studio sizes and scale to three-bedroom units, according to the Dallas Business Journal.&#160; Stockyards North, which [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-07-16T19:21:36+00:00",
-      "bullets": [
-        "Fort Worth Stockyards: Oldham Goodwin Group and Fort Worth Housing Solutions break ground on The Exchange, $71M, 296-unit affordable complex.",
-        "Mixed-income: all units 30-80% AMI with workforce/affordable subsidy; Stockyards North phase adds hotel, retail, dining walkable district.",
-        "Wider $1B phase-two renovation mired in legal dispute; first phase successful; housing first in new North district."
-      ],
-      "summary": "Oldham Goodwin Group and Fort Worth Housing Solutions broke ground on The Exchange, a $71M, 296-unit mixed-income apartment complex north of Fort Worth's historic Stockyards. All units serve residents at 30–80% AMI. The project is the residential anchor for Stockyards North, a broader 14.6-acre mixed-use district planned to include a Home2Suites hotel, retail, and dining on 29th and North Main. A wider $1B phase-two Stockyards renovation is currently in legal dispute.",
-      "impact": "Validates public-private affordable-housing model in Texas mid-market and signals tourism-adjacent workforce housing opportunity. The Exchange's all-affordable model (vs. mixed-income) and placement at entry to historic district indicate city/partner commitment to place-making and workforce retention. Success here could anchor broader Stockyards North leasing and justify follow-on phases. For developers in secondary Texas metros with heritage districts, this demonstrates feasibility of affordable housing as revitalization catalyst; investigate municipal soft debt, LIHTC, and public-land partnerships as deal enablers."
+      "summary": "Los Angeles city permits for the week ending July 11, 2026, were dominated by single-family and luxury residential projects. The largest new-build permit was an 11,278-square-foot two-story single-family dwelling with three-car garage and pond in Encino. In Valley Glen, a 8,765-square-foot mixed project (ADU plus three-story duplex) received permits with an estimated cost of $880,500. In Bel Air, the megamansion \"The One\" (purchased by Fashion Nova owner Richard Saghian in 2022 for $141 million) received 75,856 square feet of alteration permits across 12 permits estimated at over $350,000. Van Nuys Golf Club received permits for 16,333 square feet of driving-range canopy and equipment-room additions ($1.1 million).",
+      "impact": "LA permitting mix reveals continued single-family and luxury residential construction vigor, along with rising ADU supply (regulatory trend in California metros). Minimal commercial/multifamily density development visible in week snapshot. For multifamily developers, LA's permit composition signals ongoing preference for single-family/ADU infill over rental apartments, consistent with California's residential-zoning restrictiveness. However, ADU uptick may indicate zoning flexibility and renter demand in constrained neighborhoods; developers should target ADU-zoned areas for ground-up multifamily or conversion projects. No major multifamily/mixed-use permits evident; expect multifamily development to remain capital-constrained in LA until office/retail conversion economics improve or zoning reform accelerates."
     }
   ]
 }
