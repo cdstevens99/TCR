@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-20T15:46:33.592841+00:00",
+  "fetchedAt": "2026-07-20T17:27:16.914595+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -9,52 +9,170 @@
     },
     {
       "label": "10Y Treasury",
-      "value": "4.59%",
-      "pct": 0.99
+      "value": "4.61%",
+      "pct": 1.43
     },
     {
       "label": "30Y Treasury",
-      "value": "5.10%",
-      "pct": 0.77
+      "value": "5.12%",
+      "pct": 1.13
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "99.54",
-      "pct": -0.48
+      "value": "99.34",
+      "pct": -0.68
     }
   ],
   "stories": [
+    {
+      "title": "Core Spaces, Harrison Street Score Refi on Princeton BTR Community",
+      "link": "https://www.connectcre.com/stories/core-spaces-harrison-street-score-refi-on-princeton-btr-community/",
+      "excerpt": "A joint venture between Core Spaces and Harrison Street Asset Management closed on a refinancing of a 408-unit build-to-rent community in Princeton, Texas. Multifamily News reports the note retires a previous $86 million construction loan issued by Western Alliance Bank in 2023, Newmark’s Jonathan Firestone, Blake Thompson, Clint Frease Travis Bailey and Josh Francis secured the latest financing, provided by GID. Oxenfree Princeton is located along the U.S. 380 corridor in North Dallas. It’s a mix of townhomes and detached single-family homes, each with private outdoor space and an attached garage. Oxenfree Princeton comprises a mix of townhomes and detached single-family houses, with layouts ranging from two- to four-bedroom floorplans averaging 1,572 square feet. At the center of the community is The Fieldhouse, a hospitality-inspired amenity hub featuring a resort-style pool, fitness center, sports court and coworking spaces. Connect Texas Multifamily in Dallas on August 13 brings together the owners, developers, brokers, investors, and lenders shaping the future of Texas multifamily for a day of market intelligence, networking, and actionable insights. Join 300+ decision-makers and be part of the conversations driving the Texas multifamily market. Register today:&nbsp;www.ConnectTXMF2026.com. The post Core Spaces, Harrison Street Score Refi on Princeton BTR Community appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-20T17:21:33+00:00",
+      "bullets": [
+        "Core Spaces/Harrison Street refinanced 408-unit BTR community in Princeton, TX with $86M construction loan payoff",
+        "GID provided refi on Oxenfrew Princeton mix of townhomes/single-family homes with 1,572 sf avg units",
+        "North Dallas U.S. 380 corridor BTR asset shows strong exit refinance market for stabilized builds"
+      ],
+      "summary": "Core Spaces and Harrison Street closed a refinance on Oxenfrew Princeton, a 408-unit build-to-rent community in Princeton, Texas, retiring an $86 million construction loan from Western Alliance Bank with new financing from GID. The asset comprises townhomes and detached single-family homes averaging 1,572 square feet across two to four-bedroom floorplans along the U.S. 380 corridor in North Dallas. The successful refinance signals strong capital availability and lender appetite for stabilized BTR assets in the Metroplex.",
+      "impact": "Demonstrates capital confidence in North Dallas BTR product and exit refinance market depth. Signals that BTR communities in growing suburban corridors (U.S. 380) can successfully refinance construction debt—important for future BTR starts, as proven takeout allows sponsors to recycle capital into new acquisitions and developments."
+    },
+    {
+      "title": "Insurance, Real Estate Firms Take 57K SF at SL Green’s 1185 Avenue of the Americas",
+      "link": "https://commercialobserver.com/2026/07/ryan-specialty-solil-leases-sl-green-1185-avenue-of-the-americas/",
+      "excerpt": "Two companies signed recent deals at SL Green Realty’s 1185 Avenue of the Americas. In the largest lease, international specialty insurance firm Ryan Specialty signed a 10-year renewal and expansion lease at the 42-story office property, taking 29,166 square feet across the building’s entire 38th floor, the landlord announced. The company will move within the building from part of the 23rd floor, where it occupied 12,803 square feet. The asking rent was not disclosed, but the average asking rent for office space in Midtown was $84.99 per square foot during the second quarter of 2026, according to data from Colliers. Ryan Specialty was represented in the deal by Howard Grufferman, Catherine Soderquist and Ryan Barr from Colliers. The landlord was represented by Brian Waterman, John Fanuzzi, Brent Ozarowski, David Waterman and Kevin Sullivan from Newmark. Colliers did not immediately respond to a request for comment, while Newmark declined to comment. Meanwhile, property management company Solil Management signed a new five-and-a-half-year lease at the property, taking 27,508 square feet on the building’s entire 10th floor. The landlord and the tenant each represented themselves in the deal, SL Green noted. “We’re delighted to have both of these highly regarded firms as part of the building’s premier tenant roster,” Steven Durels, executive vice president and director of leasing and real property at SL Green, said in a statement. “These transactions underscore the ongoing strength of tenant demand for well-located, high-quality office space in Midtown Manhattan.” Other tenants at 1185 Avenue of the Americas include energy company Hess as well as law firm Groombridge, Wu, Baughman &amp; Stone. Amanda Schiavo can be reached at aschiavo@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-20T17:06:35+00:00",
+      "bullets": [
+        "Ryan Specialty expanded 12.8K sf to 29.2K sf at SL Green's Midtown office tower; $85/sf asking",
+        "Manhattan office leasing activity continues; Ryan Specialty consolidating within same building shows retention strength",
+        "Mixed-use office demand persists at trophy assets despite broader sector headwinds"
+      ],
+      "summary": "Ryan Specialty, an international specialty insurance firm, signed a 10-year renewal and expansion at SL Green's 1185 Avenue of the Americas in Midtown Manhattan, growing from 12,803 sf on the 23rd floor to 29,166 sf on the entire 38th floor. At ~$85/sf asking rent during Q2 2026 for Midtown office, the deal reflects continued demand for well-located, modern office space among established tenants, though expansion rates remain modest.",
+      "impact": "Limited direct multifamily relevance. However, office-to-residential conversions remain a near-term risk in Manhattan if tenant flight accelerates; current leasing activity and in-building expansions reduce conversion pressure on supply in this micromarket."
+    },
+    {
+      "title": "Instacart Takes 26K SF at ESRT’s 111 West 33rd Street",
+      "link": "https://commercialobserver.com/2026/07/instacart-lease-esrt-111-west-33rd-street/",
+      "excerpt": "Grocery delivery app Instacart is getting a bigger home in Midtown. The San Francisco-based technology company has signed a 26,134-square-foot lease at Empire State Realty Trust (ESRT)’s 111 West 33rd Street, the landlord announced Monday. The seven-year lease was signed during the second quarter of 2026, according to ESRT, at an asking rent of $75 per square foot. In 2023, Instacart signed a sublease at 50 West 23rd Street for 21,000 square feet, taking space previously occupied by software company Bizzabo, Commercial Observer reported at the time. It is unclear if Instacart will exit 50 West 23rd Street permanently, or if the new lease at 111 West 33rd Street is an expansion of its current New York City footprint. Instacart did not immediately respond to Commercial Observer’s request for comment. Additionally, ESRT announced Monday that biopharmaceutical company Hansa Biopharma inked a 7,052-square-foot lease at 111 West 33rd Street, bringing the 26-story building to 100 percent leased. The firm also noted that its building at 1350 Broadway is 100 percent leased. “100 percent leased at both 111 West 33rd Street and 1350 Broadway is a testament to the strength of these assets and the demand for well-located, modernized and amenitized office space in New York City,” Ryan Kass, executive vice president, co-head of real estate and chief revenue officer at ESRT, said in a statement. Instacart was represented by Josh Pernice, Timothy Kazul and Conor Famulener from CBRE, while Hansa Biopharma was represented by Matthew Leon and Jake Leon from Newmark. Jordan Berger, Shanae Ursini and Kerry Lavelle from ESRT, along with Scott Klau, Erik Harris, Neil Rubin, Cole Gendels and Zachary Weil from Newmark, represented the property owner in both deals. The brokers did not immediately respond to requests for comment. Built in 1954, 111 West 33rd Street is home to tenants such as consulting firm Clearview Healthcare Partners and data firm the Penta Group. The property a block left ",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-20T16:46:55+00:00",
+      "bullets": [
+        "Instacart leased 26.1K sf at ESRT's 111 West 33rd St, Midtown; $75/sf for 7-year term",
+        "Instacart expanding NYC footprint from prior 21K sf sublease; build-out timing unclear",
+        "Tech tenants showing selective Midtown office demand at lower rents than Avenues submarkets"
+      ],
+      "summary": "Instacart signed a 26,134-sf lease at Empire State Realty Trust's 111 West 33rd Street in Midtown Manhattan at $75/sf, a seven-year commitment during Q2 2026. The San Francisco tech company was previously subleasing 21,000 sf at 50 West 23rd Street; the new lease may expand or replace that footprint. The deal brought 111 West 33rd to 100 percent occupancy.",
+      "impact": "Modest relevance to multifamily. $75/sf rents (vs. $85+ in prime Midtown) show selective office softness in secondary Midtown corridors; if this trend deepens, conversion-to-residential risk rises for Class B office near Penn Station, potentially creating BTR/conversion opportunities along 8th–9th Avenues."
+    },
+    {
+      "title": "Brookfield, CPP Investments to Acquire LXP Industrial Trust for $5.2B",
+      "link": "https://commercialobserver.com/2026/07/brookfield-cpp-investments-acquire-lxp-industrial-trust/",
+      "excerpt": "Brookfield Asset Management is lined up for a big industrial acquisition. The global alternative asset manager with more than $1 trillion of assets under management has teamed with the Canada Pension Plan Investment Board (CPP Investments) to acquire LXP Industrial Trust in an all-cash deal valued at approximately $5.2 billion, the firms announced Monday. LXP, a real estate investment trust (REIT) focused on Class A warehouse and distribution investments, owns one of the largest portfolios of warehouse and logistics facilities in the country, comprising approximately 53 million square feet across 108 properties in 12 markets in the Sun Belt and Midwest, according to the announcement. Thomas W. Eglin Jr., chairman and CEO of LXP, said in a statement that the transaction is the “culmination of the LXP team’s successful execution of [its] strategic plan to transform LXP into a pure-play industrial REIT.” Meanwhile, the deal was part of a continued interest in the U.S. industrial sector for CPP Investments, according to the firm’s managing director and head of real estate, Sophie van Oosterom. “The industrial sector, particularly in the U.S., continues to offer attractive long-term investment opportunities, supported by structural demand drivers, including domestic manufacturing, evolving global supply chains and population growth across key Sun Belt markets,” van Oosterom said in a statement. “We look forward to partnering with Brookfield and combining their operating expertise with a well-positioned portfolio to generate sustainable investment returns.” Lowell Baron, CEO of Brookfield Real Estate, added: “The acquisition aligns with our strategy of investing in high-quality real estate with durable cash flows and opportunities to create value through active asset management.” The merger is expected to close in the fourth quarter of 2026. Bank of America Securities and J.P. Morgan Securities acted as financial advisers in the deal. Under the terms of the agreement, LXP",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-20T16:40:12+00:00",
+      "bullets": [
+        "Brookfield + CPP Investments acquired LXP Industrial Trust for $5.2B in all-cash deal",
+        "LXP owns 53M sf across 108 properties in Sun Belt and Midwest industrial portfolio",
+        "Mega-cap, long-term hold signals institutional confidence in industrial real estate supply/demand balance"
+      ],
+      "summary": "Brookfield Asset Management and CPP Investments jointly acquired LXP Industrial Trust in an all-cash transaction valued at approximately $5.2 billion. LXP owns roughly 53 million square feet across 108 Class A warehouse and distribution facilities in 12 Sun Belt and Midwest markets. The deal is structured as a long-term hold by two of the world's largest capital allocators.",
+      "impact": "Indirect impact: Major institutional capital flowing into industrial real estate confirms supply/demand confidence in Sun Belt and Midwest logistics hubs. For multifamily developers, this validates population and job growth trajectories in LXP's core markets (Dallas-Fort Worth, Austin, Charlotte, etc.), supporting demand thesis for new apartment development in those same nodes."
+    },
+    {
+      "title": "Collegium Pharmaceutical Signs with DivcoWest in Boston’s Financial District",
+      "link": "https://www.connectcre.com/stories/collegium-pharmaceutical-signs-with-divcowest-in-bostons-financial-district/",
+      "excerpt": "DivcoWest said Monday that Collegium Pharmaceutical has signed a headquarters lease for 40,288 square feet on floors 11 and 12 at One Lincoln in Boston’s Financial District, relocating from suburban Stoughton, MA. Slated for the first quarter of 2027, Collegium’s arrival adds a life science presence to a tenant roster that already spans several industries at the 36-story, 1.1-million-square-foot office tower, which underwent a redevelopment in 2025. &#8220;This relocation reflects a broader trend we&#8217;re seeing across Greater Boston,” said Justin Dziama, principal at Avison Young, who represented Collegium with colleague Connor Hayes. “As market conditions have shifted, companies are taking advantage of the opportunity to upgrade their workplace experience, improve accessibility for employees and establish a stronger presence in the urban core. For Collegium, One Lincoln provided the chance to accomplish all of those goals in one move.&#8221; Added Newmark executive managing director Gil Dailey, “Collegium’s lease underscores the momentum behind One Lincoln and the continued demand for well-located, highly activated office environments.” Dailey and Newmark executive managing director Dave Martel represented DivcoWest. The post Collegium Pharmaceutical Signs with DivcoWest in Boston&#8217;s Financial District appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-20T16:21:56+00:00",
+      "bullets": [
+        "Collegium Pharmaceutical relocating HQ from suburban Stoughton, MA to Boston Financial District; 40.3K sf lease",
+        "Q1 2027 move-in; first major life science user at One Lincoln post-2025 redevelopment",
+        "Suburban-to-urban corporate migration signals demand for downtown office accessibility and urban amenity"
+      ],
+      "summary": "Collegium Pharmaceutical signed a 40,288-sf headquarters lease on floors 11–12 at One Lincoln in Boston's Financial District, relocating from suburban Stoughton, Massachusetts, with move-in targeted for Q1 2027. The biotech company joins a mixed-industry tenant roster at the 36-story, 1.1M-sf tower, which underwent a 2025 redevelopment. The lease reflects broader regional trend of companies upgrading urban office presence for talent attraction.",
+      "impact": "Positive signal for Boston metro multifamily in urban core submarkets (Financial District, Back Bay). Corporate relocation from suburbs to downtown drives demand for rental housing near employment centers; Collegium's 300+ employee campus will likely generate renter demand in downtown Boston apartments, particularly studio-to-2BR units targeting younger talent."
+    },
+    {
+      "title": "Lovett, NewQuest Teaming Up to Build 2M-SF Seguin Industrial Park",
+      "link": "https://www.connectcre.com/stories/lovett-newquest-teaming-up-to-build-2m-sf-seguin-industrial-park/",
+      "excerpt": "Lovett Industrial and NewQuest are teaming up to develop Seguin Exchange Commerce Park, a 164-acre Class A industrial campus in Seguin, Texas. Upon full build-out, Seguin Exchange Commerce Park will deliver more than 2.0 million square feet of industrial and manufacturing space, with building sizes ranging from 30,000 to 1.3 million square feet. The development will accommodate both speculative facilities and build-to-suit users, including advanced manufacturing, logistics, and high-power operations. The project is part of NewQuest’s 544-acre Seguin Exchange, a mixed-use development that will include retail, restaurant, entertainment, hospitality, medical, multifamily and industrial uses. The shopping center anchoring the project will total more than 750,000 square feet. Leasing for Seguin Exchange Commerce Park is being led by Ty Bragg, Lee Jordan, and Ford Douglass of Cavender &amp; Hill. The post Lovett, NewQuest Teaming Up to Build 2M-SF Seguin Industrial Park appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-20T16:17:27+00:00",
+      "bullets": [
+        "Lovett Industrial + NewQuest developing 2M+ sf Seguin Exchange Commerce Park; 164-acre Class A campus",
+        "Part of larger 544-acre mixed-use Seguin Exchange with retail, hotel, hospitality, medical, multifamily",
+        "Central Texas industrial expansion with integrated multifamily signals land cost/supply optimization"
+      ],
+      "summary": "Lovett Industrial and NewQuest are jointly developing Seguin Exchange Commerce Park, a 164-acre industrial campus in Seguin, Texas, designed to deliver 2+ million square feet of Class A industrial and manufacturing space upon full buildout, with buildings ranging from 30,000 to 1.3 million sf. The project is part of the larger 544-acre Seguin Exchange mixed-use development that will include 750K+ sf retail, multifamily, hotel, and medical uses.",
+      "impact": "Central Texas industrial growth (Seguin sits between San Antonio and Austin) signals strong logistics and advanced manufacturing demand in the broader corridor. The integrated multifamily component validates developer thesis that logistics workers and plant/campus employees drive rental demand; multifamily components in industrial master plans benefit from captive on-site employment and reduced transportation costs."
+    },
+    {
+      "title": "Alexandria Delivers R&D Hub for Bristol Myers Squibb at San Diego Megacampus",
+      "link": "https://www.connectcre.com/stories/alexandria-delivers-rd-hub-for-bristol-myers-squibb-at-san-diego-megacampus/",
+      "excerpt": "Alexandria Real Estate Equities, Inc. has delivered a 427,000-square-foot research &amp; development hub for Bristol Myers Squibb (BMS) at the Campus Point by Alexandria Megacampus in San Diego. Since 1998, Alexandria has partnered with BMS across the REIT&#8217;s life science and advanced technology clusters. The initial phase of Campus Point was launched in 2010, 16 years after the then-fledgling company made its first acquisition in San Diego. As of March 31, 2026, Campus Point was 95.4% occupied and spans 2.9 million square feet, including 1.3 million square feet in operation, 0.9 million square feet under construction and 0.7 million square feet available for future development and redevelopment. &#8220;Strategically designed to accelerate innovation, Campus Point provides tenants with the flexibility to expand within the same Megacampus ecosystem while helping them recruit and retain top talent, translate research into life-changing treatments with mission-critical infrastructure and leverage key industry relationships,&#8221; said Bret Gossett, EVP – co-regional market director and head of leasing for the San Diego region at Alexandria. The post Alexandria Delivers R&amp;D Hub for Bristol Myers Squibb at San Diego Megacampus appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-20T16:07:09+00:00",
+      "bullets": [
+        "Alexandria delivered 427K sf R&D hub for Bristol Myers Squibb at Campus Point San Diego megacampus",
+        "Campus Point: 95.4% occupied, 2.9M sf total; 1.3M in operation, 0.9M under construction, 0.7M future",
+        "Life science concentration in San Diego drives high-barrier-to-entry trophy asset appreciation and rents"
+      ],
+      "summary": "Alexandria Real Estate Equities delivered a 427,000-sf research and development facility for Bristol Myers Squibb at Campus Point by Alexandria in San Diego, the latest phase of a 16-year partnership that began in 1998. As of March 31, 2026, Campus Point comprises 2.9M sf, with 95.4% occupancy across 1.3M sf operational, 0.9M sf under construction, and 0.7M sf available for future development.",
+      "impact": "Limited direct multifamily impact. However, Campus Point's sustained 95%+ occupancy and continued BMS expansion underscore San Diego's life science cluster strength, which attracts highly-paid STEM talent and families seeking rentals; validates premium multifamily demand near biotech/pharma hubs in La Jolla, Sorrento Valley, and Torrey Pines submarkets."
+    },
+    {
+      "title": "Howard Hughes Closes On Refi for Bridgeland Development",
+      "link": "https://www.connectcre.com/stories/howard-hughes-closes-on-refi-for-bridgeland-development/",
+      "excerpt": "Affinius Capital funded a $35 million loan to refinance Village Green at Bridgeland Central, a Class A mixed-use commercial development totaling approximately 198,000 square feet in Cypress, TX. Completed in 2025 and nearly fully leased, the property is located in Bridgeland, an 11,500-acre master-planned community in Northwest Houston. The loan was made to Howard Hughes Communities, the developer of Bridgeland. Village Green at Bridgeland Central includes a 149,000-square-foot retail center anchored by Texas grocery giant H-E-B. Offering three stories, the 49,000-square-foot, Class-A office building is the first full mass timber office development in the greater Houston area. Designed to achieve LEED Gold and Fitwel certifications, it is nearly 100% leased. The financing was arranged by Colby Mueck, Kelly Layne, Jack Britton, and Scot Sarlin of JLL. The post Howard Hughes Closes On Refi for Bridgeland Development appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-20T15:59:13+00:00",
+      "bullets": [
+        "Howard Hughes refinanced Village Green at Bridgeland Central, Cypress TX, for $35M; 198K sf completed 2025",
+        "Mixed-use retail (150K sf H-E-B anchored) + first mass-timber office (49K sf) in greater Houston; ~100% leased",
+        "Bridgeland 11.5K-acre master-planned community continues strong leasing, signaling sustained Northwest Houston demand"
+      ],
+      "summary": "Affinius Capital funded a $35 million refinance for Village Green at Bridgeland Central, a 198,000-sf mixed-use development completed in 2025 in Cypress, Texas. The property includes a 149,000-sf retail center anchored by H-E-B and a 49,000-sf Class A mass-timber office building (the first in greater Houston) designed for LEED Gold and Fitwel certifications, both nearly 100% leased. The property is located within Bridgeland, an 11,500-acre master-planned community developed by Howard Hughes Communities.",
+      "impact": "Bridgeland's continued strong absorption and retail/office leasing validates Northwest Houston demand. For multifamily, the master-planned community structure attracts younger families and mixed-income renters; successful commercial leasing signals healthy in-migration and employment anchors that support apartment demand in nearby Bridgeland residential phases."
+    },
+    {
+      "title": "M&T Bank Lends $26M on NJ Apartments Buy",
+      "link": "https://commercialobserver.com/2026/07/mt-bank-toms-river-new-jersey-apartments/",
+      "excerpt": "Goldcrest Properties has sealed $25.5 million of acquisition financing for the purchase of a New Jersey multifamily asset, Commercial Observer has learned. M&amp;T Bank provided the interest-only loan for Goldcrest’s purchase of the 125-unit Hope’s Crossing property in Toms River, N.J. The purchase price was not disclosed. Meridian Capital Group’s David Cohen negotiated the debt for the deal, which closed in 43 days. “The strength and experience of the sponsorship, combined with a lender that understood the asset and moved with real urgency, allowed us to structure the right financing and bring the deal to a seamless close in a tight timeframe,&#8221; Cohen said in a statement. Located at 1 Vans Way, the 1994-built Hope’s Crossing comprises garden-style apartments ranging from one to four-bedroom units. The Jersey Shore-area property is 14 miles west of Normandy Beach. M&amp;T Bank and Goldcrest Properties did not immediately return requests for comment. Andrew Coen can be reached at acoen@commercialobserver.com. &nbsp;",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-20T15:55:37+00:00",
+      "bullets": [
+        "M&T Bank provided $25.5M acquisition financing for Goldcrest Properties to buy 125-unit Hopes Crossing, Toms River NJ",
+        "Garden-style apartments, 1–4 bedrooms, 1994-built asset; 14 miles west of Normandy Beach",
+        "Quick 43-day close signals lender appetite for secondary-market multifamily acquisitions with strong sponsorship"
+      ],
+      "summary": "M&T Bank provided $25.5 million in acquisition financing for Goldcrest Properties to purchase Hopes Crossing, a 125-unit garden-style apartment community in Toms River, New Jersey. The property comprises one- to four-bedroom units originally built in 1994, located 14 miles west of Normandy Beach. The loan closed in 43 days, underscoring lender responsiveness for well-capitalized sponsors with stabilized assets.",
+      "impact": "Jersey Shore multifamily continues to attract acquisition capital; fast closings indicate strong lender confidence in secondary-market suburban assets with established sponsorship. For developers, this validates the buybox for value-add acquisitions in the NYC orbit; strong lending velocity supports hold-and-stabilize strategies in mature Jersey Garden communities."
+    },
     {
       "title": "BXP Selling 7 Times Square Ground Lease",
       "link": "https://commercialobserver.com/2026/07/bxp-selling-7-times-square-ground-lease/",
       "excerpt": "In a test of the appetite for Times Square offices, BXP has hired Will Silverman and Gary Phillips at Eastdil Secured to market the 7 Times Square ground lease, Commercial Observer has learned. BXP expects to ask from $700 million to $750 million. A source close to the deal said the price will be just north of $700 million. That price is just over the $684 million Norges Bank Investment Management paid in 2013 for a 45 percent stake in the primarily Class A office property, which then revalued the building at $1.52 billion. Bids for the new sale are due soon, sources said. The 1.2 million square-foot tower was developed in 2004 as part of the overall Times Square redevelopment. Also known as Times Square Tower, it operates on a 99-year ground lease that commenced on April 18, 1990, and includes an option to purchase the site from the city. The sale of the lease will be a test of the local market that is filled with tourists, as its neighbor at 5 Times Square is already undergoing a conversion to residential units by RXR, while SL Green Realty is considering changing 1515 Broadway into a hotel. The news of the marketing was first reported by Green Street&#8217;s Real Estate Alert, which noted the 91 percent occupied tower has roughly 100,000 square feet available at the most valuable top floors. Green Street&#8217;s Sale Comps Database said only nine single-property office buildings have traded for at least $700 million since 2020. Two of those deals were after 2022, including the $1.08 billion sale of 590 Madison Avenue to RXR and Elliott Investment Management and the purchase by SL Green of Park Avenue Tower at 65 East 55th Street for $720 million, with both marketed by Eastdil. Designed by David Childs of Skidmore Owings &amp; Merrill, 7 Times Square was developed by the company then known as Boston Properties (now BXP) on a full block bounded by West 41st and West 42nd streets, Broadway and Seventh Avenue. It was skillfully constructed, as it is completely surrou",
       "source": "Comm. Observer",
       "cat": "Commercial",
-      "date": "2026-07-20T15:39:07+00:00"
-    },
-    {
-      "title": "United Talent Agency Consolidates to 101K SF at ESRT’s Empire State Building",
-      "link": "https://commercialobserver.com/2026/07/united-talent-agency-lease-esrt-empire-state-building/",
-      "excerpt": "Los Angeles-based United Talent Agency (UTA), known for its high-profile clients, has aptly selected New York City’s most famous office building for its new East Coast headquarters. UTA leased 100,948 square feet at the Empire State Building in a move that will consolidate its various office locations across Manhattan, the company announced Monday. The New York Post first reported the news. The new headquarters will occupy the 32nd through 35th floors of the 1,454-foot-tall tower at 20 West 34th Street owned by Empire State Realty Trust (ESRT). Asking rent was $96 per square foot. UTA and its partners, including Klutch Sports Group and digital influencer management firm DBA, represent a vast roster of celebrity clients, from Timothée Chalamet and Bad Bunny to Anderson Cooper and LeBron James. When it comes to real estate, however, the agency left it up to the professionals. JLL&#8216;s Mitchell Konsker, Benjamin Bass and Harrison Potter were tapped to represent UTA in the negotiations. Bass said in a statement that the new lease gives the agency room to grow and a desirable work environment. &#8220;Beyond the prestige of the address, the Empire State Building provides them with an incredible range of amenities and flexible floor plates that can adapt as they evolve,” Bass said. ESRT’s Jordan Berger, Shanae Ursini and Kerry Lavelle negotiated in-house on behalf of the landlord, alongside a Newmark team of Scott Klau, Erik Harris, Neil Rubin, Brent Ozarowski, Zachary Weil and Cole Gendels. Spokespeople for JLL, ESRT and Newmark did not respond to requests for comment. The move to the Empire State Building, slated for next summer, will be a consolidation and an expansion for UTA. The agency is currently spread across three Manhattan offices spanning 81,000 square feet, the Post reported. UTA’s website currently lists office locations at 888 Seventh Avenue and 27 West 24th Street. Bob Roback, UTA’s chief operating officer, said in a statement that the new lease reflects",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-20T15:22:47+00:00"
-    },
-    {
-      "title": "Healthpeak, Brookfield Launch $2.1B Outpatient Medical JV",
-      "link": "https://www.connectcre.com/stories/healthpeak-brookfield-launch-2-1b-outpatient-medical-jv/",
-      "excerpt": "Healthpeak Properties, Inc. and Brookfield Asset Management on Monday announced the formation of a long-term strategic capital partnership through a joint venture involving a portfolio of outpatient medical buildings across the U.S. The portfolio contributed by Healthpeak includes 86 properties totaling approximately 5.6 million square feet, valued at approximately $2.1 billion. The portfolio is diversified across 11 states, including Kentucky, Indiana, Pennsylvania, Arkansas, Illinois, Minnesota, New Jersey and New York. It&#8217;s 95% leased with a weighted average remaining lease term of six years. Brookfield and its affiliates own a non-controlling 49% interest in the venture. Healthpeak retained a 51% controlling interest and serves as managing member, providing asset management, leasing and property management services. The transaction provides Healthpeak with long-term capital while preserving ownership, operational control and continued participation in the portfolio’s future value creation. &#8220;This joint venture underscores the differentiated platform Healthpeak has built and highlights our investment management capabilities,&#8221; said Adam Mabry, CIO of Denver-based Healthpeak. &#8220;It also provides us with a framework to replicate as we pursue broader investment opportunities and deploy capital across our segments.” Newmark acted as financial advisor and Kirkland &amp; Ellis LLP acted as legal advisor to Brookfield. The post Healthpeak, Brookfield Launch $2.1B Outpatient Medical JV appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-20T15:09:24+00:00"
-    },
-    {
-      "title": "Ardent Acquires Kennesaw Mall",
-      "link": "https://www.connectcre.com/stories/ardent-acquires-kennesaw-mall/",
-      "excerpt": "Town Center at Cobb in Kennasaw transferred to The Ardent Cos. as part of a foreclosure auction. The Atlanta Business Chronicle reports the transaction was valued at $51.75 million. Kohan Retail Investment Group purchased Town Center at Cobb for $71 million in January 2023 and took out a $42 million loan that became tied to Hull Property Group, records show. Kohan then paid off that loan in full in August 2024 and took out a new $46.7 million loan with The Ardent Cos. It now controls most of Town Center at Cobb except for JCPenney and Macy’s, which are owned by those retailers. Located off Ernest West Barrett Parkway, the 1.3 million square foot Town Center at Cobb debuted in 1986. Ardent&#8217;s discount purchase was not the first time that Town Center at Cobb&#8217;s valuation took a hit. The property went into foreclosure in 2021, with lead lender and loan trustee Deutsche Bank claiming the mall from Simon Property Group in 2021. The post Ardent Acquires Kennesaw Mall appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-20T14:52:01+00:00"
+      "date": "2026-07-20T15:39:07+00:00",
+      "bullets": [
+        "BXP marketing 7 Times Square ground lease; $700M+ asking price, 99-year lease from 1990, 1.2M sf",
+        "Comparability: 2013 Norges Bank 45% stake valued building at $1.52B; ground lease sale tests office market sentiment",
+        "Times Square office market under conversion pressure; ground lease sale may signal repositioning expectations"
+      ],
+      "summary": "Boston Properties has engaged Eastdil Secured to market the ground lease on 7 Times Square for $700M–$750M (likely just north of $700M). The 1.2M-sf, Class A office tower developed in 2004 operates on a 99-year ground lease from April 18, 1990, with an option to purchase. In 2013, a 45% stake sold to Norges Bank valued the building at $1.52 billion. The marketing test comes as nearby 5 Times Square pursues residential conversion.",
+      "impact": "Times Square office-to-residential conversion risk is rising; BXP's ground lease sale at discounted implied value ($700M for ~50% stake at historical $1.52B valuation) signals acknowledged office headwinds. Increased conversion risk in Times Square may accelerate pipeline for hotel-to-residential and office-to-residential conversions, creating near-term supply/demand pressure in core Midtown Manhattan rental markets."
     },
     {
       "title": "Stetson University plans Tampa development as higher ed bets on mixed-use districts",
@@ -62,55 +180,14 @@
       "excerpt": "Stetson University is joining the higher education trend of investing in mixed-use districts, with the redevelopment of its Tampa Law Center. Stetson is partnering with New York-based Bromley Companies on plans to develop 670 apartments, 300 hotel keys, 37,500 square feet of retail space and 440,000 square feet of office space, along with a new law center, on the 6.5-acre site in the Tampa Heights district, according to ConnectCRE.&#160; Stetson University acquired the property from the City of Tampa in 2002, according to the Tampa Business Journal. It was previously the site of the Tampa Heights police station.&#160; The university’s [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
       "source": "TRD Development",
       "cat": "Development",
-      "date": "2026-07-20T14:30:00+00:00"
-    },
-    {
-      "title": "Talonvest Arranges $57.7M Refi on 7 Florida Self-Storage Facilities",
-      "link": "https://www.connectcre.com/stories/hpi-scores-57-7m-refi-on-7-florida-self-storage-facilities/",
-      "excerpt": "Talonvest Capital arranged $57.7 million in financing for seven Florida self-storage properties on behalf of HPI Real Estate Services &amp; Investments. The portfolio consists of institutional-quality, Class A self-storage assets developed and acquired by HPI between 2021 and 2024. Located across Florida, the properties total 4,598 units and 486,769 net rentable square feet. The financing consisted of a non-recourse debt fund loan structured with a two-year initial term and three one-year extension options. Talonvest secured interest-only payments throughout the initial term. The financing also featured a prepayment structure with no exit fee and an 18-month cash management holiday, providing additional flexibility during the lease-up and stabilization period. Eric Snyder, Kim Bishop, Carson Kurland, and Lauren Maehler were among the Talonvest team members responsible for arranging the financing. The post Talonvest Arranges $57.7M Refi on 7 Florida Self-Storage Facilities appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-20T14:19:48+00:00"
-    },
-    {
-      "title": "Graycliff Capital Offloads Two Augusta Apartment Communities",
-      "link": "https://www.connectcre.com/stories/graycliff-capital-offloads-two-augusta-apartment-communities/",
-      "excerpt": "Berkadia brokered the sale and financing of two garden-style multifamily properties in Augusta, Georgia: Stevens Creek Commons and Marks Church Commons. Berkadia’s Mike Riley, Ian Shaw, Andrew Mays and Paul Vetter led the sale on behalf of the seller, Haley Real Estate Group. Jake Adoni and Jeremy Lynch of Berkadia’s Philadelphia office secured financing through Freddie Mac on behalf of the buyer, Graycliff Capital Partners. Stevens Creek Commons, located at 100 Bon Air Drive, comprises 256 units and was built in 1986. The unit mix includes 104 one-bedroom units and 152 two-bedroom units. Marks Church Commons, located at 1700 Bowdoin Drive, comprises 160 units and was built in 1988. The property consists of 88 one-bedroom units and 72 two-bedroom units. Join the industry&#8217;s top multifamily decision-makers at Connect Apartments on September 22 in LA. Hear from the investors, developers, lenders, owners, and advisors shaping today&#8217;s apartment market through candid conversations, networking, and market insights. Register today at www.connectapts2026.com. The post Graycliff Capital Offloads Two Augusta Apartment Communities appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-20T14:08:36+00:00"
-    },
-    {
-      "title": "Affinius Capital, Axonic Capital Provide $43M Refi for Miami-Area Self-Storage Properties",
-      "link": "https://commercialobserver.com/2026/07/affinius-capital-axonic-capital-refi-miami-self-storage/",
-      "excerpt": "UTEX Storage Partners has secured a $42.5 million loan to refinance a two-property self-storage portfolio in Miami-area cities Coral Gables and Pembroke Pines, Commercial Observer can first report. Affinius Capital and Axonic Capital provided the debt — the fifth such joint origination between the two firms — while Greysteel’s Daniel Hartnett arranged the transaction. The facility in Pembroke Pines will be four stories and feature 1,097 units, while the Coral Gables facility will expand from just under 1,000 units to 1,500 following the refinancing. Tyler Figley, Affinius Capital senior vice president, described both assets in a statement as “institutional-quality self-storage” properties. Figley noted that the two cities near Miami are both supply constrained for self-storage facilities and have exhibited “sustained population growth.” “Both properties are well positioned in high-visibility locations serving premier residential areas with limited new self-storage supply,” said Figley. Brian Pascus can be reached at bpascus@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-20T14:00:37+00:00"
-    },
-    {
-      "title": "Work Underway on West Palm Beach Apartments, Hotel",
-      "link": "https://www.connectcre.com/stories/work-underway-on-west-palm-beach-apartments-hotel/",
-      "excerpt": "Construction is underway on two projects adjacent to West Palm Beach&#8217;s Brightline station. Developers LD&amp;D and IGEQ, together with capital and investment partner FrontRange Capital Partners, started work on Alida Residences, a 181-unit luxury multifamily community, and a 112-key hotel under Marriott’s Tribute Portfolio flag. Both will be developed simultaneously as distinct residential and hospitality properties. The properties will be surrounded by approximately five million square feet of office space, directly across from the Brightline station and just down the street from Vanderbilt University&#8217;s future campus. The 181-unit community, Alida Residences, will offer studios, one-, two-, and three-bedroom units ranging from 500 to over 2,000 square feet, with unobstructed views in three directions, top-of-market finishes, and access to wellness-driven amenities. Its 21st-floor pool deck will be the first true rooftop pool on a high-rise multifamily building in downtown West Palm Beach. Alida Residences and the Tribute Portfolio by Marriott hotel are expected to be completed in 2028. The post Work Underway on West Palm Beach Apartments, Hotel appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-20T13:55:58+00:00"
-    },
-    {
-      "title": "GLP-1 Users Are Reshaping Retail With Every Pound They Shed",
-      "link": "https://commercialobserver.com/2026/07/glp-1-retail-groceries-clothes/",
-      "excerpt": "In 2024, according to a Gallup survey, just 3 percent of U.S. adults were using GLP-1 medications to lose weight. By July 2026, that share had soared to 11 percent, with 15 percent saying they had at some point tried a GLP-1 drug such as Ozempic or Wegovy for weight loss. This means that right now, around 1 in 8 American adults are making a serious attempt to eat healthier, live less destructive lifestyles, and transform into the idealized versions of themselves they had long been trying, but failing, to become. Knowing the traditional purchasing power of aspirational Americans, it seems unlikely that these changes would come without a corresponding shift in shopping habits that in turn would have a serious effect on retailers. The quest for a better, healthier self, after all, means specific lifestyle changes: choosing healthier food and smaller portions at grocery stores and restaurants, working out at the local gym, and finally being able to fit into that outfit that’s been whispering seductively to you from behind a retailer’s display window or website. It comes as little surprise, then, to learn that retailers are indeed seeing the GLP-1-inspired effects of this trend in both foot traffic and sales figures. A study in the Journal of Marketing Research published in December 2025 analyzed the spending of tens of thousands of U.S. households where a GLP-1 drug was being used for weight loss. The study found that households reduce grocery spending by an average of 5.3 percent within six months of starting the medication, with the spending of higher-income households falling 8 percent. Fast-food, coffee shop and other limited- service eatery spending also drops by 8 percent, while spending on snacks and sweets falls by 10 percent. An April 2026 report from consultancy McKinsey &amp; Company delved deeper, breaking down sales drops by specific categories. Among the survey’s findings: Six months after starting a GLP-1, consumers spent 11.5 percent less on chips and ot",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-20T13:00:02+00:00"
-    },
-    {
-      "title": "Investment Firm HarbourVest Partners Takes 20K SF at 9 West 57th Street",
-      "link": "https://commercialobserver.com/2026/07/harbourvest-partners-lease-9-west-57th-street/",
-      "excerpt": "HarbourVest Partners, a global private markets investment firm, is moving into its first New York City office, Commercial Observer has learned. The firm, which is headquartered in Boston, has inked a 10-year deal for 19,752 square feet on part of the 49th floor of the Soloviev Group’s 9 West 57th Street. The asking rent was not disclosed, but Commercial Observer previously reported a record asking rent at the Midtown office tower — also known as the Solow Building — of $327.50 per square foot. The average asking rent for office space in Midtown was $98.98 per square foot during the first half of 2026, according to Colliers research. HarbourVest Partners was represented by JLL’s Alexander Chudnoff and Ava Loughlin, while Soloviev Group was represented by CBRE’s Howard Fiddle, John Maher, Gregg Rothkin, Tara Rhodes and Alex Leopold. CBRE did not immediately respond to a request for comment. “Today&#8217;s leading financial firms are increasingly focused on attracting and retaining top talent, and the office they choose has become a critical part of that strategy,” Chudnoff said in a statement. “HarbourVest wanted its office in New York City to reflect the caliber of its business, and to provide an exceptional experience for both clients and employees. Few buildings deliver that combination better than 9 West 57th Street, which continues to attract many of the world&#8217;s most prestigious financial and investment firms.” Built in 1974, 9 West 57th Street is a 49-story office building with tenants including oil and energy company Hess Group and global finance firm Tikehau Capital. Amanda Schiavo can be reached at aschiavo@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-20T11:00:09+00:00"
+      "date": "2026-07-20T14:30:00+00:00",
+      "bullets": [
+        "Stetson University + Bromley developing mixed-use Tampa Heights; 670 apartments, 300 hotel keys, 37.5K sf retail, 440K sf office",
+        "6.5-acre site on former Tampa police station; rezoning required; 3-phase build starting late 2027",
+        "Higher education real estate portfolio expansion trend; University of South Florida 27-acre Fletcher District concurrent"
+      ],
+      "summary": "Stetson University is partnering with New York-based Bromley Companies on a mixed-use redevelopment of its 6.5-acre Tampa Law Center campus in Tampa Heights. The project will deliver 670 apartments, 300 hotel keys, 37,500 sf of retail, 440,000 sf of office, and a new law center. The development requires Tampa City Council rezoning approval, with construction targeted to begin late 2027 in three phases. The initiative mirrors a national trend of universities monetizing real estate through mixed-use development.",
+      "impact": "Tampa multifamily market gaining institutional-scale supply from university-backed developer with strong track record (Bromley's Midtown Tampa). 670 units represents significant pipeline addition to Tampa Heights submarkt; units likely to skew toward student/young-professional target, potentially adding renter demand but also tempering market rents if supply timing overlaps with competing deliveries. Strong developer pedigree reduces execution risk."
     },
     {
       "title": "Fraud scheme: real estate journalism’s version of “if it bleeds, it leads”",
@@ -118,7 +195,14 @@
       "excerpt": "Real estate’s version of “if it bleeds, it leads” usually includes some version of the phrase “fraud scheme.” DFW real estate’s latest 15-car pileup on I-35 is the case of two Frisco entrepreneurs who already had a go-round with allegations of a “Ponzi scheme” on their track record before concocting promotional materials for a luxury waterfront development on the San Gabriel River that they never intended to build, the Dallas Morning News reported. Promotional materials for the 400-acre development showed a mixed-use development with office retail, restaurants, parks and a canal big enough for boats on the Central Texas river [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
       "source": "TRD Development",
       "cat": "Development",
-      "date": "2026-07-18T14:00:00+00:00"
+      "date": "2026-07-18T14:00:00+00:00",
+      "bullets": [
+        "Williamson County jury ruled against Krishnan/Gounder on fraudulent San Gabriel River development; $400M damages awarded",
+        "Energy Commissioning owner lost home; $300M punitive damages; pair also faced 2023 SEC Ponzi restraining order",
+        "Central Texas development reputation risk; impact on investor confidence in regional deals"
+      ],
+      "summary": "A Williamson County jury found entrepreneurs Gopala Krishnan and Sakthivel Gounder liable for fraud and breach of contract related to a fake 400-acre mixed-use development on the San Gabriel River in Central Texas, awarding $400 million in damages to Energy Commissioning Inc. (including $300M in punitive damages). The pair had previously faced SEC action in 2023 for an alleged Ponzi scheme targeting DFW's Indian-American community for $130 million.",
+      "impact": "Minimal direct multifamily impact, but high relevance for Central Texas real estate sentiment and investor diligence. Major fraud verdict reduces trust in unfamiliar sponsors in the region; lenders and equity investors will likely increase due diligence scrutiny on new Central Texas deals, potentially slowing capital deployment and development velocity in lesser-known sponsor platforms."
     },
     {
       "title": "Align ups unit count, lowers height for controversial Marina Safeway project",
@@ -126,7 +210,14 @@
       "excerpt": "Align Real Estate is making its contentious Marina Safeway redevelopment a little shorter and a little denser, revising its proposal as it tries to steer one of San Francisco’s most closely watched housing projects through city approval. The San Francisco-based developer submitted updated plans that would reduce the project’s tallest towers from 25 and 22 stories to 22 and 18 stories while increasing the residential count from 790 to 848 units, the San Francisco Chronicle reported. The redesign trims roughly 40 feet from the east tower and 23 feet from the west tower with the entire development at 15 Marina [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
       "source": "TRD Development",
       "cat": "Development",
-      "date": "2026-07-17T23:44:37+00:00"
+      "date": "2026-07-17T23:44:37+00:00",
+      "bullets": [
+        "Align Real Estate revising Marina Safeway SF project: 790→848 units, 25/22-story towers→22/18-story towers",
+        "989.5K sf mixed-use on SF waterfront; planning approval under state AB 2011; mayor still opposed despite trade-offs",
+        "San Francisco housing shortage vs. design/parking politics; entitlement timeline at risk"
+      ],
+      "summary": "Align Real Estate submitted revised plans for the Marina Safeway redevelopment at 15 Marina Boulevard in San Francisco, reducing tower heights from 25 and 22 stories to 22 and 18 stories while increasing residential units from 790 to 848. The 989,500-sf project optimizes density, squeezing 58 additional apartments through floor-plan changes while trimming nonresidential and amenity space. The proposal is under review per state law AB 2011; however, Mayor Daniel Lurie remains opposed despite the concessions.",
+      "impact": "San Francisco supply pipeline at risk due to political headwinds despite state-level streamlining law. For multifamily developers, Align's entitlement struggle signals that even high-density urban infill projects face multi-year approval cycles and political uncertainty in SF; reduced expectations for near-term SF delivery should elevate rents and cap rates for existing stabilized assets, benefiting SFBA property owners."
     },
     {
       "title": "Miami design board swoons over OKO Lilli, 13th Floor’s Nobu condo towers",
@@ -134,7 +225,14 @@
       "excerpt": "Vlad Doronin’s second condo tower in Edgewater and 13th Floor Investments’ proposal for a Nobu-branded residential building next to a historic Brickell church are advancing.&#160; The Miami Urban Development Review Board voted in favor of both developments on Wednesday, with most board members gushing over the designs of what would be the latest luxury tower additions to the city’s quickly evolving skyline. One board member voted no on Doronin’s planned building, citing issues with some of the design.&#160; Miami-based OKO Group, led by Doronin, plans the 53-story, 117-unit project, called OKO Lilli Tower, on the half-acre lot at 717 Northeast [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
       "source": "TRD Development",
       "cat": "Development",
-      "date": "2026-07-17T18:00:00+00:00"
+      "date": "2026-07-17T18:00:00+00:00",
+      "bullets": [
+        "OKO Group (Doronin) advancing 53-story, 117-unit OKO Lilli in Edgewater Miami; UDRB approval received",
+        "13th Floor/Nobu advancing 75-story, 321-unit condo tower at 619 Brickell; UDRB approved; church remains intact",
+        "Miami luxury condo pipeline continues; $75K+/unit market remains active despite macro headwinds"
+      ],
+      "summary": "The Miami Urban Development Review Board voted in favor of two luxury residential projects: OKO Group's 53-story, 117-unit OKO Lilli Tower in Edgewater and 13th Floor Investments' 75-story, 321-unit Nobu-branded tower at 619 Brickell Avenue. Both projects feature ultra-high-end finishes and private elevator arrivals; OKO Lilli includes ground-floor retail and an eight-story garage, while 619 Brickell preserves the adjacent First Miami Presbyterian Church. UDRB approval is advisory; final authority rests with the planning and zoning director.",
+      "impact": "Miami luxury condo market remains robust and visible; however, for multifamily (rental) developers, persistent condo conversions and ownership-focused projects reduce available capital and land for new purpose-built rental communities. Watch for sustained demand pressure on Class A/B rental housing as wealth-targeting condo projects absorb premium waterfront and Brickell sites."
     },
     {
       "title": "Palm Beach County nixes proposed Project Tango data center",
@@ -142,7 +240,14 @@
       "excerpt": "Plans for a proposed data center in Palm Beach County hit a major roadblock Wednesday after county commissioners rejected a zoning application that would have allowed the project’s development.&#160; At the end of a 12-hour hearing, officials voted 5-1 to deny an amended zoning application that would have permitted for a 1 million-square-foot data center at 20125 State Road 80/Southern Boulevard, the South Florida Business Journal reported. The project also would have included 2.3 million square feet of warehouses and 216,000 square feet for minor utility use.&#160; Plans for Central Park Commerce Center, also known as Project Tango, were filed [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
       "source": "TRD Development",
       "cat": "Development",
-      "date": "2026-07-17T16:45:00+00:00"
+      "date": "2026-07-17T16:45:00+00:00",
+      "bullets": [
+        "Palm Beach County rejected Project Tango data center zoning; 5-1 vote denied 1M sf data center + 2.3M sf warehouses",
+        "Central Park Commerce Center: PBA Holdings/WPB Logistics joint venture fell into litigation; developer can reapply",
+        "Data center and industrial pushback signals community opposition to heavy use intensification in West Palm Beach"
+      ],
+      "summary": "Palm Beach County commissioners voted 5-1 to deny the amended zoning application for Central Park Commerce Center (Project Tango), a proposed 1 million-sf data center with 2.3M sf of warehouses and 216K sf of utility use at State Road 80/Southern Boulevard. Over 80 speakers opposed the project citing infrastructure and community impact concerns. The joint-venture developer (PBA Holdings and WPB Logistics) has since entered litigation; however, the motion was made without prejudice, allowing resubmission.",
+      "impact": "Industrial/data center zoning setback in South Florida signals heightened regulatory scrutiny and community opposition to large industrial use intensification near residential areas. For multifamily developers in Palm Beach County and surrounding West Palm Beach area, reduced industrial/data center entitlement may ease congestion concerns and support rental demand; however, loss of logistics/tech employment hubs could dampen long-term job growth and in-migration forecasts for the region."
     },
     {
       "title": "Musk’s companies prep $5M Seaholm office renovation",
@@ -150,7 +255,14 @@
       "excerpt": "Downtown Austin’s Seaholm Power Plant, which was quietly occupied by several Elon Musk-affiliated companies earlier this year, is getting a $5.2 million facelift.&#160; The planned renovations have been put in place by Wit Tech, a company with links to SpaceX, the firm that is pushing the construction of the Terafab semiconductor manufacturing plant in Grimes County. Musk’s companies occupy 35,000 square feet of space at 800 West Cesar Chavez Street, according to the Austin American Statesman. Musk is typically bombastic about his companies’ pursuits and ambitious, but has not yet publicly commented on the office space. He has given notes [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
       "source": "TRD Development",
       "cat": "Development",
-      "date": "2026-07-17T15:27:33+00:00"
+      "date": "2026-07-17T15:27:33+00:00",
+      "bullets": [
+        "Elon Musk-affiliated companies (Wit Tech/SpaceX) undertaking $5.2M renovation at downtown Austin Seaholm office; 35K sf occupied",
+        "Terafab semiconductor fab planned in Grimes County; $55B project with 100M+ sf potential; land acquisitions ongoing",
+        "Musk's Austin area expansion (6K+ acres + tripled Bastrop holdings) signals major tech/manufacturing cluster in formation"
+      ],
+      "summary": "Wit Tech, a company linked to SpaceX, is investing $5.2 million in renovations at the Seaholm Power Plant in downtown Austin, where Musk-affiliated companies occupy 35,000 sf at 800 West Cesar Chavez Street. The office buildout coincides with Musk's Terafab semiconductor manufacturing plant project in Grimes County (north of Austin), a $55 billion venture on 6,000+ acquired acres with potential to expand to 100M sf. Grimes County commissioners approved tax breaks and a TIRZ for the project.",
+      "impact": "Austin area multifamily fundamentals are entering a transformative cycle. Terafab alone will generate thousands of high-wage manufacturing and engineering jobs; Grimes County in-migration and new household formation will require substantial rental housing. Developers should acquire land in corridors between Grimes County and Austin proper (I-35 North, TX-45) to capture spillover demand; rising land values and construction costs in core Austin make North/Northeast expansion economically defensible. Tax incentives and TIRZ approval reduce execution risk for large-scale employment-anchored development."
     }
   ]
 }
