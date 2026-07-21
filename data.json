@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-21T17:08:10.457518+00:00",
+  "fetchedAt": "2026-07-21T19:05:41.824555+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -10,20 +10,155 @@
     {
       "label": "10Y Treasury",
       "value": "4.63%",
-      "pct": 0.61
+      "pct": 0.65
     },
     {
       "label": "30Y Treasury",
       "value": "5.13%",
-      "pct": 0.33
+      "pct": 0.31
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "99.48",
-      "pct": 0.0
+      "value": "99.36",
+      "pct": -0.12
     }
   ],
   "stories": [
+    {
+      "title": "Boston, Army Corps Issue Draft Study of $10B Coastal Resilience Program",
+      "link": "https://www.connectcre.com/stories/boston-army-corps-issue-draft-study-of-10b-coastal-resilience-program/",
+      "excerpt": "The City of Boston on Tuesday announced the release of the US Army Corps of Engineers’ (USACE) draft Boston Coastal Storm Risk Management Feasibility Study. Projected for completion in 2028, the study will allow the city to access up to 65% federal cost-sharing in a $10-billion program to construct 20-plus coastal resilience projects and prevent an estimated $41 billion in damages from coastal flooding. “The future of our city depends on the steps we take now to build resilient communities,” said Mayor Michelle Wu. “With more frequent flooding in vulnerable areas during extreme weather events, the Coastal Storm Risk Management Feasibility Study is critical to understanding how to protect inland neighborhoods most at risk and unlocking resources to take action.” Roughly one sixth of Boston is built on filled tidelands and is in danger of flooding due to sea-level rise and extreme weather, according to Wu&#8217;s office. Since 1991, Boston has experienced 24 severe storm events that triggered federal or state disaster declarations,14 of which caused major flooding. The draft report is open to public comment from July 24 through Sept. 18. Residents and stakeholders can submit their feedback and learn about upcoming community meetings and webinars here. The post Boston, Army Corps Issue Draft Study of $10B Coastal Resilience Program appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-21T19:03:34+00:00",
+      "bullets": [
+        "Boston Army Corps draft $10B coastal resilience study; 65% federal cost-share available",
+        "One-sixth of Boston built on filled tidelands; 24 severe storms since 1991 triggered disaster declarations",
+        "Study completion targeted 2028; opens multiyear window for infrastructure-backed redevelopment projects"
+      ],
+      "summary": "The Army Corps of Engineers released a draft Feasibility Study for a $10 billion Boston Coastal Storm Risk Management program, offering up to 65% federal cost-sharing for 20+ resilience projects. Roughly one-sixth of Boston sits on filled tidelands and faces flooding risk; the city has endured 24 severe storms since 1991, 14 causing major flooding. The study will be completed in 2028, unlocking federal funding for coastal protection infrastructure.",
+      "impact": "This creates a multi-year planning and funding window for mixed-use and residential development in Boston's vulnerable neighborhoods. Developers should monitor federal appropriations and the final study (due 2028) to identify areas receiving resilience investments—these zones will see improved infrastructure, reduced flood risk, and potential tax incentives, making them more financeable for new construction and value-add projects. Inland neighborhoods most at risk may become attractive infill targets once infrastructure commitments are clear."
+    },
+    {
+      "title": "AI Company Mercor Takes 26K SF at Durst’s One World Trade Center",
+      "link": "https://commercialobserver.com/2026/07/mercor-lease-durst-one-world-trade-center/",
+      "excerpt": "One World Trade Center is almost 100 percent leased thanks to the latest deal with an artificial intelligence company, Commercial Observer has learned. Mercor, which employs human experts to train AI algorithms, has inked a five-year, 25,550-square-foot deal on the 77th floor of the Lower Manhattan office tower, the Durst Organization announced Tuesday. Durst owns the 104-story building along with the Port Authority of New York and New Jersey. The exact asking rent was not disclosed, but a source close to the deal told CO that the asking rent was in the high $80s to $90s per square foot. Durst was represented in-house by Eric Engelhardt, Karen Rose and Sayo Kamara, along with David Falk, Peter Shimkin, Hal Stein, Nathan Kropp and Paige Raisides from Newmark. Harry Singer from CBRE represented Mercor. The brokers did not immediately respond to requests for comment. “One World Trade Center was built for forward-looking, cutting-edge companies looking for a world-class home in New York City,” Jody Durst, president of Durst, said in a statement. “We look forward to welcoming Mercor to the building.” Mercor’s website says its headquarters is located in San Francisco, and does not list a New York City address. However, company CEO Brendan Foody previously posted on LinkedIn that the company would be expanding to New York City in January. It is unclear whether Foody was referencing the deal at One World Trade Center. “New York puts us close to some of the most important enterprises in the world, and to some of the highest caliber talent,” Koby Twist, special initiatives lead at Mercor, said in a statement. “One World Trade Center gives our team a home at the center of both.” One World Trade Center, the tallest building in the Western Hemisphere, was built by the Port Authority and Durst in a public-private partnership. Other recent tenants include fashion and culture publication W Magazine, global financial services company Ameriprise Financial, and energy- and infrastruct",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-21T18:55:00+00:00",
+      "bullets": [
+        "Mercor AI firm leases 25,550 SF at One World Trade Center, 77th floor; 5-year term",
+        "One WTC now ~100% leased; asking rents high $80s–$90s per SF",
+        "Manhattan office: tech/AI tenants still commanding premium space despite broader office headwinds"
+      ],
+      "summary": "Mercor, an AI training firm, signed a five-year lease for 25,550 square feet on the 77th floor of One World Trade Center at asking rents in the high $80s to $90s per square foot. This deal pushes One WTC to approximately 100% occupancy. The Durst Organization owns the 104-story tower alongside the Port Authority.",
+      "impact": "Minimal direct multifamily impact. However, strong leasing velocity and rents at flagship Manhattan office towers (especially for AI/tech tenants) signal sustained talent migration and high-income employment in Lower Manhattan. This supports continued rental demand from office workers and executives in nearby residential markets, particularly luxury rentals in Battery Park, Tribeca, and the Financial District. Demonstrates pricing power remains for prime office space where tenants have high growth and capital."
+    },
+    {
+      "title": "Inland to Develop Apartments near Mayo Clinic in Rochester",
+      "link": "https://www.connectcre.com/stories/inland-to-develop-apartments-near-mayo-clinic-in-rochester/",
+      "excerpt": "Inland National Development Company (INDC) plans to co-develop Citywalk Apartments, a 342-unit, market-rate multifamily community in downtown Rochester, Minnesota, directly across from Mayo Clinic’s downtown campus. “We are excited to bring Citywalk Apartments to the heart of downtown Rochester,” said Anthony Casaccio, president and CEO of INDC. “This project reflects our commitment to delivering high-quality housing in high-growth markets like Rochester, where demand continues to be driven by world-class healthcare and sustained economic expansion.” INDC and Reuter Walton Development are working together as co-developers of the project.The community will be strategically located at 201 6th Ave SW, directly across the street from Mayo Clinic’s new $5 billion expansion and within steps of Rochester’s pedestrian-friendly subway and skyway system. The project includes a mix of studio, one-, two-, and three-bedroom residences and 90 short-term, fully furnished rental units. Construction on Citywalk Apartments is expected to begin in 2026, with completion anticipated in 2028. Where the apartment industry connects. Meet the owners, investors, developers, lenders, brokers, and service providers driving today&#8217;s multifamily market at Connect Apartments. Build relationships, uncover opportunities, and stay ahead of what&#8217;s next. The post Inland to Develop Apartments near Mayo Clinic in Rochester appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-21T18:49:04+00:00",
+      "bullets": [
+        "Inland National Development + Reuter Walton plan 342-unit market-rate Citywalk Apartments; Rochester, MN",
+        "Located across from Mayo Clinic's $5B expansion; construction 2026–2028",
+        "Mix of studios, 1–3 BR plus 90 short-term furnished units; skyway-connected downtown site"
+      ],
+      "summary": "Inland National Development Company and Reuter Walton Development are co-developing Citywalk Apartments, a 342-unit market-rate community in downtown Rochester, Minnesota, directly across from Mayo Clinic's new $5 billion campus expansion. The project will include studios through three-bedroom units plus 90 short-term furnished rentals, with construction starting in 2026 and delivery in 2028. The site sits within Rochester's pedestrian skyway system.",
+      "impact": "Rochester multifamily market is experiencing strong demand anchored by Mayo Clinic's $5B capital investment and ongoing medical employment growth. This signals sustained in-migration of healthcare workers, physicians, and allied professionals to the market. Developers should view Rochester as a high-confidence growth market for workforce housing; Mayo's expansion acts as a demand engine for mid-to-premium apartments. Additional development opportunities likely exist in adjacent submarkets and workforce/affordable tiers as the clinic campus grows."
+    },
+    {
+      "title": "CBRE Arranges Sale of a 134K-SF Grocery-Anchored Retail Center in PA",
+      "link": "https://www.connectcre.com/stories/cbre-arranges-sale-of-a-134k-sf-grocery-anchored-retail-center-in-pa/",
+      "excerpt": "CBRE has arranged the sale of Shops at Crossroads, a 133,717-square-foot grocery-anchored shopping center located at 3560 Route 611 in Bartonsville, Pennsylvania. Chris Munley, Colin Behr, Ryan Sciullo, and Casey Smith of CBRE’s National Retail Partners team represented the buyer and the seller in the transaction. Built in 2009, Shops at Crossroads is strategically located just off Interstate 80, along Route 611 in the Pocono region, with access to a commercial corridor that includes more than 4 million square feet of retail. The property is anchored by GIANT and features a mix of national and specialty tenants, including Visionworks, Red Lobster, Jersey Mike’s and CosmoProf. “Anchored by a dominant grocer with exceptional sales performance and contributing nearly half of the property&#8217;s NOI, the asset benefits from a highly stable income stream,” said Behr. “While Bartonsville is considered a tertiary market, the Route 611 corridor remains exceptionally dynamic, boasting approximately 99% retail occupancy and strong retailer demand.” The post CBRE Arranges Sale of a 134K-SF Grocery-Anchored Retail Center in PA appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-21T18:40:26+00:00",
+      "bullets": [
+        "Shops at Crossroads: 133,717 SF grocery-anchored retail, Bartonsville, PA; GIANT anchor, 99% occupancy",
+        "Route 611 corridor: 4M+ SF retail supply, I-80 access; tertiary market with strong retailer demand",
+        "Anchor GIANT generates ~50% of property NOI; stable income stream attracts institutional capital"
+      ],
+      "summary": "CBRE arranged the sale of Shops at Crossroads, a 133,717-square-foot grocery-anchored retail center in Bartonsville, Pennsylvania, anchored by GIANT supermarket with tenants including Visionworks, Red Lobster, Jersey Mike's, and CosmoProf. Built in 2009, the property sits along Route 611 near I-80 in the Pocono region, where the retail corridor boasts ~4 million square feet of supply and 99% occupancy. The GIANT anchor drives nearly half the property's NOI.",
+      "impact": "Minimal direct multifamily relevance; retail-focused asset. However, the strong occupancy and institutional buyer interest in tertiary-market, grocery-anchored retail (especially with essential tenants like GIANT) reflects broader trend of investor capital flowing to non-discretionary-focused properties. This validates demand strength in secondary markets like the Poconos, which could signal nearby multifamily opportunities if population growth and labor market trends support it."
+    },
+    {
+      "title": "Los Angeles’ Moribund Multifamily Market Shows Signs of Life",
+      "link": "https://commercialobserver.com/2026/07/los-angeles-multifamily-housing-investment-sales-rent/",
+      "excerpt": "In a market where finding a development opportunity is akin to “finding a needle in a haystack,” and existing policy can “break the backs” of developers who want to build housing, it follows that a majority of the development community has “redlined” it to curtail future investment. It’s no surprise to hear that multifamily development in Los Angeles has become costlier, more tedious, and more rare. Developers face rising construction and labor costs, regulatory challenges and the city’s Measure ULA transfer tax, and persistent issues with financing. This year, only 8,500 units are expected to be added in the Los Angeles metro area, and rents will budge up just 1 percent, according to a recent Marcus &amp; Millichap report — not exactly green flags for making big multifamily investments. But, despite the apparent doldrums hamstringing the housing sector, there have been signs of life and significant increases in certain types of multifamily asset sales. While quarterly multifamily sales by dollar amount hit a recent peak in mid-2025, per CBRE — and then fell by 50 percent in the first quarter of 2026 compared to the final quarter of 2025 — sales volume and the number of units sold has recently jumped in certain key categories. According to the Marcus &amp; Millichap report, multifamily deal flow in the L.A. metro improved 25 percent in the year ending in March, with particular growth in Class C properties selling for $1 million to $5 million. Private investors are filling that gap, said John Chang, senior vice president and chief intelligence and analytics officer for Marcus &amp; Millichap. Private investors closed 66 percent of the multifamily sales volume. 740 South Burnside Avenue, Los Angeles. PHOTO: Courtesy Marcus &amp; Millichap “There&#8217;s always going to be a lot of demand to live here, and the economics of buying an existing property and trying to build somewhere are very, very different,” said Joshua Baum, founding principal of Hilgard Economics. “Inv",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-21T18:35:42+00:00",
+      "bullets": [
+        "Los Angeles metro: only 8,500 units expected 2026; rents rising just 1% per Marcus & Millichap",
+        "Developer constraints: Measure ULA transfer tax, high construction/labor costs, financing headwinds, regulatory friction",
+        "Market showing early signs of life; select asset classes and deal types gaining traction despite doldrums"
+      ],
+      "summary": "Los Angeles multifamily development remains highly constrained, with only 8,500 units projected to deliver in 2026 and rents rising just 1%, according to Marcus & Millichap. Developers cite rising construction and labor costs, Measure ULA transfer tax, regulatory challenges, and financing difficulties as key headwinds. However, recent data show early signs of recovery in select multifamily asset sales and deal types, suggesting some investor appetite is returning despite the difficult operating environment.",
+      "impact": "Los Angeles remains a cautionary tale for new development given restrictive policy, high costs, and weak absorption, but emerging signs of capital re-entry suggest selective opportunities may emerge in the next 12–18 months. Developers should monitor which asset types and geographies are seeing renewed institutional interest (likely affordable, adaptive reuse, or well-entitled shovel-ready projects). The 1% rent growth and low supply pipeline may eventually create pent-up demand, but near-term underwriting remains challenged by financing availability and policy risk."
+    },
+    {
+      "title": "Centerforce Establishes Tacoma HQ, Buys Historic Bone Dry Shoe Building",
+      "link": "https://www.connectcre.com/stories/centerforce-establishes-tacoma-hq-buys-historic-bone-dry-shoe-building/",
+      "excerpt": "Centerforce, a nonprofit organization that provides vocational training and employment services for adults with disabilities, has acquired the historic Bone Dry Shoe Building in downtown Tacoma for $2.5 million. The acquisition establishes a permanent headquarters for the growing nonprofit while preserving one of Tacoma&#8217;s most recognizable historic office buildings. Lee &amp; Associates brokers John Bauder and Harrison Laird represented the seller in the transaction. Ryan Kershaw and Drew Frame of Kidder Mathews represented Centerforce in the acquisition. Originally constructed in 1917 for the Bone Dry Shoe Manufacturing Company, the building still showcases its original heavy timber framing, exposed concrete walls and hardwood floors. Centerforce plans to occupy a portion of the building as its corporate headquarters while continuing to lease the remaining office space. &#8220;Representing the owners in the sale of the Bone Dry Shoe Building has been especially meaningful because of the history behind both the property and the people who have called it home,&#8221; said Bauder. The post Centerforce Establishes Tacoma HQ, Buys Historic Bone Dry Shoe Building appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-21T18:19:33+00:00",
+      "bullets": [
+        "Centerforce nonprofit acquires historic Bone Dry Shoe Building, Tacoma, WA; $2.5M purchase price",
+        "1917-built office asset with heavy timber, concrete, hardwood; Centerforce HQ + lease remainder",
+        "Tacoma downtown office market: historic preservation, nonprofit/mission-driven capital, adaptive reuse trend"
+      ],
+      "summary": "Centerforce, a nonprofit providing vocational training and employment services, acquired the historic Bone Dry Shoe Building in downtown Tacoma for $2.5 million. Originally constructed in 1917 for a shoe manufacturer, the building retains original timber framing, concrete, and hardwood. Centerforce will occupy a portion as corporate headquarters and lease out remaining office space.",
+      "impact": "Minimal direct multifamily impact. However, this signals Tacoma's downtown office market is attracting mission-driven and nonprofit capital, which can stabilize older buildings and neighborhoods. If additional nonprofits or social enterprises establish presence in downtown Tacoma alongside adaptive reuse conversions, it may drive neighborhood activation and eventual residential demand, particularly for workforce and supportive housing. Tacoma's relatively lower real estate costs compared to Seattle make it an emerging market for mixed-use and conversion plays."
+    },
+    {
+      "title": "Lee & Associates Negotiates Purchase of 456K-SF Warehouse in Lansing",
+      "link": "https://www.connectcre.com/stories/lee-associates-negotiates-purchase-of-456k-sf-warehouse-in-lansing/",
+      "excerpt": "Lee &amp; Associates of Illinois has negotiated the purchase of a 455,858-square-foot industrial building located at 16801 Exchange Avenue in Lansing, Illinois. Walter Murphy, Principal at Lee &amp; Associates of Illinois, represented the buyer, RBT Industries (The Great Escape), a retailer of the leading home leisure products. RBT will occupy 313,982 square feet of the building, while the remainder of the building is leased to LKQ Corporation. The institutional seller, Plymouth Industrial REIT, Inc., was represented by Stephanie Park, Colin Green and Traci Payette of CBRE. The heavily powered building is close to I-80 and I-94. “The building’s location, potential future expansion, and the cooperation of Lansing in securing the Class 8 tax incentive made this acquisition their preferred choice,” said Murphy. Connect Industrial West | August 20 | Irvine, CAOn August 20, Connect Industrial West will bring together the owners, investors, developers, brokers, lenders, and occupiers driving industrial real estate across the Western U.S. Join top decision-makers for an afternoon of market insights, dealmaking opportunities, and networking with the industry&#8217;s most influential players. Register now: www.connectindustrialwest2026.com The post Lee &amp; Associates Negotiates Purchase of 456K-SF Warehouse in Lansing appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-21T18:11:38+00:00",
+      "bullets": [
+        "RBT Industries (The Great Escape) purchases 455,858 SF warehouse, Lansing, IL; near I-80/I-94",
+        "RBT occupies 314K SF; LKQ Corporation leases remainder; Plymouth Industrial REIT seller",
+        "Buyer secured Class 8 tax incentive from Lansing; strong logistics corridor near Chicago"
+      ],
+      "summary": "Lee & Associates negotiated the purchase of a 455,858-square-foot industrial building in Lansing, Illinois, for RBT Industries, a home leisure products retailer. RBT will occupy approximately 314,000 square feet, with LKQ Corporation leasing the remainder. The heavily powered facility sits near I-80 and I-94, and the buyer secured a Class 8 tax incentive from Lansing. Plymouth Industrial REIT was the institutional seller.",
+      "impact": "Minimal direct multifamily relevance. However, the transaction confirms strong demand for last-mile/logistics facilities near Chicago's interstate corridors, suggesting continued population and job growth in the Chicagoland periphery. Tax incentives attracting occupier capital to Lansing may signal city investment in industrial/employment zones, which could indirectly support nearby multifamily if labor demand rises. Monitor broader Chicagoland industrial and logistics trends as a proxy for workforce in-migration."
+    },
+    {
+      "title": "CRE Fundraising Reflects Distress Cycle That Never Arrived: Report",
+      "link": "https://commercialobserver.com/2026/07/commercial-real-estate-fundraising-distress-avison-young/",
+      "excerpt": "The long-awaited wave of distressed commercial real estate strategies has not materialized. That was the contrarian conclusion in a new Avison Young national capital markets brief released Tuesday showing that fundraising has not matched years of predictions for increased investments in distressed properties. The Avison Young research— shared exclusively with Commercial Observer — shows fundraising has shifted away from CRE strategies since 2022 from a prolonged elevated interest rate environment coupled with better-than-expected pricing levels for borrowers. While transaction volume is up year-over-year for distressed assets, capital is competing for a limited supply of opportunities due to less forced sales than previously envisioned, according to the report. ‘I think that the higher-for-longer sentiment is a part of it, but it&#8217;s also about a high level of competition that continues to push pricing and yield more to the borrower’s favor,” Marion Jones, executive managing director of U.S. Capital Markets at Avison Young, told Commercial Observer. Fundraising allocated for distressed or opportunistic strategies dipped 38 percent in 2023 to $51.9 billion from $83.5 billion the previous year, according to Avison Young data, as the Federal Reserve began to aggressively hike interest rates to combat inflation. After rising slightly to $59.7 billion in 2024, capital for distressed or opportunistic funds slid 65 percent to $20.9 billion in 2025. Distressed strategy fundraising has experienced a comeback so far in 2026 with $26 billion raised in the first half of the year, but the numbers are still way down from their 2022 peak. “It’s a great narrative on the buy side to say we&#8217;re participating in distressed opportunities in the marketplace but the actual pricing and conviction that investors have to have in order to consummate these transactions doesn&#8217;t necessarily mean that they&#8217;re buying them at really high cap rates or really low price per squar",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-21T17:52:18+00:00",
+      "bullets": [
+        "Avison Young: CRE distress fundraising has not materialized despite years of predictions",
+        "Higher-for-longer rates + strong borrower pricing power reduced forced sales vs. 2022 expectations",
+        "Capital competing for limited distressed supply; transaction volume up but not forced liquidations"
+      ],
+      "summary": "Avison Young research shows that anticipated waves of distressed CRE sales have not materialized. Despite elevated interest rates since 2022, borrower pricing power has remained stronger than predicted, resulting in fewer forced sales. While transaction volume is rising year-over-year for distressed assets, capital is competing for a limited supply of actual distressed opportunities, suggesting the distress cycle many predicted never fully arrived.",
+      "impact": "For multifamily developers, this means the anticipated wave of distressed acquisitions and off-market deals at deep discounts has not materialized. Cap rates and valuations remain elevated but stable, pricing out marginal underwriters. Developers should expect continued competitive bidding for quality assets and limited opportunistic purchasing windows. This reinforces the importance of strong balance sheets, patient capital, and long-term holds. It also suggests existing multifamily portfolios held better than feared, limiting the supply of discounted inventory."
+    },
+    {
+      "title": "ACORE Capital Provides $140M to Refi Self-Storage Portfolio",
+      "link": "https://commercialobserver.com/2026/07/acore-capital-140m-self-storage-portfolio/",
+      "excerpt": "A joint venture between the Ardent Companies and StepStone Real Estate has secured a $140 million loan to refinance a portfolio of eight, Class A self-storage properties in seven northeastern U.S. states, according to a release. Acore Capital provided the debt, structured as a floating-rate loan, while a JLL Capital Markets team of Brian Somoza, Steven Klein, John Bauman, Campbell Swango and Shishir Reddy arranged the transaction. JLL’s Klein noted in a statement that the institutional investment from ACORE Capital was attracted to the deal due to the supply-constraints of new self-storage across the northeastern U.S. and the experienced sponsorship in that asset class. &#8220;The combination of the Ardent Companies&#8217; development expertise and these best-in-class facilities created a compelling value proposition that resonated strongly with lenders seeking quality exposure to the sector,&#8221; said Klein. Managed by third-party operator Extra Space Storage, the eight self-storage properties will feature 7,650 units and total 742,855 square feet of space. Each of the properties is climate-controlled and recently built, according to JLL. Thomas Olson, partner and head of self-storage strategy for the Ardent Companies, called the deal “an important milestone in the continued execution of our self-storage strategy” in a statement, and highlighted his firm’s commitment to the portfolio with StepStone Real Estate. “We remain focused on optimizing operations and creating long-term value through disciplined asset management and strategic growth,” he said. Brian Pascus can be reached at bpascus@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-21T17:48:21+00:00",
+      "bullets": [
+        "ACORE Capital provides $140M floating-rate refi for 8-property self-storage portfolio; northeastern US",
+        "Ardent Companies + StepStone JV; 7,650 units, 742,855 SF managed by Extra Space Storage",
+        "Lender cited supply constraints in northeast self-storage as key underwriting driver"
+      ],
+      "summary": "A joint venture between Ardent Companies and StepStone Real Estate secured a $140 million floating-rate refinance loan from ACORE Capital for a portfolio of eight Class A self-storage properties across seven northeastern states. The properties will feature 7,650 units totaling 742,855 square feet and are managed by Extra Space Storage. JLL Capital Markets arranged the deal, noting lender appetite was driven by supply constraints in northeast self-storage.",
+      "impact": "Minimal direct multifamily impact, though supply constraints in northeast self-storage (noted by lender) may indicate broader regional real estate tightness and strong competition for development capital. This reinforces that institutional lenders remain active for well-stabilized assets with experienced sponsors in constrained-supply submarkets. For multifamily, it signals northeast markets continue to attract capital; developers should monitor which subregions are seeing supply pressures across all property types, as these often precede multifamily demand acceleration."
+    },
     {
       "title": "Integra Investments Buys West Palm Marina For $72M",
       "link": "https://commercialobserver.com/2026/07/huizenga-integra-safe-harbor-rybovich-west-palm-beach/",
@@ -32,147 +167,12 @@
       "cat": "Commercial",
       "date": "2026-07-21T17:00:52+00:00",
       "bullets": [
-        "Integra Investments acquires Safe Harbor Rybovich marina, West Palm Beach, for $72.4M",
-        "Approved mixed-use plan: 660 condo units across four towers, 75K SF retail/restaurant/office",
-        "$75M floating-rate construction loan from Upland Debt backs marina, retail, condo, parking components"
+        "Integra Investments purchases Safe Harbor Rybovich marina, West Palm Beach; $72.4M, 15 acres",
+        "Approved mixed-use: 660 condo units across 4 towers + 20K SF office, 37K SF retail, restaurants",
+        "Prior owner (Huizenga Holdings) obtained $75M floating-rate development loan for marina/condo/retail components"
       ],
-      "summary": "Integra Investments bought the Huizenga family's 15-acre marina in West Palm Beach for $72.4M, unlocking a previously approved mixed-use redevelopment with 660 residential units across four condo towers, plus 75,000 SF of retail, restaurant, office and marine space. The deal is Integra's first West Palm Beach project and marks another waterfront activation in a competitive South Florida market. A $75M floating-rate construction loan from Upland Debt finances multiple project components.",
-      "impact": "West Palm Beach waterfront is consolidating around high-density residential+retail mixed-use, signaling strong demand for upscale urban condo product in the submarket. Approval speed and financing availability (floating-rate debt) indicate lender confidence in South Florida multifamily; watch for condo-to-rental conversion pressure if market softens post-delivery."
-    },
-    {
-      "title": "GO Residential REIT Completes Brooklyn Apartment Building Acquisition",
-      "link": "https://commercialobserver.com/2026/07/go-residential-reit-brooklyn-409-eastern-parkway/",
-      "excerpt": "GO Residential REIT has been on a bit of a buying spree this year, and it just completed its previously announced acquisition of an approximately 81 percent managing interest in a multifamily building in Crown Heights, Brooklyn. The real estate investment trust, using the LLC GO 409, acquired control of the 186-unit residential building at 409 Eastern Parkway for $109 million, according to property records made public Monday. GO purchased the stake from a trio of sellers: FBE Limited, Adam America Real Estate and Zev Marmurstein. Adam America will retain a 19 percent stake in the property. The deal, first announced in March, closed July 1 and was recorded July 20, records show. The property has 197,395 square feet of built space and three ground-floor retail units. PincusCo first reported the sale. Current retail tenants at the 11-story building include restaurant Cornbread Brooklyn and physical therapy clinic JAG Physical Therapy. The property has a tax exemption status under the now-sunsetted 421-a program, PincusCo noted. The tax exemption status took effect in 2020, and will expire in 2056. Max Kaufman, chief operating officer at GO, signed the deal for the buyer, records show. Yehoshua Fruchthandler, a managing member at FBE Limited, Florin Radu, chief commercial officer at Adam America, and Marmurstein signed the deal for the sellers. GO did not immediately respond to a request for comment, while the sellers could not be reached for comment. The buyer has been busy scooping up residential properties around the city. Earlier this year, GO acquired 350 West 43rd Street — also known as Ivy Tower — from Friedman Management, as well as 411 West 35th Street and 444 West 35th Street from Maddd Equities, Commercial Observer reported in February. The firm acquired the properties for a total of $380.5 million. It’s also in contract to acquire the 209-unit residential portion of 7 Dey Street in the Financial District from SL Green Realty. Following GO’s acquisition in Cr",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-21T16:53:48+00:00",
-      "bullets": [
-        "GO Residential REIT acquires 81% stake in 186-unit Crown Heights building for $109M",
-        "Property carries 421-a tax exemption (effective 2020, sunsetted status); three retail tenants on ground floor",
-        "Deal closed July 1, 2026; retained co-owner Adam America holds 19% minority stake"
-      ],
-      "summary": "GO Residential REIT completed a $109M acquisition of an 81% managing interest in a 186-unit, Class A garden-style building at 409 Eastern Parkway in Crown Heights, Brooklyn. The property includes 197,395 SF across 11 stories, three ground-floor retail units (Cornbread Brooklyn, JAG Physical Therapy), and benefits from a 421-a tax exemption (sunsetted). Adam America Real Estate retained a 19% minority stake.",
-      "impact": "Crown Heights multifamily trading at ~$585K/unit suggests Brooklyn outer-borough stabilized assets command strong REIT acquisition appetite. Loss of 421-a abatement at expiration will pressure NOI on expiring-exemption buildings citywide; GO's willingness to buy into sunsetting exemption signals confidence in rental growth to absorb tax increases."
-    },
-    {
-      "title": "Celina Developer Moving Forward on 55K-SF Mixed-Use Venture",
-      "link": "https://www.connectcre.com/stories/celina-developer-moving-forward-on-55k-sf-mixed-use-venture/",
-      "excerpt": "Nack Development is moving forward with a 55,000-square-foot mixed-use project in Celina, with the help of a $3 million incentive package. Trackside Junction will include retail, restaurant, office, event and residential space. Community Impact reports that the plans for the two buildings include a four-story, 40,000-square-foot mixed-use building with 10,000 square feet of retail and restaurants on the main floor and three floors of offices. The second building will include 15,000 square feet, with 5,000 square feet of retail and restaurants on the main floor and residential above it. The incentive package includes the city selling a $1 million parcel of land to Nack for $1, a $1.7 million tax increment reinvestment zone contribution and a $350,000 grant. In return, Nack invests at least $15 million in the project, breaks ground by the first of next year, completes both buildings for mid-2028 and pays for some traffic improvements. The post Celina Developer Moving Forward on 55K-SF Mixed-Use Venture appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-21T16:51:28+00:00",
-      "bullets": [
-        "Nack Development advances Trackside Junction (55K SF) in Celina with $3M incentive package",
-        "Two-building plan: 40K SF office/retail (four-story) + 15K SF mixed-use; $15M private investment required",
-        "City concessions: $1M land discount, $1.7M tax-increment reinvestment zone (TIRZ), $350K grant; completion target mid-2028"
-      ],
-      "summary": "Nack Development is moving forward on Trackside Junction, a 55,000-SF mixed-use project in Celina, Texas, supported by a $3M public incentive package (land discount, TIRZ contribution, grant). The two-building development features a 40,000-SF office/retail tower and a 15,000-SF mixed-use building with residential above retail. Total private investment is $15M+, with completion targeted for mid-2028.",
-      "impact": "Celina is a fast-growing Dallas suburb increasingly attracting mixed-use infill; subsidized office+retail+residential suggests municipal strategy to build downtown walkability ahead of suburban population growth. TIRZ financing and land deals signal cities are prioritizing downtown activation to compete for young professionals and reduce sprawl—favorable tailwind for attached multifamily in town centers."
-    },
-    {
-      "title": "PCCP Provides $51.8 Million Refi of Gilbert 236-Unit Multifamily Community",
-      "link": "https://www.connectcre.com/stories/pccp-provides-51-8-million-refi-of-gilbert-236-unit-multifamily-community/",
-      "excerpt": "PCCP has provided a $51.8 million senior loan to a joint venture between Phoenix Capital Management and P.B. Bell for the refinance of Everly at Morrison Ranch, located at 4353 E. Elliot Road in Gilbert. Built in 2025, the 236-unit Class A garden-style multifamily community is 97% leased and is within Morrison Ranch, a master-planned neighborhood in Gilbert. Everly Morrison Ranch includes 36 two-story buildings with an average unit size of 986 square feet. The unit mix includes one-bedroom (31%), two-bedroom (57%), and three-bedroom (12%) floor plans. Outdoor amenities will feature a pool and spa with poolside cabanas, a ramada, barbecue grills, swinging sofa beds, a dog park, gaming areas featuring cornhole, horseshoe and giant chess and a neighborhood-themed tot lot. Indoor amenities include a 24-hour Bulk Up Barn fitness center, dog spa, and clubhouse featuring private work and conference spaces, gaming and entertainment, including a Golden Tee golf simulator and Buck Hunter gaming system, as well as foosball and shuffleboard. The post PCCP Provides $51.8 Million Refi of Gilbert 236-Unit Multifamily Community appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-21T16:24:46+00:00",
-      "bullets": [
-        "PCCP refinances Everly at Morrison Ranch (Gilbert, AZ): 236-unit Class A, $51.8M senior loan",
-        "Built 2025, 97% leased; 36 two-story buildings, 986 SF avg unit, mix of 1/2/3-bed with full amenity suite",
-        "Loan backs newly built, lease-up-phase garden-style product in master-planned suburban Phoenix community"
-      ],
-      "summary": "PCCP provided a $51.8M senior refinance for Everly at Morrison Ranch, a 236-unit Class A garden-style community in Gilbert, Arizona, built in 2025 and currently 97% leased. The property features 36 two-story buildings with an average unit size of 986 SF, premium amenities (pool/spa, fitness center, gaming areas), and sits within the master-planned Morrison Ranch neighborhood.",
-      "impact": "Gilbert lease-up velocity (97% occupancy in first year post-delivery) validates Phoenix suburban multifamily demand amid population influx from California. Refi at this stage signals strong underwriting metrics and lender appetite for Arizona garden-style; watch for rent growth sustainability as supply deliveries accelerate in Phoenix-Metro (Tempe, Chandler, Gilbert submarkets)."
-    },
-    {
-      "title": "JLL Secures $617M Financing for Grubb Properties Apartment Tower in Lower Manhattan",
-      "link": "https://www.connectcre.com/stories/jll-secures-617m-financing-for-grubb-properties-apartment-tower-in-lower-manhattan/",
-      "excerpt": "JLL’s M&amp;A and Corporate Advisory, Corporate Banking Advisory and Debt &amp; Equity Advisory teams collectively secured $617 million in financing for Link Apartments REIT and Link Apartments Opportunity Zone REIT. Both are Grubb Properties-managed REITs, along with Link Apartments 8 Carlisle, a 64-story, Class A multifamily development in Manhattan&#8217;s Financial District. JLL represented the developer and REIT sponsor, Grubb Properties, in arranging the multi-tranche capitalization through a coordinated, three-phase advisory effort. It included the following components: First, the M&amp;A and Corporate Advisory group, led by senior managing director Steve Hentschel and director Adam Coleman, advised on the merger of multiple legacy Grubb funds and subsequent rebranding to create Link Apartments REIT. Led by senior managing director Anthony Fertitta and associate Jonathan Koletic, the Corporate Banking Advisory group advised Link Apartments REIT and Link Apartments Opportunity Zone REIT on securing a $240-million NAV credit facility from Bayview Commercial Mortgage Finance, supporting the consolidation of the 45-property portfolio while providing an equity commitment to assist in capitalizing Link Apartments 8 Carlisle. Additionally, JLL&#8217;s Debt &amp; Equity Advisory group, in conjunction with Arrow Real Estate Advisors, arranged a $300-million senior construction loan from Maxim Capital Group and a $77-million mezzanine loan that was co-originated by GreenBarn Investment Group, Skylight Real Estate Partners, Axonic Capital and Meadow Partners. The Debt &amp; Equity Advisory team was led by managing director Stephen Van Leer, senior managing directors Rob Hinckley and Jeffrey Julien, managing director Steven Rutman and directors Alex Staikos and John Lowe. Join the industry’s top multifamily decision-makers at Connect Apartments on September 22 in LA. Hear from the investors, developers, lenders, owners, and advisors shaping today’s apartment market throu",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-21T16:18:59+00:00",
-      "bullets": [
-        "JLL arranges $617M financing for Link Apartments 8 Carlisle: 64-story FiDi tower, Grubb Properties developer",
-        "Multi-tranche structure: $240M NAV credit (Bayview), $300M senior construction (Maxim), $77M mezzanine (GreenBarn/Skylight/Axonic/Meadow)",
-        "Financing also consolidates 45-property Link Apartments portfolio; mezzanine co-originated by four institutional partners"
-      ],
-      "summary": "JLL arranged $617M in multi-tranche financing for Link Apartments 8 Carlisle, a 64-story Class A multifamily tower in Manhattan's Financial District developed by Grubb Properties. The capital stack includes a $240M NAV credit facility from Bayview Commercial Mortgage, a $300M senior construction loan from Maxim Capital, and a $77M mezzanine loan co-originated by GreenBarn, Skylight, Axonic, and Meadow Partners. The deal also refinances a 45-property portfolio consolidation.",
-      "impact": "FiDi high-rise multifamily financing (four mezzanine partners, $617M total) signals strong institutional confidence in NYC downtown residential despite office-to-conversion supply glut. Multiple lenders sharing risk on single asset indicates heightened scrutiny of development execution and lease-up risk; watch for construction loan draws and leasing velocity as leading indicators of Lower Manhattan demand recovery."
-    },
-    {
-      "title": "New York City Hotel Labor Deal Creates Hurdles for Hospitality Underwriting",
-      "link": "https://commercialobserver.com/2026/07/new-york-city-hotel-labor-deal-loan-underwriting/",
-      "excerpt": "The myriad headwinds facing New York City hotel investors just got even stiffer. The Big Apple’s hospitality industry confronted rising operating and borrowing costs from persistent inflation in recent years that was further compounded by a big drop in international tourism since President Donald Trump assumed office for his second term. Disappointing booking numbers for FIFA World Cup matches held at nearby MetLife Stadium in June and July dealt an additional blow. The latest financial obstacle might be the biggest and longest-lasting of all — and, in the process, create more barriers to obtaining necessary capital to keep the lights on. The Hotel Association of New York City (HANYC) reached a historic eight-year labor deal this spring covering over 27,000 workers at more than 200 hotels. Among other provisions, it puts housekeepers and non-tipped staff on track to earn over $100,000 annually by 2034. The agreement will make it that much more challenging for hotel owners to obtain financing as lenders tighten their underwriting standards to reflect the higher labor costs. “Labor can be up to 50 percent of your operating expenses, and even higher in a luxury property or a very service-intensive property,” said Solomon Garber, co-founder and chief revenue officer of Erithmitic, a tech-oriented lending platform focused on the hospitality industry. “The fixed labor costs, including wages, health care, pension and staffing requirements, can be up to 30 percent higher than the same hotel that is nonunion.” The HANYC contract that took effect July 1 will raise wages by more than 50 percent over the life of the agreement, which runs through June 30, 2034, according to a summary of the deal released by the Hotel and Gaming Trades Council, the union representing hotel workers. The added expenses to wages and benefits from the contract are projected to increase annual property costs for hospitality owners by 15 percent, according to HANYC. Garber noted that even a 10 percent ",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-21T16:00:51+00:00",
-      "bullets": [
-        "NYC hotel labor deal: 8-year agreement covers 27K workers at 200+ hotels; housekeeping to exceed $100K by 2034",
-        "Labor costs up to 50% of hotel operating expenses; deal tightens lender underwriting, raising financing barriers for hospitality",
-        "Compounded by inflation, tourism weakness post-Trump, FIFA World Cup booking shortfalls; financing availability deteriorating"
-      ],
-      "summary": "The Hotel Association of New York City reached an historic eight-year labor agreement covering 27,000+ workers at 200+ hotels, putting housekeeping and non-tipped staff on track to earn over $100,000 annually by 2034. Labor represents up to 50% of hospitality operating expenses, and the deal is forcing lenders to tighten underwriting standards. NYC hospitality is also burdened by post-Trump tourism declines and disappointing World Cup bookings.",
-      "impact": "Limited relevance to core multifamily development, but important signal: NYC hotel NOI compression from labor costs may accelerate office-to-residential conversions as a capital preservation strategy. Higher hospitality financing costs could free up some development capital/lender capacity for multifamily, but intensifies competitive capital constraints across all NYC asset classes."
-    },
-    {
-      "title": "NRP Advancing 336-Unit Austin Affordable Housing Venture",
-      "link": "https://www.connectcre.com/stories/nrp-advancing-336-unit-austin-affordable-housing-venture/",
-      "excerpt": "The NRP Group announced the financial closing and groundbreaking of Catalina, a 336-unit affordable housing community in Travis County near Austin, Texas. Developed in partnership with the Housing Authority of Travis County (HATC), the community will provide affordable housing for families and working professionals earning between 30% and 70% of the Area Median Income (AMI). Catalina will consist of 12, three-story residential buildings with a mix of one- to four-bedroom homes. Amenities include a swimming pool, 24-hour fitness center, business center, a multipurpose community room with a full kitchen, children&#8217;s activity room and playground. Supportive resident services will include after-school care, financial literacy courses, ESL classes, first-time homebuyer programs and more. Residents will also have access to a complimentary shuttle service. Tax credit equity was provided by Huntington Community Development Corporation. Construction and permanent financing is provided by PIMCO and arranged by Berkadia. Construction on Catalina is now underway with completion scheduled for April 2028. The post NRP Advancing 336-Unit Austin Affordable Housing Venture appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-21T15:42:15+00:00",
-      "bullets": [
-        "NRP Group closes Catalina: 336-unit affordable housing, Travis County near Austin; 30–70% AMI targeting",
-        "12 three-story buildings, one- to four-bed mix; PIMCO construction/permanent financing, Berkadia arranging",
-        "Supportive services: after-school care, ESL, financial literacy, first-time buyer programs; completion April 2028"
-      ],
-      "summary": "The NRP Group announced financial closing and groundbreaking of Catalina, a 336-unit affordable housing community in Travis County near Austin, developed with the Housing Authority of Travis County. Units target households earning 30–70% AMI. The project includes 12 three-story buildings, full resident support services, and is financed via PIMCO (construction and permanent) with Berkadia arranging. Completion is scheduled for April 2028.",
-      "impact": "Austin metro affordable housing supply expanding via low-income tax credit (LIHTC) pipeline. Catalina's size (336 units) and PIMCO backing indicate institutional investor appetite for stabilized affordable product. Austin's rapid population growth and affordability crisis are driving LIHTC allocations; watch for competing supply/demand dynamics between market-rate and subsidized units in Travis County."
-    },
-    {
-      "title": "U.S. Apartment Demand Outpaces New Supply for First Time Since 2022",
-      "link": "https://www.connectcre.com/stories/u-s-apartment-demand-outpaces-new-supply-for-first-time-since-2022/",
-      "excerpt": "U.S. apartment demand outpaced new supply over the past year for the first time since early 2022, Cushman &amp; Wakefield said in its second-quarter 2026 U.S. Multifamily MarketBeat. Vacancy fell below 9% for the first time since 2024 and construction activity continued to retreat in Q2. Net absorption totaled 124,600 units during Q2, the fifth-highest quarterly total in nearly 25 years and an 8% year-over-year increase. National vacancy declined 35 basis points quarter-over-quarter to 8.9%, ending more than a year of relative stability. On a trailing four-quarter basis, approximately 362,000 units were absorbed compared with roughly 358,000 units delivered. &#8220;The apartment market is no longer defined by new supply pressures,&#8221; said Sam Tenenbaum, head of multifamily insights at Cushman &amp; Wakefield. &#8220;Construction is slowing, demand has remained remarkably resilient and vacancy is now moving lower. That&#8217;s a meaningful shift from the conditions that shaped the market over the past several years and points to improving fundamentals as the pipeline continues to thin.&#8221; The conversations behind tomorrow’s apartment deals happen at Connect Apartments on September 22 in LA. Connect with the capital sources, owners, developers, and brokers driving multifamily investment. Learn more and reserve your seat at www.connectapts2026.com. The post U.S. Apartment Demand Outpaces New Supply for First Time Since 2022 appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-21T15:38:12+00:00",
-      "bullets": [
-        "US apartment demand outpaces supply for first time since early 2022; Q2 net absorption 124.6K units (fifth-highest in 25 years)",
-        "National vacancy fell 35 bps Q2 to 8.9%, below 9% for first time since 2024; trailing four-quarter absorption 362K vs. deliveries 358K",
-        "Construction activity slowing; supply pipeline thins; rental fundamentals inflecting from oversupply to tight conditions"
-      ],
-      "summary": "For the first time since early 2022, US apartment demand outpaced new supply, according to Cushman & Wakefield's Q2 2026 MarketBeat. Net absorption totaled 124,600 units in Q2 (the fifth-highest quarterly total in nearly 25 years), while national vacancy declined 35 basis points to 8.9%—below the 9% threshold for the first time since 2024. On a trailing four-quarter basis, absorption of 362,000 units exceeded deliveries of 358,000 units.",
-      "impact": "Inflection point: supply/demand dynamics have flipped from oversupply to incipient tightness. Construction activity slowing, vacancy compressing, and strong absorption signal improving pricing power and rent growth acceleration ahead. Developers should focus on execution of near-term deliveries and position land/entitlements in supply-constrained, high-demand submarkets; cap rates likely to compress further if rent growth outpaces historical levels."
-    },
-    {
-      "title": "Investment Firm T7 Capital Signs 4K-SF Lease at GFP’s 515 Madison Avenue",
-      "link": "https://commercialobserver.com/2026/07/t7-capital-lease-gfp-515-madison-avenue/",
-      "excerpt": "GFP Real Estate has signed three new deals at its Midtown office tower at 515 Madison Avenue, totaling nearly 9,000 square feet of space, the landlord announced Tuesday. In the largest deal, investment management firm T7 Capital signed a five-year, 3,956-square-foot lease on the building’s 29th floor. It’s unclear whether the deal represents a relocation or a new location for T7, which has a current office address listed at 1040 Avenue of the Americas on its website. Michael Beyda and Joel Kubie from Benchmark Group New York represented the tenant. The brokers did not immediately respond to Commercial Observer’s request for comment. Meanwhile, Innovation Training Specialist, a health care-related training provider, also inked a 10-year lease for 3,046 square feet on the fifth floor of 515 Madison, GFP announced. Max Vizgalin from OfficeNYC.com, who represented the tenant, did not immediately respond to a request for comment. Finally, Widowski Law Group signed a five-year extension and relocation within the building. The firm will move from the fifth floor to the 27th floor, where it will occupy 1,881 square feet. GFP worked directly with the law firm on this deal. Martin McGrath and Kephra Stone from GFP represented the landlord in all three deals. “These transactions demonstrate the continued appeal of 515 Madison to a wide range of businesses seeking high-quality office space in one of Manhattan&#8217;s premier business districts,&#8221; Stone said in a statement. &#8220;We&#8217;re seeing demand from both new tenants entering the building and existing tenants choosing to renew and expand their long-term relationship with us. Combined with our recent refinancing of the property and strong leasing velocity, these leases reinforce the building&#8217;s position as one of Midtown&#8217;s most sought-after boutique office destinations.&#8221; The asking rent for each deal was not disclosed, but the average asking rent for office space in the Plaza District was $95.71 p",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-21T15:32:24+00:00",
-      "bullets": [
-        "T7 Capital signs 3,956 SF lease at GFP's 515 Madison Avenue (Midtown), 29th floor, five-year term",
-        "GFP closed three deals totaling ~9K SF at tower; also signed Innovation Training Specialist and Widowski Law Group extensions",
-        "Unclear if T7 Capital relocating from 1040 Avenue of the Americas or establishing new NYC footprint"
-      ],
-      "summary": "GFP Real Estate announced three new office leases at 515 Madison Avenue in Midtown Manhattan totaling nearly 9,000 SF. Investment management firm T7 Capital signed the largest deal—a 3,956-SF, five-year lease on the 29th floor. Two other tenants, Innovation Training Specialist and Widowski Law Group, also signed new or extension leases. It is unclear whether T7 Capital is relocating or opening a new NYC office.",
-      "impact": "Minimal multifamily relevance. Office leasing at Class A Midtown buildings suggests some flight-to-quality by financial services tenants (T7 Capital); however, limited data on whether this represents net office demand growth or just consolidation/relocation. Watch for sublease availabilities and churn as broader indicator of office-to-conversion pressure in NYC."
-    },
-    {
-      "title": "Pfizer Incident or Not, New York Still Has a Lot of Office Conversions Left to Go",
-      "link": "https://commercialobserver.com/2026/07/pfizer-conversions-pace-new-york/",
-      "excerpt": "For a few days last week, two buckling steel columns at the Pfizer Building became the biggest real estate story in America. If you only read the headlines, you might conclude that office-to-residential conversions are suddenly in trouble. The opposite is closer to the truth. Quietly, New York has become the national leader in conversions. Approximately 70 projects with more than 20,000 potential units are underway, representing billions of dollars of investment and one of the fastest shifts in generations for how the city builds housing. Nate Bliss. Photo: Courtesy Latent Urban Ventures. Yet, remarkably little has been written about what is actually happening — or why. Over the past two years, office-to-residential conversions have gone from a trickle to a pour, and now represent a meaningful share of the multifamily pipeline. Thousands of units of affordable housing are being delivered in some of the wealthiest areas, including into buildings on Billionaires Row and Wall Street. Millions of square feet of defunct office space are being repurposed. And, despite a troubling week for the Pfizer building conversion, this trend is only accelerating. So how did New York City become the shining beacon for the office conversion revolution? Two game-changing moments occurred over the last two years. First, in April 2024, the governor and state legislature reached a landmark housing deal that included critical regulatory changes and a new incentive program called 467-m, designed to induce conversion projects and ensure that 25 percent of the resulting homes would be permanently affordable. The second moment came later that year, when the City Council passed City of Yes for Housing Opportunity, the most sweeping overhaul of zoning since the 1960s. For office conversions, City of Yes updated arcane rules around qualifying buildings and addressed regulatory incoherencies that had blocked past projects. What has resulted is one of the most effective housing production programs ",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-21T14:27:11+00:00",
-      "bullets": [
-        "NYC has ~70 office-to-residential conversion projects underway with 20K+ potential units; billions in investment deployed",
-        "Thousands of affordable units delivered in high-value areas (Billionaires Row, Wall Street); trend accelerating post-Pfizer building incident",
-        "Conversion pipeline represents major multifamily supply and affordability solution; most transformative housing shift in NYC in decades"
-      ],
-      "summary": "Despite a brief media scare over the Pfizer Building's structural issues, NYC has quietly become the national leader in office-to-residential conversions. Approximately 70 active projects represent 20,000+ potential residential units and billions in investment. Thousands of affordable units are being delivered in prime neighborhoods including Billionaires Row and Wall Street. The trend is accelerating and represents one of the fastest shifts in how the city builds housing in generations.",
-      "impact": "NYC multifamily supply pipeline now substantially skewed toward conversion rather than new construction, reshaping submarkets and affordability profiles. Class B/C office buildings in Midtown, Downtown, and outer boroughs are economically viable conversion candidates if rents justify construction costs; lenders warming to conversions as de-risked vs. ground-up development. Expect continued conversion velocity and rental compression in CBD submarkets as supply hits market 2027–2029."
+      "summary": "Integra Investments acquired Safe Harbor Rybovich marina in West Palm Beach for $72.4 million from the Huizenga family. The 15-acre waterfront site at 4200 North Flagler Drive faces the Intracoastal Waterway. Approved plans call for a 2.6 million-square-foot mixed-use development including four condo towers with 660 units, office, retail, restaurants, and marine amenities. Upland Debt provided a $75 million floating-rate construction loan.",
+      "impact": "West Palm Beach waterfront remains a high-demand development corridor with strong institutional capital and financing availability for large mixed-use projects. The 660-unit condo tower component signals robust demand for owner-occupied waterfront housing, likely pulling in high-income buyers and reducing rental demand in that specific segment. For multifamily developers, this confirms West Palm's continued desirability but suggests competitive pressure in the luxury/high-end segment. Monitor whether Integra's development drives further waterfront appreciation and job growth that could support rental demand in adjacent, more affordable submarkets."
     },
     {
       "title": "South Florida’s top deals: Telecom exec pays $19M for new Miami mansion",
@@ -182,12 +182,12 @@
       "cat": "Development",
       "date": "2026-07-21T12:00:00+00:00",
       "bullets": [
-        "Miami luxury home: $18.9M sale of new 10K SF mansion in Ponce-Davis neighborhood; telecom exec buyer",
-        "Commercial: Moishe Mana-linked entity buys Wynwood buildings (13K SF) at 380/320 NW 26th for $24.5M; Pastis, Apparatus tenants",
-        "High-end residential and commercial activity in Miami signals investor confidence despite broader macro headwinds"
+        "Miami Ponce-Davis: $18.9M mansion sale; telecom exec buyer, 10K SF on 1 acre, completed 2026",
+        "Wynwood commercial: $24.5M sale of 13K SF mixed-use property; Pastis/Apparatus tenants",
+        "Jupiter waterfront: $10.5M home sale; $1,500/SF; cell tower executive buyer; traded at $8M in 2022"
       ],
-      "summary": "Miami recorded two major transactions in July 2026: a $18.9M sale of a new 10,000-SF mansion in Ponce-Davis to a telecom executive, and a $24.5M commercial sale of Wynwood buildings (13,000 SF) by a Moishe Mana-linked entity with tenants Pastis and Apparatus. Both deals reflect active capital deployment in South Florida real estate at high price points.",
-      "impact": "Limited multifamily relevance. Moishe Mana's continued Wynwood acquisition activity (mixed-use/retail) signals ongoing neighborhood densification, which could support multifamily nearby. Luxury residential sales volume indicates wealth inflows to Miami; watch for concurrent multifamily rent growth in premium neighborhoods (Brickell, Wynwood, Allapattah)."
+      "summary": "South Florida recorded high-value transactions in July 2026: a $18.9 million newly built mansion in Ponce-Davis sold to a telecom executive; a $24.5 million Wynwood property (13K SF mixed-use, home to Pastis and Apparatus) sold to investor Moishe Mana; and a $10.5 million waterfront home in Jupiter sold at ~$1,500/SF, up from $8M in 2022.",
+      "impact": "Minimal direct multifamily relevance. However, strong luxury residential and mixed-use pricing in Miami/Palm Beach markets, coupled with robust commercial demand in Wynwood, signal sustained high-income population in-migration and investment appetite in South Florida. Workforce housing and middle-market multifamily in secondary submarkets (further inland, lower-cost cities) may benefit from wealth effect and tax migration. Developers should evaluate value-add and workforce housing opportunities in growing south-of-the-border submarkets less impacted by luxury price escalation."
     },
     {
       "title": "Elysian, Capstone go 100% affordable for Warner Center apartment project",
@@ -197,12 +197,12 @@
       "cat": "Development",
       "date": "2026-07-20T22:30:00+00:00",
       "bullets": [
-        "Elysian Housing + Capstone Equities plan 316 affordable units (100% AMI-restricted) at 21155 Califa, Woodland Hills; demolish 35K SF office",
-        "Seven-story development on 2.7 acres; eligible for LA Executive Directive 1 expedited approval; tied to largest new permit issued early July",
-        "Kroenke Rams headquarters development (52 acres, $800M+) at 6100 Owensmouth nearby driving Warner Center affordability push"
+        "Elysian Housing + Capstone Equities: 316 affordable units, Warner Center, Woodland Hills, LA; 7 stories",
+        "Demolish 35K SF commercial building; Executive Directive 1 expedited approval pathway",
+        "Part of broader Warner Center redevelopment anchored by LA Rams HQ (Stan Kroenke 52-acre mixed-use)"
       ],
-      "summary": "Elysian Housing and Capstone Equities acquired 21155 Califa Street in Woodland Hills to develop 316 affordable units across seven stories, replacing a 35,000-SF commercial building. The project, called The Green at Warner Center, qualifies for LA's Executive Directive 1 expedited approval path as 100% affordable housing. The development sits within Warner Center, where LA Rams owner Stan Kroenke is advancing a 52-acre, mixed-use headquarters redevelopment.",
-      "impact": "Woodland Hills/Warner Center is rapidly becoming an affordability hub amid Stan Kroenke's $800M+ mixed-use investment and citywide affordable housing mandate push. Elysian's second large affordable conversion (prior 75K SF office-to-housing at Balboa Boulevard) signals institutional developer confidence in San Fernando Valley rent sustainability and policy support. Watch for office-to-conversion velocity and unit absorption in submarkets near anchor institutional anchors (sports/corporate HQ)."
+      "summary": "Elysian Housing and Capstone Equities purchased 21155 Califa Street in Woodland Hills to develop 316 affordable units (The Green at Warner Center) on a 2.7-acre site. A one-story, 35,000-square-foot commercial building will be demolished, and the seven-story affordable project will use LA's Executive Directive 1 for expedited approvals. The development is part of the broader Warner Center revitalization anchored by Stan Kroenke's Rams headquarters and 52-acre mixed-use master plan.",
+      "impact": "Warner Center is rapidly becoming an affordable housing and mixed-use hotspot within LA, driven by Kroenke's $5B+ investment in the Rams campus and adjacent mixed-use. The convergence of institutional capital (Capstone, Elysian) targeting affordable development, streamlined permitting (Directive 1), and major anchor tenant investment suggests this San Fernando Valley submarket will see sustained multifamily absorption and job growth. Developers should view Warner Center as a high-conviction target for workforce and affordable housing given entitlement ease, public investment, and private capital momentum. Conversions and land acquisition opportunities may exist nearby before land costs fully reflect future rents."
     },
     {
       "title": "Austin suburb selects Griffin Swinerton to revamp downtown",
@@ -212,12 +212,12 @@
       "cat": "Development",
       "date": "2026-07-20T20:30:00+00:00",
       "bullets": [
-        "Liberty Hill, TX (Austin suburb) selects Griffin Swinerton JV to lead downtown revamp; target groundbreaking 2028",
-        "Vision: walkable gathering spaces, historic preservation, district-specific zoning, parking upgrades; developer-as-extension-of-city-staff model",
-        "Liberty Hill tripled population since 2020 census; Griffin Swinerton handling 29-acre Pflugerville Downtown East and prior Austin suburb projects"
+        "Liberty Hill, TX (Austin suburb) selects Griffin Swinerton for downtown revamp; 2028 launch target",
+        "City tripled in size since 2020; fast-growing suburb experiencing massive population boom",
+        "Joint venture will manage community engagement, infrastructure planning, financing evaluation, walkability focus"
       ],
-      "summary": "Liberty Hill, one of the nation's fastest-growing Austin suburbs, selected the Griffin Swinerton joint venture (Griffin Structures + Swinerton) to lead a downtown revamp targeting 2028 groundbreaking. The developer will function as quasi-municipal staff, soliciting community input, evaluating infrastructure, and structuring financing for a walkable, historic-preservation-focused downtown with district-specific uses. Liberty Hill tripled in size since 2020.",
-      "impact": "Rapid Austin-area suburban population growth (Liberty Hill +300% since 2020) is driving public-private downtown activation partnerships. Developer-led infrastructure + mixed-use planning in fast-growing suburbs signals demand for walkable multifamily product in town centers over sprawl. Follow Griffin Swinerton's Downtown East (Pflugerville, 29 acres) and Liberty Hill execution for clues on suburban multifamily absorption and transit-oriented development feasibility."
+      "summary": "Liberty Hill, one of the nation's fastest-growing Austin-area suburbs, hired Griffin Swinerton (a joint venture of Griffin Structures and Swinerton) to lead a downtown revitalization project. The developer will serve as city staff, handling community engagement, infrastructure evaluation, and financing for the master plan. A 2028 start date is targeted. Liberty Hill has tripled in size since the 2020 census and continues rapid population growth.",
+      "impact": "Liberty Hill represents a high-growth suburban corridor with pent-up demand for downtown mixed-use and residential development. The appointment of Griffin Swinerton signals city intent to accelerate entitlements and infrastructure investment, reducing development friction. Developers should evaluate land acquisition opportunities in Liberty Hill's downtown and adjacent corridors before Griffin Swinerton's planning efforts drive land value appreciation. The tripling of population since 2020 and ongoing migration to the Austin metro suggest strong multifamily and mixed-use fundamentals; early-mover developers can capture upside as downtown becomes focal point of community growth."
     },
     {
       "title": "CMK grabs key permit to launch 28-story South Loop high-rise",
@@ -227,12 +227,12 @@
       "cat": "Development",
       "date": "2026-07-20T20:00:00+00:00",
       "bullets": [
-        "CMK Companies secures piles permit for 910 South Wells, Chicago South Loop: 28-story, 350-unit residential, 3.3K SF retail",
-        "Part of truncated Riverline master plan (8 acres, originally 15 acres before Lendlease split in 2018); connected to riverwalk via pedestrian path",
-        "CMK secured $83M construction loan from Wintrust for first phase (388-unit building at 1010 South Wells); general contractor Brandt's Build"
+        "CMK Companies: 910 South Wells, 28-story South Loop high-rise; 350 units + 3,300 SF retail; piles permit secured",
+        "Part of Riverline master plan (8 acres, $2B vision, halved after Lendlease split 2018)",
+        "CMK secured $83M construction loan from Wintrust Bank for first phase (1010 South Wells, 388 units, under construction)"
       ],
-      "summary": "CMK Companies obtained piles permits for 910 South Wells Street, a 28-story mixed-use tower in Chicago's South Loop designed by Gensler with 350 residential units and 3,300 SF of retail. The building is part of CMK's Riverline development (eight acres), which split from a larger 15-acre master plan partnership with Lendlease in 2018. CMK also secured an $83M construction loan from Wintrust for the adjacent 388-unit tower at 1010 South Wells, which is already under construction.",
-      "impact": "Chicago South Loop is consolidating around dense residential-riverside development. CMK's stacked permitting and $83M construction financing signal strong lender confidence in Chicago CBD multifamily recovery post-remote-work. Watch construction timelines for 1010 and 910 South Wells as indicators of South Loop lease-up velocity and rent growth; Lendlease's completed Cooper and Reed towers provide comparable comps."
+      "summary": "The CMK Companies secured a piles permit for 910 South Wells in Chicago's South Loop, a 28-story mixed-use tower designed by Gensler with 350 residential units and 3,300 square feet of retail. The building is part of CMK's eight-acre Riverline master plan (originally a $2 billion vision reduced after the company's 2018 partnership split with Lendlease). CMK recently secured an $83 million construction loan from Wintrust Bank to fund the first phase, which includes a 388-unit apartment building at 1010 South Wells Street, already under construction.",
+      "impact": "Chicago South Loop remains a high-velocity multifamily development corridor with strong institutional financing support and continued absorption. CMK's multi-phase, multi-building strategy (1010 and 910 South Wells) signals confidence in sustained demand; the Wintrust construction financing validates lender appetite for well-capitalized, experienced developers in prime urban markets. For competing developers, this highlights that entitlement and financing windows remain open in South Loop, but land cost and permitting pace are accelerating. Developers should prioritize shovel-ready sites and consider joint ventures or capital partnerships to compete with CMK's size and track record."
     },
     {
       "title": "Therme Dallas pivots, adds skybridge to $800M wellness resort buildout plans",
@@ -242,12 +242,12 @@
       "cat": "Development",
       "date": "2026-07-20T19:45:00+00:00",
       "bullets": [
-        "Therme Dallas ($800M wellness resort, 24 acres, 500K SF) seeks approval for pedestrian skybridge, new non-residential zones; 2027 groundbreaking target",
-        "Resort features thermal baths, saunas, restaurants, retractable glass roof, swim-up bars on Trinity River; site adjacent to Water Commons park",
-        "Company faces credibility questions: NY Times revealed misrepresentation of development experience (one spa vs. claimed six facilities globally)"
+        "Therme Dallas: $800M wellness resort, 500K SF, 24 acres; skybridge addition, 2027 groundbreaking target",
+        "Austrian company faced controversy: misrepresented development experience to Ontario; only one completed spa (Bucharest)",
+        "Trinity River waterfront site; retractable glass roof, thermal baths, swim-up bars; adjacent Water Commons wetlands"
       ],
-      "summary": "Therme Dallas, an Austrian wellness company, is seeking city approval to add a pedestrian skybridge and new non-residential zones to its planned $800M, 500,000-SF resort on 24 acres along the Trinity River. Groundbreaking is targeted for 2027. The project includes thermal baths, saunas, restaurants, and a retractable glass roof creating a beach-like atmosphere. However, the New York Times revealed Therme misrepresented its development track record to Ontario authorities, claiming six global facilities under construction when only one spa had been completed.",
-      "impact": "Limited direct multifamily relevance, but Therme's credibility issues could delay Trinity River waterfront district activation and suppress nearby residential demand. Larger signal: unfamiliar international developers entering US markets face regulatory scrutiny and public skepticism; unknown execution risk may reduce nearby land values and complicate mixed-use residential financing. Monitor for project delays or capital withdrawal."
+      "summary": "Therme Dallas, an Austrian wellness company, is pursuing city approval for design modifications to its $800 million, 500,000-square-foot resort on 24 acres along Trinity River. The additions include a pedestrian skybridge and new non-residential zones. A 2027 groundbreaking is targeted. However, Therme faced controversy when a New York Times investigation revealed the company misrepresented its development experience to Ontario authorities; it has only completed one spa (Bucharest), not the six globally-placed facilities claimed.",
+      "impact": "Minimal direct multifamily impact, though the Therme project's location on the Trinity River reflects broader Dallas waterfront redevelopment momentum (Harold Simmons Park, Water Commons). The developer's credibility questions and history of misrepresentation introduce execution and financing risk; institutional capital and lenders may require enhanced due diligence. For multifamily developers monitoring Dallas growth, the Therme project's slow approval pace and design pivots suggest permitting friction remains, even for marquee anchor tenants. Focus on proven developers with track records in the Dallas market."
     },
     {
       "title": "Tannos secures $28M in construction financing for Houston area mixed-use project",
@@ -257,12 +257,12 @@
       "cat": "Development",
       "date": "2026-07-20T19:00:00+00:00",
       "bullets": [
-        "Tannos Development secures $28M mid-construction financing for The Albritton (Friendswood, TX): 111 units, 20K SF mixed-use",
-        "70% LTV loan from S3 Capital via Concord Summit; completion 2028; part of larger Tannos pipeline (Friendswood City Center $750M, Magnolia Town Center $1B)",
-        "Friendswood is 25 mi SE of Downtown Houston, halfway to Galveston; 42K residents; Tannos/Wolfgramm and Tannos/Maritia partnerships"
+        "Tannos Development: $28M construction financing for The Albritton mixed-use, Friendswood, TX; S3 Capital lender",
+        "111 multifamily units + 11K SF retail + 9K SF office; 70% LTV; completion 2028",
+        "Friendswood: 25 miles SE Houston; Tannos also building Friendswood City Center ($750M, 106 acres) + Magnolia Town Center ($1B, 200 acres)"
       ],
-      "summary": "Tannos Development secured $28M in mid-construction financing for The Albritton, a mixed-use project in Friendswood, Texas, featuring 111 multifamily units, 11,000 SF of ground-floor retail, and 9,000 SF of office space. The 70% LTV loan from S3 Capital (arranged by Concord Summit) carries the project through completion in 2028. Tannos is also developing two much larger projects in the region: Friendswood City Center ($750M, 106 acres) and Magnolia Town Center ($1B, 200 acres).",
-      "impact": "Houston metro suburbs (Friendswood, Magnolia) are consolidating mixed-use development pipelines around Tannos and partnering entities. Friendswood mezzanine financing ($28M on $111 units = ~$250K/unit debt) signals healthy underwriting for suburban mixed-use. Watch for absorption velocity at The Albritton and City Center as leading indicators of Houston-area suburban multifamily demand; proximity to Galveston may create seasonal/tourism dynamics not typical to inland suburbs."
+      "summary": "Tannos Development Group secured $28 million in mid-construction financing from S3 Capital (arranged by Concord Summit Capital) for The Albritton, a mixed-use project in Friendswood, Texas. The 70% LTV loan carries financing through project completion in 2028. The Albritton includes 111 multifamily units, 11,000 square feet of retail, and 9,000 square feet of office. Friendswood is located 25 miles southeast of Downtown Houston and sits between Houston and Galveston.",
+      "impact": "Friendswood and adjacent Houston suburbs are experiencing significant multifamily and mixed-use development activity, signaling sustained metro population in-migration and job growth. Tannos' simultaneous pipeline of three major projects (The Albritton, Friendswood City Center $750M, Magnolia Town Center $1B) demonstrates developer confidence and institutional lender appetite in the Greater Houston market. Financing availability and 70% LTV on mid-stage construction loans validates market strength. Developers should monitor Friendswood and Magnolia corridors for emerging workforce housing opportunities as these large master-planned communities mature; land costs and entitlements are more favorable than core Houston submarkets."
     }
   ]
 }
