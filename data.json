@@ -1,21 +1,21 @@
 {
-  "fetchedAt": "2026-07-21T23:49:49.805351+00:00",
+  "fetchedAt": "2026-07-22T13:23:58.730900+00:00",
   "rates": [
     {
       "label": "SOFR",
-      "value": "3.57%",
-      "pct": -0.02,
+      "value": "3.61%",
+      "pct": 0.04,
       "isBps": true
     },
     {
       "label": "10Y Treasury",
-      "value": "4.63%",
-      "pct": 0.65
+      "value": "4.64%",
+      "pct": 0.3
     },
     {
       "label": "30Y Treasury",
-      "value": "5.13%",
-      "pct": 0.23
+      "value": "5.14%",
+      "pct": 0.21
     },
     {
       "label": "REIT Index (VNQ)",
@@ -25,19 +25,79 @@
   ],
   "stories": [
     {
-      "title": "Starwood Advances 226K-SF Data Center in Fairfax County, Va.",
-      "link": "https://commercialobserver.com/2026/07/starwood-data-center-virginia/",
-      "excerpt": "Starwood Capital Group is advancing plans for a pair of data centers in Fairfax County, Va., near the Alexandria border. The investment firm filed plans last week for the first building at its Plaza 500 development, according to the Business Journals, which cited Fairfax County records. Plaza 500 South, the proposed two-story data center, would span 226,469 square feet and rise 75 feet. The first phase of construction on the building shell is estimated to cost $5 million. An affiliate of Miami-based Starwood acquired the 34-acre site, adjacent to the Bren Mar neighborhood, for $165 million in 2022. The company is also awaiting approval for a proposed electrical substation that would sit less than 100 feet from nearby homes. The plans have drawn opposition from residents, who earlier this year proposed that Fairfax County swap the Plaza 500 property for a Chantilly site the county plans to sell to Starwood for data center development. Under that proposal, affordable housing would instead be developed near Bren Mar. County officials rejected the idea and are expected to close on the $167 million Chantilly property sale to Starwood next spring. Residents are planning to rally against the Edsall Road substation when the proposal goes before the planning commission in September. Starwood is also developing several other major data center projects in Northern Virginia. The firm is redeveloping the former Washington Commanders training facility in Herndon into two data centers near its Renaissance Tech Park, which is expected to span 2.3 million square feet at full buildout and become Fairfax County&#8217;s largest data center complex. Amazon is slated to use the property. Gregory Cornfield can be reached at gcornfield@commercialobserver.com.",
+      "title": "NYC’s Conversion Break Producing Far More Units Than New-Construction Sweetener",
+      "link": "https://commercialobserver.com/2026/07/nycs-conversion-break-producing-far-more-units-than-new-construction-sweetener/",
+      "excerpt": "It’s been well documented and much lamented just how few ground-up residential units are being developed and constructed in New York City due to the limitations of 485-x, a 2-year-old state tax incentive that appears to guide most developers to a 99-unit limit on new multifamily buildings in much of the city in order for them to avoid paying construction wage minimums of $40 an hour. This becomes especially stark when compared to the robust productivity of 467-m, another 2-year-old state tax break, this one for office-to-residential conversions and without any wage requirements. Now, one enterprising industry professional has put the comparison in stark terms, and it doesn’t bode well for 485-x. According to Nate Bliss, founder and principal of Latent Urban Ventures and a former chief of staff to the deputy mayor for housing in Eric Adams’s administration, the average office-to-residential conversion project in the city — including completed and planned projects under 467-m — produces 298 apartments. By comparison, the average new construction project under 485-x creates a grand total of just 39.4 apartments per project. “The problems with the 485-x program were well known at the time it passed,” said Bliss. “The biggest surprise to me is just how much has been generated under the 467-m program. If you look at this first wave of projects, we&#8217;ve got over twice as many permanently affordable apartments delivered with 467-m as we do with 485-x.” Bliss, who utilized pipeline data — meaning that his numbers included both projects that are underway and projects in the application stage — found that there are currently 55 conversions filed or underway under 467-m, with another 15 in active plan review. In total, these projects are slated to produce up to 20,876 apartments, 5,219 of them potentially designated permanently affordable. As for new construction under 485-x, he found 301 prospective registrations for a total of 11,869 intended apartments, with 2,557 afford",
       "source": "Comm. Observer",
       "cat": "Commercial",
-      "date": "2026-07-21T21:35:49+00:00",
+      "date": "2026-07-22T13:15:07+00:00",
       "bullets": [
-        "Starwood Capital filing 226K SF data center in Fairfax County, Va.; $165M land acquisition 2022.",
-        "Residents opposing development; proposed swap to move affordable housing to Bren Mar site instead.",
-        "Major infrastructure investment near Alexandria submarket; electrical substation planned despite neighbor proximity concerns."
+        "NYC 467-m conversions avg 298 units; 485-x new construction avg under 100 units.",
+        "$40/hr wage requirement in 485-x deters ground-up builds; 467-m has no wage mandate.",
+        "Conversion pipeline outpacing new supply; office-to-resi supply flood threatens new-build economics."
       ],
-      "summary": "Starwood Capital Group is advancing Plaza 500 South, a 226,469 SF two-story data center in Fairfax County near Alexandria, with first phase shell construction estimated at $5 million. The firm acquired the 34-acre site for $165 million in 2022 and is seeking approval for an electrical substation. Local residents have opposed the project and proposed the county swap the site for affordable housing development elsewhere.",
-      "impact": "Hyperscale data center development in Northern Virginia signals strong demand for tech infrastructure but competes for suburban land that could yield multifamily. Fairfax County's rejection of affordable housing swap suggests data center zoning may displace residential opportunities; developers should monitor whether similar projects reduce available land and drive multifamily supply tighter in greater D.C. suburbs."
+      "summary": "Office-to-residential conversions under NYC's 467-m tax break average 298 units per project, nearly triple the typical new multifamily building size under 485-x (which caps around 99 units to avoid $40/hour prevailing wage). The 485-x wage requirement is suppressing ground-up construction, while 467-m's lack of wage mandates incentivizes conversions. Bliss's data shows conversion productivity is outpacing new-construction incentives substantially.",
+      "impact": "Manhattan and outer-borough multifamily developers face a structurally broken incentive stack. The 485-x wage floor makes new ground-up delivery uneconomical at lower unit counts, forcing smaller footprints and fewer total units. Conversions flood the market with rental supply at faster pace, pressuring rents and reducing development IRRs for traditional new construction. Developers should pivot to conversion plays or lobby for 485-x reform to restore new-build competitiveness in NYC."
+    },
+    {
+      "title": "Office Access Platform SwiftConnect Acquires HID SAFE",
+      "link": "https://commercialobserver.com/2026/07/swiftconnect-hid-safe/",
+      "excerpt": "SwiftConnect, which bills itself as a connected access office property platform, announced Wednesday that it has acquired HID SAFE, a leading company in the field of managing access to properties. The acquisition will enhance Stamford, Conn.-based SwiftConnect’s physical access platform with HID SAFE’s identity governance capability, said Matt Kopel, co-CEO of SwiftConnect. Kopel declined to state the financial and stock terms of the deal. The transaction builds on HID’s prior participation in SwiftConnect’s Series B funding round, Kopel said. HID SAFE will hold a minority, non-controlling interest in SwiftConnect as a result of the acquisition. SwiftConnect will remain an independent company, controlled and managed by its existing leadership team, which includes co-CEO Chip Kruger. “It starts with customer feedback,” Kopel said of the HID SAFE acquisition. “What we&#8217;ve built so far with our connected network is something that customers like. One of the things that customers ask for is a governance layer on top. We help put identities and credentials from one system to another for potential customers, from enterprises to their landlord. Customers were asking for us to expand our capabilities to include this governance to figure out where somebody&#8217;s identity should go and where they should have access based on certain attributes about them or approvals.” As an investor in SwiftConnect prior to its acquisition, HID SAFE was already a shareholder, but will now increase its minority share in the company with no operational influence, said Kopel. While the HID name will go away, the SAFE brand will remain on the platform for now. It will be re-evaluated over the coming months as to whether it will be kept longterm, Kopel added. The integration process has already begun, with both companies serving large enterprises globally. “HID SAFE has earned the trust of the world’s most security-driven organizations for more than two decades,” said Björn Lidefelt, executi",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-22T13:00:26+00:00",
+      "bullets": [
+        "SwiftConnect acquires HID SAFE; HID SAFE retains minority non-controlling stake.",
+        "Platform integrates physical access with identity governance for office properties.",
+        "Tech consolidation in commercial real estate access/management space; minimal direct multifamily impact."
+      ],
+      "summary": "Office-focused tech platform SwiftConnect acquired HID SAFE, a property access management company, to add identity governance capabilities. HID SAFE retains a minority stake. The deal integrates physical access control with identity management for enterprise and commercial tenants. Financial terms undisclosed.",
+      "impact": "Minimal direct relevance to multifamily development. This is a vertical consolidation in commercial office property tech. Indirect signal: office modernization investment may support office-to-residential conversion economics (better-managed, higher-value conversion assets), but the story itself is office-centric."
+    },
+    {
+      "title": "Multifamily Loan Balances Jumped 53% Since 2019",
+      "link": "https://commercialobserver.com/2026/07/multifamily-loan-balance-cred-iq/",
+      "excerpt": "U.S. bank real estate loan balances totaled $6.14 trillion in the first quarter of 2026, according to CRED iQ data. Since the first quarter of 2019, the composition of that real estate loan balance book has shifted measurably. Multifamily balances grew the fastest in percentage terms, rising about 53 percent, while the much larger residential book grew about 17 percent. In dollar terms the ordering differs, with core commercial real estate and residential each adding more than $440 billion while multifamily added about $229 billion. As of the first quarter of 2026, multifamily balances stood at an index of 153 (about 53 percent above the 2019 level), core CRE at 132 (roughly 32 percent), construction and development at 128 (around 28 percent), and residential at 117 (approximately 17 percent). Residential, which comprises mortgages on one-family, two-family, three-family and four-family residential properties and home equity, remained the largest category at $3.1 trillion, roughly half of all bank real estate lending, followed by core CRE at $1.92 trillion, multifamily at $665 billion, and construction at $453 billion. Percentage growth and dollar growth diverge Growth measured in percent and growth measured in dollars point to different segments. Residential added approximately $445 billion in outstanding balances since the first quarter of 2019 and core CRE added approximately $467 billion, each exceeding the roughly $229 billion added by multifamily, despite multifamily posting the largest percentage gain. The distinction matters for gauging where the largest absolute exposures have accumulated on bank balance sheets, as opposed to where growth has been proportionally most rapid. Construction and development: a distinct pattern Among the four categories, construction and development shows the most pronounced change in direction. Indexed to 2019, construction balances rose to a peak near 142 in 2024 before declining into early 2026, ending at 128. This rise-and-pa",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-22T12:34:22+00:00",
+      "bullets": [
+        "U.S. bank multifamily loan balances rose 53% since Q1 2019; reached $665B by Q1 2026.",
+        "Multifamily grew fastest in % terms; residential ($3.1T) remains largest category.",
+        "Construction/development lending grew only 28%; cap-ex financing lagging multifamily debt growth."
+      ],
+      "summary": "Multifamily loan balances at U.S. banks surged 53% between Q1 2019 and Q1 2026, growing from baseline to $665 billion—the fastest percentage growth among all real estate categories. By Q1 2026, multifamily balances indexed to 153 (vs. 2019 baseline of 100), while construction/development lending only reached index 128. Residential mortgages remain the largest segment at $3.1 trillion.",
+      "impact": "Heavy loan growth signals lender confidence in multifamily stabilization and acquisition/hold strategies, but construction/development lending (index 128) is lagging multifamily portfolio growth (153). This suggests refinance/recapitalization activity is outpacing new construction financing—lenders prefer stabilized assets over development risk. Developers should expect tighter new-construction loan appetite and higher development loan pricing vs. acquisition financing; refinance windows for stabilized projects remain open."
+    },
+    {
+      "title": "More Luxury Retailers Partner With Everyday Names to Lure Gen Z Shoppers",
+      "link": "https://commercialobserver.com/2026/07/luxury-retailers-partners-gen-z/",
+      "excerpt": "On May 16, watch brands Swatch and Audemars Piguet (AP) launched a collaborative line of eight pocket watches called Royal Pop, which, in addition to featuring designs that popped with vibrant colors, included a window into the inner workings of the watch. The intent of the Royal Pop watches, which retail for around $400 each, was to “invite a broader audience, including the younger generations, to experience mechanical watchmaking differently,” according to the AP website. As people throughout the world quickly learned, the collaboration worked almost too well. On the day of the new line’s unveiling, Swatch’s stores around the world were overrun. According to the Associated Press, police in Paris had to deploy tear gas to constrain the crowds, there were fistfights in Italy, and fans lined up throughout the night from New York to Singapore. As of two days after the product launch, Royal Pop’s social media feeds had received 11 billion views. While retail collaborations of this sort are hardly new, their frequency and popularity have been steadily rising in recent years as luxury brands like AP see creative downmarket collaborations as an effective way to introduce themselves to, and hopefully engender longtime brand loyalty from, younger consumers. Part of the reason why more brands decided to take on collaborations is that with so much information at their disposal, it’s easier to precisely Target consumers more inclined to appreciate both brands. “You have all of this access to information now, and you have all this social media online,” said Andrew Goldberg, a vice chairman at CBRE. “So you can go to Instagram, and you can see exactly who’s trending and who’s following who.” But Goldberg also sees some of these collaborations as necessary expansion. “So many of these brands have gotten big, and they’ve gotten to their core customer already,” said Goldberg. “They’re trying to think of how they can continue to develop and grow. All of these companies need to grow.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-22T10:00:51+00:00",
+      "bullets": [
+        "Luxury brands (Swatch, Audemars Piguet) collaborate on limited products; massive foot traffic.",
+        "Gen Z demand for experiential retail; collaborative launches drive store visits.",
+        "Retail demand signal; minimal multifamily relevance unless mixed-use retail has co-tenancy upside."
+      ],
+      "summary": "High-end watch brands Swatch and Audemars Piguet launched a limited collaborative line on May 16, driving extraordinary foot traffic and generating 11 billion social media views within two days. Retail collaborations are increasing in frequency, particularly targeting Gen Z through scarcity and experiential shopping. Crowds overwhelmed stores globally, with police intervention required in Paris.",
+      "impact": "Tangential to multifamily unless specific to mixed-use projects with retail components. Signal: younger renters (Gen Z) are driving experiential, walkable retail clusters, which supports higher rents in urban neighborhoods with dense retail/dining/bar density. Developers of urban infill multifamily should prioritize ground-floor retail/F&B activations and mixed-use positioning; luxury and collab-focused retail tenants can command premium rent, improving project feasibility. Relevant mainly for urban markets (NYC, LA, DC, Miami)."
+    },
+    {
+      "title": "The Plan: At the Windsor in Brooklyn’s Windsor Terrace, Assume Nothing",
+      "link": "https://commercialobserver.com/2026/07/the-plan-windsor-condos-brooklyn/",
+      "excerpt": "Windsor Terrace is a modest little neighborhood in southwest Brooklyn, perfectly situated a stone’s throw from Prospect Park, and an ideal location for a condominium development designed to entice families and individuals looking for unassuming luxury. Enter the Windsor at 23 Ocean Parkway, a red-brick building that is set back from the curb along a tranquil, tree-lined street, something Angely Rangel, sales director at Aguayo &amp; Associates, the firm leading sales at the building, said is a huge draw for buyers. “A lot of the interest that we’re getting for the project, and the buyers that we’re getting, are actually local to the neighborhood,” Rangel said. “They want to stay in the area because they say that it’s a very peaceful area. But it’s almost like their little secret because where they actually live is very quiet, but it is just a couple of blocks to one stop away from all these amazing restaurants, cocktail bars and shopping.” The building, developed by Local Development Group, offers buyers 98 condominiums from studios to three-bedrooms ranging in price from $525,000 to $1.67 million, as well as 33 rental units designated as affordable housing under the state’s old 421-a tax abatement program. When developing the Windsor, which launched sales in June, Local Development Group wanted to ensure the new building didn’t stand out within the classic neighborhood, but rather fit in with the area’s aesthetic. “We wanted to keep the character of the neighborhood the way it is today,” Abraham Leifer, CEO of Local Development Group, said. “If you go down to that particular neighborhood, you’re not going to see a lot of new developments there, or fancy, glitzy buildings. We tried to conform with the neighborhood’s look.” Leifer said the last thing the firm wanted to do was put up a huge, obnoxious-looking building that didn’t fit in with the classic character of the area. “It shouldn’t feel like we are invaders to this neighborhood,” he said. “We’re here to help o",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-22T10:00:38+00:00",
+      "bullets": [
+        "Windsor at 23 Ocean Parkway: 98-unit condo development in Brooklyn's Windsor Terrace.",
+        "Developer (Local Development Group) prioritizes local/neighborhood buyers seeking quiet, tree-lined appeal.",
+        "Condo sales (not multifamily rental); signal of brownstone/neighborhood gentrification vs. apartment trend."
+      ],
+      "summary": "The Windsor, a 98-unit condo building at 23 Ocean Parkway in Brooklyn's Windsor Terrace, is marketing to local, neighborhood-focused buyers drawn to the area's quiet, tree-lined character. Sales director notes strong local buyer interest and retention. Property features 18,000 sq ft of amenity space and a landscaped rooftop.",
+      "impact": "Minimal direct relevance to multifamily rental development. This is condo/for-sale product in a historically renters'-market borough. Signal: Brooklyn's outer neighborhoods (Windsor Terrace) are stabilizing and attracting affluent local buyers seeking quality-of-life proximity, which suggests rental demand in adjacent blocks remains healthy. For rental developers in similar outer-Brooklyn micromarkets, this validates renter demand and supports higher rents; for condo developers, it confirms buyer appetite in quieter Brooklyn neighborhoods."
     },
     {
       "title": "United Talent Agency Will Relocate NYC Offices to Empire State Building",
@@ -47,57 +107,27 @@
       "cat": "Commercial",
       "date": "2026-07-21T21:25:22+00:00",
       "bullets": [
-        "United Talent Agency leasing 100,948 SF across four floors at Empire State Building, summer 2026.",
-        "Major media/entertainment tenant recommitment to Midtown office; signals tenant demand in trophy asset.",
-        "No indication of negative office fundamentals; NYC creative sector consolidating in premium addresses."
+        "United Talent Agency leases 100,948 sq ft (4 floors) at Empire State Building; relocates summer 2027.",
+        "Large media/talent employer relocating within NYC; signals continued office occupancy for premier buildings.",
+        "Positive for Empire State Realty Trust; mixed signal for overall Manhattan office—trophy assets hold, commodity space remains vacant."
       ],
-      "summary": "United Talent Agency will relocate its New York offices to the Empire State Building starting summer 2026, occupying 100,948 SF across four floors to house its filmed entertainment, creators, music, sports, and other divisions. Empire State Realty Trust and UTA highlighted the building's ability to attract top talent and foster collaboration. JLL and Newmark brokered the transaction.",
-      "impact": "Limited direct relevance to multifamily; office leasing strength in Midtown suggests the creative/media sector remains NYC-anchored, supporting sustained demand for premium rental housing near transit and employment hubs. No immediate negative signal on office vacancies that might trigger adaptive reuse into apartments in that submarket."
-    },
-    {
-      "title": "Real Estate Firm Yuco, AI Company Elite Each Take 7K SF at 757 Third Avenue",
-      "link": "https://commercialobserver.com/2026/07/yuco-management-elite-leases-757-third-avenue/",
-      "excerpt": "Two tenants have signed on for 6,960 square feet each at Midtown East’s 757 Third Avenue, Commercial Observer has learned. Yuco Management, a New York City-based real estate development and management firm, inked a deal to take over the entire 27th floor of the 26-story Class A office building owned by New York Life Real Estate Investors, according to landlord broker JLL. Yuco will relocate to 757 Third Avenue from its current offices at 200 Park Avenue. Meanwhile, Elite, an artificial intelligence-powered legal software firm, signed a lease for the entire 22nd floor of the property. The deal seems to represent Elite’s first New York City office, as it has its headquarters in El Segundo, Calif. Cushman &amp; Wakefield’s Mark Weiss and Jenna Catalon represented Yuco in its deal, while Adam Ardise, Stephen Bellwood and Rachel Rosenfeld, also from C&amp;W, brokered the deal for Elite. JLL’s Mitchell Konsker, Clark Finney, Simon Landmann, Kristen Morgan and Lance Yasinsky represented the landlord in each lease. “Every building has a different story to tell in today’s market,” JLL’s Konsker said in a statement. “Our role is to understand where tenant demand is headed and help ownership align its asset with those evolving expectations. The recent activity at 757 Third Avenue reflects the strength of Midtown leasing fundamentals, the quality of its ownership and the value tenants place on well-executed repositioning strategies.” The lengths of the leases and the exact asking rents were unclear, but JLL said rents in the office tower are in the high $70s per square foot. Spokespeople for C&amp;W, Yuco Management and Elite did not immediately respond to requests for comment. News of the leasing at 757 Third Avenue comes as New York Life invests in repositioning and reintroducing the property to the market after acquiring it from BGO through a deed-in-lieu of foreclosure sale in October 2025. New York Life “continues to enhance the property with planned cosmetic renovations t",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-21T21:24:38+00:00",
-      "bullets": [
-        "Yuco Management and Elite AI each leasing 6,960 SF full-floor suites at 757 Third Avenue, Midtown East.",
-        "Yuco relocating from 200 Park Ave; Elite's first NYC office, expanding from California HQ.",
-        "Mixed occupancy signals: enterprise/legal tech tenants signing long-term leases in Class A office."
-      ],
-      "summary": "Yuco Management (NYC real estate developer/operator) and Elite, an AI-powered legal software firm, each signed leases for entire floors (27th and 22nd respectively) at 757 Third Avenue in Midtown East, totaling ~14K SF. Yuco relocated from 200 Park; Elite expanded its first NYC location from El Segundo, California headquarters. New York Life Real Estate Investors owns the property.",
-      "impact": "Modest office leasing activity in Midtown East; tech tenant expansion into NYC supports local workforce and rental demand near transit. However, no net job creation signal—merely tenant consolidation and relocation. Marginal positive for residential demand near Grand Central area but not material to supply-demand dynamics."
+      "summary": "United Talent Agency committed to a large 100,948 sq ft lease across four floors at the Empire State Building, relocating its NYC operations from unspecified prior location. The move occurs summer 2027 and will house filmed entertainment, creators, news, publishing, theater, music, sports, and executive search divisions. ESRT and UTA highlighted collaboration and talent attraction as deal drivers.",
+      "impact": "NYC multifamily: UTA's retention in Midtown (rather than decentralization to hybrid/satellite offices) signals continued white-collar job clustering in Manhattan core. Media/talent sector jobs remain NYC-anchored, supporting rental demand for young professionals in Midtown South, Hell's Kitchen, and Upper West Side. Reinforces Manhattan rental fundamentals for luxury/amenity-rich multifamily near transit/Midtown job centers. Empire State Building occupancy signals trophy office assets outcompete Class B/C space, limiting overall Midtown vacancy pressure and stabilizing office-to-resi conversion pipeline (fewer quality conversions available)."
     },
     {
       "title": "Original Developer Trades Castro Valley Multifamily Duo",
       "link": "https://www.connectcre.com/stories/original-developer-trades-castro-valley-multifamily-duo/",
-      "excerpt": "Berkadia arranged the sale and acquisition financing of two value-add, neighboring Castro Valley multifamily communities with a total of 135 units. They included the Cedars, an 83-unit property that sold for $21.45 million, and Creekside Terrace, a 52-unit property that sold for $14.1 million. Senior managing director Jason Parr, managing director Scott MacDonald and director John Hansen of Berkadia San Francisco arranged the sale on behalf of Felson Companies, the original developer and longtime owner of both communities. Managing director Clay Akiwenzie and director Hank Workman of Berkadia San Francisco arranged a seven-year fixed-rate Freddie Mac loan with full-term interest-only on behalf of San Francisco-based Prime Residential. &#8220;Properties held by a single owner for over 50 years are incredibly rare in the Bay Area, and the value-add potential here drew significant investor demand,&#8221; said MacDonald. &#8220;Our investment sales team partnered closely with our mortgage banking colleagues to navigate a complex environment and deliver an exceptional outcome for our client.&#8221; The post Original Developer Trades Castro Valley Multifamily Duo appeared first on Connect CRE.",
+      "excerpt": "Berkadia arranged the sale and acquisition financing of two value-add, neighboring Castro Valley multifamily communities with a total of 135 units. They included the Cedars, an 83-unit property that sold for $21.45 million, and Creekside Terrace, a 52-unit property that sold for $14.1 million. Senior managing director Jason Parr, managing director Scott MacDonald and director John Hansen of Berkadia San Francisco arranged the sale on behalf of Felson Companies, the original developer and longtime owner of both communities. Managing director Clay Akiwenzie and director Hank Workman of Berkadia San Francisco arranged a seven-year fixed-rate Freddie Mac loan with full-term interest-only on behalf of San Francisco-based Prime Residential. &#8220;Properties held by a single owner for over 50 years are incredibly rare in the Bay Area, and the value-add potential here drew significant investor demand,&#8221; said MacDonald. &#8220;Our investment sales team partnered closely with our mortgage banking colleagues to navigate a complex environment and deliver an exceptional outcome for our client.&#8221; The conversations behind tomorrow’s apartment deals happen at Connect Apartments on September 22 in LA. Connect with the capital sources, owners, developers, and brokers driving multifamily investment. Learn more and reserve your seat at www.connectapts2026.com. The post Original Developer Trades Castro Valley Multifamily Duo appeared first on Connect CRE.",
       "source": "Connect CRE",
       "cat": "Commercial",
       "date": "2026-07-21T21:02:58+00:00",
       "bullets": [
-        "Castro Valley, Calif.: 135-unit multifamily duo sold by Felson Companies (original developer, 50+ year hold).",
-        "The Cedars (83 units) $21.45M, Creekside Terrace (52 units) $14.1M; total ~$35.55M combined.",
-        "Prime Residential acquired both with 7-year Freddie Mac fixed-rate loan, interest-only full term; rare long-hold exit."
+        "Felson Companies (original developer, 50+ yr hold) trades Castro Valley duo: 135 units total for $35.55M.",
+        "Cedars (83 units, $21.45M); Creekside Terrace (52 units, $14.1M); both value-add plays.",
+        "Freddie Mac financing (7-yr fixed, full IO); buyer Prime Residential; Bay Area stabilized-asset liquidity solid."
       ],
-      "summary": "Berkadia brokered the sale of two value-add Castro Valley multifamily properties held by original developer Felson Companies for 50+ years: The Cedars (83 units, $21.45M) and Creekside Terrace (52 units, $14.1M). Prime Residential (San Francisco) acquired both with a Freddie Mac seven-year fixed-rate loan, interest-only financing. The rare long-hold exit signals investor demand for stabilized California multifamily.",
-      "impact": "Castro Valley—East Bay suburban market—shows strong investor appetite for value-add stabilized multifamily with below-market basis. Long-hold exit suggests prior owner reluctant to redevelop; new ownership likely to extract operational upside and potentially trigger modest rents. Signals East Bay investor confidence despite affordability crisis; limited new supply pipeline implications, but signals market still pricing in long-term fundamentals."
-    },
-    {
-      "title": "Luxury Menswear Brand ISAIA Takes 13K SF at Feil’s 257 Park Avenue South",
-      "link": "https://commercialobserver.com/2026/07/isaia-lease-feil-257-park-avenue-south/",
-      "excerpt": "ISAIA, a luxury menswear brand out of Naples, Italy, has signed a 13,000-square-foot lease renewal on the 10th floor of the Feil Organization’s 257 Park Avenue South, the property owner announced Tuesday. Feil said the brand has “recommitted&#8221; to its corporate showroom space at the property, also known as the Gramercy Park Building. The length of the lease is for 10 years. Feil did not disclose the asking rent for the space. The average asking rent for office space in the Gramercy area was $89.09 per square foot during the second quarter of 2026, according to Colliers data. &#8220;Continuing our relationship with ISAIA speaks to both the quality of the space and the Feil Organization&#8217;s ability to deliver unique environments that meet the needs of a diverse roster of tenants,&#8221; Feil&#8217;s Andrew Wiener, who represented the landlord in-house alongside Robert Fisher, said in a statement. &#8220;Their long-term recommitment is another testament to the strength of the property, which is currently 97 percent leased.&#8221; ISAIA was represented by Alexander Chudnoff and Henry Korzec from JLL. Chudnoff and Korzec did not immediately respond to Commercial Observer’s request for comment. &#8220;Our showroom at 257 Park Avenue South is an extension of the ISAIA brand and plays an important role in how we present our collections and connect with clients,&#8221; James Shay, president of ISAIA, said in a statement. “The unique character of the building, its prime location and the support of the Feil Organization made renewing our lease the right decision.” Situated at the corner of East 21st Street, 257 Park Avenue South is a 20-story office property with tenants including financial services firm Argentic Investment Management and fintech company AngelList. Amanda Schiavo can be reached at aschiavo@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-21T20:46:04+00:00",
-      "bullets": [
-        "ISAIA luxury menswear renewed 13K SF on 10th floor, 257 Park Ave South (Gramercy Park Bldg), 10-year term.",
-        "Average asking rent Gramercy area Q2 2026: $89.09/SF; tenant commitment despite office headwinds.",
-        "Corporate showroom anchor tenant renewing; no disclosed rent implies competitive market dynamics."
-      ],
-      "summary": "ISAIA, an Italian luxury menswear brand, renewed its corporate showroom lease at Feil Organization's 257 Park Avenue South (Gramercy Park Building) for 13,000 SF across a 10-year term on the 10th floor. Feil did not disclose asking rent; Gramercy area average asking rent stands at $89.09/SF (Q2 2026). The renewal demonstrates tenant confidence in the submarket and property quality.",
-      "impact": "Minimal multifamily relevance; office lease renewal in Gramercy/Flatiron submarket. No negative supply signal. Long-term tenant commitment supports property values and neighborhood vitality, indirectly supporting residential demand, but no direct impact on multifamily fundamentals or pipeline."
+      "summary": "Castro Valley multifamily duo—Cedars (83 units, $21.45M) and Creekside Terrace (52 units, $14.1M)—sold by original developer Felson Companies after 50+ year hold. Combined sale $35.55M for 135 units (~$263K/unit). Buyer Prime Residential secured Freddie Mac fixed-rate financing (7-year, IO). Value-add investor demand was strong per Berkadia.",
+      "impact": "Bay Area (East Bay) multifamily market: $263K per unit on 135-unit portfolio suggests mid-market stabilized asset pricing remains firm. Freddie Mac full-interest-only financing availability indicates lender confidence in Bay Area rental fundamentals despite broader cap rate compression. Value-add investor appetite high for legacy, undermanaged properties—signals shortage of quality, stabilized product in East Bay suburbs. Developers should consider Bay Area infill/value-add acquisitions; new ground-up development in Castro Valley faces cost-to-value challenges vs. acquisition/reposition strategy."
     },
     {
       "title": "Resorts World NYC Adds 1,400 Slot Machines as Part of $5.5B Expansion",
@@ -107,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-07-21T20:45:44+00:00",
       "bullets": [
-        "Resorts World NYC opened first casino floor, added 1,400 slots (now 3,900 total); $230M gaming revenue in 11 weeks.",
-        "Planned $5.5B buildout by 2030: 350K SF gaming floor, 6,000 slots, 800 tables, 7K-seat venue, 2K hotel rooms.",
-        "Major destination amenity expected to drive traffic and visitation to Queens/Long Island City area."
+        "Resorts World NYC opened casino floor 1 with 1,400 slots; 3,900 total onsite; $5.5B phased buildout planned.",
+        "Generated $230M gross gaming revenue in 11 weeks; expanding to 2,000 hotel rooms and 350K sq ft gaming floor by 2030.",
+        "Major employment cluster, visitor draw, and tax revenue influx for NYC; indirect residential demand signal."
       ],
-      "summary": "Resorts World New York City opened its first commercial casino floor with 1,400 new slot machines, bringing the total to 3,900, generating $230 million in gross gaming revenue in just 11 weeks. The property is executing a $5.5 billion master plan through 2030, including 350K SF gaming floor, 7,000-seat entertainment venue, 2,000 hotel rooms, and 10+ acres of public space.",
-      "impact": "Destination resort with 2,000 hotel rooms and entertainment venue will drive sustained foot traffic and visitor spending in Queens near Long Island City; strong secondary effect on nearby multifamily demand for both service workers and affluent residents seeking proximity to entertainment/hospitality. Developer should monitor rental rate uplift and demand in adjacent submarkets (Astoria, Sunnyside, western Queens) as resort phases complete."
+      "summary": "Resorts World NYC, the city's first full-fledged casino, opened floor 1 with 1,400 new slot machines (total 3,900), achieving $230M in gross gaming revenue in 11 weeks. The operator plans a $5.5B phased expansion through 2030, including 2,000 hotel rooms, 7,000-seat entertainment venue, 800 table games, and 10 acres of green space.",
+      "impact": "Queens (Aqueduct location) multifamily: Massive employment influx from casino operations, hotel, entertainment, and construction jobs over next 5 years drives renter demand in Queens (Astoria, Long Island City, Woodside nearby corridors). Casino guest workers and service staff create sustained local rental demand. Secondary effect: RWNYC amenity/entertainment cluster attracts young renters seeking urban nightlife within Queens. Developers should prioritize multifamily sites 1-3 miles from RWNYC; 2–3 bedroom apartments and studio/1BR units for hospitality workers will see strong absorption. Land values in adjacent Queens micromarkets may appreciate; land banking now provides future development upside."
     },
     {
       "title": "Calare Acquires Industrial in Boston’s Hyde Park Neighborhood",
@@ -122,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-07-21T20:27:43+00:00",
       "bullets": [
-        "Calare Properties acquired One Westinghouse Plaza Building K, 42K SF industrial/flex condo in Hyde Park, Boston.",
-        "~50% leased to long-term tenant; 24K SF available space; scarce quality industrial supply in metro.",
-        "Urban industrial campus play with capital improvement plan; rarely available large-scale Boston properties."
+        "Calare acquires One Westinghouse Plaza Building K, 42K sq ft industrial in Boston's Hyde Park, 50% leased.",
+        "Urban industrial scarcity in Boston; 22-acre campus offers stability + long-term value-add leasing opportunity.",
+        "Industrial asset class (not multifamily); tangential signal on Boston development constraints and land scarcity."
       ],
-      "summary": "Calare Properties acquired One Westinghouse Plaza Building K, a 42,000 SF industrial warehouse/flex condo in Boston's Hyde Park neighborhood within a 22-acre, 10-building mixed-use campus. The property is ~50% leased with 24K SF vacant; Calare is executing a capital improvement plan. Market scarcity of quality industrial space at this scale drove the acquisition strategy.",
-      "impact": "Not directly relevant to multifamily development. However, scarcity of industrial flex space and investor focus on campus-scale holdings in Boston's urban fringe may signal tight industrial supply and potential repurposing; if industrial-to-residential conversions become viable, developers should monitor this submarket for conversion opportunities as tech/biotech tenant demand absorbs existing supply."
+      "summary": "Calare Properties acquired One Westinghouse Plaza Building K, a 42,000 sq ft warehouse/flex condominium in Hyde Park, Boston's former manufacturing district. Building is 50% leased; available 24,000 sq ft represents scarcity premium. Property sits on 22-acre, 10-building campus with 1900s industrial roots. Calare executing capital plan to fill remaining space.",
+      "impact": "Minimal direct multifamily relevance. Signal for Boston development landscape: urban industrial scarcity (per Calare quote) indicates tight land/building supply city-wide. Regulatory/zoning constraints limiting new industrial supply can also affect multifamily entitlement timelines and construction logistics. Hyde Park's industrial-to-mixed-use potential (if future conversion emerges) could support multifamily infill—but this deal is stabilization/value-add industrial, not residential conversion."
     },
     {
       "title": "Fresno Apartments Fetch $44M in First-Ever Sale",
@@ -137,42 +167,12 @@
       "cat": "Commercial",
       "date": "2026-07-21T20:12:22+00:00",
       "bullets": [
-        "Maroa Park Apartments, Fresno: 248 units, first-time market sale since 1986 construction, $44M ($177K/unit).",
-        "Original ownership held 40 years; supply-constrained market with strong long-term fundamentals.",
-        "Central Valley location supports population/employment growth; operational upside through efficiency gains."
+        "Maroa Park Apartments (248 units, Fresno) sells for $44M; first-ever sale since 1986 construction; $177K/unit.",
+        "Supply-constrained Fresno market; original owner liquidation signals stabilized income, long-term hold exit.",
+        "Central Valley affordability and population growth support long-term rental fundamentals."
       ],
-      "summary": "TMG represented the sale of Maroa Park Apartments, a 248-unit well-maintained community in Fresno (475-585 W. Sierra Ave.), held by original owner JBT Property Management since 1986, to a private buyer for $44 million (~$177K per unit). The rare direct-from-developer large-scale asset in a supply-constrained market offers immediate operational upside and strong Central Valley growth fundamentals.",
-      "impact": "Central Valley Fresno market signals tight multifamily supply and strong investor confidence in regional employment/population growth (agricultural, logistics, tech corridor). Valuation (~$177K/unit stabilized) and buyer focus on operational efficiency suggest limited new construction and high replacement value; developers should model new supply in Fresno and surrounding Central Valley metros—strong demand signals but entitlement/construction cost challenges likely limit new unit delivery."
-    },
-    {
-      "title": "Oceanwide Plaza Sale Set to Advance After L.A. Drops Objections",
-      "link": "https://commercialobserver.com/2026/07/oceanwide-plaza-sale-graffiti-towers-los-angeles-kpc/",
-      "excerpt": "Los Angeles’ Oceanwide Plaza, a massive downtown development stuck in limbo so long it became tagged and transformed into the infamous Graffiti Towers, has been cleared for sale. The long process of selecting a new developer after the original Chinese developer went bankrupt may finally be coming to a close. KPC Group, a Southern California real estate firm headed by Dr. Kali Chaudhuri, and Lendlease Americas will contribute $517 million in cash and credit to acquire the unfinished project, and agreed to spend roughly $800 million to finish the trio of towers, located downtown near Crypto.com Arena. “I will be delighted to enter an order confirming the plan,” said Deborah Saltzman, a federal bankruptcy judge, during an hours-long hearing in a Downtown Los Angeles courtroom on Monday. After a break for negotiations, the parties returned to the courtroom for a brief afternoon session confirming the details of the arrangement. KPC said it will begin graffiti removal on Wednesday. The plan approval comes despite the city attorney’s objections to the KPC/Lendlease bid. In a May filing, the city, in its role as a creditor and governmental entity overseeing regulations and entitlements for the project, noted after multiple meetings, site visits and analysis that the bidder didn’t offer a complete plan that showed they had the funding and resources to fully finish. The City Attorney’s Office dropped its objections to the modified bankruptcy plan Monday after securing stronger commitments from the proposed buyer. The final version of the court’s orders will be filed Tuesday. KPC has a six-month window to complete the sale. Otherwise a backup buyer can be selected. In recent months, a competing bid by Sean Burton&#8216;s CityView was seen as a potential backup. KPC is also required, within 90 days, to remove the graffiti that has adorned the tower since 2024, when taggers began climbing and bombing the towers. Long considered an eyesore, a potential embarrassment during the u",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-21T19:35:11+00:00",
-      "bullets": [
-        "Oceanwide Plaza (L.A. downtown): KPC Group & Lendlease acquire unfinished $1B luxury project, $517M equity, ~$800M completion cost.",
-        "Federal bankruptcy court approval advancing; stalled since 2019 after Chinese developer funding collapse.",
-        "Three-tower near Crypto.com Arena; downtown L.A. supply recovery; long-delayed luxury delivery."
-      ],
-      "summary": "Los Angeles federal bankruptcy court is poised to approve the sale of Oceanwide Plaza, the long-stalled $1 billion luxury three-tower downtown development, to KPC Group and Lendlease Americas. The partners will contribute $517 million in cash/credit to acquire the unfinished project and commit ~$800 million to complete the towers near Crypto.com Arena, breaking a deadlock that began in 2019.",
-      "impact": "Downtown L.A. luxury residential supply finally moving off the shelf after 5+ year stall; completion of 300–400 units (estimated) will depress rents in downtown luxury segment and displace demand to adjacent neighborhoods (Arts District, Staples Center area). Developers should monitor completion timeline and pricing; potential ripple effects on Koreatown, Central City East, and Bunker Hill submarkets. Market absorption risk if delivered concurrently with other downtown projects; strong signal that downtown L.A. remains development target despite recent stagnation."
-    },
-    {
-      "title": "AI Company Mercor Takes 26K SF at Durst’s One World Trade Center",
-      "link": "https://commercialobserver.com/2026/07/mercor-lease-durst-one-world-trade-center/",
-      "excerpt": "One World Trade Center is almost 100 percent leased thanks to the latest deal with an artificial intelligence company, Commercial Observer has learned. Mercor, which employs human experts to train AI algorithms, has inked a five-year, 25,550-square-foot deal on the 77th floor of the Lower Manhattan office tower, the Durst Organization announced Tuesday. Durst owns the 104-story building along with the Port Authority of New York and New Jersey. The exact asking rent was not disclosed, but a source close to the deal told CO that the asking rent was in the high $80s to $90s per square foot. Durst was represented in-house by Eric Engelhardt, Karen Rose and Sayo Kamara, along with David Falk, Peter Shimkin, Hal Stein, Nathan Kropp and Paige Raisides from Newmark. Harry Singer from CBRE represented Mercor. The brokers did not immediately respond to requests for comment. “One World Trade Center was built for forward-looking, cutting-edge companies looking for a world-class home in New York City,” Jody Durst, president of Durst, said in a statement. “We look forward to welcoming Mercor to the building.” Mercor’s website says its headquarters is located in San Francisco, and does not list a New York City address. However, company CEO Brendan Foody previously posted on LinkedIn that the company would be expanding to New York City in January. It is unclear whether Foody was referencing the deal at One World Trade Center. “New York puts us close to some of the most important enterprises in the world, and to some of the highest caliber talent,” Koby Twist, special initiatives lead at Mercor, said in a statement. “One World Trade Center gives our team a home at the center of both.” One World Trade Center, the tallest building in the Western Hemisphere, was built by the Port Authority and Durst in a public-private partnership. Other recent tenants include fashion and culture publication W Magazine, global financial services company Ameriprise Financial, and energy- and infrastruct",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-21T18:55:00+00:00",
-      "bullets": [
-        "Mercor AI company leasing 25,550 SF on 77th floor, One World Trade Center; 5-year term, $80s–$90s/SF asking.",
-        "One WTC now ~100% leased; trophy Manhattan office securing cutting-edge tech tenant.",
-        "Lower Manhattan office/residential adjacency; strong demand for premium NYC workspace near transit."
-      ],
-      "summary": "Mercor, an AI company that employs human experts to train algorithms, signed a five-year, 25,550 SF lease on the 77th floor of One World Trade Center (Durst Organization). The deal brings the building to near-100% occupancy; asking rent was in the high $80s to $90s per square foot. Durst and Port Authority of New York and New Jersey own the 104-story Lower Manhattan tower.",
-      "impact": "Near-full occupancy at One WTC reinforces strong Manhattan office demand, especially for tech/AI tenants seeking premium downtown addresses. Indirect positive for Lower Manhattan multifamily: sustained office employment and amenity investment support residential leasing in adjacent TriBeCa, Battery Park City, and FiDi submarkets. No supply-side impact; signals healthy tenant demand but not new pipeline or construction impulses."
+      "summary": "JBT Property Management sold Maroa Park Apartments, a 248-unit community in Fresno at 475-585 W. Sierra Ave., to a private buyer for $44 million ($177K per unit). Original developer held asset since 1986; first-ever market sale. TMG emphasized supply scarcity, operational efficiencies, and regional portfolio consolidation upside.",
+      "impact": "Fresno (Central Valley) multifamily: $177K/unit pricing on 248-unit stabilized asset reflects Fresno's affordable-market positioning and supply scarcity. First-sale liquidation by original owner suggests long-hold stability and predictable income—positive signal for investor confidence in Fresno fundamentals. Central Valley population/employment growth (per TMG commentary) supports new-build development feasibility. Developers should evaluate Fresno infill and greenfield multifamily; sub-$50K/unit development costs and rent growth (vs. Bay Area) offer stronger IRR profiles. Regional population migration from expensive CA metros (Bay, LA) to Central Valley drives demand—development window open for next 3–5 years."
     },
     {
       "title": "South Florida’s top deals: Telecom exec pays $19M for new Miami mansion",
@@ -182,12 +182,12 @@
       "cat": "Development",
       "date": "2026-07-21T12:00:00+00:00",
       "bullets": [
-        "Miami Ponce-Davis mansion sale: $18.9M, telecom exec buyer, 10K SF, built 2026.",
-        "Miami Wynwood commercial: $24.5M for 13K SF mixed-use, buyer developer/investor Moishe Mana.",
-        "South Florida luxury residential and commercial showing strong investor/buyer activity across segments."
+        "Telecom exec (Meinrad Spenger) buys $18.9M Miami mansion; Jupiter waterfront $10.5M; high-net-worth liquidity flowing to South Florida.",
+        "Single-family luxury sales in Ponce-Davis, Jupiter; real estate activity signals affluent in-migration.",
+        "Indirect rental demand: wealthy buyer cohort often brings family office, staff, service workers requiring local housing."
       ],
-      "summary": "South Florida recorded two high-value deals: a $18.9 million Ponce-Davis mansion (10K SF, 2026 build, 1-acre lot, telecom executive buyer) and a $24.5 million Wynwood mixed-use property (13K SF, buyer linked to developer Moishe Mana). Additional residential deals in Jupiter at $10.5M and $8M appreciated year-over-year, reflecting strong high-net-worth buyer demand in the region.",
-      "impact": "Not directly relevant to multifamily development. Luxury residential and commercial investor activity in Miami/Wynwood signals affluent buyer confidence and ongoing gentrification in mixed-use neighborhoods; may pressure land costs for multifamily development in Wynwood and near Ponce-Davis. Mana's continued investment in Wynwood suggests mixed-use/cultural district growth that could support rental demand; monitor zoning/entitlement shifts in these submarkets."
+      "summary": "Luxury residential transactions in South Florida: telecom executive Meinrad Spenger purchased a newly built 10,000+ sq ft mansion in Miami's Ponce-Davis for $18.9M. In Jupiter, a waterfront home sold for $10.5M (2022 purchase price $8M). Both sales reflect strong high-net-worth buyer activity in Miami-Dade and Palm Beach counties.",
+      "impact": "South Florida (Miami-Dade, Palm Beach) multifamily: High-net-worth migration (particularly C-suite telecom/tech executives) signals executive job growth and in-migration to South Florida. Secondary effect: affluent buyers bring staff, advisors, and service workers requiring local apartments. Multifamily developers should focus on supply-constrained submarkets (Wynwood, Brickell, Design District, Coconut Grove) where young professionals and service workers seek walkable, urban rental. Luxury sales velocity also signals land value appreciation—land banking near wealthy residential clusters (Coconut Grove, Coral Gables) positions developers for future multifamily upside as neighborhoods densify."
     },
     {
       "title": "Elysian, Capstone go 100% affordable for Warner Center apartment project",
@@ -197,12 +197,12 @@
       "cat": "Development",
       "date": "2026-07-20T22:30:00+00:00",
       "bullets": [
-        "Elysian Housing & Capstone Equities: 316 affordable units, Warner Center (Woodland Hills), 21155 Califa St.",
-        "100% affordable development; expedited approval under L.A. Executive Directive 1; seven-story, 300K+ SF.",
-        "Follows Elysian/Capstone office-to-residential conversion (Balboa Blvd); Stan Kroenke 52-acre mixed-use nearby."
+        "Elysian Housing + Capstone Equities acquire 21155 Califa St (Woodland Hills); 316 affordable units, 7-story build.",
+        "The Green at Warner Center; expedited approval under LA Executive Directive 1; Kroenke's $52-acre mixed-use development nearby.",
+        "Affordable housing supply pipeline in Warner Center; Woodland Hills becoming affordable housing hub amid major institutional investment."
       ],
-      "summary": "Elysian Housing and Capstone Equities are developing The Green at Warner Center in Woodland Hills, a 316-unit 100% affordable housing project (seven stories, 300K+ SF) on a 2.7-acre site at 21155 Califa Street. The all-affordable model qualifies for expedited approval under L.A. Executive Directive 1. This follows a prior Elysian-Capstone office-to-residential conversion on Balboa Boulevard and aligns with Stan Kroenke's 52-acre mixed-use development anchoring the Warner Center area.",
-      "impact": "San Fernando Valley Warner Center becoming affordable housing hub amid major private mixed-use investment (Kroenke). Elysian/Capstone's repeated affordable conversions signal strong subsidy/tax credit availability and municipal appetite for affordable density. New 316 units will tighten Valley supply and may elevate market-rate rents by constraining replacement inventory; developers should monitor whether Kroenke's mixed-use success (retail, office, hotel) accelerates zoning/entitlement appetite for multifamily in adjacent submarkets—potential for significant new supply pipeline across Warner Center corridor."
+      "summary": "Elysian Housing and Capstone Equities purchased 21155 Califa Street in Woodland Hills, LA to build The Green at Warner Center, a 316-unit all-affordable development on 2.7 acres. Project qualifies for expedited approval under LA's Executive Directive 1. Separate Variel Avenue permit filed for same developers. Development follows Kroenke's major $52-acre mixed-use master plan (Rams HQ site) in Woodland Hills.",
+      "impact": "Los Angeles (Woodland Hills/San Fernando Valley) multifamily: Institutional capital (Elysian + Capstone) targeting all-affordable development in Woodland Hills signals shift in valley land positioning. Kroenke's mixed-use development ($52 acres + Rams HQ) anchors Woodland Hills as employment/mixed-use hub, driving workforce housing demand. Expedited approval and Executive Directive 1 streamline 100% affordable projects, reducing entitlement risk for developers. Market implication: Warner Center affordability and density will increase, lowering rents in valley submarkets. For-profit developers should pivot to market-rate projects in adjacent areas (Canoga Park, Winnetka) or accept margin compression; affordability restrictions will cap rents in Woodland Hills proper."
     },
     {
       "title": "Austin suburb selects Griffin Swinerton to revamp downtown",
@@ -212,12 +212,12 @@
       "cat": "Development",
       "date": "2026-07-20T20:30:00+00:00",
       "bullets": [
-        "Liberty Hill, Texas (Austin suburb) selected Griffin Swinerton to lead downtown revamp; target 2028 start.",
-        "Fast-growing suburb tripled size since 2020; community-driven masterplan adopted 2024 for historic preservation.",
-        "Similar precedent: Griffin Swinerton on Downtown East, Pflugerville (29 acres); joint venture model."
+        "Liberty Hill (Austin suburb, fastest-growing US suburb) hires Griffin Swinerton for downtown revamp; 2028 target start.",
+        "Masterplan adopted 2024; focus on walkability, historic preservation, community gathering space, parking, industry districts.",
+        "Population boom (3x since 2020 census) outpacing downtown infrastructure; placemaking investment precedes residential density wave."
       ],
-      "summary": "Liberty Hill, one of the nation's fastest-growing Austin-area suburbs, selected San Francisco-based Griffin Swinerton (JV of Griffin Structures and Swinerton) to lead a downtown transformation starting 2028. The joint venture will function as city staff, handling infrastructure, historic preservation, financing evaluation, and community engagement. Liberty Hill has tripled in size since 2020 and adopted a downtown masterplan in 2024 emphasizing walkability and gathering spaces.",
-      "impact": "Rapid suburban growth (Austin sprawl) creates pent-up demand for infill downtown mixed-use; Griffin Swinerton's redevelopment engagement model suggests multifamily will likely be core to Liberty Hill downtown vision. Developers should monitor 2028+ entitlement/zoning announcements; transit-oriented affordable/workforce housing likely target given Austin affordability crisis. Strong pipeline signal for Central Texas; model replicable across fast-growing Austin suburbs (Pflugerville, Leander, Round Rock)."
+      "summary": "Liberty Hill, one of the nation's fastest-growing suburbs, selected Griffin Swinerton (SF-based JV) to lead downtown revitalization, targeting 2028 start. Project includes infrastructure evaluation, historic preservation, parking upgrades, and industry-district planning. City adopted masterplan in 2024 and tripled in size since 2020 census.",
+      "impact": "Austin metro (Liberty Hill, TX) multifamily: Population boom (3x since 2020) is outpacing downtown infrastructure; Griffin Swinerton's assignment signals city-led infill/placemaking investment creating walkable, mixed-use downtown. Precedent: Griffin Swinerton completed similar work in Pflugerville (29-acre Downtown East project). Implication: downtown revamp will attract anchor tenants, entertainment, retail, and dining—supporting new multifamily development adjacent to downtown core. Developers should acquire land near Liberty Hill downtown for 2028–2030 delivery timing (pre-revamp completion). Population pressure + placemaking investment = strong rental demand signal for market-rate and workforce housing. Austin metro remains constrained for supply; Liberty Hill density will relieve pressure and attract regional development capital."
     },
     {
       "title": "CMK grabs key permit to launch 28-story South Loop high-rise",
@@ -227,12 +227,12 @@
       "cat": "Development",
       "date": "2026-07-20T20:00:00+00:00",
       "bullets": [
-        "CMK Companies: 910 South Wells, Chicago South Loop, 28-story, 350 units + 3.3K SF retail; piles permit secured.",
-        "Part of truncated 8-acre Riverline master plan ($2B original vision, halved 2018 after Lendlease split).",
-        "CMK recently drew $83M construction loan (Wintrust); 1010 South Wells (388 units) under construction nearby."
+        "CMK obtains piles permit for 910 South Wells, Chicago South Loop; 28-story, 350-unit mixed-use tower.",
+        "Riverline Parcel F Building B part of $2B truncated master plan (CMK 8 acres; Lendlease completed 2 towers).",
+        "CMK secured $83M Wintrust construction loan for Phase 1 (1010 South Wells, 388 units); foundation work active."
       ],
-      "summary": "CMK Companies' 910 South Wells Street mixed-use development (28 stories, 350 residential units, 3.3K SF retail) just secured its piles permit and is cleared for foundation work. Gensler designed the building, which includes parking, resident amenities, and riverwalk connection. The project is part of CMK's eight-acre Riverline master plan (halved from original $2B vision in 2018). CMK secured an $83 million construction loan from Wintrust for the nearby 1010 South Wells (388-unit apartment building, already under construction).",
-      "impact": "South Loop Chicago multifamily pipeline acceleration: 350 + 388 = 738 units from CMK alone, both under active construction/entitlement. Strong supply signal; developer should monitor absorption and rent trajectory post-delivery (2026–2027 likely). Riverline completion will add significant new density to South Loop residential market; positive for nearby retail/restaurant, but competitive pressure on Class A rents. Monitor Lendlease's northern parcel (Cooper, Reed) for concurrent delivery; combined 1,000+ unit delivery risk in tight South Loop submarket."
+      "summary": "CMK Companies' 910 South Wells (Riverline Parcel F Building B) obtained piles permit; 28-story, 350-unit residential with 3,300 sq ft retail and riverwalk connectivity. Part of $2B Riverline master plan (8 acres; split 2018 from original 15-acre partnership with Lendlease). CMK also secured $83M Wintrust construction loan for 1010 South Wells Phase 1 (388 units); both projects use Brandt's Build.",
+      "impact": "Chicago South Loop multifamily: CMK's active construction (piles permit + $83M loan) signals strong lender appetite for high-density urban multifamily in 24-hr neighborhood. Riverline master plan buildout (700+ units across phases) will increase South Loop supply, moderating rents short-term but anchoring long-term neighborhood credibility. Riverwalk connectivity and mixed-use positioning attract renters seeking urban walkability—supports premium rent capture. Developers should monitor South Loop supply pipeline and focus on differentiation (luxury finishes, tech amenities, unique location/access) vs. commodity product. Early lease-up windows (2027–2028) will be competitive; later phases (2029+) may see stabilized rents as market absorbs supply."
     },
     {
       "title": "Therme Dallas pivots, adds skybridge to $800M wellness resort buildout plans",
@@ -242,12 +242,12 @@
       "cat": "Development",
       "date": "2026-07-20T19:45:00+00:00",
       "bullets": [
-        "Therme Dallas: $800M wellness resort on 1500 S Riverfront Blvd, 24-acre, 500K SF; 2027 groundbreaking target.",
-        "Adding skybridge between buildings, new non-residential zones; next to Water Commons park and Harold Simmons Park.",
-        "Prior controversy: Misrepresented experience to Ontario; only one Bucharest spa built; development credibility questions."
+        "Therme Dallas ($800M wellness resort) targets 2027 groundbreaking; adds skybridge, 24 acres, 500K sq ft.",
+        "NY Times exposed Therme misrepresentation of development experience (claimed 6 facilities; only 1 built in Bucharest).",
+        "Credibility and delivery risk; may trigger capital market scrutiny and regulatory delays; deal contingent on Dallas city approvals."
       ],
-      "summary": "Austrian wellness company Therme Dallas is pursuing city approval for design adjustments to its $800 million resort on 1500 South Riverfront Boulevard, including a pedestrian skybridge and expanded non-residential zones. The 24-acre, 500K SF project (thermal baths, pools, saunas, restaurants, retractable glass roof) targets a 2027 groundbreaking. The company's credibility was questioned when a New York Times article revealed it had misrepresented its development track record to Ontario; Therme has only completed one facility (Bucharest), not six as claimed.",
-      "impact": "Therme Dallas is a destination amenity/leisure play, not multifamily-relevant per se. However, Trinity River waterfront development alongside Water Commons park will drive area perception uplift and attract regional visitation/spending. If delivered, ripple effect on nearby multifamily demand in uptown/downtown Dallas. Significant credibility/execution risk: developer should monitor permit progress and financing certainty before underwriting projects in immediate submarket. Completion delay likely; may not influence supply/demand until 2028–2029 at earliest."
+      "summary": "Therme Dallas, an $800M Austrian wellness resort on 1500 South Riverfront Boulevard, is seeking approval for skybridge and new non-residential zones, targeting 2027 groundbreaking. Plans include thermal baths, saunas, restaurants, retractable glass roof, beach atmosphere on 24 acres. However, NY Times exposed Therme misrepresenting its development track record (claimed six facilities; only one completed in Bucharest).",
+      "impact": "Dallas (Trinity River waterfront) multifamily: Therme credibility issues may delay/derail project, limiting indirect demand drivers (employment, visitor lodging, mixed-use amenity clustering). If project proceeds, it will anchor Trinity River as major attraction, attracting renter demographics seeking walkable urban resort/recreation lifestyle. Secondary effect: concurrent Water Commons (urban wetlands) and Harold Simmons Park development create amenity-rich microclimate supporting premium apartment rents. For multifamily developers: do NOT assume Therme delivery; plan independently for Trinity River demand. If Therme delays >2 years, development window for adjacent multifamily shifts 3–5 years right. Conversely, if Therme delivers, land values within 0.5 mi appreciate sharply; land acquisitions now offer optionality for future phases."
     },
     {
       "title": "Tannos secures $28M in construction financing for Houston area mixed-use project",
@@ -257,12 +257,12 @@
       "cat": "Development",
       "date": "2026-07-20T19:00:00+00:00",
       "bullets": [
-        "Tannos Development: $28M mid-construction financing for The Albritton mixed-use, Friendswood (25 mi SE Houston).",
-        "111 multifamily units, 11K SF retail, 9K SF office; completion 2028; 70% LTV Freddie Mac-style debt.",
-        "Developer also building $750M Friendswood City Center (106 acres) and $1B Magnolia Town Center; active regional pipeline."
+        "Tannos Development secures $28M mid-construction financing (70% LTV) for The Albritton (111 units, Friendswood, TX).",
+        "111 multifamily units + 11K sq ft retail + 9K sq ft office; completion 2028; S3 Capital provided debt.",
+        "Friendswood (25 mi SE Houston, 42K residents) emerging as mixed-use development hub; Tannos also building Magnolia Town Center ($1B) and Friendswood City Center ($750M)."
       ],
-      "summary": "Tannos Development Group secured $28 million in mid-construction financing from S3 Capital (arranged by Concord Summit Capital) for The Albritton mixed-use project in Friendswood, Texas (25 miles SE of downtown Houston). The debt carries a 70% LTV and funds remainder of construction; the project includes 111 multifamily units, 11K SF retail, 9K SF office space, targeting 2028 completion. Tannos is also developing the $750 million Friendswood City Center and $1 billion Magnolia Town Center in the region.",
-      "impact": "Houston exurban sprawl: Friendswood (42K residents, straddling Harris/Galveston counties) benefiting from Houston metro job/population diffusion; $28M mid-construction financing signals lender confidence in completion risk and market absorption. Tannos's three concurrent mega-projects ($750M, $1B, plus The Albritton) suggest strong developer conviction on outer-loop Houston demand. Implies multifamily supply pipeline in Friendswood/Magnolia; monitor absorption and rent growth in adjacent submarkets; competitive pressure likely as projects deliver 2027–2029. Strong signal for Texas regional growth but supply concentration risk."
+      "summary": "Tannos Development secured $28M construction financing from S3 Capital for The Albritton, a mixed-use project in Friendswood, TX featuring 111 multifamily units, 11,000 sq ft ground-floor retail, and 9,000 sq ft office. 70% LTV loan carries project through completion in 2028. Friendswood, 25 miles SE of Houston, is Tannos's hub; firm also developing Magnolia Town Center ($1B, 200 acres) and Friendswood City Center ($750M, 106 acres).",
+      "impact": "Houston metro (Friendswood/Magnolia, TX) multifamily: Tannos's $28M mid-stage construction financing (70% LTV, S3 Capital) signals lender confidence in Houston suburban mixed-use fundamentals. Tannos's triple-project portfolio ($1B Magnolia + $750M Friendswood City Center + $28M Albritton) demonstrates developer scaling and strong capital access—signals robust Houston investor appetite. Friendswood location (equidistant Houston/Galveston, 42K residents) positions projects for affordable workforce + leisure visitor hybrid demand. Supply wave (500+ units across Tannos projects by 2028+) will moderate Friendswood/Magnolia rents; entry-level rents (1BR, studios) will face pressure. Developers should focus on premium product (2BR+, luxury finishes) or workforce housing (tax credits, affordability) to differentiate. Development window remains open; land banking in adjacent Pearland, Texas City extends optionality as Friendswood absorbs."
     }
   ]
 }
