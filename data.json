@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-23T15:49:16.604346+00:00",
+  "fetchedAt": "2026-07-23T17:11:28.948795+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -9,21 +9,96 @@
     },
     {
       "label": "10Y Treasury",
-      "value": "4.71%",
-      "pct": 1.14
+      "value": "4.70%",
+      "pct": 0.86
     },
     {
       "label": "30Y Treasury",
-      "value": "5.18%",
-      "pct": 0.72
+      "value": "5.17%",
+      "pct": 0.47
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "99.03",
-      "pct": 0.01
+      "value": "98.76",
+      "pct": -0.26
     }
   ],
   "stories": [
+    {
+      "title": "JLL Nabs Listing for 345-Unit Uptown Dallas Apartment Tower",
+      "link": "https://www.connectcre.com/stories/jll-nabs-listing-for-345-unit-uptown-dallas-apartment-tower/",
+      "excerpt": "Hines has placed an Uptown apartment development up for sale. The 22-story, 345-unit Maple Terrace Residences is being marketed by JLL. The Dallas Business Journal reports the property at 3003 Maple Ave. is part of a mixed-use property that includes 155,000 square feet of office space and more than 15,000 square feet of dining space. They are not included in the listing. Hines in 2020 purchased the historic Maple Terrace property. Construction began in 2021 to convert the roughly 100-year-old existing building into offices, while the new Maple Terrace Residences was built behind. The apartment tower opened in 2024. Maple Terrace Residences has a 95.6% lease rate and more than 28,000 square feet of amenities. The building&#8217;s nine penthouses are 100% occupied, with an average rent of $15,145. Maple Terrace Residences is located in Uptown, which is seeing substantial growth from the city&#8217;s booming &#8220;Y&#8217;all Street&#8221; financial district. The post JLL Nabs Listing for 345-Unit Uptown Dallas Apartment Tower appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-23T17:08:09+00:00",
+      "bullets": [
+        "Hines selling 345-unit Maple Terrace Residences in Dallas Uptown, 95.6% leased, penthouses averaging $15,145/month.",
+        "Mixed-use tower opened 2024 with 155k SF office, 15k SF dining; located in 'Y'all Street' financial district growth corridor.",
+        "New construction delivery in strongest Dallas submarket signals developer confidence but may pressure future rent growth as supply enters market."
+      ],
+      "summary": "Hines is marketing Maple Terrace Residences, a newly delivered 345-unit luxury apartment tower in Dallas Uptown, for sale. The 22-story building achieved 95.6% occupancy with penthouse rents averaging $15,145/month and includes 28k SF of amenities. The property is part of a mixed-use redevelopment of a historic building and is positioned in Uptown's booming 'Y'all Street' financial district.",
+      "impact": "A Class-A new delivery finding a buyer quickly in Uptown Dallas—despite strong absorption and rents—may indicate seller confidence in exit timing rather than fundamental demand weakness. However, increasing supply in the market's strongest submarket could moderate rent growth and compress cap rates for future acquisitions in the Uptown micromarket, particularly for Class-A product."
+    },
+    {
+      "title": "NFL’s Cowboys Owner Sells Dallas Office Tower",
+      "link": "https://www.connectcre.com/stories/nfls-cowboys-owner-unloads-dallas-office-tower/",
+      "excerpt": "Dallas Cowboys owner Jerry Jones’ real estate company sold one of its towers. The 313,417-square-foot office tower at 17 Cowboys Way was purchased by Hobbs Brook Real Estate, the real estate investment arm of FM Investment. The Dallas Business Journal reports the 11-story building, owned by Blue Star, is currently 98% leased to a diverse group of tenants, including Fifth Third Bank, Cain Watters &amp; Associates, McAfee and Baker Tilly US. On-site amenities include a fitness center, conference facilities and outdoor gathering spaces. It is close to The Star’s Omni Frisco Hotel, curated dining and retail offerings, and the private Cowboys Club. Blue Star and Lincoln Property Company had partnered on the tower&#8217;s development. The 91 acres of The Star are anchored by the Dallas Cowboys&#8217; world headquarters and practice facility. Fifth Third will later establish its regional headquarters in a new 12-story tower in Preston Center, likely in 2028. The bank intends to maintain its current office space at The Star and in southern Dallas. Connect Texas Multifamily in Dallas on August 13 brings together the owners, developers, brokers, investors, and lenders shaping the future of Texas multifamily for a day of market intelligence, networking, and actionable insights. Join 300+ decision-makers and be part of the conversations driving the Texas multifamily market. Register today:&nbsp;www.ConnectTXMF2026.com. The post NFL’s Cowboys Owner Sells Dallas Office Tower appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-23T16:23:08+00:00",
+      "bullets": [
+        "Jerry Jones' Blue Star sold 313k SF office tower at The Star (Frisco) to FM Investment affiliate Hobbs Brook; 98% leased.",
+        "Major tenant Fifth Third Bank will relocate regional HQ to Preston Center in 2028, though maintaining current office space.",
+        "Disposal of stabilized office asset signals potential capital redeployment away from Class-A office into higher-yielding sectors."
+      ],
+      "summary": "Blue Star, controlled by Jerry Jones, sold its 313,417-square-foot office tower at The Star in Frisco to Hobbs Brook Real Estate for an undisclosed price. The 11-story building is 98% leased to diverse tenants including Fifth Third Bank, which plans to establish a regional headquarters in a new Preston Center tower by 2028 while maintaining space at The Star. The asset includes significant on-site amenities and sits within The Star's 91-acre campus.",
+      "impact": "Office tower disposal at The Star, even though stabilized and well-leased, reflects continued capital rotation out of office into other asset classes. The retention by Fifth Third of current space despite new HQ location signals mixed signals on Frisco office fundamentals, but the deal itself is immaterial to multifamily fundamentals in the Dallas metro."
+    },
+    {
+      "title": "Blackstone Reports Record AUM, Strong Earnings Powered by Data Centers, AI",
+      "link": "https://commercialobserver.com/2026/07/blackstone-reports-second-quarter-earnings-data-centers-ai/",
+      "excerpt": "Blackstone’s growth continued unabated in the first half of 2026, as the firm leveraged its enormous data center and AI platform to report strong shareholder returns. In the second quarter, the firm delivered more than 20 percent year-over-year growth across total revenues, fee revenues, fee-related earnings, net realization and distributable earnings, according to Michael Chae, vice chairman and chief financial officer. “The firm’s continued evolution and the expanding scope of our activity have fundamentally transformed our earnings power, both in terms of the magnitude and breadth and sources of earnings,” said Chae. The private equity powerhouse reported that its distributable earnings increased 26 percent year-over-year to $2 billion, with fee-related earnings growing 22 percent to $1.7 billion, or $1.29 per share, and net realizations rising by 27 percent, all despite geopolitical headwinds. Capital inflows into Blackstone reached $70 billion in the second quarter, and now stand at $260 billion in the last 12 months alone, increasing the firm’s total assets under management (AUM) 11 percent year-over-year to a firm-record $1.35 trillion. “Blackstone reported outstanding second-quarter results,” said Blackstone CEO Stephen Schwarzman. “The most significant driver of these strong results continues to be the large-scale investments we’ve made in artificial intelligence-related areas, including data centers, energy and power, and the frontier AI companies themselves.” Schwarzman noted that Blackstone has become one of the biggest private capital providers in the entire AI ecosystem, largely by building what he called “the largest data center development business in the world.” That growth has come through the firm’s 2021 acquisition of QTS Data Centers, and its direct investments into Anthropic, OpenAI, Google and SpaceX. Schwarzman also pointed out that in the second quarter Blackstone launched Blackstone Digital Infrastructure Trust (known by its stock symbol BX",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-23T16:16:48+00:00",
+      "bullets": [
+        "Blackstone reports 26% YoY distributable earnings growth to $2B, 20%+ revenue growth; data centers and AI driving returns.",
+        "Capital inflows reached $70B in Q2 2026; hyperscaler infrastructure capex projected $600B+ in 2026 alone.",
+        "Record capital formation and deployment in data center/AI sectors may compete for institutional investment dollars otherwise available for multifamily development financing."
+      ],
+      "summary": "Blackstone delivered strong shareholder returns in H1 2026, posting 26% year-over-year growth in distributable earnings to $2 billion, powered largely by data center and AI investments. The firm reported $70 billion in capital inflows and highlighted the top five hyperscalers' projected $600+ billion infrastructure spend in 2026 alone. Fee-related earnings grew 22% to $1.7 billion, with net realizations up 27% despite geopolitical headwinds.",
+      "impact": "Blackstone's outsized returns in data centers and AI are likely to deepen institutional capital concentration in those sectors, tightening equity availability and raising cost-of-capital for multifamily development financing. Megafunds rotating away from residential to infrastructure may soften bids for multifamily portfolios and make new development equity harder to source at attractive returns across major metros."
+    },
+    {
+      "title": "Texas People & Companies, July 24, 2026",
+      "link": "https://www.connectcre.com/stories/texas-people-companies-july-24-2026/",
+      "excerpt": "Matthew Seliger has joined Avison Young as Principal and Market Leader for its Houston office. In this role, Seliger will lead the market&#8217;s strategic growth initiatives, expanding the firm&#8217;s capabilities across brokerage, property management, project management, and valuation services while recruiting top industry talent to support continued growth. A seasoned commercial real estate leader, Seliger brings extensive experience in agency leasing, tenant representation, strategic lease negotiations, and asset positioning. JLL Capital Markets has secured the financing of Cornerstone Plaza, a fully leased retail center located in Southlake, Texas. JLL represented the borrower, Brownlee Waggoner Holdings. The lender was Hillcrest Bank. The retail center was originally built in 2002 and comprises 51,664 square feet of net rentable area across two buildings situated on 5.9 acres with 273 parking spaces. The property is 100% leased to eight tenants and features a 9.7-year weighted average lease term.&nbsp; Holt Lunsford Commercial Investments&nbsp;(HLCI) acquired a 26.5-acre site in North Fort Worth, Texas, for the development of Meacham 820 Crossing, a two-building Class-A industrial park totaling about 238,000 square feet. Building 1 will total approximately 105,000 square feet, and Building 2 will total approximately 133,000 square feet. Construction is expected to begin in Q4 2026, with delivery targeted for Q4 2027. Houston-based SparrowHawk added two executives to its senior leadership team. Scott Brast has joined the firm as Senior Vice President of Investments and Capital Markets, and Peter Wismer has been named Senior Vice President of Finance and Financial Reporting. Earlier this year, the firm secured a strategic partnership with Almanac Realty Investors, providing up to $300 million of growth capital to support acquisitions, portfolio expansion, and platform growth. The post Texas People &amp; Companies, July 24, 2026 appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-23T16:06:07+00:00",
+      "bullets": [
+        "Avison Young expands Houston office with Matthew Seliger as Principal and Market Leader; full-service capability build.",
+        "HLCI acquiring 26.5-acre North Fort Worth site for 238k SF Class-A industrial (Meacham 820 Crossing); construction Q4 2026, delivery Q4 2027.",
+        "Industrial pipeline activity in DFW remains robust; multifamily competitor for capital and development resources in same metros."
+      ],
+      "summary": "Avison Young hired Matthew Seliger as Principal and Market Leader for its Houston office to drive growth in brokerage, property management, and leasing. JLL Capital Markets financed a 100% leased 51.6k SF retail center in Southlake for Brownlee Waggoner Holdings. HLCI broke ground on a 238k SF, two-building Class-A industrial park (Meacham 820 Crossing) on 26.5 acres in North Fort Worth; construction starts Q4 2026 with delivery Q4 2027.",
+      "impact": "Continued robust industrial development pipeline in DFW competes for limited contractor labor, materials, and capital alongside multifamily. North Fort Worth industrial growth reflects broader supply-chain and logistics demand; multifamily developers should monitor labor costs and material supply tightness in the region as industrial ramps through 2027."
+    },
+    {
+      "title": "Diversified Helming San Tan Valley Development",
+      "link": "https://www.connectcre.com/stories/diversified-helming-san-tan-valley-development/",
+      "excerpt": "Diversified Partners is advancing a new 24-acre mixed-use development at the southeast corner of Ironwood Road and Ranch Road in San Tan Valley. The project includes approximately 25,000 square feet of proposed retail space and an approximately 50,000-square-foot medical building, which is under contract with OrthoArizona. Additional opportunities remain available for retail, restaurant, ground lease and build-to-suit users. Planned features include multiple shop buildings, a hard corner pad with drive-thru potential, two additional pad sites and a medical building. Located along Ironwood Road, it&#8217;s positioned within one of Arizona&#8217;s most active growth corridors and the nation&#8217;s second-fastest-growing county (Pinal). Diversified’s Walt Brown Jr. added, &#8220;The surrounding community continues to experience tremendous residential growth, and we&#8217;re creating a destination that meets the increasing demand for high-quality retail, dining and healthcare services while creating an exceptional long-term opportunity for businesses looking to grow alongside the surrounding community.&#8221; Join the region’s leading multifamily owners, developers, investors, lenders, and brokers at Connect Texas Multifamily on August 13 in Dallas for a focused discussion on the market forces redefining Texas real estate. Be in the room with the decision-makers driving deals and growth across Texas. Register today: www.ConnectTXMF2026.com. The post Diversified Helming San Tan Valley Development appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-23T16:00:53+00:00",
+      "bullets": [
+        "Diversified Partners developing 24-acre mixed-use at Ironwood Road & Ranch Road, San Tan Valley, Arizona; 25k SF retail, 50k SF medical (OrthoArizona anchor).",
+        "Pinal County is nation's second-fastest-growing county; San Tan Valley positioned in one of Arizona's most active growth corridors.",
+        "Retail/medical/mixed-use development signals strong population and household formation demand; indicates multifamily absorption headroom but retail supply may compete for rent growth."
+      ],
+      "summary": "Diversified Partners is advancing a 24-acre mixed-use development in San Tan Valley, Arizona, anchored by a 50k-square-foot medical building under contract with OrthoArizona and including 25k SF of retail/restaurant space. The project is positioned in Pinal County, the nation's second-fastest-growing county, within one of Arizona's most active growth corridors. Multiple pad sites and build-to-suit opportunities remain available.",
+      "impact": "Pinal County's #2 national growth ranking and continued retail/medical development signal robust population in-migration and household formation—strong tailwinds for multifamily demand in the San Tan Valley and greater Phoenix metro. Developers should prioritize land acquisition and entitlements in the Pinal County growth corridor before zoning and infrastructure costs escalate; absorption rates for multifamily will likely outpace retail as households move into the submarket."
+    },
     {
       "title": "Durst Secures Three Leases at 1133 Avenue of the Americas",
       "link": "https://commercialobserver.com/2026/07/durst-secures-three-leases-1133-avenue-of-the-americas/",
@@ -32,12 +107,12 @@
       "cat": "Commercial",
       "date": "2026-07-23T15:45:34+00:00",
       "bullets": [
-        "Durst Organization leases 11,223 SF at 1133 Avenue of Americas in Manhattan office.",
-        "Quantexa (AI software), Olympus Theatricals, Global Securitization Services signed three new/renewal leases.",
-        "Midtown South office leasing remains active; tech/financial services tenants seeking quality space."
+        "Durst Organization leased 11.2k SF across three tenants at 1133 Avenue of the Americas (Midtown South), including AI firm Quantexa (5.2k SF at $85/SF asking).",
+        "Quantexa expanding office footprint in Flatiron; theater and financial services firms renewed leases, signaling stable mixed-use tenant base.",
+        "Continued AI/tech tenant demand in Midtown South office; immaterial to multifamily but signals sustained white-collar job demand in Manhattan."
       ],
-      "summary": "Durst Organization secured three office leases totaling 11,223 square feet at 1133 Avenue of the Americas in Manhattan, including a 5,263 SF deal with AI software firm Quantexa and two renewals. The leases indicate continued demand for premium office space among tech and financial services companies. These are small, incremental leases in a single Midtown property.",
-      "impact": "Minimal direct impact. While office leasing activity signals some tenant demand in Manhattan Midtown, these are net-zero supply additions and do not materially affect multifamily development fundamentals or capital flows in any primary metro."
+      "summary": "The Durst Organization announced three leases totaling 11,223 square feet at 1133 Avenue of the Americas, including AI software firm Quantexa signing for 5,263 SF, theater company Olympus Theatricals renewing 3,345 SF, and Global Securitization Services renewing 2,615 SF. The leasing reflects demand for quality office space in best-in-class buildings, driven in part by growing AI and tech firms seeking Midtown South locations.",
+      "impact": "Continued AI/tech office leasing in Midtown South is immaterial to multifamily fundamentals; however, sustained Manhattan office demand from high-wage tech tenants supports rental demand in nearby residential micromarkets. Multifamily developers with Manhattan projects should monitor tech talent influx and job growth as proxy for renter household formation and rent-growth stability."
     },
     {
       "title": "Formation, Crescent Teaming Up on Phase II of 689K-SF Goodyear Warehouse Facility",
@@ -47,42 +122,12 @@
       "cat": "Commercial",
       "date": "2026-07-23T15:44:21+00:00",
       "bullets": [
-        "Formation Interests and Crescent Real Estate breaking ground on 261,168 SF Phase II of Formation Park 10 in Goodyear, Arizona.",
-        "Full build-out reaches 689,000 SF across five buildings on 44 acres; completion Spring 2027.",
-        "Industrial supply expansion directly on I-10 corridor; flexible 15,000–100,000+ SF options cater to diverse tenants."
+        "Formation Interests and Crescent Real Estate broke ground on Phase II of Formation Park 10, Goodyear, Arizona; 261k SF, three buildings on 44 acres.",
+        "Phase II completion Spring 2027 will bring total to 689k SF across five buildings; accommodates 100k+ SF single-tenants and flexible 15k–25k SF suites.",
+        "West Phoenix industrial absorption and flex-space demand strong; may signal industrial-driven employment growth and logistics hub expansion competing for labor/capital in Arizona."
       ],
-      "summary": "Formation Interests and Crescent Real Estate have broken ground on a 261,168 square-foot Phase II of Formation Park 10 in Goodyear, Arizona, which will bring the total industrial campus to 689,000 square feet across five buildings on 44 acres. The project will be completed in spring 2027 and offers both large single-tenant spaces and flexible multi-tenant options near Interstate 10. Industrial leasing momentum in West Phoenix reflects ongoing logistics demand.",
-      "impact": "No direct multifamily impact. Industrial-focused development in Phoenix metro. However, the influx of logistics and manufacturing tenants to Goodyear/West Phoenix signals downstream job creation and worker in-migration, which could strengthen rental demand in Phoenix suburban submarkets within 15–30 miles over 2027–2028; developers should monitor residential demand near I-10 corridor logistics hubs."
-    },
-    {
-      "title": "Trepp Sees “Mixed Data” on CMBS Distress Levels",
-      "link": "https://www.connectcre.com/stories/trepp-sees-mixed-data-on-cmbs-distress-levels/",
-      "excerpt": "Trepp Inc. has reported mixed data on CMBS distress levels lately. The volume of private-label securitized loans that are at least 30 days late declined by $3.49 billion, or 3.7%, in June. Conversely, while the volume of CMBS delinquencies shrunk to $43.98 billion, or 7.35% of the overall CMBS universe, the volume of loans in special servicing increased by 1.72% to $66.76 billion. &#8220;CMBS loans get transferred to special servicing for a variety of reasons, but they typically provide a distress signal,&#8221; according to Trepp. To gain better clarity, Trepp dug into the data and found that among the largest loans in special servicing was the $536 million of financing against Chicago&#8217;s 2.78 million-square-foot Aon Center office building. Parts of the loan had previously been transferred, so the distress was well known. This month, the loan appeared among those that transferred as a $93-million loan piece finally moved. &#8220;It&#8217;s not to say that the 54-year-old Aon Center isn&#8217;t facing credit issues &#8211; it is,&#8221; reported Trepp. &#8220;The building was only 66% occupied as of last September, and cash flow is roughly half what it was expected to be in 2018, when the loan was originated. The building&#8217;s appraised value is now a quarter what it was in 2018.&#8221; The post Trepp Sees &#8220;Mixed Data&#8221; on CMBS Distress Levels appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-23T15:40:41+00:00",
-      "bullets": [
-        "CMBS distress: delinquencies fell $3.49B in June to $43.98B (7.35% of universe); special servicing rose 1.72% to $66.76B.",
-        "Chicago Aon Center ($536M loan) cited: 66% occupied, cash flow down ~50% since 2018 origination; asset value down 75%.",
-        "Mixed signals reflect office sector weakness masking broader CMBS normalization."
-      ],
-      "summary": "Trepp reported mixed CMBS distress data: while 30+ day delinquencies declined $3.49 billion in June, loans in special servicing increased by 1.72% to $66.76 billion. The Aon Center office tower in Chicago exemplifies distress—66% occupied with cash flow roughly half 2018 levels and appraised value down 75%. The rise in special servicing despite falling delinquencies signals ongoing credit stress in office assets.",
-      "impact": "Significant capital markets signal for multifamily: office sector distress, while severe, is redirecting lender scrutiny and capital away from struggling office debt toward stabilized asset classes, including multifamily. Tightening commercial lending standards and higher special servicing volumes may push cap rates higher across multifamily, reducing deal flow and valuation support in secondary markets; however, core urban and growth markets with strong rental demand (near tech/finance hubs) may see cap rate compression as capital flight accelerates. Developers should expect tighter debt underwriting and lower leverage ratios on new starts."
-    },
-    {
-      "title": "Return to Lender: Week of July 23, 2026",
-      "link": "https://www.connectcre.com/stories/return-to-lender-week-of-july-23-2026/",
-      "excerpt": "A New Jersey-based investment firm has lost another Atlanta multifamily complex to foreclosure, according to the Atlanta Business Chronicle. Liquid Capital Real Estate Investments is no longer the owner of Crest on Peachtree, a 534-unit apartment tower at 710 Peachtree St. in Midtown. This follows news from 2024 when the company lost The Optimist Lofts in Piedmont Heights to foreclosure less than two years after acquiring it. An affiliate of New York-based Arbor Realty Trust extended a loan of $90.8 million in August 2022 to Liquid Capital for its $107.5-million purchase of Crest on Peachtree. With the loan in default, a foreclosure process was initiated last month. An Arbor affiliate emerged as the winning bidder at a foreclosure auction earlier this month with an $85.9-million credit bid. Morningstar Credit reported that the Bravern Office Commons in Bellevue, WA ($304.0 million | BAMLL 2020-BOC &amp; BANK 2020-BN26 | CMBX.14) is under contract with a closing expected later this year. The Puget Sound Business Journal reported price talk in the $262.5 million range, although most bids came in below that amount. The loan, backed by a 750,000-square-foot office complex, moved to special servicing in September 2025 after encountering cash flow issues following the departure of Microsoft, according to Morningstar. The buildings remain empty. Two office buildings at Metropoint business park in St. Louis Park, MN are scheduled to be sold at a foreclosure auction in September as CommunityAmerica Federal Credit Union seeks to recover roughly $46 million in loans tied to the properties, reported the Minneapolis/St. Paul Business Journal. The foreclosure action stems from two lawsuits filed by CommunityAmerica Federal Credit Union in Hennepin County District Court against the owners of the Metropoint 300 building located at 300 Highway 169 S. and Metropoint 400 building located at 400 Highway 169 S. CWCapital Asset Management has hired Colliers to market for sale the 410,000",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-23T15:39:02+00:00",
-      "bullets": [
-        "Liquid Capital lost 534-unit Crest on Peachtree in Midtown Atlanta to foreclosure; Arbor Realty Trust credit bid $85.9M.",
-        "Bravern Office Commons in Bellevue, WA ($304M, 750K SF) under contract post-Microsoft departure; moved to special servicing Sept 2025.",
-        "Two office buildings in St. Louis Park, MN facing September foreclosure auction; $46M in defaulted CommunityAmerica loans."
-      ],
-      "summary": "Liquid Capital Real Estate Investments lost the 534-unit Crest on Peachtree tower in Atlanta's Midtown to foreclosure, with Arbor Realty Trust winning the auction with an $85.9 million credit bid on a loan originally extended in August 2022. The Bravern Office Commons in Bellevue, WA (750,000 SF) remains empty post-Microsoft departure and is under contract following a move to special servicing. Two office buildings in St. Louis Park, Minnesota, are scheduled for foreclosure auction in September over $46 million in defaulted loans.",
-      "impact": "Critical signal for multifamily developers in Atlanta, Pacific Northwest, and Minneapolis markets: office sector distress is depressing commercial property valuations and forcing lender repositioning. In Atlanta Midtown, the Arbor Realty credit bid of $85.9M (vs. $107.5M original purchase price in 2022) reflects current market conditions; however, this foreclosure signals distressed asset flow and potential opportunity for adaptive reuse (office-to-residential conversion). The Belvue/Seattle and Minneapolis office distress diverts capital and lender attention from multifamily originations in those markets in near-term; developers should monitor for potential office-to-multifamily conversion opportunities, especially in downtown Seattle and Minneapolis core submarkets."
+      "summary": "Formation Interests and Crescent Real Estate commenced Phase II of Formation Park 10 in Goodyear, Arizona, a 261,168-square-foot, three-building industrial expansion that will bring the project to nearly 689k SF across five buildings on 44 acres. The project is positioned at the intersection of Bullard Avenue and Celebrate Life Way with I-10 access and is designed to accommodate both single-tenants seeking 100k+ SF and flexible smaller occupiers. Construction expected to complete Spring 2027.",
+      "impact": "Strong West Phoenix industrial pipeline growth and continued spec construction indicate robust supply-chain and logistics demand. Industrial employment growth may support population in-migration and household formation in the greater Phoenix metro, benefiting multifamily absorption; however, construction labor and materials competition could tighten costs for concurrent multifamily projects in the region."
     },
     {
       "title": "New York’s Temporary Data Center Moratorium Could Mean Permanent Losses",
@@ -92,42 +137,27 @@
       "cat": "Commercial",
       "date": "2026-07-23T15:34:58+00:00",
       "bullets": [
-        "New York Governor Hochul signed nation's first statewide hyperscale data center moratorium on July 14; one-year pause on environmental permits.",
-        "Top five hyperscalers (Amazon, Microsoft, Google, Meta, Oracle) projected to spend $600B+ in 2026 (36% YoY increase); Goldman Sachs projects $1.15T spend 2025–2027.",
-        "Moratorium aims to protect ratepayers, environment, energy grid; risks competitive loss to other states in data center gold rush."
+        "New York Governor Hochul signed nation's first statewide hyperscale data center moratorium; pauses environmental permits up to one year as of July 14.",
+        "Top five hyperscalers (Amazon, Microsoft, Google, Meta, Oracle) projected to spend $600B+ on infrastructure in 2026, up 36% YoY; Goldman Sachs projects $1.15T capex 2025–2027.",
+        "NY moratorium removes state from hyperscaler competition during peak capex cycle; capital and talent flows to other states, reducing economic spillover to NYC metro rental demand."
       ],
-      "summary": "New York Governor Kathy Hochul signed a moratorium on new hyperscale data center development on July 14, pausing all state environmental permits for up to one year. The top five hyperscalers are projected to spend over $600 billion on infrastructure in 2026, a 36% increase from 2025, and over $1.15 trillion from 2025–2027 according to Goldman Sachs. The moratorium aims to establish a regulatory framework protecting ratepayers, the environment, and the energy grid.",
-      "impact": "Significant indirect impact for multifamily developers: the moratorium diverts hyperscaler capex and job creation away from New York to competing states (Virginia, Texas, Ohio, Arizona). While data centers themselves do not directly compete for land with multifamily, they anchor major job centers and drive worker migration and rental demand in their surrounding metros. Loss of hyperscaler investment in New York State (especially Northern Virginia alternatives like Starwood's projects gaining traction) will weaken long-term population and employment inflows that support multifamily rent growth in NYC suburbs and secondary markets. Developers should shift focus to Sun Belt markets (Dallas, Austin, Phoenix, Charlotte) where data center expansion continues unabated, driving downstream residential demand."
-    },
-    {
-      "title": "Manufacturer Setting Up AllianceTexas Facility",
-      "link": "https://www.connectcre.com/stories/manufacturer-setting-up-alliancetexas-facility/",
-      "excerpt": "Foxlink&nbsp;Group purchased Alliance Gateway 17 at AllianceTexas in Fort Worth, Texas, where the company will establish a new&nbsp;PCBA&nbsp;manufacturing operation.&nbsp; The 147,780-square-foot facility at 4600 Alliance Gateway Freeway is expected to create approximately 900 jobs at full capacity. The Group integrates AI-driven robotics, high-performance computing, and intelligent security solutions into its manufacturing operations. Founded in 1986, Foxlink produces a broad array of electronic components, including connectors, circuit board assemblies, cables, power supplies and battery packs. The facility will be converted into an advanced manufacturing site supporting key phases of Foxlink’s surface mount technology, or SMT, and final assembly, testing and packaging, or FATP, production processes, integrating AI-driven robotics and intelligent automation directly on the production floor. Production is expected to begin in August 2026. Foxlink selected AllianceTexas for its strategic location, transportation access, access to a skilled workforce, and proximity to North Texas’ growing advanced manufacturing ecosystem. The post Manufacturer Setting Up AllianceTexas Facility appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-23T15:33:37+00:00",
-      "bullets": [
-        "Foxlink Group purchased 147,780 SF facility at AllianceTexas in Fort Worth; expected to create 900 jobs at full capacity.",
-        "Advanced manufacturing (PCBA, SMT, FATP) with AI-driven robotics; production start August 2026.",
-        "Fort Worth industrial/manufacturing cluster strengthening; AllianceTexas strategic logistics hub."
-      ],
-      "summary": "Foxlink Group purchased a 147,780 square-foot facility at AllianceTexas in Fort Worth, Texas, to establish a PCBA and advanced manufacturing operation integrating AI-driven robotics. The facility is expected to create approximately 900 jobs at full capacity, with production beginning in August 2026. Foxlink selected the site for its strategic location, transportation access, skilled workforce, and proximity to North Texas's growing advanced manufacturing ecosystem.",
-      "impact": "Meaningful demand signal for Fort Worth/Dallas metro multifamily developers: Foxlink's 900-job manufacturing facility represents near-term worker in-migration to Fort Worth, with peak headcount expected by Q4 2026. AllianceTexas is a primary logistics and advanced manufacturing corridor; developers should identify multifamily opportunities in nearby submarkets (Keller, North Richland Hills, Arlington, Alliance area) to capture workforce housing demand. The combination of Foxlink, existing Amazon/logistics tenants, and broader North Texas manufacturing momentum supports multifamily fundamentals—expect sustained rent growth and absorption acceleration in Fort Worth suburbs through 2027–2028."
+      "summary": "New York Governor Kathy Hochul signed a one-year moratorium on new hyperscale data center environmental permits on July 14, 2026, citing the need to establish a 'nation-leading regulatory framework.' The timing is significant: the top five hyperscalers are projected to spend over $600 billion on infrastructure in 2026, a 36% increase from 2025, with Goldman Sachs estimating $1.15 trillion in cumulative capex from 2025–2027. States are competing aggressively for this economic activity.",
+      "impact": "NY's data center moratorium removes the state from competition during peak hyperscaler capex cycle, likely redirecting investment and job creation to rival states (Virginia, Texas, other hubs). This reduces near-term white-collar employment spillover to NYC metro and may soften multifamily rental demand growth in Manhattan and surrounding submarkets. Developers should monitor permitting timelines; if moratorium extends beyond one year, competitive disadvantage for NY multifamily will deepen."
     },
     {
       "title": "ESRT Putting 1359 Broadway Up for Sale, Seeking $225M",
       "link": "https://commercialobserver.com/2026/07/esrt-1359-broadway/",
-      "excerpt": "Empire State Realty Trust is parting ways with its mixed-use building at 1359 Broadway and marketing it for sale, sources familiar with the move told Commercial Observer. The property is expected to fetch around $225 million, with the winning buyer owning the fee simple interest in the 486,000-square-foot, 22-story office and retail property at the corner of Broadway and 36th Street two blocks north of Herald Square. The building is a short walk from both Penn Station and Grand Central Terminal and roughly 95 percent leased to a diverse mix of tenants today, with plenty of leasing momentum. Only a few days ago, manufacturer Infinium Wall Systems signed a lease for 30,017 square feet at the property, and the second quarter of 2025, ESRT signed 38,000 square feet of leases between SLCE Architects and nonprofit Braven. As for the retail component, it’s anchored by Wolfgang’s Steakhouse and also includes Japanese restaurant Wokuni. Newmark’s Adam Spies, Josh King, Adam Doneger, Avery Silverstein, Marcela Fasulo and Doug Harmon are leading the sale, sources said, and no debt currently encumbers the property. The sale of 1359 Broadway follows lots of portfolio comings and goings for ESRT. Last month the real estate investment trust (REIT) closed on the $114 million acquisition of the land beneath 111 West 33rd Street and 1400 Broadway. Two months earlier, in April, it went under contract to sell its 26-story office building at 250 West 57th Street to Namdar Realty Group for roughly $280 million. Last, but certainly not least, in December the REIT made headlines when it bought Scholastic’s building at 555-557 Broadway in SoHo for $386 million in a deal arranged by the same Newmark team. Sources familiar with the moves said ESRT is in the process of upgrading its portfolio and recycling capital in the process. ESRT and Newmark didn’t immediately return requests for comment. Cathy Cunningham can be reached at ccunningham@commercialobserver.com. &nbsp;",
+      "excerpt": "Empire State Realty Trust is parting ways with its mixed-use building at 1359 Broadway and marketing it for sale, sources familiar with the move told Commercial Observer. The property is expected to fetch around $225 million, with the winning buyer owning the fee simple interest in the 486,000-square-foot, 22-story office and retail property at the corner of Broadway and 36th Street two blocks north of Herald Square. The building is a short walk from both Penn Station and Grand Central Terminal and roughly 95 percent leased to a diverse mix of tenants today, with plenty of leasing momentum. Only a few days ago, manufacturer Infinium Wall Systems signed a lease for 30,017 square feet at the property, and the second quarter of 2025, ESRT signed 38,000 square feet of leases between SLCE Architects and nonprofit Braven. As for the retail component, it’s anchored by Wolfgang’s Steakhouse and also includes Japanese restaurant Wokuni. Newmark’s Adam Spies, Josh King, Adam Doneger, Avery Silverstein, Marcela Fasulo and Doug Harmon are leading the sale, sources said, and no debt currently encumbers the property. The sale of 1359 Broadway follows lots of portfolio comings and goings for ESRT. Last month the real estate investment trust (REIT) closed on the $114 million acquisition of the land beneath 111 West 33rd Street and 1400 Broadway. Two months earlier, in April, it went under contract to sell its 26-story office building at 250 West 57th Street to Namdar Realty Group for roughly $280 million. Last, but certainly not least, in December the REIT made headlines when it bought Scholastic’s building at 555-557 Broadway in SoHo for $386 million. The same Newmark team arranged both the 250 West 57th Street and Scholastic building deals. Sources familiar with the moves said ESRT is in the process of upgrading its portfolio and recycling capital in the process. ESRT and Newmark didn’t immediately return requests for comment. Cathy Cunningham can be reached at ccunningham@commer",
       "source": "Comm. Observer",
       "cat": "Commercial",
       "date": "2026-07-23T15:30:50+00:00",
       "bullets": [
-        "Empire State Realty Trust marketing 1359 Broadway (486K SF, 22-story office/retail) in Midtown South for ~$225M.",
-        "Property 95% leased with recent signings (Infinium Wall Systems 30K SF, SLCE Architects, Braven 38K SF Q2 2025).",
-        "Prime location: two blocks from Herald Square, walkable to Penn Station and Grand Central; retail anchored by Wolfgang's Steakhouse."
+        "Empire State Realty Trust selling 1359 Broadway (486k SF, 22-story office/retail at 36th & Broadway) for ~$225M; 95% leased with recent momentum.",
+        "Mixed-use property two blocks from Herald Square, walk to Penn Station and Grand Central; strong locational fundamentals.",
+        "Major REIT office asset sale near transit hubs signals continued capital recycling out of office; may compress valuations and soften office-to-residential conversion economics."
       ],
-      "summary": "Empire State Realty Trust is selling the mixed-use property at 1359 Broadway, a 486,000 square-foot, 22-story office and retail building in Midtown South, for approximately $225 million. The building is 95% leased with active leasing momentum, including recent signings by Infinium Wall Systems (30,017 SF), SLCE Architects, and Braven (38,000 SF combined). The prime location near Herald Square, Penn Station, and Grand Central Terminal supports a diverse tenant mix anchored by Wolfgang's Steakhouse and Japanese restaurant Wokuni.",
-      "impact": "Minimal direct multifamily impact; this is office/retail divestiture in Manhattan. However, the fact that ESRT is liquidating prime Manhattan office real estate at relatively modest pricing ($225M for 486K SF ≈ $463/SF) signals REIT capital redeployment away from office toward other asset classes. Developers should monitor for potential office-to-multifamily conversion opportunities at nearby Midtown South sites; strong transit access and dense urban location make conversion economics feasible if office fundamentals continue to weaken. The sale also suggests REIT capital may redeploy to multifamily development in growth markets."
+      "summary": "Empire State Realty Trust is marketing 1359 Broadway, a 486,000-square-foot, 22-story mixed-use office and retail property at the corner of Broadway and 36th Street, for approximately $225 million. The building is 95% leased with strong recent leasing momentum (30k SF to Infinium, 38k SF in Q2 2025), and retail is anchored by Wolfgang's Steakhouse and Wokuni. The property is steps from Penn Station and Grand Central Terminal.",
+      "impact": "ESRT's disposal of a well-leased, transit-proximate office asset at $225M (likely low-$400s/SF cap rate) confirms continued institutional flight from office. Multifamily developers evaluating office-to-residential conversion plays in Midtown South should note softening office asset values may improve land/building acquisition costs, but conversion economics remain tight absent significant zoning/entitlement tailwinds."
     },
     {
       "title": "Data Platform Chalk AI Grabs 27K SF in Flatiron District",
@@ -137,42 +167,12 @@
       "cat": "Commercial",
       "date": "2026-07-23T15:30:15+00:00",
       "bullets": [
-        "Chalk AI leases 26,607 SF in Flatiron District (43 West 23rd Street) at $85/SF; 2nd location after 54 West 21st Street.",
-        "Eight-story office building now 100% leased; 200%+ surge in AI tenant square-footage requests YoY vs. prior summer.",
-        "AI/tech cluster concentration in Midtown South; strong leasing velocity among high-growth companies."
+        "Chalk AI leased 26.6k SF at Castro Properties' 43 West 23rd Street (Flatiron) at $85/SF asking; brings building to 100% occupancy.",
+        "Chalk AI's second Flatiron office (opened first at 54 West 21st Street four years ago); signals continued AI/tech firm clustering in Midtown South.",
+        "AI tenant agglomeration in Flatiron sustains office demand and white-collar job gravity, supporting adjacent residential rents but does not directly drive multifamily supply or cost."
       ],
-      "summary": "Chalk AI, a data platform providing infrastructure for AI agents, signed a lease for 26,607 square feet at Castro Properties' 43 West 23rd Street in the Flatiron District at $85 per square foot. This is Chalk AI's second office location after opening at 54 West 21st Street four years ago, and it brings the eight-story building to 100% occupancy. Okada & Company reports a 200%+ increase in square-footage requirements from AI tenants compared to last summer.",
-      "impact": "Strong signal of AI/tech cluster formation in Midtown South: 200%+ YoY surge in AI tenant leasing demand directly reflects industry consolidation and venture capital deployment in NYC. This concentration of AI/tech tenants—backed by robust hiring and funding—drives worker in-migration and supports both office and adjacent multifamily demand. Developers should prioritize Midtown South and Flatiron District multifamily assets; rental demand from AI/tech employee housing will remain robust through 2027. The tight office leasing (100% occupancy on 43 West 23rd) signals supply constraints and potential rent escalation, indirectly strengthening multifamily value capture in the submarket."
-    },
-    {
-      "title": "Walton Lakes Offloads Two Atlanta Rental Properties",
-      "link": "https://www.connectcre.com/stories/walton-lakes-offloads-two-atlanta-rental-properties/",
-      "excerpt": "Walton Communities has sold off Walton Lakes, a 305-unit, market-rate multifamily community, and The Legacy at Walton Lakes, a 126-unit, 55+ LIHTC community, both in Atlanta. Clark Ventures was the buyer. The buyer was able to assume HUD financing for Walton Lakes. JLL represented the buyer on the affordable acquisition financing of Legacy. Completed in 2009, Walton Lakes and The Legacy at Walton Lakes consist of six garden-style residential buildings offering one-, two-, and three-bedroom apartment homes. Tenants enjoy patios or balconies, clubhouse, swimming pool, fitness center, picnic area, playground and a business center. Situated on a 35.83-acre site at 4687 Camp Creek Parkway, Walton Lakes and The Legacy at Walton Lakes are in Atlanta’s South Fulton submarket. JLL Capital Markets’ Investment Sales &amp; Advisory team of John Weber, Peter Yorck and Nick Brown, with JLL’s Affordable Housing team led by Doug Childers, Michael Fox, Murphy Holloway and Melissa Bloem represented the seller. The post Walton Lakes Offloads Two Atlanta Rental Properties appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-23T14:23:10+00:00",
-      "bullets": [
-        "Walton Communities sold 305-unit market-rate Walton Lakes and 126-unit 55+ LIHTC Legacy at Walton Lakes in Atlanta South Fulton to Clark Ventures.",
-        "35.83-acre garden-style community; HUD financing assumed by buyer; JLL facilitated LIHTC acquisition financing.",
-        "Atlanta South Fulton submarket portfolio turnover; mixed tenure community disposition."
-      ],
-      "summary": "Walton Communities sold two communities to Clark Ventures: Walton Lakes (305 units, market-rate) and The Legacy at Walton Lakes (126 units, 55+ LIHTC), both in Atlanta's South Fulton submarket on a 35.83-acre site. Clark Ventures assumed HUD financing for Walton Lakes and secured LIHTC acquisition financing through JLL for the affordable property. Both communities, completed in 2009, feature garden-style design with amenities including clubhouse, pool, and fitness center.",
-      "impact": "Portfolio turnover in Atlanta South Fulton signals owner/operator transition; potential interest rate sensitivity on assumed HUD financing suggests current debt environment pressuring legacy owners. The sale of a 305-unit market-rate community and 126-unit affordable property to new operator suggests South Fulton is either underperforming on rent growth relative to owner's cost of capital, or owner is deploying capital elsewhere. Developers should monitor South Fulton submarket for acquisition opportunities if rental fundamentals remain stable; the turnover indicates potential value-add or repositioning targets. Strong likelihood that Clark Ventures plans operational improvements or repositioning—watch for comparable rent/occupancy metrics to track submarket momentum."
-    },
-    {
-      "title": "Google Expands Miami Office to 45K SF",
-      "link": "https://commercialobserver.com/2026/07/google-miami-office-1450-brickell-avenue/",
-      "excerpt": "Google’s parent company has quadrupled its office footprint in Miami, Bloomberg reported. Alphabet inked a lease for about 45,000 square feet at 1450 Brickell Avenue this spring, where it had been leasing about 10,000 square feet. The tech giant has been stationed at the 34-story building since 2016. Developer Rilea Group completed the 1.1 million-square-foot high-rise in 2010, which Ramon Llorens’s Amkin Management now owns, according to records. The office primarily serves as a base for Google’s Latin American cloud and sales teams, according to a source familiar with the transaction, who added that the company is not currently using the full footprint and leased the additional space to provide flexibility for future growth. Google’s expansion is also due to Google’s billionaire founders setting up roots in Miami, per Bloomberg, citing anonymous sources. Last year, Larry Page assembled a compound in Coconut Grove for nearly $190 million, while Sergey Brin paid $51 million for a waterfront home in Miami Beach this year. Brin has also been a vocal opponent of a proposed wealth tax in California, Google&#8217;s original home, donating millions of dollars to campaigns aimed at defeating it. The move is another boost to Miami’s quest to become a tech hub. Since the pandemic, Amazon has opened a 75,000-square-foot office in Wynwood, while Palantir relocated its headquarters to Aventura from Denver. A spokesperson for Google declined to comment, while a representative for the landlord could not be reached for comment. Julia Echikson can be reached at jechikson@commercialoberserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-23T14:15:54+00:00",
-      "bullets": [
-        "Google (Alphabet) quadrupled Miami office footprint to 45,000 SF at 1450 Brickell Avenue (was ~10K SF); spring 2026 lease.",
-        "Serves as Latin American cloud and sales hub; space leased for future growth flexibility despite current underutilization.",
-        "Google founders (Larry Page, Sergey Brin) establishing Miami residential roots; personal wealth migration signal."
-      ],
-      "summary": "Alphabet leased approximately 45,000 square feet at 1450 Brickell Avenue in Miami, quadrupling its previous footprint from about 10,000 square feet. The space serves as a base for Google's Latin American cloud and sales teams and was leased to provide flexibility for future growth even though the company is not currently using the full footprint. Google founders Larry Page and Sergey Brin have also been establishing residences in Miami, with Page assembling a Coconut Grove compound for nearly $190 million and Brin purchasing a property for $51 million.",
-      "impact": "Significant demand signal for Miami multifamily developers: Google's 45K SF lease expansion and founders' Miami real estate bets signal major tech employer footprint strengthening in Miami, with downstream implications for white-collar worker migration and rental demand. The founders' personal real estate purchases (~$240M combined) indicate confidence in Miami as a wealth/talent hub. Developers should prioritize high-end multifamily (Class A, luxury units) in Brickell, Coconut Grove, and adjacent CBD submarkets to capture tech executive and employee housing demand. Combined with Google's Latin American expansion and ongoing Miami tech cluster growth, expect sustained rent appreciation and occupancy gains in Miami metro through 2027–2028, particularly in Brickell CBD and walkable urban cores."
+      "summary": "Chalk AI, a data platform providing AI infrastructure, signed a 26,607-square-foot lease at 43 West 23rd Street in the Flatiron District at $85/SF asking rent. This marks Chalk AI's second Flatiron location, as it opened its first office at 54 West 21st Street four years prior. The lease brings the eight-story office building to 100% occupancy and reflects continued interest among AI and tech firms in Midtown South.",
+      "impact": "Sustained AI/tech agglomeration in Flatiron underscores strong job growth and wage premium in Midtown South, indirectly supporting multifamily rental demand and renter household formation in nearby residential markets. However, this is an office-market story and immaterial to multifamily supply, capital costs, or construction economics."
     },
     {
       "title": "Alonzo Mourning, HTG net $55M financing package for affordable housing",
@@ -182,12 +182,12 @@
       "cat": "Development",
       "date": "2026-07-22T21:01:15+00:00",
       "bullets": [
-        "Alonzo Mourning and Housing Trust Group secure $55.4M financing for 115-unit Artisan Pointe in Naranja, Miami-Dade.",
-        "Deal includes $31.5M LIHTC equity, $16.9M permanent loan (Berkadia), $7M CRA/TIF funding; completion Jan 2028.",
-        "Affordable units at 30–70% AMI rents ($766 1BR @ 30% AMI, $2,145 2BR @ 70% AMI); below-market Naranja rents ($1,350–$2,250)."
+        "Alonzo Mourning and Housing Trust Group secured $55.4M financing for 115-unit Artisan Pointe affordable housing in South Miami-Dade (Naranja); completion January 2028.",
+        "Financing: $31.5M LIHTC equity, $16.9M permanent loan (Berkadia), $7M from Naranja Lakes CRA (half TIF, half loan); units at 30%, 60%, 70% AMI.",
+        "Affordable housing development with stable public/LIHTC funding; demonstrates capital availability for below-market-rate projects in South Florida, not direct signal for market-rate multifamily demand."
       ],
-      "summary": "Alonzo Mourning and Housing Trust Group secured a $55.4 million financing package for the 115-unit Artisan Pointe affordable housing complex in Naranja, an unincorporated area of south Miami-Dade County. The financing includes $31.5 million in LIHTC equity, a $16.9 million permanent loan arranged by Berkadia, and $7 million from the Naranja Lakes Community Redevelopment Agency (half TIF, half loan). The four-story complex is under construction and expected to complete in January 2028, with units restricted to households earning 30–70% of AMI.",
-      "impact": "Moderate signal of LIHTC and CRA capital flow into Miami-Dade affordable housing: this deal demonstrates continued public-sector support for workforce housing via tax-increment financing and community redevelopment incentives. The South Dade/Naranja market is lower-income and less competitive than Miami CBD; however, the availability of $55M in blended financing (LIHTC + permanent debt + CRA grants) signals strong state/local commitment to affordable housing preservation. Developers should note that LIHTC equity remains accessible for workforce projects with CRA/municipal support. The deal does not directly compete with market-rate multifamily in stronger Miami submarkets (Brickell, Wynwood, Allapattah), but indicates absorption of workforce housing capital in underserved South Dade areas; market-rate developers in Miami CBD should expect continued mixed-income/affordable development competition for land in less prime submarkets."
+      "summary": "NBA Hall-of-Famer Alonzo Mourning and Housing Trust Group secured a $55.4 million financing package for Artisan Pointe, a 115-unit affordable housing complex in unincorporated South Miami-Dade (Naranja). The project, under construction with completion expected January 2028, is funded via $31.5M in low-income housing tax credit equity, a $16.9M permanent loan arranged by Berkadia, and $7M from the Naranja Lakes Community Redevelopment Agency (half TIF, half loan). Units are restricted to 30%, 60%, and 70% AMI households.",
+      "impact": "Affordable housing financing activity in South Miami-Dade is immaterial to market-rate multifamily development fundamentals; however, robust LIHTC and CRA funding indicates institutional appetite for below-market housing in the region. Developers should note that affordable-housing capital availability does not necessarily translate to market-rate multifamily demand or rent growth in South Florida."
     },
     {
       "title": "Endeavor boosts Austin office pipeline with 5th and Walsh project",
@@ -197,12 +197,12 @@
       "cat": "Development",
       "date": "2026-07-22T20:22:59+00:00",
       "bullets": [
-        "Endeavor's 5th and Walsh project (198K SF, 5-story) in Downtown Austin breaking ground 2026; completion late 2028.",
-        "50%+ preleased (85K SF locked, plus 25K Endeavor HQ); retail/restaurant 21K SF ground floor; below-grade parking.",
-        "Amazon in talks to anchor Endeavor's nearby Dog's Head area (2,614 acres); robotics manufacturing facility planned."
+        "Endeavor's 5th and Walsh mixed-use office (198k SF, five-story, Downtown Austin) submitting plans 2022, expected completion late 2028; 50% preleased without breaking ground.",
+        "Endeavor HQ anchor plus 85k SF of committed tenant space de-risks project; 21k SF retail/restaurant on ground floor; parking garage included.",
+        "Downtown Austin office pipeline reportedly 'drying up'; Endeavor activity is exception. Amazon robotics facility under negotiation in separate Endeavor-owned parcel signals corporate demand spillover."
       ],
-      "summary": "Endeavor's 5th and Walsh project in Downtown Austin, a 198,000 square-foot, five-story mixed-use office building with 21,000 square feet of retail/restaurant space and below-grade parking, is moving forward with a late 2028 completion target. The project is already 50%+ preleased with 85,000 square feet locked in plus Endeavor's 25,000 square-foot headquarters commitment. Amazon is reported to be in talks to anchor Endeavor's nearby Dog's Head area (2,614 acres) with an advanced robotics manufacturing facility.",
-      "impact": "Major demand catalyst for Austin multifamily developers: Amazon's potential 2,614-acre robotics manufacturing facility near Downtown Austin, combined with Endeavor's office development momentum, signals major job creation and corporate/tech worker inflow to Austin metro. If Amazon announces, expect significant downstream residential demand in Downtown Austin and surrounding submarkets. The 5th and Walsh 50%+ preleasing indicates strong office leasing momentum despite downtown office headwinds elsewhere. Developers should prioritize multifamily in Downtown Austin, South Congress, and near Amazon's Dog's Head site to capture incoming tech/manufacturing workforce; rental growth and absorption acceleration likely through 2028–2029. Watch for Amazon announcement as catalyst for multifamily development pipeline acceleration."
+      "summary": "Endeavor's 5th and Walsh project in Downtown Austin—a 198,000-square-foot, five-story office mid-rise with 21k SF of ground-floor retail/dining and below-grade parking—is advancing after plans were submitted in March 2022. Expected completion is late 2028, with Endeavor occupying approximately 25k SF as its new headquarters and 85k SF of other tenant space already committed, representing roughly 50% preleased before construction. Reports indicate Amazon may be negotiating a separate advanced robotics manufacturing facility on an Endeavor-owned parcel in the Dog's Head area.",
+      "impact": "Endeavor's 50% pre-lease on a 198k SF office tower in Downtown Austin—the slowest Austin office market—demonstrates developer confidence in corporate anchor-tenant demand and suggests selective office fundamentals remain stable for large users with growth stories. Amazon's parallel robotics facility negotiations signal white-collar and advanced manufacturing job creation, supporting multifamily rental demand in Austin. However, office supply remains constrained; multifamily developers should monitor whether Amazon deal closes, as it would anchor broader economic growth and justify residential supply expansion."
     },
     {
       "title": "Starwood files data center plan as Virginia residents revolt",
@@ -212,12 +212,12 @@
       "cat": "Development",
       "date": "2026-07-22T19:30:00+00:00",
       "bullets": [
-        "Starwood Capital files data center permit for 226K+ SF Plaza 500 South on Alexandria/Virginia border; $165M acquisition 4 years prior.",
-        "Proposed substation within 100 feet of Bren Mar homes sparks resident opposition; county rejected Chantilly relocation alternative.",
-        "Starwood also developing data center campus in Herndon; permit hearing September 2026."
+        "Starwood Capital Group filed permit for two-building data center project at Plaza 500 (Alexandria/Fairfax line), Virginia; 226k+ SF Phase 1, $5M estimated cost.",
+        "Proposed substation 100 feet from Bren Mar homes sparks resident opposition; neighbors pushing county to relocate project to alternate Chantilly site (purchased by Starwood affiliate for $166.8M).",
+        "Data center infrastructure in Northern Virginia faces permitting and community headwinds; may slow project timeline and raise soft costs; competing projects in Herndon also underway."
       ],
-      "summary": "Barry Sternlicht's Starwood Capital Group filed a permit application for its Plaza 500 South data center project, a 226,000+ square-foot first-phase building on the Alexandria-Fairfax County border in Northern Virginia. The site was purchased for $165 million four years ago. A proposed electrical substation within 100 feet of homes in the Bren Mar neighborhood has sparked resident opposition, and Fairfax County rejected Starwood's proposed relocation to an alternate Chantilly site. The planning commission will review the project in September 2026, with neighborhood residents planning a rally.",
-      "impact": "Significant labor market signal for Northern Virginia multifamily developers: despite zoning opposition, Starwood's continued pursuit of dual data center campuses (Plaza 500 and Herndon) signals sustained hyperscaler demand for Northern Virginia infrastructure despite New York's moratorium. Data center job creation in Alexandria and Herndon will drive high-wage worker in-migration (250–500+ jobs per facility). Developers should prioritize Class A multifamily in Alexandria, Herndon, Reston, and Fairfax County submarkets near data center sites to capture tech/IT worker housing demand. The resident opposition may delay permitting but will not derail construction; expect data center campus completion 2027–2028 and downstream multifamily rent growth in NoVA markets. Target proximity to I-66 and Dulles corridor for maximum absorption from incoming data center workforce."
+      "summary": "Starwood Capital Group filed a permit application for a two-building data center project at Plaza 500 on the Alexandria/Fairfax County line in Northern Virginia, with the first building (Plaza 500 South) planned for 226k+ SF. The project also includes a proposed electrical substation located within 100 feet of homes in the Bren Mar neighborhood, sparking resident opposition and calls to relocate the project to an alternate Chantilly site (purchased by a Starwood affiliate in spring 2025 for $166.8M). Planning commission review is expected in September.",
+      "impact": "Regulatory and community opposition to Starwood's Northern Virginia data center faces delays and potential cost overruns from permitting and design changes. While this does not directly impact multifamily, prolonged data center construction challenges in NoVA may reduce land-value appreciation and labor competition in the submarket, modestly easing development conditions for residential projects in Fairfax County and Alexandria over the next 12–18 months."
     },
     {
       "title": "Vlad Doronin joining forces with South Korea juggernaut",
@@ -227,12 +227,12 @@
       "cat": "Development",
       "date": "2026-07-22T18:30:00+00:00",
       "bullets": [
-        "Vlad Doronin's OKO Group and Shinsegae Group (South Korea retail conglomerate) form fund with $500M initial investment.",
-        "Initial project: mixed-use Seoul Gangnam District development with Aman hotel, residences, club; expansion into Asia, Middle East, US planned.",
-        "Aman sold $9B in branded residences in 4 years; ~20 hotels under construction; Beverly Hills penthouse poised for $200M record sale."
+        "Vlad Doronin's OKO Group and South Korea's Shinsegae Group formed luxury development fund with $500M initial investment; kicking off with Aman Seoul mixed-use (Gangnam District).",
+        "Aman brand has sold $9B in branded residences in past four years; ~20 hotels under construction globally; Aman Beverly Hills penthouse poised for $200M record sale.",
+        "International luxury residential and hotel development capital formation; immaterial to U.S. multifamily market-rate demand, but signals strong ultra-high-net-worth demand for branded residential globally."
       ],
-      "summary": "Vlad Doronin's OKO Group and South Korea's Shinsegae Group launched a fund with an initial $500 million investment to develop luxury hotels, residences, and mixed-use properties. The partnership kicks off with a project in Seoul's Gangnam District featuring an Aman hotel, residences, and a club, with plans to expand across Asia, the Middle East, and the United States. Aman has sold $9 billion in branded residences over the past four years, with approximately 20 hotels under construction globally and a Beverly Hills penthouse expected to fetch $200 million.",
-      "impact": "Negligible direct impact on U.S. multifamily development fundamentals. Doronin's international luxury residential expansion (Aman brand) targets ultra-high-net-worth individuals and mixed-use trophy assets, not market-rate or workforce multifamily. However, the $500M fund and expansion into U.S. markets (Beverly Hills, Manhattan via Aman New York) signal ongoing capital deployment in luxury residential; this may increase land competition in trophy U.S. submarkets (Los Angeles, NYC, Miami, San Francisco). Standard multifamily developers should monitor for potential land/site acquisition competition from OKO/Shinsegae in Class A urban cores, but expect minimal impact on rental fundamentals or development feasibility in secondary/tertiary markets."
+      "summary": "Vlad Doronin's OKO Group and South Korea's Shinsegae Group formed a luxury development fund with an initial $500 million investment. The partners are launching with a mixed-use project in Seoul's Gangnam District featuring an Aman hotel, residences, and club, and plan to expand across Asia, the Middle East, and the United States. Aman has sold $9 billion in branded residences over the past four years and has approximately 20 hotels under construction globally, with the Aman Beverly Hills penthouse poised for a record $200M condo sale.",
+      "impact": "OKO/Shinsegae partnership signals sustained global appetite for ultra-luxury branded residences, but is immaterial to U.S. market-rate multifamily development fundamentals. Doronin's capital raise and international expansion reflect premium-market strength; U.S. multifamily developers should note that ultra-luxury branded residential remains a separate capital stream and does not compete directly with standard Class-A/B development for equity or institutional financing."
     },
     {
       "title": "Grubb Properties forms $1.9B apartment REIT after recapitalization",
@@ -242,12 +242,12 @@
       "cat": "Development",
       "date": "2026-07-22T18:00:00+00:00",
       "bullets": [
-        "Grubb Properties forms Link Apartments REIT (nontraded); consolidates multiple funds into $1.9B portfolio of 45 properties, 5,600+ units.",
-        "8 Carlisle (Manhattan Financial District, 462 units, 64-story) secured $377M construction loan: $300M Maxim Capital, $77M Skylight mezzanine.",
-        "Grubb secured $240M credit facility; total $617M financing across REIT/OZ transactions; REIT formed for balance sheet scale and financing access."
+        "Grubb Properties formed Link Apartments REIT (non-traded, closed) by consolidating funds; $1.9B portfolio, 45 properties, 5,600+ units; includes 8 Carlisle (Manhattan).",
+        "Grubb secured $377M construction loan for 8 Carlisle (462 units, Financial District, 64-story, 789 feet); also landed $240M credit facility and $617M total financing.",
+        "REIT formation to access larger balance sheets and institutional financing; signals developer confidence in refinancing/exit climate and portfolio scale advantages in capital markets."
       ],
-      "summary": "Grubb Properties formed Link Apartments REIT (a nontraded, closed trust) by consolidating multiple funds into a $1.9 billion portfolio of 45 properties and over 5,600 units. The REIT includes 8 Carlisle, a 462-unit, 64-story luxury rental tower under construction in Manhattan's Financial District. Grubb secured $377 million in construction financing for 8 Carlisle ($300M from Maxim Capital, $77M mezzanine from Skylight), plus a $240 million credit facility, totaling $617 million in new financing. The REIT structure was created to support larger balance sheet and enhanced financing capacity.",
-      "impact": "Significant capital markets signal: Grubb's REIT formation demonstrates renewed institutional appetite for scale multifamily development capital and structured equity/debt vehicles. The $1.9B REIT capitalization and successful $617M financing package (including $240M revolver) indicate that large, diversified multifamily operators with institutional governance can access debt and equity even in tighter rate environment. 8 Carlisle's $377M construction loan success (64-story, high-rise Manhattan luxury) signals that luxury/urban core development can achieve competitive debt terms. Developers should note: REIT/institutional structures increasingly favored by lenders over fund structures for capital access; portfolio scale and professional management command better financing terms. Expect continued consolidation of smaller developers or alignment with REITs/larger platforms for capital efficiency in current market."
+      "summary": "Grubb Properties formed Link Apartments REIT, a non-traded, closed REIT, by consolidating multiple funds into a single entity with approximately $1.9 billion in assets, 45 properties, and 5,600+ units. The portfolio includes 8 Carlisle, a flagship 462-unit rental tower under construction in Manhattan's Financial District. Grubb secured a $377 million construction loan for 8 Carlisle (from Maxim Capital and Skylight) and a $240 million credit facility, totaling $617 million in new financing across recent transactions.",
+      "impact": "REIT formation by a mid-market developer signals two dynamics: (1) institutional appetite for multifamily equity and debt remains available at scale, and (2) developer refinancing/exit strategies are being priced assuming sustained capitalization and debt availability. Grubb's ability to secure $617M in fresh capital across construction and working-capital facilities suggests benign financing conditions for well-capitalized developers with stabilized portfolios, bolstering entry and development economics for peers in major metros like New York."
     },
     {
       "title": "NYC’s top construction permits: Week ending July 17, 2026",
@@ -257,12 +257,12 @@
       "cat": "Development",
       "date": "2026-07-22T12:00:00+00:00",
       "bullets": [
-        "NYC permits week ending July 17, 2026: largest new building 112K SF, 8-story, 50 apartments at 103 Empire Boulevard (Crown Heights/Prospect-Lefferts Gardens).",
-        "Queens: 82.7K SF, 10-story, 86 apartments at 45/49 Vernon Boulevard; Bronx: two 9-story, 99-unit buildings at Tremont (128.7K SF combined).",
-        "Mixed-use pipeline active across outer boroughs; continued residential development momentum in Brooklyn/Bronx/Queens."
+        "NYC permit week ending July 17: largest new building 112.3k SF mixed-use (8-story, 50 units) at Crown Heights/Prospect-Lefferts Gardens; Queens project 82.7k SF (10-story, 86 units) at Vernon Boulevard.",
+        "Bronx two-building apartment complex (198 units total, nine stories each) filed in Tremont section; consistent small-to-mid-sized mixed-use and residential filings.",
+        "NYC residential pipeline remains active with modest projects (50–100 unit range); no megaproject filings; reflects continued entitlement processing despite office market constraints."
       ],
-      "summary": "NYC's top construction permits for the week ending July 17, 2026, include: (1) a 112,279 SF, eight-story mixed-use project with 50 apartments at 103 Empire Boulevard in Crown Heights/Prospect-Lefferts Gardens; (2) an 82,731 SF, 10-story mixed-use building with 86 apartments at Vernon Boulevard in Queens; and (3) two nine-story apartment buildings with 99 units each in Tremont, Bronx, totaling 128,738 SF. Multiple office alterations were also filed, including a 192,245 SF alteration at Brookfield's 250 Vestry Street (Financial District).",
-      "impact": "Steady residential pipeline in NYC outer boroughs (Brooklyn, Queens, Bronx) signals continued development momentum despite Manhattan office distress. The permits indicate builders are targeting mixed-use (residential+retail) opportunities in emerging/densifying neighborhoods (Crown Heights, Queens waterfront, Tremont). The continued office alterations (Vestry Street, JPMorgan Chase's Myrtle Avenue) hint at office-to-other conversions. For multifamily developers: outer borough pipeline remains robust; expect continued rent growth and absorption in Queens/Bronx/Brooklyn. Manhattan office weakness has NOT yet cascaded into full-scale office-to-residential conversions at scale, but alterations suggest selective repositioning. Developers should monitor conversion economics as office cap rates diverge from multifamily, creating conversion opportunities in lower Manhattan and Financial District over next 12–18 months."
+      "summary": "NYC's top construction permits filed in week ending July 17 included a 112.3k-SF mixed-use project (eight stories, 50 apartments) at 103 Empire Boulevard (Crown Heights/Prospect-Lefferts Gardens), an 82.7k-SF, 10-story, 86-unit mixed-use building in Queens at Vernon Boulevard, and a two-building, 198-unit residential complex (nine stories each) in the Bronx's Tremont section. Other notable filings included major alterations at Brookfield's 250 Vestry Street (192.2k SF) and JPMorgan Chase's 30k-SF renovation in Downtown Brooklyn.",
+      "impact": "NYC residential pipeline remains steady with modest 50–100 unit projects across outer boroughs and mixed-use combinations, indicating continued zoning demand and acquisition activity despite office-market softness. Developers should note the Bronx's continued inflow of entitlements and that outer-borough multifamily absorption remains strong; however, the absence of large-format residential filings suggests constrained mega-site availability or capital concentration in stabilized assets rather than new development."
     }
   ]
 }
