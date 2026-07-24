@@ -1,21 +1,21 @@
 {
-  "fetchedAt": "2026-07-23T23:54:04.868201+00:00",
+  "fetchedAt": "2026-07-24T13:19:56.456626+00:00",
   "rates": [
     {
       "label": "SOFR",
-      "value": "3.62%",
-      "pct": 0.01,
+      "value": "3.64%",
+      "pct": 0.02,
       "isBps": true
     },
     {
       "label": "10Y Treasury",
-      "value": "4.70%",
-      "pct": 0.99
+      "value": "4.68%",
+      "pct": -0.43
     },
     {
       "label": "30Y Treasury",
-      "value": "5.17%",
-      "pct": 0.47
+      "value": "5.16%",
+      "pct": -0.19
     },
     {
       "label": "REIT Index (VNQ)",
@@ -25,6 +25,111 @@
   ],
   "stories": [
     {
+      "title": "Nomura Prices Largest Single-Bank SASB CMBS in Two Years",
+      "link": "https://commercialobserver.com/2026/07/nomura-sasb-cmbs-keller-newmark/",
+      "excerpt": "As it approaches its first birthday, Nomura Securities’ commercial real estate lending platform has an extra reason to celebrate: It just sealed the largest sole-bank single-asset, single-borrower commercial mortgage-backed securities (SASB CMBS) deal in almost two years. The $719 million KELR 2026-MF deal is backed by 12 multifamily properties and one student housing asset, all owned by Keller Investment Properties. Nomura is the sole lender in the floating-rate, interest-only deal, which has a two-year term with three one-year extension options. The deal marks not only the largest single-bank SASB since August 2024, but it also places it among the largest single-bank SASB deals since 2020 — not too shabby for a platform that launched only last summer. Further, the transaction received a strong response from investors and was multiple times oversubscribed, sources said. Newmark brokered the financing, and the AAA bonds — rated by Fitch Ratings and Moody’s — priced at 135 basis points over the Secured Overnight Financing Rate earlier this week. The portfolio collateral is spread across Utah, Nevada and Arizona, and totals 3,321 units, including the sole student housing property in the portfolio, which accommodates students at Utah Valley University. Keller acquired the portfolio between 2001 and 2022, and has since invested $46 million in capital improvements, according to Fitch’s presale report. The CMBS loan proceeds will refinance $696 million in existing debt on the portfolio and also fund $22.2 million in closing-related costs and reserves. The transaction may have been a first for Nomura, but it was also one for Keller Investment Properties, based just outside of Salt Lake City, which historically has been a borrower of agency debt, sources said. As such, KELR 2026-MF marks the company’s SASB CMBS debut. The deal closed in just over 60 days, which one source described as “a land speed record category for a first-time CMBS borrower.” “We are pleased with the ou",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-24T10:00:46+00:00",
+      "bullets": [
+        "Nomura closes $719M single-bank SASB CMBS on 12 multifamily + 1 student housing asset from Keller Investment Properties.",
+        "Largest sole-bank SASB since August 2024; deal heavily oversubscribed, signaling strong investor appetite for floating-rate MF paper.",
+        "Two-year term with extension options; reflects viable securitization path for institutional multifamily portfolios amid tighter lending."
+      ],
+      "summary": "Nomura Securities' CRE lending platform closed a $719 million single-asset, single-borrower CMBS backed by 13 properties (12 multifamily, 1 student housing) owned by Keller Investment Properties. The floating-rate, interest-only deal carries a two-year term with three one-year extension options and received heavy oversubscription from investors. It marks the largest sole-bank SASB since August 2024 and among the largest since 2020.",
+      "impact": "Strong oversubscription signals investor confidence in multifamily securitization despite macro uncertainty, easing refinance availability for stabilized portfolios. Developers with performing assets now have a clearer exit path via CMBS, reducing refinance risk and unlocking capital for new acquisitions and starts."
+    },
+    {
+      "title": "No, the Pfizer Near-Disaster Won’t Slow New York’s Conversion Wave",
+      "link": "https://commercialobserver.com/2026/07/pfizer-collapse-new-york-conversion-metro-loft/",
+      "excerpt": "New York City is relying, in part, on more than 16,000 units planned via office-to-residential conversions to ease its enduring housing crisis. So, when the country’s largest conversion, sitting in the heart of Midtown, starts to buckle, it’s not taken lightly. The startling structural emergency at MetroLoft and David Werner Real Estate Investment’s Pfizer building conversion in early July prompted a swift response from the city. Reports of two buckling columns prompted officials to cordon off 40th to 45th streets between First and Third avenues in the immediate aftermath. Several buildings were evacuated, including a school where roughly 400 children were relocated. In the following weeks, after temporary supports secured the building, the New York City Department of Buildings (DOB) initiated citywide construction safety sweeps, including checks on projects linked to MetroLoft’s contractor, Barone Steel Fabricators, Gothamist reported. A full investigation of the emergency is ongoing, but the final verdict will likely come down to the two columns, and the heavy load above them. The real estate industry is largely in agreement that the Pfizer emergency was a freak accident. Yet, when a conversion of such fame and magnitude — in which 19 stories and 1,600 apartments are being added to the existing structure — causes such disruption, anxiety is understandable. New regulations from the city, and accompanying cost overruns, may now be the industry’s real worry. Is it enough to spook the market? Development, real estate and housing advocates sure hope not. Conversion projects, like any major development, experience pressures to stay on time and on budget, intensified by an inflationary, volatile capital markets environment and heightened construction costs in the Big Apple. Insiders argue that the scare is unlikely to derail New York’s office conversion boom, given the investor appetite and political will behind multifamily housing. New York City boasts the largest conve",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-24T10:00:35+00:00",
+      "bullets": [
+        "Pfizer building conversion (MetroLoft/David Werner REIT) in Midtown NYC halted July due to two buckling steel columns; 40-45 streets cordoned off.",
+        "NYC counts on 16,000+ conversion units to address housing crisis; structural failure triggered citywide DOB safety sweeps on MetroLoft contractor Barone Steel.",
+        "Incident unlikely to derail conversion pipeline; investigation ongoing but does not signal broader market pullback."
+      ],
+      "summary": "A structural emergency at MetroLoft and David Werner REIT's Pfizer building conversion in Midtown Manhattan prompted the evacuation of multiple buildings and a citywide construction safety sweep. Two buckling columns required temporary bracing and triggered an investigation by NYC's Department of Buildings, including audits of related contractor Barone Steel. The incident affected blocks between 40th–45th streets and First–Third avenues.",
+      "impact": "Temporary setback on the largest office-to-residential conversion in the U.S., but unlikely to materially slow NYC's 16,000-unit conversion pipeline. Increased DOB scrutiny will raise steel fabrication and QA costs on future conversions, tightening underwriting margins. Developers should expect longer permit reviews and potentially higher contingencies for structural certifications in Manhattan and citywide."
+    },
+    {
+      "title": "Inflation Could Stay Higher: What it Means for CRE",
+      "link": "https://www.connectcre.com/stories/inflation-could-stay-higher-what-it-means-for-cre/",
+      "excerpt": "The June Consumer Price Index offered some good news: inflation dropped to 3.5%, driven by lower oil and gas prices. However, that state of affairs is unlikely to last, especially as tensions in the Middle East are heating up again, suggesting the U.S. isn’t free from the elevated inflation cycle just yet. In a recently released video, “Inflation Risk: Headwind or Opportunity for CRE?” Vice President John Chang discussed the realities of inflation and its potential impact on commercial real estate. First, the ongoing Middle East conflict could lead to an “extended cycle of elevated prices, which, in turn, could sustain inflationary pressure,” he said. It could also signal a higher probability of a federal interest rate hike by the end of the year. Second, other inflation metrics, like food, housing and medical care, have comparatively low inflation numbers in the 2 to mid-3% range. Energy prices, which affect transportation costs, could lead to ongoing higher headline inflation. Third, this isn’t unexpected news for commercial real estate investors. “In large part, the risk of potential rate increases is already baked into Treasury and lending rates, and because they’re already baked in, the cost of debt capital should remain relatively stable,” Chang said. Fourth, even in an extended inflation cycle, commercial real estate is one of the few investments that can offer some inflation resistance. “Despite elevated uncertainty, despite the Middle East conflict, and despite tariff-driven headwinds, all four of the major property types are generating positive space demand,” Chang said. Based on preliminary reports from Q2, office properties reported a ninth consecutive quarter of positive net absorption, while apartment demand pushed vacancy rates lower. At the same time, retail and industrial space had relatively stable vacancy rates. Finally, inflation could decline, and economic momentum could strengthen if a resolution to the Middle East conflict is reached. That cou",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-24T05:01:00+00:00",
+      "bullets": [
+        "June CPI dropped to 3.5% via lower oil/gas; but Middle East tensions risk sustained elevated energy prices and headline inflation.",
+        "Risk of year-end fed rate hike exists; however, forward rates already price in higher-for-longer scenario, stabilizing debt costs.",
+        "Food, housing, medical inflation remain modest (2–3.5%); energy price volatility remains primary inflation wildcard for CRE ops."
+      ],
+      "summary": "June CPI fell to 3.5%, driven by lower energy prices, but ongoing Middle East tensions could sustain elevated oil costs and headline inflation. While a potential year-end fed rate hike is possible, forward rates have largely priced in the higher-for-longer scenario. Food, housing, and medical inflation remain comparatively contained at 2–3.5%, minimizing pressure from non-energy sources.",
+      "impact": "Debt capital costs already reflect inflation expectations, so near-term financing conditions likely remain stable despite rate-hike risks. However, sustained energy prices will keep construction labor and material transport costs elevated, pressuring development feasibility and cap-rate compression in high-rent markets. Developers should lock in forward debt at current rates and budget for sustained input cost inflation through 2027."
+    },
+    {
+      "title": "Office’s New Purpose: Affiliation",
+      "link": "https://www.connectcre.com/stories/offices-new-purpose-affiliation/",
+      "excerpt": "In 2025, global office utilization reported its largest annual gain in four years. But employees aren&#8217;t returning simply because they&#8217;re being told to. Lenny Beaudoin According to CBRE&#8217;s 2026 “Global Workplace &amp; Occupancy Insights” survey report, organizations that design their office spaces for collaboration, culture and connection are experiencing the strongest attendance gains. Office utilization rose to 53% in 2025 from 38% a year earlier. Peak utilization reached 80%, while average occupancy climbed to 111%, reflecting a higher level of desk sharing and more flexible workplace strategies. &#8220;We&#8217;re seeing the best attendance gains where organizations make the office a more purposeful place to be,&#8221; Lenny Beaudoin, CBRE&#8217;s executive managing director of workplace, design and occupancy, told Connect CRE. Beaudoin, who co-authored the report with CBRE colleague Susan Wasmund, said organizations are increasingly measuring office performance by what the workplace supports rather than how full it is. &#8220;It&#8217;s being judged by what it enables,&#8221; he said. &#8220;The next generation of workplace strategy is about affiliation, collaboration, culture and performance.&#8221; Collaboration Replaces Solo Work The report suggests that the office&#8217;s primary purpose has shifted from providing individual work space to fostering interaction. Among survey respondents, 93% said that colleague collaboration was a main reason for coming into the office, followed by in-person meetings (90%) and social interaction and team building (89%). That shift is also impacting office layouts. Between 2021 and 2025, space dedicated to individual workstations fell from 56% to 35% of the workplace, while collaborative areas expanded from 12% to 56%. What about amenities? The report said that vacancy in prime office buildings that offer plentiful amenities is “measurable lower than the broader market.” More important than the latest, shinies",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-24T05:01:00+00:00",
+      "bullets": [
+        "Office utilization jumped to 53% in 2025 from 38% YoY; peak occupancy reached 80%, average 111% via desk-sharing.",
+        "Strongest attendance gains in orgs designing offices for collaboration, culture, connection—not mandate-driven returns.",
+        "Next-gen workplace judged by 'affiliation, collaboration, culture, performance,' not square footage occupancy metrics."
+      ],
+      "summary": "Global office utilization posted its largest annual gain in four years in 2025, rising to 53% from 38%, with peak occupancy reaching 80% and average occupancy hitting 111% via increased desk-sharing. CBRE's 2026 survey shows organizations that design offices for collaboration and culture experience the strongest attendance gains, not those relying on mandates. The industry is shifting from occupancy-centric metrics to assessing workplace value by what it enables.",
+      "impact": "Demonstrates that well-designed, purpose-built office still drives in-person use and justifies premium rents in major metros. Multifamily developers should note: companies keeping office real estate are those with strong culture and collaboration needs, signaling continued tenant demand in urban submarkets with mixed-use, hospitality-grade amenities. However, poorly designed or Class-B suburban office will continue to lose tenants to conversion or obsolescence; no multi-family demand lift from weak office stock."
+    },
+    {
+      "title": "How AI Is Transforming Utility Real Estate and Workplace Portfolios",
+      "link": "https://www.connectcre.com/stories/how-ai-is-transforming-utility-real-estate-and-workplace-portfolios/",
+      "excerpt": "Artificial intelligence is helping utility companies improve customer service and better manage power grids. According to a recent JLL report, “Optimizing Beyond the Grid: How AI is Revolutionizing Utility Facilities and Workplaces,” the technology is doing a whole lot more than that. “Leveraging AI in their real estate functions can help utilities cut costs, advance sustainability and attract and retain talent,” the report said. “By harnessing the capabilities of generative AI, utilities can transform their owned and leased real estate into self-optimizing assets that drive business performance.” Today’s utility companies are dealing with increasing electricity demand, in part due to expanding data centers. A Gartner forecast said that 40% of power and utility organizations will deploy AI-driven operators in control rooms by 2027. Because utilities are about more than power grids (their real estate portfolios include corporate offices, operations centers, warehouses, maintenance buildings and substations), the report said that consolidating all facility and asset data into centralized platforms gives AI the information it needs to identify inefficiencies and recommend improvements. &#8220;Utilities are leveraging AI to eliminate fragmentation and turn their facilities into intelligent portfolios,&#8221; said Emily Roman, executive director of technology advisory for industrials at JLL. Reliance on Prevention The report said that predictive maintenance is one of AI’s more important tasks. The technology puts teams into a proactive stance, as it can continuously monitor equipment condition and catch potential errors before they become huge problems. Teams can focus on maintenance rather than reacting to breakdowns. Although predictive maintenance requires upfront investment, JLL estimates the strategy can generate returns of up to 545% over time through lower capital replacement costs, improved equipment efficiency and reduced energy consumption. Real Estate Planning",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-24T05:01:00+00:00",
+      "bullets": [
+        "Utilities deploying AI to optimize corporate offices, operations centers, warehouses, maintenance facilities, substations; 40% expected to use AI-driven operators by 2027.",
+        "Utilities driving 40% of new data center electricity demand; AI adoption helps identify facility inefficiencies across fragmented real estate portfolios.",
+        "AI consolidating facility/asset data into centralized platforms to recommend cost, sustainability, and talent-retention improvements."
+      ],
+      "summary": "Utilities are adopting AI across their real estate portfolios—including offices, operations centers, warehouses, and substations—to cut costs, improve sustainability, and attract talent. Gartner forecasts 40% of power and utility organizations will deploy AI-driven control-room operators by 2027. By consolidating fragmented facility and asset data into centralized AI platforms, utilities can identify inefficiencies and optimize their owned and leased real estate.",
+      "impact": "Rising electricity demand from data centers (utilities' largest load growth driver) is reshaping utility real estate strategy and consolidation trends. Developers should track which utilities are consolidating or shedding office/operations campuses due to AI-driven efficiency gains; opportunity for acquisition of utility-owned land or real estate in strategic metros. Additionally, multifamily projects near substations or data-center hubs may face increased infrastructure costs or zoning friction as utilities upgrade power delivery."
+    },
+    {
+      "title": "Forest Development, Kast Construction face off in legal battle over Lake Park condo",
+      "link": "https://therealdeal.com/miami/2026/07/23/forest-development-kast-construction-sue-over-florida-condo/",
+      "excerpt": "Forest Development and Kast Construction are going head-to-head in a legal battle over Nautilus 220 condominiums in Lake Park.&#160; The condo’s developer and builder are suing each other for alleged contract breach, incomplete work and failure to pay millions of dollars owed, The Palm Beach Post reported.&#160; Forest Development filed a lawsuit July 13 in Palm Beach County circuit court, accusing Kast of not completing work and alleging that the builder’s improper supervision of its subcontractors resulted in water damage and unnecessary delays. The lawsuit also claims Kast refused to release liens on sold properties, hindering Forest’s ability to close [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-07-23T22:30:00+00:00",
+      "bullets": [
+        "Forest Development sues Kast Construction for incomplete work, water damage, delayed project, and retained liens on sold units at Nautilus 220, Lake Park.",
+        "Kast countersues for $11.4M unpaid progress payments; claims Forest submitted late/inaccurate change orders disrupting workflow.",
+        "Subcontractors have filed $2.9M in liens; legal impasse blocks Forest's ability to close sales and clear titles."
+      ],
+      "summary": "Developer Forest Development and builder Kast Construction are locked in mutual litigation over the Nautilus 220 condominium in Lake Park, Florida. Forest alleges incomplete work, water damage, and retained liens preventing sales closings; Kast claims $11.4 million in unpaid progress payments and disputes over change orders and timeline delays. Subcontractors have filed an additional $2.9 million in liens, freezing the project's ability to deliver units to buyers.",
+      "impact": "Minimal direct impact on multifamily supply; this is a condo project. However, the dispute highlights construction cost escalation, change-order dysfunction, and contractor cash-flow stress in South Florida's competitive build environment. Multifamily developers in the region should strengthen contract language, escrow provisions, and lien-release protocols with builders to avoid similar standoffs."
+    },
+    {
+      "title": "Policy Pro: Developers back ballot bid to speed up construction permits",
+      "link": "https://therealdeal.com/policy-pro/new-york/2026/07/nyc-developers-back-ballot-bid-to-speed-permits/",
+      "excerpt": "This story gives you a peek at the content coming to our new platform, TRD Policy Pro. Sign up to get early access here. Hello, let’s get into today’s news at the intersection of policy and real estate: In this edition we mention: Gotham Organization President of Development Brian Kelly, Monadnock Development President Kirk Goodrich, Open New York Executive Director Annemarie Gray, the Department of Finance, the Department of Buildings and others. We Heard Have a tip or feedback? Reach me at caroline.spivack@therealdeal.com.&#160; The Catch-Up Imposing new union-requested wage mandates on office-to-residential conversions would increase labor costs, making fewer projects [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
+      "source": "TRD Development",
+      "cat": "Development",
+      "date": "2026-07-23T22:30:00+00:00",
+      "bullets": [
+        "NYC developers back ballot measure to speed construction permitting; union-requested wage mandates on office-to-residential conversions cited as cost-driver.",
+        "Gotham Organization, Monadnock Development, Open New York advocate faster permitting; wage mandates could make fewer conversion projects financially viable.",
+        "NYC lagging opportunity-zone disclosure; HUD fair-housing enforcement rules under federal challenge."
+      ],
+      "summary": "NYC developers are backing a ballot initiative to accelerate construction permits, with Gotham Organization, Monadnock Development, and Open New York voicing concern that union-requested wage mandates on office-to-residential conversions will increase labor costs and reduce project viability. New York remains one of 15 states that have not publicized its next opportunity-zone designation plan. Separately, HUD faces a federal lawsuit over rollbacks to fair-housing grant enforcement.",
+      "impact": "Wage-mandate proposals directly threaten the economics of NYC's office-to-residential conversion pipeline, which the city depends on for ~16,000 units to address housing shortage. If mandates pass, expect fewer conversions to pencil, shifting demand to new-build multifamily in outer boroughs/suburbs with lower labor costs. Permitting acceleration is critical to offset wage-cost inflation; developers should monitor ballot outcomes and advocate for carve-outs or phase-ins for conversions to protect pro-forma viability."
+    },
+    {
       "title": "Fashion Nova Expands L.A. Footprint With 133K-SF Warehouse Deal",
       "link": "https://commercialobserver.com/2026/07/fashion-nova-la-industrial/",
       "excerpt": "Fashion Nova is expanding its Southern California logistics side with another industrial lease in Santa Fe Springs. The Los Angeles-based fast-fashion retailer signed a lease to take over the 132,888-square-foot warehouse at 12301 Hawkins Street, according to CoStar. It increases Fashion Nova’s warehouse footprint in Santa Fe Springs by about 33 percent. New York-based real estate investment manager Clarion Partners owns the property in the Heritage Springs Business Park. It includes 12,004 square feet of office space on a 5.4-acre site, according to a JLL marketing brochure. The recently renovated facility features 30-foot clear heights, 18 dock-high doors, two ground-level doors and 175 parking spaces. The owner did not immediately respond to a request for comment. The deal adds to leasing momentum picking up across L.A. County’s industrial market. Leasing activity reached 15.7 million square feet during the second quarter, up 40 percent compared to last year, according to CBRE. The market also posted 2.8 million square feet of positive net absorption — its third consecutive positive quarter after 10 straight quarters of negative absorption. Vacancy declined 22 basis points since the first quarter to 5 percent, although landlords continue to face falling rents. Average asking rents dropped to $1.19 per square foot per month, down 7 percent from a year prior, and down 32.4 percent from the second quarter of 2023. The Mid-Counties submarket, which includes Santa Fe Springs, recorded 1.1 million square feet of positive absorption during the quarter and an average asking rate of $1.23 per square foot. Gregory Cornfield can be reached at gcornfield@commercialobserver.com.",
@@ -32,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-07-23T22:20:03+00:00",
       "bullets": [
-        "Fashion Nova leases 133K SF warehouse in Santa Fe Springs, CA; expands footprint 33%.",
-        "L.A. County industrial leasing hit 15.7M SF in Q2, up 40% YoY; strong demand momentum.",
-        "Clarion Partners (owner) divested asset; market favoring logistics/e-commerce real estate."
+        "Fashion Nova expands Santa Fe Springs warehouse footprint by 33% via 132,888-SF lease at 12301 Hawkins Street; owned by Clarion Partners.",
+        "LA County industrial leasing hit 15.7M SF in Q2 2025, up 40% YoY; positive net absorption reflects strong ecommerce/logistics demand.",
+        "Facility features 30-ft clear heights, 18 dock doors, recently renovated—prime spec for fast-fashion logistics."
       ],
-      "summary": "Fashion Nova signed a 132,888-square-foot warehouse lease in Santa Fe Springs, increasing its logistics footprint by roughly one-third. L.A. County industrial leasing surged 40% year-over-year to 15.7 million square feet in Q2, driven by e-commerce and logistics demand. The deal reflects sustained appetite for last-mile and distribution space in the region.",
-      "impact": "Strong industrial leasing velocity in Los Angeles County signals sustained demand from omnichannel retail and 3PL operators; multifamily developers should monitor industrial-heavy submarkets (Santa Fe Springs, Inland Empire corridors) for potential workforce housing demand from warehouse workers and logistics tenants, and watch for land conflicts in supply-constrained areas."
+      "summary": "Fashion Nova leased a 132,888-square-foot warehouse in Santa Fe Springs, increasing its local logistics footprint by 33%. The recently renovated facility, owned by Clarion Partners, offers 30-foot clear heights, 18 dock-high doors, and premium specifications suited to fast-fashion fulfillment. LA County industrial leasing activity reached 15.7 million square feet in Q2 2025, up 40% year-over-year.",
+      "impact": "Strong industrial leasing momentum in LA County (up 40% YoY) confirms robust ecommerce and omnichannel fulfillment demand, supporting land values and spec industrial development. Multifamily developers in LA County should factor industrial cluster growth into site selection; submarkets with strong industrial absorption (Santa Fe Springs, Vernon, Long Beach) will see sustained labor inflow and rental demand from warehouse/logistics workers, supporting multifamily rents in adjacent areas."
     },
     {
       "title": "Beyond the Flight to Quality: The Office Questions That Aren’t Being Asked",
@@ -47,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-07-23T22:00:00+00:00",
       "bullets": [
-        "Industry debate shifted: AI readiness, geographic talent hub selectivity, property tax timing.",
-        "Office demand increasingly tied to workforce tech infrastructure and talent concentration.",
-        "Implication: office real estate valuations and lease patterns will diverge by building capability."
+        "Office industry overlooks AI-readiness question: whether buildings support tech-enabled workforce and attract/retain AI talent.",
+        "Emerging metric: buildings' 'AI score' based on tech infrastructure and talent-attraction capability—next frontier beyond traditional amenities.",
+        "Deeper office dynamics (property tax lag, cash-flow valuations, workplace friendships) underexamined by mainstream flight-to-quality narrative."
       ],
-      "summary": "Industry leaders are debating underappreciated office dynamics beyond remote work and flight-to-quality: whether buildings are 'AI-ready,' how AI enables geographic selectivity in talent placement, and property-tax cash-flow timing. The conversation highlights that office competitiveness will hinge on tech infrastructure, workplace technology, and proximity to talent hubs—not just amenities.",
-      "impact": "Office market fragmentation by building capability and location relative to AI/tech talent clusters will accelerate; multifamily developers in secondary markets should anticipate that office-adjacent rental demand will concentrate near high-skill employment nodes (Austin, Denver, Raleigh tech corridors) rather than dispersing, sharpening site-selection criteria for new multifamily projects and making speculative infill less viable outside premier talent hubs."
+      "summary": "Industry leaders identify overlooked office dynamics beyond remote work and flight-to-quality, including an emerging 'AI score' metric assessing whether buildings support technology-enabled workforces and talent attraction. Other underexamined factors include property tax lag effects, cash-flow valuation methodology, and workplace relationship dynamics. AI infrastructure and talent retention are positioned as next-generation competitive differentiators for office landlords.",
+      "impact": "Signals long-term office demand will bifurcate: premium, tech-enabled Class-A space in hub metros (NYC, SF, Austin, Boston) will hold rents and attract corporate anchor tenants; Class-B/C and suburban office will continue to bleed to conversion or obsolescence. Multifamily developers in tech-hub metros should prioritize mixed-use and proximity to AI/tech employment clusters to capture high-wage renter demand. Conversion opportunities remain strongest in secondary office markets where supply vastly exceeds demand for enterprise-grade space."
     },
     {
       "title": "Systima Closes $153M Tax-Exempt CMBS Affordable Housing Deal",
@@ -62,27 +167,27 @@
       "cat": "Commercial",
       "date": "2026-07-23T21:54:42+00:00",
       "bullets": [
-        "Systima closed $153M tax-exempt CMBS deal for 1,272-unit LIHTC portfolio across 5 states.",
-        "Deal oversubscribed 8x; $1.2B in orders from 19 institutional investors; signals strong demand.",
-        "Tax-exempt CMBS for affordable housing moving mainstream; new financing avenue opening."
+        "Systima Capital closes $153M tax-exempt CMBS affordable housing securitization backed by 1,272 LIHTC units across WI, IL, FL, TN, TX.",
+        "Deal oversubscribed 7.8x ($1.2B in orders from 19 institutional investors); signals mainstream adoption of tax-exempt CMBS for affordable housing.",
+        "Portfolio across five states demonstrates geographic diversification and institutional investor confidence in LIHTC portfolio securitization."
       ],
-      "summary": "Systima Capital Management closed a $153 million private-label tax-exempt CMBS securitization backed by seven LIHTC properties totaling 1,272 units across Wisconsin, Illinois, Florida, Tennessee, and Texas. The deal was heavily oversubscribed with $1.2 billion in bids from institutional investors, suggesting institutional appetite for affordable housing debt is expanding beyond traditional tax-credit syndicators.",
-      "impact": "Tax-exempt CMBS is emerging as a viable refinancing and capital-stacking tool for stabilized LIHTC assets; this de-risks permanent financing for affordable multifamily developers and may attract new equity/debt capital to affordable development pipelines, potentially increasing deal velocity and lowering cost of capital in underserved markets (Florida, Tennessee, Texas) where Systima's portfolio is concentrated."
+      "summary": "Systima Capital Management closed a $153 million tax-exempt CMBS securitization for a portfolio of 1,272 LIHTC-backed affordable rental units across Wisconsin, Illinois, Florida, Tennessee, and Texas. The transaction was oversubscribed 7.8 times, with $1.2 billion in demand from 19 institutional investors. JP Morgan led the underwriting, highlighting growing investor appetite for tax-exempt CMBS structures in affordable housing.",
+      "impact": "Tax-exempt CMBS emerging as viable exit and refi pathway for stabilized LIHTC portfolios, expanding capital availability and improving returns on affordable housing development. Developers with performing LIHTC projects now have lower-cost refinance option via tax-exempt securitization, freeing equity for new acquisitions. Expect increased competition for LIHTC allocations and seasoned affordable housing portfolios as institutional capital shifts toward securitization-ready assets."
     },
     {
       "title": "M&T RCC Provides $141M Bridge Loan to Newly Built Turtle Bay Apartments",
       "link": "https://www.connectcre.com/stories/mt-rcc-provides-141m-bridge-loan-to-newly-built-turtle-bay-apartments/",
-      "excerpt": "M&amp;T Realty Capital Corporation (M&amp;T RCC) closed on a $141.4-million bridge loan for Anagram Turtle Bay, a newly constructed 194-unit multifamily community located at 300 E. 50th Stt. in Manhattan&#8217;s Turtle Bay neighborhood. The financing was provided to an ownership group led by Global Holdings, MAG Partners, and Safanad. The three-year bridge loan, which includes an extension option, refinanced the property&#8217;s construction financing and is designed to support the asset through the final stages of lease-up and stabilization before a planned transition to long-term permanent financing. &#8220;Bridge financing plays an increasingly important role in today&#8217;s market, particularly for newly delivered, high-quality multifamily assets that are approaching stabilization,&#8221; said Joe Pizzutelli, M&amp;T RCC head of national production, &#8220;Anagram Turtle Bay represents exactly the type of opportunity where bridge capital can create value by providing flexibility and certainty of execution while the property completes its lease-up and transitions to permanent financing.&#8221; The post M&amp;T RCC Provides $141M Bridge Loan to Newly Built Turtle Bay Apartments appeared first on Connect CRE.",
+      "excerpt": "M&amp;T Realty Capital Corporation (M&amp;T RCC) closed on a $141.4-million bridge loan for Anagram Turtle Bay, a newly constructed 194-unit multifamily community located at 300 E. 50th Stt. in Manhattan&#8217;s Turtle Bay neighborhood. The financing was provided to an ownership group led by Global Holdings, MAG Partners and Safanad. The three-year bridge loan, which includes an extension option, refinanced the property&#8217;s construction financing and is designed to support the asset through the final stages of lease-up and stabilization before a planned transition to long-term permanent financing. &#8220;Bridge financing plays an increasingly important role in today&#8217;s market, particularly for newly delivered, high-quality multifamily assets that are approaching stabilization,&#8221; said Joe Pizzutelli, M&amp;T RCC head of national production, &#8220;Anagram Turtle Bay represents exactly the type of opportunity where bridge capital can create value by providing flexibility and certainty of execution while the property completes its lease-up and transitions to permanent financing.&#8221; The conversations behind tomorrow’s apartment deals happen at Connect Apartments on September 22 in LA. Connect with the capital sources, owners, developers, and brokers driving multifamily investment. Learn more and reserve your seat at www.connectapts2026.com. The post M&amp;T RCC Provides $141M Bridge Loan to Newly Built Turtle Bay Apartments appeared first on Connect CRE.",
       "source": "Connect CRE",
       "cat": "Commercial",
       "date": "2026-07-23T21:52:31+00:00",
       "bullets": [
-        "M&T RCC funded $141.4M bridge loan for 194-unit Anagram Turtle Bay, Manhattan.",
-        "Three-year bridge with extension option; property approaching stabilization post-lease-up.",
-        "Bridge financing acceleration reflects strong demand for high-quality new delivery near permanent financing readiness."
+        "M&T RCC closes $141.4M bridge loan for Anagram Turtle Bay, 194-unit new-build in Manhattan's Turtle Bay neighborhood (E. 50th St.).",
+        "Three-year bridge with extension option; owned by Global Holdings, MAG Partners, Safanad; supports lease-up and stabilization prior to permanent refi.",
+        "Bridge financing de facto standard for newly stabilized MF assets; provides flexibility and certainty during lease-up completion phase."
       ],
-      "summary": "M&T Realty Capital Corporation provided a $141.4 million, three-year bridge loan to Global Holdings, MAG Partners, and Safanad for the newly built, 194-unit Anagram Turtle Bay in Manhattan's Turtle Bay neighborhood. The loan refinances construction debt and is designed to carry the asset through final lease-up before a planned permanent refinance.",
-      "impact": "Bridge-to-permanent financing structure is becoming standard for newly delivered, high-quality multifamily in tight markets (Manhattan); lenders increasingly confident in stabilization timelines and permanent placement, signaling tight supply and strong absorption in Midtown East submarkets; developers should stress-test lease-up pace and permanent refi windows as permanent debt markets remain competitive."
+      "summary": "M&T Realty Capital Corporation provided a $141.4 million bridge loan for Anagram Turtle Bay, a newly constructed 194-unit multifamily community in Manhattan's Turtle Bay neighborhood. The three-year bridge, arranged for an ownership group led by Global Holdings, MAG Partners, and Safanad, refinances construction financing and carries an extension option. Bridge capital is positioned as essential support during final lease-up and stabilization before transition to long-term permanent financing.",
+      "impact": "M&T's bridge deployment underscores ongoing capital availability for newly delivered, high-quality multifamily assets in Manhattan—a positive signal for development feasibility and exit certainty in prime urban markets. Bridge financing allows developers to hold stabilizing assets without aggressive permanent-debt pricing, preserving upside. Expect bridge products to remain core financing tool for new-construction completions in gateway markets through 2026–2027."
     },
     {
       "title": "Todd Rosenberg’s Pebb Capital Buys South Beach Office Building",
@@ -92,87 +197,12 @@
       "cat": "Commercial",
       "date": "2026-07-23T21:50:11+00:00",
       "bullets": [
-        "Pebb Capital acquired 100K SF office building (Uno) in South Beach, Miami for ~$69M+.",
-        "Miami office market seeing boutique financial services concentration; ongoing conversion/expansion activity.",
-        "South Beach office fundamentals improving; speculative institutional capital entering submarket."
+        "Todd Rosenberg's Pebb Capital purchases Uno office building in South Beach (119 Washington Avenue); ~100K SF, 106 parking spaces.",
+        "Sale price likely >$69M (Acore loan amount); seller added 10K SF via terrace conversion prior to sale.",
+        "South Beach office attracting financial-services tenants; Pebb bet on boutique finance firms expanding Miami presence."
       ],
-      "summary": "Todd Rosenberg's Pebb Capital purchased the Uno office building in South Beach (119 Washington Avenue), a 100,000-square-foot, seven-story asset in the upscale South of Fifth neighborhood. The sale price exceeded $69 million (Acore Capital's loan amount), and the prior owner recently began converting terrace space to office, reflecting tenant demand in Miami's office market.",
-      "impact": "Renewed institutional capital flowing into South Florida office (particularly South Beach/Brickell financial services cluster) is a contrarian signal; however, this is office-focused and does not directly impact multifamily demand unless it signals broader population/income inflow to Miami-Dade County, which would support Class A multifamily rent growth and development feasibility in nearby submarkets like Brickell, Wynwood, and Downtown Miami."
-    },
-    {
-      "title": "1929-Vintage Los Feliz Apartments Sell to Dream Street Capital",
-      "link": "https://www.connectcre.com/stories/1929-vintage-los-feliz-apartments-sell-to-dream-street-capital/",
-      "excerpt": "Marcus &amp; Millichap has completed the sale of 1939 N. Kenmore Ave., an 18-unit multifamily property located in Los Angeles. The property sold for $5.28 million. “Properties&nbsp;with this charm and character&nbsp;that have been owned by the same family for several decades rarely come to market in Los Feliz,” said Jeff Louks, executive managing&nbsp;director&nbsp;investments. “The level of interest throughout the competitive sale process reflects continued demand for well-located multifamily assets. Investor activity&nbsp;remains&nbsp;steady, and we continue to close multiple transactions each month.” Louks&nbsp;and Elliot Sabag, investment specialists&nbsp;in Marcus &amp; Millichap’s&nbsp;Encino&nbsp;office,&nbsp;represented&nbsp;the&nbsp;buyer,&nbsp;Michael Maltzman of Dream Street Capital.&nbsp;The seller was a private seller. Built in 1929, the property totals 18,317 square feet and is situated on a 0.26-acre parcel in Los Feliz. The Spanish-style building had been owned by the same family for several decades before the sale. The buyer plans to complete a renovation and restoration program. The post 1929-Vintage Los Feliz Apartments Sell to Dream Street Capital appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-23T21:43:53+00:00",
-      "bullets": [
-        "Dream Street Capital acquired 1929-vintage 18-unit apartment in Los Feliz, LA for $5.28M.",
-        "Property held by same family for decades; investor demand for well-located legacy multifamily remains steady.",
-        "Buyer plans renovation; signal of capital chasing in-place value-add in supply-constrained LA."
-      ],
-      "summary": "Dream Street Capital acquired an 18-unit, 1929-built Spanish-style apartment building in Los Feliz, Los Angeles, for $5.28 million. The property had been family-owned for several decades and was marketed as a rare opportunity in the tight Los Feliz submarkt. The buyer plans a renovation program.",
-      "impact": "Continued investor appetite for small vintage multifamily in supply-constrained LA submarkets (Los Feliz, Silver Lake, East Hollywood) reflects limited new supply and strong rent growth expectations; signals that acquisition-based value-add strategies remain viable for older, well-located assets, but also indicates land and development capacity constraints are forcing investors to compete for small legacy properties, which limits new supply creation in those neighborhoods."
-    },
-    {
-      "title": "New York People and Company News, Week of July 24, 2026",
-      "link": "https://www.connectcre.com/stories/new-york-people-and-company-news-week-of-july-24-2026/",
-      "excerpt": "JLL announced that retail real estate veterans Joshua Strauss and Scott Zinovoy have joined the firm&#8217;s New York Retail team. Strauss joins as Executive Managing Director and Zinovoy joins as Senior Vice President, and they will work alongside Vice Chairman Patrick A. Smith to expand JLL&#8217;s retail leasing capabilities across New York and the country. Cohen &amp; Steers, Inc. appointed Erik Schneberger as Executive Vice President, Chief Marketing Officer. Based in New York, Mr. Schneberger will lead the firm&#8217;s global marketing department, overseeing all marketing initiatives across distribution channels and regions worldwide. Schneberger joins Cohen &amp; Steers with over 20 years of marketing experience, building and leading award-winning marketing organizations at some of the industry&#8217;s most recognized investment firms. A&amp;G Real Estate Partners, a national real estate advisory firm specializing in lease optimization, lease renegotiations, real estate sales, and strategic real estate solutions, announced that Andrew Jacobs has joined the firm to lead its real estate sales division, effective immediately. Jacobs will report to Emilio Amendola, A&amp;G’s Co-Founder and Co-CEO, and will be based out of the firm’s New York City office. PKF O&#8217;Connor Davies, one of the nation&#8217;s largest accounting, tax and advisory practices, announced that Anthony DelValle, CPA, has joined the organization as Partner in its Real Estate Tax practice. He is based in the Firm&#8217;s New York City office. DelValle brings more than 25 years of experience providing tax planning, compliance and consulting services with a focus on real estate and partnership taxation. DLC announced that Basil Donnelly has been named Chief Financial, Legal, and Business Officer, expanding his executive leadership responsibilities as the company continues its growth as one of the nation&#8217;s leading owner-operators of open-air shopping centers. A member of Team DLC since 20",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-23T21:35:01+00:00",
-      "bullets": [
-        "JLL hired retail veterans Strauss and Zinovoy; Cohen & Steers CMO; A&G hired SVP sales.",
-        "Personnel hiring in NYC real estate advisory and investment roles; market activity uptick signal.",
-        "No direct multifamily development impact; lateral talent moves in support functions."
-      ],
-      "summary": "New York area real estate firms announced senior hires: JLL added retail leasing executives; Cohen & Steers appointed a Chief Marketing Officer; A&G Real Estate Partners hired a head of sales; PKF O'Connor Davies added a real estate tax partner. These moves reflect market-wide expansion of personnel and advisory capacity.",
-      "impact": "Lateral personnel hires in retail and tax advisory do not directly signal multifamily supply, demand, or capital trends; minimal relevance to multifamily development strategy."
-    },
-    {
-      "title": "Merritt Picks Up 537K-SF Jax Industrial Park",
-      "link": "https://www.connectcre.com/stories/merritt-picks-up-537k-sf-jax-industrial-park/",
-      "excerpt": "Merritt Properties acquired Center Point Business Park, an 11-building, 537,800-square-foot light industrial park in Jacksonville&#8217;s Butler Corridor. The deal is the first major transaction announced since the company secured a $750 million investment led by Centerbridge Partners to accelerate its long-term growth strategy. Merritt Properties acquired Center Point from Plymouth REIT. Royce Rose and Justin Rabin of CBRE National Partners represented the seller in the transaction. The park is 99% leased to 35 tenants representing a diverse mix of industries. The property features 18- to 22-foot clear heights, rear-load configurations, dock-high loading in most suites, concrete tilt-wall construction, 107 dock doors and 1,005 parking spaces. The average tenant occupies approximately 15,100 square feet. Located at 4801-6631 Executive Park Court, the property is approximately 1.2 miles from Interstate 95 and one-half mile from the Florida East Coast Railway, providing last-mile connectivity throughout the market. The post Merritt Picks Up 537K-SF Jax Industrial Park appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-23T21:24:13+00:00",
-      "bullets": [
-        "Merritt Properties acquired 537.8K SF Center Point Business Park, Jacksonville, from Plymouth REIT.",
-        "Park 99% leased to 35 tenants; first major deal after $750M Centerbridge capital raise.",
-        "Light industrial/logistics asset; demonstrates capital availability and industrial M&A momentum."
-      ],
-      "summary": "Merritt Properties acquired Center Point Business Park, an 11-building, 537,800-square-foot light industrial park in Jacksonville's Butler Corridor, from Plymouth REIT. The park is 99% leased to 35 tenants and features dock-high loading and clear heights suited to logistics. The deal is Merritt's first major transaction following a $750 million investment from Centerbridge Partners.",
-      "impact": "Centerbridge's $750M capital deployment into industrial real estate reflects institutional capital chase for logistics/last-mile assets; Jacksonville's Butler Corridor (adjacent to I-95, FEC Railway) is a nascent distribution hub; multifamily developers should monitor Jacksonville for population/wage inflow tied to warehouse and logistics employment clustering, which could support suburban multifamily development near logistics parks (Deerwood, San Marco, Arlington submarkets)."
-    },
-    {
-      "title": "AI Firm Legora Takes 98K SF at SL Green’s 11 Madison Avenue",
-      "link": "https://commercialobserver.com/2026/07/ai-firm-legora-takes-98k-sl-greens-11-madison-avenue/",
-      "excerpt": "Legora, a company that developed a collaborative artificial intelligence-driven workspace for the legal profession, has signed a new 10-year lease for 98,420 square feet — the entire 11th floor — at SL Green Realty’s 11 Madison Avenue. This brings the building to 100 percent occupancy. SL Green was represented by Brian Waterman, Brent Ozarowski and Erik Harris at Newmark. Legora was represented by Justin Haber and Kyle Riker at JLL. The deal seems to represent a new office for Sweden-based Legora, which opened its New York City headquarters in 27,238 square feet at 838 Broadway last year. The asking rent was unclear, but the office asking rent at 11 Madison Avenue was $90 per square foot as recently as March. Legora’s lease brings the total square footage of office leases for SL Green, Manhattan’s largest office landlord, to roughly 1.5 million square feet so far in 2026. The company’s office properties in the borough maintain a pipeline of over 900,000 square feet. “We are excited to welcome another premier tenant to the already impressive tenant roster at 11 Madison Avenue, which includes Sony, UBS, Jim Beam Brands, WME and Pinterest,” said Steven Durels, executive vice president and director of leasing and real property at SL Green. “This new lease is testament to the building’s status as one of the most prominent properties in the exciting Midtown South neighborhood, and further evidence of the incremental demand that AI and technology tenants are bringing to an already strong leasing market.” 11 Madison Avenue serves as a home base for a number of high-level tech tenants, fitting perfectly into the Flatiron District’s tech-friendly area around Madison Square Park. In June 2025, Pinterest signed an 83,000-square-foot lease for 11 years for the building’s entire 13th floor for an asking rent of $90 per square foot. Health technology company Tempus AI signed a lease for 39,565 square feet for 10 years in August of that year, and March 2026 saw the AI-driven sales ",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-23T21:19:37+00:00",
-      "bullets": [
-        "Legora (AI legal tech firm) signed 98.4K SF lease at SL Green's 11 Madison Avenue, Manhattan.",
-        "10-year lease for entire 11th floor; Legora expanding NYC footprint (prior HQ was 27K SF).",
-        "AI/legal tech firms driving office demand in trophy Manhattan assets; flight-to-quality signal."
-      ],
-      "summary": "Legora, an AI-driven legal tech company, leased 98,420 square feet (entire 11th floor) at SL Green's 11 Madison Avenue for ten years. This represents a significant expansion from Legora's prior 27,238-square-foot NYC headquarters at 838 Broadway. Asking rents at 11 Madison were $90/SF as of March 2026.",
-      "impact": "AI/legal tech tenant growth in trophy Manhattan office (SL Green's 1.5M SF in leases YTD 2026) reflects strong job creation and capital inflow in specialized tech/professional services roles; this supports Manhattan's Class A residential market (Flatiron, Gramercy, Upper West Side) with high-income tenant demand, though it does not create new multifamily supply; relevant to assessing wage/income growth and rental-rate trajectory in proximate multifamily submarkets."
-    },
-    {
-      "title": "SL Green Reports Improved Leasing Metrics in Q2 2026",
-      "link": "https://commercialobserver.com/2026/07/sl-green-reports-new-york-leasing-q2-earings-2026/",
-      "excerpt": "SL Green is reaping the rewards of a resurgent New York City office market. “It might be the dead of summer, but our team is, of course, hard at work — this is truly when we shine the brightest, are completely dialed in on our business plan, and outwork the marketing,&#8221; said CEO Marc Holliday, Thursday afternoon during SL Green’s second-quarter earnings call. Holliday had earlier predicted the firm’s occupancy would rise — and SL Green saw its occupancy rate rise to 94.7 percent for its New York office portfolio, up from 94.4 percent . “Much of what we predicted at our investor conference in December has now played out in ways that improve cash flow,” he said, before listing off the latest shareholder metrics. The firm reported that its funds from operations (FFO) reached $109.6 million, or $1.43 per share, in the second quarter of 2026, compared to the $124.5 million, or $1.63 per share, recorded in the same period last year. The firm’s total revenue increased from $241 million in the second quarter of 2025 to $264 million in the second quarter of 2026, an increase of 9 percent, SL Green reported. The firm reported a net loss of $26.5 million, or 38 cents per share, in the second quarter of 2026, compared to the net loss of $11.1 million, or 16 cents per share, one year ago. The New York-based real estate investment trust (REIT) signed 53 Manhattan office leases in the second quarter of 2026 that totaled 445,161 square feet, with an average rent of $93.17 per square foot and average lease term of 5.8 years, bringing its leasing activity through the first six months of 2026 to 1,374,425 square feet leased in 104 Manhattan office transactions. “A growing scarcity of premier space in desirable Midtown districts has turned the tables in our favor,” said Holliday, who added the firm expects to exceed its internal leasing goals by the end of the year. “The trend continues to move in the right direction.” The flagship deals SL Green inked in the second quarter includ",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-23T21:06:16+00:00",
-      "bullets": [
-        "SL Green Q2 2026: office occupancy rose to 94.7% (vs. 94.4% prior); FFO $1.43/share.",
-        "1.5M SF of leases signed YTD; 900K SF in pipeline; Manhattan office market stabilizing.",
-        "Occupancy recovery and strong leasing velocity signal office demand returning in NYC."
-      ],
-      "summary": "SL Green reported Q2 2026 occupancy of 94.7% for its Manhattan office portfolio, up from 94.4% in the prior quarter. Total Q2 revenue reached $264 million (vs. $241 million in Q2 2025), and the firm signed 1.5 million square feet of leases YTD 2026 with over 900,000 square feet in pipeline. Funds from operations were $1.43 per share.",
-      "impact": "Manhattan office market stabilization (rising occupancy, strong leasing velocity) signals return of corporate/professional-services employment and tenant confidence in NYC; this supports multifamily rent growth and occupancy in Manhattan and outer-borough submarkets (Brooklyn, Long Island City) where office-adjacent workforce housing is concentrated; developers should monitor office absorption as a leading indicator of residential demand recovery in previously underperforming NYC neighborhoods."
+      "summary": "Pebb Capital, led by Todd Rosenberg, acquired the Uno office building in South Beach, a seven-story, 100,000-square-foot property at 119 Washington Avenue. Acore Capital provided a $69 million loan, suggesting a sale price north of that figure. The previous owner, managed by Longstead/Corcoran's Cyril Bijaoui since 2011, had recently renovated interiors and added ~10,000 square feet via terrace conversion.",
+      "impact": "Limited direct impact on multifamily; office acquisition in a declining asset class. However, signals that South Beach waterfront office is being repositioned for finance/boutique tenants rather than converted to residential, suggesting owner confidence in office fundamentals in Miami's high-rent neighborhoods. Multifamily developers should note: South Beach rents and condo prices remain elevated despite office supply—strong household demand from financial-services workers and tourists buttress overall market strength."
     },
     {
       "title": "Mandarin Oriental Brickell Key, Live Local high-rise among $420M-plus South Florida construction permits for week ending July 22, 2026",
@@ -182,12 +212,12 @@
       "cat": "Development",
       "date": "2026-07-23T15:54:37+00:00",
       "bullets": [
-        "Swire developing $240M Mandarin Oriental Brickell Key redevelopment: 1.35M SF (condo+hotel).",
-        "Sense 22 mixed-use: 320 units, 503K SF, $95M permit; funded with $111M construction loan.",
-        "South Florida construction permits totaled $420M+ week of July 22; strong multifamily+hotel pipeline."
+        "Swire Properties issues $240M permit for Mandarin Oriental Brickell Key redevelopment; 1.35M SF with condos, hotel on former hotel site (demolished April).",
+        "New Sense LLC gets $95M permit for 36-story, 320+ unit Live Local Act mixed-use at 114 NE 22nd, Miami; funded by $111M construction loan from S3 Capital.",
+        "South Florida permits week ending July 22: $420M+; Lore Development and Element Development adding 112 studio units on NW 15th in 8-story mixed-use."
       ],
-      "summary": "South Florida issued $420+ million in construction permits for the week ending July 22, 2026. Major permits include: Swire's $240 million Mandarin Oriental Brickell Key redevelopment (1.35M SF, condos and hotel); Sense 22, a Live Local mixed-use project with 320+ units (503K SF, $95M permit, backed by $111M construction loan); and a mixed-use project with 112 studios (122K SF, $21.3M permit). Additional development includes a 724,470-square-foot Miami municipal office building.",
-      "impact": "Intense construction activity in Brickell, Wynwood, and Downtown Miami across multifamily, hotel, and retail reflects sustained investor/developer appetite for South Florida; strong construction lending (S3 Capital, others) indicates capital availability; multifamily absorption will face near-term supply surge (320+ units across Sense 22 alone); developers should expect rental rate pressure in Brickell/Wynwood from 2027–2028 deliveries, and should focus on pre-leasing, location differentiation, and amenity packages to compete with new supply."
+      "summary": "South Florida issued over $420 million in construction permits for the week ending July 22, 2026. Swire Properties received a $240 million permit for the Mandarin Oriental Brickell Key redevelopment (1.35 million SF with condos and hotel). New Sense LLC secured a $95 million permit for the 36-story Sense 22 project (320+ units, Live Local Act) with $111 million in construction financing from S3 Capital. Lore Development and Element Development obtained a $21.3 million permit for a 112-unit, eight-story mixed-use project.",
+      "impact": "Strong permit velocity in Miami signals continued confidence in mixed-use and residential development despite macro headwinds. Live Local Act and tax-increment financing supporting new residential supply in health districts and infill areas. Multifamily developers should track Live Local Act project pipeline in Miami and Jacksonville—favorable tax treatment and development rights are driving supply and will compress Class-A rents over 2–3 years. Current window for premium new-build absorption; expect softening by 2028."
     },
     {
       "title": "UrbanStreet targets former Motorola office for residential conversion",
@@ -197,12 +227,12 @@
       "cat": "Development",
       "date": "2026-07-23T15:45:00+00:00",
       "bullets": [
-        "UrbanStreet converting 360.2K SF former Motorola office to 300-unit apartment complex, Schaumburg, IL.",
-        "District at Veridian megadevelopment: $1B total; first phase $175M, funded with $94M construction loan.",
-        "Office-to-residential conversion in suburban Chicago; supply-chain housing near mixed-use hub."
+        "UrbanStreet converts 360K-SF six-story ex-Motorola office into ~300-unit apartment complex at Schaumburg's District at Veridian megadevelopment.",
+        "District at Veridian $1B mixed-use project includes sister 4-story building, 18 row houses, retail, parking, 150-key hotel; first phase construction nearing completion.",
+        "UrbanStreet locked $94M construction loan from Bank OZK in 2025 for first phase; phase-one cost ~$175M, targeting early 2027 completion."
       ],
-      "summary": "UrbanStreet Group is converting the former Motorola six-story office building (360,200 SF) into a 300-unit apartment complex as part of the $1 billion District at Veridian megadevelopment in Schaumburg, Illinois. The complex will include a sister four-story building; 18 row houses will connect to D.R. Horton's Northgate development. The first phase carries a $175 million cost and is backed by a $94 million construction loan from Bank OZK. The first apartment building is on track for completion by early 2027.",
-      "impact": "Office-to-residential adaptive reuse in suburban Chicago (Schaumburg) reflects both office obsolescence and strong suburban multifamily demand; District at Veridian is a 225-acre mixed-use hub with retail, hotel, and office components—a demand driver for workforce housing; developers should monitor suburban Illinois for similar conversion opportunities and wage/population growth tied to mixed-use developments, particularly in northwest Chicago submarkets (Schaumburg, Rosemont) where employer clustering (United Airlines, corporate HQs) supports rental demand."
+      "summary": "UrbanStreet Group is converting a 360,200-square-foot six-story office building—the former Motorola headquarters—into approximately 300 apartment units as part of Schaumburg's $1 billion District at Veridian mixed-use development. The conversion includes a sister four-story building, 18 row houses, retail space, parking, and a 150-key hotel. UrbanStreet secured a $94 million construction loan from Bank OZK in 2025 for the first phase, budgeted at $175 million, targeting early 2027 completion.",
+      "impact": "Large-scale suburban office-to-residential conversion in prime Illinois market signals strong absorption for new units in walkable, mixed-use settings outside Chicago. District at Veridian's multi-phase approach (first phase approaching delivery) will test suburban renter demand and pricing; strong early absorption could validate suburban conversion thesis beyond dense urban cores. Developers should monitor lease-up velocity and rents; early success could unlock conversion pipeline across Midwest aging office parks."
     },
     {
       "title": "As Deerfield loosens waterfront development rules, West Palm tightens them",
@@ -212,12 +242,12 @@
       "cat": "Development",
       "date": "2026-07-23T14:30:00+00:00",
       "bullets": [
-        "Deerfield Beach loosening waterfront FAR/height limits; eliminates max FAR for commercial/multifamily.",
-        "West Palm Beach tightening; Deerfield final vote Aug. 4, referendum Nov. 3.",
-        "Regulatory divergence: one metro opening waterfront capacity, one restricting; supply-chain implication."
+        "Deerfield Beach votes 3-2 to loosen waterfront development rules; eliminates FAR caps on commercial/multifamily between Intracoastal and Atlantic; Nov. 3 referendum required.",
+        "West Palm Beach tightens waterfront development rules; two Florida coastal cities diverging on density and regulation.",
+        "Deerfield move aims to unlock blighted beachfront parcels while preserving low-rise village character; height/lot coverage limits remain."
       ],
-      "summary": "Deerfield Beach commissioners voted 3-2 to loosen waterfront development restrictions, eliminating floor area ratio (FAR) maximums for commercial and multifamily properties between the Intracoastal Waterway and Atlantic Ocean. Height and lot-coverage caps will remain. The vote is preliminary; final vote scheduled for August 4, with a public referendum on November 3. Simultaneously, West Palm Beach is tightening waterfront development rules.",
-      "impact": "Deerfield's loosened FAR caps (if approved) could unlock waterfront redevelopment for higher-density mixed-use and multifamily projects, increasing supply capacity in a constrained coastal South Florida submarket; conversely, West Palm Beach's tightening signals political/environmental resistance to density in competing coastal markets; developers should monitor referendum outcomes and assess Deerfield waterfront land availability and entitlement pipelines—if approved, this could accelerate development timelines and valuations for blighted waterfront parcels, shifting capital toward Deerfield relative to West Palm Beach."
+      "summary": "Deerfield Beach commissioners voted 3-2 to loosen decades-long waterfront development restrictions, including eliminating floor-area-ratio caps for commercial and multifamily properties between the Intracoastal Waterway and Atlantic Ocean. The measure requires final approval on August 4 and voter sign-off in a November 3 referendum. Concurrently, West Palm Beach has tightened waterfront development rules, reflecting divergent coastal policy approaches in South Florida.",
+      "impact": "Deerfield Beach regulatory shift creates optionality for higher-density, mixed-use waterfront development in a constrained South Florida coastal market. If approved, developers could unlock density on underutilized beachfront parcels, increasing competitive supply pressure on West Palm Beach and Fort Lauderdale waterfront rents. Multifamily developers should track Deerfield referendum outcome; approval would signal regulatory openness to density in secondary coastal markets and create acquisition opportunities in blighted parcels priced for legacy FAR caps."
     },
     {
       "title": "Alonzo Mourning, HTG net $55M financing package for affordable housing",
@@ -227,42 +257,12 @@
       "cat": "Development",
       "date": "2026-07-22T21:01:15+00:00",
       "bullets": [
-        "Alonzo Mourning, Housing Trust Group closed $55.4M financing for 115-unit affordable housing, Miami-Dade.",
-        "Package: $31.5M LIHTC equity, $16.9M permanent loan (Berkadia), $7M CRA/TIF funds.",
-        "Project restricts rents at 30%, 60%, 70% AMI; completion expected January 2028."
+        "Alonzo Mourning, Housing Trust Group net $55.4M financing for 115-unit Artisan Pointe affordable housing in Naranja, south Miami-Dade; completion Jan. 2028.",
+        "Package: $31.5M LIHTC equity + $16.9M permanent mortgage (Berkadia) + $7M CRA funds (half tax-increment); rents capped at 30–70% AMI.",
+        "Rents: one-bed at 30% AMI = $766/mo; two-bed at 70% AMI = $2,145/mo; below market avg rent of $2,277 in South Florida."
       ],
-      "summary": "NBA Hall-of-Famer Alonzo Mourning and Housing Trust Group financed the 115-unit Artisan Pointe affordable housing project in unincorporated south Miami-Dade County (26115 South Dixie Highway) with a $55.4 million package: $31.5 million in LIHTC equity, $16.9 million permanent mortgage (Berkadia), and $7 million from Naranja Lakes Community Redevelopment Agency (including $3.5M tax-increment funding). Units target households at 30%, 60%, and 70% of area median income. Completion is expected January 2028.",
-      "impact": "Naranja/south Miami-Dade affordable housing development signals continued capital and subsidy deployment in underserved submarkets; strong permanent lending appetite (Berkadia) for stabilized LIHTC projects reduces refinance risk; however, this is below-market rentals and does not directly compete with market-rate multifamily; relevant as a demand-side indicator: affordable housing development absorbs workforce population, reducing pressure on market-rate rents in adjacent submarkets, but also signals developer/nonprofit focus on deeper AMI targeting, which may constrain market-rate absorption in lower-income-growth areas."
-    },
-    {
-      "title": "Endeavor boosts Austin office pipeline with 5th and Walsh project",
-      "link": "https://therealdeal.com/texas/2026/07/22/endeavor-boosts-austin-office-pipeline-with-5th-and-walsh/",
-      "excerpt": "Endeavor’s 5th and Walsh project in Downtown Austin, which will also house its new headquarters, is finally getting off the ground.&#160; Plans for the new five-story, 198,000-square-foot office mid-rise and retail building were submitted to the city in March 2022, more than four years ago. The development will feature 21,000 square feet of restaurant and retail space on the ground floor and a below-grade parking garage, according to the Austin Business Journal.&#160; The project is expected to be completed in the later months of 2028, and Endeavor will promptly move into the building from its old headquarters at 500 West [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-07-22T20:22:59+00:00",
-      "bullets": [
-        "Endeavor's 5th and Walsh, Downtown Austin: 198K SF office mid-rise, 50% preleased; completion late 2028.",
-        "Project stalled 4+ years (filed March 2022); shovels-in-ground imminent; Endeavor HQ relocation anchor.",
-        "Amazon robotics facility rumored for Endeavor-owned Dog's Head area; major employment catalyst."
-      ],
-      "summary": "Endeavor's five-story, 198,000-square-foot 5th and Walsh office project in Downtown Austin is moving toward construction after a four-year entitlement process. Endeavor will relocate its headquarters into 25,000 SF; 85,000 additional SF (43% of total) is preleased to unnamed tenants, bringing total pre-lease to 50%. Completion is expected late 2028. Additionally, Amazon is reportedly in talks to anchor a robotics manufacturing facility on Endeavor's 2,614-acre Dog's Head property, with a proposed 45-year development agreement.",
-      "impact": "Amazon robotics facility in Austin (if confirmed) would be major job creation and population-inflow catalyst; combined with downtown office recovery (Endeavor, others), this signals revived employment demand in Austin tech/manufacturing sectors; multifamily developers should prioritize acquisitions and entitlements in proximity to Dog's Head (east Austin corridors, Riverside, Mueller) and downtown east submarkets to capture inflow from both office and manufacturing employment; expect rent-growth acceleration and absorption tightening in Austin metro 2027–2029."
-    },
-    {
-      "title": "Starwood files data center plan as Virginia residents revolt",
-      "link": "https://therealdeal.com/national/washington-dc/2026/07/22/starwood-files-data-center-plan-as-virginia-residents-revolt/",
-      "excerpt": "Barry Sternlicht’s Northern Virginia data center drive is forging ahead, even as residents plan to revolt against Starwood Capital Group’s dreams. Starwood filed a permit application for its two-building project at the 34-acre Plaza 500 on the Alexandria town line in Virginia, the Washington Business Journal reported. The first building, Plaza 500 South, is planned for more than 226,000 square feet, according to the pending application. HKS Inc. is the architect for the project. The first phase of construction is expected to carry a $5 million price tag, according to Fairfax County records. In addition to the two data center [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-07-22T19:30:00+00:00",
-      "bullets": [
-        "Starwood Capital filing permits for two-building, 226K SF data center at Plaza 500, Alexandria, VA.",
-        "Project includes substation within 100 feet of homes; resident opposition; Sept. planning review.",
-        "Data center supply expansion in Northern Virginia; infrastructure and zoning risk to timeline."
-      ],
-      "summary": "Barry Sternlicht's Starwood Capital Group filed permit applications for a two-building data center project at the 34-acre Plaza 500 (Alexandria town line, Virginia). The first building (Plaza 500 South) is planned for 226,000+ square feet; Phase 1 carries a $5 million construction cost. A proposed electrical substation on-site, located within 100 feet of homes in the Bren Mar neighborhood, has sparked resident opposition and a planned rally for the September planning commission review. Starwood purchased the site four years ago for $165 million.",
-      "impact": "Data center development in Northern Virginia (Starwood's second campus after Herndon) signals major infrastructure/power-demand buildout; however, local zoning/neighborhood opposition creates timeline and cost risk; data center job creation (relatively small headcount, high-wage technical roles) does not materially drive multifamily demand relative to office or light industrial; more relevant to monitor supply-chain risk: if permitting delays persist, Starwood may reassess Northern Virginia expansion, reducing competition for power/water resources and potentially constraining regional tech employment growth, which would soften multifamily rent assumptions in the metro."
+      "summary": "Alonzo Mourning (AM Affordable Housing) and Housing Trust Group secured a $55.4 million financing package for the 115-unit Artisan Pointe project in Naranja, Miami-Dade County. Financing includes $31.5 million in LIHTC equity, a $16.9 million permanent loan from Berkadia, and $7 million from the Naranja Lakes Community Redevelopment Agency (half tax-increment, half loan). Rents will serve households at 30–70% AMI, with one-bedrooms at 30% AMI priced at $766/month and two-bedrooms at 70% AMI at $2,145/month, well below the South Florida median of $2,277.",
+      "impact": "Strong LIHTC-plus-CRA financing mix demonstrates viable subsidy structure for deep-affordability development in underserved South Miami-Dade markets. Mourning and Housing Trust Group's track record in affordable housing is creating institutional confidence and repeat-financing relationships. Multifamily developers pursuing LIHTC or workforce housing in South Florida should model similar stacking (equity, permanent debt, CRA/TIF) to maximize feasibility; expect increased institutional competition for LIHTC allocations as capital targets affordable supply gaps."
     }
   ]
 }
