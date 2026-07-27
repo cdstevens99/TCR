@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-27T18:19:00.251616+00:00",
+  "fetchedAt": "2026-07-27T20:14:21.148869+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -9,21 +9,141 @@
     },
     {
       "label": "10Y Treasury",
-      "value": "4.65%",
-      "pct": -0.68
+      "value": "4.64%",
+      "pct": -0.81
     },
     {
       "label": "30Y Treasury",
-      "value": "5.13%",
-      "pct": -0.58
+      "value": "5.12%",
+      "pct": -0.72
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "100.52",
-      "pct": -0.29
+      "value": "100.51",
+      "pct": -0.3
     }
   ],
   "stories": [
+    {
+      "title": "AI Is Rewiring the Office-Leasing Playbook",
+      "link": "https://commercialobserver.com/2026/07/ai-office-leasing-trends-late-2026/",
+      "excerpt": "Much of the conversation around artificial intelligence and commercial real estate leasing has focused on whether AI will bring people back to the office. I think that&#8217;s the wrong question. The more important one is where AI companies are choosing to invest, hire and build because those decisions tell us far more about the next office cycle than return-to-office policies. After 20 years in commercial real estate, I’ve learned to be skeptical of bold predictions. I’ve watched plenty of cycles get oversold, but this one feels different, and the data tells us why. Start with where demand is actually concentrating. One submarket in San Francisco — the non-core central business district, including South of Market and Mission Bay — is responsible for 25 percent of all active AI office demand across the markets we track. San Francisco’s South Financial District accounts for another 16 percent, San Jose another 14 percent, and New York City’s Midtown South and Midtown another 11 percent and 8 percent, respectively. Ryan Masiello. These five submarkets across three markets account for nearly three-quarters of current AI square footage. National AI office demand is up 85 percent year-over-year, but, across the industry&#8217;s largest AI hubs, demand is up 179 percent. The story isn&#8217;t simply growth — it&#8217;s concentrated growth. Today’s market is fundamentally different from the last tech cycle. OpenAI raised $122 billion in February at an $840 billion valuation. Anthropic followed with $30 billion in a Series G at $380 billion. These aren’t 2022-era companies burning headcount against speculative valuations — both are scaling revenue far faster than headcount. Not only are current fundamentals far more sound, but the market opportunity is massive. Nvidia CEO Jensen Huang recently stated that writing code is not the job of a software engineer. Instead, they are, and always have been, problem solvers. Understanding this is critical to understanding the concentra",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-27T19:56:06+00:00",
+      "bullets": [
+        "SF South of Market and Mission Bay account for 25% of all active AI office demand tracked",
+        "SF South Financial (16%), San Jose (14%), NYC Midtown South (11%) concentrate three-quarters of AI leasing",
+        "AI companies' location choices signal next office cycle more than return-to-office policies"
+      ],
+      "summary": "AI companies are concentrating office leasing in specific high-tech submarkets rather than dispersing broadly. San Francisco Bay Area and select NYC neighborhoods account for nearly three-quarters of active AI office demand across tracked markets. The pattern reveals AI hiring and investment clusters driving demand geography independent of broader return-to-office trends.",
+      "impact": "Bay Area multifamily developers should monitor AI company hiring expansion in South of Market, Mission Bay, and San Jose—these tech employment centers drive young professional in-migration and rental demand. Conversely, traditional CBD office recovery may underperform, suggesting multifamily sites near AI-heavy submarkets and transit hubs will command premium demand and pricing in San Francisco, San Jose, and NYC."
+    },
+    {
+      "title": "Legal AI Firm Sandstone Signs 14K-SF Lease at 141 East Houston Street",
+      "link": "https://commercialobserver.com/2026/07/sandstone-lease-141-east-houston-street/",
+      "excerpt": "An artificial intelligence-powered management platform designed to help law firms has signed an office lease on the Lower East Side, Commercial Observer has learned. AI platform Sandstone signed a five-year deal spanning 13,794 square feet on the entire third and fourth floors of East End Capital’s 141 East Houston Street, according to landlord broker Current Real Estate Advisors. Asking rent for the space was $93 per square foot. &#8220;This transaction is another example of what we&#8217;re continuing to see across the market,” Current’s Adam Henick, who represented the landlord alongside Rob Kluge, said in a statement. “We believed early on that delivering a newly built, fully furnished space with a premium level of finish would give the building a real competitive advantage, and this lease validates that strategy. When landlords invest in creating a best-in-class product, the market continues to reward it.&#8221; Newmark represented the tenant, which is relocating from 45 Main Street in Brooklyn, but the brokerage did not immediately respond to a request for comment. East End Capital developed the 63,000-square-foot property between Forsyth and Eldridge streets with Grandview Partners and Greg Kraut’s KPG Funds between 2020 and 2022 with designs by Roger Ferris + Partners. At the time, the project signaled a different kind of development pattern in the trendy enclave. Built on the site of the historic Sunshine Cinema, it’s unclear where the building stands in terms of occupancy, but it was around 50 percent full when the owners refinanced the property with a $79.6 million from Fortress in 2022. That same year, a private dining club that sold memberships through non-fungible tokens (remember those?) known as the Flyfish Club signed an 11,000-square-foot lease for three stories in the building. Mark Hallum can be reached at mhallum@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-27T19:51:11+00:00",
+      "bullets": [
+        "Sandstone AI (legal tech) leases 13.8K SF, relocates from Brooklyn to Lower East Side Manhattan",
+        "Five-year lease validates landlord strategy of newly built, fully furnished premium-finish buildings",
+        "AI platform leasing signals tenant demand for specialized, high-quality NYC office product"
+      ],
+      "summary": "Sandstone, an AI-powered legal-services platform, signed a five-year, 13,794-square-foot lease at 141 East Houston Street on Manhattan's Lower East Side, relocating from Brooklyn. The transaction underscores landlord success in investing in newly constructed, fully furnished spaces with premium finishes. Broker commentary notes the lease validates market appetite for best-in-class office product tailored to tech and AI tenants.",
+      "impact": "AI-driven legal tech and professional services firms are pulling tenants out of outer boroughs into premium Manhattan locations, concentrating talent and capital in downtown/lower Manhattan. This reinforces demand for multifamily near Lower East Side, East Village, and downtown transit corridors to house in-migrating AI and fintech professionals at higher densities and rents."
+    },
+    {
+      "title": "Mid-America Facilitates Sale of Iconic Lincoln Park Property",
+      "link": "https://www.connectcre.com/stories/mid-america-facilitates-sale-of-iconic-lincoln-park-property/",
+      "excerpt": "Mid-America Real Estate Corporation’s Investment Sales Group recently brokered the sale of Lincoln Park West, a 37,615-square-foot iconic retail asset located at the heart of Lincoln Park. The offering featured a durable rent roll and the opportunity to significantly add value through lease-up or adaptive reuse of the 19,531-square-foot second floor. Lincoln Park West is anchored by a tenant roster that includes PNC Bank, Starbucks, RJ Grunts, and Lincoln Park Preschool, collectively driving long-term stability given a weighted average lease term of 7 years. Lincoln Park West is situated at the base of a residential tower at the intersection of Lincoln Park West and Clark Street, on the ground level of a 16-story luxury condominium building. Mid-America Real Estate Corporation Senior Vice President George Ghattas, Principal Joe Girardi, and Senior Associate Patrick Corrigan served as the exclusive listing brokers on behalf of the seller, LLJ Ventures. The property was acquired by a local private investor. The post Mid-America Facilitates Sale of Iconic Lincoln Park Property appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-27T19:34:38+00:00",
+      "bullets": [
+        "Lincoln Park West (37.6K SF mixed-use) sold by LLJ Ventures to local private investor; retail anchored by PNC, Starbucks, RJ Grunts",
+        "19.5K SF second-floor lease-up or adaptive-reuse upside identified; 7-year weighted average lease term provides stability",
+        "Property sits at base of 16-story luxury condo tower at Lincoln Park West and Clark Street intersection"
+      ],
+      "summary": "Mid-America Real Estate brokered the sale of Lincoln Park West, a 37,615-square-foot iconic retail property anchored by PNC Bank, Starbucks, and RJ Grunts, with a 7-year weighted average lease term. The second floor (19,531 SF) offers value-add through lease-up or adaptive reuse. The property sits at ground level of a 16-story luxury condominium building in Chicago's Lincoln Park neighborhood.",
+      "impact": "Limited relevance to multifamily development. Property is retail-dominant with residential tower already built above; no signals of new residential supply, zoning shifts, or demand catalysts affecting Chicago multifamily market."
+    },
+    {
+      "title": "Newport Resort Lists for $55M with Hotel Conversion Option",
+      "link": "https://www.connectcre.com/stories/newport-resort-lists-for-55m-with-hotel-conversion-option/",
+      "excerpt": "The Wellington Resort in Newport, RI has been listed for sale by Gustave White Sotheby&#8217;s International Realty, the Providence Business Journal reported. Located at the intersection of Thames Street and Wellington Avenue, the waterfront property is listed for $55 million. The resort at 551 Thames St. features 52 two-bedroom suites across four buildings. The Newport zoning board has given the resort approval for conversion of the property into 152 traditional one-bedroom hotel units.&nbsp; Built in 1985, the resort previously operated as a timeshare, until the last timeshare agreements were dissolved in 2021.&nbsp;“This entitlement creates a rare opportunity to significantly increase density and unlock future development potential in one of Newport’s most coveted waterfront locations,” the listing said.&nbsp; The 5.27-acre property is owned by Paolino Properties, a Providence-based real estate firm. Onsite amenities include indoor and outdoor swimming pools, tennis courts, a fitness center, and 208 parking spaces. The post Newport Resort Lists for $55M with Hotel Conversion Option appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-27T19:32:14+00:00",
+      "bullets": [
+        "Wellington Resort (Newport, RI) listed $55M; 5.27 acres, 52 two-bedroom suites, zoning approval for 152 hotel units",
+        "Timeshare dissolved 2021; entitlement enables 3x density increase and future development potential",
+        "Waterfront location at Thames Street and Wellington Avenue with pools, tennis, fitness, 208 parking spaces"
+      ],
+      "summary": "The Wellington Resort in Newport, Rhode Island, a 5.27-acre waterfront property with 52 two-bedroom suites, is listed for $55 million. The Newport zoning board approved conversion into 152 traditional one-bedroom hotel units, enabling significant density uplift. The timeshare was dissolved in 2021, and the listing emphasizes the entitlement's value in unlocking development potential.",
+      "impact": "Limited relevance to multifamily. Entitlement is hotel-use only; no residential multifamily pathway mentioned. If conversion to residential (apartments, condos) is remotely viable, the waterfront location and zoning precedent could signal development opportunity in tight Newport market, but current entitlement is hospitality-focused."
+    },
+    {
+      "title": "Bridge Logistics Properties Acquires 783K-SF Frederickson Distribution Facility",
+      "link": "https://www.connectcre.com/stories/bridge-logistics-properties-acquires-783k-sf-frederickson-distribution-facility/",
+      "excerpt": "Bridge Logistics Properties announced the acquisition of 6920 192nd Street, a 782,775-square-foot distribution facility located in Frederickson, Washington, within the Seattle-Tacoma metro area. The transaction marks BLP&#8217;s largest acquisition in the Seattle market to date, further establishing its presence in the Pacific Northwest. Completed in 2024 and fully leased to Harbor Freight Tools on a long-term basis, the facility serves as a regional distribution center supporting its network of more than 1,600 stores nationwide. The property was developed by Panattoni and delivered in 2024 as part of the larger Fred310 industrial development in Frederickson. Jeff Chiate and Bryce Aberg of Cushman &amp; Wakefield facilitated this acquisition. Situated on 53.3 acres, approximately 17 miles from the Port of Tacoma, the largest container port in the Seattle metro area, the property offers exceptional regional connectivity to the ports, major population centers, and critical transportation infrastructure throughout the Pacific Northwest. Join the Executives Driving Western Industrial Real Estate | August 20Hear from senior leaders representing the industry&#8217;s most active firms as they discuss investment strategy, market fundamentals, leasing trends, and emerging opportunities across the West Coast. Connect Industrial West is where industry leaders come together to share insights, build relationships, and identify what&#8217;s next for the sector. Secure your spot: www.connectindustrialwest2026.com The post Bridge Logistics Properties Acquires 783K-SF Frederickson Distribution Facility appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-27T19:11:03+00:00",
+      "bullets": [
+        "Bridge Logistics Properties acquires 782.8K SF Frederickson distribution facility (completed 2024) fully leased to Harbor Freight Tools",
+        "BLP's largest Seattle-Tacoma market acquisition; 53.3 acres, 17 miles from Port of Tacoma; part of Fred310 development",
+        "Facility serves 1,600+ Harbor Freight stores; regional distribution anchor validates Pacific Northwest logistics demand"
+      ],
+      "summary": "Bridge Logistics Properties acquired a 782,775-square-foot distribution facility in Frederickson, Washington (Seattle-Tacoma metro), fully leased to Harbor Freight Tools on long-term basis. The 2024-completed facility on 53.3 acres is BLP's largest Seattle-area acquisition and part of the Fred310 industrial development. Proximity to Port of Tacoma (17 miles) and major transportation infrastructure supports Harbor Freight's 1,600+ store network.",
+      "impact": "Not directly relevant to multifamily. However, logistics tenants' consolidation in Seattle-Tacoma region signals sustained warehouse job growth and in-migration of supply-chain workers to Pacific Northwest. Multifamily developers should monitor worker population influx and affordability pressures in Tacoma/Olympia submarkets and consider build-to-rent or workforce housing near emerging logistics clusters."
+    },
+    {
+      "title": "Global Warehouse Tenant Leases Nearly 1.3M SF in Visalia",
+      "link": "https://www.connectcre.com/stories/global-warehouse-tenant-leases-nearly-1-3m-sf-in-visalia/",
+      "excerpt": "Industrial investor and developer CapRock Partners announced that Building 1 at CapRock Central Point III in Visalia has been fully leased to an undisclosed global corporate tenant. The 1,270,750-square-foot commitment ranks among the largest industrial lease transactions completed in California&#8217;s Central Valley in recent years. Located at 4001 N. Plaza Dr., Building 1 represents the first building within CapRock Central Point III, a four-building, 2.7-million-square-foot speculative industrial development. The project is part of CapRock&#8217;s larger five-million-square-foot, LEED-certified Central Point master plan. &#8220;Today&#8217;s occupiers are looking for strategic locations that can help them move faster, operate more efficiently and scale with confidence,&#8221; said Monique Snowden, VP of asset management at CapRock. &#8220;Visalia delivers a rare combination of access, labor and capacity, and this Building 1 lease further validates the Central Valley&#8217;s emergence as a prime logistics hub serving the West Coast and beyond.&#8221; The lease was facilitated by JLL executive managing director Mike Fowler and his partners Mike McCrary and Mac Hewett. Lease terms were undisclosed. The post Global Warehouse Tenant Leases Nearly 1.3M SF in Visalia appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-27T19:04:49+00:00",
+      "bullets": [
+        "CapRock Partners leases 1.27M SF (Building 1, CapRock Central Point III) to undisclosed global corporate tenant in Visalia",
+        "Transaction ranks among largest California Central Valley industrial leases; part of 2.7M SF four-building speculative development",
+        "Visalia's labor, access, and logistics capacity validate Central Valley emergence as West Coast prime hub"
+      ],
+      "summary": "CapRock Partners' Building 1 at CapRock Central Point III in Visalia, California, was fully leased in a 1,270,750-square-foot commitment to an undisclosed global corporate tenant. The transaction ranks among the largest industrial leases in California's Central Valley. The lease validates Visalia's emerging status as a prime logistics hub serving the West Coast, driven by labor availability, access, and capacity.",
+      "impact": "Central Valley's dominance as a logistics and warehousing hub signals sustained population and wage-worker in-migration to Visalia and surrounding markets. Multifamily developers should evaluate Visalia, Fresno, and nearby markets for workforce housing demand; major industrial tenants anchor employment centers with immediate need for attainable rental stock to attract and retain supply-chain labor."
+    },
+    {
+      "title": "KITA Launches $200M Repositioning of 460 Park Ave.",
+      "link": "https://www.connectcre.com/stories/kita-launches-200m-repositioning-of-460-park-ave/",
+      "excerpt": "The Korea International Trade Association (KITA) is launching a comprehensive, $200-million redevelopment to reposition 460 Park Ave. as a next-generation office destination. A JLL team led by vice chairmen Dave Kleiner, Frank Doyle and Cynthia Wasserberger and SVP Michael Pallas will handle marketing and leasing for the property. “We are reimagining 460 Park Ave. with a focus on quality, performance and experience, delivering a workplace defined by natural light, modern infrastructure and thoughtfully integrated indoor-outdoor space,” said president Jimin Paik of the Hahn Kook Center, a KITA affiliate. “The result will be a boutique workplace of enduring quality that reflects the prestige and purpose of Park Avenue itself.” The project, which is targeting LEED Gold, WELL certification and WiredScore Platinum, was selected as the third awardee for the Manhattan Commercial Revitalization Program (M-CORE), an initiative designed to promote the transformation of properties in the city’s commercial business districts. The post KITA Launches $200M Repositioning of 460 Park Ave. appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-27T18:55:23+00:00",
+      "bullets": [
+        "KITA (Korea International Trade Association) launches $200M repositioning of 460 Park Ave., Manhattan office tower",
+        "Project targets LEED Gold, WELL, WiredScore Platinum; selected for M-CORE (Manhattan Commercial Revitalization Program)",
+        "Reimagined boutique workplace focused on natural light, modern infrastructure, indoor-outdoor space"
+      ],
+      "summary": "The Korea International Trade Association (KITA) is undertaking a $200 million redevelopment of 460 Park Avenue in Manhattan to reposition it as a next-generation office destination. The project targets LEED Gold, WELL certification, and WiredScore Platinum certification and was selected as a third awardee of the Manhattan Commercial Revitalization Program (M-CORE). Focus emphasizes quality, performance, natural light, and integrated indoor-outdoor space.",
+      "impact": "M-CORE designation and $200M-plus office repositioning in Manhattan CBD suggest landlord/capital confidence in office recovery in prestige Park Avenue corridor. May indicate tech/AI tenant demand and white-collar job concentration in Manhattan, supporting rental demand in residential submarkets adjacent to Park Avenue, Midtown South, and high-amenity CBD neighborhoods—but office-led recovery remains uncertain and slower than multifamily absorption."
+    },
+    {
+      "title": "Grun Group Files Plans for Pair of 99-Unit Residential Buildings in the Bronx",
+      "link": "https://commercialobserver.com/2026/07/grun-group-99-units-bronx-webster-avenue/",
+      "excerpt": "Real estate investment and development firm Grun Group has filed plans with the New York City Department of Buildings (DOB) to bring a pair of 99-unit residential towers to the Bronx’s Woodlawn Heights neighborhood, records show. If approved, the first of the two new buildings will be at 4241 Webster Avenue and span 59,611 square feet. This development will have 99 units across eight floors. The second building will be in the same neighborhood at 4230 Peters Place, spanning 68,733 square feet and also with 99 units. The properties are currently both parking lots. The DOB plans do not provide much more information. Grun Group did not immediately respond to Commercial Observer’s request for comment. Developers have been busy in the Bronx as of late. Catholic Homes, an affiliate of the Roman Catholic Archdiocese of New York, recently secured $146.9 million in construction financing to build affordable housing at 484 East 178th Street in the Bronx. Meanwhile, the city closed on $214 million in financing to bring 288 affordable senior units to 3728 Park Avenue, while housing developer Vilson Lumaj is planning two 99-unit residential properties at 761-769 East Tremont Avenue. Grun Group itself has lately been working on several projects in the city. In Kew Gardens, Queens, Grun Group filed plans in June to build a nine-story, 108-unit residential building at 116-18 Grosnevor Lane. And in January, the firm submitted an application to construct a 94-unit apartment building at 469 Troy Avenue in East Flatbush, Brooklyn. Though unconfirmed, it is probable that Grun opted to build two 99-unit residentials at its new project in Woodlawn Heights as a way to take advantage of the city’s 485-x tax abatement program. Limiting the size of a project allows developers to reap the tax benefits of 485-x without paying the high construction wages required when building 100 or more units. Amanda Schiavo can be reached at aschiavo@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-27T18:31:08+00:00",
+      "bullets": [
+        "Grun Group files plans for two 99-unit residential towers in Bronx Woodlawn Heights neighborhood",
+        "Building 1 (4241 Webster Ave.): 59.6K SF, 99 units over 8 floors; Building 2 (4230 Peters Pl.): 68.7K SF, 99 units",
+        "Both sites currently parking lots; Catholic Homes and city also financing affordable housing in Bronx recently"
+      ],
+      "summary": "Grun Group filed plans with NYC Department of Buildings for two 99-unit residential towers in the Bronx's Woodlawn Heights neighborhood. The first at 4241 Webster Avenue will span 59,611 square feet across eight floors; the second at 4230 Peters Place will span 68,733 square feet. Both currently parking-lot sites. Recent activity includes Catholic Homes securing $146.9 million and the city closing $214 million in affordable housing financing in the Bronx.",
+      "impact": "Grun Group's dual 99-unit filings in Woodlawn Heights, combined with Catholic Homes and city affordable financing, signal sustained Bronx multifamily development momentum. Modest-sized projects (under 200 units each) suggest build costs and financing remain feasible; Woodlawn Heights location (near 4 train, Yankee Stadium) indicates transit-oriented density is achievable. Monitor zoning approvals and financing conditions as indicator of development velocity and capital availability for Bronx market."
+    },
     {
       "title": "Dedeaux Properties CEO Brett Dedeaux On SoCal’s Evergreen Industrial Pull",
       "link": "https://commercialobserver.com/2026/07/dedeaux-california-industrial-tejon-ranch-regulations/",
@@ -32,27 +152,12 @@
       "cat": "Commercial",
       "date": "2026-07-27T18:05:48+00:00",
       "bullets": [
-        "Dedeaux Properties built 230k SF industrial at Tejon Ranch, sold to owner-user in 2024",
-        "JV expanding industrial development at Tejon Ranch north of LA due to lower labor, housing costs",
-        "California's regulatory burden creates entitlement value; developers shifting to Tejon Ranch as alternative to LA/Inland Empire"
+        "Dedeaux Properties pursues Tejon Ranch (north of Los Angeles) as alternative to LA County/Inland Empire for industrial",
+        "Tejon Ranch offers affordable labor, affordable housing, and lower development friction than coastal CA markets",
+        "CEO: Tejon Ranch provides competitive advantage; sold 230K SF development in 2024, now pursuing broader joint venture"
       ],
-      "summary": "Dedeaux Properties is pursuing a broader joint venture with Tejon Ranch to develop industrial space after successfully building and selling a 230,000-square-foot logistics facility there in 2024. The company views Tejon Ranch as a compelling alternative to Los Angeles County and the Inland Empire, citing lower labor and housing costs as primary drivers. California's stringent regulations, while burdensome, create competitive advantage through entitlements for developers with experience navigating them.",
-      "impact": "Tejon Ranch emerging as viable logistics hub signals supply constraint in traditional Southern California industrial markets (LA, Inland Empire), driving developer migration northward. Expect sustained demand for Tejon Ranch industrial as labor arbitrage and regulatory relief attract logistics tenants; downstream implication is reduced supply pressure and stronger rent potential in established LA/IE markets, though at risk of longer-term cannibalization if Tejon absorbs incremental demand."
-    },
-    {
-      "title": "Trademark, Harrison Street Kicking Off Arlington Mall Redevelopment",
-      "link": "https://www.connectcre.com/stories/trademark-harrison-street-kicking-off-arlington-mall-redevelopment/",
-      "excerpt": "Trademark Property Company (Trademark) and&nbsp;Harrison Street Asset Management are ready to get started on the redevelopment of the 43-year old Lincoln Square. The joint venture partners&nbsp;are investing $135 million in the new venture, to be called Anthem. InterBank is providing refinancing and construction financing for the project. Trademark will lead a full renovation on the property. The redevelopment is scheduled to break ground next month with completion slated for early 2028.&nbsp;Activity will begin with the demolition of 70,000 square feet of vacated building space. Following demolition, Anthem is expected to feature 404,000 square feet of retail, food &amp; beverage, public spaces and entertainment space upon completion. Trademark is in final lease negotiations with more than 35,000 square feet of retail and food-and-beverage space. While the joint venture is primarily focused on creating a retail and entertainment destination, other mixed-use options will be considered. Partners on the project include design architect Dwell Design Studio and general contractor Joeris General Contractors, Connect Texas Multifamily in Dallas on August 13 brings together the owners, developers, brokers, investors, and lenders shaping the future of Texas multifamily for a day of market intelligence, networking, and actionable insights. Join 300+ decision-makers and be part of the conversations driving the Texas multifamily market. Register today: www.ConnectTXMF2026.com. The post Trademark, Harrison Street Kicking Off Arlington Mall Redevelopment appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-27T18:00:16+00:00",
-      "bullets": [
-        "Trademark/Harrison Street investing $135M to redevelop Arlington's 43-year-old Lincoln Square mall",
-        "Demolition of 70k SF vacated space; 404k SF retail/F&B/entertainment upon 2028 completion",
-        "Retail/F&B tenants in final lease negotiations for 35k+ SF; InterBank financing construction and refinance"
-      ],
-      "summary": "Trademark Property Company and Harrison Street Asset Management are partnering on a $135 million redevelopment of Lincoln Square, a 43-year-old enclosed mall in Arlington. The project will demolish 70,000 square feet of vacant space and deliver 404,000 square feet of retail, food-and-beverage, and entertainment uses by early 2028. Anchor tenants are in final negotiations for more than 35,000 square feet, with mixed-use options still being evaluated.",
-      "impact": "Dead mall redevelopment into mixed-use retail/entertainment is a recognized demand-side play, but minimal multifamily relevance unless full mixed-use scope includes residential. Arlington's continued retail/entertainment investment signals consumer confidence and foot-traffic viability, benefiting nearby multifamily projects competing on lifestyle and walkability; however, this project appears retail-led with secondary mixed-use consideration, so limited direct bearing on apartment development pipeline."
+      "summary": "Dedeaux Properties CEO Brett Dedeaux highlighted Tejon Ranch as a compelling alternative to Los Angeles County and the Inland Empire for industrial development, citing affordable labor and housing costs and regulatory efficiency. The firm purchased land, built 230,000 square feet with excess trailer parking, sold the project to an owner-user in 2024, and is now pursuing a broader joint venture. Labor availability and workforce housing affordability are central to the value proposition.",
+      "impact": "Dedeaux's pivot to Tejon Ranch signals California's regulatory burden and high development costs are driving industrial capital and logistics investment away from traditional LA/IE corridors. For multifamily: workforce housing demand will follow logistics jobs to Tejon Ranch and northern Kern County; affordable housing and labor-workforce rents will be key to attracting and retaining supply-chain workers in emerging logistics hubs. Consider Tehachapi, Bakersfield, and Kern County submarkets as emerging demand centers."
     },
     {
       "title": "Widening Influence Marked Lisa Pendergast’s Decade Leading CRE Finance Council",
@@ -62,117 +167,12 @@
       "cat": "Commercial",
       "date": "2026-07-27T18:00:06+00:00",
       "bullets": [
-        "Lisa Pendergast led Commercial Real Estate Finance Council for decade starting September 2016",
-        "CREFC advocacy organization represents CRE finance industry; Pendergast previously chaired; moved from Jefferies CMBS role",
-        "No concrete market impact disclosed; industry leadership profile only"
+        "Lisa Pendergast led CRE Finance Council (CREFC) for decade as head of advocacy for CRE finance industry",
+        "Pendergast transitioned from 30+ years CMBS strategy (Jefferies) to lead CREFC in September 2016",
+        "Profile notes her influence and advocacy leadership shaping CRE finance policy and market recovery"
       ],
-      "summary": "Lisa Pendergast has led the Commercial Real Estate Finance Council (CREFC), the trade group for CRE finance, for a decade beginning in September 2016. She transitioned from a 30-year capital markets career at Jefferies, where she headed CMBS strategy and risk. The article profiles her leadership expansion and advocacy work without disclosing specific policy or market outcomes.",
-      "impact": "Minimal direct bearing on multifamily development. CREFC advocacy on lending standards, capital availability, and regulatory policy can affect debt markets and underwriting criteria broadly, but this article is a personnel profile with no actionable market signals on rates, availability, or policy shifts affecting apartment financing."
-    },
-    {
-      "title": "U.K. Fashion Brand Manière De Voir to Open First U.S. HQ at 599 Broadway",
-      "link": "https://commercialobserver.com/2026/07/maniere-de-voir-lease-599-broadway/",
-      "excerpt": "The office staff of London-based fashion label Manière De Voir is making the jump across the pond. The fashion brand has signed an 11,200-square-foot office lease at 599 Broadway in Manhattan’s SoHo neighborhood to open its first U.S. headquarters, Commercial Observer has learned. The move comes as the retailer expands its presence in the U.S. market, according to landlord and tenant broker RTL. Manière De Voir will occupy the entire fifth floor of the SoHo building for five years. The retailer’s new office is just two blocks north of its SoHo retail store at 521 Broadway. &#8220;Manière De Voir was seeking a headquarters that put them steps from their SoHo flagship, inside a building whose tenant roster reflects the same creative, fashion-forward energy as the brand itself,&#8221; RTL’s Noah Rose, who brokered the deal for the tenant, said in a statement. &#8220;599 Broadway checked every box, and we&#8217;re excited to watch the company build out its U.S. presence from here.&#8221; The asking rent was $79 per square foot, according to a source close to the deal. Michael Glanzberg and James Costello from Sinvin Realty represented the landlord, DeBrill Realty. “The pace of office leasing for prime downtown markets such as SoHo, Tribeca and Hudson Square shows demand continues to far exceed supply,” Glanzberg told CO via email. “Deals like this reaffirm the remarkable breadth and depth of the post COVID-19 office demand recovery.” Built in 1917, 599 Broadway is a 12-story office property spanning 120,000 square feet. Other office tenants in the building near the corner of Broadway and West Houston Street include marketing and event production firm TH Productions and media company Preymaker. Amanda Schiavo can be reached at aschiavo@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-27T17:55:34+00:00",
-      "bullets": [
-        "U.K. fashion brand Manière De Voir leasing 11.2k SF at 599 Broadway SoHo for first U.S. HQ",
-        "5-year lease at $79/SF; tenant occupies entire fifth floor, 2 blocks from retail flagship at 521 Broadway",
-        "Lease reflects brand expansion into U.S. market; office tenant shows SoHo office/creative demand persistence"
-      ],
-      "summary": "London-based fashion retailer Manière De Voir has signed an 11,200-square-foot office lease at 599 Broadway in Manhattan's SoHo for its first U.S. headquarters. The five-year lease is at $79 per square foot and occupies the building's entire fifth floor, positioning the office two blocks north of the company's flagship retail store. The move reflects the brand's broader expansion into the U.S. market.",
-      "impact": "Minimal relevance to multifamily development. SoHo office lease signals retail/fashion tenant demand and office market liquidity in creative submarkets, but does not materially affect apartment supply, demand, or fundamentals in Manhattan or beyond. SoHo's office market is separate from multifamily underwriting; no downstream wage/employment growth is evident from a single HQ relocation."
-    },
-    {
-      "title": "Philip Morris Aurora ZYN Plant Opens, $600M Phase II on Way",
-      "link": "https://www.connectcre.com/stories/philip-morris-aurora-zyn-plant-opens-600m-phase-ii-on-way/",
-      "excerpt": "Philip Morris International just opened its $600 million ZYN manufacturing facility in Aurora. Now, the Denver Business Journal reports the company is already exploring phase two, which would double the investment. The current plant consists of a 780,000 square foot building on 148 acres. The doubling of the construction figure includes land acquisition, facility construction, advanced manufacturing equipment, infrastructure development and future production capabilities. Construction for the facility was expected to create nearly 5,000 construction-related jobs. Once fully operational, it is expected to generate $550 million in annual economic impact and support 1,000 indirect jobs. The Aurora campus includes production, packaging, warehousing and distribution in a single location, boosting the company’s supply chain. The need for this facility came after shortages of ZYN products hit the country in 2024. ZYN nicotine pouches, manufactured by PMI subsidiary Swedish Match North America, have been selling in the U.S. for more than 10 years. The post Philip Morris Aurora ZYN Plant Opens, $600M Phase II on Way appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-27T17:03:59+00:00",
-      "bullets": [
-        "Philip Morris opened $600M ZYN manufacturing plant in Aurora; Phase II would double to $1.2B total investment",
-        "Current facility: 780k SF on 148 acres; expected 1,000 permanent jobs plus 5,000 construction jobs",
-        "Aurora production addresses 2024 ZYN shortage; full build-out supports $550M annual economic impact"
-      ],
-      "summary": "Philip Morris International has opened a $600 million ZYN nicotine pouch manufacturing facility in Aurora and is exploring a Phase II doubling the investment to $1.2 billion. The current facility spans 780,000 square feet on 148 acres and will generate 1,000 permanent jobs and 5,000 construction-phase jobs, with an estimated $550 million annual economic impact. The expansion addresses product shortages that emerged in 2024.",
-      "impact": "Significant job creation (1,000 permanent) and operational workforce influx into Denver-Aurora metro will drive multifamily demand growth. Workers at manufacturing facilities typically earn middle-class wages and rent in 15–25 mile radius; expect sustained demand in Aurora/southeast Denver submarkets and spillover to adjacent areas. Construction phase (2025–2027) creates additional near-term temporary worker housing needs. Monitor Aurora for rent growth and new supply entitlement acceleration; this is a foundational demand catalyst for BTR development near the facility."
-    },
-    {
-      "title": "MAG Capital Partners Trades Triple-Net Industrial Portfolio to Starwood Property Trust Subsidiary",
-      "link": "https://www.connectcre.com/stories/mag-capital-partners-trades-triple-net-industrial-portfolio-to-starwood-property-trust-subsidiary/",
-      "excerpt": "MAG Capital Partners has completed the sale of more than 1.37 million square feet of long-term, net-leased industrial assets primarily acquired through its MAGCP Industrial Fund II, LP, in a six-property transaction with Fundamental Income Properties, a wholly owned subsidiary of Starwood Property Trust. The sale price was approximately $89 million. Dax T.S. Mitchell, principal and co-founder of MAG Capital Partners, said, &#8220;MAG Capital Partners continues to scale its various platforms, all focused on supporting U.S. manufacturers with growth capital needs through industrial real estate and corporate investment. This transaction is a testament to the strength and quality of the middle market, incredible operators, sponsors and the important role of manufacturing as a powerful American economic driver. The future is bright for net lease industrial.&#8221; The triple-net-lease portfolio consists of six industrial manufacturing properties across the Midwest. John Dehn and Eric Wood, SVs of MAG&#8217;s Phoenix office, worked on the disposition for the seller. The post MAG Capital Partners Trades Triple-Net Industrial Portfolio to Starwood Property Trust Subsidiary appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-27T16:58:17+00:00",
-      "bullets": [
-        "MAG Capital Partners sold 1.37M SF industrial portfolio (6 properties) to Starwood subsidiary for ~$89M",
-        "Triple-net-lease manufacturing assets across Midwest; sale price indicates 6.5% cap rate environment",
-        "Net-lease disposition reflects REIT appetite for industrial; middle-market manufacturing assets remain attractive"
-      ],
-      "summary": "MAG Capital Partners completed a $89 million sale of 1.37 million square feet of long-term, net-leased industrial assets across six Midwest properties to Fundamental Income Properties, a Starwood Property Trust subsidiary. The portfolio was primarily sourced through MAG's Industrial Fund II and consists of manufacturing properties. The transaction underscores continued REIT and net-lease investor interest in manufacturing real estate.",
-      "impact": "Minimal relevance to multifamily development. Industrial net-lease transactions reflect stable, lower-risk capital deployment favoring seasoned, tenant-credit assets; they do not signal job growth, supply constraints, or tenant demand shifts affecting apartments. The Midwest industrial base remains steady, but this sale alone does not create or constrain multifamily development opportunity."
-    },
-    {
-      "title": "Deutsche Bank Lends $85M for Miami Beach Condo Tower",
-      "link": "https://commercialobserver.com/2026/07/deutsche-bank-miami-beach-condos/",
-      "excerpt": "Northlink Capital has secured $85 million of construction financing to develop a Miami Beach luxury condominium project, Commercial Observer has learned. Deutsche Bank provided the loan, which will refinance past debt and fund ground-up construction of the 12-story condo tower at 7200 Collins Avenue in Miami Beach’s North Beach neighborhood. Arrow Real Estate Advisors arranged the transaction with a team consisting of Morris Betesh, Alex Bailkin and Matt O&#8217;Hanlon. &#8220;7200 Collins brings efficiently designed, accessibly priced residences to one of North Beach&#8217;s premier oceanfront locations,&#8221; Betesh, managing partner at Arrow Real Estate Advisors, said in a statement. &#8220;With 96 percent of units under contract at closing, the project reflects strong buyer demand.” The 274,150-square-foot condo towers will comprise 222 units ranging from studios to two-bedrooms. Resident amenities will include a beach club, a swimming pool, a fitness center and rooftop sundecks along with ground-floor retail. Northlink Capital and Deutsche Bank did not immediately return requests for comment. Andrew Coen can be reached at acoen@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-27T16:46:40+00:00",
-      "bullets": [
-        "Northlink Capital secured $85M construction financing from Deutsche Bank for Miami Beach condo tower",
-        "7200 Collins Avenue, North Beach; 222 units (studios to 2BR), 274k SF; 96% pre-leased at close",
-        "12-story luxury tower with beach club, pool, fitness; reflects strong Miami Beach luxury residential demand"
-      ],
-      "summary": "Northlink Capital has secured $85 million in construction financing from Deutsche Bank to develop a 222-unit luxury condominium tower at 7200 Collins Avenue in Miami Beach's North Beach neighborhood. The 274,150-square-foot, 12-story project had 96 percent of units under contract at financing close. Amenities include a beach club, pool, fitness center, and rooftop sundeck.",
-      "impact": "Strong pre-leasing signal (96% at financial close) confirms robust Miami Beach luxury residential demand and builder confidence in pricing power. However, this is for-sale condo, not rental; limited direct bearing on multifamily BTR/rental development, but indicates high-end residential market heat and pricing resilience in Miami Beach. Indirect signal: luxury condo strength may pull affluent renters out of rental pool, pressuring mid-to-upper-end rentals while anchoring demand for entry-level workforce housing."
-    },
-    {
-      "title": "Data Center Operator Pursuing $500M San Antonio-Area Facility",
-      "link": "https://www.connectcre.com/stories/data-center-operator-pursuing-500m-san-antonio-area-facility/",
-      "excerpt": "CyrusOne is pursuing the construction of a 460,000-square-foot data center in Medina County. The project is estimated to cost $500 million. The facility is at 3397 U.S. Highway 90 W., just west of San Antonio The project, identified as &#8220;SAT14A,” has an estimated completion date of June 2027. The data center operator purchased roughly 57 acres off Highway 90 approximately seven miles from downtown Castroville in January. CyrusOne operates data center campuses in San Antonio, Austin, Dallas-Fort Worth and Houston. In San Antonio, its footprint includes the SAT1, SAT2-SAT4 and SAT5-SAT6 campuses on the city&#8217;s West Side, according to the company&#8217;s website. The San Antonio Business Journal reports that industry experts say the area&#8217;s available land and access to power have made it increasingly attractive to data center developers. Connect Texas Multifamily in Dallas on August 13 brings together the owners, developers, brokers, investors, and lenders shaping the future of Texas multifamily for a day of market intelligence, networking, and actionable insights. Join 300+ decision-makers and be part of the conversations driving the Texas multifamily market. Register today:&nbsp;www.ConnectTXMF2026.com. The post Data Center Operator Pursuing $500M San Antonio-Area Facility appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-27T16:39:47+00:00",
-      "bullets": [
-        "CyrusOne pursuing 460k SF data center in Medina County, west of San Antonio; $500M construction cost",
-        "57-acre land purchase in January; completion targeted June 2027 at US 90 W, 7 miles from Castroville",
-        "CyrusOne operates existing campuses in San Antonio, Austin, DFW, Houston; area's land and power supply attractive"
-      ],
-      "summary": "CyrusOne is planning a 460,000-square-foot, $500 million data center in Medina County, west of San Antonio (Project SAT14A), on roughly 57 acres purchased in January. Completion is targeted for June 2027. The company already operates multiple data center campuses across San Antonio, Austin, Dallas-Fort Worth, and Houston, with the region's available land and power access driving expansion.",
-      "impact": "Major data center development signals sustained technology/cloud infrastructure investment in Texas; indirect demand driver for multifamily in San Antonio and surrounding areas. Data center construction creates 1,000–2,000 temporary construction jobs and 200–400 permanent operations roles with above-average wages, supporting rental demand in west San Antonio and satellite markets. However, data centers generate minimal ongoing commuter footprint compared to corporate HQ or manufacturing; impact is moderate relative to job density. Monitor spillover effects on workforce housing in Medina, Castroville, and west San Antonio submarkets."
-    },
-    {
-      "title": "Phoenix BTR Investor Inks $73.1M Bridge Loan",
-      "link": "https://www.connectcre.com/stories/phoenix-btr-investor-inks-73-1m-bridge-loan/",
-      "excerpt": "Golden Horizons Enterprises inked a $73.1 bridge loan on Merrick on Camelback, a 334-unit built-to-rent community in Phoenix, Arizona. The financing was arranged by Lument and originated by Arcus Real Estate Capital. The&nbsp;bridge loan has a three-year term with two one-year extension options.&nbsp;Golden Horizon Enterprises recently paid $112.5 million for what was then called Bungalows on Camelback (Co-Star). It has since changed the name to Merrick on Camelback. Arcus Harbor maintains an&nbsp;exclusive correspondent relationship&nbsp;with Lument, referring all Fannie Mae, Freddie Mac, and FHA loans it originates to Lument for underwriting, processing, and closing. Arcus clients also have access to Lument&#8217;s balance sheet lending and other non-agency financing solutions. Merrick on Camelback is a gated build-to rent community with one-, two-, and three-bedroom floor plans in single-level living and private detached units. Amenities include a dog park, dog washing station, fitness center, and swimming pool.&nbsp; Connect Texas Multifamily in Dallas on August 13 brings together the owners, developers, brokers, investors, and lenders shaping the future of Texas multifamily for a day of market intelligence, networking, and actionable insights. Join 300+ decision-makers and be part of the conversations driving the Texas multifamily market. Register today:&nbsp;www.ConnectTXMF2026.com. The post Phoenix BTR Investor Inks $73.1M Bridge Loan appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-27T16:24:15+00:00",
-      "bullets": [
-        "Golden Horizons Enterprises refinanced Merrick on Camelback (334-unit BTR) with $73.1M bridge loan via Arcus/Lument",
-        "3-year bridge with 2×1-year extensions; recent acquisition for $112.5M; single-level detached units, gated community",
-        "Bridge financing on BTR signals valuation uncertainty or repositioning play; likely bridge-to-stabilization or refi-to-permanent path"
-      ],
-      "summary": "Golden Horizons Enterprises secured a $73.1 million bridge loan on Merrick on Camelback, a 334-unit built-to-rent community in Phoenix, arranged by Lument and originated by Arcus Real Estate Capital. The company recently purchased the property for $112.5 million and rebranded it from Bungalows on Camelback. The three-year bridge carries two one-year extension options and features single-level detached units in a gated setting.",
-      "impact": "Bridge financing on recently acquired Phoenix BTR suggests stabilization-phase repositioning or capital stack optimization rather than distress. Phoenix BTR market remains competitive; bridge issuance indicates lender confidence in asset fundamentals and exit to permanent debt or sale. Local signal: Phoenix BTR supply growth and new owner entry (Golden Horizons) reinforce competitive market; marginal pressure on rents and occupancy in Phoenix submarket, but bridge terms imply strong operational performance. Monitor for permanent refi placement rates; if spreads widen, signals tightening BTR debt market."
-    },
-    {
-      "title": "AI Firm Corgi to Open 24/7 Cafe at 121 East 27th Street",
-      "link": "https://commercialobserver.com/2026/07/corgi-cafe-lease-121-east-27th-street/",
-      "excerpt": "Alert the Queen, here come the corgis! OK, not exactly. Corgi Cafe, a 24/7 coffee shop from Corgi, an artificial intelligence-powered insurance company — no, really — is getting ready to open its first location in New York City, Commercial Observer can first report. The tenant, which will operate a round-the-clock cafe selling coffee, drinks and snacks, took 1,223 square feet of retail space at the base of 121 East 27th Street in Manhattan’s NoMad neighborhood, according to broker Meridian Capital Group. Corgi Cafe will take over the spot from event space and cocktail venue J. Bespoke. The length of Corgi’s lease runs through 2034, and there is an option for a five-year renewal. The asking rent was not disclosed, but Meridian’s website notes a monthly rent of $14,925 for the space, which is about three blocks northeast of Madison Square Park. The average asking rent for retail space in the nearby Herald Square area was $394 per square foot during the second quarter of 2026, according to CBRE data. Meridian’s Max Freudenberger and Michael Escava brokered the deal. Corgi Cafe was represented by Andrew Taub and Grace Zimmer from Newmark. Newmark did not immediately respond to CO’s request for comment. “The momentum along East 27th Street has been remarkable over the past several years. We&#8217;re seeing an increasing number of quality restaurant concepts choose this corridor, creating a true neighborhood dining destination,” Freudenberger said in a statement. “Our priority was finding a structure that aligned both parties&#8217; objectives. Corgi Cafe moved decisively, knew exactly what they wanted, and the lease assignment allowed the transaction to come together efficiently while bringing an exciting new operator to the neighborhood.” Corgi Cafe, which did not immediately respond to CO’s request for comment, has other cafe locations in San Francisco and Atlanta. The company’s website lists several locations that are &#8220;coming soon,” including other New York City",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-27T15:40:25+00:00",
-      "bullets": [
-        "AI insurance company Corgi opening 24/7 cafe at 121 East 27th Street NoMad, Manhattan; 1,223 SF retail",
-        "Lease through 2034 with 5-year renewal option; implied monthly rent $14,925 (~$147/SF annualized); replaces event venue",
-        "Tenant is tech/AI startup; NoMad retail market averaging $394/SF in nearby Herald Square Q2 2026"
-      ],
-      "summary": "Corgi, an AI-powered insurance company, is opening a 24/7 cafe at 121 East 27th Street in Manhattan's NoMad neighborhood, taking 1,223 square feet of retail space at an implied $14,925 monthly rent. The long-term lease runs through 2034 with a five-year renewal option. The space previously housed an event and cocktail venue, and is located three blocks northeast of Madison Square Park.",
-      "impact": "Minimal relevance to multifamily development. Retail tenant lease (tech startup cafe) is a soft indicator of NoMad commercial activity and foot-traffic viability, but does not signal job creation, wage growth, or residential demand shifts affecting apartment development. Tech/AI tenancy in NoMad is known; a single 1,223-SF cafe lease does not materially move apartment supply/demand fundamentals. Long lease term and NoMad location stability are noted but not actionable for multifamily underwriting."
+      "summary": "Lisa Pendergast served as CEO of the Commercial Real Estate Finance Council (CREFC) for a decade, leading the trade advocacy organization after a 30-year career in CMBS strategy and risk at Jefferies. She began her CREFC tenure in September 2016 after initial reluctance. The article chronicles her influence in shaping CRE finance policy and market dynamics.",
+      "impact": "Minimal direct relevance to multifamily development and market signals. Profile is retrospective on personnel; no new capital markets, financing conditions, or rate/spread data provided. Monitor CREFC policy positions separately for CMBS market health, loan defaults, and refinancing risk that could signal distress or capital constraints in multifamily sector."
     }
   ]
 }
