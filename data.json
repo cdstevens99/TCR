@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-27T16:53:28.109295+00:00",
+  "fetchedAt": "2026-07-27T18:19:00.251616+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -9,21 +9,111 @@
     },
     {
       "label": "10Y Treasury",
-      "value": "4.63%",
-      "pct": -1.49
+      "value": "4.65%",
+      "pct": -0.68
     },
     {
       "label": "30Y Treasury",
-      "value": "5.12%",
-      "pct": -0.95
+      "value": "5.13%",
+      "pct": -0.58
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "100.57",
-      "pct": 1.9
+      "value": "100.52",
+      "pct": -0.29
     }
   ],
   "stories": [
+    {
+      "title": "Dedeaux Properties CEO Brett Dedeaux On SoCal’s Evergreen Industrial Pull",
+      "link": "https://commercialobserver.com/2026/07/dedeaux-california-industrial-tejon-ranch-regulations/",
+      "excerpt": "For Dedeaux Properties, California’s infamously arduous development environment can be both a hurdle and a competitive advantage. CEO Brett Dedeaux spoke with Commercial Observer about why the firm sees Tejon Ranch as such a compelling alternative to Los Angeles County and the Inland Empire, as well as how the state’s regulations can add value to entitlements, and why the company remains committed to its home turf. The following is the second of a two-part conversation, and has been edited for length and clarity. Click here for the first part. Commercial Observer: Tejon Ranch is rapidly expanding as an alternative logistics location. When did you start looking that far north? The construction site of the new plant. Photo by Frank Hammerschmidt/picture alliance via Getty Images Brett Dedeaux: A couple of years back, we bought land from Tejon Ranch and built about 230,000 square feet with excess trailer parking. That performed well, and we sold it to an owner-user in 2024, and that led to a broader joint venture with Tejon Ranch to build out more industrial space. Labor is a big part of the appeal for any logistics company. There is affordable labor and more affordable housing in Tejon Ranch. We kind of say, “Tejon Ranch is the Texas of California.” It is a very business-friendly environment where things get done relatively quickly. It is not as overly regulated. For big-box deals, if you have to go farther and farther east to Beaumont, Banning or the High Desert, Tejon Ranch is a competitive alternative from a drayage and transportation cost standpoint. You can easily get back into the L.A. Basin, but you can also service Northern California and the Western and Northwestern U.S. We also have plentiful power at Tejon Ranch, which is really key. Then look at the San Fernando Valley. If it seceded from the City of Los Angeles, I believe it would be one of the largest cities in the country. It has a large population base, a big manufacturing base, a lot of aerospace and ",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-27T18:05:48+00:00",
+      "bullets": [
+        "Dedeaux Properties built 230k SF industrial at Tejon Ranch, sold to owner-user in 2024",
+        "JV expanding industrial development at Tejon Ranch north of LA due to lower labor, housing costs",
+        "California's regulatory burden creates entitlement value; developers shifting to Tejon Ranch as alternative to LA/Inland Empire"
+      ],
+      "summary": "Dedeaux Properties is pursuing a broader joint venture with Tejon Ranch to develop industrial space after successfully building and selling a 230,000-square-foot logistics facility there in 2024. The company views Tejon Ranch as a compelling alternative to Los Angeles County and the Inland Empire, citing lower labor and housing costs as primary drivers. California's stringent regulations, while burdensome, create competitive advantage through entitlements for developers with experience navigating them.",
+      "impact": "Tejon Ranch emerging as viable logistics hub signals supply constraint in traditional Southern California industrial markets (LA, Inland Empire), driving developer migration northward. Expect sustained demand for Tejon Ranch industrial as labor arbitrage and regulatory relief attract logistics tenants; downstream implication is reduced supply pressure and stronger rent potential in established LA/IE markets, though at risk of longer-term cannibalization if Tejon absorbs incremental demand."
+    },
+    {
+      "title": "Trademark, Harrison Street Kicking Off Arlington Mall Redevelopment",
+      "link": "https://www.connectcre.com/stories/trademark-harrison-street-kicking-off-arlington-mall-redevelopment/",
+      "excerpt": "Trademark Property Company (Trademark) and&nbsp;Harrison Street Asset Management are ready to get started on the redevelopment of the 43-year old Lincoln Square. The joint venture partners&nbsp;are investing $135 million in the new venture, to be called Anthem. InterBank is providing refinancing and construction financing for the project. Trademark will lead a full renovation on the property. The redevelopment is scheduled to break ground next month with completion slated for early 2028.&nbsp;Activity will begin with the demolition of 70,000 square feet of vacated building space. Following demolition, Anthem is expected to feature 404,000 square feet of retail, food &amp; beverage, public spaces and entertainment space upon completion. Trademark is in final lease negotiations with more than 35,000 square feet of retail and food-and-beverage space. While the joint venture is primarily focused on creating a retail and entertainment destination, other mixed-use options will be considered. Partners on the project include design architect Dwell Design Studio and general contractor Joeris General Contractors, Connect Texas Multifamily in Dallas on August 13 brings together the owners, developers, brokers, investors, and lenders shaping the future of Texas multifamily for a day of market intelligence, networking, and actionable insights. Join 300+ decision-makers and be part of the conversations driving the Texas multifamily market. Register today: www.ConnectTXMF2026.com. The post Trademark, Harrison Street Kicking Off Arlington Mall Redevelopment appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-27T18:00:16+00:00",
+      "bullets": [
+        "Trademark/Harrison Street investing $135M to redevelop Arlington's 43-year-old Lincoln Square mall",
+        "Demolition of 70k SF vacated space; 404k SF retail/F&B/entertainment upon 2028 completion",
+        "Retail/F&B tenants in final lease negotiations for 35k+ SF; InterBank financing construction and refinance"
+      ],
+      "summary": "Trademark Property Company and Harrison Street Asset Management are partnering on a $135 million redevelopment of Lincoln Square, a 43-year-old enclosed mall in Arlington. The project will demolish 70,000 square feet of vacant space and deliver 404,000 square feet of retail, food-and-beverage, and entertainment uses by early 2028. Anchor tenants are in final negotiations for more than 35,000 square feet, with mixed-use options still being evaluated.",
+      "impact": "Dead mall redevelopment into mixed-use retail/entertainment is a recognized demand-side play, but minimal multifamily relevance unless full mixed-use scope includes residential. Arlington's continued retail/entertainment investment signals consumer confidence and foot-traffic viability, benefiting nearby multifamily projects competing on lifestyle and walkability; however, this project appears retail-led with secondary mixed-use consideration, so limited direct bearing on apartment development pipeline."
+    },
+    {
+      "title": "Widening Influence Marked Lisa Pendergast’s Decade Leading CRE Finance Council",
+      "link": "https://commercialobserver.com/2026/07/lisa-pendergast-cre-finance-council/",
+      "excerpt": "A decade ago, Lisa Pendergast was enjoying her role heading up commercial mortgage-backed securities (CMBS) strategy at financial giant Jefferies when words of encouragement set her off on a new career path. Pendergast, who at the time had nearly 30 years of capital markets experience under her belt, was urged to apply to lead the Commercial Real Estate Finance Council (CREFC), the trade group she had previously chaired. “A bunch of people said, ‘Lisa, this might be something you want to do,’ and I remember being really angry with them and pounding sand since I really loved my research job,” said Pendergast, who was head of CMBS strategy and risk in Jefferies’ fixed-income line from 2009 to 2016. “I talked to my husband and he was like, ‘You’ve been a member of CREFC, you were chair of CREFC, and you really love this organization,’ and it took me about three months to say I would talk to them and see how it goes.” Prendergast quickly embraced the opportunity. She began her leadership post with the advocacy organization for the CRE finance industry in September 2016 as executive director. Her titles changed to president and CEO in early 2025. She had previously served as CREFC’s chair in 2010 and 2011, and was a member of its board of governors for more than nine years. After nearly 10 years of captaining CREFC through myriad market cycles and challenges, Pendergast will be retiring from the leadership post effective Aug. 3. CREFC’s board of directors is still interviewing potential replacements. Filling Pendergast’s shoes will be far from easy given the strides made during her run at the top, including guiding a 30 percent membership increase while firmly establishing the organization as an influential voice for a range of CRE issues in Washington, D.C., and beyond. In addition to her role at Jefferies, Pendergast, who throughout her CRE finance career was consistently ranked as a top research analyst, also held senior positions at Royal Bank of Scotland and Prudent",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-27T18:00:06+00:00",
+      "bullets": [
+        "Lisa Pendergast led Commercial Real Estate Finance Council for decade starting September 2016",
+        "CREFC advocacy organization represents CRE finance industry; Pendergast previously chaired; moved from Jefferies CMBS role",
+        "No concrete market impact disclosed; industry leadership profile only"
+      ],
+      "summary": "Lisa Pendergast has led the Commercial Real Estate Finance Council (CREFC), the trade group for CRE finance, for a decade beginning in September 2016. She transitioned from a 30-year capital markets career at Jefferies, where she headed CMBS strategy and risk. The article profiles her leadership expansion and advocacy work without disclosing specific policy or market outcomes.",
+      "impact": "Minimal direct bearing on multifamily development. CREFC advocacy on lending standards, capital availability, and regulatory policy can affect debt markets and underwriting criteria broadly, but this article is a personnel profile with no actionable market signals on rates, availability, or policy shifts affecting apartment financing."
+    },
+    {
+      "title": "U.K. Fashion Brand Manière De Voir to Open First U.S. HQ at 599 Broadway",
+      "link": "https://commercialobserver.com/2026/07/maniere-de-voir-lease-599-broadway/",
+      "excerpt": "The office staff of London-based fashion label Manière De Voir is making the jump across the pond. The fashion brand has signed an 11,200-square-foot office lease at 599 Broadway in Manhattan’s SoHo neighborhood to open its first U.S. headquarters, Commercial Observer has learned. The move comes as the retailer expands its presence in the U.S. market, according to landlord and tenant broker RTL. Manière De Voir will occupy the entire fifth floor of the SoHo building for five years. The retailer’s new office is just two blocks north of its SoHo retail store at 521 Broadway. &#8220;Manière De Voir was seeking a headquarters that put them steps from their SoHo flagship, inside a building whose tenant roster reflects the same creative, fashion-forward energy as the brand itself,&#8221; RTL’s Noah Rose, who brokered the deal for the tenant, said in a statement. &#8220;599 Broadway checked every box, and we&#8217;re excited to watch the company build out its U.S. presence from here.&#8221; The asking rent was $79 per square foot, according to a source close to the deal. Michael Glanzberg and James Costello from Sinvin Realty represented the landlord, DeBrill Realty. “The pace of office leasing for prime downtown markets such as SoHo, Tribeca and Hudson Square shows demand continues to far exceed supply,” Glanzberg told CO via email. “Deals like this reaffirm the remarkable breadth and depth of the post COVID-19 office demand recovery.” Built in 1917, 599 Broadway is a 12-story office property spanning 120,000 square feet. Other office tenants in the building near the corner of Broadway and West Houston Street include marketing and event production firm TH Productions and media company Preymaker. Amanda Schiavo can be reached at aschiavo@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-27T17:55:34+00:00",
+      "bullets": [
+        "U.K. fashion brand Manière De Voir leasing 11.2k SF at 599 Broadway SoHo for first U.S. HQ",
+        "5-year lease at $79/SF; tenant occupies entire fifth floor, 2 blocks from retail flagship at 521 Broadway",
+        "Lease reflects brand expansion into U.S. market; office tenant shows SoHo office/creative demand persistence"
+      ],
+      "summary": "London-based fashion retailer Manière De Voir has signed an 11,200-square-foot office lease at 599 Broadway in Manhattan's SoHo for its first U.S. headquarters. The five-year lease is at $79 per square foot and occupies the building's entire fifth floor, positioning the office two blocks north of the company's flagship retail store. The move reflects the brand's broader expansion into the U.S. market.",
+      "impact": "Minimal relevance to multifamily development. SoHo office lease signals retail/fashion tenant demand and office market liquidity in creative submarkets, but does not materially affect apartment supply, demand, or fundamentals in Manhattan or beyond. SoHo's office market is separate from multifamily underwriting; no downstream wage/employment growth is evident from a single HQ relocation."
+    },
+    {
+      "title": "Philip Morris Aurora ZYN Plant Opens, $600M Phase II on Way",
+      "link": "https://www.connectcre.com/stories/philip-morris-aurora-zyn-plant-opens-600m-phase-ii-on-way/",
+      "excerpt": "Philip Morris International just opened its $600 million ZYN manufacturing facility in Aurora. Now, the Denver Business Journal reports the company is already exploring phase two, which would double the investment. The current plant consists of a 780,000 square foot building on 148 acres. The doubling of the construction figure includes land acquisition, facility construction, advanced manufacturing equipment, infrastructure development and future production capabilities. Construction for the facility was expected to create nearly 5,000 construction-related jobs. Once fully operational, it is expected to generate $550 million in annual economic impact and support 1,000 indirect jobs. The Aurora campus includes production, packaging, warehousing and distribution in a single location, boosting the company’s supply chain. The need for this facility came after shortages of ZYN products hit the country in 2024. ZYN nicotine pouches, manufactured by PMI subsidiary Swedish Match North America, have been selling in the U.S. for more than 10 years. The post Philip Morris Aurora ZYN Plant Opens, $600M Phase II on Way appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-27T17:03:59+00:00",
+      "bullets": [
+        "Philip Morris opened $600M ZYN manufacturing plant in Aurora; Phase II would double to $1.2B total investment",
+        "Current facility: 780k SF on 148 acres; expected 1,000 permanent jobs plus 5,000 construction jobs",
+        "Aurora production addresses 2024 ZYN shortage; full build-out supports $550M annual economic impact"
+      ],
+      "summary": "Philip Morris International has opened a $600 million ZYN nicotine pouch manufacturing facility in Aurora and is exploring a Phase II doubling the investment to $1.2 billion. The current facility spans 780,000 square feet on 148 acres and will generate 1,000 permanent jobs and 5,000 construction-phase jobs, with an estimated $550 million annual economic impact. The expansion addresses product shortages that emerged in 2024.",
+      "impact": "Significant job creation (1,000 permanent) and operational workforce influx into Denver-Aurora metro will drive multifamily demand growth. Workers at manufacturing facilities typically earn middle-class wages and rent in 15–25 mile radius; expect sustained demand in Aurora/southeast Denver submarkets and spillover to adjacent areas. Construction phase (2025–2027) creates additional near-term temporary worker housing needs. Monitor Aurora for rent growth and new supply entitlement acceleration; this is a foundational demand catalyst for BTR development near the facility."
+    },
+    {
+      "title": "MAG Capital Partners Trades Triple-Net Industrial Portfolio to Starwood Property Trust Subsidiary",
+      "link": "https://www.connectcre.com/stories/mag-capital-partners-trades-triple-net-industrial-portfolio-to-starwood-property-trust-subsidiary/",
+      "excerpt": "MAG Capital Partners has completed the sale of more than 1.37 million square feet of long-term, net-leased industrial assets primarily acquired through its MAGCP Industrial Fund II, LP, in a six-property transaction with Fundamental Income Properties, a wholly owned subsidiary of Starwood Property Trust. The sale price was approximately $89 million. Dax T.S. Mitchell, principal and co-founder of MAG Capital Partners, said, &#8220;MAG Capital Partners continues to scale its various platforms, all focused on supporting U.S. manufacturers with growth capital needs through industrial real estate and corporate investment. This transaction is a testament to the strength and quality of the middle market, incredible operators, sponsors and the important role of manufacturing as a powerful American economic driver. The future is bright for net lease industrial.&#8221; The triple-net-lease portfolio consists of six industrial manufacturing properties across the Midwest. John Dehn and Eric Wood, SVs of MAG&#8217;s Phoenix office, worked on the disposition for the seller. The post MAG Capital Partners Trades Triple-Net Industrial Portfolio to Starwood Property Trust Subsidiary appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-27T16:58:17+00:00",
+      "bullets": [
+        "MAG Capital Partners sold 1.37M SF industrial portfolio (6 properties) to Starwood subsidiary for ~$89M",
+        "Triple-net-lease manufacturing assets across Midwest; sale price indicates 6.5% cap rate environment",
+        "Net-lease disposition reflects REIT appetite for industrial; middle-market manufacturing assets remain attractive"
+      ],
+      "summary": "MAG Capital Partners completed a $89 million sale of 1.37 million square feet of long-term, net-leased industrial assets across six Midwest properties to Fundamental Income Properties, a Starwood Property Trust subsidiary. The portfolio was primarily sourced through MAG's Industrial Fund II and consists of manufacturing properties. The transaction underscores continued REIT and net-lease investor interest in manufacturing real estate.",
+      "impact": "Minimal relevance to multifamily development. Industrial net-lease transactions reflect stable, lower-risk capital deployment favoring seasoned, tenant-credit assets; they do not signal job growth, supply constraints, or tenant demand shifts affecting apartments. The Midwest industrial base remains steady, but this sale alone does not create or constrain multifamily development opportunity."
+    },
     {
       "title": "Deutsche Bank Lends $85M for Miami Beach Condo Tower",
       "link": "https://commercialobserver.com/2026/07/deutsche-bank-miami-beach-condos/",
@@ -32,12 +122,12 @@
       "cat": "Commercial",
       "date": "2026-07-27T16:46:40+00:00",
       "bullets": [
-        "Deutsche Bank finances $85M condo tower; 222 units, Miami Beach North Beach, 96% pre-sold.",
-        "Luxury residential project, 274K sq ft, efficient design targets accessible price point.",
-        "Strong buyer demand evident; oceanfront location, North Beach submarket desirability."
+        "Northlink Capital secured $85M construction financing from Deutsche Bank for Miami Beach condo tower",
+        "7200 Collins Avenue, North Beach; 222 units (studios to 2BR), 274k SF; 96% pre-leased at close",
+        "12-story luxury tower with beach club, pool, fitness; reflects strong Miami Beach luxury residential demand"
       ],
-      "summary": "Northlink Capital secured $85 million in construction financing from Deutsche Bank for 7200 Collins Avenue, a 222-unit luxury condo tower in Miami Beach's North Beach neighborhood. The project is 96 percent pre-sold at closing, with units ranging from studios to two-bedrooms. Strong pre-leasing signals robust luxury multifamily demand in this Miami Beach submarket despite broader market headwinds.",
-      "impact": "Pre-sales at 96% in a luxury condo project indicate sustained high-end residential demand in Miami Beach North Beach, validating the market's appetite for oceanfront product. For multifamily developers, this signals that primary-market, well-positioned coastal properties remain attractive; however, the condo structure (not BTR) and pre-sale velocity suggest limited direct lessons for rental product underwriting, though it confirms Miami's continued draw for wealth migration."
+      "summary": "Northlink Capital has secured $85 million in construction financing from Deutsche Bank to develop a 222-unit luxury condominium tower at 7200 Collins Avenue in Miami Beach's North Beach neighborhood. The 274,150-square-foot, 12-story project had 96 percent of units under contract at financing close. Amenities include a beach club, pool, fitness center, and rooftop sundeck.",
+      "impact": "Strong pre-leasing signal (96% at financial close) confirms robust Miami Beach luxury residential demand and builder confidence in pricing power. However, this is for-sale condo, not rental; limited direct bearing on multifamily BTR/rental development, but indicates high-end residential market heat and pricing resilience in Miami Beach. Indirect signal: luxury condo strength may pull affluent renters out of rental pool, pressuring mid-to-upper-end rentals while anchoring demand for entry-level workforce housing."
     },
     {
       "title": "Data Center Operator Pursuing $500M San Antonio-Area Facility",
@@ -47,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-07-27T16:39:47+00:00",
       "bullets": [
-        "CyrusOne pursuing 460K sq ft data center, $500M investment, San Antonio Medina County, completion June 2027.",
-        "57 acres purchased January 2026, Highway 90 corridor seven miles west downtown Castroville.",
-        "Land availability, power access, regional cluster (Austin, DFW, Houston) driving San Antonio appeal."
+        "CyrusOne pursuing 460k SF data center in Medina County, west of San Antonio; $500M construction cost",
+        "57-acre land purchase in January; completion targeted June 2027 at US 90 W, 7 miles from Castroville",
+        "CyrusOne operates existing campuses in San Antonio, Austin, DFW, Houston; area's land and power supply attractive"
       ],
-      "summary": "CyrusOne is developing SAT14A, a 460,000-square-foot data center in Medina County, Texas, with an estimated $500 million capital outlay and completion targeted for June 2027. The company already operates multiple campuses across San Antonio, Austin, Dallas-Fort Worth, and Houston. Industry experts cite available land and power infrastructure as key drivers of data center concentration in the San Antonio region.",
-      "impact": "Major data center investment signals infrastructure readiness and employer attraction in the San Antonio metro; this typically precedes white-collar job growth and population in-migration. Multifamily developers should monitor San Antonio submarkets near Highway 90 and the tech/data corridor for downstream demand acceleration—corporate relocation and mid-market talent hiring often lag data center construction by 12–24 months, creating a window to acquire land and underwrite product ahead of rent growth."
+      "summary": "CyrusOne is planning a 460,000-square-foot, $500 million data center in Medina County, west of San Antonio (Project SAT14A), on roughly 57 acres purchased in January. Completion is targeted for June 2027. The company already operates multiple data center campuses across San Antonio, Austin, Dallas-Fort Worth, and Houston, with the region's available land and power access driving expansion.",
+      "impact": "Major data center development signals sustained technology/cloud infrastructure investment in Texas; indirect demand driver for multifamily in San Antonio and surrounding areas. Data center construction creates 1,000–2,000 temporary construction jobs and 200–400 permanent operations roles with above-average wages, supporting rental demand in west San Antonio and satellite markets. However, data centers generate minimal ongoing commuter footprint compared to corporate HQ or manufacturing; impact is moderate relative to job density. Monitor spillover effects on workforce housing in Medina, Castroville, and west San Antonio submarkets."
     },
     {
       "title": "Phoenix BTR Investor Inks $73.1M Bridge Loan",
@@ -62,42 +152,12 @@
       "cat": "Commercial",
       "date": "2026-07-27T16:24:15+00:00",
       "bullets": [
-        "Golden Horizons Enterprises secures $73.1M bridge loan on 334-unit Phoenix BTR community.",
-        "Arcus Real Estate Capital originated; three-year term, two one-year extensions; purchased $112.5M.",
-        "Bridge financing on recently acquired asset signals value-add repositioning or hold-and-bridge strategy."
+        "Golden Horizons Enterprises refinanced Merrick on Camelback (334-unit BTR) with $73.1M bridge loan via Arcus/Lument",
+        "3-year bridge with 2×1-year extensions; recent acquisition for $112.5M; single-level detached units, gated community",
+        "Bridge financing on BTR signals valuation uncertainty or repositioning play; likely bridge-to-stabilization or refi-to-permanent path"
       ],
-      "summary": "Golden Horizons Enterprises obtained a $73.1 million bridge loan from Arcus Real Estate Capital on Merrick on Camelback, a 334-unit gated build-to-rent community in Phoenix, Arizona. The company acquired the property for $112.5 million, recently renamed it, and now carries a three-year bridge facility with two one-year extension options, suggesting a value-add operational plan.",
-      "impact": "Bridge financing on a recently acquired Phoenix BTR asset indicates lender confidence in the submarket's fundamentals and the sponsor's repositioning thesis, but also signals near-term execution risk if markets soften. For multifamily developers in Phoenix, this reflects ongoing investor appetite for mid-market BTR, but watch cap rate compression and refinance readiness; if bridge rates remain elevated through 2027–2028, projects dependent on rapid stabilization may face margin pressure."
-    },
-    {
-      "title": "Sales of U.S. Healthcare Real Estate Rise 77% Year-Over-Year",
-      "link": "https://www.connectcre.com/stories/sales-of-u-s-healthcare-real-estate-rise-77-year-over-year/",
-      "excerpt": "Sales of U.S. healthcare real estate rose 77% on a trailing 12-month basis in the second quarter of 2026, Avison Young reported. Meanwhile, net absorption reached 3.5 million square feet, continuing to exceed new deliveries, and occupancy rose to 92.4% while available space declined 4% year-over-year. One metric that is down from a year ago is the development pipeline: off 10% from Q2 2025. &#8220;We&#8217;re seeing a market that is increasingly defined by quality and scarcity,&#8221; said Jay Johnson, managing principal and healthcare sector leader, Avison Young. &#8220;Demand for well-located medical outpatient buildings remains strong, but the shrinking development pipeline could further tighten conditions and support rent growth in the years ahead.&#8221; Avison Young’s Q2 U.S. Healthcare Market Report highlights Houston, Los Angeles, Dallas, Chicago and Washington, DC as the nation&#8217;s most active healthcare leasing markets, while Los Angeles led investment sales activity during Q2. Rent growth is becoming more balanced across the quality spectrum, suggesting that demand is broadening beyond only the highest-quality assets, the report states. Pictured: The Bedford Collection, an outpatient medical portfolio in Beverly Hills, acquired in April 2026 by Douglas Emmett. The post Sales of U.S. Healthcare Real Estate Rise 77% Year-Over-Year appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-27T16:04:57+00:00",
-      "bullets": [
-        "Healthcare real estate sales rose 77% YoY through Q2 2026; net absorption 3.5M sq ft.",
-        "Occupancy 92.4%, available space down 4% YoY; development pipeline off 10% vs Q2 2025.",
-        "Houston, Los Angeles, Dallas, Chicago, Washington DC most active leasing; LA led investment sales."
-      ],
-      "summary": "U.S. healthcare real estate sales jumped 77% year-over-year in the trailing 12 months through Q2 2026, with net absorption reaching 3.5 million square feet and occupancy rising to 92.4%, according to Avison Young. However, the development pipeline contracted 10% from Q2 2025, and available space declined 4%, indicating a tightening market. Houston, Los Angeles, Dallas, Chicago, and Washington DC emerged as the nation's most active leasing markets.",
-      "impact": "Shrinking healthcare pipeline and strong absorption set the stage for sustained rent growth across major metros, particularly in top-five leasing markets (Houston, LA, Dallas, Chicago, DC). Multifamily developers should note that healthcare projects often anchor mixed-use or transit-oriented development; lack of new healthcare supply may benefit nearby residential projects by reducing competing office/medical demand for prime locations, though robust healthcare capital deployment signals broader metro health and could drive ancillary residential demand if job growth accelerates."
-    },
-    {
-      "title": "Triten Completes 3-Property Houston Apartment Portfolio Purchase",
-      "link": "https://www.connectcre.com/stories/triten/",
-      "excerpt": "Triten Real Estate Partners acquired 3 Corners West, a 283-unit apartment community in Houston&#8217;s Memorial/Spring Branch submarket. The acquisition completes Triten and Evergen Equity’s purchase of the three-property 3 Corners multifamily portfolio after the partnership acquired 3 Corners North and 3 Corners East in November 2025. Together, the portfolio spans 997 units across more than 35 acres along Kempwood Drive, giving the firm full ownership of one of the area&#8217;s largest multifamily communities. With the full portfolio under its ownership, Triten will implement a value-add strategy. The three projects were built between 1972 and 1982. Located at 10105 Kempwood Drive, the 3 Corners community features one-, two- and three-bedroom floor plans ranging from approximately 730 to 1,280 square feet. Amenities include multiple swimming pools, a fitness center, covered parking and landscaped courtyards. JLL represented the seller in the transaction, while Triten represented itself. Evergen Equity was Triten’s capital partner on the portfolio acquisition. Connect Texas Multifamily in Dallas on August 13 brings together the owners, developers, brokers, investors, and lenders shaping the future of Texas multifamily for a day of market intelligence, networking, and actionable insights. Join 300+ decision-makers and be part of the conversations driving the Texas multifamily market. Register today:&nbsp;www.ConnectTXMF2026.com. The post Triten Completes 3-Property Houston Apartment Portfolio Purchase appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-27T15:51:31+00:00",
-      "bullets": [
-        "Triten Real Estate Partners completes 3-property Houston portfolio acquisition; 997 units, 35+ acres.",
-        "3 Corners portfolio spans Memorial/Spring Branch submarket; assets built 1972–1982; value-add thesis.",
-        "Full ownership enables unified repositioning strategy; partnership with Evergen Equity capital."
-      ],
-      "summary": "Triten Real Estate Partners, with Evergen Equity as capital partner, completed acquisition of the three-property 3 Corners multifamily portfolio totaling 997 units across more than 35 acres in Houston's Memorial/Spring Branch submarket. The portfolio, built between 1972 and 1982, is now under unified ownership and will undergo a value-add repositioning strategy. Unit mix ranges from one to three bedrooms, approximately 730–1,280 square feet, with standard amenities.",
-      "impact": "Consolidation of three older assets into a single platform indicates investor confidence in the Memorial/Spring Branch submarket's fundamentals and value-add opportunity set. For multifamily developers, this reflects ongoing institutional capital appetite for stabilized, lower-basis vintage product in established Houston submarkets; competitive pressure for acquisition may be rising, but buildable land constraints in this area suggest limited new supply, which could support rent growth and justify continued investment in adaptive reuse and repositioning plays."
+      "summary": "Golden Horizons Enterprises secured a $73.1 million bridge loan on Merrick on Camelback, a 334-unit built-to-rent community in Phoenix, arranged by Lument and originated by Arcus Real Estate Capital. The company recently purchased the property for $112.5 million and rebranded it from Bungalows on Camelback. The three-year bridge carries two one-year extension options and features single-level detached units in a gated setting.",
+      "impact": "Bridge financing on recently acquired Phoenix BTR suggests stabilization-phase repositioning or capital stack optimization rather than distress. Phoenix BTR market remains competitive; bridge issuance indicates lender confidence in asset fundamentals and exit to permanent debt or sale. Local signal: Phoenix BTR supply growth and new owner entry (Golden Horizons) reinforce competitive market; marginal pressure on rents and occupancy in Phoenix submarket, but bridge terms imply strong operational performance. Monitor for permanent refi placement rates; if spreads widen, signals tightening BTR debt market."
     },
     {
       "title": "AI Firm Corgi to Open 24/7 Cafe at 121 East 27th Street",
@@ -107,72 +167,12 @@
       "cat": "Commercial",
       "date": "2026-07-27T15:40:25+00:00",
       "bullets": [
-        "AI insurance startup Corgi Cafe leasing 1,223 sq ft retail, 121 East 27th Street, Manhattan NoMad.",
-        "10-year lease through 2034, five-year renewal option; ~$14,925/month implied rent.",
-        "Herald Square area retail averaging $394/sq ft; non-traditional tenant signaling neighborhood evolution."
+        "AI insurance company Corgi opening 24/7 cafe at 121 East 27th Street NoMad, Manhattan; 1,223 SF retail",
+        "Lease through 2034 with 5-year renewal option; implied monthly rent $14,925 (~$147/SF annualized); replaces event venue",
+        "Tenant is tech/AI startup; NoMad retail market averaging $394/SF in nearby Herald Square Q2 2026"
       ],
-      "summary": "Corgi, an AI-powered insurance company, is opening Corgi Cafe, a 24/7 coffee shop, at 121 East 27th Street in Manhattan's NoMad neighborhood. The tenant secured 1,223 square feet of retail space with a lease through 2034 and a five-year renewal option, implying a rent of approximately $14,925 per month. The space was previously occupied by event venue J. Bespoke.",
-      "impact": "Limited direct multifamily impact; however, the NoMad neighborhood's continued evolution as a tech and startup hub signals ongoing knowledge-worker density and demand for urban residential. Non-traditional retail tenants (tech companies, startups) leasing smaller ground-floor spaces in NoMad suggest demographic resilience and may support premium residential rents nearby, though this is a tertiary signal relative to job market health and population retention."
-    },
-    {
-      "title": "The Developers Trying to Make New York’s 485-x Multifamily Incentive Work",
-      "link": "https://commercialobserver.com/2026/07/developers-making-485x-work/",
-      "excerpt": "It’s become fashionable in New York City commercial real estate to bash the state’s 485-x program, which provides tax incentives for new residential development in certain areas of the five boroughs in exchange for including affordable housing. The criticism revolves around 485-x’s higher construction wage requirements in much of Manhattan and large swaths of the outer boroughs for projects with more than 99 units. Hence, the number of 99-unit projects. There were at least 154 such permits between April 2024 — the month 485-x took effect — and April 2026, per the City Reporter. But only 1 percent of those projects were over 100 units, according to the City Reporter, which cited data from the New York City Department of Housing Preservation and Development. By comparison, more than half of the buildings under the old 421-a program were over 100 units in the years before that incentive expired in 2022, BK Real Estate Advisors Chairman and CEO Bob Knakal wrote in a February Commercial Observer op-ed. For some developers, though, especially those not among the city’s largest, the de facto magic number under 485-x works. Or at least they’re willing to try to make it work. Andrea Gjini, the founder of AG Holdings Group, is one such developer. He’s not going above the 99-unit mark, though he would if the arithmetic was favorable in the long run — but it isn’t, he told Commercial Observer. “I just did the filing in a project and I wanted to make 120 units, and I let 21 units go, because the math for the project was not making sense,” Gjini said in an interview in June. “Expenses are 25 to 30 percent higher, and when you see the refinances that are coming up, and when you see the interest that they keep going up and down, it feels very uncertain to take a shot and to go beyond that number.” Building more units can equate to greater delays on the regulatory side as well, with one three-month delay on a project at 19 East 198th Street resulting in Gjini making three $150,000 m",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-27T15:38:50+00:00",
-      "bullets": [
-        "485-x tax incentive program driving 99-unit cap; at least 154 permits April 2024–April 2026.",
-        "Only 1% of projects exceed 100 units under 485-x vs >50% under prior 421-a program.",
-        "Higher prevailing wage requirements in Manhattan, outer boroughs disincentivizing projects >99 units."
-      ],
-      "summary": "New York State's 485-x tax incentive program, which took effect in April 2024 and offers tax breaks for residential development with affordable housing, has created a de facto 99-unit cap due to higher prevailing wage requirements for projects exceeding 99 units in much of Manhattan and the outer boroughs. At least 154 permits for 99-unit projects were filed between April 2024 and April 2026, with only 1% exceeding 100 units, compared to over 50% under the prior 421-a program.",
-      "impact": "The 99-unit cap under 485-x is fragmenting New York's multifamily development pipeline into smaller, less efficiently scaled projects, raising per-unit construction costs and reducing density in opportunity areas. For developers, this shifts underwriting math—smaller projects may have lower absolute development risk but face worse unit economics; the prevailing wage structure effectively prices out mid-market sponsors and favors larger firms with capital scale, concentrating supply and limiting neighborhood-level product diversity."
-    },
-    {
-      "title": "The Athlete-Developers: Coming to a Community Near You",
-      "link": "https://commercialobserver.com/2026/07/athlete-developers/",
-      "excerpt": "The World Cup’s excitement may be over, but one of the most fascinating sports phenomena hasn’t been visible on fields or courts. A cadre of athletes has been channeling their professional star power to develop commercial real estate projects. And some of those ventures are happening in those athletes’ hometowns. Hence, an intriguing addition to the real estate deal-maker’s playground has been the rise of the athlete-developer. Athletes from the NBA, NFL and other leagues, both active and retired, are reinventing themselves. They are learning the fundamentals of commercial real estate. They are forming key relationships in the industry. Potentially, they constitute a catalyst for urban development — an assist as effective as a ball court pass from Jalen Brunson or A’ja Wilson. G. Lamont Blackstone. Courtesy: Project REAP To illustrate, former NFL player Ndamukong Suh — who grew up in Portland, Ore. — is developing a hotel and conference center in his hometown via his company HMS Development. And the former Chicago Bulls star Derrick Rose has announced his involvement in a $7 billion mixed-use project planned for Chicago’s Near West Side. Both Suh and Rose serve as examples of athletes who are coupling their financial capital with the acquisition of intellectual capital — i.e., the knowledge that enables them to be active partners in hometown development projects. Suh had previously graduated from college with a degree in construction engineering. Rose is taking real estate classes for a year to learn the commercial real estate business. But this phenomenon hasn’t gone completely unnoticed. Troy Vincent Sr., executive vice president of football operations for the National Football League, looks favorably on this intersection of professional sports and commercial real estate. Expressing kudos to Project REAP, a national CRE training program honored in the Congressional Record, Vincent recently stated, &#8220;… Project REAP is assisting professional athletes and emergi",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-27T15:28:53+00:00",
-      "bullets": [
-        "Retired and active professional athletes entering commercial real estate development; Ndamukong Suh, Derrick Rose cited.",
-        "Athletes leveraging hometown market knowledge and personal capital to develop hotels, mixed-use projects.",
-        "Emerging trend of athlete-developers as alternative sponsor class in underserved or secondary markets."
-      ],
-      "summary": "A growing cadre of professional athletes—both active and retired from NBA, NFL, and other leagues—are pivoting to commercial real estate development, often targeting their hometowns. Examples include former NFL player Ndamukong Suh developing a hotel and conference center in Portland, Oregon, via HMS Development, and former Chicago Bulls star Derrick Rose announced involvement in local real estate ventures. Athletes are leveraging their star power, local market relationships, and capital to drive development.",
-      "impact": "Minimal direct multifamily impact in this article, though athlete-developers may become viable sponsors in secondary and tertiary markets (Portland, Chicago neighborhoods) where celebrity brand equity and local ties can unlock development rights or community support. For multifamily developers competing in these markets, monitor athlete-backed projects as competitive entrants; they may have non-traditional capital sources and tolerance for longer hold periods, but often lack professional CRE operating infrastructure."
-    },
-    {
-      "title": "Lenovo Spending $145M on Greensboro-Area Plant Expansion",
-      "link": "https://www.connectcre.com/stories/lenovo-spending-145m-on-greensboro-area-plant-expansion/",
-      "excerpt": "Lenovo opened its new smart campus in Whitsett for everyone to see. The new campus is located near Lenovo’s fulfillment center. The multi-million dollar facility will be used to build servers and manufacture products for customers in North Carolina. The $145 million investment expands the Whitsett facility footprint to 890,000 square feet (twice its original size). Manufacturing operations are already underway at the expanded facility originally built in 2007, with more than 400 positions filled and hundreds of additional jobs expected as production continues to scale. The Triad Business Journal reports Lenovo received an incentive package from the Guilford County Board of Commissioners worth around $1.16 million. Called the North Carolina Smart Campus (NCSC), the NCSC is part of Lenovo’s global manufacturing network of more than 30 regional facilities strategically located close to customers across 11 markets, including Argentina, Brazil, China, Hungary, India, Indonesia, Japan, Mexico, Saudi Arabia, the United States, and Vietnam. Lenovo, is the world&#8217;s largest personal computer manufacturer. The post Lenovo Spending $145M on Greensboro-Area Plant Expansion appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-27T15:07:10+00:00",
-      "bullets": [
-        "Lenovo investing $145M to expand Whitsett plant to 890K sq ft; doubled original facility size.",
-        "400+ positions filled; hundreds additional jobs expected; manufacturing already underway.",
-        "Guilford County incentive package $1.16M; Whitsett near Lenovo fulfillment center, North Carolina Triad."
-      ],
-      "summary": "Lenovo is investing $145 million to expand its smart campus in Whitsett, North Carolina, doubling the facility footprint to 890,000 square feet. Manufacturing operations are already underway, with 400+ positions filled and hundreds more expected as production scales. The company received approximately $1.16 million in incentives from Guilford County, and the facility supports regional server build and product manufacturing.",
-      "impact": "Lenovo's major manufacturing expansion in the Greensboro/Triad region signals durable industrial-sector demand and blue-collar job creation; this typically generates downstream demand for workforce housing and rental apartments in secondary markets. Multifamily developers should monitor Greensboro, High Point, and Triad submarkets for 200–300-unit workforce housing opportunities; a $145M factory investment often correlates with 500–1000+ indirect jobs and population in-migration over 2–3 years, supporting mid-market multifamily rents and occupancy."
-    },
-    {
-      "title": "Brookfield Properties Rebrands as BGRE",
-      "link": "https://commercialobserver.com/2026/07/brookfield-properties-rebrands-as-bgre/",
-      "excerpt": "Brookfield Properties is now BGRE. The rebrand, announced Sunday, reflects the real estate arm’s growth as a global operator and developer. The overhaul is in title only, however, and carries no changes for business operations or personnel, according to the announcement. “The rebrand to BGRE enables the platform to define its market-facing approach and continue to build its reputation as a premier, global real estate operating platform,” the announcement said. BGRE’s parent company, Brookfield Corporation, traces its roots to 1899 in São Paulo, Brazil, where it began as the São Paulo Tramway, Light and Power Company. The company evolved and rebranded over the decades through a series of incorporations and mergers that brought operations to Canada, and, in 1996, to the U.S. Today, BGRE is the developer and operator of more than 330 million square feet of office, logistics, hospitality, retail and residential space around the world, including the Manhattan West commercial complex. The BGRE rebrand follows on the heels of two major moves by the Brookfield Corporation. In June, Brookfield offloaded the Australia-founded global construction company Multiplex for $650 million to Japan’s Obayashi. Just a few weeks later, in early July, it was reported that Brookfield was in talks to replace Hines in the $3.5 billion Hudson Square Properties joint venture with Trinity Church Wall Street and Norges Bank Investment Management. Emily Davis can be reached at edavis@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-27T14:31:22+00:00",
-      "bullets": [
-        "Brookfield Properties rebranded to BGRE; no operational or personnel changes; title-only rebrand.",
-        "BGRE operates 330M+ sq ft globally; office, logistics, hospitality, retail, residential; founded 1899.",
-        "Rebrand reflects growth as global real estate operator and developer; Manhattan West anchor portfolio."
-      ],
-      "summary": "Brookfield Properties announced a rebrand to BGRE (Brookfield Global Real Estate), effective immediately, to reflect the company's growth as a global real estate operating platform. The rebrand is title-only with no changes to business operations or personnel. BGRE operates more than 330 million square feet globally across office, logistics, hospitality, retail, and residential, and traces its roots to 1899.",
-      "impact": "Minimal direct impact; rebranding is a corporate positioning move that does not signal strategy shifts or market sentiment changes. For multifamily developers, BGRE's substantial residential and mixed-use portfolio (including Manhattan West) continues to represent a major institutional competitor; monitor their underwriting and deployment pace for signals on cap rate and market sentiment, but the rebrand itself carries no market signal."
+      "summary": "Corgi, an AI-powered insurance company, is opening a 24/7 cafe at 121 East 27th Street in Manhattan's NoMad neighborhood, taking 1,223 square feet of retail space at an implied $14,925 monthly rent. The long-term lease runs through 2034 with a five-year renewal option. The space previously housed an event and cocktail venue, and is located three blocks northeast of Madison Square Park.",
+      "impact": "Minimal relevance to multifamily development. Retail tenant lease (tech startup cafe) is a soft indicator of NoMad commercial activity and foot-traffic viability, but does not signal job creation, wage growth, or residential demand shifts affecting apartment development. Tech/AI tenancy in NoMad is known; a single 1,223-SF cafe lease does not materially move apartment supply/demand fundamentals. Long lease term and NoMad location stability are noted but not actionable for multifamily underwriting."
     }
   ]
 }
