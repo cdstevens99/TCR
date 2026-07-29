@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-29T15:45:04.634924+00:00",
+  "fetchedAt": "2026-07-29T17:05:52.841779+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -9,21 +9,126 @@
     },
     {
       "label": "10Y Treasury",
-      "value": "4.64%",
-      "pct": 0.76
+      "value": "4.65%",
+      "pct": 0.22
     },
     {
       "label": "30Y Treasury",
       "value": "5.12%",
-      "pct": 0.39
+      "pct": -0.02
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "100.58",
-      "pct": -0.37
+      "value": "100.65",
+      "pct": 0.11
     }
   ],
   "stories": [
+    {
+      "title": "Worth & Associates Acquires 108K-SF San Antonio Office Campus",
+      "link": "https://www.connectcre.com/stories/worth-associates-acquires-108k-sf-san-antonio-office-campus/",
+      "excerpt": "Worth &amp; Associates acquired The Commons at Concord Park, a four-building, 108,116 square-foot office campus located at 300 E. Sonterra Blvd in San Antonio&#8217;s Stone Oak submarket. It brings the company&#8217;s total owned portfolio to 3 million square feet. The Commons at Concord Park currently features 17,131 square feet of available space for lease, with suites ranging from 1,254 to 9,790 square feet. The campus is 85% occupied and includes a mix of single-story and two-story office buildings designed to accommodate a variety of professional office users. The property&#8217;s diverse tenant mix includes businesses spanning construction, logistics, medical research, healthcare and physical therapy services, reflecting the campus&#8217;s flexibility and broad market appeal. Worth &amp; Associates immediately assumed leasing and management following the acquisition. The firm plans to make several capital improvements throughout the property. Shawn Gulley represented Worth &amp; Associates, and Todd Mills at Cushman &amp; Wakefield represented The Commons at Concord Park in the transaction. Brookwood is listed as a former owner. Connect Texas Multifamily in Dallas on August 13 brings together the owners, developers, brokers, investors, and lenders shaping the future of Texas multifamily for a day of market intelligence, networking, and actionable insights. Join 300+ decision-makers and be part of the conversations driving the Texas multifamily market. Register today: www.ConnectTXMF2026.com. The post Worth &amp; Associates Acquires 108K-SF San Antonio Office Campus appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-29T17:01:09+00:00",
+      "bullets": [
+        "Worth & Associates acquired 108K-SF office campus in San Antonio Stone Oak.",
+        "Property 85% occupied; 17K SF available; diverse tenant mix (construction, logistics, healthcare).",
+        "Minimal relevance to multifamily development; office-focused transaction."
+      ],
+      "summary": "Worth & Associates acquired The Commons at Concord Park, a four-building, 108,116-square-foot office campus at 300 E. Sonterra Blvd in San Antonio's Stone Oak submarket. The property is 85% occupied with 17,131 SF of available space and a diverse tenant mix spanning construction, logistics, medical research, healthcare, and physical therapy. Worth plans capital improvements and assumed leasing and management immediately post-acquisition.",
+      "impact": "Minimal impact on multifamily development. This is an office transaction in a submarked with no noted demand pressure or supply constraints that would signal timing for residential development."
+    },
+    {
+      "title": "CBRE Reports Strong Q2 Earnings Amid Data Center Revenues, Office Leasing Gains",
+      "link": "https://commercialobserver.com/2026/07/cbre-q2-earnings-data-center-office-leasing/",
+      "excerpt": "Surging data center services revenue and a rebound in U.S. office leasing stood out in CBRE’s strong second-quarter results for 2026. During a Wednesday morning earnings call, the world’s largest commercial real estate services and investment firm reported $11.2 billion in second-quarter revenue, roughly in line with analysts’ estimates. Revenue grew annually by 15.5 percent, and increased over its first-quarter results by roughly 6.6 percent. CBRE’s earnings beat analysts’ expectations, with core earnings per share of $1.56. Adjusted profit rose to $459 million from $361 million a year earlier, stripping out one-off line items like fire-safety repairs on U.K. buildings. The firm’s second-quarter report included more than $700 million in revenue from data center services. U.S. office leasing notched a second-quarter record, too, in a welcome signal of continued commercial recovery. CBRE’s more volatile segments, like property sales, mortgage origination and leasing, saw revenue growth of 19 percent year-over-year. U.S. leasing revenues spiked by 24 percent, led by office and industrial activity. Most notably, U.S. office leasing generated its highest-ever second-quarter revenue, according to Emma Giamartino, CBRE’s chief financial officer. The strength was driven by gateway markets, as well as space upgrades from financial and legal tenants. CBRE’s global property sales saw increased revenues of 20 percent, with the U.S. tracking a 24 percent increase across most property types. Despite the strong performance, there’s still room for recovery. “On the leasing side, we&#8217;re still not back to 2019 levels,” Giamartino said. “We see there&#8217;s more room to go this year, and that will extend into next year. And on the sales side, we&#8217;re still pretty early. We&#8217;ve seen strong growth, but not near the levels of growth that we&#8217;ve seen coming out of other recoveries.” Infrastructure services, including data centers, emerged as CBRE’s fastest-growing bus",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-29T16:59:14+00:00",
+      "bullets": [
+        "CBRE Q2 2026 revenue $11.2B, +15.5% YoY; data center services exceeded $700M.",
+        "U.S. office leasing hit second-quarter record; leasing revenue +24% YoY.",
+        "Strong capital markets activity and transaction pipeline indicate improving fundamentals across sectors."
+      ],
+      "summary": "CBRE reported $11.2 billion in Q2 2026 revenue, up 15.5% year-over-year, with core EPS of $1.56 beating analyst expectations. Data center services exceeded $700 million in revenue, and U.S. office leasing hit a second-quarter record, with leasing revenues spiking 24% YoY. The firm's volatile segments (property sales, mortgage origination, leasing) saw 19% revenue growth YoY.",
+      "impact": "Rising capital markets activity and strong leasing velocity signal improving financing availability and transaction confidence across CRE, likely supportive for multifamily acquisitions and refinancings. However, the surge in data center services reflects capital flow away from traditional office/residential; multifamily developers should monitor whether office-to-residential conversion opportunities will emerge in secondary markets where office demand remains soft."
+    },
+    {
+      "title": "BXP Secures $1.2B Construction Loan for 343 Madison Avenue Office Tower",
+      "link": "https://commercialobserver.com/2026/07/bxp-construction-loan-343-madison-avenue-q2-earnings/",
+      "excerpt": "BXP, the largest Class A office owner in the country, has landed a $1.2 billion construction loan to build its 930,000-square-foot office tower development at 343 Madison Avenue in Midtown, the real estate investment trust (REIT) announced Wednesday morning during its second-quarter earnings call. The financing for BXP’s 46-story development came from Wells Fargo, Bank of America Securities, Bank of New York Mellon and J.P. Morgan Chase. The loan has a four-year initial term, plus a one-year extension option, according to BXP. Once construction is completed — a finish date is set for 2029 — the $2 billion project at 343 Madison Avenue will feature offices, dining spaces, terraces and plenty of amenities. The anticipated tower just west of Grand Central Terminal is also already 50 percent pre-leased, after insurance and investment giant C.V. Starr signed a 275,000-square-foot deal in October to anchor the property, and law firm McDermott Will &amp; Schulte took roughly 150,000 square feet there in April. Starr later expanded its initial lease by another two full floors. BXP executives said during Wednesday’s earnings call that the firm is in negotiations with two more prospective tenants, which would bring the building to nearly 70 percent pre-leased. CEO Owen Thomas said the REIT will lease the rest of the floors closer to delivery to secure “market-leading rents.” “The pricing power in Manhattan remains quite favorable to landlords, and it is expanding geographically,” Hilary Spann, executive vice president of BXP’s New York region, said during the call. “We are getting inbound interest at our highest-quality buildings and at 343 Madison at rents that are consistently 10 to 15 percent above where they were last year. … And, in the lower stack of our buildings where rents are slightly more affordable, we&#8217;re still seeing 20 percent increases year-over-year, and that is fundamentally because there&#8217;s a lack of available space in the market. So there’s great",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-29T16:44:18+00:00",
+      "bullets": [
+        "BXP secured $1.2B construction loan (Wells Fargo, BofA, JPMorgan, BNY Mellon) for 343 Madison.",
+        "930K-SF office tower; completion 2029; already 50% pre-leased (C.V. Starr 275K SF, McDermott 150K SF).",
+        "Financing strength in office development does not directly affect multifamily fundamentals."
+      ],
+      "summary": "BXP, the largest Class A office REIT, secured a $1.2 billion construction loan from Wells Fargo, Bank of America Securities, BNY Mellon, and JPMorgan Chase for its 930,000-square-foot, 46-story office tower at 343 Madison Avenue in Midtown Manhattan. The $2 billion project, set to complete in 2029, is already 50% pre-leased after C.V. Starr committed to 275,000 SF and McDermott Will & Schulte took 150,000 SF. The loan carries a four-year initial term plus one-year extension.",
+      "impact": "BXP's ability to secure $1.2B in construction financing at scale signals strong lender appetite for trophy Manhattan assets, but the focus on office (even Class A in prime Midtown) reflects residual capital concentration in office. Limited direct multifamily impact, though sustained office construction in Manhattan may compete for labor and materials in the region."
+    },
+    {
+      "title": "Newmark Tops Earnings Forecasts Aided by 16% Capital Markets Boost",
+      "link": "https://commercialobserver.com/2026/07/newmark-second-quarter-2026-earnings/",
+      "excerpt": "Newmark continued its 2026 momentum as a leading global real estate advisory firm this year by topping earnings forecasts for a second straight quarter thanks largely to a boost in its capital markets investment business. The company reported adjusted earnings per share of 39 cents for the second quarter to beat out Wall Street forecasts of 38 cents. Revenue also soared 17 percent from a year ago to $884 million, a second-quarter record for Newmark and higher than analysts’ estimates of $852.28 million. &#8220;Given Newmark&#8217;s strong results and healthy transaction pipeline, we continue to expect double-digit top- and bottom-line growth for the third consecutive year in 2026,” Newmark CEO Barry Gosin said during a second-quarter earnings call Wednesday morning. “We also anticipate that our investments in recurring revenue businesses, ongoing international expansion, improving industry fundamentals, and talented professionals will together drive Newmark&#8217;s long-term growth and market-share gains.&#8221; Capital markets revenues rose 16 percent, which Newmark attributed to a large increase in multifamily investment sales activity, particularly for senior housing and affordable housing assets. Gosin noted that Newmark is the No. 1 investment sales platform in affordable housing with a large percentage of that portfolio composed of properties backed by Section 8 and Low-Income Housing Tax Credits. He said there are strong tailwinds for affordable housing given the bipartisan political support in Washington, D.C., to confront the affordability issue. “It seems to be a popular word these days, and there is no disagreement between the Democrats and the Republicans with respect to the importance of building affordable housing,” Gosin said. “We managed to pick that just as we got into data centers two, three years ago ahead of the curve, which has given us some momentum in terms of multifamily.” The gains to Newmark’s capital markets business from investment sales ",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-29T16:37:54+00:00",
+      "bullets": [
+        "Newmark Q2 2026: revenue $884M (+17% YoY), adjusted EPS 39¢, beat forecasts.",
+        "Capital markets revenue +16%; company expects double-digit growth third consecutive year.",
+        "Strong transaction pipeline and capital markets momentum support active acquisition/disposition market."
+      ],
+      "summary": "Newmark reported Q2 2026 revenue of $884 million, up 17% year-over-year and a second-quarter record, beating analyst estimates of $852.28 million. Adjusted earnings per share came in at 39 cents, beating Wall Street forecasts of 38 cents. CEO Barry Gosin attributed growth to a 16% boost in capital markets investment business and expects double-digit top- and bottom-line growth for the third consecutive year in 2026.",
+      "impact": "Robust transaction advisory and capital markets activity signals strong deal flow velocity and lender confidence, creating favorable conditions for multifamily acquisitions, dispositions, and refinancings across major markets. The firm's international expansion and recurring revenue growth suggest capital availability for development and value-add plays."
+    },
+    {
+      "title": "Wolverine Mixed-Use Project Advancing in Arlington",
+      "link": "https://www.connectcre.com/stories/wolverine-mixed-use-project-advancing-in-arlington/",
+      "excerpt": "A new four-story, mixed-use development featuring apartments and a variety of shops, offices and restaurant space is planned for Downtown Arlington.&nbsp; Under the agreement between the city of Arlington and Wolverine Interests, Wolverine would invest at least $60 million by 2029 to redevelop the 500 and 600 blocks of West Abram Street and the 400 and 500 blocks of West Main Street for the mixed-use project. The future development is required to include: a minimum of 248 multifamily units a minimum of 15,000 square feet of commercial space, including office, retail, food and beverage and/or personal services a multi-level parking garage with at least 300 parking spaces In return for meeting performance requirements, the City would reimburse the developer up to $2,550,000 for eligible costs. The first item involves completing demolition of all existing structures and site remediation by Dec.15, 2026. The post Wolverine Mixed-Use Project Advancing in Arlington appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-29T16:34:31+00:00",
+      "bullets": [
+        "Wolverine Interests planning $60M mixed-use (apartments + retail/office) in Downtown Arlington by 2029.",
+        "City of Arlington offering up to $2.55M reimbursement for eligible costs under redevelopment agreement.",
+        "Project targets 500/600 blocks West Abram, 400/500 blocks West Main; demolition due Dec. 15, 2026."
+      ],
+      "summary": "Wolverine Interests and the City of Arlington entered an agreement for Wolverine to invest at least $60 million by 2029 to redevelop four downtown blocks (500 and 600 blocks of West Abram Street and 400 and 500 blocks of West Main Street) as a four-story mixed-use development featuring apartments, retail, offices, and restaurants. The city will reimburse the developer up to $2.55 million for eligible costs upon meeting performance requirements. Demolition of all existing structures and site remediation is due by December 15, 2026.",
+      "impact": "Tax increment financing (TIF) or cost-reimbursement incentives in Arlington downtown signal municipal appetite for residential-led mixed-use infill, likely driven by demand for walkable urban housing in a fast-growing DFW submarket. Public investment via incentives reduces developer risk and accelerates entitlements, making downtown Arlington a target submarket for mid-rise multifamily development over the next 2–3 years as supply lags demand in the region."
+    },
+    {
+      "title": "Bill Ackman’s Foundation Acquiring Two Upper West Side Buildings to House Brain Research Center",
+      "link": "https://www.connectcre.com/stories/bill-ackmans-foundation-acquiring-two-upper-west-side-buildings-to-house-brain-research-center/",
+      "excerpt": "Bill Ackman&#8217;s Pershing Square Foundation will pay $260 million to acquire two Upper West Side buildings that will house a brain research facility, according to published reports. The foundation acquired 125 West End Ave., which currently houses a 400,000-square-foot life sciences and research campus known as West End Labs, for $190 million, and has signed a $70-million contract for the neighboring 320 W. 66th St., along with additional development rights. If Ackman exercises the development rights, the brain research facility could span 700,000 square feet at full buildout, Fortune magazine reported. To be known as the Ackman Oxman Institute, the complex could eclipse the Rockefeller Institute for Medical Research and other significant health research facilities in New York City. The timeline for the research center&#8217;s opening is not known. However, it will be developed in partnership with Mount Sinai Hospital System. The Ackman Oxman Institute’s board is working on hiring its first CEO, Ackman told Fortune. Pictured: West End Labs. Photo courtesy of Taconic Investment Partners. The post Bill Ackman&#8217;s Foundation Acquiring Two Upper West Side Buildings to House Brain Research Center appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-29T16:07:25+00:00",
+      "bullets": [
+        "Bill Ackman's Pershing Square Foundation acquiring two Upper West Side NYC buildings for $260M.",
+        "West End Labs (125 West End Ave., $190M) + 320 W. 66th St. ($70M contract) for brain research center.",
+        "Ackman Oxman Institute could reach 700K SF at full buildout; partnership with Mount Sinai Hospital System."
+      ],
+      "summary": "Bill Ackman's Pershing Square Foundation is acquiring two Upper West Side buildings for $260 million to establish the Ackman Oxman Institute, a brain research facility. The foundation paid $190 million for 125 West End Avenue (currently West End Labs, a 400,000-SF life sciences campus) and signed a $70 million contract for 320 W. 66th Street with additional development rights. At full buildout, the institute could span 700,000 square feet and will be developed in partnership with Mount Sinai Hospital System.",
+      "impact": "High-net-worth anchor tenancy and institutional capital concentration in Upper West Side life sciences/research real estate signals sustained demand for knowledge-worker housing proximate to major medical institutions in Manhattan. The multi-hundred-million-dollar institutional commitment to build out a major research hub in the Upper West Side should drive rental demand for upscale apartments targeting doctors, researchers, and professionals; multifamily developers should prioritize UWS submarkets and proximity to Mount Sinai for institutional multifamily products."
+    },
+    {
+      "title": "Flexential Secures Land Outside Dallas for 375K-SF Data Center",
+      "link": "https://www.connectcre.com/stories/flexential-secures-land-outside-dallas-for-375k-sf-data-center/",
+      "excerpt": "Flexential purchased 110 acres in Kaufman County, Texas, to build its fourth and largest facility in the Dallas-Fort Worth metroplex. The planned 375,000-square-foot Phase 1 development, southeast of the DFW metro in Talty, has secured power to support 36 MW of capacity for wholesale and multi-tenant colocation workloads, including enterprise and high-density deployments. Site work is expected to begin in early 2027, with first customer availability in late 2028. The 110-acre campus has the potential to support three 36 MW data center buildings, for a total footprint of 108 MW, as additional phases are developed. The acquisition comes after&nbsp;Cushman &amp; Wakefield&nbsp;ranked Dallas the world&#8217;s top data center market for development and investment conditions based on more than 20 factors, including power and land availability and construction activity.&nbsp; The Talty facility will incorporate environmentally responsible, high-efficiency power systems and closed-loop cooling architecture to reduce energy consumption per megawatt of IT load. Talty is about 20 minutes east of Dallas. The post Flexential Secures Land Outside Dallas for 375K-SF Data Center appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-29T16:03:33+00:00",
+      "bullets": [
+        "Flexential purchased 110 acres in Kaufman County (Talty), southeast DFW, for 375K-SF data center Phase 1.",
+        "36 MW capacity Phase 1; site work early 2027; first customer availability late 2028; potential 108 MW total.",
+        "Dallas ranked world's top data center market by C&W; strong power, land, construction fundamentals."
+      ],
+      "summary": "Flexential purchased 110 acres in Kaufman County, Texas (Talty, southeast of DFW), to build its fourth and largest facility in the Dallas-Fort Worth metroplex. Phase 1 is a 375,000-square-foot data center with 36 MW of capacity for wholesale and multi-tenant colocation. Site work is expected to begin in early 2027, with first customer availability in late 2028. The 110-acre campus can support three 36 MW buildings (108 MW total) as additional phases develop. Cushman & Wakefield ranked Dallas the world's top data center market based on power, land availability, and construction activity.",
+      "impact": "Data center investment in Kaufman County (Talty, ~20 min east of Dallas) signals strong infrastructure and power development in exurban DFW, likely driving secondary job and population migration outward along the I-30 corridor. Multifamily developers should monitor Talty and surrounding Kaufman County submarkets for emerging demand from data center workers and supply-chain proximity; land costs and entitlements in exurban locations will remain attractive relative to prime DFW submarkets."
+    },
     {
       "title": "Arrow Arranges $85M Construction Loan for Miami Condo Project",
       "link": "https://www.connectcre.com/stories/arrow-arranges-85m-construction-loan-for-miami-condo-project/",
@@ -32,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-07-29T15:20:50+00:00",
       "bullets": [
-        "Deutsche Bank arranged $85M construction loan for 222-unit Miami Beach luxury condo",
-        "81% of units priced below $1M; 12-story tower in North Beach neighborhood",
-        "Refinances existing debt; ground-up construction through completion funding"
+        "Arrow Real Estate arranged $85M construction loan (Deutsche Bank) for Northlink Capital's Miami Beach condo.",
+        "7200 Collins Ave: 222-unit luxury condo, 12-story, 274K SF; 81% of units priced below $1M.",
+        "Condo-specific financing; minimal impact on rental multifamily development."
       ],
-      "summary": "Arrow Real Estate Advisors arranged an $85 million construction loan from Deutsche Bank for Northlink Capital's 7200 Collins Avenue, a 222-unit luxury condominium project in Miami Beach's North Beach. The 12-story, 274,150-square-foot tower offers studio, one-, and two-bedroom residences with an average unit size of 489 square feet; 81% of units are priced below $1 million. Financing refinances existing debt and funds ground-up construction through completion.",
-      "impact": "Miami Beach condo market shows sustained financing appetite for luxury for-sale product despite broader credit tightness. Below-$1M unit pricing signals developer confidence in demand from downsizers and primary-residence buyers, not speculative investment, which steers capital away from rental multifamily. This reinforces Miami's bifurcated market: condo capital remains available while rental development may face tighter underwriting."
+      "summary": "Arrow Real Estate Advisors arranged an $85 million construction loan from Deutsche Bank on behalf of Northlink Capital for 7200 Collins Avenue, a 222-unit luxury condominium project in Miami Beach's North Beach neighborhood. The 12-story, 274,150-square-foot residential tower will feature studios, one-, and two-bedroom units (avg. 489 SF); approximately 81% are priced below $1 million. Amenities include a beach club, pool, fitness center, ground-floor retail, and rooftop sundeck.",
+      "impact": "Strong construction financing for luxury condo product in Miami Beach signals lender appetite for deed-restricted residential real estate, but condo ownership does not compete directly with rental multifamily. However, $85M financing on a 222-unit project (~$383K per unit) reflects Miami Beach's continued appeal to institutional capital; rental multifamily developers should note that capital is flowing into both rental and for-sale product, suggesting near-term supply constraints in Miami rental stock and potential upside for Class A multifamily development in North Beach and adjacent submarkets."
     },
     {
       "title": "Richman Group, Monadnock Plan to Build 420 Units in East Harlem",
@@ -47,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-07-29T15:17:56+00:00",
       "bullets": [
-        "Richman Group and Monadnock plan 420-unit residential building at 243 East 125th Street, East Harlem",
-        "14-story mixed-use: 648k sq ft residential, 82k sq ft commercial, 10.7k sq ft community facility",
-        "Construction scheduled to begin early 2027; plans filed July 26 with NYC DOB"
+        "Richman Group and Monadnock JV filed DOB plans for 420-unit residential building at 243 E. 125th, East Harlem.",
+        "14-story mixed-use: 648K SF residential, 82K SF commercial, 10.7K SF community facility; construction early 2027.",
+        "65 parking spaces, 218 bike spaces; second through 14th floors each 28–38 units; two retail spaces."
       ],
-      "summary": "Richman Group and Monadnock Development filed plans with NYC Department of Buildings to construct a 420-unit residential building at 243 East 125th Street in East Harlem. The 14-story mixed-use development includes 648,000 square feet of residential space, 82,000 square feet of commercial space, and a 10,700-square-foot community facility. Construction is scheduled to begin by early 2027, with S9 Architecture as the registered architect.",
-      "impact": "East Harlem rental pipeline growth signals sustained developer confidence in East Harlem's gentrification arc and market-rate demand. Early 2027 start means delivery likely 2029–2030, placing this asset ahead of anticipated peak supply in Lower East Side/East Village submarkets. The community-facility component suggests public subsidy or tax incentive participation, indicating NYC's continued reliance on density to absorb workforce housing needs—watch for zoning or PILOT details affecting project economics."
+      "summary": "Richman Group and Monadnock Development filed Department of Buildings plans for a 420-unit residential building at 243 East 125th Street in East Harlem. The 14-story mixed-use building will include 648,000 SF of residential space, 82,000 SF of commercial space, and a 10,700-SF community facility. Construction is scheduled to begin by early 2027. The building will have 65 parking spaces, 218 bike storage, and two retail spaces across floors two through 14, each with 28–38 apartments per floor.",
+      "impact": "A 420-unit new-construction rental project in East Harlem signals sustained developer confidence in Manhattan outer-borough rental demand, likely driven by affordability-seeking relocations from Midtown and Upper West Side as those submarkets see institutional/corporate consolidation (e.g., life sciences hubs, trophy office). The project's scale and mixed-use profile (community facility, retail, parking) indicate strong neighborhood absorption fundamentals; multifamily developers should monitor East Harlem and upper Manhattan neighborhoods for similar demand signals and zoning-friendly environments for 14+ story multifamily projects."
     },
     {
       "title": "Vital Infrastructure REIT Buys East New York Outpatient Facility for $90M",
@@ -62,117 +167,12 @@
       "cat": "Commercial",
       "date": "2026-07-29T14:59:55+00:00",
       "bullets": [
-        "Vital Infrastructure REIT acquired 142,249 sq ft East New York medical facility for $89.9M",
-        "101 Pennsylvania Avenue leased to AdvantageCare Physicians New York as outpatient care hub",
-        "Toronto-based healthcare REIT capitalizes on stabilized, long-term medical tenant anchor"
+        "Vital Infrastructure Property Trust acquired East New York Health Hub (101 Pennsylvania Ave, Brooklyn) for $89.9M.",
+        "142K-SF outpatient facility leased to AdvantageCare Physicians New York; seller Jonas Rudofsky held since 2019.",
+        "Healthcare REIT acquisition; no direct multifamily impact."
       ],
-      "summary": "Vital Infrastructure Property Trust, a Toronto-based healthcare REIT, acquired the East New York Health Hub at 101 Pennsylvania Avenue in Brooklyn for $89.9 million. The 142,249-square-foot facility is leased to AdvantageCare Physicians New York as an outpatient care facility. The property was originally developed in 2019 and was sold by Jonas Rudofsky, former Newmark director.",
-      "impact": "Minimal direct impact on multifamily development. However, healthcare facility anchoring in East New York/Cypress Hills indicates infrastructure investment and job creation in a high-growth, affordable-housing-pressure submarket. This signals institutional capital confidence in the neighborhood's residential absorption and affordability-constrained rental market, potentially supporting rents and forward-looking multifamily development feasibility in the micromarket."
-    },
-    {
-      "title": "Stewards Inks $79M Refi of Hollywood Rental Asset",
-      "link": "https://www.connectcre.com/stories/stewards-inks-79m-refi-of-hollywood-rental-asset/",
-      "excerpt": "Stewards Inc. completed a $79 million refinancing of 1818 Park, its luxury multifamily residential community in downtown Hollywood, Florida. Multihousing News reports Stewards acquired 1818 Park last August for $190 million. 1818 Park is a 22-story luxury residential community offering studio, one-, two- and three-bedroom residences complemented by resort-style amenities, including coworking space, fitness facilities, resort-style pools and ground-floor retail. The property is currently approximately 94% occupied and benefits from its location in downtown Hollywood. The refinancing was completed with senior financing provided by Värde Partners and mezzanine financing provided by CCL Capital. The transaction was arranged by BayBridge Real Estate Capital, with Jay Miller, Spencer Miller, AJ Felberbaum and Noah Rothman leading the placement effort on behalf of the Company. On its website, Stewards touts that its integrated model combines technology-enabled small business finance, income-producing real estate, and emerging digital infrastructure, creating a diversified foundation for performance, stability, and scale. The post Stewards Inks $79M Refi of Hollywood Rental Asset appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-29T14:41:13+00:00",
-      "bullets": [
-        "Stewards Inc. completed $79M refinancing of 1818 Park, 22-story luxury multifamily in downtown Hollywood, Florida",
-        "Property 94% occupied; Stewards acquired asset August 2023 for $190M; senior and mezzanine financing secured",
-        "Värde Partners (senior) and CCL Capital (mezzanine) provided debt; arranged by BayBridge Real Estate Capital"
-      ],
-      "summary": "Stewards Inc. completed a $79 million refinancing of 1818 Park, a 22-story luxury multifamily community in downtown Hollywood, Florida, offering studio, one-, two-, and three-bedroom residences. The property is currently 94% occupied and was acquired by Stewards in August 2023 for $190 million. Senior financing came from Värde Partners and mezzanine financing from CCL Capital, arranged by BayBridge Real Estate Capital.",
-      "impact": "Refi at 41.6% LTV on a $190M August 2023 acquisition signals strong operational performance and stable cap rates in South Florida luxury rental market. High occupancy (94%) and successful refi in current rate environment demonstrate coastal Florida multifamily demand resilience. This validates development risk assumptions for premium assets in downtown Hollywood submarket and suggests cap-rate compression may be stabilizing—relevant for forward-looking acquisitions."
-    },
-    {
-      "title": "White Lodging Breaks Ground on Marriott-Branded Charlotte Hotel",
-      "link": "https://www.connectcre.com/stories/white-lodging-breaks-ground-on-marriott-branded-charlotte-hotel/",
-      "excerpt": "White Lodging will break ground this month on a new Autograph Collection (Marriott) hotel in Charlotte’s South End neighborhood, marking the company’s fifth Autograph property in its national portfolio of more than 60 hotels. Situated at the intersection of South Tryon Street and Bland Street, the project is the first full-service hotel in the South End. The 295-room luxury hotel will feature nearly 10,000 square feet of meeting space and a ground-floor restaurant. Amenities include an open-air pool deck on the hotel’s fifth floor, a public steam sauna, plus cold- and hot-plunge pools and a spa. A restaurant and bar at the hotel has been designed to serve as a community anchor in the South End neighborhood. Brasfield &amp; Gorrie is in charge of construction and Abeyta Architecture Studio &amp; Corgan Architects are designing the project. The post White Lodging Breaks Ground on Marriott-Branded Charlotte Hotel appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-29T14:24:44+00:00",
-      "bullets": [
-        "White Lodging breaking ground this month on 295-room Autograph Collection (Marriott) hotel in Charlotte South End",
-        "First full-service hotel in South End neighborhood; intersection of South Tryon and Bland streets",
-        "Brasfield & Gorrie managing construction; 10k sq ft meeting space, ground-floor restaurant, luxury amenities"
-      ],
-      "summary": "White Lodging is breaking ground on a new Autograph Collection (Marriott) hotel in Charlotte's South End neighborhood, the company's fifth Autograph property nationally. The 295-room luxury hotel will feature nearly 10,000 square feet of meeting space, a ground-floor restaurant, an open-air pool deck, spa, and plunge pools. The project is the first full-service hotel in the South End.",
-      "impact": "Not directly relevant to multifamily development. However, hospitality anchor in Charlotte South End signals neighborhood densification and amenity proliferation that typically precedes or accompanies mixed-use residential development. Ground-floor restaurant and resort positioning suggest strong urban walkability positioning in South End, which supports rental multifamily demand and rent growth in the micromarket over next 2–3 years."
-    },
-    {
-      "title": "EM Debt Emerges as Top Relative-Value Play for Yield",
-      "link": "https://www.connectcre.com/stories/em-debt-emerges-as-top-relative-value-play-for-yield/",
-      "excerpt": "Executive Summary Emerging market debt is regaining momentum after a three-year capital flight, with more than $17 billion of net inflows so far this year and improving sovereign credit quality supporting the case for both hard-currency and local-currency strategies. The trade remains sensitive to the U.S. dollar and geopolitics, but it is a compelling way to capture income, diversification and potential spread compression. Relative-Value Play Emerging market debt is reemerging as one of the strongest relative-value opportunities in global fixed income, as institutional investors rotate toward higher-yielding sovereign and corporate bonds amid improving credit conditions and slowing inflation across many developing economies. The asset class has reversed course following three consecutive years of capital outflows between 2022 and 2024. During the past 15 months, investor sentiment has improved markedly, with emerging market bond funds attracting more than $17 billion in net inflows this year. While emerging market debt still carries currency and geopolitical risks, the combination of attractive real yields, improving sovereign credit quality and portfolio diversification has strengthened its appeal relative to many developed-market fixed-income assets. Higher Real Rates Stand Out The widening gap in real interest rates between emerging and developed economies makes this trade a compelling one. Central banks in countries including Brazil, Colombia, Indonesia and Egypt tightened monetary policy aggressively during the global inflation cycle. As inflation has since moderated while policy rates remain elevated, one can now earn some of the highest inflation-adjusted yields available in global bond markets. By contrast, many developed economies continue to contend with persistent inflation, leaving real returns on government debt comparatively less attractive despite higher nominal yields. Emerging market corporate bonds also continue to offer a meaningful yield premium",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-29T14:12:45+00:00",
-      "bullets": [
-        "Emerging market debt attracting $17B+ net inflows in 2024 after three years of capital flight",
-        "Institutional investor rotation toward higher-yielding sovereign and corporate bonds in developing economies",
-        "Improving credit quality, slowing inflation, and real-yield advantages drive EM fixed-income appeal"
-      ],
-      "summary": "Emerging market debt is experiencing renewed investor appetite following three consecutive years of capital outflows between 2022 and 2024. Emerging market bond funds have attracted more than $17 billion in net inflows this year, driven by improving sovereign credit quality, slowing inflation, and attractive real yields. While currency and geopolitical risks remain, the asset class is reemerging as a compelling fixed-income opportunity offering diversification and income.",
-      "impact": "Indirect but material: capital rotation into EM debt may compete with U.S. multifamily debt and equity for institutional allocations, particularly from pension funds and endowments. Rising EM real yields could pressure multifamily cap rates and debt pricing if U.S. rates remain sticky. Monitor whether this signals broader fixed-income yield compression risk in 2025, affecting construction financing and acquisition cap rates across major metros."
-    },
-    {
-      "title": "Work Underway on 1,656-Bed University of Georgia Student Housing Venture",
-      "link": "https://www.connectcre.com/stories/work-underway-on-1656-bed-university-of-georgia-student-housing-venture/",
-      "excerpt": "Core Spaces (Core) closed financing and broke ground on the Hub Athens Dougherty, a new 1,656-bed purpose-built student housing community located near University of Georgia set to deliver in 2028. Multifamily News reports Hub Athens Dougherty will include 536 units and 1,656 beds across a mid-rise development, offering a mix of floor plans from studios to five-bedroom units, balancing premium layouts with more affordable options to serve a wide range of student needs. Amenities include more than 27,000 square feet of interior amenities and an additional 20,000 square feet of exterior amenity space, featuring study lounges, group study rooms, fitness and wellness areas, a resort-style rooftop pool, and common spaces designed to foster connection and community. Hub Athens will also have 16,000 square feet of retail space. Key development and design partners include Mallory &amp; Evans, JNS Realty, Northworks Architects. Construction is led by a joint venture between Core Spaces and Juneau Construction Company. Financing was provided by Affinius Capital and arranged by TSB Capital Partners. The post Work Underway on 1,656-Bed University of Georgia Student Housing Venture appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-29T14:06:50+00:00",
-      "bullets": [
-        "Core Spaces closed financing and broke ground on Hub Athens Dougherty, 1,656-bed student housing near University of Georgia",
-        "536-unit development delivering 2028; mix of studios to five-bedroom units; 27k+ sq ft interior and 20k sq ft exterior amenities",
-        "Affinius Capital financed; Core Spaces and Juneau Construction joint venture managing construction"
-      ],
-      "summary": "Core Spaces closed financing and broke ground on Hub Athens Dougherty, a 1,656-bed purpose-built student housing community near University of Georgia, set to deliver in 2028. The 536-unit mid-rise development offers a range of floor plans from studios to five-bedroom units, with more than 47,000 total square feet of amenity space. Affinius Capital provided financing, arranged by TSB Capital Partners, with construction led by a joint venture between Core Spaces and Juneau Construction Company.",
-      "impact": "Strong capital availability for student housing in Athens market signals investor confidence in college-town multifamily demand and demographic tailwinds. 2028 delivery aligns with broader student housing supply cycle; watch for Athens market saturation risk if competing projects break ground. UGA's enrollment trajectory and local job growth (healthcare, tech) will determine whether graduate and young-professional housing demand supports both student and market-rate rental absorption post-2028."
-    },
-    {
-      "title": "The Plan: With a Big Vacancy Looming, Durst Goes Big on Renovating 114 West 47th",
-      "link": "https://commercialobserver.com/2026/07/114-west-47th-durst-design/",
-      "excerpt": "Situated just off Sixth Avenue is 114 West 47th Street, a 26-story office building owned by the Durst Organization that is undergoing a major renovation. By 2029, this 600,000-square-foot Midtown Manhattan office asset will be equipped with a shining new lobby, high-quality tenant amenities, private terraces on seven floors, elevators, new chillers and other building system upgrades. The building also will feature office environments with ceiling heights between 12 and 14 feet, floor plates running between 18,000 and 32,000 square feet, and an abundance of natural light. “Durst built the building in 1989, and since then U.S. Trust — which was then bought by Charles Schwab, which was then bought by Merrill Lynch, which was then bought by Bank of America — has always occupied the lion’s share of the base of the building,” said Eric Engelhardt, senior vice president of commercial leasing at Durst. “Their lease will expire in the early part of 2028, and that has prompted us to bring nearly the entire building to market.” The four office tenants and one retail tenant currently in the building will remain during the renovations. “114 West 47th Street presents a rare moment for visionary companies to position themselves in prime Midtown with a renovated, world-class work environment,” Jody Durst, president of the Durst Organization, said in a statement announcing the renovation. In the lobby, Durst and architect HOK plan to add gray granite floors and concave paneled white oak walls, as well as soft seating to provide some tranquility and calmness for those arriving from the chaos of Sixth Avenue. “The original lobby was designed in the `80s, and it was really at the pinnacle of Postmodernism, and there was a lot of multi-use of stone,” said Kenneth Drucker, design principal at HOK. “There were three formal rooms, basically an entry vestibule, and then three spaces before you got to the elevator lobby. And what we wanted to do was unify all those spaces and create a sculpt",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-29T10:00:31+00:00",
-      "bullets": [
-        "Durst Organization renovating 114 West 47th Street, 600k sq ft Midtown Manhattan office, completing by 2029",
-        "Renovation includes new lobby, tenant lounge, private terraces, elevator upgrades, HVAC systems; existing tenants remain during work",
-        "Market-rate office repositioning amid significant Midtown vacancy; high ceiling heights (12–14 ft) and deep plates (18k–32k sq ft)"
-      ],
-      "summary": "Durst Organization is undertaking major renovations of 114 West 47th Street, a 600,000-square-foot Midtown Manhattan office asset, to be completed by 2029. The renovation includes a shining new lobby, tenant lounge and conferencing center, private terraces on seven floors, elevated ceiling heights (12–14 feet), large floor plates (18,000–32,000 square feet), and systems upgrades including new chillers and elevators. Four office tenants and one retail tenant will remain during construction.",
-      "impact": "Minimal direct multifamily impact. However, Durst's aggressive Midtown office capital deployment signals belief in office sector stabilization post-2027. If office conversion-to-residential thesis accelerates, Midtown's architectural quality (high ceilings, light, plate size) makes 114 West 47th a candidate for future residential conversion. Monitor Durst's capital allocation strategy—sustained office investment suggests conversion unlikely near-term, but watch for market signals if leasing momentum stalls post-2029."
-    },
-    {
-      "title": "Bill Ackman Buys 125 West End Avenue for $260M Brain Research Institute",
-      "link": "https://commercialobserver.com/2026/07/bill-ackman-buys-125-west-end-avenue/",
-      "excerpt": "Billionaire hedge funder Bill Ackman has kicked off his $260 million play to establish a brain research institute on Manhattan’s Upper West Side. Pershing Square Foundation, the philanthropic arm of Ackman’s fund, dropped $188 million to acquire 125 West End Avenue, according to city documents filed Tuesday. The 400,000-square-foot life sciences building planned for the site will eventually host Ackman’s massive brain research center, the Ackman Oxman Institute, Fortune first reported. The sale by Taconic Partners reportedly precedes another in-contract sale for the neighboring building, 320 West 66th Street, for roughly $70 million. Together, the acquisitions would secure Pershing Square Foundation an estimated 700,000 square feet of research and office space between West 65th and West 66th streets. Ackman told Fortune that the charitable venture was inspired by his 26-year-old daughter, Lucy, who previously suffered a brain hemorrhage, as well as his wife, Neri Oxman, who lost her mother to Alzheimer’s disease. Pershing Square Foundation has teamed up with Mount Sinai Hospital System to develop the research institute, although the development timeline is unclear. The life sciences and office spaces at 125 West End Avenue, also called West End Labs, appear largely vacant, according to the building’s website. The building belongs to a 3.4-acre campus, known as West End Campus, sold to Taconic by Silverstein Properties for $230 million in 2019. West End Campus also includes 320 West 66th Street and a vacant parcel. Taconic repositioned the campus as a purpose-built research and laboratory complex. Its previous lives include the American Broadcasting Company (ABC)’s former campus, a Chrysler Motor Company facility and printing facilities for The New York Times. Spokespeople for Pershing Square Foundation and Taconic did not immediately respond to requests for comment. Emily Davis can be reached at edavis@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-28T20:48:50+00:00",
-      "bullets": [
-        "Bill Ackman's Pershing Square Foundation paid $188M for 125 West End Avenue, Upper West Side Manhattan",
-        "400k sq ft life sciences building planned; combined with in-contract 320 West 66th Street (~$70M), total 700k sq ft research campus",
-        "Ackman Oxman Institute brain research center to anchor facility; strategic Upper West Side life sciences cluster investment"
-      ],
-      "summary": "Pershing Square Foundation, the philanthropic arm of hedge funder Bill Ackman, acquired 125 West End Avenue on Manhattan's Upper West Side for $188 million to establish a brain research institute. The 400,000-square-foot life sciences building will eventually host the Ackman Oxman Institute. Combined with an in-contract acquisition of the neighboring 320 West 66th Street (approximately $70 million), the foundation will control an estimated 700,000 square feet of research and office space between West 65th and 66th streets.",
-      "impact": "Significant long-term multifamily demand signal: large-scale life sciences anchor deployment on Upper West Side drives institutional job creation, talent attraction, and population in-migration into West 65th–77th corridor. This strengthens multifamily rental demand and supports rent growth in Upper West Side and adjacent Central West Side submarkets over 3–5 years. Watch for residential conversion or new ground-up multifamily development opportunities near the campus—life sciences clusters historically catalyze young professional housing demand and allow higher rents."
-    },
-    {
-      "title": "Goulston & Storrs Adds Brian Grindall to Real Estate Practice",
-      "link": "https://commercialobserver.com/2026/07/goulston-storrs-brian-grindall-washington-dc/",
-      "excerpt": "Brian Grindall, a veteran commercial real estate attorney who spent nearly 16 years at Tenenbaum &amp; Saas in Washington, D.C., has joined law firm Goulston &amp; Storrs, Commercial Observer has learned. Grindall has been added to Goulston &amp; Storrs’ real estate group as a director in the firm’s Washington, D.C., office. In addition to his time at Tenenbaum &amp; Saas where he ascended to partner, Grindall was previously a general counsel at development firm the Opus Group, according to his Linkedin profile. “Brian has built an impressive practice advising clients on their most significant transactions,&#8221; Paul Tummonds Jr., director and administrative head of Goulston &amp; Storrs&#8217; D.C. office, said in a statement. &#8220;His experience, practical business perspective, and ability to navigate complex real estate matters make him an outstanding addition to our firm.” In his more than two-decade legal career, Grindall has advised CRE parties on a variety of deals including acquisitions, dispositions, financing, leasing and development. His practice also involves advising on joint ventures, loan workouts and restructuring of distressed properties. Grindall earned his master’s in real estate from Johns Hopkins University, his law degree from New England Law and his B.A. from the College of Wooster. &#8220;Goulston &amp; Storrs has built an outstanding real estate platform and a reputation for delivering practical, business-focused counsel,” Grindall said in a statement. “I was drawn to the firm&#8217;s collaborative culture and the opportunity to work alongside a team that shares my commitment to helping clients solve complex real estate challenges.” Andrew Coen can be reached at acoen@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-28T20:44:08+00:00",
-      "bullets": [
-        "Brian Grindall, 16-year veteran at Tenenbaum & Saas, joins Goulston & Storrs as director in Washington D.C. office",
-        "Former Opus Group general counsel; expertise in acquisitions, dispositions, financing, leasing, development, joint ventures, loan workouts",
-        "Law firm expansion in D.C. reflects robust local real estate transaction demand and deal complexity"
-      ],
-      "summary": "Brian Grindall, a veteran commercial real estate attorney with 16 years at Tenenbaum & Saas in Washington, D.C., and prior service as general counsel at development firm Opus Group, has joined Goulston & Storrs as a director in the firm's Washington, D.C. office. Grindall's practice covers acquisitions, dispositions, financing, leasing, development, joint ventures, and loan workouts across major commercial real estate transactions.",
-      "impact": "Minimal direct impact on multifamily development strategy. However, elite law firm expansion in D.C. office market signals sustained deal velocity and complexity in the region—likely driven by multifamily and mixed-use development activity, fund formation, and institutional capital deployment. This suggests healthy transactional environment in Washington D.C. multifamily market, supporting development underwriting assumptions and financing availability for regional developers."
+      "summary": "Toronto-based Vital Infrastructure Property Trust acquired the East New York Health Hub at 101 Pennsylvania Avenue in Brooklyn for $89.9 million. The 142,249-square-foot medical facility is leased to AdvantageCare Physicians New York as an outpatient care center. The property was developed in 2019 and previously held by Jonas Rudofsky (Squarefeet.com owner and former Newmark director). Newmark represented both buyer and seller in the transaction.",
+      "impact": "Healthcare REIT capital acquisition of neighborhood medical infrastructure in East New York signals institutional appetite for essential-service real estate in outer-borough Brooklyn, but the transaction does not directly affect rental multifamily development. However, healthcare facility anchors in residential neighborhoods drive stable, local-serving job creation and foot traffic; multifamily developers entering East New York should note that institutional medical tenancy strengthens rental demand fundamentals by anchoring neighborhood economic activity."
     }
   ]
 }
