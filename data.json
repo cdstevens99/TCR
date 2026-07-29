@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-29T22:52:35.778914+00:00",
+  "fetchedAt": "2026-07-29T23:54:27.426574+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -25,6 +25,21 @@
   ],
   "stories": [
     {
+      "title": "Data Center Giant Equinix Ups Its 2026 Forecast Behind Robust Q2",
+      "link": "https://commercialobserver.com/2026/07/data-center-equinix-q2-earnings/",
+      "excerpt": "Equinix significantly increased its forecasts and expectations for 2026 after posting another record-heavy quarter on the back of artificial intelligence demand and more data center construction. The Redwood City, Calif.-based data center real estate investment trust (REIT) generated $2.63 billion in second-quarter revenue, up 7 percent from $2.44 billion in the first quarter and 16 percent from $2.26 billion a year earlier. Equinix said operating growth and one-time fees from the company’s xScale hyperscale business boosted its results. Net income reached $477 million, up from $415 million in the first quarter and $367 million during the second quarter of 2025. Net income attributable to common shareholders totaled $479 million, or $4.83 per share. Funds from operations (FFO), REITs’ main cashflow measure, rose to $854 million from $758 million in the previous quarter and $689 million a year earlier. Equinix delivered $424 million in annualized gross bookings, its highest second-quarter total and second-highest quarterly volume on record. Bookings increased from $378 million during the first quarter and $345 million in the second quarter of 2025. The company also generated approximately $110 million in presales. “The vast majority of our largest deals were driven by AI workloads,” CEO Adaire Fox-Martin said during the company’s Wednesday earnings call. She added that Equinix’s revised outlook “reflects a market opportunity that has materially improved over the past 12 months.” Stabilized data centers remained approximately 82 percent utilized, in line with the first quarter. The stabilized portfolio generated $1.89 billion in revenue, up 7 percent annually, while producing a 27 percent cash return on gross property investment, compared with 24 percent a year earlier. Equinix ended the quarter with 52 projects underway across 33 markets after adding nine since April, including new projects in Chicago and abroad. Capital expenditures rose to approximately $1.58 billi",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-29T23:15:23+00:00",
+      "bullets": [
+        "Equinix Q2 revenue $2.63B, up 16% YoY; raised 2026 guidance on AI/hyperscale demand",
+        "FFO rose to $854M from $689M YoY; xScale hyperscale business driving growth",
+        "Record-high Q2 gross bookings of $424M signal sustained data center construction pipeline"
+      ],
+      "summary": "Equinix posted record second-quarter revenue of $2.63 billion (up 16% YoY) and significantly raised 2026 forecasts, driven by artificial intelligence demand and hyperscale build-out. Net income reached $477 million and FFO climbed to $854 million, up 24% from the prior year. The company's xScale hyperscale business and one-time fees fueled the outperformance, with annualized gross bookings of $424 million marking the second-highest quarterly total.",
+      "impact": "Robust AI data center capex signals sustained commercial real estate and industrial demand across major metros, but more critically indicates a multi-year structural shift in tech employment and office consolidation toward smaller, specialized footprints in hubs like Austin, Phoenix, and Northern Virginia—affecting workforce composition and remote-work policy, which ripple into apartment demand patterns and submarket selectivity."
+    },
+    {
       "title": "U.S. Apartment Rents Post Eighth Consecutive Month of Growth",
       "link": "https://www.connectcre.com/stories/u-s-apartment-rents-post-eighth-consecutive-month-of-growth/",
       "excerpt": "U.S. apartment rents were essentially flat in July, with the national average rising +0.03% to $1,747 from June&#8217;s upwardly revised level of $1,746, CoStar Group&#8217;s Apartments.com reported Wednesday. This marks the eighth consecutive month of positive rent increases following a period of flat to declining monthly performance in the second half of 2025. On an annual basis, rent growth accelerated to +1.0% in July 2026 from the upwardly revised +0.9% in June and was slightly down from the +1.1% reading recorded one year earlier. June 2026 was initially reported as a +0.1% month-over-month increase and has been revised upward to +0.2%. Although apartment rent growth typically slows as the market moves further into the summer leasing season, gains in July were particularly subdued. &#8220;Following modest rent increases during the spring, the +0.03% increase recorded in July represents a notable slowdown in monthly pricing momentum,&#8221; according to Apartments.com. &#8220;While annual rent growth continues to improve gradually, elevated supply levels continue to restrain pricing momentum nationally.&#8221; Where the apartment industry connects. Meet the owners, investors, developers, lenders, brokers, and service providers driving today’s multifamily market at Connect Apartments. Build relationships, uncover opportunities, and stay ahead of what’s next. The post U.S. Apartment Rents Post Eighth Consecutive Month of Growth appeared first on Connect CRE.",
@@ -32,12 +47,12 @@
       "cat": "Commercial",
       "date": "2026-07-29T21:46:05+00:00",
       "bullets": [
-        "U.S. apartment rents +0.03% MoM in July 2026, +1.0% YoY; eighth consecutive month of positive growth.",
-        "Elevated national supply levels continue to restrain pricing momentum despite modest spring gains.",
-        "Monthly rent growth notably slowed in July despite typical summer leasing season patterns."
+        "National avg rent $1,747 in July; 8 consecutive months of positive growth post-soft 2025",
+        "Annual rent growth +1.0% in July, up from +0.9% in June but slightly below prior-year +1.1%",
+        "Elevated supply levels continue to restrain monthly pricing momentum despite consecutive monthly gains"
       ],
-      "summary": "U.S. apartment rents rose +0.03% month-over-month in July 2026 to a national average of $1,747, marking the eighth straight month of positive growth. Annual rent growth accelerated to +1.0% from +0.9% in June, but monthly momentum has notably slowed. Apartments.com attributes the subdued pricing to elevated supply levels restraining the market nationally, even as spring gains had been modest.",
-      "impact": "Elevated supply nationally is capping rent growth at historically weak levels (+1.0% YoY), signaling that new deliveries are outpacing demand absorption. Developers should expect continued downward pricing pressure until supply-demand rebalances; new projects must compete on location and amenity differentiation rather than rent premiums. This environment favors selective development in supply-constrained submarkets with strong job growth."
+      "summary": "U.S. apartment rents rose +0.03% month-over-month in July 2026 to $1,747, marking the eighth consecutive month of positive rent growth following soft pricing in late 2025. Annual rent growth accelerated modestly to +1.0% in July from +0.9% in June, though it trails the +1.1% rate recorded one year prior. CoStar flagged that elevated supply nationwide continues to cap pricing momentum even as monthly gains persist into the summer leasing season.",
+      "impact": "Sustained supply overhang is beginning to pressure rent growth acceleration nationally, signaling that new deliveries are outpacing absorption in key markets and absorption rates are slowing—a critical reality check for developers on market-by-market underwriting and the window for value-add repositioning deals (see Article 3) before cap rate compression cycles through and carry costs rise."
     },
     {
       "title": "Costa Mesa Multifamily Changes Hands for Value-Add Repositioning",
@@ -47,12 +62,12 @@
       "cat": "Commercial",
       "date": "2026-07-29T21:36:05+00:00",
       "bullets": [
-        "41-unit Costa Mesa multifamily sold for $16.9M ($412K/unit), +$550K above 2018 price.",
-        "Property marketed as rare low-density acquisition in Orange County's supply-constrained rental market.",
-        "Buyer acquired for value-add repositioning; prior ownership completed electrical upgrades and roof replacement."
+        "Costa Mesa 41-unit property sold for $16.9M ($412K/unit), $550K above 2018 price",
+        "Buyer: professional investor acquiring for value-add repositioning in supply-constrained Orange County",
+        "Prior ownership completed electrical, roof upgrades; asset marketed on supply scarcity and 2–3-bed floor plans"
       ],
-      "summary": "A 41-unit multifamily property at 1990 Maple Ave. in Costa Mesa sold for $16.9 million ($412,195/unit), approximately $550,000 above its 2018 sale price, brokered by Marcus & Millichap. The property attracted significant investor interest as a rare low-density opportunity in one of Orange County's supply-constrained markets, with two- and three-bedroom floor plans and recent capital improvements. The buyer plans value-add repositioning.",
-      "impact": "Costa Mesa's identified supply constraint and competitive bidding environment demonstrate strong investor appetite for scarce, well-maintained multifamily assets in Orange County. This signals durable demand in the submarket and validates rental strength; developers with land or acquisition opportunities in supply-constrained Orange County coastal/central submarkets can underwrite with confidence in sustained pricing power and buyer demand."
+      "summary": "Marcus & Millichap closed the sale of Sundance West Apartment Homes at 1990 Maple Ave. in Costa Mesa for $16.9 million ($412,195/unit), approximately $550,000 above its 2018 sale price. The low-density, 41-unit community—featuring mostly two- and three-bedroom units with recent capital improvements—attracted significant bidding from a professional investor targeting value-add repositioning. The broker emphasized Orange County's supply-constrained rental market as a draw.",
+      "impact": "Costa Mesa's supply constraints and small-building scarcity are sustaining pricing power and attracting value-add capital, but the modest unit count and density limit IRR potential—signaling that developers should focus on larger land parcels or assemblies in Orange County to achieve meaningful scale, particularly as supply constraints translate into sustained rent growth if absorption remains healthy."
     },
     {
       "title": "NYC Issues Partial Stop-Work Order at SL Green’s 750 Third Avenue Conversion",
@@ -62,12 +77,12 @@
       "cat": "Commercial",
       "date": "2026-07-29T21:31:52+00:00",
       "bullets": [
-        "NYC DOB halted SL Green's $805M office-to-residential conversion at 750 Third Ave. (680 units, +11 floors).",
-        "Partial stop-work order issued after steel columns not properly welded; work above 8th floor suspended.",
-        "Third Manhattan conversion halt this month; prior incidents at 235 East 42nd (MetroLoft) and 222 Broadway."
+        "NYC DOB issued partial stop-work at SL Green's $805M 750 Third Ave conversion (680 units, +11 floors)",
+        "Third office-to-residential conversion halted in July; prior incidents: 235 East 42nd buckled steel; 222 Broadway cracks",
+        "Steel columns not welded properly; inspectors halted all steel work above 8th floor at 34-story building"
       ],
-      "summary": "New York City's Department of Buildings issued a partial stop-work order at SL Green Realty's $805 million office-to-residential conversion at 750 Third Avenue in Midtown East, which was designed to deliver 680 units across 11 new floors. Inspectors found improperly welded steel columns and inconsistencies, halting all steel work above the eighth floor. This marks the third Manhattan conversion halt in July, following structural failures at MetroLoft's 235 East 42nd Street and cracks at 222 Broadway.",
-      "impact": "Repeated structural failures on major Manhattan office conversions signal systemic execution and quality-control issues in the conversion pipeline, likely triggering extended DOB inspections citywide. This will materially delay delivery timelines and increase hard costs (rework, engineering review, inspection delays) for all active and planned conversion projects in Manhattan, reducing near-term residential supply relief and extending the window for traditional new construction to capture rent growth."
+      "summary": "New York City's Department of Buildings issued a partial stop-work order at SL Green Realty's $805 million office-to-residential conversion at 750 Third Avenue in Midtown East, which is planned to yield 680 units and add 11 floors. The halt follows two other Manhattan conversion stoppages in July—a steel beam collapse at MetroLoft's 235 East 42nd Street and cracks discovered at GFP Real Estate's 222 Broadway project. At 750 Third, inspectors found improperly welded steel columns and stopped all steel work above the eighth floor.",
+      "impact": "A cluster of structural failures across three major Manhattan office-to-residential conversions signals potential systemic quality-control and design-review breakdowns that will likely trigger enhanced city inspection protocols, longer permitting cycles, and higher construction contingencies—pushing total development costs up and timelines out across the NYC conversion pipeline, which may force smaller sponsors to abandon marginal deals and consolidate opportunity among better-capitalized firms."
     },
     {
       "title": "New York Life Sees Leasing Momentum at 757 Third Ave. Amid Continued Renovations",
@@ -77,12 +92,12 @@
       "cat": "Commercial",
       "date": "2026-07-29T21:23:02+00:00",
       "bullets": [
-        "New York Life completed 24,107 SF of leasing at 757 Third Ave. (Midtown East office).",
-        "Four tenants signed leases; financial services and real estate firms dominate; one relocated from 200 Park Ave.",
-        "Landlord pursuing cosmetic renovations and new prebuilt office program to drive occupancy."
+        "New York Life completed 24,107 SF of leasing at 757 Third Ave. (Midtown East office)",
+        "Tenants: Dutchess Management (6,987 SF floor); Yuco relocated from 200 Park Ave.; Elite (6,960 SF); Wharton renewed",
+        "Landlord adding prebuilt office program and cosmetic lobby renovations during active leasing"
       ],
-      "summary": "JLL brokered 24,107 square feet of leasing activity at 757 Third Ave. in Midtown East, including full-floor leases for Dutchess Management (6,987 SF), Yuco Management relocating from 200 Park Ave. (6,960 SF), and Elite (6,960 SF), plus a renewal by Wharton Equity Partners (3,200 SF). New York Life is enhancing the property with cosmetic renovations and a prebuilt office program to attract additional tenants.",
-      "impact": "Moderate leasing activity and tenant relocations from other Midtown locations suggest modest recovery in Manhattan office demand, but not yet a surge. While this confirms some flight-to-quality, broader multifamily implications are limited—continued office softness in secondary locations may modestly reduce job growth/migration tailwinds in Midtown East residential markets. Watch for whether prebuilt models accelerate subletting and block new demand."
+      "summary": "New York Life achieved 24,107 square feet of leasing at 757 Third Avenue in Midtown East, including a full-floor expansion by Dutchess Management (6,987 SF), a full-floor lease by Yuco relocating from 200 Park Avenue, and a new floor lease by Elite (6,960 SF). Wharton Equity Partners renewed its 3,200-SF lease. The landlord is rolling out a prebuilt office program and planned cosmetic lobby renovations to support leasing momentum.",
+      "impact": "Steady leasing at mid-grade Midtown East office properties, buoyed by a new prebuilt program and light capex, indicates that trophy office is not the only segment capturing tenant demand—suggesting that developers and investors should consider selective repositioning of secondary/tertiary office assets rather than conversion in softer markets, as light modernization and flexible space can compete with conversions on time-to-lease and capital efficiency."
     },
     {
       "title": "BGO, Yukon Real Estate Partners Sell 291K-SF Kansas Cold Storage Facility",
@@ -92,12 +107,12 @@
       "cat": "Commercial",
       "date": "2026-07-29T21:19:53+00:00",
       "bullets": [
-        "BGO and Yukon sold New Century Cold Storage, 291K SF rail-served facility in Kansas to MetLife Investment Management client.",
-        "Plant-attached, build-to-suit warehouse purpose-built for CJ Logistics America in New Century AirCenter.",
-        "Industrial asset sale reflects investor demand for supply-chain-critical, purpose-built logistics infrastructure."
+        "BGO and Yukon sold 291K-SF rail-served cold storage in New Century, Kansas to MetLife client",
+        "Purpose-built, plant-attached facility for CJ Logistics; sale price not disclosed",
+        "Located in Johnson County Airport Commission's New Century AirCenter industrial park"
       ],
-      "summary": "BGO and Yukon Real Estate Partners sold New Century Cold Storage, a newly constructed 291,000-square-foot rail-served cold storage warehouse in New Century, Kansas, to a MetLife Investment Management client. The facility was purpose-built as a plant-attached build-to-suit for CJ Logistics America within the Johnson County Airport Commission's New Century AirCenter industrial park. The transaction highlights investor appetite for strategically located, supply-chain-integrated logistics assets.",
-      "impact": "Limited direct impact on multifamily development. However, cold storage and logistics expansion in Kansas/Johnson County markets signals job growth in industrial/supply-chain sectors, which may drive population and wage growth in regional housing markets over time. Monitor for broader logistics hub consolidation in the Midwest and resulting residential demand."
+      "summary": "BGO and Yukon Real Estate Partners closed the sale of New Century Cold Storage, a newly built 291,000-square-foot plant-attached, rail-served cold storage warehouse in New Century, Kansas, to a MetLife Investment Management client. The facility was purpose-built as a build-to-suit warehouse for CJ Logistics America and is strategically sited within the New Century AirCenter industrial park, integrating directly with food production and logistics operations.",
+      "impact": "Cold storage and specialized logistics infrastructure are capturing institutional capital (MetLife) and generating strong demand in secondary/tertiary industrial markets—a signal that last-mile and food-supply-chain logistics are driving employment and population into secondary metros like Kansas City, which will underpin apartment demand in adjacent residential markets; developers should monitor CJ Logistics' footprint expansion for residential job-creation signals."
     },
     {
       "title": "AI Platform Clay Leases 44K SF with Swig Company",
@@ -107,12 +122,12 @@
       "cat": "Commercial",
       "date": "2026-07-29T21:00:48+00:00",
       "bullets": [
-        "AI platform Clay leased 44K SF at Mills Building, 220 Montgomery St., San Francisco Financial District.",
-        "Swig Company has leased 102K+ SF YTD (21% of property); expects leasing momentum to continue.",
-        "Lease follows Swig's recent property refinancing; tech/AI tenant attraction supports downtown SF recovery narrative."
+        "AI platform Clay leased 44K SF at Mills Building (220 Montgomery St.), San Francisco Financial District",
+        "Swig Company has leased 102K+ SF YTD (21% of property); refinanced property two weeks prior",
+        "Spec suite initiative and focused leasing strategy driving momentum; lease rate $39/SF not specified for Clay"
       ],
-      "summary": "AI platform Clay signed a 44,000-square-foot lease at The Mills Building (circa-1891) in San Francisco's Financial District, brokered by Newmark. The Swig Company has leased over 102,000 square feet year-to-date (approximately 21% of the property) and expects continued momentum. The lease was announced two weeks after Swig refinanced the property, signaling improved credit availability and rising asset values in downtown San Francisco.",
-      "impact": "AI company expansion and spec-suite leasing momentum in downtown SF Financial District suggests renewed corporate demand and tech sector confidence in the submarket. This may drive talent in-migration and wage growth, strengthening residential demand in adjacent neighborhoods (SOMA, Mission Bay, South Beach). Watch for whether this catalyzes a broader downtown living trend and justifies new multifamily development in walkable SF submarkets."
+      "summary": "The Swig Company leased 44,000 square feet at The Mills Building (circa-1891 property at 220 Montgomery Street) in San Francisco's Financial District to artificial intelligence platform Clay. Swig has leased more than 102,000 square feet year-to-date (21% of the building) through a focused spec suite initiative and refinanced the property two weeks prior to Clay's lease. The company expects leasing momentum to continue throughout 2026.",
+      "impact": "AI companies are actively seeking downtown San Francisco office space at scale, signaling a reversal of tech-sector remote work and a re-concentration in major financial hubs—this employment influx will increase residential demand pressure in SF and Oakland submarkets, driving multifamily fundamentals and supporting conversion economics, but also intensifying competitive leasing for talent in an undersupplied residential market."
     },
     {
       "title": "City Selects Slate Property Group, Hudson Companies to Build 980 Homes in LIC",
@@ -122,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-07-29T19:24:05+00:00",
       "bullets": [
-        "Slate Property Group, Hudson Companies, Volunteers of America selected to build Orion: 980 homes in LIC (54-42 Second St.), Queens.",
-        "Two-thirds of units (≈653) set aside as affordable; project within 30-acre Hunter's Point South complex.",
-        "When complete, Hunter's Point South will feature ≈5,000 homes (≈3,000 affordable); city-driven development pipeline."
+        "NYC selects Slate Property Group, Hudson Companies, Volunteers of America for LIC project: 980 homes",
+        "70K-SF development ('The Orion') at 54-42 Second Street; 2/3 units affordable housing (circa 653 units)",
+        "Parcel E sits in 30-acre Hunter's Point South complex; eventual build-out: ~5K homes (3K affordable)"
       ],
-      "summary": "The city selected a developer team of Slate Property Group, Hudson Companies, and Volunteers of America to build the Orion, a 980-unit mixed-income residential project on a 70,000-square-foot parcel (54-42 Second St.) in Long Island City, Queens. Two-thirds of units will be affordable housing. The project is part of the larger 30-acre Hunter's Point South complex, which upon completion will feature approximately 5,000 homes, roughly 3,000 of which will be affordable.",
-      "impact": "Hunter's Point South represents a major city-driven multifamily delivery pipeline adding ~5,000 units to Queens over the next 5–7 years, with heavy affordable mandates that will suppress average rents in the submarket. Market-rate developers in LIC should target adjacent neighborhoods (Astoria, Ditmars, Dutch Kills) and focus on premium positioning to differentiate. Expect modest rent growth in LIC as supply inflates; stronger upside in undersupplied outer-Queens pockets."
+      "summary": "New York City selected a development team of Slate Property Group, Hudson Companies, and Volunteers of America to build approximately 980 homes on a vacant parcel in Long Island City, Queens. The project, called The Orion at 54-42 Second Street, will occupy 70,000 square feet with roughly two-thirds of units (approximately 653) designated as affordable housing. The site is part of the 30-acre Hunter's Point South complex, which is ultimately planned for approximately 5,000 new homes, with roughly 3,000 affordable units.",
+      "impact": "The city's commitment to large-scale, publicly-led mixed-income development in LIC will lock in affordable housing production and moderate near-term market-rate rent upside in Queens waterfront submarkets, but the multi-year timeline to build-out and the density of affordability requirements will compress developer returns and capital stacks—limiting private market appetite for competing market-rate projects in the immediate submarket until post-occupancy visibility emerges."
     },
     {
       "title": "AI Infrastructure Firm Treeswift Signs 7K-SF Lease at 256 West 38th Street",
@@ -137,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-07-29T19:14:34+00:00",
       "bullets": [
-        "AI infrastructure firm Treeswift signed 7,487 SF lease at 256 West 38th St., Midtown; $39/SF asking rent.",
-        "Four-year lease for entire 11th floor; Treeswift expanding NYC operations from Philadelphia base.",
-        "AI companies driving Manhattan office demand but seeking efficient, collaborative space outside trophy towers."
+        "TreeSwift (Philadelphia AI/infrastructure firm) signed 7.5K-SF lease at 256 West 38th, Midtown; $39/SF asking",
+        "Four-year lease on full 11th floor; expansion of NYC operations; no prior submarket disclosed",
+        "Landlord broker notes AI companies seeking efficient, well-connected HQ over trophy towers"
       ],
-      "summary": "Philadelphia-based AI infrastructure technology company Treeswift signed a four-year, 7,487-square-foot lease on the entire 11th floor of 256 West 38th Street in Midtown at $39/SF asking rent, expanding its New York City operations. Lee & Associates noted that AI companies are increasingly active office drivers in Manhattan but are seeking efficient, well-connected headquarters outside trophy buildings to support collaboration and attract talent.",
-      "impact": "AI-driven office demand is absorbing secondary Midtown space at modest rents ($39/SF) and filtering talent into the submarket, supporting residential demand in nearby neighborhoods (Hell's Kitchen, Midtown West). However, this demand is insufficient to offset broader Manhattan office decline; multifamily developers should monitor whether AI clusters (West Midtown, Flatiron, Brooklyn Tech Triangle) create durable residential hubs worthy of new construction."
+      "summary": "TreeSwift, a Philadelphia-based AI-driven infrastructure technology company, signed a four-year, 7,487-square-foot lease on the entire 11th floor of 256 West 38th Street in Midtown Manhattan at $39 per square foot, expanding its NYC operations. The company also maintains offices in Philadelphia. Landlord broker Lee & Associates noted that AI companies are increasingly seeking efficient, collaborative headquarters in secondary-tier office buildings rather than trophy towers.",
+      "impact": "AI firms' pivot to efficient, mid-market office in Midtown (not trophy towers) is driving selective demand in secondary office stock and compressing trophy office relevance—this capital and talent concentration in tier-2 office locations will support selective conversion economics and reduce the urgency for large format repositioning, while increasing residential demand pressure in Midtown corridors with easy transit access to tech employment clusters."
     },
     {
       "title": "PCCP, Stonemont Close on $1B-Plus Acquisition of Blackstone Industrial Portfolio",
@@ -152,27 +167,12 @@
       "cat": "Commercial",
       "date": "2026-07-29T18:57:54+00:00",
       "bullets": [
-        "PCCP and Stonemont acquired 5.9M SF industrial portfolio (38 assets, 14 markets, 10 states) from Blackstone for $1B+ on July 29.",
-        "Portfolio features diverse roster of tenants; off-market transaction brokered by Eastdil Secured.",
-        "Buyer cites strong leasing demand momentum and confidence in industrial sector and existing market footprints."
+        "PCCP, Stonemont acquired Blackstone industrial portfolio: 5.9M SF, 38 assets, 14 markets, 10 states for $1B+",
+        "Off-market transaction closed July 29; Eastdil Secured adviser; financing details unclear",
+        "PCCP cites strong leasing demand momentum and conviction in industrial markets actively invested in past 5 years"
       ],
-      "summary": "PCCP and Stonemont Financial Group closed the acquisition of a 5.9 million-square-foot industrial portfolio comprising 38 assets across 14 markets in 10 states for more than $1 billion, with Blackstone as the seller. The off-market transaction closed July 29, brokered by Eastdil Secured. PCCP cited strong recent leasing demand momentum and conviction in markets where the firm has actively invested over the past five years.",
-      "impact": "Mega-fund industrial acquisition signals continued investor confidence in logistics and supply-chain real estate, driven by durable e-commerce demand and post-COVID reshoring trends. This activity will likely push cap rates tighter and valuations higher, making speculative industrial development more attractive and competitive. Watch for secondary industrial submarkets (mid-tier metros in target markets) as acquisition targets, which may constrain land availability for alternative development, including multifamily."
-    },
-    {
-      "title": "Fed Holds Interest Rates in Warsh’s Second Meeting as FOMC Chair",
-      "link": "https://commercialobserver.com/2026/07/fed-interest-rates-kevin-warsh/",
-      "excerpt": "The second Federal Open Market Committee (FOMC) meeting under new Federal Reserve Chair Kevin Warsh signaled another reality check of higher-for-longer interest rates to the commercial real estate industry. In a 9-3 vote, the FOMC maintained its benchmark interest rate Wednesday at between 3.5 percent and 3.75 percent for the fifth straight meeting, citing inflation risks from ongoing war in Iran. Inflation remains well above the Fed’s 2 percent target at a time when Warsh has laid the groundwork for possibly changing its data approach when crafting monetary policy decisions. Warsh said in a post-meeting press conference that the FOMC doesn’t have a “soft target” for inflation and remains committed to the 2 percent annual rate as a chief goal. “We have begun a new chapter and we understand that the five-plus years of inflation above target cannot be cured in nine weeks or by a single month of modest price decreases,” Warsh said. “This Fed will not waver. Our credibility rests on performing our duties and delivering on our responsibilities.” The vote to maintain interest rates came with some dissent as FOMC regional presidents Beth M. Hammack of Cleveland, Neel Kashkari of Minneapolis and Lorie K. Logan of Dallas voted no, preferring instead to implement a quarter-point hike. Warsh’s second meeting leading the Fed after replacing Jerome Powell as chair in May occurred two weeks after he said during congressional testimony that the FOMC has “no tolerance for persistently elevated inflation.” Warsh also spoke to whether traditional inflation gauges such as the Consumer Price Index and the Producer Price Index (PPI) should be rethought. The new Fed chair appointed a task force in June that will examine whether the central bank’s long-standing inflation metrics needs to change, with findings expected later in the year. The latest data released by the the U.S Bureau of Labor Statistics showed CPI at 1.5 percentage points above the Fed’s 2 percent inflation target and PPI ",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-29T18:52:54+00:00",
-      "bullets": [
-        "Federal Reserve (Chair Kevin Warsh) held benchmark rate at 3.5%–3.75% in 9-3 FOMC vote; fifth consecutive hold.",
-        "Warsh commits to 2% inflation target; cites ongoing Iran conflict as inflation risk; signals higher-for-longer stance.",
-        "Fed emphasizes that 5+ years of above-target inflation cannot be cured quickly; credibility hinges on persistence."
-      ],
-      "summary": "The Federal Reserve, in Chair Kevin Warsh's second FOMC meeting, voted 9-3 to maintain the benchmark interest rate at 3.5–3.75% for the fifth consecutive meeting, citing inflation risks from ongoing geopolitical conflict. Warsh reaffirmed the Fed's commitment to a 2% inflation target and signaled that persistently above-target inflation (now 5+ years) cannot be reversed quickly, emphasizing the Fed's credibility depends on not wavering.",
-      "impact": "Higher-for-longer interest-rate environment locks in elevated borrowing costs for construction financing and acquisition debt, materially compressing development feasibility and cap rates. Rising rates reduce leverage capacity and increase hurdle rates for underwriting, narrowing the set of viable projects to best-in-class locations with strong sponsorship. Expect continued moderate construction starts and selective underwriting; projects with floating-rate exposure face refinance pressure in 18–24 months."
+      "summary": "PCCP and Stonemont Financial Group closed the acquisition of a 5.9 million-square-foot, 38-asset industrial portfolio spanning 14 markets across 10 states from Blackstone for upward of $1 billion. The off-market transaction, advised by Eastdil Secured, closed July 29, with financing details undisclosed. PCCP cited strong recent leasing demand momentum and strategic positioning in markets the firm has actively invested in over the past five years.",
+      "impact": "Institutional capital (PCCP/Stonemont) aggressively consolidating Blackstone's portfolio signals confidence in industrial fundamentals and rent-growth runway, but the $1B+ acquisition also suggests cap rates remain elevated enough to justify large-format portfolio plays—a market signal that ground-up industrial development and land assembly should remain attractive on the margin, particularly in secondary logistics hubs, though the scale of this acquisition may absorb available deal flow and compress cap rates inward."
     }
   ]
 }
