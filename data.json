@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-29T18:59:20.845573+00:00",
+  "fetchedAt": "2026-07-29T20:13:34.069749+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -9,35 +9,139 @@
     },
     {
       "label": "10Y Treasury",
-      "value": "4.63%",
-      "pct": 0.5
+      "value": "4.62%",
+      "pct": 0.39
     },
     {
       "label": "30Y Treasury",
-      "value": "5.13%",
-      "pct": 0.63
+      "value": "5.14%",
+      "pct": 0.92
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "101.03",
-      "pct": 0.08
+      "value": "100.70",
+      "pct": -0.25
     }
   ],
   "stories": [
     {
-      "title": "PCCP, Stonemount Close on $1B-Plus Acquisition of Blackstone Industrial Portfolio",
+      "title": "Three Votes for a Hike Shift the Fed’s Center of Gravity: Analysis",
+      "link": "https://www.connectcre.com/stories/three-votes-for-a-hike-shift-the-feds-center-of-gravity-analysis/",
+      "excerpt": "The Federal Reserve left its benchmark interest rate unchanged at 3.50% to 3.75%&nbsp;on Wednesday, extending its policy pause for a fifth consecutive meeting while delivering a clear signal that the debate inside the central bank has become increasingly hawkish.&nbsp; Although the decision was&nbsp;largely anticipated, the meeting was marked by a rare three-way dissent from Cleveland Fed President Beth Hammack, Minneapolis Fed President Neel&nbsp;Kashkari&nbsp;and Dallas Fed President Lorie Logan, who each favored raising rates by 25 basis points. It was the first time since 2016 that three Federal Open Market Committee members dissented in the same direction on a policy decision, suggesting momentum is building toward tightening should inflation remain stubborn.&nbsp; Another&nbsp;Pause, But Not a Pivot Market strategists said investors should not mistake&nbsp;Warsh&#8217;s&nbsp;decision&nbsp;as dovish.&nbsp;&#8220;The Fed&#8217;s decision to hold rates steady this week was our base case, but this was not a typical hold,&#8221; Juan Xavier Sánchez, head of wealth strategy at&nbsp;Activest&nbsp;Wealth Management, told Connect Money. &#8220;We said when Chairman Warsh took over that markets should prepare for more volatility as the Fed becomes less predictable, and that is exactly what is playing out.&#8221;&nbsp; Sánchez said the three dissents reinforce the committee&#8217;s increasingly hawkish bias and could strengthen Chair Kevin Warsh&#8217;s efforts to&nbsp;contain&nbsp;inflation expectations.&nbsp; Despite the uncertainty, he&nbsp;remains&nbsp;constructive on markets.&nbsp;&#8220;Corporate earnings have been resilient, and markets can absorb a less predictable Fed as long as earnings hold up,&#8221; Sánchez said. &#8220;The lesson of this year is simple: portfolios should be built to work whether the Fed hikes or holds, not on guessing the Fed correctly.&#8221;&nbsp; Energy Risks Keep Inflation in Focus The Fed&#8217;s challenge has become increasingly compl",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-29T20:07:41+00:00",
+      "bullets": [
+        "Fed held rates at 3.50–3.75%, but three FOMC members dissented in favor of 25bp hike.",
+        "First three-way dissent since 2016 signals hawkish momentum if inflation remains sticky.",
+        "Chair Warsh reinforces 2% inflation target as chief goal; credibility rests on commitment."
+      ],
+      "summary": "The Federal Reserve held its benchmark rate steady at 3.50–3.75% for the fifth consecutive meeting, but the decision carried a rare three-way dissent from regional Fed presidents favoring a 25 basis point increase. This is the first time since 2016 that three FOMC members dissented in the same direction, signaling rising internal pressure to tighten if inflation doesn't cool. Chair Kevin Warsh stated the Fed will not waver from its 2% inflation target and that five years of above-target inflation cannot be cured quickly.",
+      "impact": "The hawkish dissent and Warsh's rigid commitment to inflation targeting suggest cap rates and financing costs may not ease as quickly as some developers have priced into underwriting. While rates are on hold today, the institutional shift toward tightening means multifamily development pro formas should assume rate risk remains elevated through 2025; refinance and construction loan availability could tighten if inflation data surprises to the upside, compressing returns on new starts and lengthening hold periods for value-add plays."
+    },
+    {
+      "title": "NY Investor Snags First Folsom Apartments on Market in Four Years",
+      "link": "https://www.connectcre.com/stories/ny-investor-snags-first-folsom-apartments-on-market-in-four-years/",
+      "excerpt": "CBRE arranged the sale of Talavera, a 293-unit apartment community in Folsom, to New York-based Sentinel Real Estate. Talavera was the first asset to become available in the Folsom submarket in four years. CBRE’s Marc Ross, Eli Hanacek, Joe McNamara and Claire Holt represented the sellers, USA Properties &amp; Strand Financial. Pricing was not disclosed. &#8220;Talavera is the most compelling institutional multifamily opportunity to emerge in the Sacramento region in 20+ years, anchored by its coveted position in the Folsom submarket,&#8221; said Ross. &#8220;Top of the market demographics and schools, strong employment growth, high barriers to new construction, and exceptional location fundamentals have sustained deep investor demand, and Talavera is exceptionally well-positioned to capitalize on all of them.&#8221; Located at 1550 Broadstone Pkwy, the four-building community was built in 2020. Talavera is Folsom’s only elevator-served multifamily property. The property was 96% occupied at the time of sale. The post NY Investor Snags First Folsom Apartments on Market in Four Years appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-29T19:58:22+00:00",
+      "bullets": [
+        "Sentinel Real Estate (NYC) acquired Talavera, 293-unit Folsom, CA apartment; first submarket sale in 4 years.",
+        "Property built 2020, 96% occupied, only elevator-served multifamily in Folsom; strong employment and schools.",
+        "High barriers to new construction and deep investor demand sustain prices despite supply drought."
+      ],
+      "summary": "A New York-based investor, Sentinel Real Estate, purchased Talavera, a 293-unit multifamily community in Folsom, California, marking the first major apartment transaction in the submarket in four years. Built in 2020 and 96% leased at time of sale, Talavera is the only elevator-served apartment property in Folsom and sits on a coveted site near strong employment hubs and top-tier schools. The Folsom submarket boasts high barriers to new construction and has sustained deep institutional investor demand.",
+      "impact": "The four-year supply drought and institutional rush into a 293-unit asset signals severe undersupply in the Folsom/Sacramento corridor and validates rent growth tailwinds. The lack of new construction (high barriers) and strong employment fundamentals create a window for Trammell Crow to identify and acquire development sites in Folsom or nearby suburban Sacramento submarkets before competition intensifies; the Sentinel deal proves institutional capital is hungry for any quality product, supporting aggressive underwriting on new starts."
+    },
+    {
+      "title": "Friedman Real Completes Sale of Virginia Technology Center for $13M",
+      "link": "https://www.connectcre.com/stories/friedman-real-completes-sale-of-virginia-technology-center-for-13m/",
+      "excerpt": "Friedman Real Estate&#8217;s Derek DeLaura and Andreanna Grillo successfully completed the sale of an 81,426-square-foot Technology Center located at 813 Diligence Drive in Newport News, Virginia. Friedman represented the seller, a private investor, in the transaction. The buyer, Cove Capital, purchased the property for $13.4 million. Brian Brockman of Bang Realty was the in-state broker.Built in 1986, the property is situated on a site spanning more than six acres. The center also includes 370 parking spaces. Based in Michigan, Friedman Real Estate provides advisory, property management, multifamily, brokerage, and construction services. Join the Executives Driving Western Industrial Real Estate | August 20Hear from senior leaders representing the industry&#8217;s most active firms as they discuss investment strategy, market fundamentals, leasing trends, and emerging opportunities across the West Coast. Connect Industrial West is where industry leaders come together to share insights, build relationships, and identify what&#8217;s next for the sector. Secure your spot: www.connectindustrialwest2026.com The post Friedman Real Completes Sale of Virginia Technology Center for $13M appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-29T19:50:19+00:00",
+      "bullets": [
+        "Cove Capital purchased 81,426-sf Technology Center, Newport News, VA for $13.4M.",
+        "1986-built office on 6+ acres; transaction does not involve multifamily."
+      ],
+      "summary": "Friedman Real Estate arranged the sale of an 81,426-square-foot technology office center located at 813 Diligence Drive in Newport News, Virginia, to Michigan-based Cove Capital for $13.4 million. The 1986-built property sits on over six acres with 370 parking spaces.",
+      "impact": "Minimal relevance to multifamily development; this is a pure office/industrial asset sale with no housing component."
+    },
+    {
+      "title": "MassDevelopment Launches “Creative District” Pilot Program in North Adams",
+      "link": "https://www.connectcre.com/stories/massdevelopment-launches-creative-district-pilot-program-in-north-adams/",
+      "excerpt": "MassDevelopment on Wednesday announced an economic development pilot program in North Adams that will leverage arts and culture as drivers of growth while strengthening downtown revitalization efforts, supporting small businesses and creative entrepreneurs, and positioning the Northern Berkshires for future public and private investment. Funded by a $2.5-million Barr Foundation grant, the “Creative District” pilot program will run for three years. Through this pilot program, North Adams will be supported by a Creative District fellow, a full-time MassDevelopment employee who will work alongside local partners. The pilot program will also provide North Adams with access to a range of tools including technical assistance, flexible funding, and integrated arts and culture planning. “North&nbsp;Adams&nbsp;has built a strong identity around arts, culture, and creativity, making it a destination that attracts visitors, supports local businesses, and strengthens the regional economy,” said Economic Development Secretary Eric Paley, who serves as Chair of MassDevelopment&#8217;s Board of Directors. “This partnership with the Barr Foundation builds on those strengths by providing the resources, expertise, and local capacity to help the community grow while preserving what makes&nbsp;North&nbsp;Adams&nbsp;unique.” The post MassDevelopment Launches &#8220;Creative District&#8221; Pilot Program in North Adams appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-29T19:40:14+00:00",
+      "bullets": [
+        "MassDevelopment launches $2.5M 'Creative District' pilot in North Adams, MA for 3 years.",
+        "Program funds arts/culture-led downtown revitalization, small business support, and creative entrepreneur ecosystem.",
+        "Positioning Northern Berkshires for future public and private investment via placemaking."
+      ],
+      "summary": "MassDevelopment, with $2.5 million in Barr Foundation funding, announced a three-year \"Creative District\" pilot program in North Adams, Massachusetts aimed at leveraging arts and culture as economic drivers. The program will employ a dedicated Creative District fellow and provide technical assistance, flexible funding, and integrated arts and culture planning to strengthen downtown revitalization and support creative entrepreneurs. North Adams has an existing strong identity around arts, culture, and creativity.",
+      "impact": "Arts-led downtown revitalization programs create demand-side tailwinds for multifamily near cultural anchors; North Adams' focus on placemaking and small-business support can stabilize and grow the renter base over three years. Developers should monitor North Adams for emerging mixed-use or transit-oriented apartment opportunities tied to cultural programming and lower construction costs relative to Boston metros; the program signals city-backed stabilization that reduces downside risk on speculative residential infill."
+    },
+    {
+      "title": "CenterSquare Acquires Geneva Commons Retail Center",
+      "link": "https://www.connectcre.com/stories/centersquare-acquires-geneva-commons-retail-center/",
+      "excerpt": "CenterSquare has acquired a significant portion of Geneva Commons, adding the property to its essential service retail portfolio. Geneva Commons is located along Randall Road, and the center includes over 80 retailers and restaurants spread over 418,000 square feet. CenterSquare purchased six buildings totaling 87,649 square feet within the lifestyle destination. The latest addition brings the company&#8217;s portfolio to 81 acquisitions nationally.Geneva Commons is located in a dominant retail corridor with high visibility, and the property is 97% leased. Lamar Companies, in conjunction with Real Capital Solutions, acquired Geneva Commons for $63.8 million, down from the $124.5 million the seller, LaSalle Investment Management, paid for it in 2013. Lamar has invested over $2.4 million in capital improvements following the acquisition. The shopping center has seen continued leasing activity, recently signing 45,951 square feet of new retail and restaurant leases with new tenants including Lululemon, Warby Parker, Big Blue Swim School, Club Champion, Vera Bradley and Miniso. The post CenterSquare Acquires Geneva Commons Retail Center appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-29T19:30:05+00:00",
+      "bullets": [
+        "CenterSquare acquired six buildings totaling 87,649 sf within Geneva Commons retail, Randall Road, Chicago.",
+        "Center is 97% leased with 80+ retailers; recent leases include Lululemon, Warby Parker, Club Champion.",
+        "Transaction does not involve multifamily residential."
+      ],
+      "summary": "CenterSquare acquired six buildings comprising 87,649 square feet within Geneva Commons, a 418,000-square-foot lifestyle destination retail center along Randall Road in Chicago. The property is 97% leased and recently signed 45,951 square feet of new retail and restaurant leases. CenterSquare's acquisition adds to its national essential-service retail portfolio.",
+      "impact": "Not directly relevant to multifamily development; this is a retail-focused transaction. However, the strong leasing momentum and high occupancy at a major retail center suggest robust consumer spending and foot traffic in the Chicago Randall Road corridor, which could support mixed-use or nearby multifamily demand."
+    },
+    {
+      "title": "City Selects Slate Property Group, Hudson Companies to Build 980 Homes in LIC",
+      "link": "https://commercialobserver.com/2026/07/slate-property-group-hudson-companies-hunters-point-south-housing/",
+      "excerpt": "A development team made up of Slate Property Group, Hudson Companies and Volunteers of America has been chosen to create nearly 1,000 new homes upon a vacant parcel in Long Island City, Queens. The 70,000-square-foot development, at 54-42 Second Street, will be called the Orion, and two-thirds of its units will be set aside as affordable housing. “It is exactly what New York needs,” David Schwartz, principal and co-founder of Slate Property Group, said in a statement. “And we look forward to working with City Hall to get shovels in the ground as soon as possible.” The parcel sits within the 30-acre Hunter’s Point South housing complex. When completed, Hunter’s Point South is expected to feature approximately 5,000 new homes, roughly 3,000 of which will be affordable. The city’s Department of Housing Preservation and Development (HPD) began courting developers for the site, known as Parcel E, in June of last year. The request for proposals came with the requirement that Parcel E host more affordable homes than previous phases. The Orion will include approximately 980 new apartments. Two-thirds of the apartments, roughly 658 units, will be income-restricted, affordable to extremely low- to moderate-income households. Approximately 150 units will be set aside as supportive apartments. &#8220;Reaching households at every income level in a high-opportunity neighborhood like Hunter&#8217;s Point reflects a simple belief: Where New Yorkers live shouldn&#8217;t come down to income alone,” said Laszlo Syrop, principal and head of acquisitions at Hudson Companies. The mixed-use community, designed by Marvel Architects, will feature an affordable child care center, a workforce development center and a community pool. Approximately 6,000 square feet of ground-floor commercial retail space will also be made available along Second Street and Center Boulevard. Parcel E will be the sixth of seven parcels set to be developed at Hunter’s Point South. The complex already hosts more th",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-29T19:24:05+00:00",
+      "bullets": [
+        "Slate Property Group, Hudson Companies, Volunteers of America selected to develop 980 units at 54-42 Second Street, Long Island City, Queens.",
+        "Two-thirds (650+ units) set aside as affordable housing; part of 30-acre Hunter's Point South complex.",
+        "Hunter's Point South targeting ~5,000 total new homes (3,000 affordable) when fully built out."
+      ],
+      "summary": "A development team led by Slate Property Group and Hudson Companies has been selected to build \"The Orion,\" a new 980-unit apartment community at 54-42 Second Street in Long Island City, Queens. Two-thirds of the units will be affordable housing. The development sits within the 30-acre Hunter's Point South housing complex, which is expected to deliver approximately 5,000 new homes (roughly 3,000 affordable) upon completion. The city's HPD released the parcel for RFP in June of the prior year.",
+      "impact": "Hunter's Point South represents a rare, large-scale, city-backed residential pipeline in Queens with strong affordability mandates and public transit access (Metrorail). The 5,000-unit phase-out signals sustained demand-side growth in Long Island City and Queens; Trammell Crow should monitor adjacent or nearby parcels for market-rate or mixed-income opportunities as Hunter's Point South buildout progresses, as the project will anchor renter population and employment density in the waterfront corridor, creating secondary development opportunity windows."
+    },
+    {
+      "title": "AI Infrastructure Firm Treeswift Signs 7K-SF Lease at 256 West 38th Street",
+      "link": "https://commercialobserver.com/2026/07/treeswift-lease-256-west-38th-street/",
+      "excerpt": "An artificial intelligence-driven infrastructure technology company is relocating its offices to Midtown. Philadelphia-based Treeswift signed a four-year, 7,487-square-foot lease on the entire 11th floor of the Hakimian Organization’s 256 West 38th Street in an expansion of its New York City operations, according to landlord broker Lee &amp; Associates NYC. Asking rent was $39 per square foot. It is unclear where Treeswift is relocating from within New York City, but the company also has an office in Philadelphia. &#8220;Artificial intelligence companies have become one of the most active drivers of office leasing demand in Manhattan, but they are not all looking for trophy towers,&#8221; Lee &amp; Associates’ Todd Korren, who represented the landlord alongside Noah Caspi, said in a statement. &#8220;As these businesses grow, they are seeking efficient, well-connected headquarters that support collaboration, attract talent and provide long-term value. Treeswift&#8217;s relocation reflects that trend.” Daniel Rodriguez Sains of Buchbinder Warren negotiated on behalf of the tenant and did not immediately respond to a request for comment. Treeswift specializes in helping clients with infrastructure inspections, vegetation management, construction planning, wildfire mitigation and storm response, according to the brokerage. The firm will move into its new offices at 256 West 38th Street in August. It’s unclear when the Rex Hakimian-led firm got involved in the building’s ownership, but his name starts showing up on deed filings sometime after March 2025, when Empire Capital Holdings acquired the property and nearby 229 West 36th Street in a state of distress for a steep discount at $50 million. The seller, Investcorp, purchased the two buildings for $157 million in 2017, Commercial Observer previously reported. Mark Hallum can be reached at mhallum@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-29T19:14:34+00:00",
+      "bullets": [
+        "Treeswift (Philadelphia-based AI infrastructure firm) signed 7,487-sf lease, 256 West 38th Street, Midtown Manhattan.",
+        "Four-year lease at $39/sf; entire 11th floor; company expanding NYC operations.",
+        "AI companies increasingly active office tenants; seeking efficient, collaborative space, not trophy towers."
+      ],
+      "summary": "Philadelphia-based Treeswift, an AI-driven infrastructure technology company, signed a four-year lease for 7,487 square feet on the 11th floor of 256 West 38th Street in Midtown Manhattan at $39 per square foot. The deal reflects Treeswift's expansion of New York City operations. Brokers note that AI companies have become major drivers of office leasing in Manhattan but are increasingly seeking efficient, well-connected headquarters over trophy tower space.",
+      "impact": "Not directly relevant to multifamily, but the AI company expansion in Midtown signals strong talent attraction and job creation in technology sectors, which should drive renter demand for apartments near Midtown corridors. Multifamily developers should note that Midtown's office leasing strength supports sustained demand for rental housing; younger, higher-income tech workers relocating or expanding NYC presence support premium studio and one-bedroom rents near transit to tech hubs."
+    },
+    {
+      "title": "PCCP, Stonemont Close on $1B-Plus Acquisition of Blackstone Industrial Portfolio",
       "link": "https://commercialobserver.com/2026/07/pccp-stonemount-industrial-portfolio/",
-      "excerpt": "PCCP and Stonemount Financial Group are officially the new owners of a 5.9 million-square-foot industrial portfolio, Commercial Observer can first report. The joint venture acquired the 38 assets, located across 14 markets in 10 states, for upward of $1 billion with Blackstone as the seller, according to an article from Real Estate Alert preceding the sale. The portfolio was sold via an off-market transaction, with Eastdil Secured serving as adviser, and the transaction closed July 29. It wasn’t immediately clear how the acquisition was financed. “The acquisition of this portfolio represents PCCP’s continued conviction in the industrial sector and in markets we have actively invested in within the last five years,” Ryan Dodge, a partner with PCCP, said. “We believe our industrial portfolio continues to exhibit strong momentum, with increased leasing demand in recent months. In our view, this portfolio is well positioned to benefit from those same market tailwinds.” The portfolio — leased to a diverse roster of more than 70 tenants — is located across infill submarkets, including Denver, Dallas, Atlanta, and Charlotte, N.C., as well as strong growth markets like San Diego, Reno, Nev., and El Paso, Texas. With PCCP and Stonemount Financial now in the driver’s seat, the JV’s plan is to focus on revenue growth via contractual rent increases and marking-to-market on leases that are being renewed, according to a release. “This transaction reflects our conviction in the long-term fundamentals of the industrial real estate sector,” said Zack Markwell, CEO and managing principal at Stonemont. “We are pleased to have once again partnered with PCCP and will continue to pursue attractive acquisition opportunities alongside our active development program.” The industrial sector is one of PCCP’s investment fortés, with the firm currently managing more than 68 million square feet of industrial assets over 52 markets. This acquisition brings its count to 262 industrial transactions",
+      "excerpt": "PCCP and Stonemont Financial Group are officially the new owners of a 5.9 million-square-foot industrial portfolio, Commercial Observer can first report. The joint venture acquired the 38 assets, located across 14 markets in 10 states, for upward of $1 billion with Blackstone as the seller, according to an article from Real Estate Alert preceding the sale. The portfolio was sold via an off-market transaction, with Eastdil Secured serving as adviser, and the transaction closed July 29. It wasn’t immediately clear how the acquisition was financed. “The acquisition of this portfolio represents PCCP’s continued conviction in the industrial sector and in markets we have actively invested in within the last five years,” Ryan Dodge, a partner with PCCP, said. “We believe our industrial portfolio continues to exhibit strong momentum, with increased leasing demand in recent months. In our view, this portfolio is well positioned to benefit from those same market tailwinds.” The portfolio — leased to a diverse roster of more than 70 tenants — is located across infill submarkets, including Denver, Dallas, Atlanta, and Charlotte, N.C., as well as strong growth markets like San Diego, Reno, Nev., and El Paso, Texas. With PCCP and Stonemount Financial now in the driver’s seat, the JV’s plan is to focus on revenue growth via contractual rent increases and marking-to-market on leases that are being renewed, according to a release. “This transaction reflects our conviction in the long-term fundamentals of the industrial real estate sector,” said Zack Markwell, CEO and managing principal at Stonemont. “We are pleased to have once again partnered with PCCP and will continue to pursue attractive acquisition opportunities alongside our active development program.” The industrial sector is one of PCCP’s investment fortés, with the firm currently managing more than 68 million square feet of industrial assets over 52 markets. This acquisition brings its count to 262 industrial transactions.",
       "source": "Comm. Observer",
       "cat": "Commercial",
       "date": "2026-07-29T18:57:54+00:00",
       "bullets": [
-        "PCCP and Stonemount acquire 5.9M SF industrial portfolio, 38 assets, 14 markets, $1B+ from Blackstone",
-        "Off-market transaction closed July 29; diverse tenant roster; portfolio leased across 10 states",
-        "PCCP cites strong leasing demand momentum and portfolio positioned for industrial market tailwinds"
+        "PCCP and Stonemont acquired 5.9M-sf industrial portfolio (38 assets, 14 markets, 10 states) from Blackstone for $1B+.",
+        "Portfolio well-leased; closed July 29 off-market via Eastdil; reflects conviction in industrial sector tailwinds.",
+        "Transaction does not involve multifamily residential."
       ],
-      "summary": "PCCP and Stonemount Financial Group closed a $1B-plus acquisition of a 38-asset, 5.9 million-square-foot industrial portfolio from Blackstone across 14 markets in 10 states, with the transaction closing July 29 via an off-market process. The portfolio is fully leased to a diverse tenant base. PCCP highlighted increased leasing demand in recent months as a key driver of conviction in the deal, signaling sustained momentum in the industrial sector.",
-      "impact": "Industrial capital remains active and liquid despite higher rates, with institutional buyers repositioning portfolios. This signals sustained investor confidence in logistics and distribution fundamentals—likely driven by e-commerce, nearshoring, and supply-chain diversification. Multifamily developers competing for land and construction capital in these same 14 markets may face tighter acquisition opportunities and faster land price appreciation in logistics-heavy submarkets."
+      "summary": "PCCP and Stonemont Financial Group closed the acquisition of a 5.9 million-square-foot industrial portfolio comprising 38 assets across 14 markets in 10 states from Blackstone for over $1 billion. The off-market transaction closed July 29 with Eastdil Secured serving as adviser. The portfolio is well-leased and the buyers cited strong momentum in industrial leasing demand.",
+      "impact": "Not directly relevant to multifamily development; this is an industrial/logistics transaction. However, the billion-dollar capital redeployment from Blackstone into industrial signals fund-level conviction in logistics and supply-chain real estate, potentially indicating capital is rotated away from other property types; monitoring institutional capital flows helps Trammell Crow understand relative appetite for multifamily debt and equity in the current cycle."
     },
     {
       "title": "Fed Holds Interest Rates in Warsh’s Second Meeting as FOMC Chair",
@@ -47,57 +151,12 @@
       "cat": "Commercial",
       "date": "2026-07-29T18:52:54+00:00",
       "bullets": [
-        "Fed holds rates steady 3.5–3.75% for fifth consecutive meeting under Chair Kevin Warsh",
-        "9-3 vote reflects dissent; inflation above 2% target; Warsh signals commitment to long-term price stability",
-        "Higher-for-longer messaging resets CRE industry expectations on financing costs"
+        "Fed maintained 3.5–3.75% rate in 9-3 vote; three members dissented in favor of hike.",
+        "Chair Warsh reaffirms no 'soft target' for 2% inflation; will not waver despite five years above target.",
+        "Inflation remains well above 2% target; higher-for-longer rate backdrop persists."
       ],
-      "summary": "The Federal Reserve held its benchmark rate at 3.5–3.75% on Wednesday in a 9-3 vote, marking the fifth consecutive hold under new Chair Kevin Warsh. Warsh stated the Fed understands \"five-plus years of inflation above target cannot be cured in nine weeks\" and reaffirmed a commitment to the 2% inflation target. The decision signals persistence of elevated rates despite some dissent favoring a hike.",
-      "impact": "The Fed's \"higher-for-longer\" stance locks in elevated refinancing costs and construction financing rates for multifamily developers. Reduced leverage capacity, higher debt service on bridge and construction loans, and tighter equity returns will suppress starts and slow acquisitions in all metros through at least September's next meeting. Developers with rate locks or fixed-rate construction financing secured before this decision gain material competitive advantage."
-    },
-    {
-      "title": "Two Hyatt Hotels Planned at Scottsdale-Area Indian Community",
-      "link": "https://www.connectcre.com/stories/two-hyatt-hotels-planned-at-scottsdale-area-indian-community/",
-      "excerpt": "A Hyatt Place and a Hyatt Studios are slated to be built on Salt River Pima-Maricopa Indian land near Scottsdale along Loop 101. A groundbreaking was recently held for the Arizona Boardwalk Hyatt Place at Talking Stick (shown), a four-story, 142-room hotel that will be constructed adjacent to Arizona Boardwalk, the entertainment center home to a variety of attractions, including OdySea Aquarium, Butterfly Wonderland, Museum of Illusions and the Boardwalk Big Wheel. The Arizona Boardwalk Hyatt Place at Talking Stick will feature a lobby bar and lounge, breakfast and dining area, meeting space, fitness center and outdoor pool. The Hyatt Place project was designed by Deutsch Architecture Group and is being built by Layton Construction. It is projected to open in late 2027. Just south of the Arizona Boardwalk project, another Hyatt property, a Hyatt Studios hotel, has been proposed. It would be a four-story, 122-room extended stay hotel. The Hyatt Studios project is being proposed by CaliberCos Inc. The post Two Hyatt Hotels Planned at Scottsdale-Area Indian Community appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-29T18:48:54+00:00",
-      "bullets": [
-        "Hyatt Place 142 rooms, Hyatt Studios 122 rooms, both on Salt River Pima-Maricopa land, Scottsdale Loop 101",
-        "Hyatt Place groundbreaking held; four-story; opening late 2027; adjacent to Arizona Boardwalk entertainment center",
-        "Hyatt Studios proposed by CaliberCos; four-story extended-stay format; south of Arizona Boardwalk project"
-      ],
-      "summary": "Two Hyatt hotels are under development on Salt River Pima-Maricopa Indian land in the Scottsdale area along Loop 101: a 142-room, four-story Hyatt Place designed by Deutsch Architecture Group and being built by Layton Construction (opening late 2027), and a proposed 122-room, four-story Hyatt Studios extended-stay property. The Hyatt Place is adjacent to Arizona Boardwalk, an entertainment venue housing OdySea Aquarium, Butterfly Wonderland, and other attractions.",
-      "impact": "Limited direct relevance to multifamily development. However, the extended-stay Hyatt Studios signals demand for flexible, longer-term lodging in the Scottsdale Loop 101 corridor—a potential canary for corporate relocation or seasonal workforce migration into the Phoenix metro. If this leisure-and-business-travel hub continues densifying, nearby multifamily developers should monitor job creation in hospitality, professional services, and tourism-adjacent industries to time residential deliveries ahead of sustained population inflow."
-    },
-    {
-      "title": "MonticelloAM Closes $29M Transaction for Illinois Apartment Complex",
-      "link": "https://www.connectcre.com/stories/monticelloam-closes-29m-transaction-for-illinois-apartment-complex/",
-      "excerpt": "MonticelloAM, along with a firm affiliate, closed a bridge loan for an apartment complex in McHenry, Illinois. The transaction was brought to MonticelloAM by Trent Niederberger of JLL Chicago. MonticelloAM Senior Managing Director Darryl Myrose worked with the JLL Chicago team on the origination of the transaction. “This transaction marks the beginning of a new partnership with an experienced Midwest sponsor, and we are excited to support their continued growth while expanding our presence alongside a proven operator in the region,” said Myrose. The loan carries a 24-month initial term with three 12-month extension options. Proceeds will be utilized to finance the acquisition of the property and allow the sponsor, Cunat Inc., a privately held real estate firm that owns and operates over 4,000 units in the Midwest, to execute on their renovation plan. The property, Fawn Ridge Apartments, is a garden-style multifamily property comprised of 208 units across nine buildings in northwest Chicago. The post MonticelloAM Closes $29M Transaction for Illinois Apartment Complex appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-29T18:45:30+00:00",
-      "bullets": [
-        "MonticelloAM closes $29M bridge loan, McHenry, Illinois apartment complex, Fawn Ridge Apartments 208 units",
-        "24-month initial term, three 12-month extension options; borrower Cunat Inc. operates 4,000+ Midwest units",
-        "Proceeds fund acquisition and renovation; garden-style, nine buildings northwest Chicago submarket"
-      ],
-      "summary": "MonticelloAM, alongside JLL Chicago, closed a $29 million bridge loan for the acquisition and renovation of Fawn Ridge Apartments, a 208-unit garden-style multifamily property in McHenry (northwest Chicago). The borrower, Cunat Inc., a privately held Midwest operator with 4,000+ units, will use proceeds to execute a capital plan. The loan carries a 24-month initial term with three 12-month extension options.",
-      "impact": "Bridge lending to value-add operators in secondary Midwest markets remains available, suggesting stable debt markets for re-capitalization plays. Cunat's continued expansion signals confidence in Chicago-area rent growth and renovation returns. For competing developers in northwest Chicago and McHenry, this indicates an active buyer pool for stabilized and near-stabilized assets, tightening secondary-market acquisition opportunities and pushing land prices higher for new development."
-    },
-    {
-      "title": "Lincoln Property Company Acquires 275K-SF Puyallup Industrial Campus",
-      "link": "https://www.connectcre.com/stories/lincoln-property-company-acquires-275k-sf-puyallup-industrial-campus/",
-      "excerpt": "JLL announced that Lincoln Property Company’s Logistics Fund II has acquired Canyon Road Commerce Center, a 275,000-square-foot industrial campus in Pierce County, Washington. As part of the acquisition, Lincoln has appointed JLL as the property&#8217;s exclusive leasing agent, launching a leasing initiative aimed at attracting advanced manufacturing, aerospace, logistics and distribution users across the South Sound. Canyon Road is the third acquisition for Lincoln Logistics Fund II. The fund has secured more than $280 million in capital commitments from two institutional investors, alongside Stone Point Capital and Lincoln employees. Leasing for Canyon Road will be led by JLL&#8217;s Chris Spofford, Bill Honsaker, Scott Carter and David Cahill. Located at 5103 136th Street E. in Puyallup, the property was acquired from Trammell Crow Company and an affiliate of CBRE Investment Management. &#8220;The Pacific Northwest continues to demonstrate the long-term fundamentals we seek as investors, including sustained population growth, a highly skilled workforce and a diverse industrial economy,&#8221; said Gary Kobus, Co-Head of Logistics and Senior Managing Director at Lincoln. The post Lincoln Property Company Acquires 275K-SF Puyallup Industrial Campus appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-29T18:30:23+00:00",
-      "bullets": [
-        "Lincoln Property Company Logistics Fund II acquires Canyon Road Commerce Center, 275K SF, Puyallup, Washington",
-        "Third acquisition for the fund; $280M+ capital commitments from institutional investors, Stone Point, Lincoln employees",
-        "Acquired from Trammell Crow Company and CBRE Investment Management affiliate; targets advanced manufacturing, aerospace logistics"
-      ],
-      "summary": "Lincoln Property Company's Logistics Fund II has acquired Canyon Road Commerce Center, a 275,000-square-foot industrial campus in Puyallup (Pierce County, Washington), marking its third acquisition. The fund has secured $280M+ in capital commitments and targets advanced manufacturing, aerospace, logistics, and distribution tenants across the South Sound. The property was sold by Trammell Crow Company and a CBRE Investment Management affiliate.",
-      "impact": "Lincoln's continued institutional capital deployment into industrial assets signals sustained logistics/manufacturing demand in the Pacific Northwest. The South Sound (Tacoma/Puyallup) is a key corridor for aerospace, e-commerce, and regional distribution—demand drivers that also support multifamily growth. Developers in Puyallup and nearby Pierce County should expect tightening industrial land supply and rising land values, which could increase mixed-use development feasibility but also compete for scarce development-ready sites."
+      "summary": "In Fed Chair Kevin Warsh's second FOMC meeting, the committee voted 9-3 to maintain the benchmark interest rate at 3.5–3.75% for the fifth consecutive meeting. Three regional Fed presidents dissented in favor of a 25 basis point increase, citing inflation risks. Warsh stated in his post-meeting press conference that the Fed has no \"soft target\" for inflation and remains committed to the 2% annual rate, acknowledging that five-plus years of above-target inflation cannot be cured in nine weeks.",
+      "impact": "Duplicate of article #1 with slightly different framing. The message is consistent: rates staying elevated, hawkish dissent rising, and Warsh's hard line on inflation signal extended higher-rate environment. Multifamily underwriting should assume cap rates remain compressed relative to long-term averages; debt service on new construction and refinance will remain elevated, pressuring yields and extending hold periods. Construction financing availability may tighten if inflation data remains sticky, forcing Trammell Crow to lock in construction debt early and prioritize shovel-ready sites."
     },
     {
       "title": "Madison Realty Capital Leads $227M Refi of New Miami-Dade Rental",
@@ -107,72 +166,12 @@
       "cat": "Commercial",
       "date": "2026-07-29T18:25:45+00:00",
       "bullets": [
-        "Baron Property Group secures $226.5M refinance, Madison Realty Capital and Yellowstone Real Estate, Metro Parc Hialeah",
-        "559-unit, 10-story, 754K SF, nearly 50% leased at stabilization; includes 15K SF retail (Mr. Baker anchor)",
-        "Bridge to permanent; replaced $148M construction loan; Phase 2 (Metro Parc North) recently topped out"
+        "Baron Property Group refinanced Metro Parc, 559 units in Hialeah, FL for $226.5M via Madison Realty Capital.",
+        "Nearly 50% leased post-completion; replaced $148M construction loan from 2022; bridge to permanent financing.",
+        "First phase of 2.3M-sf development; second phase (Metro Parc North) recently topped out."
       ],
-      "summary": "Baron Property Group has secured a $226.5 million refinance led by Madison Realty Capital and Yellowstone Real Estate for Metro Parc, a newly completed 559-unit, 10-story development in Hialeah near Metrorail and Tri-Rail stations. The project, 754,016 square feet with 15,000 SF of retail, is nearly 50% leased and replaces the original $148 million construction loan. The refinance serves as a bridge to permanent financing; Phase 2 (Metro Parc North) has recently topped out.",
-      "impact": "Strong refinance execution at 50% occupancy signals healthy debt markets for transit-oriented multifamily in Miami-Dade despite higher rates. Proximity to Metrorail/Tri-Rail and retail anchors demonstrates lender comfort with mixed-use, transit-connected value-add products. For competing developers in Miami-Dade, this validates demand for workforce housing in transit corridors and shows refinance windows open before stabilization—enabling earlier capital recovery and follow-on Phase 2/3 starts."
-    },
-    {
-      "title": "Fed Holds Rates Steady Despite Dissenting Voices",
-      "link": "https://www.connectcre.com/stories/fed-holds-rates-steady-despite-dissenting-voices/",
-      "excerpt": "The Federal Reserve voted to hold its benchmark interest rate steady at 3.5% to 3.75% on Wednesday, maintaining the policy target range established in January. The decision was not unanimous, as three central bank officials dissented in favor of a quarter-point rate increase: Cleveland Fed President Beth Hammack, Minneapolis Fed President Neel Kashkari, and Dallas Fed President Lorie Logan. The hold puts an end to pre-meeting speculation that policymakers might move to raise rates. Expectations for a hike had been driven by views that Fed Chair Kevin Warsh would look to reinforce his inflation-fighting credentials early in his tenure. By leaving borrowing costs unchanged, the Federal Open Market Committee now shifts market attention to its upcoming policy meeting in September. The post Fed Holds Rates Steady Despite Dissenting Voices appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-29T18:22:27+00:00",
-      "bullets": [
-        "Fed holds rates 3.5–3.75%; three officials (Hammack, Kashkari, Logan) dissent, favoring 0.25% hike",
-        "Decision maintains January policy range; shifts attention to September meeting; ends pre-meeting rate-hike speculation",
-        "Warsh credibility tied to inflation fighting amid ongoing geopolitical uncertainty"
-      ],
-      "summary": "The Federal Reserve voted to hold its benchmark rate at 3.5–3.75%, with three dissenters (Cleveland's Beth Hammack, Minneapolis's Neel Kashkari, and Dallas's Lorie Logan) advocating for a quarter-point increase. The hold maintains the policy target established in January and redirects market focus to September's next meeting, ending pre-meeting speculation that Chair Kevin Warsh might signal early rate hikes to cement inflation-fighting credentials.",
-      "impact": "Growing Fed dissent signals emerging hawkish pressure, which could materialize as a rate hike by September. Multifamily borrowers should lock in construction and refinance financing now while rates remain at 3.5–3.75%, as any increase will compress underwriting returns and reduce deal feasibility. Developers with September closings should accelerate financing applications to avoid refinancing in a higher-rate environment."
-    },
-    {
-      "title": "BXP Closes $1.2B Construction Loan for Madison Avenue Office Tower",
-      "link": "https://www.connectcre.com/stories/bxp-closes-1-2b-construction-loan-for-madison-avenue-office-tower/",
-      "excerpt": "BXP, Inc. has closed a $1.2-billion construction loan for the development of 343 Madison Ave., a planned 46-story, approximately 930,000-square-foot office tower in Midtown Manhattan with direct access to Grand Central Terminal’s Madison Concourse. The Boston-based REIT expects to complete the $2-billion project, currently about 50% pre-leased, in 2029. The construction loan facility has a four-year initial term, plus a one-year extension option subject to customary conditions. It was completed on highly competitive terms, including an initial interest rate of Term SOFR plus 2.50%, which will be reduced to Term SOFR plus 2.25% subject to certain leasing and construction milestones. &#8220;We are pleased to complete this financing, which reflects the quality of 343 Madison Ave., continued confidence in BXP&#8217;s development platform, and our ability to secure attractive financing terms in today&#8217;s market,&#8221; said Mike LaBelle, EVP, CFO, BXP. The financing was led by Wells Fargo Bank as administrative agent; BofA Securities, The Bank of New York Mellon Corporation and JPMorgan Chase Bank as joint lead arrangers; Banco Bilbao Vizcaya Argentaria, Landesbank Baden-Wurttemberg, PNC Bank and U.S. Bank as documentation agents; and BBVA as sustainability agent. Legal counsel was provided by Fried Frank for BXP and Riemer Braunstein for Wells Fargo. The post BXP Closes $1.2B Construction Loan for Madison Avenue Office Tower appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-29T18:14:09+00:00",
-      "bullets": [
-        "BXP closes $1.2B construction loan, 343 Madison Ave., 46-story, 930K SF office tower, Midtown Manhattan",
-        "Four-year initial + one-year extension; Term SOFR + 2.50% (stepping to 2.25% on milestones); 50% pre-leased",
-        "Wells Fargo, BofA, BNY Mellon, JPMorgan as lead arrangers; $2B total project cost; completion 2029"
-      ],
-      "summary": "BXP has closed a $1.2 billion construction loan for 343 Madison Avenue, a planned 46-story, 930,000-square-foot office tower in Midtown Manhattan with direct Grand Central access. The facility features a four-year initial term plus one-year extension, with rates at Term SOFR + 2.50% (stepping to 2.50% based on leasing/construction milestones). The $2 billion project is 50% pre-leased; completion is expected in 2029.",
-      "impact": "Large-dollar office construction financing at SOFR + 2.50% reflects strong institutional debt appetite for prime Manhattan assets with marquee tenants (C.V. Starr, McDermott Will & Schulte) and near-term delivery certainty. However, this demonstrates capital concentration in trophy office product. Multifamily developers in Manhattan and other major metros should note that institutional lenders remain selective and require substantial pre-leasing/anchor tenant commitments—raising barriers to entry for speculative or secondary-market residential starts."
-    },
-    {
-      "title": "CBRE Reports Strong Q2 Earnings Amid Data Center Revenues, Office Leasing Gains",
-      "link": "https://commercialobserver.com/2026/07/cbre-q2-earnings-data-center-office-leasing/",
-      "excerpt": "Surging data center services revenue and a rebound in U.S. office leasing stood out in CBRE’s strong second-quarter results for 2026. During a Wednesday morning earnings call, the world’s largest commercial real estate services and investment firm reported $11.2 billion in second-quarter revenue, roughly in line with analysts’ estimates. Revenue grew annually by 15.5 percent, and increased over its first-quarter results by roughly 6.6 percent. CBRE’s earnings beat analysts’ expectations, with core earnings per share of $1.56. Adjusted profit rose to $459 million from $361 million a year earlier, stripping out one-off line items like fire-safety repairs on U.K. buildings. The firm’s second-quarter report included more than $700 million in revenue from data center services. U.S. office leasing notched a second-quarter record, too, in a welcome signal of continued commercial recovery. CBRE’s more volatile segments, like property sales, mortgage origination and leasing, saw revenue growth of 19 percent year-over-year. U.S. leasing revenues spiked by 24 percent, led by office and industrial activity. Most notably, U.S. office leasing generated its highest-ever second-quarter revenue, according to Emma Giamartino, CBRE’s chief financial officer. The strength was driven by gateway markets, as well as space upgrades from financial and legal tenants. CBRE’s global property sales saw increased revenues of 20 percent, with the U.S. tracking a 24 percent increase across most property types. Despite the strong performance, there’s still room for recovery. “On the leasing side, we&#8217;re still not back to 2019 levels,” Giamartino said. “We see there&#8217;s more room to go this year, and that will extend into next year. And on the sales side, we&#8217;re still pretty early. We&#8217;ve seen strong growth, but not near the levels of growth that we&#8217;ve seen coming out of other recoveries.” Infrastructure services, including data centers, emerged as CBRE’s fastest-growing bus",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-29T16:59:14+00:00",
-      "bullets": [
-        "CBRE reports Q2 2026 revenue $11.2B, up 15.5% YoY; core EPS $1.56, beating expectations",
-        "Data center services revenue exceeded $700M; U.S. office leasing hit second-quarter record; leasing revenue up 24% YoY",
-        "Strong property sales, mortgage origination, leasing segments; office and industrial leasing led growth"
-      ],
-      "summary": "CBRE reported strong Q2 2026 results with $11.2 billion in revenue (up 15.5% YoY), core EPS of $1.56, and adjusted profit of $459 million (up from $361 million YoY). Data center services generated over $700 million in revenue, while U.S. office leasing reached a second-quarter record. U.S. leasing revenues surged 24% YoY, driven by office and industrial activity.",
-      "impact": "CBRE's outsized data center and office leasing growth signals capital and tenant demand flowing toward tech, AI infrastructure, and corporate real estate in core markets. This capital concentration in office and logistics may leave fewer institutional lenders and brokers focused on multifamily. Multifamily developers should expect rising brokerage fees, longer leasing timelines, and tighter competitive positioning for debt and equity capital relative to data center and prime office projects in 2026–2029."
-    },
-    {
-      "title": "BXP Secures $1.2B Construction Loan for 343 Madison Avenue Office Tower",
-      "link": "https://commercialobserver.com/2026/07/bxp-construction-loan-343-madison-avenue-q2-earnings/",
-      "excerpt": "BXP, the largest Class A office owner in the country, has landed a $1.2 billion construction loan to build its 930,000-square-foot office tower development at 343 Madison Avenue in Midtown, the real estate investment trust (REIT) announced Wednesday morning during its second-quarter earnings call. The financing for BXP’s 46-story development came from Wells Fargo, Bank of America Securities, Bank of New York Mellon and J.P. Morgan Chase. The loan has a four-year initial term, plus a one-year extension option, according to BXP. Once construction is completed — a finish date is set for 2029 — the $2 billion project at 343 Madison Avenue will feature offices, dining spaces, terraces and plenty of amenities. The anticipated tower just west of Grand Central Terminal is also already 50 percent pre-leased, after insurance and investment giant C.V. Starr signed a 275,000-square-foot deal in October to anchor the property, and law firm McDermott Will &amp; Schulte took roughly 150,000 square feet there in April. Starr later expanded its initial lease by another two full floors. BXP executives said during Wednesday’s earnings call that the firm is in negotiations with two more prospective tenants, which would bring the building to nearly 70 percent pre-leased. CEO Owen Thomas said the REIT will lease the rest of the floors closer to delivery to secure “market-leading rents.” “The pricing power in Manhattan remains quite favorable to landlords, and it is expanding geographically,” Hilary Spann, executive vice president of BXP’s New York region, said during the call. “We are getting inbound interest at our highest-quality buildings and at 343 Madison at rents that are consistently 10 to 15 percent above where they were last year. … And, in the lower stack of our buildings where rents are slightly more affordable, we&#8217;re still seeing 20 percent increases year-over-year, and that is fundamentally because there&#8217;s a lack of available space in the market. So there’s great",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-29T16:44:18+00:00",
-      "bullets": [
-        "BXP secures $1.2B construction loan, 343 Madison Ave., Midtown Manhattan, 46-story, 930K SF office tower",
-        "Wells Fargo, BofA, BNY Mellon, JPMorgan lead arrangers; four-year term + one-year extension; 50% pre-leased",
-        "C.V. Starr (275K SF) and McDermott Will & Schulte (150K SF) anchor leases; Starr expanded to full floors"
-      ],
-      "summary": "BXP announced a $1.2 billion construction loan for 343 Madison Avenue, a 46-story, 930,000-square-foot office tower in Midtown Manhattan adjacent to Grand Central Terminal. Led by Wells Fargo, BofA, BNY Mellon, and JPMorgan, the loan carries a four-year initial term plus one-year extension. The project is 50% pre-leased, anchored by C.V. Starr (275,000 SF, expanded further) and McDermott Will & Schulte (150,000 SF); completion is set for 2029.",
-      "impact": "Duplicate of Article 8 with slightly different reporting angle. Same implication: prime Manhattan office construction attracts institutional capital, but bar for multifamily remains higher. Developers targeting Manhattan multifamily should recognize that office capital is flowing toward trophy assets with megadeals and high barriers to entry—creating a relative scarcity of financing for residential and emphasizing the need for strong sponsors, pre-leasing, and market differentiation."
+      "summary": "Baron Property Group secured a $226.5 million refinance from Madison Realty Capital and Yellowstone Real Estate for Metro Parc, a newly completed 559-unit, 10-story apartment development in Hialeah, Florida near Metrorail and Tri-Rail stations. The property, completed last year after a $148 million construction loan from Post Road Group in 2022, is nearly 50% leased and includes 15,000 square feet of retail (including a Cuban bakery). The refinance replaces the construction loan and serves as a bridge to permanent financing. Metro Parc is the first phase of Baron's 2.3 million-square-foot residential development; phase two (Metro Parc North) recently topped out.",
+      "impact": "Successful refi of a newly completed multifamily asset in Hialeah signals that lenders (Madison, Yellowstone) are confident in Miami-Dade demand and willing to extend bridge financing into permanent structures. However, the 50% lease-up suggests slower stabilization; Trammell Crow should note that South Florida lease-up timelines may be lengthening due to higher rents and elevated rates affecting tenant absorption. The massive development pipeline (2.3M sf residential) in Metro Parc's corridor could signal potential supply overhang; developers should stress-test pro formas for longer lease-up, higher concessions, and downward rent pressure in the Hialeah submarket as competing supply delivers."
     }
   ]
 }
