@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-29T13:47:38.743575+00:00",
+  "fetchedAt": "2026-07-29T15:45:04.634924+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -9,21 +9,126 @@
     },
     {
       "label": "10Y Treasury",
-      "value": "4.62%",
-      "pct": 0.46
+      "value": "4.64%",
+      "pct": 0.76
     },
     {
       "label": "30Y Treasury",
-      "value": "5.10%",
-      "pct": 0.16
+      "value": "5.12%",
+      "pct": 0.39
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "101.11",
-      "pct": 0.16
+      "value": "100.58",
+      "pct": -0.37
     }
   ],
   "stories": [
+    {
+      "title": "Arrow Arranges $85M Construction Loan for Miami Condo Project",
+      "link": "https://www.connectcre.com/stories/arrow-arranges-85m-construction-loan-for-miami-condo-project/",
+      "excerpt": "Arrow Real Estate Advisors arranged an $85 million construction loan on behalf of Northlink Capital for the development of 7200 Collins Avenue, a 222-unit luxury condominium project in Miami Beach, Florida. The financing, provided by Deutsche Bank, refinances existing debt and will fund the ground-up construction of the 12-story, 274,150-square-foot residential tower through completion. Located at the intersection of Collins Avenue and 72nd Street in Miami Beach&#8217;s North Beach neighborhood, the project will offer a collection of studio-, one-, and two-bedroom residences with an average unit size of approximately 489 square feet. Approximately 81% of the residences are priced below $1 million. Amenities will span three levels and include the exclusive 7200 Collins Beach Club, a swimming pool, fitness center, ground-floor retail and food and beverage offerings, and landscaped rooftop sundecks. Arrow Real Estate Advisors&#8217; Morris Betesh, Alex Bailkin, and Matt O&#8217;Hanlon arranged the financing. The post Arrow Arranges $85M Construction Loan for Miami Condo Project appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-29T15:20:50+00:00",
+      "bullets": [
+        "Deutsche Bank arranged $85M construction loan for 222-unit Miami Beach luxury condo",
+        "81% of units priced below $1M; 12-story tower in North Beach neighborhood",
+        "Refinances existing debt; ground-up construction through completion funding"
+      ],
+      "summary": "Arrow Real Estate Advisors arranged an $85 million construction loan from Deutsche Bank for Northlink Capital's 7200 Collins Avenue, a 222-unit luxury condominium project in Miami Beach's North Beach. The 12-story, 274,150-square-foot tower offers studio, one-, and two-bedroom residences with an average unit size of 489 square feet; 81% of units are priced below $1 million. Financing refinances existing debt and funds ground-up construction through completion.",
+      "impact": "Miami Beach condo market shows sustained financing appetite for luxury for-sale product despite broader credit tightness. Below-$1M unit pricing signals developer confidence in demand from downsizers and primary-residence buyers, not speculative investment, which steers capital away from rental multifamily. This reinforces Miami's bifurcated market: condo capital remains available while rental development may face tighter underwriting."
+    },
+    {
+      "title": "Richman Group, Monadnock Plan to Build 420 Units in East Harlem",
+      "link": "https://commercialobserver.com/2026/07/richman-group-monadnock-housing-east-125th-street/",
+      "excerpt": "Get a little place in Harlem and you’ll figure it out. Developers Richman Group and Monadnock Development — in a joint venture — have filed plans with the New York City Department of Buildings (DOB) to construct a 420-unit residential building at 243 East 125th Street in Manhattan’s East Harlem neighborhood. The plan, which was filed July 26 by Richman Group President Kristin Miller, calls for the construction of a 14-story mixed-use building with 648,000 square feet of residential space, 82,000 square feet of commercial space and a 10,700-square-foot community facility. Construction is scheduled to begin by early 2027. Paul Carr of S9 Architecture is the registered architect on the project. Spokespeople for S9 Architecture, Richman Group and Monadnock Development did not immediately respond to requests for comment. If approved, the building’s second through 14th floors would each include between 28 and 38 apartments, according to the DOB plans. The plans also note there will be 65 parking spaces, plus a lot attendant on staff, and bicycle storage for 218 bikes. In addition, the developers are planning for two retail spaces, a social services office, and amenities including a lounge, a gym, a kids playroom and a multipurpose room. The building, on the corner of 125th Street and Second Avenue, would be part of the New York City Economic Development Corporation’s B-East (East 125th Street Development project), a 17,337-square-foot, city-owned property where the city aims to add more mixed-income housing. B-East is part of the broader East 125th Street Development project first approved in 2008, which will ultimately build housing on three land parcels and include about 1.7 million square feet of residential, retail and commercial development. Since the project launched, it has already delivered 451 housing units — including 344 affordable units — and 65,000 square feet of retail space. The Mamdani administration is also working toward a goal to bring 200,000 new homes",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-29T15:17:56+00:00",
+      "bullets": [
+        "Richman Group and Monadnock plan 420-unit residential building at 243 East 125th Street, East Harlem",
+        "14-story mixed-use: 648k sq ft residential, 82k sq ft commercial, 10.7k sq ft community facility",
+        "Construction scheduled to begin early 2027; plans filed July 26 with NYC DOB"
+      ],
+      "summary": "Richman Group and Monadnock Development filed plans with NYC Department of Buildings to construct a 420-unit residential building at 243 East 125th Street in East Harlem. The 14-story mixed-use development includes 648,000 square feet of residential space, 82,000 square feet of commercial space, and a 10,700-square-foot community facility. Construction is scheduled to begin by early 2027, with S9 Architecture as the registered architect.",
+      "impact": "East Harlem rental pipeline growth signals sustained developer confidence in East Harlem's gentrification arc and market-rate demand. Early 2027 start means delivery likely 2029–2030, placing this asset ahead of anticipated peak supply in Lower East Side/East Village submarkets. The community-facility component suggests public subsidy or tax incentive participation, indicating NYC's continued reliance on density to absorb workforce housing needs—watch for zoning or PILOT details affecting project economics."
+    },
+    {
+      "title": "Vital Infrastructure REIT Buys East New York Outpatient Facility for $90M",
+      "link": "https://commercialobserver.com/2026/07/vital-infrastructure-reit-buys-101-pennsylvania-avenue-brooklyn/",
+      "excerpt": "A Toronto-based real estate investment trust (REIT) has purchased an East New York, Brooklyn, medical facility for $89.9 million. Health care infrastructure REIT Vital Infrastructure Property Trust announced last week that it acquired the 142,249-square-foot East New York Health Hub at 101 Pennsylvania Avenue, which is leased as an outpatient care facility to AdvantageCare Physicians New York. Newmark’s Ben Appel, Adam Spies, Jay Miele, Justin Shepherd, John Nero, Adam Doneger, Matt Berres, Michael Greeley, Ron Ott, Conor Hilton and Drew Martin negotiated on behalf of the buyer and the seller, according to Crain’s New York Business. The seller is Squarefeet.com owner Jonas Rudofsky, a former Newmark director, who has owned the property since 2019, when it was first developed, according to property records. “This acquisition represents another important step in the execution of Vital Infrastructure’s growth strategy,” Zach Vaughan, CEO of Vital Infrastructure, said in a statement. “East New York Health Hub is a modern, institutional-quality, multi-disciplinary health care facility located in a high-barrier market and leased to one of New York’s largest health care networks. The acquisition further strengthens the resilience and quality of our portfolio while expanding our presence in a key U.S. market.” The Newmark team declined to comment. Newmark, however, identified the tenant as nonprofit insurance company EmblemHealth, while Vital said that AdvantageCare still has 11 years remaining on its lease. The building is also leased to New York Cancer &amp; Blood Specialists, Lenox Hill Radiology, New York Health, Advanced Dermatology and Quest Diagnostics, according to the buyer. Mark Hallum can be reached at mhallum@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-29T14:59:55+00:00",
+      "bullets": [
+        "Vital Infrastructure REIT acquired 142,249 sq ft East New York medical facility for $89.9M",
+        "101 Pennsylvania Avenue leased to AdvantageCare Physicians New York as outpatient care hub",
+        "Toronto-based healthcare REIT capitalizes on stabilized, long-term medical tenant anchor"
+      ],
+      "summary": "Vital Infrastructure Property Trust, a Toronto-based healthcare REIT, acquired the East New York Health Hub at 101 Pennsylvania Avenue in Brooklyn for $89.9 million. The 142,249-square-foot facility is leased to AdvantageCare Physicians New York as an outpatient care facility. The property was originally developed in 2019 and was sold by Jonas Rudofsky, former Newmark director.",
+      "impact": "Minimal direct impact on multifamily development. However, healthcare facility anchoring in East New York/Cypress Hills indicates infrastructure investment and job creation in a high-growth, affordable-housing-pressure submarket. This signals institutional capital confidence in the neighborhood's residential absorption and affordability-constrained rental market, potentially supporting rents and forward-looking multifamily development feasibility in the micromarket."
+    },
+    {
+      "title": "Stewards Inks $79M Refi of Hollywood Rental Asset",
+      "link": "https://www.connectcre.com/stories/stewards-inks-79m-refi-of-hollywood-rental-asset/",
+      "excerpt": "Stewards Inc. completed a $79 million refinancing of 1818 Park, its luxury multifamily residential community in downtown Hollywood, Florida. Multihousing News reports Stewards acquired 1818 Park last August for $190 million. 1818 Park is a 22-story luxury residential community offering studio, one-, two- and three-bedroom residences complemented by resort-style amenities, including coworking space, fitness facilities, resort-style pools and ground-floor retail. The property is currently approximately 94% occupied and benefits from its location in downtown Hollywood. The refinancing was completed with senior financing provided by Värde Partners and mezzanine financing provided by CCL Capital. The transaction was arranged by BayBridge Real Estate Capital, with Jay Miller, Spencer Miller, AJ Felberbaum and Noah Rothman leading the placement effort on behalf of the Company. On its website, Stewards touts that its integrated model combines technology-enabled small business finance, income-producing real estate, and emerging digital infrastructure, creating a diversified foundation for performance, stability, and scale. The post Stewards Inks $79M Refi of Hollywood Rental Asset appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-29T14:41:13+00:00",
+      "bullets": [
+        "Stewards Inc. completed $79M refinancing of 1818 Park, 22-story luxury multifamily in downtown Hollywood, Florida",
+        "Property 94% occupied; Stewards acquired asset August 2023 for $190M; senior and mezzanine financing secured",
+        "Värde Partners (senior) and CCL Capital (mezzanine) provided debt; arranged by BayBridge Real Estate Capital"
+      ],
+      "summary": "Stewards Inc. completed a $79 million refinancing of 1818 Park, a 22-story luxury multifamily community in downtown Hollywood, Florida, offering studio, one-, two-, and three-bedroom residences. The property is currently 94% occupied and was acquired by Stewards in August 2023 for $190 million. Senior financing came from Värde Partners and mezzanine financing from CCL Capital, arranged by BayBridge Real Estate Capital.",
+      "impact": "Refi at 41.6% LTV on a $190M August 2023 acquisition signals strong operational performance and stable cap rates in South Florida luxury rental market. High occupancy (94%) and successful refi in current rate environment demonstrate coastal Florida multifamily demand resilience. This validates development risk assumptions for premium assets in downtown Hollywood submarket and suggests cap-rate compression may be stabilizing—relevant for forward-looking acquisitions."
+    },
+    {
+      "title": "White Lodging Breaks Ground on Marriott-Branded Charlotte Hotel",
+      "link": "https://www.connectcre.com/stories/white-lodging-breaks-ground-on-marriott-branded-charlotte-hotel/",
+      "excerpt": "White Lodging will break ground this month on a new Autograph Collection (Marriott) hotel in Charlotte’s South End neighborhood, marking the company’s fifth Autograph property in its national portfolio of more than 60 hotels. Situated at the intersection of South Tryon Street and Bland Street, the project is the first full-service hotel in the South End. The 295-room luxury hotel will feature nearly 10,000 square feet of meeting space and a ground-floor restaurant. Amenities include an open-air pool deck on the hotel’s fifth floor, a public steam sauna, plus cold- and hot-plunge pools and a spa. A restaurant and bar at the hotel has been designed to serve as a community anchor in the South End neighborhood. Brasfield &amp; Gorrie is in charge of construction and Abeyta Architecture Studio &amp; Corgan Architects are designing the project. The post White Lodging Breaks Ground on Marriott-Branded Charlotte Hotel appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-29T14:24:44+00:00",
+      "bullets": [
+        "White Lodging breaking ground this month on 295-room Autograph Collection (Marriott) hotel in Charlotte South End",
+        "First full-service hotel in South End neighborhood; intersection of South Tryon and Bland streets",
+        "Brasfield & Gorrie managing construction; 10k sq ft meeting space, ground-floor restaurant, luxury amenities"
+      ],
+      "summary": "White Lodging is breaking ground on a new Autograph Collection (Marriott) hotel in Charlotte's South End neighborhood, the company's fifth Autograph property nationally. The 295-room luxury hotel will feature nearly 10,000 square feet of meeting space, a ground-floor restaurant, an open-air pool deck, spa, and plunge pools. The project is the first full-service hotel in the South End.",
+      "impact": "Not directly relevant to multifamily development. However, hospitality anchor in Charlotte South End signals neighborhood densification and amenity proliferation that typically precedes or accompanies mixed-use residential development. Ground-floor restaurant and resort positioning suggest strong urban walkability positioning in South End, which supports rental multifamily demand and rent growth in the micromarket over next 2–3 years."
+    },
+    {
+      "title": "EM Debt Emerges as Top Relative-Value Play for Yield",
+      "link": "https://www.connectcre.com/stories/em-debt-emerges-as-top-relative-value-play-for-yield/",
+      "excerpt": "Executive Summary Emerging market debt is regaining momentum after a three-year capital flight, with more than $17 billion of net inflows so far this year and improving sovereign credit quality supporting the case for both hard-currency and local-currency strategies. The trade remains sensitive to the U.S. dollar and geopolitics, but it is a compelling way to capture income, diversification and potential spread compression. Relative-Value Play Emerging market debt is reemerging as one of the strongest relative-value opportunities in global fixed income, as institutional investors rotate toward higher-yielding sovereign and corporate bonds amid improving credit conditions and slowing inflation across many developing economies. The asset class has reversed course following three consecutive years of capital outflows between 2022 and 2024. During the past 15 months, investor sentiment has improved markedly, with emerging market bond funds attracting more than $17 billion in net inflows this year. While emerging market debt still carries currency and geopolitical risks, the combination of attractive real yields, improving sovereign credit quality and portfolio diversification has strengthened its appeal relative to many developed-market fixed-income assets. Higher Real Rates Stand Out The widening gap in real interest rates between emerging and developed economies makes this trade a compelling one. Central banks in countries including Brazil, Colombia, Indonesia and Egypt tightened monetary policy aggressively during the global inflation cycle. As inflation has since moderated while policy rates remain elevated, one can now earn some of the highest inflation-adjusted yields available in global bond markets. By contrast, many developed economies continue to contend with persistent inflation, leaving real returns on government debt comparatively less attractive despite higher nominal yields. Emerging market corporate bonds also continue to offer a meaningful yield premium",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-29T14:12:45+00:00",
+      "bullets": [
+        "Emerging market debt attracting $17B+ net inflows in 2024 after three years of capital flight",
+        "Institutional investor rotation toward higher-yielding sovereign and corporate bonds in developing economies",
+        "Improving credit quality, slowing inflation, and real-yield advantages drive EM fixed-income appeal"
+      ],
+      "summary": "Emerging market debt is experiencing renewed investor appetite following three consecutive years of capital outflows between 2022 and 2024. Emerging market bond funds have attracted more than $17 billion in net inflows this year, driven by improving sovereign credit quality, slowing inflation, and attractive real yields. While currency and geopolitical risks remain, the asset class is reemerging as a compelling fixed-income opportunity offering diversification and income.",
+      "impact": "Indirect but material: capital rotation into EM debt may compete with U.S. multifamily debt and equity for institutional allocations, particularly from pension funds and endowments. Rising EM real yields could pressure multifamily cap rates and debt pricing if U.S. rates remain sticky. Monitor whether this signals broader fixed-income yield compression risk in 2025, affecting construction financing and acquisition cap rates across major metros."
+    },
+    {
+      "title": "Work Underway on 1,656-Bed University of Georgia Student Housing Venture",
+      "link": "https://www.connectcre.com/stories/work-underway-on-1656-bed-university-of-georgia-student-housing-venture/",
+      "excerpt": "Core Spaces (Core) closed financing and broke ground on the Hub Athens Dougherty, a new 1,656-bed purpose-built student housing community located near University of Georgia set to deliver in 2028. Multifamily News reports Hub Athens Dougherty will include 536 units and 1,656 beds across a mid-rise development, offering a mix of floor plans from studios to five-bedroom units, balancing premium layouts with more affordable options to serve a wide range of student needs. Amenities include more than 27,000 square feet of interior amenities and an additional 20,000 square feet of exterior amenity space, featuring study lounges, group study rooms, fitness and wellness areas, a resort-style rooftop pool, and common spaces designed to foster connection and community. Hub Athens will also have 16,000 square feet of retail space. Key development and design partners include Mallory &amp; Evans, JNS Realty, Northworks Architects. Construction is led by a joint venture between Core Spaces and Juneau Construction Company. Financing was provided by Affinius Capital and arranged by TSB Capital Partners. The post Work Underway on 1,656-Bed University of Georgia Student Housing Venture appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-29T14:06:50+00:00",
+      "bullets": [
+        "Core Spaces closed financing and broke ground on Hub Athens Dougherty, 1,656-bed student housing near University of Georgia",
+        "536-unit development delivering 2028; mix of studios to five-bedroom units; 27k+ sq ft interior and 20k sq ft exterior amenities",
+        "Affinius Capital financed; Core Spaces and Juneau Construction joint venture managing construction"
+      ],
+      "summary": "Core Spaces closed financing and broke ground on Hub Athens Dougherty, a 1,656-bed purpose-built student housing community near University of Georgia, set to deliver in 2028. The 536-unit mid-rise development offers a range of floor plans from studios to five-bedroom units, with more than 47,000 total square feet of amenity space. Affinius Capital provided financing, arranged by TSB Capital Partners, with construction led by a joint venture between Core Spaces and Juneau Construction Company.",
+      "impact": "Strong capital availability for student housing in Athens market signals investor confidence in college-town multifamily demand and demographic tailwinds. 2028 delivery aligns with broader student housing supply cycle; watch for Athens market saturation risk if competing projects break ground. UGA's enrollment trajectory and local job growth (healthcare, tech) will determine whether graduate and young-professional housing demand supports both student and market-rate rental absorption post-2028."
+    },
     {
       "title": "The Plan: With a Big Vacancy Looming, Durst Goes Big on Renovating 114 West 47th",
       "link": "https://commercialobserver.com/2026/07/114-west-47th-durst-design/",
@@ -32,87 +137,12 @@
       "cat": "Commercial",
       "date": "2026-07-29T10:00:31+00:00",
       "bullets": [
-        "Durst Organization renovating 600K SF Midtown Manhattan office by 2029",
-        "Major lobby, amenity, and building systems upgrades to combat office vacancy",
-        "Four office tenants, one retail tenant remaining during construction"
+        "Durst Organization renovating 114 West 47th Street, 600k sq ft Midtown Manhattan office, completing by 2029",
+        "Renovation includes new lobby, tenant lounge, private terraces, elevator upgrades, HVAC systems; existing tenants remain during work",
+        "Market-rate office repositioning amid significant Midtown vacancy; high ceiling heights (12–14 ft) and deep plates (18k–32k sq ft)"
       ],
-      "summary": "Durst Organization is investing heavily to renovate 114 West 47th, a 600,000-square-foot Midtown Manhattan office tower, adding a new lobby, 2,500-SF tenant lounge, private terraces on seven floors, upgraded HVAC, and improved ceiling heights (12–14 feet) and floor plates (18K–32K SF). Work concludes by 2029. The developer is retaining all current tenants during construction, signaling confidence in the asset's marketability post-upgrade.",
-      "impact": "This is a defensive value-play in Midtown office, not a demand signal. Durst's investment reflects the need to compete for tenants in a soft market; large-scale renovations to secure occupancy indicate ongoing Manhattan office softness and the cost burden on developers to differentiate supply. Multifamily developers should note Midtown's oversupply and tenant competition, which may suppress office worker in-migration and nearby residential demand."
-    },
-    {
-      "title": "Sky Equity Goes Vertical on Tribeca Condos",
-      "link": "https://www.connectcre.com/stories/sky-equity-goes-vertical-on-tribeca-condos/",
-      "excerpt": "Sky Equity Group, the New York City-based real estate development firm founded by Simon Dushinsky, has launched vertical construction at 65 Franklin St., an upcoming luxury condominium in Manhattan’s Tribeca neighborhood. With foundation work complete, the 24-story tower is rising above the corner of Franklin Street and Broadway. The building broke ground in April and sales are slated to launch next year. “We’re pleased to reach this important construction milestone at&nbsp;65&nbsp;Franklin&nbsp;Street as we continue expanding our condominium portfolio in Manhattan,” said Dushinsky. “Thoughtfully designed to complement Tribeca’s distinctive architecture and historic streetscape,&nbsp;65&nbsp;Franklin&nbsp;will be a meaningful addition to the neighborhood while delivering an exceptional residential offering for future homeowners.” In 2025, Sky Equity secured a $320-million construction loan with G4 Capital Partners for the ground-up condominium. Sky Equity Group also acquired 65 Franklin’s neighboring site, 59 Franklin St., from Bonjour Capital and air rights from 361 Broadway, a landmarked building across the street, for the development. Following a restructuring and recapitalization with HAP Investments in 2025, Sky Equity became the project&#8217;s sole developer. Where the apartment industry connects. Meet the owners, investors, developers, lenders, brokers, and service providers driving today’s multifamily market at Connect Apartments. Build relationships, uncover opportunities, and stay ahead of what’s nex The post Sky Equity Goes Vertical on Tribeca Condos appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-28T21:43:26+00:00",
-      "bullets": [
-        "Sky Equity vertical construction underway, 65 Franklin Street, 24-story luxury condo, Tribeca Manhattan",
-        "$320M construction loan closed with G4 Capital Partners in 2025",
-        "Sales launch 2026; developer acquired air rights and neighboring site to expand density"
-      ],
-      "summary": "Sky Equity Group has begun vertical construction on 65 Franklin Street, a 24-story luxury condominium in Tribeca with foundation complete and sales launching in 2026. The developer secured a $320 million construction loan from G4 Capital Partners in 2025 and acquired adjacent land and air rights to maximize the site. The project reflects continued condo confidence in core Manhattan despite broader affordability concerns.",
-      "impact": "Construction capital remains available for trophy Manhattan residential in high-demand submarkets; G4 Capital's $320M loan signals lender comfort with luxury Manhattan condo risk despite recent market volatility. Tribeca supply pipeline remains elevated; multifamily developers competing in Manhattan should monitor luxury condo starts, as condo absorption may cannibalize rental demand in nearby buildings, particularly for younger affluent cohorts."
-    },
-    {
-      "title": "Paragon Acquires Grocery-Anchored Shopping Center from Long-Term Owners",
-      "link": "https://www.connectcre.com/stories/paragon-acquires-grocery-anchored-shopping-center-from-long-term-owners/",
-      "excerpt": "Paragon Commercial Group has completed the off-market acquisition of a grocery-anchored shopping center in the Tujunga neighborhood of Los Angeles. Located on Foothill Boulevard in northeastern Los Angeles along the foothills of the San Gabriel mountains, the 46,055 square-foot property was acquired from the family of the original developer that had owned and operated the property for more than six decades. Greg Offsay and Caleb Morrison of illi Commercial Real Estate brokered the transaction, marking the second off-market deal Paragon has made in as many months. The nearly 2.7-acre center is anchored by Smart &amp; Final, a tenant of more than 30 years, and Goodwill, which has occupied the property for 25 years. “This acquisition is right in the strike zone for Paragon because it is an irreplaceable, grocery-anchored center with decades of tenant loyalty that will benefit from Paragon’s unique hands-on management and leasing structure,” said Mark Harrigian, co-founder and principal of Los Angeles-based Paragon. &#8220;Purchasing from long-term owners gives our team the ability to bring a fresh perspective and fresh capital to the property, while preserving the anchor tenancy that has been a foundation of this community for a generation.&#8221; Paragon plans to upgrade physical attributes of the center to better reflect the surrounding community, including the common area, building facades, lighting and signage. The post Paragon Acquires Grocery-Anchored Shopping Center from Long-Term Owners appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-28T21:27:53+00:00",
-      "bullets": [
-        "Paragon Commercial acquired 46K SF grocery-anchored center, Tujunga/Foothill Boulevard, Los Angeles",
-        "Smart & Final (30+ years), Goodwill (25 years) anchor tenants with long lease stability",
-        "Off-market deal from family owner; second off-market acquisition by Paragon in two months"
-      ],
-      "summary": "Paragon Commercial Group completed an off-market acquisition of a 46,055-square-foot grocery-anchored shopping center in Tujunga, northeastern Los Angeles, anchored by Smart & Final (30+ years) and Goodwill (25 years). The nearly 2.7-acre property was purchased from the original developer's family, who had owned it for over six decades. Paragon plans to apply hands-on management and leasing expertise to unlock value while preserving anchor stability.",
-      "impact": "Limited direct relevance to multifamily development. However, grocery-anchored retail resilience in secondary Los Angeles neighborhoods (Tujunga) indicates stable foot traffic and community demand; multifamily developers underwriting nearby infill or mixed-use projects should view grocery anchor strength as a positive demand co-signal for residential absorption in submarkets with entrenched retail anchors."
-    },
-    {
-      "title": "Sterling Organization Nears Delivery of High-Bay Bronx Warehouse",
-      "link": "https://www.connectcre.com/stories/sterling-organization-nears-delivery-of-high-bay-bronx-warehouse/",
-      "excerpt": "JLL has begun marketing 307 Bruckner, a newly developed 100,000-square-foot industrial property in the Bronx. Developed by the Sterling Organization and scheduled for delivery in the third quarter of 2026, 307 Bruckner combines a high-bay warehouse with covered fleet parking. Vice chairman Leslie Lanne, SVPs Jeremy Liebler and James Ferrigno and senior managing director Seth Geldzahler lead the JLL leasing team. “Companies serving New York have become far more sophisticated in how they think about their supply chains,” said Lanne. “Occupiers want facilities that shorten delivery windows, accommodate growing vehicle fleets and improve operating efficiency without sacrificing proximity to their customers. That&#8217;s exactly what 307 Bruckner was designed to deliver.” Located less than a mile from the RFK, Willis Avenue and Third Avenue bridges, with immediate access to both the Bruckner and Major Deegan expressways, 307 Bruckner offers rapid connectivity to a population of more than 16 million across Manhattan, Queens, Brooklyn, northern New Jersey and Westchester. The post Sterling Organization Nears Delivery of High-Bay Bronx Warehouse appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-28T21:17:59+00:00",
-      "bullets": [
-        "Sterling Organization delivering 100K SF high-bay warehouse, Bronx, Q3 2026",
-        "307 Bruckner combines high-bay warehouse with covered fleet parking; proximate to RFK, Willis, Third Ave bridges",
-        "JLL marketing emphasizes supply-chain efficiency, rapid connectivity to 16M population across five boroughs and NJ"
-      ],
-      "summary": "Sterling Organization is nearing delivery of 307 Bruckner, a 100,000-square-foot industrial property in the Bronx scheduled for Q3 2026, combining high-bay warehouse space with covered fleet parking. Positioned less than a mile from three major bridges with express access to the Bruckner and Major Deegan expressways, the asset targets companies optimizing supply-chain efficiency and last-mile logistics serving a 16+ million population across the tri-state region. JLL's leasing team notes tenants increasingly prioritize warehouse design that shortens delivery windows and improves operational efficiency.",
-      "impact": "Bronx industrial supply is growing and absorbing tenants seeking proximity to Manhattan/NJ customer bases without premium Manhattan or Jersey City rents. This supply increase may moderate Bronx industrial pricing and cap rates, affecting multifamily development financing in Bronx submarkets if cap-rate compression reduces cross-collateral borrowing capacity. Monitor Bronx industrial absorption and rental growth; strong logistics demand supports daytime employment and transit ridership, which can boost nearby residential demand if residential supply remains tight."
-    },
-    {
-      "title": "CBRE Arranges Full-Building Industrial Lease in Irvine",
-      "link": "https://www.connectcre.com/stories/cbre-arranges-full-building-industrial-lease-in-irvine/",
-      "excerpt": "CBRE completed a full-building lease for 136,612 square feet to an undisclosed tenant at&nbsp;Irvine&nbsp;Commerce Center, a Class A industrial building located at 18582 Teller Ave. in&nbsp;Irvine. EVPs Ross Bourne and Ross Fippinger and senior associate Joe Czech represented the owner, an Ares Real Estate fund. Marq Logistics, which represents Ares’ vertically integrated global logistics real estate platform, developed&nbsp;Irvine&nbsp;Commerce Center and manages the property. The building includes 13,275 square feet of high-end office space with upgraded finishes, along with modern industrial features designed to accommodate a range of distribution and light manufacturing uses. Located along Jamboree Road in&nbsp;Irvine’s Airport Area submarket, the property provides immediate access to the Interstate 405 freeway and is near Newport Beach. The surrounding&nbsp;Irvine&nbsp;Business Complex offers a wide range of walkable amenities. “We continue to see sustained demand for high-quality industrial space across Orange County,” said Bourne. “The deal highlights the resiliency of the Airport Area industrial market.” Hear from the West Coast’s Leading Industrial Real Estate Experts | August 20Gain firsthand insight from the executives, investors, and developers navigating today’s industrial market. From shifting capital flows and debt trends to evolving occupier demand and development strategies, take part in the conversations shaping the future of industrial real estate. Register now: www.connectindustrialwest2026.com The post CBRE Arranges Full-Building Industrial Lease in Irvine appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-28T21:05:26+00:00",
-      "bullets": [
-        "Ares Real Estate fund full-building lease, 136.6K SF Class A industrial, Irvine Commerce Center",
-        "Tenant undisclosed; includes 13.3K SF high-end office with modern finishes for mixed industrial/light manufacturing uses",
-        "Orange County Airport Area submarket shows sustained demand; CBRE notes market resiliency"
-      ],
-      "summary": "CBRE secured a full-building lease for 136,612 square feet at Irvine Commerce Center (18582 Teller Ave.), a Class A industrial property owned by an Ares Real Estate fund and developed/managed by Marq Logistics. The lease includes 13,275 SF of upgraded office space and is designed for distribution and light manufacturing uses. Located along Jamboree Road near Newport Beach with Interstate 405 access, the property exemplifies sustained demand for high-quality industrial space in Orange County.",
-      "impact": "Orange County industrial market remains tight; full-building absorption in Class A stock indicates supply constraints and strong tenant demand for modern facilities. This supply tightness may elevate Irvine-area industrial rents and cap rates, reducing development feasibility for industrial new supply. For multifamily developers, strong warehouse absorption near Irvine Business Complex signals robust local employment and suggests residential demand uptick in adjacent Irvine submarkets, supporting rental growth assumptions."
-    },
-    {
-      "title": "Clarion Partners Acquires Grocery-Anchored Fairfield County Retail",
-      "link": "https://www.connectcre.com/stories/clarion-partners-acquires-grocery-anchored-fairfield-county-retail/",
-      "excerpt": "Franklin Templeton and its real estate investment manager Clarion Partners announced Clarion Partners Real Estate Income Fund Inc.’s acquisition of Main Avenue Shopping Plaza, a 156,568-square-foot grocery-anchored community shopping center in Norwalk, CT. The purchase price was not disclosed. JLL represented the seller, a joint venture between Sagehall Partners and The Prusik Group. Located in densely populated Fairfield County, Main Avenue Shopping Plaza is fully leased to a roster of nationally recognized retailers led by Stop &amp; Shop, Hobby Lobby, and Total Wine &amp; More. The 16-acre property has served the local community for nearly three decades and benefits from a prominent location at the intersection of Main Avenue, U.S. Route 7, and the Merritt Parkway &#8220;This acquisition reflects continued conviction in well-located, grocery-anchored retail centers that provide durable cash flow and potential long-term value creation,&#8221; said Clarion Transactions VP Taylor Epperson. &#8220;Main Avenue Shopping Plaza combines exceptional real estate fundamentals with a highly stable tenant roster serving an affluent and growing consumer base. The property&#8217;s strong occupancy, long-term leases and strategic location make it an excellent opportunity for our investors.&#8221; The post Clarion Partners Acquires Grocery-Anchored Fairfield County Retail appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-28T20:50:04+00:00",
-      "bullets": [
-        "Clarion Partners acquired Main Avenue Shopping Plaza, 156.6K SF grocery-anchored, Norwalk CT",
-        "Stop & Shop, Hobby Lobby, Total Wine & More anchors; fully leased; 16-acre site, 30-year history",
-        "Prime Fairfield County location: Main Ave/US Route 7/Merritt Parkway; affluent, growing consumer base"
-      ],
-      "summary": "Clarion Partners (Franklin Templeton REIT) acquired Main Avenue Shopping Plaza, a 156,568-square-foot, fully leased grocery-anchored shopping center in Norwalk, Connecticut. The 16-acre center, which has served the community for nearly three decades, is anchored by Stop & Shop, Hobby Lobby, and Total Wine & More. The property's strategic location at the intersection of Main Avenue, U.S. Route 7, and the Merritt Parkway, combined with its stable tenant roster and long-term leases, attracted institutional investor conviction.",
-      "impact": "Fairfield County grocery-anchored retail remains institutional-quality income-producing asset; Clarion's acquisition signals durable cash flow expectations in affluent CT suburbia. Strong retail anchors and demographics support nearby multifamily demand; multifamily developers in Norwalk/Fairfield County should view Clarion's purchase as validation of demographic resilience and consumer spending in the corridor, supporting rent-growth assumptions for new residential supply targeting affluent suburban cohorts."
+      "summary": "Durst Organization is undertaking major renovations of 114 West 47th Street, a 600,000-square-foot Midtown Manhattan office asset, to be completed by 2029. The renovation includes a shining new lobby, tenant lounge and conferencing center, private terraces on seven floors, elevated ceiling heights (12–14 feet), large floor plates (18,000–32,000 square feet), and systems upgrades including new chillers and elevators. Four office tenants and one retail tenant will remain during construction.",
+      "impact": "Minimal direct multifamily impact. However, Durst's aggressive Midtown office capital deployment signals belief in office sector stabilization post-2027. If office conversion-to-residential thesis accelerates, Midtown's architectural quality (high ceilings, light, plate size) makes 114 West 47th a candidate for future residential conversion. Monitor Durst's capital allocation strategy—sustained office investment suggests conversion unlikely near-term, but watch for market signals if leasing momentum stalls post-2029."
     },
     {
       "title": "Bill Ackman Buys 125 West End Avenue for $260M Brain Research Institute",
@@ -122,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-07-28T20:48:50+00:00",
       "bullets": [
-        "Bill Ackman/Pershing Square Foundation $188M acquisition of 125 West End Avenue, Manhattan",
-        "400K SF life sciences building for Ackman Oxman Institute brain research center; another $70M deal pending",
-        "Combined 700K SF research/office space secured between West 65th and West 66th Streets"
+        "Bill Ackman's Pershing Square Foundation paid $188M for 125 West End Avenue, Upper West Side Manhattan",
+        "400k sq ft life sciences building planned; combined with in-contract 320 West 66th Street (~$70M), total 700k sq ft research campus",
+        "Ackman Oxman Institute brain research center to anchor facility; strategic Upper West Side life sciences cluster investment"
       ],
-      "summary": "Pershing Square Foundation, the philanthropic arm of billionaire hedge funder Bill Ackman, acquired 125 West End Avenue on Manhattan's Upper West Side for $188 million to develop a 400,000-square-foot life sciences building housing the Ackman Oxman Institute for brain research. A second in-contract acquisition of 320 West 66th Street (approximately $70 million) will bring the combined research and office footprint to roughly 700,000 square feet between West 65th and West 66th Streets.",
-      "impact": "Major institutional life sciences capital inflow to Upper West Side signals long-term institutional commitment to that corridor; brain research institute will anchor high-earning professional workforce and increase daytime population density. Multifamily developers should monitor life sciences campus development and resulting talent in-migration; the institute may catalyze residential demand from research professionals and support rent growth in nearby Upper West Side apartments, particularly studios, one- and two-bedroom units targeting young scientists and researchers."
+      "summary": "Pershing Square Foundation, the philanthropic arm of hedge funder Bill Ackman, acquired 125 West End Avenue on Manhattan's Upper West Side for $188 million to establish a brain research institute. The 400,000-square-foot life sciences building will eventually host the Ackman Oxman Institute. Combined with an in-contract acquisition of the neighboring 320 West 66th Street (approximately $70 million), the foundation will control an estimated 700,000 square feet of research and office space between West 65th and 66th streets.",
+      "impact": "Significant long-term multifamily demand signal: large-scale life sciences anchor deployment on Upper West Side drives institutional job creation, talent attraction, and population in-migration into West 65th–77th corridor. This strengthens multifamily rental demand and supports rent growth in Upper West Side and adjacent Central West Side submarkets over 3–5 years. Watch for residential conversion or new ground-up multifamily development opportunities near the campus—life sciences clusters historically catalyze young professional housing demand and allow higher rents."
     },
     {
       "title": "Goulston & Storrs Adds Brian Grindall to Real Estate Practice",
@@ -137,42 +167,12 @@
       "cat": "Commercial",
       "date": "2026-07-28T20:44:08+00:00",
       "bullets": [
-        "Attorney Brian Grindall joins Goulston & Storrs, Washington DC, as real estate director",
-        "16 years at Tenenbaum & Saas; prior general counsel at Opus Group development firm",
-        "Focus: acquisitions, dispositions, financing, leasing, development, joint ventures, loan workouts"
+        "Brian Grindall, 16-year veteran at Tenenbaum & Saas, joins Goulston & Storrs as director in Washington D.C. office",
+        "Former Opus Group general counsel; expertise in acquisitions, dispositions, financing, leasing, development, joint ventures, loan workouts",
+        "Law firm expansion in D.C. reflects robust local real estate transaction demand and deal complexity"
       ],
-      "summary": "Commercial real estate attorney Brian Grindall, who spent 16 years as partner at Tenenbaum & Saas in Washington, D.C., and previously served as general counsel at development firm Opus Group, joined law firm Goulston & Storrs as director of the D.C. real estate practice. Grindall's expertise spans acquisitions, dispositions, financing, leasing, development, joint ventures, and loan workouts across major CRE transactions.",
-      "impact": "Minimal direct impact on multifamily supply, demand, or capital markets. Lateral hire reflects healthy legal services demand in Washington, D.C., CRE market and may signal elevated transaction volume. Developers with Washington, D.C., portfolios or planned DC market entries should note Grindall's move may enhance Goulston & Storrs' capability to serve multifamily clients in the region, but does not signal market-wide demand shifts."
-    },
-    {
-      "title": "U.S. Department of Veterans Affairs Takes 5K SF at 1733 Eastchester Road in the Bronx",
-      "link": "https://commercialobserver.com/2026/07/us-department-veterans-affairs-lease-1733-eastchester-road-bronx/",
-      "excerpt": "Simone Development Companies has brought its two-story, 27,275-square-foot medical and office building at 1733 Eastchester Road in the Bronx’s Morris Park neighborhood to full occupancy, according to the firm. The building’s last vacant space was leased in June, when the U.S. General Services Administration (GSA) inked a long-term, 5,234-square-foot lease to house the U.S. Department of Veterans Affairs’ new Bronx Vet Center at the property. It was a direct lease between the GSA and Simone. The Bronx vet center will provide counseling, outreach and referral services to veterans and service members, as well as their families. The Department of Veterans Affairs has several other vet centers in New York City, including locations in Ridgewood, Queens, Downtown Brooklyn and in Midtown. The asking rent in the deal was not disclosed, but the average asking rent for office space in the Bronx was $39.46 per square foot during the second quarter of 2026, according to research by PropertyShark. The vet center’s lease brought Simone’s 1733 Eastchester Road to full occupancy after the landlord also signed a 2,766-square-foot lease in May with Downtown Brooklyn Physical Therapy to open the medical service provider’s first Bronx location. The length of that lease and the asking rent were not disclosed. Simone was also represented in-house in this deal, while the tenant was represented by Gary Mayzlin from Real Estate Trade Company. Mayzlin did not immediately respond to a request for comment. “The full lease-up of 1733 Eastchester Road reflects the growing need for well-located and high-quality outpatient medical and social services space in the Bronx,” Joe Simone, president of Simone, said in a statement. “We’re thrilled that the U.S. Department of Veterans Affairs and Downtown Brooklyn PT chose this property, which offers great visibility, modern professional space, and a strategic location to accommodate the expanding needs of these vital service providers.” Other tenants at 17",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-28T19:54:44+00:00",
-      "bullets": [
-        "U.S. Department of Veterans Affairs leased 5.2K SF at 1733 Eastchester Road, Bronx",
-        "Simone Development Companies' two-story, 27.3K SF medical/office building now at 100% occupancy",
-        "GSA direct lease; Veterans Affairs counseling/outreach center joins Ridgewood QNS, Brooklyn, Midtown locations"
-      ],
-      "summary": "Simone Development Companies achieved 100% occupancy at its two-story, 27,275-square-foot medical and office building at 1733 Eastchester Road in the Bronx's Morris Park neighborhood when the U.S. General Services Administration (GSA) signed a long-term lease for 5,234 square feet to house a U.S. Department of Veterans Affairs Vet Center. The facility will provide counseling, outreach, and referral services to veterans, service members, and their families, joining other VA facilities across NYC.",
-      "impact": "Federal tenant commitment to Bronx office space signals government confidence in the borough's accessibility and real estate fundamentals. The VA center anchors the asset and provides lease stability; for multifamily developers, stable government/institutional tenants in Bronx medical office buildings validate the neighborhood's utility and attract complementary professional services, supporting residential leasing in adjacent Bronx neighborhoods (Morris Park, East Tremont) with employed service-sector and healthcare workers."
-    },
-    {
-      "title": "Whole Foods Signs 8K-SF Lease to Open Daily Shop at 1524 Second Avenue",
-      "link": "https://commercialobserver.com/2026/07/whole-foods-market-daily-shop-lease-1524-second-avenue/",
-      "excerpt": "Whole Foods Market has signed a lease on the Upper East Side to open its version of a mini-mart. The Amazon-owned grocery chain closed an 8,121-square-foot deal for one of its small-scale concepts on the ground floor of ConTowers Associates LP’s 1524 Second Avenue, also known as the Continental Towers, according to landlord broker Newmark. While the brokers did not define what kind of concept the store will be, the focus will be on prepared foods in a convenient setting. It will likely be part of the grocer’s Whole Foods Market Daily Shop concept, which launched in March 2024. Newmark did not disclose the length of the lease, but said the asking rent was $250 per square foot. &#8220;This transaction presented a unique opportunity to secure a highly visible corner location in one of Manhattan&#8217;s most established neighborhood retail corridors,&#8221; Newmark’s Jeffrey Roseman, who represented the landlord alongside Drew Weiss, said in a statement. &#8220;The combination of the property&#8217;s location, visibility and surrounding residential density made it an excellent fit for Whole Foods Market&#8217;s neighborhood store format.&#8221; Chase Welles and Jacqueline Klinger of The Shopping Center Group negotiated on behalf of Whole Foods, but did not immediately respond to a request for comment. Whole Foods has been expanding its daily shop presence in New York City lately, signing a ​​15-year, 10,000-square-foot lease at 1224 Flushing Avenue in Bushwick, Brooklyn, in June for the bodega-branded concept. In January, however, the e-commerce giant announced it would close all of its Amazon Go and Amazon Fresh locations in an effort to focus on Whole Foods as a brand and on its online grocery delivery services. Mark Hallum can be reached at mhallum@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-28T19:31:41+00:00",
-      "bullets": [
-        "Whole Foods Market signed 8.1K SF lease, 1524 Second Avenue, Upper East Side Manhattan",
-        "Daily Shop concept (launched March 2024); ground-floor retail with prepared foods focus",
-        "Asking rent $250/SF; landlord ConTowers Associates represented by Newmark"
-      ],
-      "summary": "Whole Foods Market, owned by Amazon, signed an 8,121-square-foot lease at 1524 Second Avenue (Continental Towers) on Manhattan's Upper East Side to open a Daily Shop concept focused on prepared foods. The ground-floor location offers high visibility in an established neighborhood retail corridor. The asking rent was $250 per square foot.",
-      "impact": "Whole Foods Daily Shop expansion signals Amazon's confidence in Upper East Side retail fundamentals and shopper convenience needs; the smaller-format concept targets daytime office workers and nearby residential customers. Upper East Side retail velocity and rent absorption ($250/SF ground-floor) indicate healthy leasing demand; multifamily developers in Upper East Side residential buildings should view grocery/prepared-foods retail as a positive amenity co-signal supporting residential rents and tenant satisfaction in luxury and market-rate buildings."
+      "summary": "Brian Grindall, a veteran commercial real estate attorney with 16 years at Tenenbaum & Saas in Washington, D.C., and prior service as general counsel at development firm Opus Group, has joined Goulston & Storrs as a director in the firm's Washington, D.C. office. Grindall's practice covers acquisitions, dispositions, financing, leasing, development, joint ventures, and loan workouts across major commercial real estate transactions.",
+      "impact": "Minimal direct impact on multifamily development strategy. However, elite law firm expansion in D.C. office market signals sustained deal velocity and complexity in the region—likely driven by multifamily and mixed-use development activity, fund formation, and institutional capital deployment. This suggests healthy transactional environment in Washington D.C. multifamily market, supporting development underwriting assumptions and financing availability for regional developers."
     }
   ]
 }
