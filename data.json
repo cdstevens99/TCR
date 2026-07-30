@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-30T17:16:31.476639+00:00",
+  "fetchedAt": "2026-07-30T19:11:11.608318+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -10,20 +10,110 @@
     {
       "label": "10Y Treasury",
       "value": "4.66%",
-      "pct": 0.8
+      "pct": 0.89
     },
     {
       "label": "30Y Treasury",
       "value": "5.21%",
-      "pct": 1.21
+      "pct": 1.26
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "99.19",
-      "pct": -1.46
+      "value": "99.31",
+      "pct": -1.34
     }
   ],
   "stories": [
+    {
+      "title": "$174M Sale Closes for 783K-SF Frederickson Industrial Facility",
+      "link": "https://www.connectcre.com/stories/174m-sale-closes-for-783k-sf-frederickson-industrial-facility/",
+      "excerpt": "Cushman &amp; Wakefield has arranged the sale of a 782,775 square-foot industrial facility located in Frederickson, Washington. The property is fully leased to Harbor Freight Tools and has an average weighted lease term of 8.8 years, making it a core investment opportunity in the Seattle-Tacoma industrial market. The Cushman &amp; Wakefield team of Bryce Aberg, Jeff Chiate, Matthew Leupold, Charlie Jacobs and Jeffrey Cole represented the seller in the transaction. The property was acquired by an institutional industrial investor. “This transaction shines a light on the continued demand for institutional-quality logistics assets in core Pacific Northwest locations,” said Aberg. “The disposition of Fred 310 Harbor Freight demonstrates the ongoing flight to quality, driving the greater Pacific Northwest industrial markets.” The property comprises a single industrial building featuring modern warehouse and distribution specifications. Designed for large-scale logistics operations, the building includes high clear heights, ample dock-high loading positions and expansive truck courts. FRED310 Industrial Park was developed by Panattoni and Crow Holdings Capital. Connect Industrial West | August 20&nbsp;| Irvine, CAOn August 20, Connect Industrial West&nbsp;will bring together the owners, investors, developers, brokers, lenders, and occupiers driving industrial real estate across the Western U.S. Join top decision-makers for an afternoon of market insights, dealmaking opportunities, and networking with the industry&#8217;s most influential players. &nbsp;Register now: www.connectindustrialwest2026.com The post $174M Sale Closes for 783K-SF Frederickson Industrial Facility appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-30T18:55:35+00:00",
+      "bullets": [
+        "Cushman & Wakefield closed $174M sale of 783K-SF Harbor Freight facility in Frederickson, WA",
+        "8.8-year weighted lease term sold to institutional industrial investor; demonstrates flight-to-quality trend",
+        "Property developed by Panattoni and Crow Holdings Capital; emphasizes logistics demand in Pacific Northwest"
+      ],
+      "summary": "Cushman & Wakefield arranged the $174 million sale of a fully leased 782,775-square-foot industrial facility in Frederickson, Washington, anchored by Harbor Freight Tools with an 8.8-year average lease term. An institutional industrial investor purchased the asset from the seller. The transaction underscores continued demand for institutional-quality logistics properties in core Pacific Northwest submarkets, driven by a broader institutional flight to quality.",
+      "impact": "Seattle-Tacoma industrial market remains a magnet for institutional capital seeking long-lease, modern logistics assets. This validates the supply-chain infrastructure thesis in the Pacific Northwest and suggests continued rent resilience in these core nodes, making development-ready land in West/North Seattle and Tacoma suburbs attractive for multifamily infill near employment clusters."
+    },
+    {
+      "title": "Global Healthcare REIT Acquires EmblemHealth-Leased Brooklyn MOB",
+      "link": "https://www.connectcre.com/stories/global-healthcare-reit-acquires-emblemhealth-leased-brooklyn-mob/",
+      "excerpt": "Newmark arranged the $89-million sale of Emblem Health Hub Medical Office Building, a 140,000-square-foot, trophy-quality MOB located at 101 Pennsylvania Ave. in Brooklyn&#8217;s East New York neighborhood. Vital Infrastructure Property Trust, a Canada-based global healthcare infrastructure REIT, acquired the property from developer Dominion Management Company. Co-Heads of U.S. Medical Office Capital Markets Ben Appel, U.S. Capital Markets Adam Spies, U.S. Healthcare Capital Markets Jay Miele and Justin Shepherd, alongside Head of Healthcare Debt John Nero, Executive Vice Chairman Adam Doneger, Vice Chairman Matt Berres, Senior Managing Director Michael Greeley and Associate Directors Ron Ott, Conor Hilton and Drew Martin, represented the seller. Completed as one of Brooklyn&#8217;s newest purpose-built medical office developments, Emblem Health Hub is fully leased long-term to EmblemHealth, New York&#8217;s largest independent physician group. &#8220;Institutional investors globally continue to prioritize high-quality medical office assets backed by strong healthcare operators, drawing investor interest from the U.S, Canada, Middle East, UK, and Asia,&#8221; said Appel. The post Global Healthcare REIT Acquires EmblemHealth-Leased Brooklyn MOB appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-30T18:49:25+00:00",
+      "bullets": [
+        "Vital Infrastructure Property Trust (Canada REIT) acquired $89M Brooklyn medical office building fully leased to EmblemHealth",
+        "140K-SF trophy MOB in East New York; long-term lease to NY's largest independent physician group",
+        "International institutional capital (US, Canada, Middle East, UK, Asia) prioritizing healthcare REITs with strong operator anchors"
+      ],
+      "summary": "Newmark arranged the $89 million sale of Emblem Health Hub, a 140,000-square-foot medical office building in Brooklyn's East New York neighborhood, to Vital Infrastructure Property Trust, a Canada-based healthcare REIT. The property is fully leased long-term to EmblemHealth, New York's largest independent physician group. The transaction signals strong global institutional appetite for high-quality, healthcare-operator-backed medical office assets.",
+      "impact": "Limited direct multifamily impact, but signals physician-group expansion and healthcare infrastructure investment in outer Brooklyn (East New York) submarkets. Worth monitoring: if EmblemHealth's growth continues, associated downstream demand for workforce housing near this medical hub and along the transport corridors connecting to Manhattan could support residential development in adjacent East Brooklyn and Canarsie areas."
+    },
+    {
+      "title": "Cabot Properties Sells 2.5M-SF Midwest Industrial Portfolio",
+      "link": "https://www.connectcre.com/stories/cabot-properties-sells-2-5m-sf-midwest-industrial-portfolio/",
+      "excerpt": "Cabot Properties, a global investor, developer, and operator of logistics properties, today announced the successful disposition of the North Central Portfolio, a collection of 11 modern industrial properties totaling approximately 2.5 million square feet across key industrial submarkets in Greater Chicago and Minneapolis, Minnesota. The diversified portfolio, which includes assets both developed and acquired by Cabot, was purchased by a prominent global asset manager. The Chicago-based CBRE Capital Markets team represented Cabot in the transactions. Six of the properties are located in the North/Central Kane County and West Suburbs submarkets of the Greater Chicago area and include four cross-dock facilities and two rear-load properties, totaling approximately 1.6 million square feet. The buildings are 97% occupied by a variety of tenants across various logistics and distribution uses. The additional five buildings comprise approximately one million square feet across Minneapolis’ Northwest and Southwest submarkets. The properties are 100% leased to a variety of distribution and light manufacturing occupiers. Hear from the West Coast’s Leading Industrial Real Estate Experts | August 20Gain firsthand insight from the executives, investors, and developers navigating today&#8217;s industrial market. From shifting capital flows and debt trends to evolving occupier demand and development strategies, take part in the conversations shaping the future of industrial real estate. Register now: www.connectindustrialwest2026.com The post Cabot Properties Sells 2.5M-SF Midwest Industrial Portfolio appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-30T18:36:44+00:00",
+      "bullets": [
+        "Cabot Properties sold 2.5M-SF Midwest industrial portfolio (11 properties) to global asset manager via CBRE",
+        "6 properties, 1.6M SF in Chicago North/Central Kane County and West Suburbs (97% occupied); 5 properties, 1M SF in Minneapolis (100% leased)",
+        "Portfolio demonstrates institutional flight to quality; logistics tenants across distribution, cross-dock, rear-load, light manufacturing"
+      ],
+      "summary": "Cabot Properties divested the North Central Portfolio, comprising 11 modern industrial properties totaling 2.5 million square feet across Greater Chicago and Minneapolis-St. Paul. Six Chicago-area properties (1.6M SF) in North/Central Kane County and West Suburbs are 97% occupied by logistics and distribution tenants; five Minneapolis properties (1M SF) are 100% leased to distribution and light manufacturing operators. A prominent global asset manager purchased the entire portfolio via CBRE Capital Markets.",
+      "impact": "Chicago West Suburbs and Minneapolis Northwest/Southwest submarkets remain institutional-grade logistics hubs with strong fundamentals (97–100% occupancy) attracting global capital. Strong absorption and leasing velocity in these markets signal sustained supply-chain demand; multifamily developers should prioritize mixed-use projects near these logistics corridors, especially in Chicago's West Suburbs and West Loop, and Minneapolis's North Loop, where live-work proximity appeals to younger logistics and supply-chain workforce."
+    },
+    {
+      "title": "CBRE Arranges Sale of Grocery-Anchored Shopping Center in Virginia",
+      "link": "https://www.connectcre.com/stories/cbre-arranges-sale-of-grocery-anchored-shopping-center-in-virginia/",
+      "excerpt": "CBRE has arranged the sale of 5th Street Station, a 451,779-square-foot grocery-anchored shopping center in Charlottesville. Bridge33 Capital LLC purchased the property from S.J. Collins Enterprises for an undisclosed amount. Chris Munley, Colin Behr, Ryan Sciullo, and Casey Smith of CBRE’s National Retail Partners team represented the seller in the transaction. “We are excited to enter Virginia with this dominant property in the growing market of Charlottesville,” said Peter Trahanas, Director of Investments at Bridge33 Capital. “This acquisition will add the second Wegmans and the first Dick’s House of Sport to our portfolio. We look forward to creating lasting value at the center and being a part of the Charlottesville community.” Located just off Interstate 64 at 5th Street Station Parkway, the property is in close proximity to the University of Virginia. The property is anchored by Wegmans and features a mix of national, regional and local retailers, including Alamo Drafthouse Cinema, Dick&#8217;s House of Sport, PetSmart, Panera Bread and Jersey Mike&#8217;s. The post CBRE Arranges Sale of Grocery-Anchored Shopping Center in Virginia appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-30T18:31:14+00:00",
+      "bullets": [
+        "Bridge33 Capital acquired 5th Street Station (451K-SF grocery-anchored center) in Charlottesville, VA from S.J. Collins Enterprises",
+        "Wegmans-anchored; near University of Virginia and Interstate 64; includes Dick's House of Sport, Alamo Drafthouse, Panera, PetSmart",
+        "Entry transaction for Bridge33 into Virginia retail; demonstrates retail stabilization in college-town markets"
+      ],
+      "summary": "CBRE arranged the sale of 5th Street Station, a 451,779-square-foot grocery-anchored shopping center in Charlottesville, Virginia, to Bridge33 Capital LLC. The property, located off Interstate 64 near the University of Virginia, is anchored by Wegmans and features a diverse tenant mix including Alamo Drafthouse Cinema, Dick's House of Sport, and national retailers. The acquisition marks Bridge33's entry into the Virginia market.",
+      "impact": "Limited direct multifamily relevance. However, Charlottesville's proximity to UVA, growing retail stabilization, and I-64 accessibility suggest improving labor-force demographics and spending power in the submarket. Worth tracking for future mixed-use development (student + young professional housing) near campus and downtown; retail lease velocity signals durable local demand."
+    },
+    {
+      "title": "Declining Empire State Building Visits Drive Q2 Loss for ESRT",
+      "link": "https://commercialobserver.com/2026/07/esrt-earnings-empire-state-building-observatory-international-tourism/",
+      "excerpt": "New York City’s declines in international tourism over the past year since President Donald Trump assumed office are starting to affect Empire State Realty Trust (ESRT)’s finances. The real estate investment trust (REIT) reported second-quarter funds from operations (FFO) of $57 million, or 21 cents per share, marking a loss of $25.8 million or 15 cents per share from the same period a year ago. ESRT attributed the loss largely to a “massive” non-cash impairment charge of $166.11 million connected to underperforming visitations in the Empire State Building observatory stemming from persistent drops in international tourists to the Big Apple. The observatory generated $12.4 million of net income in the first quarter, a sharp 48.5 percent decrease from $24.1 million in the same period in 2025. Visitors to the observatory during the quarter were 450,000, down 28.5 percent year-over-year. In addition to the decline of international visitors to the U.S., ESRT also attributed the profit loss to lower usage of third-party pass program channels used for tourist sites around New York. Such passes are often used by budget-conscious international travelers. “While all attractions have experienced reduced visitorship in 2026, our drop compared to the market in general is larger due to our prior dominance with pass programs and their international presence,” Anthony Malkin, CEO of ESRT, said during the firm’s earnings call early Thursday afternoon. “Softer visitation persisted through the second quarter.” Projections for reduced visits to the observatory prompted ESRT to reduce its 2026 core FFO assumptions to a range of 75 cents to 79 cents per share compared to 85 cents to 89 cents per share FFO in February. Malkin said the Empire State Building has in the past seen more than 60 percent of its observatory traffic derive from international travelers, but that number shifted to 40 percent last week when it performed its second highest visitor numbers of 2026. He said the World C",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-30T18:12:53+00:00",
+      "bullets": [
+        "ESRT reported Q2 FFO loss of $25.8M (15¢ per share) vs. gain a year ago; $166.11M non-cash observatory impairment",
+        "Empire State Building observatory visitation down 28.5% YoY to 450K visitors; net income collapsed 48.5% (Q1 $24.1M to $12.4M)",
+        "Decline attributed to 'massive' drop in international tourism to NYC under Trump administration policies"
+      ],
+      "summary": "Empire State Realty Trust (ESRT) posted a Q2 loss of $25.8 million (15 cents per share), a $83.8 million swing from prior year, largely due to a $166.11 million non-cash impairment on the Empire State Building observatory. Observatory visitation fell 28.5% year-over-year to 450,000 visitors, and net observatory income plummeted 48.5% in Q1 2026 compared to Q1 2025. ESRT attributed the collapse to persistent declines in international tourist arrivals to New York City.",
+      "impact": "Signals major headwind to Manhattan office-to-residential conversion fundamentals. International tourism and business-travel declines reduce net migration, spending, and daytime population density in Midtown, pressuring Office conversion economics and rental-demand growth. Multifamily developers should deprioritize Midtown office conversion deals and favor outer-borough, transit-connected residential projects in neighborhoods with strong local job growth (Life Sciences, tech, healthcare) independent of tourist/international business cycles."
+    },
+    {
+      "title": "Blackstone Mortgage Trust Posts Q2 Net Loss Amid Focus on Portfolio Diversification",
+      "link": "https://commercialobserver.com/2026/07/blackstone-mortgage-trust-q2-net-loss-portfolio-office/",
+      "excerpt": "Blackstone Mortgage Trust (BXMT) reported a net loss of $81.2 million in the second quarter of 2026, but its executives were optimistic during a Thursday morning earnings call about turning its portfolio around. The publicly traded mortgage real estate investment trust (REIT) posted a second-quarter loss of 48 cents per share with a distributable earnings per share of 48 cents, still beating analysts’ estimates of 38 cents per share. BXMT executives attributed the drop in earnings to short-term impacts from several loan impairments during the second quarter, specifically the resolution of a $29 million impaired multifamily loan in Dallas. “It&#8217;s hard given all the moving pieces right now, and it&#8217;s still early in the quarter. Obviously, given some of the impairments we took in Q2 and the pretty substantial repayment volume that we had this quarter, we do expect some impact to the third quarter,” Marcin Urbaszek, chief financial officer at BXMT and managing director at Blackstone Real Estate Debt Strategies, said during the call. “But, again, it&#8217;ll take us probably a couple quarters to be fully deployed with the money that we&#8217;re getting back,” Urbaszek added. “It&#8217;s hard to say exactly where we&#8217;re going to be right now on a runway basis. There&#8217;s a lot of things moving around at the moment.” Tim Johnson, BXMT’s CEO, said during the call the REIT is also looking to “take advantage of what we think is a reasonably liquid market to sell loans.” That would include the sale of a Hyatt hotel in San Francisco and most of its office loan portfolio. The move is part of BXMT’s new strategy to diversify its $20 billion total investment portfolio over the coming years, including its $17 billion loan portfolio, Johnson said. “The loan sale process is at an early stage and underway,” the CEO said on the call. “We&#8217;re under no obligation to sell, and we may look at selling some, all or none of it. “It&#8217;s really about rotating our port",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-30T17:19:11+00:00",
+      "bullets": [
+        "Blackstone Mortgage Trust (BXMT) posted Q2 net loss of $81.2M (−48¢ EPS) but beat analyst expectations on distributable EPS (48¢ vs. 38¢ est.)",
+        "Loss driven by loan impairments including $29M Dallas multifamily loan resolution and significant repayment volume; executives remain optimistic on portfolio rebalancing",
+        "CFO flagged Q3 impacts from Q2 impairments and repayments; BXMT actively diversifying away from stressed segments"
+      ],
+      "summary": "Blackstone Mortgage Trust reported a $81.2 million net loss in Q2 2026 (−48 cents per share) but posted distributable earnings per share of 48 cents, beating analyst estimates of 38 cents. The loss stemmed from loan impairments, notably a $29 million multifamily loan resolution in Dallas, and substantial repayment volumes during the quarter. Executives remain optimistic about portfolio diversification and turning around performance in the coming quarters.",
+      "impact": "Dallas multifamily loan impairment signals stress in specific submarkets or sponsor quality tiers; BXMT's selective write-downs and pivot away from troubled assets suggest disciplined underwriting but also tightening of leverage available to second-tier sponsors. Multifamily developers should expect continued lending caution in overbuilt markets (Dallas, Austin) and higher rates/equity requirements for non-core sponsors; strong balance sheets and proven track records will command better capital access."
+    },
     {
       "title": "CRE Loan Delinquencies Decline in Q2; CMBS Remains Elevated",
       "link": "https://www.connectcre.com/stories/cre-loan-delinquencies-decline-in-q2-cmbs-remains-elevated/",
@@ -32,23 +122,12 @@
       "cat": "Commercial",
       "date": "2026-07-30T17:09:18+00:00",
       "bullets": [
-        "CMBS delinquencies fell 39 bps to 4.82% in Q2 2026; remain elevated vs. other lenders.",
-        "Office and lodging show highest delinquency rates; life company loans improved 28 bps to 1.19%.",
-        "Overall CRE loan performance improved; non-current balances declining across most property types."
+        "MBA Commercial Real Estate Finance Survey: Q2 CMBS delinquencies fell 39 bps to 4.82%; all major asset types improved",
+        "CMBS remains elevated vs. life company loans (1.19%, −28 bps); office and lodging persist as highest-delinquency property types",
+        "Overall loan performance improving; non-current balances declining; capital markets stabilizing across most sectors except office/lodging"
       ],
-      "summary": "Commercial mortgage delinquencies declined in Q2 2026, with CMBS rates falling 39 basis points to 4.82% and life company loans improving 28 bps to 1.19%. Office and lodging properties continue to face the most stress with elevated delinquency rates. The decline in non-current balances signals stabilization in CRE lending, though CMBS remains elevated relative to traditional lenders.",
-      "impact": "Improving multifamily-focused lender health (life companies, portfolio lenders) expands debt availability and reduces refinancing friction for apartment acquisitions and development projects. However, persistent office distress may free up developer capital and lender appetite for redeployment into multifamily-friendly markets and sponsors with strong underwriting track records."
-    },
-    {
-      "title": "Return to Lender: Week of July 30, 2026",
-      "link": "https://www.connectcre.com/stories/return-to-lender-week-of-july-30-2026/",
-      "excerpt": "A historic downtown Denver office building once set to receive millions in public incentives for a residential conversion has hit the market following a foreclosure, reported the Denver Business Journal. The Symes Building, at 820 16th St., was listed for sale as a bank-owned foreclosure and redevelopment opportunity with “complete vacancy.” Canyon Law, a listing agent for Kenai Capital Advisors, which is acting on behalf of owner Thorofare Capital, said the last tenant vacated in March, leaving the building empty. The Boston Business Journal reported that a Howard Johnson Inn in Williamstown, MA, one of six remaining locations in the state where the chain was founded in 1925, is scheduled for a foreclosure auction. Auction firm Aaron Posnik &amp; Co. has scheduled an auction for Aug. 6, following the foreclosure by lender Beacon Bank. The K&amp;L Gates Center in downtown Pittsburgh is on the market, with a Newmark team offering the Liberty Avenue building in a &#8220;receivership sale,&#8221; reported the Pittsburgh Business Times. The firm launches marketing for the 43% leased building after the building&#8217;s namesake tenant, the law firm K&amp;L Gates, announced it would keep its office there in January 2025. It did so a little more than a year after the property&#8217;s ownership, One Oliver Associates LP, majority-owned by Chilean pension fund Independencia Asset Management, was forced into default by lender Pacific Life. A loan modification has failed to materialize on The Club Row Building loan ($155.0 million | JPMBB 2015-C27 &amp; JPMBB 2015-C28), reported Morningstar Credit. This marks the second time a modification neared the finish line only to be scrapped at the last minute. The loan, backed by a 369,000-square-foot office building on W. 44th Street between 5th Avenue and 6th Avenue in Midtown Manhattan, moved to special servicing in January 2025 after missing its maturity. A series of tenant departures dropped occupancy to 66% by the end of 2025. It",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-30T17:08:46+00:00",
-      "bullets": [],
-      "summary": "Article contains only metadata and byline information about Paul Bubny, Senior Content Director for Connect Commercial Real Estate, with no substantive news content.",
-      "impact": "No material impact to multifamily development strategy or market dynamics."
+      "summary": "The Mortgage Bankers Association's CREF Loan Performance Survey reported that CMBS delinquencies declined 39 basis points to 4.82% in Q2 2026, though they remain elevated relative to life company loans (1.19%). Delinquency rates generally improved across major property types, though office and lodging continued to exhibit the highest delinquency rates. The overall decline in non-current loan balances signals continued stability in CRE mortgages.",
+      "impact": "Improving CMBS and life-company loan performance outside office/lodging removes systemic financing stress, improving capital availability and pricing for multifamily acquisition and development debt. Strong multifamily fundamentals (not mentioned in delinquency discussions) position residential debt as flight-to-quality asset class. Multifamily developers should expect favorable debt terms and lower rates relative to struggling property types; this is a window to lock in low-cost leverage before multifamily cap rates compress further."
     },
     {
       "title": "Vici Properties Is Standing By to Build a Las Vegas NBA Arena",
@@ -58,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-07-30T16:35:47+00:00",
       "bullets": [
-        "Vici Properties teasing NBA arena development on undeveloped Las Vegas Strip land.",
-        "MLB Oakland A's relocating to Las Vegas; NFL, NHL, WNBA teams added past 10 years.",
-        "Pro sports expansion drives 'massive growth' in Las Vegas; no deal finalized yet."
+        "Vici Properties (largest Las Vegas Strip landlord) controls several dozen undeveloped acres behind Planet Hollywood, Paris, Horseshoe casinos",
+        "NBA formally reviewing Las Vegas expansion in 2026; MLB Oakland A's relocating to Vegas; city added NFL, NHL, WNBA teams in past decade",
+        "Vici executives teased (but did not confirm) possibility of constructing NBA arena complex on Vici-owned land; 'massive growth in pro sports' cited"
       ],
-      "summary": "Vici Properties CEO Ed Pitoniak mentioned the possibility of developing an NBA arena complex on undeveloped land the company controls behind Planet Hollywood, Paris, and Horseshoe casinos in Las Vegas. The city has added MLB, NFL, NHL, and WNBA franchises in the past decade, signaling rapid sports and entertainment-led growth. No deal has been finalized despite weeks of media speculation.",
-      "impact": "Major sports venue development acts as a primary demand generator for service-sector employment and visitor/resident population in Las Vegas. A new NBA arena accelerates the metro's already-strong hospitality and entertainment labor absorption, driving ancillary job creation and sustained in-migration—particularly attractive for multifamily developers targeting Las Vegas submarkets with high daily-rate employment density and younger demographic inflow. Timing of entitlement and construction could unlock mid-term rental demand growth (2028–2030)."
+      "summary": "Vici Properties executives teased the possibility of building an NBA arena complex on undeveloped land the company owns in Las Vegas. Vici controls several dozen acres behind the Planet Hollywood, Paris, and Horseshoe casinos. The move would capitalize on the NBA's formal 2026 review of Las Vegas expansion, following recent relocations of the Oakland A's to Vegas and the city's addition of NFL, NHL, and WNBA franchises over the past decade.",
+      "impact": "Major indirect demand signal for Las Vegas multifamily. An NBA franchise + arena would accelerate population inflow, job growth (hospitality, service, construction), and corporate relocation to Las Vegas, strengthening rental demand across submarkets. Multifamily developers should aggressively acquire or entitle land in central/west Las Vegas, Downtown, and transit corridors near the Strip; peak rent growth likely 2–3 years post-arena opening as population influx compounds with hospitality wage growth."
     },
     {
       "title": "Mezcali Founders to Open New Fusion Concept in Financial District",
@@ -73,102 +152,27 @@
       "cat": "Commercial",
       "date": "2026-07-30T16:34:45+00:00",
       "bullets": [
-        "Mezcali founders sign 20-year, 4,744-sf retail lease in Manhattan Financial District.",
-        "TF Cornerstone's 2 Gold Street; average Broadway retail asking rent $224/sf in Q2 2026.",
-        "Specialty F&B tenant signals Financial District evolution into mixed-use residential neighborhood."
+        "Mezcali/Malt House restaurateurs signed 20-year lease for new Solerum fusion restaurant at TF Cornerstone's 2 Gold Street, Financial District",
+        "4,744-SF retail space in Financial District; average Broadway corridor retail asking rent $224/SF (Battery Park to Chambers) in Q2 2026",
+        "TF Cornerstone positioning Financial District as 'dynamic mixed-use neighborhood' with curated retail; new dining tenancy reflects neighborhood evolution"
       ],
-      "summary": "Restaurateurs Eoin Foyle and Darren Shore signed a 20-year, 4,744-square-foot lease for a new Hawaiian-Caribbean-Asian fusion concept called Solerum at TF Cornerstone's 2 Gold Street in Manhattan's Financial District. Retail asking rents on nearby Broadway (Battery Park to Chambers) averaged $224/sf in Q2 2026. The landlord characterized the Financial District as evolving into a dynamic mixed-use neighborhood.",
-      "impact": "Financial District retail leasing velocity and rent-paying tenant quality (established restaurant group, long-term lease) validate the submarket's residential-amenity value proposition. Strong F&B anchoring supports the fundamentals for new multifamily development and conversion projects in lower Manhattan, signaling sufficient daytime and evening density to support residential conversion feasibility and renter retention in this historically office-dependent zone."
+      "summary": "Restaurateurs Eoin Foyle and Darren Shore signed a 20-year, 4,744-square-foot lease for Solerum, a Hawaiian-Caribbean-Asian fusion concept, in TF Cornerstone's 2 Gold Street in Manhattan's Financial District. The property is part of a mixed-use development. Comparable Broadway corridor retail (Battery Park to Chambers Street) was asking $224 per square foot in Q2 2026. TF Cornerstone emphasized its strategy to curate retail experiences supporting the neighborhood's evolution into a dynamic mixed-use destination.",
+      "impact": "Financial District retail activation (premium independent dining, long-term leases) signals sustained residential occupancy demand and landlord confidence in daytime/evening population recovery. Retail uptick in lower Manhattan suggests successful mixed-use densification and reduced office-conversion risk in core Financial District; multifamily operators and developers should prioritize ground-floor retail activation and expect stronger rent growth in Financial District and Tribeca as mixed-use synergies strengthen post-pandemic."
     },
     {
-      "title": "X Capital Developing Melissa Mixed-Use Project",
-      "link": "https://www.connectcre.com/stories/x-capital-developing-melissa-mixed-use-project/",
-      "excerpt": "X Capital has started work on a mixed-use development in Melissa, just outside McKinney. The Dallas Business Journal reports the company is bringing new retail and office space to the fast-growing city. And apartments may be down the road. Infrastructure work has begun on the first phase of Melissa Park Village, a 22-acre development at the northeast corner of State Highway 121 and Melissa Road. The first phase will include 36,000 square feet of retail space across two buildings, along with a two-story, 23,000-square-foot building designed for office space and ground-floor retail. The first buildings are expected to be completed in 2027. Weitzman&#8217;s Emilie Paulson, Maggie Hansen and Addison Gragson are leasing the retail and office space. Scott Smith and Corbin Tanenbaum are marketing land within the development for future apartments. The city ranked as the nation&#8217;s fourth-fastest-growing city after its population increased nearly 15% to more than 29,000 residents. The post X Capital Developing Melissa Mixed-Use Project appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-30T16:29:29+00:00",
-      "bullets": [
-        "X Capital developing 22-acre Melissa Park Village near McKinney, Texas; infrastructure started.",
-        "Phase 1: 36,000 sf retail + 23,000 sf office/retail; completion 2027. Land for future apartments.",
-        "Melissa ranked 4th-fastest-growing U.S. city; population grew nearly 15% to 29,000+ residents."
-      ],
-      "summary": "X Capital has begun infrastructure work on Melissa Park Village, a 22-acre mixed-use development in Melissa just outside McKinney, Texas. Phase 1 includes 36,000 sf of retail across two buildings and a 23,000 sf office/ground-floor retail building due in 2027. Brokers are marketing land within the development for future apartments. Melissa was ranked the nation's 4th-fastest-growing city with nearly 15% population growth to over 29,000 residents.",
-      "impact": "Melissa's ranking as 4th-fastest-growing U.S. city and 15% recent population growth signal strong household formation and migration inflow exceeding regional averages. Staged retail/office-first approach with explicitly reserved apartment land indicates developer confidence in near-term demand absorption. Dallas-Fort Worth exurban markets like Melissa are prime targets for junior-market multifamily development; this project's phasing suggests 2027–2028 apartment delivery window aligned with peak population inflection."
-    },
-    {
-      "title": "Torchlight Investment Provides $52M Acquisition Debt, Equity for Indianapolis Asset",
+      "title": "Hudson Investing Secures $52M Acquisition Debt, Equity for Indianapolis Asset",
       "link": "https://commercialobserver.com/2026/07/torchlight-investment-52m-maple-knoll-apartments-ndianapolis/",
-      "excerpt": "Hudson Investing has secured $52.1 million in acquisition financing for Maple Knoll Apartments, a 300-unit garden-style multifamily complex just outside Indianapolis, Ind., Commercial Observer can first report. Torchlight Investment provided the equity, while Northmarq structured the full capital stack for the transaction, providing the senior debt directly through Northmarq’s in-house Freddie Mac platform. A Northmarq team of Annamarie Bjorklund and Cody Field arranged the transaction. Bjorklund said in a statement that Northmarq was able to secure both the debt and equity from Torchlight due to Hudson&#8217;s reputation as “a disciplined, well-capitalized sponsor.” “We knew as soon as we met the Hudson team and saw their plan for the asset that they would be a natural fit,” Bjorklund said. “Ultimately, Torchlight stood out, and we’re excited for their new partnership and to see the next chapter for a great property.” Located at 500 Bigleaf Maple Way in Westfield, a city 20 miles north of Downtown Indianapolis, Maple Knoll Apartments opened in 2007 and features 18 three-story apartment buildings across 24 acres, all of which contain one- to three-bedroom units. Hudson Investing is purchasing the property from an unnamed institutional insurance company, but previous owners include Blackstone and GE Capital. The acquisition is part of Hudson’s value-add strategy, and the firm plans to invest capital to renovate the entire property, according to a release from Northmarq. &#8220;We continue to see Indianapolis as a highly attractive investment market with strong population growth, quality employment drivers and desirable suburban communities that continue to attract residents,” said Kent Ritter, CEO of Hudson Investing. Dan Lockwood, managing partner of private acquisitions at Torchlight, described Maple Knoll as an “institutional-quality multifamily asset,” and noted that Hudson benefits from being a local sponsor headquartered just outside of Indianapolis, “We’re exc",
+      "excerpt": "Hudson Investing has secured $52.1 million in acquisition financing for Maple Knoll Apartments, a 300-unit garden-style multifamily complex just outside Indianapolis, Ind., Commercial Observer can first report. Torchlight Investment provided the equity, while Northmarq structured the full capital stack for the transaction, providing the senior debt directly through Northmarq’s in-house Freddie Mac platform. A Northmarq team of Annamarie Bjorklund and Cody Field arranged the transaction. Bjorklund said in a statement that Northmarq was able to secure both the debt and equity from Torchlight due to Hudson&#8217;s reputation as “a disciplined, well-capitalized sponsor.” “We knew as soon as we met the Hudson team and saw their plan for the asset that they would be a natural fit,” Bjorklund said. “Ultimately, Torchlight stood out, and we’re excited for their new partnership and to see the next chapter for a great property.” Located at 500 Bigleaf Maple Way in Westfield, a city 20 miles north of Downtown Indianapolis, Maple Knoll Apartments opened in 2007 and features 18 three-story apartment buildings across 24 acres, all of which contain one- to three-bedroom units. Hudson Investing is purchasing the property from Marquette Companies and HIMCO, but previous owners include Blackstone and GE Capital. The acquisition is part of Hudson’s value-add strategy, and the firm plans to invest capital to renovate the entire property, according to a release from Northmarq. &#8220;We continue to see Indianapolis as a highly attractive investment market with strong population growth, quality employment drivers and desirable suburban communities that continue to attract residents,” said Kent Ritter, CEO of Hudson Investing. Dan Lockwood, managing partner of private acquisitions at Torchlight, described Maple Knoll as an “institutional-quality multifamily asset,” and noted that Hudson benefits from being a local sponsor headquartered just outside of Indianapolis, “We’re excited to partn",
       "source": "Comm. Observer",
       "cat": "Commercial",
       "date": "2026-07-30T16:17:27+00:00",
       "bullets": [
-        "Hudson Investing closed $52.1M financing for 300-unit Maple Knoll Apartments, Westfield, Ind.",
-        "Torchlight Investment provided equity; Northmarq sourced senior debt via Freddie Mac platform.",
-        "Asset in suburbs north of Indianapolis; disciplined sponsor reputation enabled single-source capital stack."
+        "Hudson Investing secured $52.1M acquisition financing for Maple Knoll Apartments (300-unit garden-style) in Westfield, IN (20 miles north of Indianapolis)",
+        "Torchlight Investment provided equity; Northmarq structured debt via in-house Freddie Mac platform; Northmarq praised Hudson's disciplined sponsorship reputation",
+        "Transaction reflects strong capital availability for stabilized multifamily assets in secondary markets; Freddie Mac platform supporting suburban Indianapolis deals"
       ],
-      "summary": "Hudson Investing secured $52.1 million in acquisition financing for Maple Knoll Apartments, a 300-unit garden-style complex in Westfield, Indiana (20 miles north of Downtown Indianapolis). Torchlight Investment provided equity while Northmarq sourced senior debt through its Freddie Mac platform. The transaction was arranged by Northmarq's Annamarie Bjorklund and Cody Field, who cited Hudson's reputation as a disciplined sponsor as key to securing both debt and equity from a single source.",
-      "impact": "Torchlight Investment's willingness to package debt and equity for a secondary-market suburban Indianapolis asset demonstrates continued capital availability for stabilized, well-sponsored multifamily acquisitions outside primary markets. Strong sponsor track record and asset quality are now table stakes for GSE-backed financing; this validates acquisition and value-add strategies in Midwest I-4 and Sunbelt tier-2 metros where population migration and job growth support absorption fundamentals."
-    },
-    {
-      "title": "Growing Richmond Lands Sam’s Club",
-      "link": "https://www.connectcre.com/stories/growing-richmond-lands-sams-club/",
-      "excerpt": "Richmond, south and west of Houston, is a town of just over 11,000 residents, but like a lot of other Texas towns, its growing. So much so that a development team is considering building a mixed-use project that includes a Sam&#8217;s Club warehouse store. Called Circle Oak, the George Foundation recently sold the land to Park Collective Retail Partners to build the Sam’s Club, at a cost of $51 million. The Houston Business Journal reports Park Collective also plans to build a 19,600-square-foot multitenant retail building and is negotiating leases with potential pad site users for three or four sites along FM 762. The George Foundation says there is also plenty of space for restaurant, retail or office ground leases on both sides of the freeway. The site is across from NewQuest&#8217;s 2 million-square-foot Brazos Town Center. The Circle Oak site is just a few miles north of the 19,500-acre George Ranch, which has been in the George family&#8217;s possession for generations. The post Growing Richmond Lands Sam’s Club appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-30T16:14:17+00:00",
-      "bullets": [
-        "Park Collective Retail Partners acquired land in Richmond, Texas for $51M Sam's Club project.",
-        "Circle Oak development: Sam's Club + 19,600 sf multitenant retail; pad sites and dining negotiated.",
-        "Richmond (11,000+ residents) is fast-growing Texas town; site across from 2M sf Brazos Town Center."
-      ],
-      "summary": "Park Collective Retail Partners acquired land in Richmond, Texas (just south and west of Houston) from the George Foundation for $51 million to develop Circle Oak, anchored by a Sam's Club warehouse store. The project also includes a 19,600-square-foot multitenant retail building and negotiated pad-site leases for restaurants and retail. The George Foundation notes ample space for additional retail, office, and ground leases on both sides of the freeway, adjacent to NewQuest's 2 million-square-foot Brazos Town Center.",
-      "impact": "Large-format retail anchors (Sam's Club) drive anchor-tenant validation and co-tenancy risk reduction, making adjacent land parcels attractive for multifamily, hospitality, or mixed-use infill. Richmond's rapid growth and proximity to NewQuest's major retail center create a high-density suburban node; multifamily developers should monitor for future pad-site or ground-lease opportunities as the retail shell stabilizes and market maturity warrants residential or office conversion parcels (2027+)."
-    },
-    {
-      "title": "Rock Architecture & Engineering Expands to 4K SF at GFP’s 630 Ninth Avenue",
-      "link": "https://commercialobserver.com/2026/07/rock-architecture-engineering-lease-gfp-630-ninth-avenue/",
-      "excerpt": "Architecture firm Rock Architecture &amp; Engineering has signed a 3,835-square-foot deal to extend and expand its presence at GFP Real Estate’s 630 Ninth Avenue, the landlord announced Thursday. The firm, which specializes in building restoration projects and gets its name from a focus on solid foundations, will move from the sixth floor to the 10th floor of the 13-story office property. It’s a three-year lease amendment, according to GFP. The firm did not disclose the asking rent. However, the average asking rent for office space in Midtown was $84.99 per square foot during the second quarter of 2026, according to data from Colliers. The tenant did not work with a broker on this deal, according to GFP, while the landlord was represented in-house by Matthew Mandell. Additionally, software and media company Neoteny Studios signed a two-year, 1,247-square-foot lease at 630 Ninth Avenue for its new headquarters. Neoteny also did not work with a broker on this transaction. GFP’s Mandell represented the landlord on this deal as well. &#8220;These transactions demonstrate the continued appeal of well-priced, efficient office space for both growing companies and existing tenants looking to expand,&#8221; Mandell said in a statement. &#8220;630 Ninth Avenue continues to attract businesses that value convenience, flexibility and quality space in a highly accessible Midtown location.&#8221; Also known as the Film Center Building, 630 Ninth Avenue is situated between West 44th and West 45th streets. Tenants in the building include live theater and entertainment company ATG Entertainment, citizen-run government advisory board Manhattan Community Advisory Board 4 and video production services agency CRC Media. Amanda Schiavo can be reached at aschiavo@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-30T16:10:50+00:00",
-      "bullets": [
-        "Rock Architecture & Engineering expands 3,835 sf at GFP's 630 Ninth Avenue, Midtown Manhattan.",
-        "3-year lease amendment; move from 6th to 10th floor. Midtown office asking rent ~$85/sf Q2 2026.",
-        "Specialty tenant (building restoration) signals selective office leasing by niche professional services."
-      ],
-      "summary": "Rock Architecture & Engineering signed a 3,835-square-foot lease expansion at GFP Real Estate's 630 Ninth Avenue in Midtown Manhattan, moving from the 6th to the 10th floor on a three-year amendment. Average asking rent for Midtown office space was $84.99/sf in Q2 2026. The firm specializes in building restoration; no broker was involved in the transaction.",
-      "impact": "Limited direct impact on multifamily development. However, selective office tenant renewals by specialized professional services (architecture, engineering) at mid-tier Midtown rents (~$85/sf) indicate selective office demand recovery driven by niche sectors, not broad-based return-to-office. Developers should note that Manhattan office-to-residential conversion economics remain dependent on high-density, high-income residential demand rather than office market normalization."
-    },
-    {
-      "title": "Joint Venture Inks $81M Acquisition Loan for Denver-Area Apartments",
-      "link": "https://www.connectcre.com/stories/peakview/",
-      "excerpt": "The Dinerstein Cos. and PGIM closed on an $81 million refinancing loan for Atlas Peakview, a 330-unit multifamily community in Centennial. Mesa West Capital funded the loan in a deal arranged by Walker &amp; Dunlop. Multihousing News reports that Atlas Peakview was delivered in 2025 and has since reached 85 percent occupancy. The project previously received $76.8 million in construction financing from Texas Capital Bank in 2021. The community features studio, one-, two- and three-bedroom apartments with two- and three-bedroom townhomes available for rent. Each residence features in-unit laundry, walk-in closets, smart locks and Energy Star-certified appliances. Average monthly rent at Atlas Peakview is approximately $2,280,. Residents have access to shared amenities including a swimming pool, an outdoor kitchen, a fitness center, a two-story coworking space, a speakeasy and a pet-wash station. Walker &amp; Dunlop’s Tom Melody, Paul House and John Melody arranged the financing. The post Joint Venture Inks $81M Acquisition Loan for Denver-Area Apartments appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-30T15:30:16+00:00",
-      "bullets": [
-        "Dinerstein Cos. and PGIM closed $81M refinance for 330-unit Atlas Peakview, Centennial, Colorado.",
-        "Asset delivered 2025, reached 85% occupancy; avg. rent ~$2,280/month; studio to 3-bed units.",
-        "Mesa West Capital funded loan; Walker & Dunlop arranged. Previous construction loan $76.8M (2021)."
-      ],
-      "summary": "The Dinerstein Cos. and PGIM closed an $81 million refinancing loan for Atlas Peakview, a 330-unit multifamily community in Centennial, Colorado (Denver metro). The project was delivered in 2025 and has reached 85% occupancy with average monthly rent at approximately $2,280. The asset was previously financed with a $76.8 million construction loan from Texas Capital Bank in 2021. Mesa West Capital funded the refinance, arranged by Walker & Dunlop.",
-      "impact": "Strong occupancy (85% within one year of delivery) and successful refinancing at elevated pricing validate Denver-metro suburban multifamily fundamentals and sponsor execution quality. Ability to refinance recent stabilized assets signals continued debt availability for well-leased projects; developers with near-stabilization assets in Denver-area submarkets (Centennial, Littleton, Aurora) should accelerate lease-up and refinancing strategies in next 12 months before potential rate cap increases limit refi upside."
-    },
-    {
-      "title": "Trove Partners’ Ian Slater on New York’s Pied-a-Terre Tax and Owners’ First Moves",
-      "link": "https://commercialobserver.com/2026/07/compass-ian-slater-new-york-pied-a-terre-tax/",
-      "excerpt": "Last week, the Mamdani administration made good on its promise to enact a tax on New York City’s wealthiest homeowners. The city’s Department of Finance published an online database of more than 31,000 properties and property owners who might be subject to a new pied-a-terre tax. When the surcharge passed in May, city and state officials initially estimated roughly 10,000 properties would be subject to the tax. While the list sent out last week doesn’t represent the final roundup of homes set to face higher levies, it does include several notable addresses — and notable homeowners. Among the numerous billionaires, CEOs and business leaders on the list are Citadel CEO Ken Griffin — somewhat of a given — “Shark Tank” investor Mark Cuban, IMAX CEO Richard Gelfond and Blackstone CEO and co-founder Stephen Schwarzman. Several A-list celebrities also made the list, including fashion icon Anna Wintour, actor Cynthia Nixon, singer Taylor Swift, filmmaker Woody Allen and actor Alan Cumming. Former New York Times critic Nicolai Ouroussoff, international art dealer David Zwirner and journalist Julie Satow were also notable mentions. As for properties, prominent luxury residential buildings and developments on Mamdani’s list included the Jenga Tower at 56 Leonard Street in Tribeca, Witkoff Group’s 150 Charles Street in the West Village, MetroLoft’s 443 Greenwich Street in Tribeca, Vornado Realty Trust’s 220 Central Park South on Billionaires’ Row, the One57 condo tower in Midtown, and 15 Central Park West in Lincoln Square. 220 Central Park South. PHOTO: TIMOTHY A. CLARY/AFP via Getty Images When it was first announced, the pied-a-terre tax drew sharp reactions from New York’s real estate industry with concerns about market disruption, flawed rules and political theater, but it doesn’t seem like the tax has affected the city’s luxury market just yet. Still, the city began notifying homeowners by mail last week of their potential liability. And a lot of those homeowners are alre",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-30T15:20:46+00:00",
-      "bullets": [
-        "NYC pied-à-terre tax enforcement: 31,000+ properties initially identified; originally estimated ~10,000.",
-        "High-profile owners on list: Ken Griffin, Taylor Swift, Mark Cuban, Stephen Schwarzman, others.",
-        "Tax published; final assessment and collection timeline remain unclear; incentivizes property sales/repurposing."
-      ],
-      "summary": "New York City's Mamdani administration published an online database of over 31,000 properties subject to a new pied-à-terre tax on wealthy homeowners, significantly exceeding the original estimate of ~10,000 properties. The list includes notable billionaires (Ken Griffin, Stephen Schwarzman), celebrities (Taylor Swift, Mark Cuban), and cultural figures. The tax passed in May; the published list represents an initial draft, with final assessments and collection timelines still pending.",
-      "impact": "Pied-à-terre tax enforcement at 3x initial volume signals aggressive revenue capture and potential forced liquidations of secondary residences in Manhattan and outer boroughs over 2–3 years. Developers should monitor for uptick in distressed single-family brownstone or condo sales in prime residential neighborhoods (Upper East Side, Brooklyn Heights, Park Slope), creating potential conversion or assemblage opportunities for boutique multifamily redevelopment. Tax-induced supply of trophy properties may also suppress luxury condo valuations and shift capital toward stabilized rental assets."
+      "summary": "Hudson Investing secured $52.1 million in acquisition financing for Maple Knoll Apartments, a 300-unit garden-style multifamily complex in Westfield, Indiana, approximately 20 miles north of downtown Indianapolis. Torchlight Investment provided equity, while Northmarq structured the full capital stack using its in-house Freddie Mac platform for senior debt. Northmarq highlighted Hudson's reputation as a disciplined, well-capitalized sponsor in securing both debt and equity from Torchlight.",
+      "impact": "Indianapolis suburban market (Westfield submarket) shows strong capital availability and sponsor-reputation arbitrage. Freddie Mac platform ease and Torchlight willingness to pair with Hudson signals investor confidence in suburban Indianapolis multifamily fundamentals and stable value-add opportunities. Developers should pursue acquisition and light-value-add deals in Indianapolis suburbs; lower cost basis and strong lending support vs. coastal markets create favorable return profiles for 2026–2027."
     }
   ]
 }
