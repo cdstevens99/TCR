@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-31T13:43:15.879752+00:00",
+  "fetchedAt": "2026-07-31T15:55:46.308873+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -9,35 +9,125 @@
     },
     {
       "label": "10Y Treasury",
-      "value": "4.71%",
-      "pct": 0.92
+      "value": "4.74%",
+      "pct": 1.54
     },
     {
       "label": "30Y Treasury",
-      "value": "5.24%",
-      "pct": 0.56
+      "value": "5.26%",
+      "pct": 1.08
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "99.00",
-      "pct": -0.49
+      "value": "99.08",
+      "pct": -0.41
     }
   ],
   "stories": [
     {
+      "title": "Dwight Capital Provides $24M Refi on New Jersey Multifamily Building",
+      "link": "https://commercialobserver.com/2026/07/dwight-capital-provides-24m-refi-on-new-jersey-multifamily-building/",
+      "excerpt": "New Jersey developer Fadi Samaan has landed $23.5 million of U.S. Department of Housing and Urban Development (HUD)-backed debt to refinance a multifamily complex in Passaic, NJ., Commercial Observer has learned. Dwight Capital supplied the HUD 223(f) loan on the 104-unit Station at Passaic Phase II development, completed in 2024. The deal, which was originated by Dwight Capital’s Jonathan Pomper and Noah Greenwald, closed nearly a year to the date of a $27.7 million HUD 223(f) loan the private lender executed for the adjacent 104-unit Station at Passaic Phase I property in August 2025. Loan proceeds will be used to retire existing debt, establish a replacement reserve account for funding future capital improvements and return equity built up during the construction and lease-up stages, according to Dwight. &#8220;Station at Passaic&#8217;s location on the NJ Transit line into Manhattan drives strong renter demand from both New York City and other New Jersey submarkets,&#8221; Pomper said in a statement. &#8220;With tight vacancy, limited new supply, and neighborhood amenities like the on-site restaurant and grocery store, the property is well positioned to meet that demand as reflected in Phase I&#8217;s strong lease-up and the natural progression to Phase II.&#8221; Located at 99 Passaic Street 14 miles west of Midtown Manhattan, Station at Passaic Phase II consists of two five-story apartment buildings with a unit mix of eight one-bedroom and 96 two-bedroom units. The property also features 7,813 square feet of retail space that includes a Pachos Mini Market. Samaan said in a statement that the loan closing process with Dwight was “even smoother than the last” and credited them with “making even the most complex financing feel straightforward.” Andrew Coen can be reached at acoen@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-31T15:33:41+00:00",
+      "bullets": [
+        "Dwight Capital closed $23.5M HUD 223(f) refi on 104-unit Station at Passaic Phase II, Passaic, NJ.",
+        "Phase I (104 units) refinanced Aug 2025 for $27.7M; Phase II mirrors strong lease-up trajectory.",
+        "Transit proximity to Manhattan drives renter demand from NYC and NJ submarkets."
+      ],
+      "summary": "Fadi Samaan's Station at Passaic Phase II, a 104-unit multifamily completed in 2024, secured a $23.5M HUD 223(f) refi from Dwight Capital to retire debt and return equity. The adjacent Phase I property closed a nearly identical $27.7M loan in August 2025. Both phases benefit from direct NJ Transit access to Manhattan, generating strong cross-submarket renter demand.",
+      "impact": "Successful consecutive refinancings on twin Phase I/II properties signal healthy lease-up and strong fundamentals in Passaic, NJ. Transit-oriented multifamily with NYC commute appeal shows durable demand; developers should prioritize similar NJ Transit-adjacent sites in underutilized submarkets facing Manhattanward outmigration pressure and price arbitrage."
+    },
+    {
+      "title": "Prominent Austin Office Tower Trades for $208M",
+      "link": "https://www.connectcre.com/stories/prominent-austin-office-tower-trades-for-208m/",
+      "excerpt": "Cousins Properties Inc. has sold the One Eleven Congress office building in downtown Austin to Canyon Creek Real Estate. Cousins sold the One Eleven Congress office building for $208 million. Eastdil Secured brokered the sale. The Austin Business Journal reports building improvements may include modernizing common areas and possibly adding a tenant lounge. Other big transactions in Austin of late include Cousins&#8217; purchase of the Sail Tower for $522 million in 2024, a deal that Eastdil served as exclusive adviser, and Brandywine&#8217;s sale of 405 Colorado to Hines earlier this month, another deal that involved Eastdil as Brandywine&#8217;s representative. Built in 1987, One Eleven Congress is part of the Central Business District’s older office buildings. At 503,344 square feet, the 30-story building is the seventh-largest office tower in Austin. As of June 2025, One Eleven Congress was 84% leased. The property is Canyon Creek&#8217;s first in Austin. The Fort Worth-based firm was formed in 2025. The post Prominent Austin Office Tower Trades for $208M appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-31T15:31:40+00:00",
+      "bullets": [
+        "Cousins Properties sold One Eleven Congress, 503k SF Austin office tower, to Canyon Creek for $208M.",
+        "84% leased as of June 2025; 1987-built property represents older CBD stock ripe for modernization.",
+        "Canyon Creek formed 2025, making this their first Austin acquisition; signals investor confidence in office value-add."
+      ],
+      "summary": "Cousins Properties divested the 503,344-square-foot One Eleven Congress office tower in downtown Austin to Canyon Creek Real Estate for $208M. The 30-story building, built in 1987 and the seventh-largest in Austin, was 84% leased as of June 2025. Canyon Creek, a Fort Worth-based firm formed in 2025, plans modernization of common areas and possible tenant lounge additions.",
+      "impact": "Minimal direct impact on multifamily. However, office distress and ownership transition to newly formed, capital-backed buyer signals continued Austin office sector volatility. For multifamily developers: aging CBD office conversions to residential may emerge; monitor Canyon Creek's renovation roadmap and any near-term office vacancy leakage that could compete for young professional renters in downtown Austin submarkets."
+    },
+    {
+      "title": "Link Logistics Acquires DFW, Austin Warehouses",
+      "link": "https://www.connectcre.com/stories/link-logistics-acquires-dfw-austin-warehouses/",
+      "excerpt": "Link Logistics purchased a two-building industrial portfolio totaling 352,396 square feet in Texas&#8217; Dallas-Fort Worth and Austin metropolitan areas. The portfolio includes two infill industrial properties: a 291,285-square-foot warehouse property at 450 Airline Drive (shown) in Coppell, Texas, located within the DFW Airport submarket, and a 61,111-square-foot facility at 2401 Double Creek Drive in Austin’s Round Rock submarket. Both properties were 100% leased at the time of addition. These properties provide additional exposure to markets where population growth and business expansion continue to support demand for well-located logistics space and reinforce our conviction in Texas as a long-term growth market. Link Logistics has an established presence in both markets, with more than 30 million square feet of warehouse space across Dallas-Fort Worth and more than 7 million square feet across the Austin metro area. The transaction was brokered by Stream Realty Partners. The post Link Logistics Acquires DFW, Austin Warehouses appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-31T15:16:25+00:00",
+      "bullets": [
+        "Link Logistics acquired 352k SF industrial portfolio: 291k SF in Coppell (DFW) and 61k SF in Round Rock (Austin).",
+        "Both properties 100% leased at acquisition; located in infill logistics submarkets with strong population and business growth.",
+        "Link holds 30M+ SF in DFW, 7M+ SF in Austin metro; reinforces Texas as long-term growth conviction."
+      ],
+      "summary": "Link Logistics purchased a two-building industrial portfolio totaling 352,396 square feet across Texas: a 291,285-SF warehouse in Coppell within the DFW Airport submarket and a 61,111-SF facility in Austin's Round Rock submarket. Both properties were 100% leased at close. Link already operates 30+ million square feet across DFW and 7+ million square feet in Austin.",
+      "impact": "Not directly relevant to multifamily development. However, the continued strength and in-fill acquisition activity in DFW and Austin industrial space reinforces these metros as primary job-growth and population-migration destinations. Industrial absorption signals sustained corporate/logistics presence, which sustains demand for workforce housing; multifamily developers should ensure pipeline aligns with DFW airport-corridor and Round Rock job corridors."
+    },
+    {
+      "title": "EDENS Picks Up 179K-SF FW Retail Center",
+      "link": "https://www.connectcre.com/stories/edens-picks-up-179k-sf-fw-retail-center/",
+      "excerpt": "A 179,376-square-foot retail center in Fort Worth has traded hands. JLL represented the seller, Dunhill. The buyer was EDENS. The Village at Camp Bowie sits along Camp Bowie Boulevard. The property&#8217;s tenant roster features a mix of grocery, dining and service concepts, including Sprouts Farmers Market The center benefits from Fort Worth&#8217;s explosive growth trajectory as the nation&#8217;s 11th largest city and fifth fastest-growing large city in America. The area has experienced 9.7% population growth since 2020, supported by major developments including the $1.7 billion Westside Village mixed-use project, Walsh Ranch&#8217;s 7,200-acre master-planned community, and Edwards Ranch Riverhills, where 567 single-family homes with a median value of $1.9 million are under development. JLL Capital Market’s Sales and Advisory team representing the seller was led by Adam Howells, Chris Gerard, Michael Jankovich and Elizabeth Anne Casillas. The post EDENS Picks Up 179K-SF FW Retail Center appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-31T15:03:02+00:00",
+      "bullets": [
+        "EDENS acquired 179k SF Village at Camp Bowie retail center in Fort Worth from Dunhill.",
+        "Fort Worth: 11th largest US city, 5th fastest-growing large city; 9.7% population growth since 2020.",
+        "Surrounding developments: $1.7B Westside Village mixed-use, 7,200-acre Walsh Ranch, 567-home Edwards Ranch Riverhills ($1.9M median)."
+      ],
+      "summary": "EDENS purchased the 179,376-square-foot Village at Camp Bowie retail center in Fort Worth, featuring Sprouts Farmers Market and a mix of grocery, dining, and service tenants. Fort Worth is the nation's 11th-largest city and fifth-fastest growing large city, with 9.7% population growth since 2020. Surrounding developments include the $1.7 billion Westside Village mixed-use project and Walsh Ranch's 7,200-acre master-planned community.",
+      "impact": "Fort Worth's explosive growth (9.7% since 2020) and massive pipeline of high-value residential developments (Westside Village, Walsh Ranch, Edwards Ranch Riverhills) indicate sustained population in-migration and household formation. Multifamily developers should prioritize infill and mixed-use opportunities near high-traffic retail corridors like Camp Bowie; proximity to EDENS-quality grocers and services signals strong renter demand and density appetite in this submarket."
+    },
+    {
+      "title": "Kroger Taking Over Most of Shuttered Dunwoody Walmart Store",
+      "link": "https://www.connectcre.com/stories/kroger-taking-over-most-of-shuttered-dunwoody-walmart-store/",
+      "excerpt": "A Kroger Marketplace is taking over a former Walmart store near Perimeter Mall in Dunwoody. The Atlanta Business Chronicle reports that Kimco, the owner of Perimeter Village since 2022, worked out the deal with Kroger’s to take over 118,000 square feet of the 183,000 square foot building. Walmart vacated its space in 2024. The plan for the super-sized market includes a drive-thru pharmacy and fuel station, as well as a&nbsp;Starbucks&nbsp;coffee counter and specialty departments such as baby apparel and kitchenware. Located at Ashford Dunwoody Road and Meadow Lane, the shopping center dates back to the 1990s. Current retail tenants include Carter&#8217;s, DSW, Hobby Lobby, Perimeter Bottle Shop and World Market, along with several restaurants and service-based establishments. Kroger has not said when it plans to open the new store. It’s also not clear what Kimco’s plans are for the remaining space in the former Walmart building. The post Kroger Taking Over Most of Shuttered Dunwoody Walmart Store appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-31T14:50:16+00:00",
+      "bullets": [
+        "Kroger Marketplace taking over 118k SF of shuttered 183k SF former Walmart store in Dunwoody, Atlanta.",
+        "Kimco owns Perimeter Village since 2022; Walmart vacated 2024; Kroger plans pharmacy, fuel, Starbucks.",
+        "Perimeter Mall submarket anchored by Carter's, DSW, Hobby Lobby, World Market, and service/dining tenants."
+      ],
+      "summary": "Kroger Marketplace is leasing 118,000 square feet of a 183,000-square-foot former Walmart store in Dunwoody near Perimeter Mall in Atlanta, vacated in 2024. Kimco, which acquired Perimeter Village in 2022, brokered the deal. The Kroger will include a drive-thru pharmacy, fuel station, Starbucks, and specialty departments. No opening timeline announced; plans for remaining space unclear.",
+      "impact": "Minimal direct multifamily relevance, but signals healthy retail backfill in the Perimeter submarket. Loss of Walmart and replacement with Kroger Marketplace (higher-quality grocer) could uplift nearby residential appeal; multifamily developers should monitor if Kimco converts remaining vacant space to mixed-use or office, which could alter local renter demographics and demand profile in this north Atlanta submarkets."
+    },
+    {
+      "title": "Waterton Acquires Franklin Apartments at Discount",
+      "link": "https://www.connectcre.com/stories/waterton-acquires-franklin-apartments-at-discount/",
+      "excerpt": "Waterton paid $128.11 million for Franklin’s Wyndchase Aspen Grove development, a high price to pay for a rental community. Despite the sale price, the Nashville Business Journal reports that the seller, Berkshire Residential Investments, lost money on the deal. Berkshire paid $138.1 million for the apartment community in 2019. Built in 1997, Wyndchase Aspen Grove sits on 60 acres at 3100 Aspen Grove Dr. in Franklin, south of Nashville. The rental community offers 560 units with one-, two- or three-bedrooms, including townhome-style options, across multiple buildings. Amenities at Wyndchase include a clubhouse with a game room, fitness center, two pools and outdoor dining and grilling stations. “Wyndchase Aspen Grove represents a highly differentiated product with strong value add upside and an opportunity to provide an updated and relatively attainable rental option,” said Waterton’s Casey Mog. Founded in 1995, Waterton Residential LLC has $10 billion in real estate assets across 25 markets,. The post Waterton Acquires Franklin Apartments at Discount appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-31T14:19:54+00:00",
+      "bullets": [
+        "Waterton acquired Wyndchase Aspen Grove (560 units, 60 acres, Franklin TN) for $128.11M; seller lost $10M from 2019.",
+        "Built 1997; mix of 1/2/3-bed units including townhome-style; amenities: clubhouse, fitness, two pools.",
+        "Waterton ($10B AUM, 25 markets) sees strong value-add and \"attainable rental option\" upside."
+      ],
+      "summary": "Waterton Residential paid $128.11M for Wyndchase Aspen Grove, a 560-unit, 60-acre apartment community in Franklin, south of Nashville. The seller, Berkshire Residential Investments, lost money on the transaction, having paid $138.1M in 2019. Built in 1997, the community offers one-, two-, and three-bedroom units plus townhome-style options with a clubhouse, fitness center, two pools, and outdoor amenities.",
+      "impact": "Distressed value-add opportunity in Franklin submarket signals seller pressure and cap-rate expansion since 2019, likely driven by rising construction costs and rate environment. Waterton's willingness to underwrite at discount indicates market confidence in Nashville's workforce-housing demand and feasibility to renovate aging product. Franklin's continued residential growth supports multifamily redevelopment; developers should scout similar early-2000s suburban communities with renovation-friendly unit layouts and strong location fundamentals."
+    },
+    {
       "title": "AvalonBay Communities, Equity Residential Merger Rebrands as Vivmark Residential",
       "link": "https://commercialobserver.com/2026/07/avalonbay-communities-equity-residential-merger-rebrand-vivmark-residential/",
-      "excerpt": "A new company brings a new name. Two months after multifamily giants AvalonBay Communities and Equity Residential merged to form one of the country’s largest real estate companies — the total enterprise value is calculated at $71 billion — the two firms announced Friday that their new company will be called Vivmark Residential. The new firm, which is a publicly traded real estate investment trust (REIT), will hold the New York Stock Exchange ticker symbol VMRK. &#8220;The name Vivmark Residential reflects what we are building — a company determined to set a new standard for the experience of home,” said Benjamin Schall, CEO of AvalonBay Communities and the new CEO of the combined entity. The new name combines two words — Viv, from the Latin word “vivere,” or “to live fully,” and the English word “mark,” meaning “quality, distinction, and lasting impact,” according to a release from AvalonBay. “Vivmark Residential is built from the exceptional foundations that AvalonBay and Equity Residential have each spent more than 30 years establishing as trusted leaders,” added Schall. Vivmark Residential will take control of the residential REIT landscape as the new biggest player on the block. The combined entity will hold a portfolio of more than 180,000 rental apartments across 600 distinct apartment communities and assets, with another 10,800 units and $4.4 billion of development in its construction pipeline. Avalon Bay stock currently trades at $187 per share, as of Friday morning, down 2 percent over the last five days, while Equity Residential stock trades at $67 per share, also down 2 percent in the last week. The transaction is expected to close in the second half of 2026. Brian Pascus can be reached at bpascus@commercialobserver.com.",
+      "excerpt": "A new company brings a new name. Two months after multifamily giants AvalonBay Communities and Equity Residential merged to form one of the country’s largest real estate companies — the total enterprise value is calculated at $71 billion — the two firms announced Friday that their new company will be called Vivmark Residential. The new firm, which is a publicly traded real estate investment trust (REIT), will hold the New York Stock Exchange ticker symbol VMRK. &#8220;The name Vivmark Residential reflects what we are building — a company determined to set a new standard for the experience of home,” said Benjamin Schall, CEO of AvalonBay Communities and the new CEO of the combined entity. The new name combines two words — Viv, from the Latin word “vivere,” or “to live fully,” and the English word “mark,” meaning “quality, distinction, and lasting impact,” according to a release from AvalonBay. “Vivmark Residential is built from the exceptional foundations that AvalonBay and Equity Residential have each spent more than 30 years establishing as trusted leaders,” added Schall. Vivmark Residential will take control of the residential REIT landscape as the new biggest player on the block. The combined entity will hold a portfolio of more than 180,000 rental apartments across 600 distinct apartment communities and assets, with another 10,800 units and $4.4 billion of development in its construction pipeline. AvalonBay stock currently trades at $187 per share, as of Friday morning, down 2 percent over the last five days, while Equity Residential stock trades at $67 per share, also down 2 percent in the last week. The transaction is expected to close in the second half of 2026. Brian Pascus can be reached at bpascus@commercialobserver.com.",
       "source": "Comm. Observer",
       "cat": "Commercial",
       "date": "2026-07-31T13:32:12+00:00",
       "bullets": [
-        "AvalonBay + Equity Residential merged; $71B enterprise value; renamed Vivmark Residential (NYSE: VMRK).",
-        "Consolidation of two largest U.S. multifamily REITs creates single platform managing portfolios across major metros.",
-        "No immediate operational, supply, or demand signal; rebranding is administrative."
+        "AvalonBay Communities and Equity Residential merger completed; combined entity rebrands as Vivmark Residential.",
+        "Total enterprise value: $71 billion; new NYSE ticker VMRK; Benjamin Schall (AvalonBay CEO) leads combined firm.",
+        "Name blends Latin 'vivere' (to live fully) and 'mark' (quality, distinction, lasting impact)."
       ],
-      "summary": "AvalonBay Communities and Equity Residential completed their merger and announced the combined company will operate as Vivmark Residential, a $71 billion publicly traded REIT trading under ticker VMRK on the NYSE. Benjamin Schall, former AvalonBay CEO, leads the entity. The rebranding reflects the firms' stated mission to set a new standard for residential experience.",
-      "impact": "Minimal near-term impact on development strategy or market dynamics. Consolidation may improve access to capital and operational efficiency for the combined entity, but does not signal new demand patterns, supply constraints, or cost pressures in specific markets. Monitor for portfolio rationalization or capital deployment strategy shifts in coming quarters."
+      "summary": "Two months after AvalonBay Communities and Equity Residential merged to form a $71 billion enterprise value company, the combined entity announced its new name: Vivmark Residential. The publicly traded REIT will trade on the New York Stock Exchange under ticker VMRK, with Benjamin Schall serving as CEO. The name combines 'Viv' from the Latin 'vivere' (to live fully) and 'mark' (quality and distinction).",
+      "impact": "Creation of a $71B multifamily REIT consolidates significant capital, platform, and operating leverage across 25+ markets. Vivmark's scale enhances acquisition speed, cost of capital, and development velocity, raising competitive bar for mid-size and regional developers. Watch for aggressive deployment into high-barrier-to-entry markets and value-add portfolios; smaller developers should seek niche (workforce housing, secondary markets, specialized product) where Vivmark may lack focus or face regulatory scrutiny on concentration."
     },
     {
       "title": "Tom Giordano of Suffolk Construction: 5 Questions",
@@ -47,72 +137,12 @@
       "cat": "Commercial",
       "date": "2026-07-31T12:00:20+00:00",
       "bullets": [
-        "Suffolk Construction GM Tom Giordano manages NY office (NYC, Westchester, Long Island) construction operations.",
-        "Focus on hospitality, healthcare, and residential construction management and project growth.",
-        "Interview-only article; no market data, project details, or forward-looking signals."
+        "Tom Giordano, GM of Suffolk Construction New York, leads NYC, Westchester, Long Island residential/hospitality/healthcare.",
+        "Suffolk enhancing internal processes and infrastructure to expand construction management in three-state metro region.",
+        "Giordano transitioned from legal (Bovis Lend Lease GC 2004) to operations; 4.5 years in current role."
       ],
-      "summary": "Tom Giordano, general manager of Suffolk Construction's New York office, oversees the firm's operations across New York City, Westchester, and Long Island, with a mandate to enhance internal processes and expand construction management capacity in hospitality, healthcare, and residential sectors. The article is an executive profile with no specific project or market information disclosed.",
-      "impact": "No actionable impact. Article is biographical with no data on construction costs, labor availability, project pipeline, or market conditions in the New York tristate area. Does not inform underwriting or development decisions."
-    },
-    {
-      "title": "CRE Tech’s Next Evolution: From More Software to Better Connections",
-      "link": "https://www.connectcre.com/stories/cre-techs-next-evolution-from-more-software-to-better-connections/",
-      "excerpt": "After years of investing in workplace technology, many companies aren&#8217;t buying new software. They’re trying to find ways for their existing systems to play nice with one another. This ties into a recent CBRE article that discusses optimizing portfolio performance through connected technology. The issue companies face today is that their systems are fragmented and not integrated. “To optimize portfolio performance, CRE technology must be carefully selected, integrated and governed in a way that supports the organization’s operating model and business objectives,” CBRE said. Most organizations rely on three main types of technology. Integrated Workplace Management Systems (IWMS). These are the central repositories for real estate and facilities data. They help standardize processes, reporting and governance across large portfolios. On the downside, IWMS has limited flexibility when requirements change, and additional tools are needed to fill gaps. Vendor-Provided Technology. Systems provided and maintained by third parties are tied to daily operations and can be effective when speed, consistency and a proven delivery model are required. However, the technology can prioritize efficiency over customization, offering less flexibility outside its specific operating mode. Best-in-Class Point Solutions: These tools are geared toward solving specific problems, providing deeper insight and experience in areas such as planning, workplace experience, smart building integration and analytics. However, these generate the best value when integrated into a broader CRE technology ecosystem. Connected Portfolio Intelligence Platforms: These platforms link just about everything, including workflow, layout and connections. These don’t replace IWMS platforms, provider technologies or point solutions. Rather, they improve these systems by connecting data and converting it into actionable insights. Beyond the tech tools, CBRE said that organizations need accurate data, consistent go",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-31T05:01:00+00:00",
-      "bullets": [
-        "CRE firms shifting from new software purchases to system integration and interoperability.",
-        "IWMS, vendor-provided systems, and point solutions each trade flexibility for consistency or efficiency.",
-        "Technology trend only; no market, cost, supply, or demand signals for multifamily."
-      ],
-      "summary": "Commercial real estate companies are moving away from purchasing new software and instead focusing on integrating fragmented existing systems. CBRE highlights the challenge: IWMS systems offer standardization but limited flexibility, vendor-provided tools prioritize efficiency over customization, and point solutions fill gaps but add complexity. The trend reflects maturation in CRE tech and portfolio optimization priorities.",
-      "impact": "No impact on multifamily development fundamentals. This is a capital allocation and operational efficiency trend for asset managers and large operators; it does not affect demand, supply, construction costs, financing, or entitlements."
-    },
-    {
-      "title": "How Commercial Real Estate is Pricing on Yesterday’s Valuations",
-      "link": "https://www.connectcre.com/stories/how-commercial-real-estate-is-pricing-onyesterdays-valuations/",
-      "excerpt": "Issues such as Federal Reserve policies, climate-related risks, and rising insurance costs have been putting pressure on accurate commercial real estate valuations. This prompted Urban Land Magazine to ask economists: “Do you think commercial real estate values are fully reflecting today’s costs and risks?” The unanimous response was “no,” but for different reasons. Michael Acton, managing director and head of research at AEW Capital Management, told Urban Land that valuations should reflect investors’ best assessment of potential risk and return based on available information. However, “for several years, U.S. commercial real estate investors have operated under a degree of information inefficiency driven by below-average transaction volume and, consequently, less effective price discovery.” As a result, there is a misunderstanding of how and where commercial real estate fits into the economic and capital market cycle. At the same time, Chad Littell, national director, U.S. Capital Markets Analytics at CoStar Group suggested that investors may be overestimating today’s elevated vacancies and interest rates, rather than considering future growth. “The speed at which property fundamentals can improve once the supply spigot shuts off could surprise the market,” he said. Kiran Raichura, head of commercial real estate economics at Capital Economics in London, told Urban Land that since the end of 2021, the 10-year treasury has increased by nearly 300 basis points (bps), while the all-property cap rate has risen by 85 bps. This has left the yield spread close to zero. Josh Scoville, global head of research, Hines, described today’s CRE pricing environment as a “bit like driving while looking in the rearview mirror.” It’s known where the prices have been, but not where they’re going. He added that the question investors should be asking is how difficult it will be to replace an asset five years from now, rather than whether an asset is priced fairly today. Joseph Crescio,",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-31T05:01:00+00:00",
-      "bullets": [
-        "CRE valuations lag current costs and risks; Fed policy, climate, and insurance pressures misunderstood.",
-        "Low transaction volume and poor price discovery enabled mispricing for years.",
-        "Cap rate and risk assumptions may not yet reflect true carrying costs; potential for further valuation resets."
-      ],
-      "summary": "Commercial real estate valuations have not fully incorporated Federal Reserve policies, climate-related risks, and rising insurance costs, according to economists cited by Urban Land Magazine. Michael Acton (AEW Capital) attributes this to years of below-average transaction volume and poor price discovery. Chad Littell (CoStar) cautions that investors may be overestimating elevated vacancies and rates rather than modeling future supply tightening and rent recovery.",
-      "impact": "Multifamily developers should expect continued cap rate expansion and stricter underwriting until valuations stabilize. Mispriced risk today may constrain debt availability and equity returns on new projects; conversely, when supply constraints tighten and rents recover (post-2025), market-wide repricing could unlock attractive financing windows. Monitor quarterly cap rate shifts by asset class and metro."
-    },
-    {
-      "title": "Beyond the Megawatts: How Data Centers Are Reshaping Industrial Markets",
-      "link": "https://www.connectcre.com/stories/beyond-the-megawatts-how-data-centers-are-reshaping-industrial-markets/",
-      "excerpt": "Artificial intelligence and cloud computing continue to drive demand for data centers. A new Cushman &amp; Wakefield report said that those facilities offer more than support for cloud computing and artificial intelligence. In From Megawatts to Multipliers: The Data Center Effect on Industrial Demand, Jobs and Local Revenue, the Cushman &amp; Wakefield authors point out that such developments can spur employment growth, regional economic development and industrial real estate demand. In other words, &#8220;the economic impacts of data center investment extend beyond the immediate construction and operations of these facilities,” the report said. The authors analyzed Atlanta, Austin/San Antonio, Chicago, Dallas-Fort Worth, Phoenix and Virginia to learn the impact of data center construction on regional industrial leasing and economic activity. Together, these markets account for over 11 gigawatts of data center capacity currently under construction and more than 4.1 billion square feet of industrial product. A Boost in Industrial Leasing One report finding is that companies supporting data center development and operations have become a significant source of industrial leasing demand outside of hyperscale operators. Between 2022 and 2025, these “support” businesses accounted for 10.4% of all new industrial leases, rising to a record 14.4% of leasing activity in 2025. Additionally, data center-related tenant leasing increased 44% year over year in 2025, outpacing the broader industrial market. The report studied suppliers and vendors, including electrical contractors, HVAC manufacturers, fiber-optic suppliers, power equipment companies, engineering firms, telecom providers, wholesalers and construction-related businesses. Regionally: Data center-related companies in Virginia accounted for 13.4% of new industrial leasing between 2022 and 2025. Dallas-Fort Worth, one of the fastest-growing markets, recorded the largest year-over-year increase in data center-related indu",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-31T05:01:00+00:00",
-      "bullets": [
-        "Data center growth (11 GW under construction) spurs industrial leasing, employment, and economic activity in six key metros.",
-        "Atlanta, Austin, Chicago, Dallas, Phoenix, Virginia together host 4.1B SF industrial product; 'support' businesses driving incremental leasing demand 2022–2025.",
-        "Data center ancillary demand reshapes industrial supply absorption and job creation outside hyperscale operators."
-      ],
-      "summary": "A Cushman & Wakefield report documents that data center construction and operations drive significant secondary effects: incremental industrial leasing from support businesses (logistics, maintenance, equipment), regional employment growth, and local revenue expansion. Six markets—Atlanta, Austin/San Antonio, Chicago, Dallas-Fort Worth, Phoenix, and Virginia—together account for 11+ GW under construction and 4.1B SF of industrial real estate. Support-services firms are material tenants in their own right, separate from hyperscaler demand.",
-      "impact": "Data center hubs (Austin, Dallas, Phoenix, Northern Virginia, Atlanta) will see sustained industrial demand and wage growth, indirectly boosting multifamily absorption for workforce housing. Developers should prioritize multifamily near data center corridors and support-business clusters to capture white-collar and logistics worker demand. Rising wages in these metros support higher rents; supply discipline in multifamily will be critical to capture rent growth before new supply arrives."
-    },
-    {
-      "title": "The Next Office Cycle Will Be Defined by Scarcity, Not Oversupply",
-      "link": "https://www.connectcre.com/stories/the-next-office-cycle-will-be-defined-by-scarcity-not-oversupply/",
-      "excerpt": "After years of uncertainty in the office sector, shrinking construction pipelines, improving leasing activity, and the ongoing preference for high-quality space are leading to a more selective market. Recent reports from Colliers, Cushman &amp; Wakefield, Lee &amp; Associates, JLL and Plante Moran suggest that the next phase of office could be defined by more competition for buildings that meet tenant expectations. The Current Situation Supply: Construction continues to decline, with new starts limited mostly to projects in select markets with significant preleasing. As a result, the construction pipeline is low by historical standards and is starting to push up rent growth while increasing occupancy. Meanwhile, available sublease inventory has fallen from its cyclical peak. Demand: The U.S. market is on track to halt its absorption slide, with total leasing volume continuing to improve. However, leasing volumes remain depressed in many markets. Net absorption has been affected partly by a dwindling construction pipeline and partly by inventory being removed from the market for other uses. As a result, tenants are competing for a shrinking supply of top-tier space, resulting in falling vacancies. The Outlook Economic: Investors are expecting a hike in the federal funds interest rate; as such, cost-of-capital reductions will be a key driver of recovery in the development pipeline. Rent growth: Rent growth, especially for high-end Class A spaces, will still be aggressive as tenants increasingly compete for limited inventory. Construction: Completions are forecast to increase over the next several months, but preleasing could curtail the available square footage. At the same time, the growing demand for high-quality space could bring more office developers back into the market. The post The Next Office Cycle Will Be Defined by Scarcity, Not Oversupply appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-30T22:30:00+00:00",
-      "bullets": [
-        "Office construction pipeline at historic lows; starts limited to preleased projects in select markets.",
-        "Sublease inventory falling; net absorption improving; vacancy declining as tenants compete for top-tier space.",
-        "Next cycle defined by scarcity, not oversupply; rent growth and occupancy rising as supply tightens."
-      ],
-      "summary": "Office market conditions are shifting from oversupply to scarcity as construction starts shrink and are concentrated only in preleased, high-quality projects in select markets. Sublease inventory has declined from its peak, and available space is increasingly dominated by top-tier buildings. Leasing activity is improving, net absorption is recovering, and tenants are now competing for limited high-quality stock, pushing rents higher and vacancies lower.",
-      "impact": "Rising office rents and scarcity of high-quality space may accelerate suburban office-to-residential conversions and increase demand for live-work flex spaces in urban multifamily. Secondary office markets with weak demand could present adaptive-reuse and conversion opportunities for multifamily developers. Watch for corporate return-to-office initiatives in select markets (NYC, DC, SF) to drive office rents and displace conversion activity; markets with weak office recovery (sunbelt satellite offices) may see conversions accelerate."
+      "summary": "Tom Giordano, general manager of New York for Suffolk Construction, oversees the firm's operations across NYC, Westchester, and Long Island in hospitality, healthcare, and residential sectors. Previously general counsel at Bovis Lend Lease and before that with Morse Diesel, Giordano has spent the last four and a half years in his current non-legal executive role, focused on enhancing internal processes and infrastructure to support expansion of construction management projects.",
+      "impact": "Minimal material impact on market fundamentals. Profile signals Suffolk's intention to build organizational depth and operational efficiency in Northeast multifamily construction. Developers underwriting projects in tri-state should assess Suffolk's availability and capacity; his shift from legal to operations may indicate firm's move toward higher-margin, larger-scale residential development delivery versus traditional GC work."
     },
     {
       "title": "Goldman Sachs Group Deploys $116M for Syracuse Affordable Housing Overhaul",
@@ -122,27 +152,12 @@
       "cat": "Commercial",
       "date": "2026-07-30T22:10:08+00:00",
       "bullets": [
-        "Goldman Sachs Urban Investment Group provided $116M construction loan; total package $269M for Parkside Commons Syracuse.",
-        "393 affordable apartments (new + renovated) Section 8-backed; BFC Partners + SAA Canopy Group co-develop.",
-        "Signals institutional capital appetite for preservation + new affordable supply in secondary metros."
+        "Goldman Sachs Urban Investment Group deployed $116M construction loan on $269M total financing for Parkside Commons, Syracuse.",
+        "BFC Partners and SAA Canopy Group redeveloping Section 8 complex; 393 apartments (new + renovated) preserved as affordable.",
+        "Project on East Side neighborhood; funded with federal/state Low-Income Housing Tax Credits and HUD/state subsidy."
       ],
-      "summary": "Goldman Sachs' Urban Investment Group committed $116 million in construction financing as part of a $269 million overall package to redevelop Parkside Commons, a Section 8 complex on Syracuse's East Side. The project will deliver 393 affordable units across new construction and renovations. Financing includes federal and state Low-Income Housing Tax Credit allocations, underscoring institutional investor focus on affordable preservation and development.",
-      "impact": "Secondary-market affordable multifamily is attracting major institutional capital. Developers with affordable pipelines in mid-tier metros (Syracuse, Buffalo, Rochester) should expect improved financing availability and lower cost of capital. However, LIHTC competition remains fierce; projects must have strong local partnerships and existing portfolio strength to compete. Market rents in Syracuse may face downward pressure if 393 new affordable units absorb demand; monitor stabilized rents in nearby market-rate communities."
-    },
-    {
-      "title": "Law Firm Relocates Within GFP’s 520 Eighth Ave.",
-      "link": "https://www.connectcre.com/stories/law-firm-relocates-within-gfps-520-eighth-ave/",
-      "excerpt": "GFP Real Estate announced today that New York-based law firm Kelman Winston &amp; Vallone PC has signed a five-year, four-month lease for 2,695 square feet at 520 Eighth Ave. Kelman Winston will relocate to newly improved office space on the 14th floor, previously occupied by LightbulbLive. The move will provide the firm with upgraded office space while allowing it to remain at 520 Eighth Ave. &#8220;Kelman Winston is another example of the diverse mix of professional firms choosing 520 Eighth Ave. for its central location, efficient floor plates and long-term value,&#8221; said Matthew Mandell, senior managing director of GFP Real Estate. &#8220;The building continues to attract tenants looking for well-located office space with ownership committed to investing in the tenant experience.&#8221; Mandell represented GFP in-house. The tenant was represented by Steve Haas of Norman Bobrow &amp; Company. The post Law Firm Relocates Within GFP&#8217;s 520 Eighth Ave. appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-30T21:55:25+00:00",
-      "bullets": [
-        "Law firm Kelman Winston & Vallone signed 5-yr, 4-mo lease; 2,695 SF at 520 Eighth Ave, NYC.",
-        "Tenant relocating within building (14th floor); office building GFP Real Estate reports diverse professional mix.",
-        "Single lease; no market-wide signal or demand pattern."
-      ],
-      "summary": "New York law firm Kelman Winston & Vallone leased 2,695 square feet at 520 Eighth Ave in Manhattan for five years and four months, relocating to newly renovated space on the 14th floor. GFP Real Estate, the building owner, emphasized the property's central location, efficient floor plates, and owner commitment to tenant experience as drivers of leasing activity.",
-      "impact": "No material impact on multifamily development. Single office lease in Manhattan does not signal demand, supply, or capital trends relevant to apartment markets. Office occupancy in NYC remains challenged; this is a minor positive sign for Class A buildings in prime locations but does not affect multifamily."
+      "summary": "Goldman Sachs' Urban Investment Group provided a $116M construction loan as part of a $269M financing package for Parkside Commons, a Section 8-backed affordable housing complex in Syracuse's East Side neighborhood. BFC Partners and SAA Canopy Group are transforming the project into 393 preserved and newly constructed affordable apartments. The financing also includes federal and state Low-Income Housing Tax Credits and HUD/state subsidies.",
+      "impact": "Demonstrates continued appetite from large capital (Goldman Sachs) for affordable/tax-credit multifamily in secondary markets. Syracuse's population and income base may constrain rent-growth; however, Goldman's conviction signals long-term value in preservation + renovation of aging Section 8 stock with subsidy backstop. Developers in Rust Belt/secondary metros should explore similar public-private partnerships combining LIHTC, state bonds, and institutional construction capital for obsolete affordable inventories."
     },
     {
       "title": "NYC Taxi and Limousine Commission Takes 39K SF at AmTrustRE’s 250 Broadway",
@@ -152,27 +167,12 @@
       "cat": "Commercial",
       "date": "2026-07-30T20:37:40+00:00",
       "bullets": [
-        "NYC Taxi & Limousine Commission leasing 39K SF at 250 Broadway (Financial District); move Q1 2027.",
-        "Government tenant relocating from 33 Beaver Street; 4th and partial 5th floor; no lease term/rent disclosed.",
-        "Government occupier stabilizes Downtown Manhattan office; signals modest FiDi demand outside market cycles."
+        "NYC Taxi and Limousine Commission leasing 39k SF (4th floor + partial 5th) at AmTrustRE's 250 Broadway, FiDi.",
+        "Relocating from 33 Beaver Street; move-in Q1 2027; space includes offices, conference rooms, public hearing room.",
+        "FiDi avg asking rent Q1 2025: $60.61/SF; lease terms and rent not disclosed."
       ],
-      "summary": "The NYC Taxi and Limousine Commission is relocating its headquarters to AmTrustRE's 250 Broadway in the Financial District, leasing 39,000 square feet across the entire fourth floor and partial fifth floor. The agency is moving from 33 Beaver Street and is expected to occupy the space in Q1 2027. Lease terms and rent were not disclosed, though Financial District average asking rent was $60.61/SF in Q1.",
-      "impact": "Minimal. Government leasing in the Financial District provides modest anchor tenancy but does not reflect broad tenant demand recovery or drive multifamily demand. This is a vertical move within Manhattan and unlikely to generate job growth or population inflows that would boost apartment absorption. Monitor Financial District office recovery more broadly—if more large tenants relocate in, ancillary services and restaurant activity could support multifamily in nearby neighborhoods (Lower East Side, Brooklyn Bridge), but not material to development underwriting."
-    },
-    {
-      "title": "Delshah Capital Acquires Five Upper West Side Apartment Buildings for $37M",
-      "link": "https://commercialobserver.com/2026/07/delshah-upper-west-side-sale-quality-capital-37m/",
-      "excerpt": "Michael Shah’s DelShah Capital is back at it again with another multi-address, multifamily acquisition. The real estate private equity and asset management firm paid Quality Capital USA $36.9 million for five residential buildings just west of Central Park on Manhattan’s Upper West Side, according to property records filed Thursday. The first batch of six-story apartment buildings are at 3-5 West 108th Street and 7-9 West 108th Street. The two neighboring buildings span a total of roughly 48 market-rate and rent-controlled units, according to New York City Department of Finance records. The second collection resides eight blocks south and contains a total of approximately 99 units at 4 Manhattan Avenue, 8 Manhattan Avenue and 10-16 Manhattan Avenue. Delshah’s purchase is a more than $20 million discount on the portfolio’s last sale in 2018, when Quality Capital USA paid Orbach Group $57 million across five transactions. Orbach had acquired the buildings between 2013 and 2015 for a collective $36.15 million. Delshah has embarked on somewhat of a shopping spree this year. Just this month, Delshah purchased three mixed-use residential properties in Brooklyn’s Williamsburg neighborhood for $128 million. Three months earlier, the firm acquired a 142-unit multifamily property in the same neighborhood for $76 million. In February, Delshah offloaded the $364.7 million Park Hill Apartments complex on Staten Island, a move that coincided with CO’s report that the firm was poised to enter the Class A office market through an in-contract, $135.7 million deal with A.M. Property Holding Corporation for the 24-floor office component of Tishman Speyer and GIC’s CitySpire tower. Spokespeople for Delshah and Quality Capital did not immediately respond to requests for comment. Emily Davis can be reached at edavis@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-30T19:18:05+00:00",
-      "bullets": [
-        "DelShah Capital acquired 5 Upper West Side buildings; 147 units total; paid $36.9M (40% below 2018 price).",
-        "Portfolio spans 3–5 West 108th, 7–9 West 108th, 4/8/10–16 Manhattan Ave; mix of market-rate and rent-controlled units.",
-        "Significant price decline signals weak Manhattan residential values; distressed seller or value-add opportunity."
-      ],
-      "summary": "DelShah Capital purchased five residential buildings on the Upper West Side for $36.9 million from Quality Capital USA—a 35% discount versus Quality Capital's $57 million acquisition of the same portfolio in 2018. The portfolio contains approximately 147 units across two clusters: two buildings near West 108th Street with ~48 units, and three buildings near Manhattan Avenue with ~99 units. Buildings are primarily market-rate and rent-controlled, ranging six stories.",
-      "impact": "Upper West Side multifamily pricing has deteriorated sharply since 2018, reflecting persistent rent pressure from rent regulation, competition from new supply, and limited owner exit optionality in NYC's hostile landlord environment. DelShah's acquisition suggests distressed sellers and opportunity for deep-value operators willing to work with rent-controlled inventory long-term. Broader signal: Manhattan residential values remain soft outside trophy assets; new development in prime submarkets faces significant headwinds from existing stabilized-portfolio pricing. Developers should focus on conversion/adaptive-reuse or suburban expansion rather than new Manhattan starts unless backed by institutional capital and phased/mixed-income strategies."
+      "summary": "The NYC Taxi and Limousine Commission is relocating its headquarters to 250 Broadway in Manhattan's Financial District, leasing 39,000 square feet across the entire fourth floor and a portion of the fifth floor. The agency is moving from its current office at 33 Beaver Street and will occupy space with private offices, conference rooms, and a public hearing room. Expected occupancy is Q1 2027; lease terms and rent were not disclosed.",
+      "impact": "Minimal direct multifamily impact. However, TLC relocation signals landlord confidence in FiDi office fundamentals and AmTrustRE's ability to attract government tenancy. For multifamily developers: government leasing activity stabilizes office market and anchors Financial District foot traffic and retail/services, which supports nearby residential demand. Monitor whether additional municipal tenants follow TLC to 250 Broadway or other FiDi properties; sustained government occupancy could underpin demand for workforce/young professional housing in lower Manhattan submarkets."
     }
   ]
 }
