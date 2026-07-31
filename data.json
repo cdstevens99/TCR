@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-30T23:54:56.599393+00:00",
+  "fetchedAt": "2026-07-31T13:43:15.879752+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -9,21 +9,96 @@
     },
     {
       "label": "10Y Treasury",
-      "value": "4.66%",
-      "pct": 0.89
+      "value": "4.71%",
+      "pct": 0.92
     },
     {
       "label": "30Y Treasury",
-      "value": "5.21%",
-      "pct": 1.26
+      "value": "5.24%",
+      "pct": 0.56
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "99.49",
-      "pct": -1.16
+      "value": "99.00",
+      "pct": -0.49
     }
   ],
   "stories": [
+    {
+      "title": "AvalonBay Communities, Equity Residential Merger Rebrands as Vivmark Residential",
+      "link": "https://commercialobserver.com/2026/07/avalonbay-communities-equity-residential-merger-rebrand-vivmark-residential/",
+      "excerpt": "A new company brings a new name. Two months after multifamily giants AvalonBay Communities and Equity Residential merged to form one of the country’s largest real estate companies — the total enterprise value is calculated at $71 billion — the two firms announced Friday that their new company will be called Vivmark Residential. The new firm, which is a publicly traded real estate investment trust (REIT), will hold the New York Stock Exchange ticker symbol VMRK. &#8220;The name Vivmark Residential reflects what we are building — a company determined to set a new standard for the experience of home,” said Benjamin Schall, CEO of AvalonBay Communities and the new CEO of the combined entity. The new name combines two words — Viv, from the Latin word “vivere,” or “to live fully,” and the English word “mark,” meaning “quality, distinction, and lasting impact,” according to a release from AvalonBay. “Vivmark Residential is built from the exceptional foundations that AvalonBay and Equity Residential have each spent more than 30 years establishing as trusted leaders,” added Schall. Vivmark Residential will take control of the residential REIT landscape as the new biggest player on the block. The combined entity will hold a portfolio of more than 180,000 rental apartments across 600 distinct apartment communities and assets, with another 10,800 units and $4.4 billion of development in its construction pipeline. Avalon Bay stock currently trades at $187 per share, as of Friday morning, down 2 percent over the last five days, while Equity Residential stock trades at $67 per share, also down 2 percent in the last week. The transaction is expected to close in the second half of 2026. Brian Pascus can be reached at bpascus@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-31T13:32:12+00:00",
+      "bullets": [
+        "AvalonBay + Equity Residential merged; $71B enterprise value; renamed Vivmark Residential (NYSE: VMRK).",
+        "Consolidation of two largest U.S. multifamily REITs creates single platform managing portfolios across major metros.",
+        "No immediate operational, supply, or demand signal; rebranding is administrative."
+      ],
+      "summary": "AvalonBay Communities and Equity Residential completed their merger and announced the combined company will operate as Vivmark Residential, a $71 billion publicly traded REIT trading under ticker VMRK on the NYSE. Benjamin Schall, former AvalonBay CEO, leads the entity. The rebranding reflects the firms' stated mission to set a new standard for residential experience.",
+      "impact": "Minimal near-term impact on development strategy or market dynamics. Consolidation may improve access to capital and operational efficiency for the combined entity, but does not signal new demand patterns, supply constraints, or cost pressures in specific markets. Monitor for portfolio rationalization or capital deployment strategy shifts in coming quarters."
+    },
+    {
+      "title": "Tom Giordano of Suffolk Construction: 5 Questions",
+      "link": "https://commercialobserver.com/2026/07/tom-giordano-suffolk-construction-5-questions/",
+      "excerpt": "From a young age, Tom Giordano, general manager of New York for Suffolk Construction, had one goal. That was to follow in his uncle’s footsteps and become a lawyer to benefit his community. After going from litigation to representing general contractors, developers and design professionals on legal matters, he joined Morse Diesel Construction in 1999, then Bovis Lend Lease in 2004 as general counsel. For the last four and a half years, he has been managing the New York office of Suffolk Construction, working in a non-legal executive role. Giordano is responsible for enhancing the company’s internal organization processes and its infrastructure, as well as ensuring Suffolk is in a strong position to grow and expand construction management projects in the metro area — which for the firm includes New York City, Westchester and Long Island — in the hospitality, health care and residential spaces. Commercial Observer caught up with Giordano in July to discuss what projects Suffolk has been working on recently, notable market trends in New York City’s construction industry, and how the firm takes a project from an idea to reality. This conversation has been edited for length and clarity. Commercial Observer: What is the mission of Suffolk Construction in New York? Tom Giordano: Our mission is pretty simple. We want New York to be similar to what Suffolk is nationally. We want to be not necessarily the biggest, but the best construction management firm in the New York metro area, and deliver the Suffolk culture here. We&#8217;ve had a New York presence for 13 years, but we&#8217;ve really gotten a significant amount of traction over the last five and a half years. We&#8217;ve grown significantly. When I started, we were probably doing $350 million a year in revenue. Now we&#8217;re doing $1.3 billion, with a real look at $2 billion a year in the next two years. What kinds of projects does Suffolk work on across New York? When I started, we were 40 percent residential. Now ",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-31T12:00:20+00:00",
+      "bullets": [
+        "Suffolk Construction GM Tom Giordano manages NY office (NYC, Westchester, Long Island) construction operations.",
+        "Focus on hospitality, healthcare, and residential construction management and project growth.",
+        "Interview-only article; no market data, project details, or forward-looking signals."
+      ],
+      "summary": "Tom Giordano, general manager of Suffolk Construction's New York office, oversees the firm's operations across New York City, Westchester, and Long Island, with a mandate to enhance internal processes and expand construction management capacity in hospitality, healthcare, and residential sectors. The article is an executive profile with no specific project or market information disclosed.",
+      "impact": "No actionable impact. Article is biographical with no data on construction costs, labor availability, project pipeline, or market conditions in the New York tristate area. Does not inform underwriting or development decisions."
+    },
+    {
+      "title": "CRE Tech’s Next Evolution: From More Software to Better Connections",
+      "link": "https://www.connectcre.com/stories/cre-techs-next-evolution-from-more-software-to-better-connections/",
+      "excerpt": "After years of investing in workplace technology, many companies aren&#8217;t buying new software. They’re trying to find ways for their existing systems to play nice with one another. This ties into a recent CBRE article that discusses optimizing portfolio performance through connected technology. The issue companies face today is that their systems are fragmented and not integrated. “To optimize portfolio performance, CRE technology must be carefully selected, integrated and governed in a way that supports the organization’s operating model and business objectives,” CBRE said. Most organizations rely on three main types of technology. Integrated Workplace Management Systems (IWMS). These are the central repositories for real estate and facilities data. They help standardize processes, reporting and governance across large portfolios. On the downside, IWMS has limited flexibility when requirements change, and additional tools are needed to fill gaps. Vendor-Provided Technology. Systems provided and maintained by third parties are tied to daily operations and can be effective when speed, consistency and a proven delivery model are required. However, the technology can prioritize efficiency over customization, offering less flexibility outside its specific operating mode. Best-in-Class Point Solutions: These tools are geared toward solving specific problems, providing deeper insight and experience in areas such as planning, workplace experience, smart building integration and analytics. However, these generate the best value when integrated into a broader CRE technology ecosystem. Connected Portfolio Intelligence Platforms: These platforms link just about everything, including workflow, layout and connections. These don’t replace IWMS platforms, provider technologies or point solutions. Rather, they improve these systems by connecting data and converting it into actionable insights. Beyond the tech tools, CBRE said that organizations need accurate data, consistent go",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-31T05:01:00+00:00",
+      "bullets": [
+        "CRE firms shifting from new software purchases to system integration and interoperability.",
+        "IWMS, vendor-provided systems, and point solutions each trade flexibility for consistency or efficiency.",
+        "Technology trend only; no market, cost, supply, or demand signals for multifamily."
+      ],
+      "summary": "Commercial real estate companies are moving away from purchasing new software and instead focusing on integrating fragmented existing systems. CBRE highlights the challenge: IWMS systems offer standardization but limited flexibility, vendor-provided tools prioritize efficiency over customization, and point solutions fill gaps but add complexity. The trend reflects maturation in CRE tech and portfolio optimization priorities.",
+      "impact": "No impact on multifamily development fundamentals. This is a capital allocation and operational efficiency trend for asset managers and large operators; it does not affect demand, supply, construction costs, financing, or entitlements."
+    },
+    {
+      "title": "How Commercial Real Estate is Pricing on Yesterday’s Valuations",
+      "link": "https://www.connectcre.com/stories/how-commercial-real-estate-is-pricing-onyesterdays-valuations/",
+      "excerpt": "Issues such as Federal Reserve policies, climate-related risks, and rising insurance costs have been putting pressure on accurate commercial real estate valuations. This prompted Urban Land Magazine to ask economists: “Do you think commercial real estate values are fully reflecting today’s costs and risks?” The unanimous response was “no,” but for different reasons. Michael Acton, managing director and head of research at AEW Capital Management, told Urban Land that valuations should reflect investors’ best assessment of potential risk and return based on available information. However, “for several years, U.S. commercial real estate investors have operated under a degree of information inefficiency driven by below-average transaction volume and, consequently, less effective price discovery.” As a result, there is a misunderstanding of how and where commercial real estate fits into the economic and capital market cycle. At the same time, Chad Littell, national director, U.S. Capital Markets Analytics at CoStar Group suggested that investors may be overestimating today’s elevated vacancies and interest rates, rather than considering future growth. “The speed at which property fundamentals can improve once the supply spigot shuts off could surprise the market,” he said. Kiran Raichura, head of commercial real estate economics at Capital Economics in London, told Urban Land that since the end of 2021, the 10-year treasury has increased by nearly 300 basis points (bps), while the all-property cap rate has risen by 85 bps. This has left the yield spread close to zero. Josh Scoville, global head of research, Hines, described today’s CRE pricing environment as a “bit like driving while looking in the rearview mirror.” It’s known where the prices have been, but not where they’re going. He added that the question investors should be asking is how difficult it will be to replace an asset five years from now, rather than whether an asset is priced fairly today. Joseph Crescio,",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-31T05:01:00+00:00",
+      "bullets": [
+        "CRE valuations lag current costs and risks; Fed policy, climate, and insurance pressures misunderstood.",
+        "Low transaction volume and poor price discovery enabled mispricing for years.",
+        "Cap rate and risk assumptions may not yet reflect true carrying costs; potential for further valuation resets."
+      ],
+      "summary": "Commercial real estate valuations have not fully incorporated Federal Reserve policies, climate-related risks, and rising insurance costs, according to economists cited by Urban Land Magazine. Michael Acton (AEW Capital) attributes this to years of below-average transaction volume and poor price discovery. Chad Littell (CoStar) cautions that investors may be overestimating elevated vacancies and rates rather than modeling future supply tightening and rent recovery.",
+      "impact": "Multifamily developers should expect continued cap rate expansion and stricter underwriting until valuations stabilize. Mispriced risk today may constrain debt availability and equity returns on new projects; conversely, when supply constraints tighten and rents recover (post-2025), market-wide repricing could unlock attractive financing windows. Monitor quarterly cap rate shifts by asset class and metro."
+    },
+    {
+      "title": "Beyond the Megawatts: How Data Centers Are Reshaping Industrial Markets",
+      "link": "https://www.connectcre.com/stories/beyond-the-megawatts-how-data-centers-are-reshaping-industrial-markets/",
+      "excerpt": "Artificial intelligence and cloud computing continue to drive demand for data centers. A new Cushman &amp; Wakefield report said that those facilities offer more than support for cloud computing and artificial intelligence. In From Megawatts to Multipliers: The Data Center Effect on Industrial Demand, Jobs and Local Revenue, the Cushman &amp; Wakefield authors point out that such developments can spur employment growth, regional economic development and industrial real estate demand. In other words, &#8220;the economic impacts of data center investment extend beyond the immediate construction and operations of these facilities,” the report said. The authors analyzed Atlanta, Austin/San Antonio, Chicago, Dallas-Fort Worth, Phoenix and Virginia to learn the impact of data center construction on regional industrial leasing and economic activity. Together, these markets account for over 11 gigawatts of data center capacity currently under construction and more than 4.1 billion square feet of industrial product. A Boost in Industrial Leasing One report finding is that companies supporting data center development and operations have become a significant source of industrial leasing demand outside of hyperscale operators. Between 2022 and 2025, these “support” businesses accounted for 10.4% of all new industrial leases, rising to a record 14.4% of leasing activity in 2025. Additionally, data center-related tenant leasing increased 44% year over year in 2025, outpacing the broader industrial market. The report studied suppliers and vendors, including electrical contractors, HVAC manufacturers, fiber-optic suppliers, power equipment companies, engineering firms, telecom providers, wholesalers and construction-related businesses. Regionally: Data center-related companies in Virginia accounted for 13.4% of new industrial leasing between 2022 and 2025. Dallas-Fort Worth, one of the fastest-growing markets, recorded the largest year-over-year increase in data center-related indu",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-31T05:01:00+00:00",
+      "bullets": [
+        "Data center growth (11 GW under construction) spurs industrial leasing, employment, and economic activity in six key metros.",
+        "Atlanta, Austin, Chicago, Dallas, Phoenix, Virginia together host 4.1B SF industrial product; 'support' businesses driving incremental leasing demand 2022–2025.",
+        "Data center ancillary demand reshapes industrial supply absorption and job creation outside hyperscale operators."
+      ],
+      "summary": "A Cushman & Wakefield report documents that data center construction and operations drive significant secondary effects: incremental industrial leasing from support businesses (logistics, maintenance, equipment), regional employment growth, and local revenue expansion. Six markets—Atlanta, Austin/San Antonio, Chicago, Dallas-Fort Worth, Phoenix, and Virginia—together account for 11+ GW under construction and 4.1B SF of industrial real estate. Support-services firms are material tenants in their own right, separate from hyperscaler demand.",
+      "impact": "Data center hubs (Austin, Dallas, Phoenix, Northern Virginia, Atlanta) will see sustained industrial demand and wage growth, indirectly boosting multifamily absorption for workforce housing. Developers should prioritize multifamily near data center corridors and support-business clusters to capture white-collar and logistics worker demand. Rising wages in these metros support higher rents; supply discipline in multifamily will be critical to capture rent growth before new supply arrives."
+    },
     {
       "title": "The Next Office Cycle Will Be Defined by Scarcity, Not Oversupply",
       "link": "https://www.connectcre.com/stories/the-next-office-cycle-will-be-defined-by-scarcity-not-oversupply/",
@@ -32,12 +107,12 @@
       "cat": "Commercial",
       "date": "2026-07-30T22:30:00+00:00",
       "bullets": [
-        "Office construction pipeline at historical lows; new starts limited to pre-leased projects only.",
-        "Sublease inventory fallen from peak; tenants competing for shrinking top-tier space supply.",
-        "Net absorption improving; falling vacancies pushing up rent growth in selective markets."
+        "Office construction pipeline at historic lows; starts limited to preleased projects in select markets.",
+        "Sublease inventory falling; net absorption improving; vacancy declining as tenants compete for top-tier space.",
+        "Next cycle defined by scarcity, not oversupply; rent growth and occupancy rising as supply tightens."
       ],
-      "summary": "The U.S. office sector is entering a supply-constrained cycle as construction pipelines shrink to historical lows and sublease inventory declines. Leasing volume is improving and net absorption is stabilizing, but only for high-quality space in select markets. Investors expect this scarcity to drive rent growth and occupancy increases, creating a more competitive market for premium assets.",
-      "impact": "Office scarcity signals diverging multifamily outcomes by market: strong job-producing metros with constrained office supply (NYC, SF, Austin, DC) will see landlords retain white-collar tenants and support rental demand; weaker office markets will struggle to attract/retain corporate workers, depressing multifamily fundamentals. Developers should target metros where office constraints correlate with tech/finance growth, not declining employment."
+      "summary": "Office market conditions are shifting from oversupply to scarcity as construction starts shrink and are concentrated only in preleased, high-quality projects in select markets. Sublease inventory has declined from its peak, and available space is increasingly dominated by top-tier buildings. Leasing activity is improving, net absorption is recovering, and tenants are now competing for limited high-quality stock, pushing rents higher and vacancies lower.",
+      "impact": "Rising office rents and scarcity of high-quality space may accelerate suburban office-to-residential conversions and increase demand for live-work flex spaces in urban multifamily. Secondary office markets with weak demand could present adaptive-reuse and conversion opportunities for multifamily developers. Watch for corporate return-to-office initiatives in select markets (NYC, DC, SF) to drive office rents and displace conversion activity; markets with weak office recovery (sunbelt satellite offices) may see conversions accelerate."
     },
     {
       "title": "Goldman Sachs Group Deploys $116M for Syracuse Affordable Housing Overhaul",
@@ -47,72 +122,27 @@
       "cat": "Commercial",
       "date": "2026-07-30T22:10:08+00:00",
       "bullets": [
-        "Goldman Sachs UIG provides $116M construction loan for Syracuse Parkside Commons redevelopment.",
-        "393 units of affordable housing (new + renovated) on East Side; $269M total financing package.",
-        "Partnership with NY State, BFC Partners, SAA Canopy Group signals institutional capital flowing to secondary-market affordable preservation."
+        "Goldman Sachs Urban Investment Group provided $116M construction loan; total package $269M for Parkside Commons Syracuse.",
+        "393 affordable apartments (new + renovated) Section 8-backed; BFC Partners + SAA Canopy Group co-develop.",
+        "Signals institutional capital appetite for preservation + new affordable supply in secondary metros."
       ],
-      "summary": "Goldman Sachs' Urban Investment Group funded a $116 million construction loan (part of a $269 million package) for BFC Partners and SAA Canopy Group to redevelop Parkside Commons, a 393-unit affordable housing complex in Syracuse's East Side. The project involves renovation of existing units and new construction, backed by federal and state Low-Income Housing Tax Credits and NY State funding.",
-      "impact": "Syracuse affordable redevelopment signals institutional capital appetite for preservation in secondary markets where tax credits and state programs offset low market rents. For multifamily developers: this crowds supply in the affordable segment, but signals investor confidence in upstate NY markets; market-rate developers should monitor East Side revitalization for potential spillover demand and neighborhood appreciation that could support mixed-income projects."
+      "summary": "Goldman Sachs' Urban Investment Group committed $116 million in construction financing as part of a $269 million overall package to redevelop Parkside Commons, a Section 8 complex on Syracuse's East Side. The project will deliver 393 affordable units across new construction and renovations. Financing includes federal and state Low-Income Housing Tax Credit allocations, underscoring institutional investor focus on affordable preservation and development.",
+      "impact": "Secondary-market affordable multifamily is attracting major institutional capital. Developers with affordable pipelines in mid-tier metros (Syracuse, Buffalo, Rochester) should expect improved financing availability and lower cost of capital. However, LIHTC competition remains fierce; projects must have strong local partnerships and existing portfolio strength to compete. Market rents in Syracuse may face downward pressure if 393 new affordable units absorb demand; monitor stabilized rents in nearby market-rate communities."
     },
     {
       "title": "Law Firm Relocates Within GFP’s 520 Eighth Ave.",
       "link": "https://www.connectcre.com/stories/law-firm-relocates-within-gfps-520-eighth-ave/",
-      "excerpt": "GFP Real Estate announced today that New York-based law firm Kelman Winston &amp; Vallone PC has signed a five-year, four-month lease for 2,695 square feet at 520 Eighth Ave. Kelman Winston will relocate to newly improved office space on the 14th floor, previously occupied by LightbulbLive. The move will provide the firm with upgraded office space while allowing it to remain at 520 Eighth Ave. &#8220;Kelman Winston is another example of the diverse mix of professional firms choosing 520 Eighth Ave. for its central location, efficient floor plates and long-term value,&#8221; said Matthew Mandell, Senior Managing Director of GFP Real Estate. &#8220;The building continues to attract tenants looking for well-located office space with ownership committed to investing in the tenant experience.&#8221; Mandell represented GFP in-house. The tenant was represented by Steve Haas of Norman Bobrow &amp; Company. The post Law Firm Relocates Within GFP&#8217;s 520 Eighth Ave. appeared first on Connect CRE.",
+      "excerpt": "GFP Real Estate announced today that New York-based law firm Kelman Winston &amp; Vallone PC has signed a five-year, four-month lease for 2,695 square feet at 520 Eighth Ave. Kelman Winston will relocate to newly improved office space on the 14th floor, previously occupied by LightbulbLive. The move will provide the firm with upgraded office space while allowing it to remain at 520 Eighth Ave. &#8220;Kelman Winston is another example of the diverse mix of professional firms choosing 520 Eighth Ave. for its central location, efficient floor plates and long-term value,&#8221; said Matthew Mandell, senior managing director of GFP Real Estate. &#8220;The building continues to attract tenants looking for well-located office space with ownership committed to investing in the tenant experience.&#8221; Mandell represented GFP in-house. The tenant was represented by Steve Haas of Norman Bobrow &amp; Company. The post Law Firm Relocates Within GFP&#8217;s 520 Eighth Ave. appeared first on Connect CRE.",
       "source": "Connect CRE",
       "cat": "Commercial",
       "date": "2026-07-30T21:55:25+00:00",
       "bullets": [
-        "Kelman Winston law firm signs 5yr 4mo lease for 2,695 SF at 520 Eighth Ave, Manhattan.",
-        "Tenant relocates within same building to newly improved 14th floor; prior occupant LightbulbLive vacated.",
-        "GFP Real Estate highlights central location, efficient floor plates, and ownership investment as lease drivers."
+        "Law firm Kelman Winston & Vallone signed 5-yr, 4-mo lease; 2,695 SF at 520 Eighth Ave, NYC.",
+        "Tenant relocating within building (14th floor); office building GFP Real Estate reports diverse professional mix.",
+        "Single lease; no market-wide signal or demand pattern."
       ],
-      "summary": "New York law firm Kelman Winston & Vallone has leased 2,695 square feet at GFP Real Estate's 520 Eighth Ave. in Midtown Manhattan, relocating from another location within the same building to newly renovated space on the 14th floor. The transaction signals tenant willingness to stay and upgrade in the same building when landlord capital is deployed to improve the product.",
-      "impact": "Minimal direct multifamily relevance; office lease activity in Midtown does not meaningfully signal rental apartment demand. However, lawyer retention in Midtown suggests office occupier stability in NYC's core, indirectly supporting service-sector employment that feeds apartment demand. Not a primary market signal for multifamily underwriting."
-    },
-    {
-      "title": "CBRE Completes Receivership Sale of Santa Monica Apartments",
-      "link": "https://www.connectcre.com/stories/cbre-completes-receivership-sale-of-santa-monica-apartments/",
-      "excerpt": "CBRE arranged the sale of 901 Ocean Ave., a 28‑unit coastal multifamily investment property located along Santa Monica’s Ocean Avenue corridor. The property sold for $23.46 million to a private local investor, with the buyer also assuming approximately $2.4 million in transaction-related obligations, bringing the total consideration to approximately $26 million. The sale was completed through a court‑supervised receivership overseen by the Superior Court of California, County of Los Angeles, with CBRE representing the court-appointed receiver. CBRE’s marketing process generated 10 offers for the property. Originally constructed in 1961 and 1970, the three‑story building encompasses 30,954 square feet on a 15,011‑square‑foot double lot with 100 feet of frontage along Ocean Avenue. Dan Blackwell, EVP at CBRE, said the sale is a strong example of the enduring appeal of coastal multifamily assets to global capital sources. “The views, the frontage and the scale of this property create a profile that is very difficult to replicate anywhere on the Westside,” said Blackwell. The post CBRE Completes Receivership Sale of Santa Monica Apartments appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-30T21:47:37+00:00",
-      "bullets": [
-        "CBRE sold 28-unit Santa Monica apartment at 901 Ocean Ave for $23.46M ($26M with assumptions).",
-        "Receivership sale generated 10 offers; 30,954 SF across two buildings (1961/1970 vintage), 100 ft ocean frontage.",
-        "$23.46M sale price represents significant premium for coastal location; purchased by local private investor."
-      ],
-      "summary": "CBRE completed a court-supervised receivership sale of 901 Ocean Ave., a 28-unit coastal multifamily property in Santa Monica, to a private local investor for $23.46 million (approximately $26 million with assumed obligations). The vintage properties span two buildings totaling 30,954 square feet with 100 feet of Ocean Avenue frontage. The strong competitive bidding (10 offers) underscores enduring capital appetite for coastal California multifamily assets.",
-      "impact": "Santa Monica coastal demand remains resilient despite financing headwinds and receivership distress. The 10-offer competitive process signals that trophy-location, supply-constrained California coastal assets are still attracting capital—but development feasibility on small infill sites (15,011 SF lot, 28 units) remains challenged by land scarcity and entitlements. For developers: focus on Westside redevelopment/repositioning of existing vintage stock rather than new ground-up, given land costs and regulatory friction."
-    },
-    {
-      "title": "New York People and Company News, Week of July 31, 2026",
-      "link": "https://www.connectcre.com/stories/new-york-people-and-company-news-week-of-july-31-2026/",
-      "excerpt": "Pembrook Capital Management LLC announced that Talia Feuerstein has joined the firm as SVP of Asset Management. Feuerstein brings more than 20 years of commercial real estate asset management, credit and investment experience to Pembrook. She most recently served as Head of Asset Management for Lightstone Capital, where she managed more than $500 million in bridge loans. Debevoise &amp; Plimpton LLP announced that Edward Rishty has been appointed Chair of the Real Estate Group, effective immediately. He succeeds Peter Irwin, who will become the firm&#8217;s next General Counsel as of October 1. Chris Tahbaz, who has served as General Counsel for the past eight years, will retire at the end of the year. SJP Properties has added Paul Chung as Head of Acquisitions. Chung will join a team focused on the acquisition and development of Class-A office and industrial buildings, residential properties, and mixed-use projects across the New York and New Jersey metropolitan area and select Southeast markets. NAREIM (National Association of Real Estate Investment Managers) has appointed Andy Walburger as CEO, effective August 17. Walburger brings more than 25 years of commercial real estate experience cultivating executive relationships and facilitating high-level peer exchange. Prior to joining NAREIM, he held senior commercial roles across leading real estate data, analytics, and technology platforms, including Green Street, Juniper Square, and Ten-X. Brand Urban, a New York City-based national retail real estate advisory firm founded in 2019 by Taryn Brandes, announced that key members of the Alvarez &amp; Marsal Property Solutions team have joined the company Matthew Krell joins Brand Urban as Principal, bringing more than two decades of experience advising leading national retailers and developers across the United States. Daniel Bodner and Lucas Kooyman, each with more than 15 years of experience, join as EVP and VP, respectively The Community Preservation Corporation (CP",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-30T21:36:20+00:00",
-      "bullets": [
-        "Article is header/masthead placeholder with no substantive CRE data or market news.",
-        "No specific transactions, deals, metrics, or market signals provided.",
-        "Insufficient information for meaningful multifamily developer analysis."
-      ],
-      "summary": "This article is a generic header/masthead for a New York CRE news roundup with no substantive content provided. No specific transactions, companies, markets, or market data are included.",
-      "impact": "No impact; insufficient content to assess. Skip."
-    },
-    {
-      "title": "Chicago/Midwest People & Company News, week of July 31, 2026",
-      "link": "https://www.connectcre.com/stories/chicago-midwest-people-company-news-week-of-july-31-2026/",
-      "excerpt": "JLL announced key leadership appointments within its asset management services team as a global offering under value and risk advisory, part of the firm&#8217;s capital markets services. Katie Hynard, appointed global lead earlier this year, is leading the strategy and direction for the platform with a focus on building out the offering across all key markets. Nathan Zinn joined JLL as lead director, asset management services, Americas, and is spearheading implementation and commercial growth across U.S. markets. Farbman Group announced four new team members and two new promotions across the enterprise. Michelle Marcinko joins the firm as a property manager, Sam Paulus joins NAI Farbman brokerage as a sales associate, Shannon Bauer joins Farbman Group as a sales associate, and Ashton Knoll joins as an electrical technician. Christopher Debs has been promoted from a general manager in the firm’s property management department to director of multifamily real estate, and Vinnie Lyles has been promoted to senior facilities manager in Ohio. CRG announced the appointment of student housing veteran Carly Shepherd as senior vice president of sales and marketing, strengthening the leasing and marketing capabilities of the firm’s expanding student housing and residential platform. Shepherd brings more than 24 years of student housing operations, leasing and marketing leadership to CRG, where she will direct sales and marketing strategy across the firm’s Chapter portfolio of student housing and multifamily communities nationwide. Gold + Oak, the lifestyle, retail merchandising and design division of Nicholas Family of Companies, announced it has formalized its interior design capabilities with the launch of Gold + Oak Interiors. Megan Vosburgh, Karen Hultsch and Jenna Scialabba have all joined Gold + Oak Interiors from Eleni Interiors, a former project partner on past NFOC multifamily and commercial work that has since merged with another firm. National full-service real estat",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-30T21:27:45+00:00",
-      "bullets": [
-        "JLL appoints Katie Hynard as global lead, Nathan Zinn as lead director, asset management services, Americas.",
-        "Farbman Group adds 4 team members, promotes Christopher Debs to director of multifamily real estate.",
-        "CRG hires Carly Shepherd as SVP of sales and marketing for student housing expansion."
-      ],
-      "summary": "JLL announced organizational changes in asset management services with new leadership focused on U.S. market expansion. Farbman Group added four staff and promoted Christopher Debs to director of multifamily real estate. CRG hired Carly Shepherd as senior vice president of sales and marketing to strengthen student housing operations.",
-      "impact": "Personnel announcements and organizational restructuring carry minimal forward-looking market signal. JLL's expansion of asset management in the U.S. may indicate growing institutional demand for portfolio management services (post-distress or stabilization), but no direct implication for development underwriting, capital availability, or market demand. Farbman's multifamily director promotion suggests regional (Midwest/Cleveland) multifamily focus; student housing hiring at CRG is vertical-specific, not sector-wide. Skip for development strategy purposes."
+      "summary": "New York law firm Kelman Winston & Vallone leased 2,695 square feet at 520 Eighth Ave in Manhattan for five years and four months, relocating to newly renovated space on the 14th floor. GFP Real Estate, the building owner, emphasized the property's central location, efficient floor plates, and owner commitment to tenant experience as drivers of leasing activity.",
+      "impact": "No material impact on multifamily development. Single office lease in Manhattan does not signal demand, supply, or capital trends relevant to apartment markets. Office occupancy in NYC remains challenged; this is a minor positive sign for Class A buildings in prime locations but does not affect multifamily."
     },
     {
       "title": "NYC Taxi and Limousine Commission Takes 39K SF at AmTrustRE’s 250 Broadway",
@@ -122,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-07-30T20:37:40+00:00",
       "bullets": [
-        "NYC Taxi & Limousine Commission leases 39,000 SF at 250 Broadway, Financial District; relocates from 33 Beaver Street.",
-        "TLC occupies entire 4th floor + portion of 5th floor; move-in Q1 2027.",
-        "Asking rent not disclosed; FiDi average asking rent $60.61/SF in Q1 2026."
+        "NYC Taxi & Limousine Commission leasing 39K SF at 250 Broadway (Financial District); move Q1 2027.",
+        "Government tenant relocating from 33 Beaver Street; 4th and partial 5th floor; no lease term/rent disclosed.",
+        "Government occupier stabilizes Downtown Manhattan office; signals modest FiDi demand outside market cycles."
       ],
-      "summary": "The NYC Taxi and Limousine Commission signed a lease for 39,000 square feet at AmTrust RE's 250 Broadway in lower Manhattan's Financial District, relocating from 33 Beaver Street. The agency will occupy the entire fourth floor and part of the fifth floor, including private offices, conference rooms, and a hearing room. The move is expected to close in Q1 2027.",
-      "impact": "Government tenant relocation within Financial District is net-neutral for NYC office vacancy and does not signal broader occupier demand recovery. However, TLC's commitment to FiDi and investment in new HQ space (hearing room buildout) suggests government tenant stability in lower Manhattan. Limited multifamily relevance; government employment is not a primary driver of apartment demand. Focus remains on private-sector office recovery and tech/finance hiring as demand indicators."
+      "summary": "The NYC Taxi and Limousine Commission is relocating its headquarters to AmTrustRE's 250 Broadway in the Financial District, leasing 39,000 square feet across the entire fourth floor and partial fifth floor. The agency is moving from 33 Beaver Street and is expected to occupy the space in Q1 2027. Lease terms and rent were not disclosed, though Financial District average asking rent was $60.61/SF in Q1.",
+      "impact": "Minimal. Government leasing in the Financial District provides modest anchor tenancy but does not reflect broad tenant demand recovery or drive multifamily demand. This is a vertical move within Manhattan and unlikely to generate job growth or population inflows that would boost apartment absorption. Monitor Financial District office recovery more broadly—if more large tenants relocate in, ancillary services and restaurant activity could support multifamily in nearby neighborhoods (Lower East Side, Brooklyn Bridge), but not material to development underwriting."
     },
     {
       "title": "Delshah Capital Acquires Five Upper West Side Apartment Buildings for $37M",
@@ -137,42 +167,12 @@
       "cat": "Commercial",
       "date": "2026-07-30T19:18:05+00:00",
       "bullets": [
-        "Delshah Capital acquires 5 Upper West Side buildings for $36.9M from Quality Capital USA.",
-        "Portfolio comprises 147 units total: 48 units at West 108th St (two buildings), 99 units at Manhattan Ave (three buildings).",
-        "$20M+ discount vs. 2018 sale ($57M); current deal implies ~$251k/unit on market-rate + rent-controlled mix."
+        "DelShah Capital acquired 5 Upper West Side buildings; 147 units total; paid $36.9M (40% below 2018 price).",
+        "Portfolio spans 3–5 West 108th, 7–9 West 108th, 4/8/10–16 Manhattan Ave; mix of market-rate and rent-controlled units.",
+        "Significant price decline signals weak Manhattan residential values; distressed seller or value-add opportunity."
       ],
-      "summary": "DelShah Capital purchased a portfolio of five Upper West Side apartment buildings (147 total units) from Quality Capital USA for $36.9 million. The buildings span 3-5 West 108th Street, 7-9 West 108th Street, and 4, 8, and 10-16 Manhattan Avenue. The acquisition price represents more than a $20 million discount to the portfolio's 2018 sale and reflects DelShah's ongoing multifamily acquisition activity in Manhattan.",
-      "impact": "Upper West Side multifamily trading at significant cap rates due to rent-control burden (units are mix of market-rate and rent-controlled) and aging building stock. This deal signals opportunistic value-add capital targeting legacy NYC portfolios with upside from rent-control unit attrition, building repositioning, and West Side gentrification. For developers: ground-up development on UWS remains uneconomical vs. acquisition-for-value-add; focus should be rezoning/master-plan opportunities (Central Park West corridor) where entitlements support new construction density."
-    },
-    {
-      "title": "KKR Posts Record Earnings as Fundraising Hits $133B",
-      "link": "https://commercialobserver.com/2026/07/kkr-earnings-quarter-2/",
-      "excerpt": "Even as the private equity industry grapples with elevated interest rates and a growing backlog of unsold portfolio companies amid mounting concerns over artificial intelligence&#8217;s impact on the software sector, KKR reported record earnings during the second quarter of 2026. Fee-related earnings rose 37 percent annually to $1.21 billion, thanks in part to management fees being up more than 25 percent, while total operating earnings jumped by 29 percent compared to last year to $1.53 billion — the highest quarterly total in the firm’s 50-year history. Revenue jumped to $5.73 billion, up from $5.09 billion a year prior. Quarterly net income increased nearly 40 percent annually to $660.1 million. “Our industry is increasingly K-shaped,” Co-CEO Scott Nuttall said during the company’s earnings call Thursday. “Most of the external focus is going to be on the unhappy part of the K. We find ourselves on the happy part of the K.” KKR sold stakes in eight companies, including Japanese semiconductor manufacturing company Kokusai Electric and Korean shipbuilder HD Hyundai Marine Solution. Although KKR&#8217;s opportunistic real estate portfolio posted a 1 percent gross loss in the second quarter, it generated a 1 percent gross return over the past 12 months. KKR raised $34 billion in new capital during the quarter, bringing its 12-month fundraising total through June to a record $133 billion. The investor is making inroads in AI infrastructure, having committed and invested over $75 billion across digital infrastructure and power to date. In the coming decade, company executives said they envision the infrastructure build-out costing trillions of dollars. In June, it launched a $10 billion company to provide the infrastructure needs for the build-out of data centers. Other partners in the venture, called Helix Digital Infrastructure, include electricity generation company Vistra, Kuwait Investment Authority, and chipmaker giant Nvidia. “We would provide that one-stop shop,",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-30T19:10:11+00:00",
-      "bullets": [
-        "KKR reports record Q2 2026 earnings: $1.53B operating earnings, $5.73B revenue, 29% YoY growth.",
-        "Fee-related earnings up 37% YoY to $1.21B; management fees increased 25% YoY.",
-        "Co-CEO Nuttall notes 'K-shaped' industry: KKR on high-growth track despite elevated rates and portfolio company backlog concerns."
-      ],
-      "summary": "KKR posted record second-quarter 2026 earnings with operating earnings of $1.53 billion (up 29% YoY) and revenue of $5.73 billion. Fee-related earnings surged 37% to $1.21 billion, driven by a 25% increase in management fees. Co-CEO Scott Nuttall characterized the PE industry as 'K-shaped,' with KKR performing strongly on the high side despite elevated interest rates and challenges elsewhere.",
-      "impact": "KKR's record fundraising ($133B) and strong earnings signal robust institutional capital availability for large-scale real estate platforms and portfolios, despite higher interest rates. This supports financing availability for established sponsors acquiring or developing larger multifamily portfolios. However, KKR's 'K-shaped' comment implies capital concentration at mega-scale deals; smaller-cap and middle-market developers should expect tighter competition for growth capital and higher return hurdles. Monitor KKR's multifamily-focused vehicles for market entry or portfolio expansion signals."
-    },
-    {
-      "title": "Karim Alibhai Started at Best Western. Now He Rents Rooms at $2,500 a Night.",
-      "link": "https://commercialobserver.com/2026/07/karim-alibhai-gencom-hotel-rates-luxury/",
-      "excerpt": "As room rates at the world’s poshest properties push past $2,000 a night, Karim Alibhai has been snapping up high-profile luxury hotels. Alibhai has built an $8 billion portfolio that includes properties from Chicago to Bermuda to Costa Rica. His company, Gencom, this year paid $320 million for the Ritz-Carlton New York, Central Park. Since 2024, Miami-based Gencom also has acquired the Thompson Central Park and the InterContinental New York Times Square, along with the Ritz-Carlton Key Biscayne in South Florida. Not bad for someone whose first job in the hospitality industry was managing a Best Western. A native of Kenya, Alibhai attended Rice University in Houston and now lives in Coral Gables, Fla. Commercial Observer caught up with the CEO this week to ask about Gencom’s $1 billion in acquisitions in New York City the past two years, as well as rising room rates, the K-shaped economy and the evolution of his career. The following conversation has been edited for length and clarity. The Ritz Carlton Key Biscayne. Commercial Observer: You&#8217;ve taken on $1 billion in acquisitions in the past couple of years. What&#8217;s driving your deals? Karim Alibha: I think it&#8217;s a combination of a few things. One is market driven. So, for example, in New York City, that&#8217;s a market we identified with one of the lowest supplies in 25 years, and demand was looking to increase. So that was a big reason that we went over the past two years and acquired almost $1 billion of hotels in New York City. That was a driver for us. Separately is the leisure resort segment. Since the pandemic, that segment has had the best recovery and has far surpassed other luxury segments. That’s another big driver for us. So it’s really market driven/opportunity driven. I get the sense that the luxury hotel market is resistant to price increases. What are you seeing on the pricing front in terms of room rates? It&#8217;s been very resilient, and obviously with the broader economy and the ",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-30T18:15:25+00:00",
-      "bullets": [
-        "Gencom CEO Karim Alibhai acquires luxury hotels: $320M for Ritz-Carlton NYC Central Park (2026).",
-        "Since 2024, Gencom acquired Thompson Central Park, InterContinental NYC Times Square, Ritz-Carlton Key Biscayne ($1B+ total in NYC.",
-        "Portfolio spans 8 countries, $8B in assets; room rates at flagship properties exceed $2,500/night."
-      ],
-      "summary": "Gencom, led by CEO Karim Alibhai, has amassed an $8 billion luxury hotel portfolio with $1 billion in New York acquisitions since 2024, including the $320 million Ritz-Carlton New York Central Park. Since 2024, Gencom also acquired the Thompson Central Park, InterContinental New York Times Square, and Ritz-Carlton Key Biscayne. Flagship properties command room rates exceeding $2,500 per night, reflecting elevated luxury travel demand.",
-      "impact": "Luxury hospitality capital concentration in Manhattan and South Florida signals robust high-end travel demand and occupancy that supports service-sector employment (housekeeping, food & beverage, concierge). This indirectly supports demand for transit-proximate, walkable multifamily units in Manhattan submarkets (Midtown South, Central Park South, Flatiron) and Miami Beach/Brickell. However, no direct signal for multifamily development economics. Monitor hotel occupancy and RevPAR trends in Manhattan and Miami as coincident demand indicators for apartment leasing."
+      "summary": "DelShah Capital purchased five residential buildings on the Upper West Side for $36.9 million from Quality Capital USA—a 35% discount versus Quality Capital's $57 million acquisition of the same portfolio in 2018. The portfolio contains approximately 147 units across two clusters: two buildings near West 108th Street with ~48 units, and three buildings near Manhattan Avenue with ~99 units. Buildings are primarily market-rate and rent-controlled, ranging six stories.",
+      "impact": "Upper West Side multifamily pricing has deteriorated sharply since 2018, reflecting persistent rent pressure from rent regulation, competition from new supply, and limited owner exit optionality in NYC's hostile landlord environment. DelShah's acquisition suggests distressed sellers and opportunity for deep-value operators willing to work with rent-controlled inventory long-term. Broader signal: Manhattan residential values remain soft outside trophy assets; new development in prime submarkets faces significant headwinds from existing stabilized-portfolio pricing. Developers should focus on conversion/adaptive-reuse or suburban expansion rather than new Manhattan starts unless backed by institutional capital and phased/mixed-income strategies."
     }
   ]
 }
