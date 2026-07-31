@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-31T17:20:47.013995+00:00",
+  "fetchedAt": "2026-07-31T19:09:32.129779+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -10,34 +10,124 @@
     {
       "label": "10Y Treasury",
       "value": "4.74%",
-      "pct": 1.59
+      "pct": 1.72
     },
     {
       "label": "30Y Treasury",
-      "value": "5.27%",
-      "pct": 1.19
+      "value": "5.28%",
+      "pct": 1.29
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "99.06",
-      "pct": -0.43
+      "value": "99.04",
+      "pct": -0.45
     }
   ],
   "stories": [
     {
-      "title": "Arizona Tradeport Hubs Receives $16M Federal Grant",
+      "title": "Spanish Hotel Operator Buys Chemists’ Club Hotel at 52 East 41st Street for $95M",
+      "link": "https://commercialobserver.com/2026/07/eurostars-buys-chemists-club-hotel-52-east-41st-street/",
+      "excerpt": "A 107-key hotel in Midtown has traded for roughly $95 million. Eurostars Hotel Company, a Spanish hotel chain managing more than 300 properties globally, has purchased the Chemists’ Club Hotel at 52 East 41st Street from Azora, another Spanish company specializing in large-scale hotel investments, according to a source with knowledge of the deal. Eastdil Secured’s Jeffrey Davis and Scott Ellman arranged the deal for the seller, while it was unclear who repped the buyer. Eastdil declined to comment, while spokespeople for Eurostars and Azora did not immediately respond to requests for comment. The Real Deal first reported the news. It’s unclear when Azora acquired the 14-story hotel a block south of Grand Central Terminal, but the last trade recorded in property records was in 2007, when hotel chain Grupo Hotusa and Losan Hotels bought it for $77 million. Eurostars, which also owns the Eurostars Wall Street hotel at 129 Front Street in the Financial District, is a subsidiary of Grupo Hotusa, so the Midtown property is returning to its previous roots. The property was built around 1910, but not as a hotel. The building was originally the site of the historic headquarters of the Chemists’ Club, a prominent social and dining hub for leading scientists and industry pioneers. The building was later redeveloped by fortuna realty group in 1997 and opened in 2000 as the Dylan Hotel. Last year, it was again heavily redesigned and rebranded, and officially opened as the Chemists’ Club Hotel. The hotel is currently home to Benjamin Steakhouse on the ground floor and features amenities such as a lounge bar, coworking spaces and a fitness center. News of the sale comes after a slew of other hotel sales in Manhattan recently. In June, Meliá Hotels International bought the 12-story hotel at 132-142 West 27th Street in NoMad for $203 million, while Omni Lifestyle Living acquired a Marriott hotel at 21 West 37th Street in Midtown for $39.9 million, also in June. In May, Toronto-based",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-31T18:49:55+00:00",
+      "bullets": [
+        "Eurostars Hotel Company acquires Chemists' Club Hotel, Midtown Manhattan, $95M",
+        "107-key hotel; property last traded 2007 at $77M; returning to Grupo Hotusa ownership",
+        "Hospitality asset acquisition; minimal direct multifamily development signal"
+      ],
+      "summary": "Spanish hotel operator Eurostars purchased the 107-key Chemists' Club Hotel at 52 East 41st Street in Midtown Manhattan for approximately $95 million from Azora. The property, a 14-story building completed around 1910 and last sold in 2007 for $77 million, is returning to the ownership structure of its previous parent, Grupo Hotusa. Eurostars, which manages over 300 properties globally, also owns the Eurostars Wall Street hotel in the Financial District.",
+      "impact": "Limited relevance to multifamily development. Hotel acquisitions do not directly signal apartment demand or supply shifts, though continued capital activity in Manhattan real estate suggests ongoing investor confidence in the market."
+    },
+    {
+      "title": "Skender Starts Conversion of Magnificent Mile Office Tower Into Residences",
+      "link": "https://www.connectcre.com/stories/skender-starts-conversion-of-magnificent-mile-office-tower-into-residences/",
+      "excerpt": "Skender has started the 500 N. Michigan Avenue adaptive reuse project, a transformative conversion of a 400,000-square-foot office tower into 320 residential units on Chicago’s Magnificent Mile. Developed by Connecticut-based Commonwealth Development Partners and designed by GREC Architects, the 24-story building will be reimagined as a residential community, with completion targeted for late 2027.Originally designed by Skidmore, Owings &amp; Merrill and completed in 1968, the 304-foot-tall tower sits at the corner of N. Michigan Avenue and E. Illinois Street. The conversion will transform vacant floors 3 through 23 into 320 residential dwelling units, while a new 25th floor featuring indoor and outdoor amenity space will be constructed atop the building.The project represents one of the most significant office-to-residential conversions underway in Chicago’s downtown, part of a broader city initiative to address office vacancy and expand the supply of urban housing. “Projects like 500 N. Michigan represent exactly the kind of work Skender was built for,” says Alex Panici, vice president, Skender. “We’re proud to partner with Commonwealth Development Partners to breathe new life into this Magnificent Mile landmark and contribute to Chicago’s continued downtown transformation.” Stay ahead of the multifamily market at Connect Apartments. Gain firsthand insights from industry leaders on capital markets, development, operations, financing, and investment trends while expanding your network with the people making deals happen. See you on September 22! The post Skender Starts Conversion of Magnificent Mile Office Tower Into Residences appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-31T18:20:51+00:00",
+      "bullets": [
+        "Commonwealth Development Partners converting 500 N. Michigan, Chicago to 320 units; completion late 2027",
+        "24-story office tower (1968, SOM design); 400K sq ft transformed; new amenity floor added",
+        "Major office-to-residential conversion; tight Chicago market signals demand outpaces supply"
+      ],
+      "summary": "Skender has begun construction on Commonwealth Development Partners' adaptive reuse project converting the 24-story, 400,000-square-foot office tower at 500 North Michigan Avenue (Chicago's Magnificent Mile) into 320 residential units, with completion targeted for late 2027. Originally designed by Skidmore, Owings & Merrill and completed in 1968, the conversion will transform floors 3–23 into apartments while adding a new 25th-floor amenity level. GREC Architects designed the residential reimagining.",
+      "impact": "Chicago's tight multifamily supply and strong rent growth make office-to-residential conversion economically feasible and accelerate unit delivery in a supply-constrained submarket. Large-format conversions on prime retail locations (Mag Mile) indicate landlords prefer residential revenue over stabilized office tenancy, signaling sustained apartment demand and potential for higher rents to justify conversion capex."
+    },
+    {
+      "title": "Izo Capital Lends $26M on Wyoming Apartments Near Jackson Hole",
+      "link": "https://commercialobserver.com/2026/07/izo-capita-wyoming-apartments-jackson-hole/",
+      "excerpt": "Sundance Properties has sealed $25.6 million of construction financing to bring a multifamily development in Alpine, Wyo., across the finish line, Commercial Observer has learned. Izo Capital supplied the 24-month senior construction loan to fund the completion of Phase 1 of the developer’s planned the Flats at Alpine Junction project comprising 64 units. The debt will support the completion of three additional buildings comprising 48 apartments on top of 16 units that are already completed and leased. Peter Porraro, co-founder and chief investment officer at Izo Capital, said the overall project, which will eventually total 160 units, is set up for success given that it’s 35 miles from Jackson Hole mountain valley, with a number of employers based in the town of Jackson, Wyo. Porraro noted that Alpine also has demand drivers for multifamily with limited supply coupled with a newly opened medical center and a public charter school scheduled to open for the 2026-2027 academic year. “It’s very hard to develop out there, and it&#8217;s hard to get the infrastructure,” Porraro told CO of the need for more apartments projects near Jackson Hole. “There&#8217;s just no supply and nothing new in the market.” The Flats development has already shown strong leasing momentum, according to Porraro, with the current rental rates helping support underwriting assumptions in the loan for the remaining phases of the project. The first phase is slated for completion next spring. Porraro noted that there is large-scale demand for rental housing for those who work in Jackson Hole given that median home prices in the city are close to $3 million, with townhomes starting at around $1 million. He said the project at 303 Highway also benefits from transportation connectivity that includes direct access to the START Bus system linking Alpine and Jackson. &#8220;The demand we&#8217;ve experienced from the first completed building reinforces the critical need for new rental housing in Alpine,”",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-31T17:55:09+00:00",
+      "bullets": [
+        "Izo Capital funds $25.6M construction loan to Sundance Properties, Alpine, Wyo., 64 units Phase 1",
+        "Flats at Alpine Junction; 160 units total; 35 miles Jackson Hole; 16 units completed, 48 under construction",
+        "Jackson employer base + new medical center + charter school drive demand in supply-constrained mountain market"
+      ],
+      "summary": "Izo Capital closed a $25.6 million 24-month senior construction loan to Sundance Properties for Phase 1 of the Flats at Alpine Junction in Alpine, Wyoming, comprising 64 units (16 completed and leased, 48 under construction). The overall project will total 160 units. Alpine, located 35 miles from Jackson Hole, benefits from demand drivers including an employer base in Jackson, a newly opened medical center, and a public charter school scheduled to open for the 2026–2027 academic year, all within a supply-constrained market.",
+      "impact": "Jackson Hole / Alpine corridor exhibits strong multifamily demand catalysts (employer concentration, amenity buildout) coupled with development-constrained supply and financing availability. The market signals opportunity for developers to acquire sites and move forward on entitled projects ahead of further population influx; construction lending appetite suggests investor confidence in mountain-market fundamentals despite geographic constraints."
+    },
+    {
+      "title": "Amkor Could Add to $7B Peoria Facility",
+      "link": "https://www.connectcre.com/stories/amkor-could-add-to-7b-peoria-facility/",
+      "excerpt": "Amkor Technology is building a $7 billion packaging and testing facility in Peoria, slated to open in 2027. Last October, Amkor broke ground on its Peoria manufacturing facility and announced it would increase its investment in the project from $2 billion to $7 billion. The Phoenix Business Journal reports Amkor’s Peoria facility has already landed backing by major customer commitments from Apple, Nvidia and a 10-year agreement with Taiwan Semiconductor Manufacturing Co. The company is building its 2.3 million-square-foot manufacturing campus in two phases, which will offer more than 750,000 square feet of cleanroom space and generate 3,000 new jobs. Amkor recently bought 67 acres near its advanced packaging and test facility to support potential future expansion. The post Amkor Could Add to $7B Peoria Facility appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-07-31T17:31:58+00:00",
+      "bullets": [
+        "Amkor Technology expanding Peoria, Ariz. fab to $7B total; 2.3M sq ft; 3,000 jobs; opens 2027",
+        "Commitments from Apple, Nvidia, TSMC; recently bought 67 acres for future expansion",
+        "Major employer expansion driving job growth and in-migration to Phoenix submarket"
+      ],
+      "summary": "Amkor Technology is expanding its Peoria, Arizona advanced packaging and test facility investment from $2 billion to $7 billion, with opening slated for 2027. The 2.3 million-square-foot manufacturing campus will generate 3,000 new jobs and includes 750,000+ square feet of cleanroom space. The company has secured customer commitments from Apple, Nvidia, and a 10-year agreement with Taiwan Semiconductor Manufacturing Co., and recently acquired 67 additional acres to support future expansion.",
+      "impact": "Amkor's significant capex and 3,000-job creation in the Peoria metro will drive strong in-migration and job-growth demand for multifamily housing in Phoenix's West Valley and Peoria submarkets over 2025–2027. Developers should prioritize land acquisition and entitlements in job-proximate locations; the 10-year TSMC agreement suggests sustained employment and rental demand beyond the facility opening."
+    },
+    {
+      "title": "CW Realty Closes Deal to Buy 55 Smith Street in Downtown Brooklyn for $58M",
+      "link": "https://commercialobserver.com/2026/07/cw-realty-buys-55-smith-street-brooklyn/",
+      "excerpt": "CW Realty Group closed on a deal to acquire a parking facility in Downtown Brooklyn, Commercial Observer has learned. Cheskie Weisz’ CW Realty entered into a contract to purchase 55 Smith Street in December from New Jersey-based firm Edison Properties, Crain’s New York Business reported at the time. The sale closed on Friday and its price was disclosed at $58 million, according to broker JLL. CW Realty has not disclosed any specifics about their plans for the site, which has an alternative address of 160 Livingston Street, but the lot spans 13,707 square feet and is one of the biggest residential development opportunities in Downtown Brooklyn, the JLL Capital Markets team said. “This transaction demonstrates the strength of demand for well-located development opportunities across New York City, particularly in neighborhoods with strong residential fundamentals and supportive zoning,” JLL’s Mike Mazzara, who negotiated the deal alongside Ethan Stanton, Brendan Maddigan and Drew Isaacson, said in a statement. “The site offers a combination of scale, flexibility and development incentives in one of Brooklyn&#8217;s most dynamic neighborhoods.” CW Realty and Edison Properties did not immediately respond to requests for comment. Developers can build 137,000 square feet on the site as of right or 164,000 square feet under the Universal Affordability Preference program with no height limits or parking requirements for a potential housing development. CW Realty has the option to build using the city’s 485-x program and benefit from reforms made under the City of Yes for Housing Opportunity. An added bonus is that development on the site is not restricted to rental housing or condominiums, according to JLL. Mark Hallum can be reached at mhallum@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-31T17:28:51+00:00",
+      "bullets": [
+        "CW Realty acquires parking facility 55 Smith Street, Downtown Brooklyn, $58M; closed Friday",
+        "13,707 sq ft lot; one of largest residential development opportunities in area; developer plans undisclosed",
+        "Strong demand for well-located development sites; supportive zoning signals residential conversion potential"
+      ],
+      "summary": "CW Realty Group closed acquisition of 55 Smith Street (alternative address 160 Livingston Street) in Downtown Brooklyn for $58 million, a parking facility on 13,707 square feet of land. The deal, originally contracted in December with New Jersey-based Edison Properties, represents one of Downtown Brooklyn's largest residential development opportunities. CW Realty has not disclosed specific redevelopment plans, but broker JLL highlighted the site's scale, flexibility, and supportive zoning for residential development.",
+      "impact": "Downtown Brooklyn's strong residential fundamentals and supportive zoning continue to attract capital for large-scale development sites; the parking-to-residential conversion opportunity and $58M price point signal investors' confidence in the submarket's demand and ability to justify construction capex. Developers competing for similar Downtown Brooklyn sites should expect continued price pressure and should accelerate entitlements and financing on owned or optioned parcels."
+    },
+    {
+      "title": "Kimco Buys Two Broward Retail Centers for $109M",
+      "link": "https://commercialobserver.com/2026/07/kimco-kpr-sunshine-plaza-pompano-marketplace-florida-retail/",
+      "excerpt": "Kimco Realty, one of the biggest owners of grocery-anchored retail centers in the country, has acquired two more in Broward County for a combined $109 million from KPR Centers, property records show. In the largest transaction, the Jericho, N.Y.-based REIT paid $56 million for Sunshine Plaza, a 245,744-square-foot property between 4017 and 4299 West Commercial Boulevard in Tamarac, just east of the Florida’s Turnpike. Publix and Marshalls anchor the 19-acre shopping center. Other tenants include Crunch Fitness, Krispy Kreme and Subway. New York-based KPR had purchased the property for $28.5 million in 2014. In the smaller trade, Kimco Realty paid $53 million for the 254,749-square-foot Pompano Marketplace at 1115 and 1117 South Federal Highway. It also spans about 19 acres, with a Walmart Neighborhood Market as the anchor. Other tenants include Ross Dress for Less, Carrabba’s Italian Grill and TD Bank. KPR Centers had purchased the asset for $46.8 million in 2015. Kimco Realty owns 589 properties nationwide, including 44 across South Florida. In one of South Florida&#8217;s largest retail deals in recent years, the REIT paid $216 million for The Shops at Mary Brickell Village in Miami in 2022. Representatives for Kimco Realty and KPR Centers did not immediately respond to a request for comment. Julia Echikson can be reached at jechikson@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-07-31T17:25:17+00:00",
+      "bullets": [
+        "Kimco Realty acquires two Broward County retail centers for $109M; Publix and Walmart anchors",
+        "Sunshine Plaza (Tamarac): $56M, 245K sq ft, 19 acres; Pompano Marketplace: $53M, 254K sq ft, 19 acres",
+        "Grocery-anchored retail REITs consolidating; minimal direct multifamily signal"
+      ],
+      "summary": "Kimco Realty, a major national owner of grocery-anchored retail centers, acquired two Broward County properties for a combined $109 million. Sunshine Plaza in Tamarac (245,744 sq ft, 19 acres, anchored by Publix and Marshalls) sold for $56 million, while Pompano Marketplace (254,749 sq ft, 19 acres, anchored by Walmart Neighborhood Market) sold for $53 million. Kimco acquired both from KPR Centers, which had purchased them in 2014 and 2015, respectively, for a combined $75.3 million.",
+      "impact": "Limited direct relevance to multifamily development. Retail REIT consolidation activity does not signal apartment supply or demand shifts, though South Florida's continued real estate transaction velocity indicates capital availability and market confidence."
+    },
+    {
+      "title": "Arizona Tradeport Hubs Receive $16M Federal Grant",
       "link": "https://www.connectcre.com/stories/arizona-tradeport-hub-receives-16m-federal-grant/",
-      "excerpt": "The plan is to streamline cargo movement and transform domestic supply chains across the country, initially stretching from California to Arizona and all the way to the East Coast. The so-called tradeport hubs project, which will be rolled out in multiple phases, intends to integrate a web of highways, train tracks and airlines within manufacturing hot spots across the U.S. The Phoenix Business Journal reports that the latest $16 million infusion of government funds will go toward developing the first three tradeport hubs, each ranging from 1,000 to 5,000 acres along the I-40 corridor. The first route is planned to connect the Port of Los Angeles to Albuquerque, New Mexico and to the BNSF Southern Transcon Railroad through northern Arizona. The two key tradeport hubs identified in Arizona are in Kingman and Winslow. An initial estimate of the total development costs for the hub in Winslow is pegged at $750 million. Global Logistics Development Partners is spearheading the effort in Arizona. The post Arizona Tradeport Hubs Receives $16M Federal Grant appeared first on Connect CRE.",
+      "excerpt": "The plan is to streamline cargo movement and transform domestic supply chains across the country, initially stretching from California to Arizona and all the way to the East Coast. The so-called tradeport hubs project, which will be rolled out in multiple phases, intends to integrate a web of highways, train tracks and airlines within manufacturing hot spots across the U.S. The Phoenix Business Journal reports that the latest $16 million infusion of government funds will go toward developing the first three tradeport hubs, each ranging from 1,000 to 5,000 acres along the I-40 corridor. The first route is planned to connect the Port of Los Angeles to Albuquerque, New Mexico and to the BNSF Southern Transcon Railroad through northern Arizona. The two key tradeport hubs identified in Arizona are in Kingman and Winslow. An initial estimate of the total development costs for the hub in Winslow is pegged at $750 million. Global Logistics Development Partners is spearheading the effort in Arizona. The post Arizona Tradeport Hubs Receive $16M Federal Grant appeared first on Connect CRE.",
       "source": "Connect CRE",
       "cat": "Commercial",
       "date": "2026-07-31T17:13:50+00:00",
       "bullets": [
-        "Federal grant of $16M awarded for Arizona tradeport hubs along I-40 corridor in Kingman, Winslow",
-        "Winslow hub estimated at $750M total development cost; 1,000–5,000 acres per hub",
-        "Infrastructure project connects Port of Los Angeles to Albuquerque and BNSF rail network"
+        "Arizona tradeport hubs receive $16M federal grant; I-40 corridor Kingman, Winslow hubs planned",
+        "1,000–5,000 acre logistics hubs; Winslow development cost estimated $750M; LA-to-East Coast supply chain integration",
+        "Long-term infrastructure and logistics employment growth in rural Arizona markets"
       ],
-      "summary": "The federal government is funding the first phase of a multiphase tradeport hub project spanning from California to the East Coast. Arizona's two key hubs—Kingman and Winslow—received $16 million in initial funding as part of a larger effort to integrate highways, rail, and air cargo networks. The Winslow hub alone is projected to cost $750 million.",
-      "impact": "Logistics infrastructure expansion in northern Arizona signals anticipated industrial and commercial growth along the I-40 corridor, which could drive employment and population inflow to Kingman, Winslow, and surrounding areas within 5–10 years. Multifamily developers should monitor industrial employment clusters and supply-chain job creation in these markets for future rental demand uplift; however, timing and scale remain uncertain pending additional federal funding approvals."
+      "summary": "Arizona's tradeport hubs project received a $16 million federal grant to develop the first three hubs (each 1,000–5,000 acres) along the I-40 corridor. Global Logistics Development Partners is spearheading the multi-phase initiative, which aims to streamline cargo movement and integrate highways, railways, and airlines across manufacturing hubs from California to the East Coast. The first route will connect the Port of Los Angeles through northern Arizona (Kingman and Winslow) to Albuquerque and the BNSF Southern Transcon Railroad; Winslow's hub alone carries an estimated $750 million development cost.",
+      "impact": "Long-term infrastructure investment in rural Arizona logistics corridors will eventually drive secondary-market multifamily demand in Kingman and Winslow as employment hubs mature; however, development timelines are measured in years and demand is speculative. Developers should monitor hub progress but prioritize acquisition and zoning only in Winslow (the larger hub) if clear pre-leasing or employer commitments materialize."
     },
     {
       "title": "OHT Breaks Ground on 360-Unit Houston Rental Community",
@@ -47,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-07-31T16:46:05+00:00",
       "bullets": [
-        "OHT Partners breaks ground on Park Row: 360-unit apartment complex in Houston on 13.7 acres",
-        "Units range 702–1,257 sq ft (one- and two-bedroom); target pre-leasing Q2 2026, completion Q2 2028",
-        "Premium amenities: resort pool, EV chargers, coworking, dog park, detached garages on Park Row Boulevard"
+        "OHT Partners breaks ground on Park Row, Houston, 360 units; 13.7 acres; completion Q2 2028",
+        "11 three-story buildings; pre-leasing Q2 2025; one- and two-bedroom units 702–1,257 sq ft",
+        "Continued strong Houston multifamily starts signal sustained demand and construction-lending availability"
       ],
-      "summary": "OHT Partners has begun construction on Park Row, a 360-unit rental community in Houston featuring one- and two-bedroom units between 702 and 1,257 square feet. The project, spread across 13.7 acres in 11 three-story buildings, includes high-end amenities such as a resort-style pool, coworking spaces, and EV charging. Pre-leasing is scheduled for Q2 2026 with completion targeted for Q2 2028.",
-      "impact": "Another 360-unit delivery entering Houston's supply pipeline in 2028 adds to an already robust multifamily construction cycle in the metro. Rental rates will be set at pre-leasing (Q2 2026); monitoring how the wider Houston market absorbs concurrent deliveries will signal whether this premium-amenity product commands rent growth sufficient to support development feasibility in 2026–2027 land acquisition windows."
+      "summary": "OHT Partners broke ground on Park Row, a 360-unit apartment complex at 14192 Park Row Boulevard in Houston. The 13.7-acre project will include 11 three-story buildings, a clubhouse, pet amenities, and resort-style finishes. Units will range from 702 to 1,257 square feet (one and two bedrooms). Pre-leasing is scheduled for Q2 2025, with completion targeted for Q2 2028. Meeks + Partners designed the project; OHT serves as general contractor.",
+      "impact": "Houston's continued multifamily development pipeline (360 units in a single project) reflects sustained rental demand and financing appetite in the market. Developers should monitor absorption of existing supply in the Park Row Boulevard corridor and comparable Houston submarkets; sustained pre-leasing velocity and rent achievement will validate continued Houston development feasibility and justify additional starts."
     },
     {
       "title": "AvalonBay, Equity Residential Will Operate as Vivmark Post-Merger",
@@ -62,117 +152,27 @@
       "cat": "Commercial",
       "date": "2026-07-31T16:45:54+00:00",
       "bullets": [
-        "AvalonBay + Equity Residential merger creates Vivmark Residential: $53B equity cap, $71B enterprise value",
-        "Combined portfolio: 180,000+ rental apartments, 10,000+ units under construction; trades as VMRK",
-        "Benjamin Schall (AvalonBay CEO) becomes CEO of combined entity; headquarters location TBD"
+        "AvalonBay, Equity Residential merge; combined company Vivmark Residential, $53B market cap, 180K+ units",
+        "10K+ units under construction; ticket VMRK; 30+ year operating histories combined; HQ undecided",
+        "Industry consolidation; largest multifamily REIT creation; capital deployment and portfolio optimization ahead"
       ],
-      "summary": "AvalonBay Communities and Equity Residential have completed their merger of equals, forming Vivmark Residential with a pro forma equity market capitalization of $53 billion and enterprise value of $71 billion. The combined company will operate over 180,000 rental apartments with more than 10,000 units under construction and will trade on the NYSE under ticker VMRK. Benjamin Schall, former AvalonBay CEO, will lead the new entity; individual property names will not change at closing.",
-      "impact": "Creation of a $71B multifamily giant consolidates development capital, land platforms, and operating scale; watch for Vivmark to accelerate or redeploy development pipelines, divest non-core markets, and refinance debt at lower blended rates post-close. Competitors and land sellers should expect competitive pressure from Vivmark's scale on site acquisition and construction management costs in major metros, potentially reshaping development feasibility for smaller builders."
+      "summary": "AvalonBay Communities and Equity Residential announced Vivmark Residential as the name for the combined company resulting from their merger of equals. The new company will have a pro forma equity market capitalization of approximately $53 billion, an enterprise value of approximately $71 billion, more than 180,000 rental apartments, and over 10,000 apartments under construction. The merged entity will trade under ticker VMRK, with Benjamin Schall (AvalonBay CEO) as incoming CEO. The headquarters location has not yet been determined, and individual community names will not change at closing.",
+      "impact": "The AvalonBay–Equity Residential merger creates the industry's largest multifamily REIT and signals potential portfolio optimization (dispositions of non-core or overlap assets), accelerated capital deployment into high-growth markets, and operational synergies that may reshape competitive dynamics. Developers should expect increased institutional competition for land and development partnerships; monitor Vivmark's early portfolio moves and capital allocation to identify divested markets where acquisition opportunities may arise and growth corridors where competition will intensify."
     },
     {
-      "title": "DFW Airport Slated to Pay $193.6M for Hyatt Hotel",
-      "link": "https://www.connectcre.com/stories/dfw-airport-slated-to-pay-193-6m-for-hyatt-hotel/",
-      "excerpt": "The DFW Airport already owns the Grand Hyatt DFW, Hyatt Place DFW and Hyatt House, which is under construction and slated to open in summer 2027. It’s now eyeing a fourth Hyatt hotel property. DFW Airport&#8217;s Public Facility Improvement Corp. board recently approved the purchase of Hyatt Regency DFW International Airport, located next to Terminal C. That vote will trigger a few more votes before the transaction is finalized. Dallas and Fort Worth have to give the deal its final approval. Under the agreement, the airport would buy the hotel and its leasehold interest for up to $193.65 million while Hyatt continues to manage the property. Woodbine and Castle Lake bought the hotel in 2021. The bid for Hyatt Regency also comes as the airport recently opened the first phase of an expanded Terminal C, which included five rebuilt gates and four new ones exclusively for American Airlines Group Inc. The post DFW Airport Slated to Pay $193.6M for Hyatt Hotel appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-31T16:28:30+00:00",
-      "bullets": [
-        "DFW Airport approves $193.6M purchase of Hyatt Regency DFW near Terminal C; Hyatt to manage",
-        "Airport already owns Grand Hyatt DFW, Hyatt Place DFW; Hyatt House under construction (summer 2027)",
-        "Purchase tied to Terminal C expansion (5 new gates, 4 rebuilt gates for American Airlines Group)"
-      ],
-      "summary": "DFW Airport's board approved the purchase of Hyatt Regency DFW International Airport for up to $193.65 million, adjacent to Terminal C. The airport will own the hotel while Hyatt continues management. This acquisition follows recent expansions of Terminal C with nine gates added exclusively for American Airlines, and follows ongoing construction of a Hyatt House property slated to open summer 2027.",
-      "impact": "Airport investment in hospitality infrastructure and terminal expansion signals confidence in DFW traffic and business travel recovery. Sustained airport modernization and American Airlines gateway expansion support both business-travel demand and corporate relocation to the Dallas–Fort Worth metro, benefiting multifamily rental demand. Monitor job creation announcements among airline, logistics, and tech firms in DFW over next 12–18 months to identify demand tailwinds for apartment developers."
-    },
-    {
-      "title": "Schuckman Realty Buys Northeast Queens Shopping Center for $56M",
+      "title": "Schuckman Buys Northeast Queens Shopping Center for $56M",
       "link": "https://commercialobserver.com/2026/07/schuckman-realty-buys-153-15-cross-island-parkway-queens/",
-      "excerpt": "Punia &amp; Marx Real Estate sold the Whitestone Shopping Center in Queens for $56 million. Long Island-based Schuckman Realty purchased the Key Food-anchored property at 153-15 Cross Island Parkway, according to a deed transfer in property records filed Friday. The purchase could be a play for assets tied to grocery stores and other necessity-based retail. Acadia Realty Trust provided about $48.5 million in financing to Schuckman for the acquisition through a shell corporation, with Acadia’s Chief Financial Officer John Gottfried signing the mortgage documents. Schuckman, Punia &amp; Marx and Acadia did not immediately respond to requests for comment. Punia &amp; Marx has owned the property since at least 1975, and the amount paid for that acquisition is unknown. Schuckman seems to have been involved in the management operations of the 220,000-square-foot shopping center, which is also leased to a Chase Bank branch, with a 2020 flier listing Kenneth Schuckman and Jessica Vilmenay as exclusive brokers. The advertisement said at the time that a redevelopment of the property would be taking place, but was not specific about the nature of the repositioning. Schuckman promoted the center based on 100,000 cars passing by the center daily on the Cross Island Parkway and 333,000 people living within three miles. Mark Hallum can be reached at mhallum@commercialobserver.com.",
+      "excerpt": "Punia &amp; Marx Real Estate sold the Whitestone Shopping Center in Queens for $56 million. BTF Capital Fund, led by Kenneth Schuckman and Aaron Malinsky, purchased the Key Food-anchored property at 153-15 Cross Island Parkway, according to a deed transfer in property records filed Friday. The purchase could be a play for assets tied to grocery stores and other necessity-based retail. Schuckman&#8217;s brokerage firm, Schuckman Realty, will handle leasing for the shopping center, according to the buyer. Acadia Realty Trust provided about $48.5 million in financing to Schuckman for the acquisition through a shell corporation, with Acadia’s Chief Financial Officer John Gottfried signing the mortgage documents. Punia &amp; Marx and Acadia did not immediately respond to requests for comment. Punia &amp; Marx has owned the property since at least 1975, and the amount paid for that acquisition is unknown. Schuckman seems to have been involved in the management operations of the 220,000-square-foot shopping center, which is also leased to a Chase Bank branch, with a 2020 flier listing Kenneth Schuckman and Jessica Vilmenay as exclusive brokers. The advertisement said at the time that a redevelopment of the property would be taking place, but was not specific about the nature of the repositioning. Schuckman promoted the center based on 100,000 cars passing by the center daily on the Cross Island Parkway and 333,000 people living within three miles. Mark Hallum can be reached at mhallum@commercialobserver.com.",
       "source": "Comm. Observer",
       "cat": "Commercial",
       "date": "2026-07-31T16:16:53+00:00",
       "bullets": [
-        "Schuckman Realty buys Whitestone Shopping Center (Queens) for $56M; Key Food anchor, 220,000 sq ft",
-        "Acadia Realty Trust provided $48.5M financing via shell corp; Punia & Marx sold after 50+ years",
-        "Property at 153-15 Cross Island Parkway also leases to Chase Bank; necessity-based retail focus"
+        "BTF Capital Fund (Schuckman, Malinsky) acquires Whitestone Shopping Center, Queens, $56M; Key Food anchor",
+        "220K sq ft center; 153-15 Cross Island Parkway; Acadia Realty Trust provided $48.5M financing",
+        "Necessity-anchored retail consolidation; limited multifamily signal unless conversion planned"
       ],
-      "summary": "Long Island-based Schuckman Realty purchased the Whitestone Shopping Center in Queens for $56 million from Punia & Marx Real Estate, which had owned it since at least 1975. The 220,000-square-foot Key Food-anchored property at 153-15 Cross Island Parkway also houses a Chase Bank branch. Acadia Realty Trust provided approximately $48.5 million in HUD-backed debt financing for the acquisition.",
-      "impact": "Minimal direct impact on multifamily development. Retail transaction signals investor confidence in necessity-based anchors in outer-borough Queens, but does not indicate residential demand shifts. Monitor if this acquisition leads to mixed-use redevelopment or zoning changes that could unlock multifamily density on or near the site in future."
-    },
-    {
-      "title": "Dwight Capital Provides $24M Refi on New Jersey Multifamily Building",
-      "link": "https://commercialobserver.com/2026/07/dwight-capital-provides-24m-refi-on-new-jersey-multifamily-building/",
-      "excerpt": "New Jersey developer Fadi Samaan has landed $23.5 million of U.S. Department of Housing and Urban Development (HUD)-backed debt to refinance a multifamily complex in Passaic, NJ., Commercial Observer has learned. Dwight Capital supplied the HUD 223(f) loan on the 104-unit Station at Passaic Phase II development, completed in 2024. The deal, which was originated by Dwight Capital’s Jonathan Pomper and Noah Greenwald, closed nearly a year to the date of a $27.7 million HUD 223(f) loan the private lender executed for the adjacent 104-unit Station at Passaic Phase I property in August 2025. Loan proceeds will be used to retire existing debt, establish a replacement reserve account for funding future capital improvements and return equity built up during the construction and lease-up stages, according to Dwight. &#8220;Station at Passaic&#8217;s location on the NJ Transit line into Manhattan drives strong renter demand from both New York City and other New Jersey submarkets,&#8221; Pomper said in a statement. &#8220;With tight vacancy, limited new supply, and neighborhood amenities like the on-site restaurant and grocery store, the property is well positioned to meet that demand as reflected in Phase I&#8217;s strong lease-up and the natural progression to Phase II.&#8221; Located at 99 Passaic Street 14 miles west of Midtown Manhattan, Station at Passaic Phase II consists of two five-story apartment buildings with a unit mix of eight one-bedroom and 96 two-bedroom units. The property also features 7,813 square feet of retail space that includes a Pachos Mini Market. Samaan said in a statement that the loan closing process with Dwight was “even smoother than the last” and credited them with “making even the most complex financing feel straightforward.” Andrew Coen can be reached at acoen@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-31T15:33:41+00:00",
-      "bullets": [
-        "Dwight Capital funds $23.5M HUD 223(f) refi on Station at Passaic Phase II (104 units, completed 2024)",
-        "Phase I adjacent property received $27.7M HUD loan in Aug 2025; combined ~208 units on NJ Transit line",
-        "Loan proceeds retire debt, fund reserves, return equity from construction/lease-up stages"
-      ],
-      "summary": "New Jersey developer Fadi Samaan secured a $23.5 million HUD 223(f) loan from Dwight Capital to refinance the 104-unit Station at Passaic Phase II, completed in 2024. The adjacent Phase I property (also 104 units) received a $27.7 million HUD loan in August 2025. Both projects benefit from proximity to the NJ Transit rail line serving Manhattan, driving demand from NYC and NJ submarkets.",
-      "impact": "Successful refi of recently completed Phase II signals strong lease-up absorption and operator confidence in the NJ Transit corridor as a rental demand engine. Passaic's connectivity to Manhattan via rail is attracting multifamily capital and demonstrating that secondary-market NJ locations with direct NYC transit access support both development feasibility and competitive refinancing. Developers should prioritize NJ Transit–adjacent land acquisition in Passaic, Newark, and Jersey City submarkets ahead of broader mid-market transit-oriented development."
-    },
-    {
-      "title": "Prominent Austin Office Tower Trades for $208M",
-      "link": "https://www.connectcre.com/stories/prominent-austin-office-tower-trades-for-208m/",
-      "excerpt": "Cousins Properties Inc. has sold the One Eleven Congress office building in downtown Austin to Canyon Creek Real Estate. Cousins sold the One Eleven Congress office building for $208 million. Eastdil Secured brokered the sale. The Austin Business Journal reports building improvements may include modernizing common areas and possibly adding a tenant lounge. Other big transactions in Austin of late include Cousins&#8217; purchase of the Sail Tower for $522 million in 2024, a deal that Eastdil served as exclusive adviser, and Brandywine&#8217;s sale of 405 Colorado to Hines earlier this month, another deal that involved Eastdil as Brandywine&#8217;s representative. Built in 1987, One Eleven Congress is part of the Central Business District’s older office buildings. At 503,344 square feet, the 30-story building is the seventh-largest office tower in Austin. As of June 2025, One Eleven Congress was 84% leased. The property is Canyon Creek&#8217;s first in Austin. The Fort Worth-based firm was formed in 2025. The post Prominent Austin Office Tower Trades for $208M appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-07-31T15:31:40+00:00",
-      "bullets": [
-        "Canyon Creek Real Estate acquires One Eleven Congress (Austin office tower) from Cousins Properties for $208M",
-        "503,344 sq ft, 30-story, 1987-built; 84% leased as of June 2025; seventh-largest Austin office tower",
-        "Canyon Creek formed in 2025; first Austin acquisition; possible modernization/tenant lounge additions"
-      ],
-      "summary": "Cousins Properties sold the One Eleven Congress office building in downtown Austin to Canyon Creek Real Estate for $208 million. The 503,344-square-foot, 30-story building was completed in 1987 and was 84% leased as of June 2025. Canyon Creek, a Fort Worth-based firm founded in 2025, intends to modernize common areas and possibly add a tenant lounge.",
-      "impact": "Minimal direct multifamily impact. Office tower trade reflects steady investor appetite for older Class B office assets in Austin's CBD with upside through modernization, but does not signal residential demand or supply changes. Monitor if office conversion-to-residential projects emerge in downtown Austin's aging office stock as tech and corporate hiring slows."
-    },
-    {
-      "title": "AvalonBay Communities, Equity Residential Merger Produces Vivmark Residential",
-      "link": "https://commercialobserver.com/2026/07/avalonbay-communities-equity-residential-merger-rebrand-vivmark-residential/",
-      "excerpt": "A new company brings a new name. Two months after multifamily giants AvalonBay Communities and Equity Residential merged to form one of the country’s largest real estate companies — the total enterprise value is calculated at $71 billion — the two firms announced Friday that their new company will be called Vivmark Residential. The new firm, which is a publicly traded real estate investment trust (REIT), will hold the New York Stock Exchange ticker symbol VMRK. &#8220;The name Vivmark Residential reflects what we are building — a company determined to set a new standard for the experience of home,” said Benjamin Schall, CEO of AvalonBay Communities and the new CEO of the combined entity. The new name combines two words — Viv, from the Latin word “vivere,” or “to live fully,” and the English word “mark,” meaning “quality, distinction, and lasting impact,” according to a release from AvalonBay. “Vivmark Residential is built from the exceptional foundations that AvalonBay and Equity Residential have each spent more than 30 years establishing as trusted leaders,” added Schall. Vivmark Residential will take control of the residential REIT landscape as the new biggest player on the block. The combined entity will hold a portfolio of more than 180,000 rental apartments across 600 distinct apartment communities and assets, with another 10,800 units and $4.4 billion of development in its construction pipeline. AvalonBay stock currently trades at $187 per share, as of Friday morning, down 2 percent over the last five days, while Equity Residential stock trades at $67 per share, also down 2 percent in the last week. The transaction is expected to close in the second half of 2026. Brian Pascus can be reached at bpascus@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-31T13:32:12+00:00",
-      "bullets": [
-        "Vivmark Residential formed from AvalonBay–Equity Residential merger: $71B enterprise value, 180,000+ apartments",
-        "VMRK ticker on NYSE; Benjamin Schall (AvalonBay) is new CEO; 10,000+ units under construction",
-        "Property names unchanged at close; headquarters location to be determined"
-      ],
-      "summary": "AvalonBay Communities and Equity Residential have completed their merger to form Vivmark Residential, a publicly traded REIT with enterprise value of $71 billion, equity market cap of $53 billion, and over 180,000 apartments in operation plus 10,000+ units under construction. The company will trade on the NYSE under ticker VMRK, led by Benjamin Schall as CEO. Individual community names will remain unchanged.",
-      "impact": "Duplicate of article #3; see impact there. This consolidation reshapes competitive dynamics for multifamily land, development, and construction management across all major U.S. metros."
-    },
-    {
-      "title": "Tom Giordano of Suffolk Construction: 5 Questions",
-      "link": "https://commercialobserver.com/2026/07/tom-giordano-suffolk-construction-5-questions/",
-      "excerpt": "From a young age, Tom Giordano, general manager of the New York region for Suffolk Construction, had one goal. That was to follow in his uncle’s footsteps and become a lawyer to benefit his community. After going from litigation to representing general contractors, developers and design professionals on legal matters, he joined Morse Diesel Construction in 1999, then Bovis Lend Lease in 2004 as general counsel. For the last four and a half years, he has been managing the New York office of Suffolk Construction, working in a non-legal executive role. Giordano is responsible for enhancing the company’s internal organization processes and its infrastructure, as well as ensuring Suffolk is in a strong position to grow and expand construction management projects in the metro area — which for the firm includes New York City, Westchester and Long Island — in the hospitality, health care and residential spaces. Commercial Observer caught up with Giordano in July to discuss what projects Suffolk has been working on recently, notable market trends in New York City’s construction industry, and how the firm takes a project from an idea to reality. This conversation has been edited for length and clarity. Commercial Observer: What is the mission of Suffolk Construction in New York? Tom Giordano: Our mission is pretty simple. We want New York to be similar to what Suffolk is nationally. We want to be not necessarily the biggest, but the best construction management firm in the New York metro area, and deliver the Suffolk culture here. We&#8217;ve had a New York presence for 13 years, but we&#8217;ve really gotten a significant amount of traction over the last five and a half years. We&#8217;ve grown significantly. When I started, we were probably doing $350 million a year in revenue. Now we&#8217;re doing $1.3 billion, with a real look at $2 billion a year in the next two years. What kinds of projects does Suffolk work on across New York? When I started, we were 40 percent reside",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-31T12:00:20+00:00",
-      "bullets": [
-        "Tom Giordano (Suffolk Construction NY GM) oversees NY region operations: NYC, Westchester, Long Island",
-        "Suffolk focuses on hospitality, healthcare, and residential construction management; 4.5-year tenure",
-        "Giordano background: litigation attorney → general counsel (Morse Diesel, Bovis Lend Lease) → operations exec"
-      ],
-      "summary": "Tom Giordano, general manager of Suffolk Construction's New York region, oversees operations across New York City, Westchester, and Long Island, managing hospitality, healthcare, and residential construction projects. Giordano has spent 4.5 years in this role after transitioning from legal roles at Morse Diesel and Bovis Lend Lease, focusing on internal process enhancement and market expansion in the tristate region.",
-      "impact": "Limited standalone relevance to development strategy. Signals Suffolk's continued focus on large residential projects in NYC tristate, but article lacks project pipeline or market outlook detail needed for underwriting and acquisition decisions."
-    },
-    {
-      "title": "Goldman Sachs Group Deploys $116M for Syracuse Affordable Housing Overhaul",
-      "link": "https://commercialobserver.com/2026/07/goldman-sachs-syracuse-affordable-housing/",
-      "excerpt": "Goldman Sachs has provided a $116 million construction loan as part of an overall $269 million financing package to facilitate the redevelopment of a long-standing Syracuse affordable housing complex, Commercial Observer can first report. The investment bank’s Urban Investment Group provided the loan on BFC Partners and SAA Canopy Group’s transformation of the Parkside Commons Section 8-backed housing complex in Syracuse&#8217;s East Side neighborhood. The project will feature 393 apartments designated as affordable through a combination of newly constructed and renovated units. “Parkside Commons represents a significant investment in not only the preservation but also the creation of affordable housing in Syracuse,” Asahi Pompey, chair of the Urban Investment Group at Goldman Sachs, said in a statement. “We are proud to partner with New York State, BFC Partners, and SAA Canopy Group to deliver quality homes that will serve Syracuse families for years to come.” The $269 million financing package also includes federal and state Low-Income Housing Tax Credits slated to raise $88 million and $13.6 million, respectively. The remainder of the funds will derive from interest earnings on tax-exempt bond proceeds for the development and interim project income generated during construction, according to BFC. BFC and SAA acquired the 15-acre property on 1901 East Fayette Street in late 2024 from a partnership connected to developer Stephen Ross, the Syracuse Post-Standard reported at the time. The 10-building complex, constructed in the mid-20th century, had previously faced security and crime challenges, according to the Post-Standard. Loan proceeds will be used for BFC and SAA Canopy to renovate six of the current buildings at the complex and build two new ones, which will have enough space to relocate all current residents from the four oldest structures slated for demolition The site of the demolished buildings will later be used for additional housing in a later developm",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-07-30T22:10:08+00:00",
-      "bullets": [
-        "Goldman Sachs Urban Investment Group deploys $116M construction loan for Syracuse Parkside Commons redevelopment",
-        "Total financing package: $269M; 393 apartments (new + renovated), Section 8 affordable housing preservation",
-        "BFC Partners + SAA Canopy Group develop; project on Syracuse East Side; includes state/federal LIHTC funding"
-      ],
-      "summary": "Goldman Sachs' Urban Investment Group provided a $116 million construction loan as part of a $269 million total financing package for the redevelopment of Parkside Commons, a Section 8 affordable housing complex in Syracuse's East Side. The project, led by BFC Partners and SAA Canopy Group, will deliver 393 apartments through a combination of newly constructed and renovated units. Financing includes federal and state Low-Income Housing Tax Credit (LIHTC) support.",
-      "impact": "Capital flowing into secondary-market affordable housing preservation signals continued investor appetite for LIHTC and HUD-backed deals in smaller metros. Syracuse's Parkside project demonstrates feasibility of mixed preservation/new-construction models in weak rental markets, but limited upside on market-rate rental demand. Developers should track LIHTC allocation trends and state affordable housing programs in secondary cities for stabilized cash-flow opportunities, though demand growth for market-rate apartments in Syracuse remains subdued."
+      "summary": "BTF Capital Fund, led by Kenneth Schuckman and Aaron Malinsky, purchased the Whitestone Shopping Center in Queens (153-15 Cross Island Parkway) for $56 million. The 220,000-square-foot property is anchored by Key Food and includes a Chase branch. Acadia Realty Trust provided approximately $48.5 million in financing for the acquisition. Schuckman's brokerage will handle leasing for the center. The property has been held by Punia & Marx since at least 1975.",
+      "impact": "Limited direct relevance to multifamily development. Grocery-anchored retail consolidation does not signal apartment demand or supply shifts. Monitor only if Schuckman signals conversion or mixed-use redevelopment plans for the Cross Island Parkway site; otherwise, activity reflects retail REIT and necessity-retail investor positioning in Queens."
     }
   ]
 }
