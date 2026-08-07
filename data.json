@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-07T17:41:18.121907+00:00",
+  "fetchedAt": "2026-08-07T18:41:13.462402+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -9,21 +9,66 @@
     },
     {
       "label": "10Y Treasury",
-      "value": "4.65%",
-      "pct": -0.34
+      "value": "4.66%",
+      "pct": -0.26
     },
     {
       "label": "30Y Treasury",
       "value": "5.21%",
-      "pct": -0.06
+      "pct": 0.0
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "98.62",
-      "pct": 0.6
+      "value": "98.31",
+      "pct": 0.28
     }
   ],
   "stories": [
+    {
+      "title": "Barry Sternlicht’s Starwood Buys Two Miami Affordable Housing Rentals",
+      "link": "https://commercialobserver.com/2026/08/barry-sternlicht-starwood-miami-affordable-housing/",
+      "excerpt": "Barry Sternlicht’s Starwood Asset Management has acquired two affordable housing properties in Miami-Dade County from the Gatehouse Group, paying a combined $63.8 million, property records show. In the largest deal, the investor paid $34 million for the 150-unit Magnolia Landing Apartments in the Naranja neighborhood, near the southern end of the county. Built in 2011, the 4.8-acre asset houses 20 three-story buildings at 25881 Southwest 143rd Court, just west of the South Dixie Highway. The sale breaks down to roughly $226,660 per unit. CBRE Capital Partners provided a $23.8 million Freddie Mac loan. Across the county in Miami’s Little River neighborhood, Starwood paid $29.75 million for the 160-unit Lafayette Square complex. The 19-story building sits on a 1.2-acre site, a block west from Northeast Second Avenue at 150 Northeast 79th Street. The deal equates to about $185,900 per apartment. The Gatehouse Group appears to have retained ownership of the adjacent 136-unit property. The Mansfield, Mass.-based firm developed both the Lafayette Square and Magnolia Landing Apartments, completing the former in 2008 and the latter in 2011. Representatives for Starwood and Gatehouse Group did not immediately respond to a request for comment. Julia Echikson can be reached at jechikson@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-07T17:55:49+00:00",
+      "bullets": [
+        "Starwood Capital acquired two Miami-Dade affordable rental properties for $63.8M total.",
+        "Magnolia Landing (150 units, Naranja) and Lafayette Square (160 units, Little River) purchased.",
+        "Freddie Mac financing available; affordables remain investment-grade asset class in South Florida."
+      ],
+      "summary": "Barry Sternlicht's Starwood Asset Management paid $63.8 million for two affordable housing complexes in Miami-Dade County: the 150-unit Magnolia Landing in Naranja ($34M, $226.7K/unit) and the 160-unit Lafayette Square in Little River ($29.75M, $185.9K/unit). CBRE Capital Partners arranged a $23.8 million Freddie Mac loan for Magnolia. Both properties were acquired from Gatehouse Group and represent older, stabilized assets (2011 vintage and earlier).",
+      "impact": "Institutional investor appetite for affordable rentals in Miami-Dade signals continued GSE-backed debt availability and investor confidence in rent-restricted portfolios as counter-cyclical assets. The sub-$230K/unit basis on older construction suggests limited new supply risk in the affordable segment, which can sustain modest rent growth and cap rate stability across South Florida market."
+    },
+    {
+      "title": "Ad Agency Doubles Office HQ Space in Move to Hackman Campus in L.A.",
+      "link": "https://commercialobserver.com/2026/08/ad-agency-doubles-office-hq-space-in-move-to-hackman-campus-in-l-a/",
+      "excerpt": "An international advertising agency is more than doubling its office footprint with a new headquarters lease in El Segundo, Calif. Innocean USA signed the 101,000-square-foot deal at Hackman Capital Partners’ creative office campus in the small enclave just south of Los Angeles International Airport. The agency will relocate nearly 600 employees from 50,000 square feet in Huntington Beach after construction on its new space concludes in 2027, according to JLL, which represented the tenant. The company reportedly will use part of the space as a production facility for commercials and other content. Terms of the lease were not disclosed. “This move is about creating the right environment for our next chapter,” Innocean USA CEO Steve Jun said in a statement. “This is an investment in our people, our clients, and the future we’re building together.” The complex, named after its address at 888 Douglas Street, includes four buildings totaling 550,000 square feet over 30 acres. Hackman acquired the former Northrop Grumman aerospace manufacturing complex in 2016, and invested about $100 million converting it into the creative office. Other major occupiers at the property have included L’Oréal USA, which signed for more than 100,000 square feet in 2021, and Beyond Meat, which originally leased 280,000 square feet for its headquarters. Aerospace and defense companies have also returned to L.A.’s South Bay, and helped bolster leasing at the El Segundo campus. Hypersonic aircraft developer Hermeus signed for 62,552 square feet earlier this year, while Varda Space Industries expanded to 54,749 square feet in 2025. Innocean USA is the U.S. arm of Innocean Worldwide, which was created by Hyundai Motor Group. JLL’s Jason Fine, Jeff Ingham and Mitch Lundquist represented Innocean, while Hackman was represented in-house. Gregory Cornfield can be reached at gcornfield@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-07T17:55:22+00:00",
+      "bullets": [
+        "Innocean USA leasing 101K SF at Hackman Capital's El Segundo creative office campus.",
+        "601-person headcount relocating from Huntington Beach; occupancy circa 2027.",
+        "Tenant doubling footprint; on-site production facility signals content/media cluster formation."
+      ],
+      "summary": "International advertising agency Innocean USA signed a 101,000-square-foot headquarters lease at Hackman Capital Partners' 550,000-SF creative office campus in El Segundo (near LAX), doubling from its current 50,000-SF Huntington Beach space. Nearly 600 employees will relocate upon project completion in 2027; the tenant will use part of the space for commercial/content production. The campus sits on 30 acres and includes four buildings on the site of a former Northrop Grumman aerospace facility.",
+      "impact": "Innocean's doubling-down on premium creative office in El Segundo—anchored by media production—signals sustained demand for specialized flex office in Los Angeles' aerospace/tech corridor and validates Hackman's redevelopment thesis for repurposed industrial campuses. A 600-person relocation also creates downstream demand for workforce housing (apartments, housing stock) in South Bay submarkets; watch for wage/demographic tailwinds in nearby Torrance, Manhattan Beach, and Hermosa Beach rentals."
+    },
+    {
+      "title": "Attorney James Allen Joins Camber Property Group as Senior Counsel",
+      "link": "https://commercialobserver.com/2026/08/james-allen-new-hire-camber-property-group/",
+      "excerpt": "Camber Property Group has onboarded a new general counsel for its affordable housing and community development transactions, Commercial Observer has learned. James Allen has decamped from real estate law firm Hirschen Singer &amp; Epstein and started the new role this week assisting Camber with affordable housing projects in New York state and the New York tri-state region, according to the development firm. “One trend I am seeing is that, in their efforts to solve the ongoing housing affordability crisis, more developers are starting to expand both the types of projects that they participate in and their geographic footprint,” Allen said in a statement. “Camber is always thinking creatively about both, but they present unique challenges.” Allen was previously an associate for four years at Nixon Peabody and a senior staff attorney for the New York Court of Appeals. The Brooklyn Law School graduate also pens articles about housing equity and affordability while serving on the board of the New York Housing Conference’s Rising Leaders Network and the New York City Bar Association’s Housing &amp; Urban Development Committee. Hirschen Singer &amp; Epstein did not immediately respond to a request for comment. “I feel lucky to have the chance to expand upon that and work with many of the legal partners that I have learned from over the years, while Camber solidifies its New York presence and intentionally expands its footprint to other regions,” Allen said. Mark Hallum can be reached at mhallum@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-07T17:50:06+00:00",
+      "bullets": [
+        "Camber Property Group hired attorney James Allen as senior counsel for affordable housing.",
+        "Focus: affordable housing and community development in NY/tri-state region.",
+        "Executive notes developer geographic expansion trend amid affordability crisis solving."
+      ],
+      "summary": "Camber Property Group added James Allen as general counsel, tasked with affordable housing and community development transactions across New York state and the tri-state region. Allen, a Brooklyn Law School graduate with prior roles at Nixon Peabody and as a senior staff attorney for the New York Court of Appeals, will focus on expanding Camber's affordable portfolio. He noted that developers are increasingly broadening project types and geographic footprint to address housing affordability.",
+      "impact": "Minimal direct impact to core multifamily development. However, Allen's insight that developers are expanding into affordable and mixed-tenure projects signals a structural shift toward tax-credit and community development financing vehicles in NY/tri-state, which may compete for land and capital with market-rate development but also unlock subsidy-supported returns in constrained markets like NYC and Westchester."
+    },
     {
       "title": "Selldorf Architects Renews 14K-SF 860 Broadway Lease for 10 Years",
       "link": "https://commercialobserver.com/2026/08/selldorf-architects-renews-14k-sf-860-broadway-lease-for-10-years/",
@@ -32,12 +77,12 @@
       "cat": "Commercial",
       "date": "2026-08-07T17:36:42+00:00",
       "bullets": [
-        "Selldorf Architects renews 14K-SF lease at 860 Broadway, Flatiron, Manhattan for 10 years.",
-        "Midtown South Class A office averaging $97.22/SF; Class B at $79.96/SF in Q2.",
-        "Architectural tenant commitment signals demand stability in Manhattan creative/office market."
+        "Selldorf Architects renewed 13.8K-SF lease at Gordon Property's 860 Broadway, 10-year term.",
+        "Tenant held 20-year occupancy in Flatiron District; no renewal spread disclosed.",
+        "Midtown South Class A office averaging $97.22/SF asking; Class B $79.96/SF in Q2."
       ],
-      "summary": "Architecture firm Selldorf Architects renewed its 13,815-square-foot lease at 860 Broadway in Manhattan's Flatiron District for another decade, cementing a 20-year presence. Comparable Class A office space in Midtown South was trading at $97.22 per square foot and Class B at $79.96/SF in Q2. The renewal underscores sustained demand from creative/knowledge-work tenants for trophy Manhattan office addresses.",
-      "impact": "Limited direct relevance to multifamily development. However, the renewal signals stability in Manhattan's creative-sector employment hub; sustained office demand from high-wage, sticky tenants (architects, tech) supports underlying residential demand in proximate neighborhoods like Flatiron and NoMad. Office-to-residential conversion optionality remains if future office fundamentals weaken."
+      "summary": "Architecture firm Selldorf Architects renewed its 10-year, 13,815-square-foot lease at 860 Broadway in Manhattan's Flatiron District, where it has been headquartered for two decades. Asking rent was not disclosed, but Colliers data shows Midtown South Class A office space averaged $97.22 per square foot and Class B space $79.96 per square foot in Q2. The tenant's long-term commitment signals stability in the creative/design office market.",
+      "impact": "Minimal impact to multifamily. Long-term lease renewal by a design-focused tenant in an iconic creative office building reflects selective resilience in Manhattan office for firms with deep local roots and specialized space needs, but does not signal broader office market recovery that would affect residential demand or labor migration patterns."
     },
     {
       "title": "Agora Delivers 90K-SF N. Las Vegas Retail Center",
@@ -47,12 +92,12 @@
       "cat": "Commercial",
       "date": "2026-08-07T16:34:00+00:00",
       "bullets": [
-        "Agora completed 90,750-SF retail center Hylo Park South in North Las Vegas; 95% leased.",
-        "73-acre mixed-use development at $375M total cost; phase 3 underway; 1.2 acres sold to In-N-Out.",
-        "Anchor tenants: Cardenas Markets, Ross, Chipotle, Tesla; opening early 2027."
+        "Agora Realty completed Hylo Park South, 90.8K-SF retail center in North Las Vegas.",
+        "Grocery-anchored by Cardenas Markets; 95% pre-leased; phase 3 of 73-acre mixed-use.",
+        "Total project cost $375M; tenants opening early 2027; In-N-Out pad sold separately."
       ],
-      "summary": "Agora Realty completed Hylo Park South, a grocery-anchored 90,750-square-foot retail center at Lake Mead Boulevard and Rancho Drive in North Las Vegas, already 95% leased to national tenants including Cardenas Markets and Ross Dress for Less. The retail center is part of Agora's 73-acre mixed-use Hylo Park community, now in phase 3 with approximately $375 million in total construction costs. Tenants will open by early 2027.",
-      "impact": "Mixed-use master-planned communities anchored by grocery and retail density signal sustained residential demand in North Las Vegas submarket. Retail absorption and anchor leasing strength indicate consumer spending power and population density sufficient to support multifamily development; Agora's phased approach and institutional capital commitment de-risk residential delivery in the Vegas periphery. Monitor phase 2 residential absorption for confirmation of demand trajectory."
+      "summary": "Agora Realty delivered Hylo Park South, a 90,750-square-foot grocery-anchored retail center at Lake Mead Boulevard and Rancho Drive in North Las Vegas, with 95% occupancy pre-leasing. The project is phase three of Agora's 73-acre Hylo Park mixed-use master plan with approximate construction costs of $375 million. National tenants include Cardenas Markets (anchor), Ross, Starbucks, Chipotle, In-N-Out, and Tesla; occupancy is slated for early 2027. Agora sold a 1.2-acre pad to In-N-Out for its own development.",
+      "impact": "Retail delivery in North Las Vegas reflects sustained population and household formation in the Las Vegas metro outskirts; the grocery+discount+QSR mix signals working-class/family demographic capture. Successful pre-leasing in a suburban retail center indicates underlying apartment demand in the submarket—developers should monitor Hylo Park's residential pipeline and demographic absorption to identify secondary-market multifamily upside in the North Las Vegas corridor as wages and employment stabilize."
     },
     {
       "title": "BH Picks Up Nearly 300K-SF Plano Office Park",
@@ -62,12 +107,12 @@
       "cat": "Commercial",
       "date": "2026-08-07T16:26:04+00:00",
       "bullets": [
-        "BH Properties acquired Tollway North Office Park, 297,591-SF, 7 buildings in Plano, Texas.",
-        "Purchase follows Feb 2025 R&D at Legacy acquisition; combined holdings now 675K+ SF across 14 buildings.",
-        "BH plans value-add repositioning to reflect changing occupier preferences; built 1998–2000."
+        "BH Properties acquired Tollway North Office Park, 297.6K SF, seven buildings in Plano, TX.",
+        "Built 1998–2000; KBS seller; BH now owns 675K+ SF across Legacy Business Park.",
+        "Value-add strategy; BH seeking leasing upside and repositioning for occupier preferences."
       ],
-      "summary": "BH Properties, a value-add specialist, completed acquisition of Tollway North Office Park, a 297,591-square-foot seven-building business park in Plano, Texas, from KBS. This follows BH's February 2025 purchase of the adjacent R&D at Legacy campus, bringing total Legacy Business Park holdings to over 675,000 square feet across 14 buildings. BH plans to pursue leasing upside and future repositioning aligned with evolving occupier preferences.",
-      "impact": "Consolidation of legacy business park assets in Plano signals optionality for future office-to-residential conversion or ground-up multifamily redevelopment as Plano's office-flex demand matures. BH's value-add platform and focus on repositioning suggest recognition that aging 1998–2000 vintage office space faces structural headwinds; proximity to Dallas-Fort Worth's core job centers makes land candidacy for high-density residential increasingly attractive. Watch for any future zoning or master-plan announcements."
+      "summary": "BH Properties, a value-add investor with Dallas, Austin, and Houston offices, completed the acquisition of Tollway North Office Park, a 297,591-square-foot, seven-building business park built between 1998 and 2000 in Plano, Texas. The deal follows BH's February 2025 purchase of the adjacent R&D at Legacy campus, bringing BH's Legacy Business Park portfolio to more than 675,000 square feet across 14 buildings. BH plans to capitalize on leasing upside and evaluate repositioning to reflect changing occupier preferences.",
+      "impact": "Minimal direct multifamily impact. However, BH's accumulation of 675K+ SF in Plano's Legacy Business Park suggests confidence in suburban DFW office consolidation and adaptive-reuse potential; if BH pursues mixed-use redevelopment or conversion of underleased Class B office, it could unlock multifamily density in a high-growth submarket and signal labor clustering trends. Monitor Plano's population growth and wage data to assess whether office repositioning correlates with residential demand."
     },
     {
       "title": "Cabot Offloads 2.4M-SF Texas Industrial Portfolio",
@@ -77,12 +122,12 @@
       "cat": "Commercial",
       "date": "2026-08-07T16:07:16+00:00",
       "bullets": [
-        "Cabot Properties sold 2.4M-SF industrial portfolio (8 buildings) in DFW and Houston to private investor.",
-        "DFW: 2M SF across South Dallas, Alliance, DFW Airport, Great Southwest/Arlington; vintage ~2015.",
-        "Houston: 3 buildings in Northwest and North Corridors; sustained occupier demand, declining vacancy, strong absorption."
+        "Cabot Properties sold 2.4M-SF industrial portfolio (eight buildings) across Texas.",
+        "Five buildings in DFW (South Dallas, Alliance, Airport, Southwest/Arlington; 2015 avg vintage).",
+        "Three buildings in Houston NW and North Corridors; sold to private REIF."
       ],
-      "summary": "Cabot Properties sold an eight-building industrial portfolio totaling approximately 2.4 million square feet across Dallas-Fort Worth and Houston to a private real estate investment firm. Five properties (approximately 2 million square feet, average 2015 vintage) are in DFW submarkets including South Dallas, Alliance, DFW Airport, and Great Southwest/Arlington. Three additional buildings are in Houston's Northwest and North Corridors. The DFW market has experienced sustained occupier demand, declining vacancy, and accelerated leasing activity.",
-      "impact": "Cabot's divestiture of newer (2015-vintage) industrial in DFW likely signals capital redeployment or portfolio trimming at peak pricing and strong leasing momentum. DFW's sustained industrial demand and declining vacancy underscore robust logistics employment and inbound corporate activity, which supports concurrent residential demand in secondary/tertiary markets near industrial clusters (e.g., Alliance, DFW Airport corridors). Residential developers should monitor continued industrial absorption to validate job-growth assumptions for apartment demand modeling in outer DFW submarkets."
+      "summary": "Cabot Properties sold an eight-building modern industrial portfolio totaling approximately 2.4 million square feet across Dallas-Fort Worth and Houston. Five properties are located in DFW submarkets (South Dallas, Alliance, DFW Airport, Great Southwest/Arlington) with an average vintage of 2015, totaling two million square feet. Three additional buildings are in Houston's Northwest and North Corridors. Capital Markets teams from CBRE, Cushman & Wakefield, and Eastdil Secured represented Cabot. The market context notes sustained occupier demand, declining vacancy, and improving absorption across large-format industrial.",
+      "impact": "Cabot's divestiture of modern industrial suggests capital rotation out of logistics and into other asset classes (likely office value-add or other repositioning plays). The sale reflects tight DFW and Houston industrial markets with strong leasing momentum; sustained occupier demand for large-format warehouse/logistics drives continued employment growth in these metros, strengthening multifamily demand, particularly for workforce/middle-income rentals near industrial corridors (South Dallas, Northwest Houston). Monitor job creation in logistics/e-commerce sectors to validate rent growth thesis."
     },
     {
       "title": "Mortgage Bankers Association: CRE Lending Volume Up 16% Year-Over-Year",
@@ -92,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-08-07T15:55:17+00:00",
       "bullets": [
-        "MBA: Commercial/multifamily mortgage originations up 16% YoY in Q2 2026; up 12% QoQ.",
-        "Retail loans +61%, office +47%, lodging +19%, multifamily +8%, industrial +6% YoY.",
-        "Healthcare originations down 19% YoY; CMBS and bank lenders posted strong Q2 gains."
+        "MBA Q2 2026: Commercial/multifamily originations up 16% YoY; dollar volume +12% QoQ.",
+        "Multifamily loans +8% YoY; retail +61%, office +47%, lodging +19%, industrial +6%.",
+        "CMBS and bank lenders posted strong gains; healthcare originations -19% YoY."
       ],
-      "summary": "Commercial and multifamily mortgage loan originations rose 16% year-over-year in Q2 2026, with dollar volume up 12% sequentially, according to the Mortgage Bankers Association. Retail loans surged 61%, office 47%, lodging 19%, multifamily 8%, and industrial 6% on a year-over-year basis, while healthcare originations fell 19%. CMBS and bank lenders posted particularly strong gains, signaling renewed financing activity across property types.",
-      "impact": "Multifamily originations growing at only 8% YoY while retail, office, and lodging surge 47–61% suggests capital is flowing disproportionately to repositioning/recovery plays in distressed sectors, not new multifamily supply. Modest 8% growth implies tightening construction financing availability relative to demand, favoring well-capitalized developers and sponsors with existing relationships and strong leverage metrics. Cap rate compression risk if rates stabilize; developers must lock construction debt before further rate normalization."
+      "summary": "The Mortgage Bankers Association's Quarterly Survey of Commercial/Multifamily Mortgage Bankers Originations reports that commercial and multifamily mortgage loan originations were 16% higher in Q2 2026 compared to Q2 2025, with dollar volume up 12% from Q1 2026. Multifamily originations rose 8% year-over-year, trailing retail (61%), office (47%), and lodging (19%), while industrial rose 6%. Healthcare originations declined 19% year-over-year. CMBS and bank lenders posted particularly strong gains, signaling improved capital market conditions and renewed financing activity.",
+      "impact": "Multifamily lending growth of 8% YoY, while positive, lags retail (+61%) and office (+47%), suggesting capital still favors retail and office repositioning deals over new multifamily starts. The broader 16% Y-o-Y increase in CRE originations and Q1-to-Q2 12% quarterly jump indicate thawing credit conditions and improving cap rates—developers should monitor whether falling rates and rising transaction volume unlock new multifamily starts or primarily fuel acquisitions of stabilized assets. Watch for divergence between CMBS/bank appetite; bank focus on office may signal stricter multifamily underwriting on marginal markets."
     },
     {
       "title": "Valley National Bank Provides $30M Value-Add Refi for Park Towers in Miami",
@@ -107,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-08-07T15:51:07+00:00",
       "bullets": [
-        "Valley National Bank provided $30M refi for Park Towers, 210-unit multifamily in Miami at 6.09% fixed.",
-        "YMP Real Estate Management (owner, 10+ years) pursued concentrated value-add strategy with capital improvements.",
-        "Property located near University of Miami and Florida International University in Biscayne Gardens."
+        "Valley National Bank provided $30M value-add refi for YMP's Park Towers, Miami, 210 units.",
+        "Fixed-rate 6.09%; Meridian Capital arranged; property near University of Miami/FIU.",
+        "Owner/operator invested capital improvements for over a decade; third-generation investor."
       ],
-      "summary": "YMP Real Estate Management secured $30 million in refinance financing from Valley National Bank for Park Towers, a 210-unit multifamily complex in Miami's Biscayne Gardens section, at a fixed rate of 6.09 percent. The borrower, a third-generation real estate investor, has owned and operated the property for over a decade while executing a value-add capital improvement strategy. The property is proximate to both University of Miami and Florida International University.",
-      "impact": "Value-add refi at 6.09% fixed signals lender conviction in Miami multifamily fundamentals and sustained income growth trajectory post-improvement. Proximity to FIU and UM validates strong institutional tenant demand (student/faculty housing) and demographic stability. However, 6.09% refi rate underscores that new construction financing will remain elevated; developers targeting Miami should focus on ground-lease or partnership structures to improve levered returns and absorb higher cost of capital."
+      "summary": "Moshe Popack's YMP Real Estate Management refinanced Park Towers, a 210-unit multifamily complex in Miami's Biscayne Gardens section (near University of Miami and Florida International University), with a $30 million loan from Valley National Bank at a fixed rate of 6.09 percent. Meridian Capital Group's David Hayum and Michael Farkovits arranged the transaction. YMP has owned and operated the property for more than a decade, pursuing a concentrated value-add strategy with ongoing capital improvements.",
+      "impact": "Valley National's willingness to execute a 6.09% fixed-rate refi for a stabilized, value-add asset with a proven operator signals improving financing conditions in South Florida multifamily and regional bank appetite for seasoned properties with demonstrated NOI growth. The Biscayne Gardens location (near two universities) suggests sustained student/young-professional housing demand; similar university-proximate assets in Miami may see refinancing tailwinds, improving cap rate compression for value-add sellers."
     },
     {
       "title": "RXR-Led Team Lands Construction Financing for 301-Unit Denver Rental Community",
@@ -122,57 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-07T15:49:45+00:00",
       "bullets": [
-        "RXR/Halpern/Korman/Invent secured $125M construction financing for AVE Station House, Denver, 301 units.",
-        "$100M senior from Madison Realty Capital; $25M mezz from insurance company; 271 market-rate + 30 affordable.",
-        "6,200 SF retail, 290 parking spaces; mix of studios to 3-bedrooms with work-from-home spaces."
+        "RXR/Halpern/Korman/Invent secured $125M construction financing for AVE Station House, Denver.",
+        "301-unit luxury (271 market-rate, 30 affordable); ground-floor retail; 290 parking spaces.",
+        "Madison Realty $100M senior + $25M mezzanine from insurance company; completion TBD."
       ],
-      "summary": "A development team including RXR, Halpern Real Estate Investments, Korman Communities, and Invent Development Partners secured $125 million in construction financing for AVE Station House, a 301-unit luxury multifamily development in Denver. The financing comprises a $100 million senior loan from Madison Realty Capital and a $25 million mezzanine loan from an insurance company. The project includes 271 market-rate units, 30 affordable units, 6,200 square feet of ground-floor retail, and approximately 290 parking spaces.",
-      "impact": "Successful securitization of multifamily construction in Denver by top-tier sponsors signals sustained investor appetite for luxury rental in West Coast markets, despite broader economic uncertainty. $125M raise for 301 units (~$415K per unit) implies strong cost basis and sponsor equity; insurance company mezz participation (vs. mezzanine specialists) shows institutional capital re-entering development stack. Denver's strong job growth and in-migration continue to support premium rental fundamentals; expect competing starts in QOZ/transit-adjacent submarkets where land remains available."
-    },
-    {
-      "title": "Document Processing Platform Extend AI Signs 9K-SF Lease at 119 Fifth Avenue",
-      "link": "https://commercialobserver.com/2026/08/extend-ai-lease-119-fifth-avenue/",
-      "excerpt": "An artificial intelligence-driven document processing firm is relocating within the Flatiron District, Commercial Observer has learned Extend AI signed an 8,750-square-foot lease across the entire sixth floor of 119 Fifth Avenue in a relocation from its current offices at 135 West 29th Street, according to the brokers at Nomad Group. Nomad did not disclose the length of the lease, but said asking rent for the building, which property records indicate is owned by the Haddad family, was $105 per square foot. “The companies actually building the future of AI are not abandoning the office — they are raising the bar for it,” Nomad’s Nick Hein, who represented the tenant in the transaction, said in a statement. “119 Fifth Avenue offered Extend the character, status and proximity to an established tech ecosystem that includes Microsoft, Adyen, Legora, Clay and many others, along with a HQ equal to the scale of what they’re building.” Bill Janetschek and Matthew DeRose, also from Nomad Group, negotiated on behalf of the landlord. The building from 1906 is at the corner of Fifth Avenue and East 19th Street, within the Ladies&#8217; Mile Historic District and several blocks south of Extend AI’s current headquarters north of Madison Square Park, an area that has been a major destination for AI firms. As recently as late July, AI data platform Chalk signed a lease for 26,607 square feet at Castro Properties’ 43 West 23rd Street, while on Thursday CO reported that AI-driven employee management platform Warp expanded to 24,500 square feet at HRC’s 156 Fifth Avenue. Mark Hallum can be reached at mhallum@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-07T15:33:03+00:00",
-      "bullets": [
-        "Extend AI (AI document processing) leased 8,750-SF sixth floor at 119 Fifth Avenue, Flatiron, Manhattan.",
-        "Relocation from 135 West 29th Street; asking rent $105/SF; building built 1906, owned by Haddad family.",
-        "Tenant cites proximity to tech ecosystem: Microsoft, Adyen, Legora, Clay in Flatiron."
-      ],
-      "summary": "Extend AI, an artificial intelligence-driven document processing firm, leased 8,750 square feet on the entire sixth floor of 119 Fifth Avenue in Flatiron, Manhattan, at $105 per square foot, relocating from 135 West 29th Street. The 1906-built building, owned by the Haddad family, offered the tenant proximity to an established tech ecosystem including Microsoft, Adyen, Legora, and Clay, plus office space befitting the firm's growth scale.",
-      "impact": "AI and tech-services tenants remain anchored to Flatiron/NoMad, validating cluster economics and justifying premium $105/SF rents for office space. Tenant's stated rationale ('HQ equal to the scale of what they're building') signals class-A office scarcity and premium pricing power in trophy submarkets. For multifamily developers: sustained high-wage tech employment in Flatiron supports elevated rents in adjacent residential; conversion plays on aging office stock remain viable if vacancy tightens further."
-    },
-    {
-      "title": "Tishman Speyer’s 6 Grand Central Hits the Market for Roughly $450M",
-      "link": "https://commercialobserver.com/2026/08/tishman-speyer-grand-central/",
-      "excerpt": "Fancy adding a 770,386-square-foot trophy office property to your portfolio? You’re in luck. Tishman Speyer is marketing 6 Grand Central for sale, sources told Commercial Observer, with an asking price somewhere around $450 million. The fee simple interest in the property is being marketed by Eastdil Secured’s Gary Phillips and Will Silverman, sources said. The Class A office tower is at the corner of Third Avenue and East 42nd Street in the Grand Central submarket with a direct connection to Grand Central Terminal via the Chrysler Building. The building is one of only four postwar buildings with such access. Formerly known as 666 Third Avenue, the property was bought by Tishman in 1998. It was last renovated in 2022, and rebranded as 6 Grand Central in 2024 “to reflect our dedication to grandeur and excellence, and the building’s direct connection to Grand Central Terminal,” according to a LinkedIn post from the firm. That same year, investment manager VanEck signed a 10-year renewal for its 53,333 square feet on the entire ninth and part of the eighth floor of the building. Other tenants include the Consulate General of the Netherlands, law firm Mintz Levin and health care logistics firm Strata Critical. Studio Grand Central occupies the sixth floor, offering coworking spaces, private offices and meeting rooms. Earlier this year, Tishman also parted ways with CitySpire, a 70-story office and condo tower on West 56th Street, selling the property to DelShah Capital for $135.7 million. Tishman Speyer declined to comment. Cathy Cunningham can be reached at ccunningham@commercialobserver.com,",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-07T14:20:13+00:00",
-      "bullets": [
-        "Tishman Speyer marketing 6 Grand Central (770,386 SF) for ~$450M; fee simple interest via Eastdil.",
-        "Class A office at Third Ave & East 42nd St, Grand Central submarket; direct Terminal access (one of 4).",
-        "Property renovated 2022, rebranded 2024; VanEck renewed 53,333 SF (9th & part 8th floor) for 10 years."
-      ],
-      "summary": "Tishman Speyer is marketing 6 Grand Central, a 770,386-square-foot Class A office tower at Third Avenue and East 42nd Street in Manhattan's Grand Central submarket, for approximately $450 million. The property, formerly known as 666 Third Avenue and acquired by Tishman in 1998, was last renovated in 2022 and rebranded in 2024 to emphasize its direct connection to Grand Central Terminal (one of only four postwar buildings with such access). Tenant VanEck recently renewed its 53,333-square-foot footprint for 10 years.",
-      "impact": "Tishman's $450M ask for trophy Grand Central office reflects capital recycling in an uncertain office market despite recent CMBS strength (per Article 5). Institutional tenant renewal (VanEck, 10-year) masks structural challenges in the broader Manhattan office stock. For multifamily: if 6 Grand Central or similar trophy assets trade below replacement cost or are repurposed, conversion risk could accelerate in Midtown submarkets with high-density zoning, adding supply pressure to adjacent residential markets."
-    },
-    {
-      "title": "Bridge Investment Group Provides $67M Refi for Value-Add Multifamily Outside Boston",
-      "link": "https://commercialobserver.com/2026/08/bridge-investment-group-67m-refi-eliot-on-ocean-revere/",
-      "excerpt": "Invictus Real Estate Partners has secured $67.2 million to refinance Eliot on Ocean, a 194-unit multifamily property in Revere Beach, Mass., a coastal submarket five miles outside of Boston. Bridge Investment Group Holdings provided the debt, structured as a three-year, floating-rate loan, while a JLL Capital Markets team of Scott Aiese, Tom Sullivan and Alex Staikos arranged the transaction. In a statement, Aiese spoke to the asset’s “irreplaceable location,” particularly because of the property’s transit connectivity, and noted that the deal is a value-add play for the sponsor who aims to capture higher market rents through capital improvements. &#8220;Revere Beach represents one of the few remaining value-add opportunities in Boston&#8217;s constrained waterfront multifamily market,&#8221; said Aiese, who noted that the Revere Beach market has received more than $1 billion in institutional investment since 2015. Located at 660 Ocean Avenue in Revere Beach — a three-mile waterfront corridor that is home to the first public beach in the United States — the seven-story Eliot on Ocean spans 143,252 square feet and opened in 2016. Aside from offering residents direct access to the beach, the apartment complex sits directly on the Massachusetts Bay Transportation Authority’s Wonderland Blue Line station, offering a trip into Downtown Boston in less than 35 minutes. Invictus Real Estate Partners plans to improve the lobby and shared amenity spaces and improve appliances and finishes throughout the complex, according to JLL. Brian Pascus can be reached at bpascus@commercialobserver.com. &nbsp;",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-07T14:02:07+00:00",
-      "bullets": [
-        "Bridge Investment Group provided $67.2M refi for Eliot on Ocean, 194-unit multifamily in Revere Beach, Mass.",
-        "Three-year floating-rate loan; property 5 miles outside Boston, waterfront location with transit connectivity.",
-        "Value-add sponsor targeting higher market rents via capital improvements; Revere Beach received $1B+ institutional investment since 2015."
-      ],
-      "summary": "Invictus Real Estate Partners secured $67.2 million in refinance financing from Bridge Investment Group Holdings for Eliot on Ocean, a 194-unit multifamily property in Revere Beach, Massachusetts, a coastal submarket five miles outside Boston. The loan is structured as a three-year floating-rate facility. The sponsor is pursuing a value-add strategy to capture higher market rents through capital improvements, leveraging the property's irreplaceable waterfront location and transit connectivity. Revere Beach has attracted over $1 billion in institutional investment since 2015.",
-      "impact": "Revere Beach's $1B+ institutional investment and value-add financing success signal strong Boston-area residential demand extending beyond core urban markets into secondary coastal corridors with transit access. Three-year floating-rate structure reflects Bridge's confidence in rate stability and rent-growth trajectory. For developers: Boston's constrained multifamily supply and limited waterfront inventory create scarcity value; coastal submarkets within 5–7 miles of downtown (Cambridge, Somerville, Revere) remain target for mid-rise development. Monitor transit improvements and income growth in nearby Route 128 tech corridor to validate demand elasticity."
+      "summary": "RXR, Halpern Real Estate Investments, Korman Communities, and Invent Development Partners secured $125 million in construction financing for AVE Station House, a 301-unit luxury multifamily development in Denver. The capital stack comprises a $100 million senior loan from Madison Realty Capital and a $25 million mezzanine loan from an insurance company. The project includes 271 market-rate units, 30 affordable units, 6,200+ square feet of ground-floor retail, and 290 secured parking spaces, with amenities including rooftop pool, fitness center, and spa. JLL Capital Markets and Hudson Realty Capital arranged the financing.",
+      "impact": "Successful construction financing for a 301-unit mixed-tenure development (91% market-rate, 10% affordable) at a 4:1 senior-to-mezz ratio indicates strong lender confidence in Denver's rental fundamentals and investor appetite for mixed-income communities with retail/mixed-use components. The use of insurance-company mezzanine capital suggests institutional confidence in completion risk; developers should view Denver as an open market for new supply with favorable financing conditions. The AVE project's size and financing profile suggest comparable Denver submarkets can support new-build development at moderate-to-low yields (likely 4–5% stabilized cap rates), which may compress returns for value-add players but validate underlying demand strength."
     }
   ]
 }
