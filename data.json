@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-07T12:41:44.808556+00:00",
+  "fetchedAt": "2026-08-07T14:06:06.543659+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -9,21 +9,81 @@
     },
     {
       "label": "10Y Treasury",
-      "value": "4.66%",
-      "pct": -0.13
+      "value": "4.63%",
+      "pct": -0.92
     },
     {
       "label": "30Y Treasury",
-      "value": "5.21%",
-      "pct": 0.04
+      "value": "5.19%",
+      "pct": -0.42
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "98.04",
-      "pct": -0.89
+      "value": "98.63",
+      "pct": 0.6
     }
   ],
   "stories": [
+    {
+      "title": "Bridge Investment Group Provides $67M Refi for Value-Add Multifamily Outside Boston",
+      "link": "https://commercialobserver.com/2026/08/bridge-investment-group-67m-refi-eliot-on-ocean-revere/",
+      "excerpt": "Invictus Real Estate Partners has secured $67.2 million to refinance Eliot on Ocean, a 194-unit multifamily property in Revere Beach, Mass., a coastal submarket five miles outside of Boston. Bridge Investment Group Holdings provided the debt, structured as a three-year, floating-rate loan, while a JLL Capital Markets team of Scott Aiese, Tom Sullivan and Alex Staikos arranged the transaction. In a statement, Aiese spoke to the asset’s “irreplaceable location,” particularly because of the property’s transit connectivity, and noted that the deal is a value-add play for the sponsor who aims to capture higher market rents through capital improvements. &#8220;Revere Beach represents one of the few remaining value-add opportunities in Boston&#8217;s constrained waterfront multifamily market,&#8221; said Aiese, who noted that the Revere Beach market has received more than $1 billion in institutional investment since 2015. Located at 660 Ocean Avenue in Revere Beach — a three-mile waterfront corridor that is home to the first public beach in the United States — the seven-story Eliot on Ocean spans 143,252 square feet and opened in 2016. Aside from offering residents direct access to the beach, the apartment complex sits directly on the Massachusetts Bay Transportation Authority’s Wonderland Blue Line station, offering a trip into Downtown Boston in less than 35 minutes. Invictus Real Estate Partners plans to improve the lobby and shared amenity spaces and improve appliances and finishes throughout the complex, according to JLL. Brian Pascus can be reached at bpascus@commercialobserver.com. &nbsp;",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-07T14:02:07+00:00",
+      "bullets": [
+        "Bridge Investment Group closes $67.2M refi for 194-unit Eliot on Ocean, Revere Beach, Mass.",
+        "Three-year floating-rate structure; sponsor targeting value-add rent growth via capital improvements.",
+        "Revere Beach waterfront received $1B+ institutional investment since 2015; supply-constrained Boston submarket."
+      ],
+      "summary": "Bridge Investment Group provided $67.2 million to refinance Eliot on Ocean, a 194-unit multifamily property in Revere Beach, Massachusetts, structured as a three-year floating-rate loan. The sponsor intends to execute a value-add strategy, capturing higher market rents through capital improvements while leveraging the asset's transit connectivity and waterfront location. Revere Beach has attracted over $1 billion in institutional investment since 2015, reflecting its position as one of Boston's few remaining supply-constrained value-add opportunities.",
+      "impact": "Floating-rate financing on a value-add play signals lenders' confidence in near-term rent growth, but rising SOFR/rates will compress sponsor returns in Boston's tight submarket. Revere Beach's $1B+ inflow suggests institutional capital is chasing limited supply—opportunity window narrowing for ground-up development; existing portfolio acquisitions and selective rehabs will command premium pricing as new supply dries up."
+    },
+    {
+      "title": "Polymarket Bets On a Second Floor at Manhattan’s 78 Crosby Street",
+      "link": "https://commercialobserver.com/2026/08/polymarket-78-crosby-office/",
+      "excerpt": "Predication and betting site Polymarket has doubled its footprint at 78 Crosby Street to 12,700 square feet, adding the fifth floor to the space it already leases on the fourth floor. Polymarket has been headquartered at the Lower Manhattan building since 2023. Its original lease for 6,350 square feet was also extended, with both deals now terminating in a future year that was not disclosed. The tenant was represented by Emilie Goldman of JLL, while property owner Milkystar was represented by Nicholas Judson, Wendy McDonald and Crosby Matthews of Judson CRE. The asking rent for the space was $85 per foot as demand for offices in SoHo has continually increased over the past year. The fourth floor was previously occupied by a satiric iteration of Enron, the Houston-based energy corporation that became the poster child for accounting fraud and filed for bankruptcy in 2001. The company used the floor in 2025 when it launched the fictitious &#8220;Egg&#8221; as a self-contained nuclear energy source. New York-based Polymarket allows users to bet on the outcome of sports games, the weather, politics and almost anything someone can think of. The 28-year-old founder and CEO, Shayne Coplan, is currently recognized as the world’s youngest self-made billionaire. Since its inception in 2020, Polymarket has raised roughly $2 billion and is now seeking to raise more funds to create a $15 billion valuation. In June, Polymarket processed $10.7 billion in trades on its crypto-based international exchange and $3.3 billion on its regulated U.S. exchange. The platform operates under its parent company, Blockratize.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-07T13:46:02+00:00",
+      "bullets": [
+        "Polymarket doubles footprint at 78 Crosby St., Manhattan, adding 5th floor to existing 4th-floor lease.",
+        "Asking rent $85/sf; original lease extended; total new space 12,700 sf (prior 6,350 sf).",
+        "SoHo office demand surging past year; tenant growth signals tech/fintech expansion in Lower Manhattan."
+      ],
+      "summary": "Prediction and betting platform Polymarket doubled its footprint at 78 Crosby Street in Lower Manhattan to 12,700 square feet by leasing the fifth floor while extending its original fourth-floor lease of 6,350 square feet. The asking rent was $85 per square foot. Both leases extend to an undisclosed future year, with JLL and Judson CRE brokering the transaction. The expansion underscores growing office demand in SoHo over the past year.",
+      "impact": "SoHo office asking rents of $85/sf reflect tight supply and flight-to-quality among fintech/crypto tenants seeking branded Class-A space; multifamily development in Lower Manhattan and Upper West Side neighborhoods will benefit from this continued tech-sector employment concentration and high-income tenant base, supporting stronger rental demand and pricing power."
+    },
+    {
+      "title": "U.S. Payrolls Unexpectedly Shrink by 23,000 as Unemployment Slips to 4.1%",
+      "link": "https://www.connectcre.com/stories/u-s-payrolls-unexpectedly-shrink-by-23000-as-unemployment-sips-to-4-1/",
+      "excerpt": "U.S. employers unexpectedly shed 23,000 jobs in July, falling far short of the&nbsp;88,000 gain&nbsp;projected by economic consensus, according&nbsp;to data released by the U.S. Bureau of Labor Statistics.&nbsp; &nbsp; The drop was compounded by sharp downward revisions to prior months. May payroll additions were revised down by 66,000 to 63,000, while June figures were trimmed by 37,000 to 20,000.&nbsp;Combined, employment across May and June was 103,000 lower than previously reported.&nbsp; Despite payroll contractions, the unemployment rate edged down to 4.1% from 4.2% in June, beating the 4.2% consensus estimate. The decline was&nbsp;largely driven&nbsp;by a shrinking labor force, as the participation rate ticked down to 61.4% from 61.5%.&nbsp; The softening labor data could remove some urgency for the Federal Reserve to raise interest rates. The figures bolster arguments among policymakers who expect inflation to cool in the second half of the year as housing costs ease and the economic impact of President Trump’s tariffs begins to fade. The post U.S. Payrolls Unexpectedly Shrink by 23,000 as Unemployment Slips to 4.1% appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-07T13:06:18+00:00",
+      "bullets": [
+        "U.S. payrolls contracted 23,000 in July; May & June revised down 103,000 combined; unemployment 4.1%.",
+        "Labor force participation fell to 61.4% from 61.5%; job losses offset by lower participation.",
+        "Softening data reduces Fed urgency to raise rates; inflation and tariff impacts expected to ease."
+      ],
+      "summary": "U.S. employers unexpectedly shed 23,000 jobs in July, far below the consensus 88,000 gain projection. Prior months saw sharp downward revisions—May cut by 66,000 and June by 37,000, totaling 103,000 lower employment across the two months. Despite payroll contraction, the unemployment rate edged down to 4.1%, largely driven by a declining labor force participation rate of 61.4%. The softening labor data and moderating inflation outlook may ease pressure on the Federal Reserve to raise rates.",
+      "impact": "Unexpectedly weak job growth and falling participation signal slowing demand-side momentum, which could moderate rent growth expectations nationwide and ease competitive pressure on multifamily operators to raise rents aggressively. However, rate-hold or cut expectations improve development financing feasibility (lower SOFR, tighter cap rates) and could unlock stalled value-add and new-construction projects underwritten at higher rate assumptions."
+    },
+    {
+      "title": "Newmark Group CEO Barry Gosin to Step Down at Year’s End",
+      "link": "https://www.connectcre.com/stories/newmark-group-ceo-barry-gosin-to-step-down-at-years-end/",
+      "excerpt": "Newmark Group, Inc. said Friday that Barry Gosin will step down as CEO at the end of 2026. Gosin has served in this role since 1979. He will continue as chairman of Newmark &amp; Company Real Estate, Inc., Newmark&#8217;s operating company, to focus on relevant and impactful topics, as well as to support a seamless transition. &#8220;I have spent nearly my entire career at Newmark, working alongside an exceptional team whose dedication, talent and commitment have made the company&#8217;s success possible,&#8221; said Gosin. &#8220;The company is stronger than ever, our strategy is working and the opportunities ahead are substantial, which is why I believe now is the right time to take a step back from day-to-day operations to focus solely on matters that will make a difference to Newmark, and to support the company through this transition.&#8221; Added Stephen Merkel, chairman of the board, EVP and chief legal officer of Newmark, &#8220;We are delighted that Barry will remain with the company as chairman of the operating company to help the next generation of leadership as they guide Newmark through its next chapter of growth. For nearly five decades, Barry, along with his entire leadership team, have led Newmark through some of its most consequential milestones, including its initial public offering in 2017 and becoming the fastest growing publicly traded commercial real estate firm in the world, increasing annual revenues by over 1,400% since 2011 while expanding to more than 10,000 professionals across approximately 195 locations.&#8221; In connection with this announcement, Gosin entered into an amended and restated employment agreement to remain as chairman of Newmark &amp; Co. up to 2029. The board expects to identify a new CEO by year end. The post Newmark Group CEO Barry Gosin to Step Down at Year&#8217;s End appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-07T13:00:00+00:00",
+      "bullets": [
+        "Barry Gosin steps down as Newmark CEO Dec. 31, 2026; held role since 1979.",
+        "Gosin transitions to chairman of operating company; successor to be named by year-end.",
+        "Newmark operates 10,000 professionals across 195 offices; company positioned 'stronger than ever.'"
+      ],
+      "summary": "Barry Gosin will step down as CEO of Newmark Group at the end of 2026 after holding the position since 1979. He will remain as chairman of Newmark & Company Real Estate (the operating company) to support a seamless leadership transition. The board will name a successor by year-end. Gosin noted the company is 'stronger than ever' with substantial growth opportunities ahead.",
+      "impact": "Minimal direct impact on multifamily development. Newmark leadership transition does not materially affect capital markets, underwriting standards, or financing availability; watch for new CEO's strategic focus (e.g., emphasis on brokerage vs. capital markets services) that could shift broker-provided market intelligence and deal flow to multifamily teams."
+    },
     {
       "title": "Barry Gosin Stepping Down as Newmark’s CEO",
       "link": "https://commercialobserver.com/2026/08/barry-gosin-newmark-exit/",
@@ -32,12 +92,12 @@
       "cat": "Commercial",
       "date": "2026-08-07T12:00:55+00:00",
       "bullets": [
-        "Barry Gosin steps down as Newmark CEO Dec. 31 after 45 years; becomes chairman.",
-        "Newmark operates 10,000 professionals across 195 offices; leadership transition underway.",
-        "No direct multifamily development impact; brokerage/advisory firm leadership change."
+        "Barry Gosin exits Newmark CEO role Dec. 31; 47-year tenure; successor named by end of 2026.",
+        "Newmark operates 10,000 professionals in 195 offices; company strength confirmed.",
+        "Transition aims for continuity; Gosin remains as chairman of operating company."
       ],
-      "summary": "Barry Gosin, who has led Newmark since 1979, will step down as CEO on December 31 and transition to chairman. The firm, which operates 10,000 professionals across 195 offices, will name a successor by year-end. Gosin cited the company's strength and substantial opportunities ahead as reasons for the transition.",
-      "impact": "Minimal direct impact on multifamily development. Newmark is primarily a brokerage and capital advisory firm; leadership transitions at service providers do not directly affect demand, supply, construction costs, or financing availability for apartment communities."
+      "summary": "Newmark announced that CEO Barry Gosin, who has led the firm since 1979, will step down on December 31, 2026. The 75-year-old Gosin will transition to chairman of Newmark & Company Real Estate, the company's operating entity, to facilitate a smooth handover to a successor to be named by year-end. Newmark emphasized that the company is at peak strength with 10,000 professionals across 195 offices.",
+      "impact": "Duplicate of Article 4; no incremental multifamily impact."
     },
     {
       "title": "TPG AG, Redfearn Capital Acquire Industrial Portfolio for $628M",
@@ -47,12 +107,12 @@
       "cat": "Commercial",
       "date": "2026-08-07T11:00:42+00:00",
       "bullets": [
-        "TPG AG, Redfearn Capital acquire 5.4M-sf industrial portfolio for $628M from DRA Advisors.",
-        "53-building portfolio spans FL, GA, NC, TN, MN, IL, OR; 87% occupied, shallow-bay focus.",
-        "BDT & MSD Partners provided $479M construction/bridge financing; majority assets in Southeast (Tampa, Atlanta, Charlotte)."
+        "TPG AG & Redfearn Capital acquire 5.4M sf industrial portfolio, 53 buildings, $628M; BDT & MSD loan $479M.",
+        "87% occupied; majority shallow-bay assets in Tampa, Atlanta, Charlotte; logistics and manufacturing mix.",
+        "Value-add strategy via capital investment; co-managed by Atlanta Property Group & Matterhorn Venture Partners."
       ],
-      "summary": "TPG AG U.S. Real Estate and Redfearn Capital acquired a 5.4 million-square-foot, 53-building industrial portfolio for $628 million, with financing of $479 million from BDT & MSD Partners. The portfolio is 87% occupied and spread across seven states, with the majority located in high-barrier-to-entry Southeast markets including Tampa, Atlanta, and Charlotte. TPG plans capital investment to add value to the shallow-bay logistics and manufacturing assets.",
-      "impact": "This signals strong capital appetite for industrial in high-growth Southeast corridors, particularly Tampa, Atlanta, and Charlotte—markets also experiencing multifamily demand. The $628M deal confirms investor confidence in these Sun Belt logistics hubs, which typically correlate with population in-migration and job growth that strengthen apartment fundamentals. Capital deployed here may compete with development financing in overlapping metros."
+      "summary": "TPG AG U.S. Real Estate and Redfearn Capital acquired a 5.4 million-square-foot industrial portfolio from DRA Advisors for $628 million, financed in part by an $479 million loan from BDT & MSD Partners. The 53-building portfolio of 87% occupied logistics and manufacturing properties spans Florida, Georgia, North Carolina, Tennessee, Minnesota, Illinois, and Oregon, with the majority in high-barrier Southeast markets (Tampa, Atlanta, Charlotte). The buyer plans value-add capital investment across the portfolio.",
+      "impact": "Continued institutional appetite for industrial across supply-constrained Southeast markets (Tampa, Atlanta, Charlotte) signals job growth and logistics expansion in these regions; multifamily developers should anticipate population inflow from e-commerce and 3PL employment, supporting rental demand in submarkets near major industrial corridors, particularly in Atlanta and Tampa where multifamily supply is also tight."
     },
     {
       "title": "The New Role of Transitional Debt in Commercial Real Estate Finance",
@@ -62,12 +122,12 @@
       "cat": "Commercial",
       "date": "2026-08-07T05:01:00+00:00",
       "bullets": [
-        "Life insurers, private credit funds replace banks as primary CRE transitional lenders.",
-        "Banks face stricter capital/regulatory requirements; shift to warehouse financing and back leverage roles.",
-        "Property valuations reset post-rate shock; transitional lending now core strategy, not temporary solution."
+        "Life insurers and private credit funds replacing banks as primary CRE lenders; transitional debt becoming core strategy.",
+        "Bank regulatory constraints reduce balance-sheet appetite; banks shift to warehouse/back-leverage roles.",
+        "Property valuations reset post-rate shock; loan maturities wave creates demand for transitional capital."
       ],
-      "summary": "Following tighter banking regulations and property valuation resets post-rate shock, life insurance companies and private credit funds are becoming primary sources of transitional CRE financing, while banks reduce direct exposure and instead provide warehouse financing and back leverage. Transitional lending, once viewed as temporary, is now a core long-term strategy as borrowers bridge the gap between traditional mortgages and opportunistic debt.",
-      "impact": "Critical for multifamily developers: non-bank lenders (life insurers, credit funds) will dominate construction and bridge financing for apartment projects. Borrowing terms, pricing, and availability will now depend on these alternative sources rather than traditional bank lending. Developers should expect higher spreads, shorter terms, and stronger equity requirements from private lenders; this favors larger, well-capitalized sponsors and may slow development velocity for smaller operators."
+      "summary": "Transitional debt has evolved from a temporary financing solution into a core strategy for life insurers and private credit funds as banks withdraw from direct commercial real estate lending. Banks face tighter regulatory capital requirements and reduced appetite to hold CRE loans on balance sheets, instead providing warehouse and back-leverage financing to private lenders. Lower property valuations, heightened banking regulations, and a wave of maturing loans are reshaping the CRE financing landscape.",
+      "impact": "Shift toward non-bank lenders (life insurers, private credit) narrows bank-originated multifamily loan availability and increases borrowing costs and execution risk for standard bridge and construction financing; developers with strong sponsor pedigree or off-market deal sourcing will access private debt, while marginal projects face capital starvation. Opportunity for developers with balance sheets to acquire distressed or value-add assets at wider cap rates as refinance deadlines approach."
     },
     {
       "title": "The Forces Impacting CRE as AI, Energy and Supply Constraints Take Hold",
@@ -77,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-08-07T05:01:00+00:00",
       "bullets": [
-        "Middle East conflict, Strait of Hormuz closure, trade tensions drive inflation, interest rate uncertainty.",
-        "Energy, commodity, freight disruptions elevate cost management to primary business driver for corporates.",
-        "Higher fuel, materials, logistics costs impact construction budgets, fit-out expenses, and project timelines."
+        "JLL mid-year update: geopolitical conflicts (Middle East, Strait of Hormuz) raise inflation, disrupt supply chains.",
+        "Energy, commodity, freight costs elevated to primary business driver; higher construction expenses, fit-out costs, slower timelines.",
+        "Trade tensions resurface; interest-rate outlook reversed from early-2026 optimism; lower growth, higher inflation expected."
       ],
-      "summary": "JLL's mid-year 2026 update revises its January outlook downward due to Middle East conflict, closure of the Strait of Hormuz, and continued trade tensions. The firm now expects lower growth, higher inflation, and interest rate uncertainty. Energy, commodity, and freight disruptions are forcing cost control to become a primary business driver, with direct impacts on construction expenses, fit-out costs, and project timelines.",
-      "impact": "Multifamily developers face immediate cost inflation risk: construction materials, labor, and logistics are rising due to geopolitical supply-chain disruptions. Project timelines will lengthen, hurting time-to-stabilization and increasing carrying costs. Developers should lock in hard bids and material prices now; those with flexibility in entitlements may consider delaying starts until supply-chain costs stabilize. Inflation also pressures construction lending availability and cap rates, making underwriting tighter."
+      "summary": "JLL's mid-year 2026 global real estate outlook downgrades prior-year forecasts due to Middle East conflict, Strait of Hormuz closure, and renewed trade tensions. The revised forecast expects lower growth, higher inflation, and rising interest rates—reversing early-2026 optimism. Energy, commodity, and freight disruptions have elevated cost management from a priority to a primary business driver, increasing construction expenses, fit-out costs, and project timelines.",
+      "impact": "Rising construction costs (labor, materials, energy, logistics) directly compress multifamily development margins and extend project delivery timelines; higher inflation and reversing rate expectations increase debt service costs on floating-rate construction and bridge loans. Developers must accelerate entitlements and cost-lock materials, or reset underwriting to assume higher hard costs and longer interest carry—narrowing feasibility on new starts, favoring acquisition of near-complete stabilized assets over ground-up development."
     },
     {
       "title": "Q2: U.S. Industrial Market Moves Toward Balance as Demand Outpaces New Supply",
@@ -92,42 +152,12 @@
       "cat": "Commercial",
       "date": "2026-08-07T05:01:00+00:00",
       "bullets": [
-        "U.S. industrial vacancy stabilizes in Q2 2026; demand outpaces new deliveries for first time in quarters.",
-        "Larger warehouse/distribution demand drives vacancy decline from late 2024 peak; shallow-bay vacancy edges up modestly.",
-        "Third-party logistics providers, manufacturers drive leasing; speculative projects absorbed faster than pre-pandemic norms."
+        "U.S. industrial vacancy stabilized Q2 2026; demand outpaced new deliveries for first time in quarters.",
+        "Shallow-bay vacancy modest uptick; larger warehouse/distribution facilities drove improved absorption.",
+        "Developers disciplined on new supply; third-party logistics (3PL) & manufacturers primary demand drivers."
       ],
-      "summary": "The U.S. industrial market showed signs of stabilization in Q2 2026, with demand beginning to outpace new deliveries for the first time in several quarters. The national industrial vacancy rate stabilized after steadily increasing; larger warehouse and distribution demand helped drive vacancy down from its late 2024 peak, though shallow-bay product saw modest vacancy increases. Third-party logistics providers and manufacturers were the primary sources of leasing activity.",
-      "impact": "While this is positive for industrial, it signals a bifurcated market: large-format logistics assets are tight and in demand, while traditional shallow-bay supply remains soft. Multifamily developers should note that strong logistics leasing in Sun Belt metros (Atlanta, Charlotte, Tampa) reinforces population and job growth trends in those regions, supporting apartment demand. However, note that industrial discipline (fewer starts) reflects broader CRE caution; multifamily should also expect disciplined supply in competitive markets."
-    },
-    {
-      "title": "Fintech Firm More Than Doubles Footprint at 10 Astor Place",
-      "link": "https://www.connectcre.com/stories/494116-2/",
-      "excerpt": "GFP Real Estate said Thursday that Maybern, a financial technology company specializing in fund management solutions for private markets, has signed a long-term lease expansion at 10 Astor Place, more than doubling its footprint at the property from approximately 11,000 square feet to 30,000 square feet. The expansion encompasses the property&#8217;s entire fourth floor. Maybern originally relocated to 10 Astor Place in 2024. Neith Stone of GFP Real Estate represented ownership, alongside Rob Silver, Anthony Sciacca and Brittany Silver of Newmark. Jonathan Franzel and Leo Kone of Newmark represented the tenant. &#8220;In today&#8217;s market, expansion tells a more meaningful story than relocation,&#8221; said&nbsp;Stone.&nbsp; &#8220;When an existing tenant more than doubles its footprint and commits for the long term, it&#8217;s a powerful vote of confidence.&nbsp; Tenants are drawn to boutique buildings like 10 Astor Place because they offer what new construction can&#8217;t replicate: enduring architecture, unmatched character and the kind of hands-on ownership today&#8217;s companies value.&#8221; The post Fintech Firm More Than Doubles Footprint at 10 Astor Place appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-06T21:50:38+00:00",
-      "bullets": [
-        "Fintech Maybern doubles footprint at 10 Astor Place in Manhattan, 11K to 30K sf, long-term lease.",
-        "Expansion occupies entire fourth floor; tenant originally relocated to property in 2024.",
-        "Brokers cite expansion (vs. relocation) as vote of confidence; boutique architecture attracts over new construction."
-      ],
-      "summary": "Fintech firm Maybern signed a long-term lease expansion at 10 Astor Place in Manhattan, more than doubling its footprint from approximately 11,000 square feet to 30,000 square feet and occupying the entire fourth floor. The firm originally relocated to the property in 2024. Brokers noted that tenant expansion—rather than relocation—signals confidence, as companies value the building's boutique character and hands-on ownership.",
-      "impact": "Minimal direct multifamily impact. This is an office lease transaction in Manhattan, not residential. However, it suggests some stabilization in NYC office leasing and fintech tenant confidence, which could support secondary demand for housing in Manhattan neighborhoods; the broader take is that office occupiers are less mobile than feared."
-    },
-    {
-      "title": "Production Fabrication Firm Relocates to Rancho Dominguez",
-      "link": "https://www.connectcre.com/stories/production-fabrication-firm-relocates-to-rancho-dominguez/",
-      "excerpt": "DAUM&nbsp;Commercial Real Estate Services completed a 10-year lease agreement for a 35,333 square-foot industrial property at 2945 East Maria St. in Rancho Dominguez on behalf of landlord Crown Associates Realty, Inc. The facility will serve as the West Coast operations hub for Cactus Fabrication, a company specializing in production fabrication for television, film and music videos. The new tenant is relocating from a smaller property in Los Angeles to better accommodate its growing operations, said Chuck Brill, an EVP and principal at&nbsp;DAUM&nbsp;who also serves as co-branch manager of the firm’s South Bay Office. “In addition to providing the larger footprint that the tenant requires, the asset’s quality, heavy electrical capacity, and functional layout featuring a large secured side yard and separate front-loading area is very well suited to their business needs,” Brill said. “Further, ownership has invested significantly in modernizing the building to like-new condition with superior office space, creating a true best-in-class industrial asset that will also act as a tool for attracting employees and creating a strong first impression for customers and business partners.” Hear from the West Coast’s Leading Industrial Real Estate Experts | August 20Gain firsthand insight from the executives, investors, and developers navigating today’s industrial market. From shifting capital flows and debt trends to evolving occupier demand and development strategies, take part in the conversations shaping the future of industrial real estate. Register now: www.connectindustrialwest2026.com The post Production Fabrication Firm Relocates to Rancho Dominguez appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-06T21:41:50+00:00",
-      "bullets": [
-        "Cactus Fabrication relocates to Rancho Dominguez industrial space, 35.3K sf, 10-year lease.",
-        "Tenant moving from smaller LA property to accommodate growth; property features heavy electrical, secured yard.",
-        "Crown Associates Realty landlord; DAUM brokered; South Bay industrial market showing tenant expansion/relocation activity."
-      ],
-      "summary": "Cactus Fabrication, a production fabrication company serving television, film, and music video industries, signed a 10-year lease for a 35,333-square-foot industrial facility at 2945 East Maria Street in Rancho Dominguez, serving as the firm's West Coast operations hub. The tenant is relocating from a smaller Los Angeles property to accommodate growth. The landlord, Crown Associates Realty, has modernized the building to best-in-class condition with heavy electrical capacity and functional layout.",
-      "impact": "South Bay / Rancho Dominguez industrial strength reflects broader Los Angeles region demand for functional, modern warehouse and production space. This signals tenant growth in LA's creative/media economy, which often correlates with millennial and young professional in-migration—a key multifamily demographic. Developers should monitor LA creative districts (Santa Monica, Venice, Silver Lake) for multifamily demand tied to entertainment industry job growth."
+      "summary": "The U.S. industrial market showed signs of stabilization in Q2 2026, with demand outpacing new deliveries for the first time in several quarters. National industrial vacancy rates stopped rising and began to normalize from late-2024 peaks, though shallow-bay product saw modest vacancy increases. Strong leasing from third-party logistics providers and manufacturers drove absorption of recently completed speculative projects. Developer discipline on new supply suggests a market moving toward equilibrium after two years of oversupply.",
+      "impact": "Industrial supply rebalancing (supply discipline, rising demand) will support rent growth and cap-rate compression in primary logistics markets; multifamily developers in industrial-adjacent submarkets (Atlanta, Charlotte, Dallas, Inland Empire) benefit from sustained 3PL and manufacturing employment inflows and population growth. Expect logistics-led infill urban multifamily to command premiums as workers cluster near major distribution hubs."
     },
     {
       "title": "Mermaid Inn Restaurateurs Ink 2K SF at 61 West 74th Street for New Eatery",
@@ -137,42 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-06T20:22:28+00:00",
       "bullets": [
-        "Mermaid Inn restaurateurs sign 2.3K-sf lease at 61 West 74th St, Manhattan Upper West Side.",
-        "Lease at $130/sf; follows Patsy's Pizzeria closure in January citing rising costs and lease end.",
-        "Retail spot located between Columbus Ave and Central Park West; existing anchor tenant relocating nearby."
+        "Mermaid Inn founders (Abrams, Smith) lease 2,300 sf at 61 W. 74th St., Upper West Side, NYC.",
+        "Rent $130/sf; site near Columbus Ave & Central Park West; prior Patsy's Pizzeria tenant.",
+        "Rising Upper West Side restaurant costs cited as cause of prior tenant closure in January."
       ],
-      "summary": "Danny Abrams and Cindy Smith, founders of Mermaid Inn, signed a 2,300-square-foot lease plus basement space at 61 West 74th Street on Manhattan's Upper West Side at $130 per square foot. The location, between Columbus Avenue and Central Park West, previously housed Patsy's Pizzeria, which closed in January due to lease expiration and rising costs. The new venture is positioned one block south of the existing Mermaid Inn location.",
-      "impact": "Minimal multifamily impact. This is a retail lease transaction. However, it signals continued retail challenges on the Upper West Side—Patsy's cited rising costs—which reflects broader NYC commercial real estate pressure but does not directly affect apartment supply, demand, or financing."
-    },
-    {
-      "title": "Nordstrom Rack Takes 22K SF in Wellington, Fla.",
-      "link": "https://commercialobserver.com/2026/08/nordstrom-rack-retail-lease-florida-metlife/",
-      "excerpt": "nordstrom Rack has signed a 22,000-square-foot lease in Wellington, Fla., the Seattle-based retailer announced Thursday. Nordstrom Rack is the discount concept run by Nordstrom. The new store, set to open in spring 2027, will be at The Shoppes at Isla Verde at 800-1020 South State Road 7. Other tenants include Best Buy, Homesense, Total Wine &amp; More, Petco, Old Navy, Ulta and Rack Room Shoes. Terms of the lease were not disclosed. MetLife Investment Management owns the shopping center, while Urban Retail Properties manages the property. MetLife acquired the 207,000-square-foot property in 2018 for $73.75 million, records show. The Shoppes at Isla Verde has experienced some tenant turnover in recent years. A Joann Fabrics store closed in 2025 as that retailer went out of business. According to bankruptcy filings, Joann Fabrics had occupied 21,600 square feet at the plaza since 2008. In another departure, organic grocer Sprouts closed its location at Shoppes at Isla Verde in 2023. Nordstrom Rack sells off-price apparel, accessories, beauty products, home decor and shoes. Nordstrom said it operates 23 Nordstrom Rack stores in Florida. Its Palm Beach County locations include stores in Palm Beach Gardens, West Palm Beach, Delray Beach and Boca Raton. Jeff Ostrowski can be reached at jostrowski@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-06T18:25:03+00:00",
-      "bullets": [
-        "Nordstrom Rack signs 22K-sf lease in Wellington, FL at The Shoppes at Isla Verde.",
-        "Store opens spring 2027; co-tenants include Best Buy, Homesense, Total Wine, Old Navy, Ulta.",
-        "Shopping center experienced turnover: Joann Fabrics closed 2025 (21.6K sf), Sprouts closed 2023; MetLife owns property."
-      ],
-      "summary": "Nordstrom Rack, the discount retail concept of Nordstrom, signed a 22,000-square-foot lease in Wellington, Florida at The Shoppes at Isla Verde, scheduled to open in spring 2027. The shopping center is anchored by other tenants including Best Buy, Homesense, Total Wine & More, and Old Navy. The property, owned by MetLife Investment Management, has experienced recent tenant turnover, including the 2025 closure of Joann Fabrics (21,600 sf) and the 2023 closure of Sprouts.",
-      "impact": "Positive signal for South Florida (Wellington/West Palm Beach area) retail stabilization and consumer spending. Nordstrom Rack's commitment to new openings suggests confidence in population growth and household formation in South Florida markets—demand that also supports multifamily development. Wellington is a growing exurban market with young family and millennial in-migration; retail strength here correlates with apartment demand in and around Palm Beach County."
-    },
-    {
-      "title": "Immigration Law Firm Manifest Law Subleases 18K SF at 902 Broadway",
-      "link": "https://commercialobserver.com/2026/08/manifest-law-sublease-koeppel-rosen-902-broadway/",
-      "excerpt": "The immigration attorneys at Manifest Law will be making some of their own moves, Commercial Observer has learned. The law firm signed a 18,200-square-foot sublease at Koeppel Rosen’s 902 Broadway, where it will be taking over space previously occupied by Adaptive Security, according to tenant brokerage Nomad Group. Asking rent for the space was $75 per square foot. Manifest Law will move into the entire eighth floor nearly four months after the artificial intelligence-powered cybersecurity company firm signed a 51,220-square-foot sublease of its own from BarkBox at Silverstein Properties’ 120 Broadway. 902 Broadway spans the length of Broadway between East 20th and East 21st streets, between the landmark Flatiron Building and Union Square. “Manifest’s move underscores Union Square and Flatiron’s emergence as a destination for ambitious AI companies committed to NYC and in-person collaboration,” Nomad’s Bill Janetschek, who represented Manifest Law alongside Nick Hein and Matthew DeRose, said in a statement. “Following its record-setting $60 million Series A, Manifest needed an HQ equal to its trajectory and a team capable of moving at its speed.” Christopher Foerch and Zev Holzman of Savills handled negotiation on behalf of Adaptive Security, but did not immediately respond to a request for comment. Manifest Law is relocating about five blocks from 333 Park Avenue South, according to Nomad Group. Other recent deals signed at 902 Broadway were for law firm Fenwick &amp; West, which expanded to 72,800 square feet across four floors in June, and real estate development firm Hudson Companies taking 18,200 square feet in March. Mark Hallum can be reached at mhallum@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-06T18:02:25+00:00",
-      "bullets": [
-        "Immigration law firm Manifest Law subleases 18.2K sf at 902 Broadway (Flatiron), Manhattan.",
-        "Tenant takes entire eighth floor after cybersecurity firm Adaptive Security sublet; Manifest raised $60M Series A.",
-        "Nomad brokerage notes Union Square/Flatiron emerging as AI company destination for in-person collaboration."
-      ],
-      "summary": "Immigration law firm Manifest Law signed an 18,200-square-foot sublease at 902 Broadway (Flatiron Building area) in Manhattan, occupying the entire eighth floor previously held by AI-powered cybersecurity firm Adaptive Security. Manifest Law recently raised a $60 million Series A and is seeking office space reflective of its growth trajectory and commitment to in-person collaboration in New York City.",
-      "impact": "Modest positive signal for Manhattan office leasing and tech/AI tenant demand in the Union Square/Flatiron neighborhood, but primarily reflects office sector, not multifamily. However, the continued influx of well-capitalized AI and fintech companies to NYC (Series A rounds, expansions) reinforces job growth in high-wage sectors, supporting rental demand from young professionals in Manhattan and outer-borough multifamily markets."
+      "summary": "Restaurateurs Danny Abrams and Cindy Smith, founders of the Mermaid Inn, have leased 2,300 square feet at 61 West 74th Street on Manhattan's Upper West Side for a new restaurant concept. The lease was signed at $130 per square foot and includes basement space. The location previously housed Patsy's Pizzeria, which closed in January citing rising costs and end-of-lease terms.",
+      "impact": "Minimal direct impact on multifamily development. Restaurant leasing activity and rising rents on Upper West Side reflect consumer demand and affluent residential base; sustained restaurant and retail activation signals healthy neighborhood fundamentals supporting adjacent multifamily valuations but does not materially affect supply, demand, capital, or cost in the residential sector."
     }
   ]
 }
