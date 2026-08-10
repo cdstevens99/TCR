@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-10T19:48:24.446450+00:00",
+  "fetchedAt": "2026-08-10T20:32:32.800195+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -19,11 +19,26 @@
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "97.14",
-      "pct": -1.31
+      "value": "97.11",
+      "pct": -1.34
     }
   ],
   "stories": [
+    {
+      "title": "Law Firm Dunn Isaacson Rhee Takes 11K SF at 7 World Trade Center",
+      "link": "https://commercialobserver.com/2026/08/dunn-isaacson-rhee-lease-7-world-trade-center/",
+      "excerpt": "Washington D.C.-based law firm Dunn Isaacson Rhee is establishing a new office in New York City. The firm, which specializes in high stakes trials, investigations and crisis management, has inked an 11,167-square-foot lease on the 34th floor of 7 World Trade Center, developer and landlord Silverstein Properties announced Monday. Silverstein did not disclose the length of the lease or the asking rent. However, a source close to the deal noted asking rents in the building range from $100 to $150 per square foot. The average asking rent for Class A office space at the World Trade Center was $78.37 per square foot during the second quarter of 2026, according to Colliers data. “We are excited to welcome our teams and our clients into our new Manhattan office later this year,” Jeannie Rhee, managing partner of Dunn Isaacson Rhee, said in a statement. “7 World Trade Center offers the ideal combination of thoughtful design, functionality, and a premier location in the heart of the Financial District and a stone’s throw to the Southern District of New York courthouse.” Dunn Isaacson Rhee will relocate from 11 Park Place, also in the Financial District. It’s unclear when the firm will make the move. Dunn Isaacson Rhee did not immediately respond to Commercial Observer’s request for comment. Lisa Ann Pollakowski, Cory Gahr and Richard Plehn from Lee &amp; Associates represented the tenant in the deal, while Silverstein was represented in-house by Keith A. Cody, Gordon Hough and Harlan Strader, as well as by CBRE’s MaryAnn Tighe. Lee &amp; Associates did not immediately respond to CO’s request for comment. “Dunn Isaacson Rhee represents the caliber of organization that continues to define 7 World Trade Center as one of Downtown Manhattan’s premier office destinations,” Silverstein’s Cody said in a statement. “Today’s leading firms are seeking workplaces that reflect their brand, support their people and provide an exceptional experience for their clients. Through thoughtful des",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-10T19:59:31+00:00",
+      "bullets": [
+        "Dunn Isaacson Rhee (D.C. law firm) leases 11.2K SF at 7 World Trade, Manhattan",
+        "Asking rents $100–$150/SF vs. WTC average $78.37/SF in Q2 2026; premium 27–91%",
+        "Office tenant demand signals Financial District desirability despite pricing above submarket norm"
+      ],
+      "summary": "Washington D.C.-based law firm Dunn Isaacson Rhee signed an 11,167-SF lease on the 34th floor of 7 World Trade Center in Lower Manhattan at asking rents between $100–$150/SF, significantly above the World Trade Center's Q2 2026 Class A average of $78.37/SF. The firm is establishing a new NYC office to serve high-stakes litigation and crisis management clients. Silverstein Properties' flagship asset continues to attract premium tenants despite broader Manhattan office headwinds.",
+      "impact": "Law firm expansion into NYC signals confidence in Financial District and WTC's tenant appeal, but premium rents ($27–72/SF above submarket) underscore bifurcated office market: Class A trophy assets command pricing power while secondary stock languishes. This does NOT improve residential demand or supply dynamics in Lower Manhattan directly, but sustained office vitality may support ancillary retail and hospitality that indirectly benefits mixed-use residential conversions."
+    },
     {
       "title": "Alliance for Downtown New York Takes 14K SF at 42 Broadway",
       "link": "https://commercialobserver.com/2026/08/alliance-for-downtown-new-york-lease-42-broadway/",
@@ -32,12 +47,12 @@
       "cat": "Commercial",
       "date": "2026-08-10T19:21:31+00:00",
       "bullets": [
-        "Alliance for Downtown New York leased 14,420 SF at 42 Broadway in Lower Manhattan.",
-        "Downtown Alliance relocating operations division; HQ remains at 120 Broadway three blocks north.",
-        "Lower Manhattan office asking rents averaged $61.91/SF in July 2024."
+        "Alliance for Downtown NY relocates ops to 42 Broadway, 14.4K SF lease in Financial District",
+        "Lower Manhattan office rents $61.91/SF (July); BID expansion suggests neighborhood stabilization",
+        "Nonprofit consolidation within 3-block radius (120 Broadway HQ remains) reinforces downtown institutional anchoring"
       ],
-      "summary": "The Downtown Alliance, which manages Lower Manhattan's business improvement district, expanded its footprint by leasing 14,420 square feet at 42 Broadway in the Financial District. The nonprofit is moving its operations division to the 22-story tower while maintaining headquarters at 120 Broadway. The transaction reflects sustained office demand in Lower Manhattan, where average asking rents stood at $61.91 per square foot as of July.",
-      "impact": "Minimal direct impact on multifamily development. This is an office lease by a nonprofit tenant and signals stable institutional demand in Lower Manhattan, but does not materially affect apartment construction, demand, or financing dynamics in the metro."
+      "summary": "The Alliance for Downtown New York (the Financial District's business improvement district) leased 14,420 SF at 42 Broadway to relocate its operations division, while maintaining headquarters at Silverstein's 120 Broadway three blocks north. Office asking rents in Lower Manhattan averaged $61.91/SF in July, per CBRE. The transaction was brokered by JLL; landlord Cammeby's International Group confirmed the deal, with space still under construction.",
+      "impact": "BID expansion and operational consolidation in Lower Manhattan signals institutional confidence in Financial District recovery and suggests sustained capital flowing into downtown office recovery, but the submarket's lower average rent ($61.91/SF) versus WTC flagship ($78.37/SF) indicates severe flight-to-quality and secondary-asset distress. For multifamily, this affirms Financial District office stabilization that could support mixed-use and residential conversions targeting affluent financial services workers, but primary demand is still concentrated in trophy assets, not broad-based neighborhood revival."
     },
     {
       "title": "New York’s Rent Freeze Was Only An Aftershock. This 2019 Law Was The Quake.",
@@ -47,12 +62,12 @@
       "cat": "Commercial",
       "date": "2026-08-10T19:00:45+00:00",
       "bullets": [
-        "NYC rent-stabilized owner reports 2+ of 45 units vacant 2+ years due to $30K–$60K rehab costs.",
-        "2019 rent regulation law (RGB) cap rent growth below rehab economics for small landlords.",
-        "Owners unable to justify capital reinvestment under stabilized rent ceilings; units remain offline."
+        "NYC rent-stabilized owner (45-unit Manhattan portfolio) reports 2+ units vacant 2+ years due to economics",
+        "Rehabilitation costs $30K–$60K/unit minimum; stabilized rents cannot justify capex ROI under 2019 rent-control law",
+        "Systemic capital decay and unit withdrawal in stabilized stock signals hidden supply loss in NYC rental market"
       ],
-      "summary": "A Manhattan rent-stabilized landlord with 45 units in Washington Heights reports that more than two units have sat vacant for over two years because the cost to restore them to livable standards ($30,000–$60,000 per unit) cannot be recovered under rent-stabilized rents capped by New York's 2019 rent regulation law. Lead abatement, electrical, and plumbing upgrades drive high remediation costs, but RGB-approved rent increases do not justify the capital outlay. The owner's testimony highlights a structural disincentive for supply restoration in the stabilized stock.",
-      "impact": "Signals accelerating withdrawal of rent-stabilized units from the NYC rental supply pipeline. Stabilized units taken offline reduce overall supply but do not compete with market-rate multifamily development; however, this underscores the regulatory risk and owner-hostile environment in NYC that may deter investor acquisition and development activity in the outer boroughs where stabilized stock concentration is higher."
+      "summary": "A Manhattan rent-stabilized landlord with a fully paid-off, 30-year family property reports more than two of his 45 units have sat empty for over two years. He estimates rehabilitation costs of $30K–$60K per unit (plumbing, electrical, lead abatement) that cannot be economically justified by the regulated rents allowed under New York's 2019 rent-control regime. The landlord has testified to the Rent Guidelines Board that these dynamics prevent unit return and maintenance investment.",
+      "impact": "Rent-stabilized buildings are withdrawing units from the market via deliberate vacancy rather than reinvest—a form of supply loss invisible in delivery data. This artificially inflates available unstabilized-unit scarcity and supports market-rate rents in Manhattan's core, creating favorable underwriting for new market-rate multifamily development. However, the underlying signal is regulatory damage to small landlord capital structure, which may depress future Manhattan acquisition prices for stabilized portfolios and redirect development capital toward unregulated markets (Bronx, Queens, outer boroughs) where returns are less constrained."
     },
     {
       "title": "Local Developer Plans to Build a School at 1000 University Avenue in the Bronx",
@@ -62,12 +77,12 @@
       "cat": "Commercial",
       "date": "2026-08-10T18:54:36+00:00",
       "bullets": [
-        "Pillar Property Management filed plans for 64,366 SF, 7-story school at 1000 University Avenue, Highbridge, Bronx.",
-        "Apex Development/Knickpoint Ventures also planning charter school at 1780 East Tremont Avenue with $60M debt.",
-        "Bronx school development signals institutional demand for education real estate in underserved neighborhoods."
+        "Pillar Property Management (Kiumarz Geula) files plans for 64.4K SF school at 1000 University Ave, Bronx Highbridge",
+        "Seven-story institutional use; Apex/Knickpoint secured $60M debt for charter school on East Tremont same quarter",
+        "Dual charter-school pipeline signals institutional capital and rezoning/entitlement momentum in outer-borough development"
       ],
-      "summary": "Pillar Property Management filed plans with NYC Department of Buildings on August 5 to construct a 64,366-square-foot, seven-story school building at 1000 University Avenue in the Highbridge neighborhood of the Bronx. The building will include cafeteria and recreation space. This follows another charter school development by Apex Development Group and Knickpoint Ventures at 1780 East Tremont Avenue, which secured $60 million in debt financing.",
-      "impact": "Minimal direct impact on multifamily development. School construction is a separate asset class and does not affect apartment demand or supply. However, the cluster of institutional/educational investment in the Bronx—particularly in Highbridge and Tremont—may signal broader neighborhood investment and population stability that could support future multifamily demand in those submarkets, though this is indirect and long-dated."
+      "summary": "Real estate developer Kiumarz Geula's firm Pillar Property Management filed plans with NYC Department of Buildings on August 5 to construct a 64,366-SF, 108-foot tall school building with cafeteria and recreation space at 1000 University Avenue in Bronx Highbridge. The filing coincides with competitor Apex Development Group and Knickpoint Ventures securing $60 million debt financing for a charter school at 1780 East Tremont Avenue in the Bronx in June, indicating a sector-wide pivot to education real estate in the borough.",
+      "impact": "Charter school institutional pipeline in the Bronx reflects capital availability, favorable local zoning/entitlement environment, and demographic-driven demand for educational facilities. This signals broader confidence in outer-borough submarkets and may precede residential demand surge (families relocating for school choice, workforce growth around institutional anchors). Multifamily developers should monitor Highbridge and East Tremont for next-generation residential absorption and rent growth, particularly family-oriented two- and three-bedroom units; institutional anchors typically improve neighborhood positioning for residential underwriting."
     },
     {
       "title": "Gencom Divides Into Two Business Lines With Leadership Promotions",
@@ -77,27 +92,12 @@
       "cat": "Commercial",
       "date": "2026-08-10T18:20:33+00:00",
       "bullets": [
-        "Gencom ($8B AUM) reorganizes into two business lines: Gencom Capital and Gencom Real Estate.",
-        "Firm operates 6,000 hotel rooms under luxury brands (Ritz-Carlton, Hyatt, Marriott, Fairmont).",
-        "CEO Karim Alibhai retains dual leadership; new COO and CIO hired to sharpen accountability."
+        "Gencom ($8B AUM) reorganizes into Gencom Capital and Gencom Real Estate; CEO Karim Alibhai remains",
+        "Firm operates 6K hotel rooms nationwide (Ritz-Carlton, Hyatt, Marriott, Fairmont brands)",
+        "Leadership restructuring signals platform maturation and capital-discipline pivot; no impact on multifamily supply/demand"
       ],
-      "summary": "Real estate investment firm Gencom, with $8 billion in assets under management, has reorganized into two distinct business lines—Gencom Capital and Gencom Real Estate—with CEO Karim Alibhai leading both. Gencom Capital will focus on capital markets and portfolio management under new Chief Investment Officer Alessandro Colantonio, while Gencom Real Estate will oversee the firm's portfolio of up to 6,000 hotel rooms across luxury brands including Ritz-Carlton, Fairmont, and Hyatt. The restructuring is intended to strengthen leadership and improve accountability.",
-      "impact": "No direct impact on multifamily development. Gencom is a hospitality-focused firm; the reorganization is an internal capital structure change and does not signal shifts in office conversion pipelines, financing availability, or market demand relevant to apartment development."
-    },
-    {
-      "title": "Real Capital Solutions Launches $350M Distressed Office Acquisition Fund",
-      "link": "https://commercialobserver.com/2026/08/real-capital-solutions-350m-distressed-office-acquisition-fund/",
-      "excerpt": "Real Capital Solutions (RCS), a real estate investment firm headquartered in Colorado, has launched a new $350 million fund that will target acquiring distressed Class A and Class B offices across the U.S., Commercial Observer can first report. The fund, RCS Contrarian Office Fund, plans to lever-up and ultimately acquire up to $850 million of office assets from the $350 million raised. The fund is already capitalized through a $50 million personal commitment by Marcel Arsenault, founder and CEO of Real Capital Solutions, and a second $47.5 million commitment from an unnamed entrepreneur. The fund will close in the first quarter of 2027. “While the office market continues to reset, we believe the long-term outlook for premier office assets is extremely strong,” Arsenault said in a statement. “Companies still need high-quality workplaces to attract tenants, foster innovation and drive growth, and those assets will continue to outperform over time.” This is not the first time RCS has jumped into pools of office distress. Since 2024, the firm has invested $644 million into acquiring 14 office properties in 10 U.S. markets — buildings that include Walnut Glen Tower and Tower at Park Lane in Dallas; Belleview Tower in Denver; Tysons Pointe in Northern Virginia; 101 Marietta Street in Atlanta; and the Equitable Building in Chicago, a 35-story Class A office tower the firm acquired earlier this year for $132.5 million, or a 77.8 percent discount to replacement cost. Adam Abeln, chief investment officer and managing director at RCS, credited the firm&#8217;s recent investment activity to a &#8220;contrarian approach” the firm has always taken, in remarks to CO. “Generally, we found you get rewarded when you have that contrarian outlook where pricing is disconnected from market fundamentals,” he said. “The whole office market today has been painted with the same brush, and the discounts go across the board, regardless if it’s trophy office or Class A, B or C buildings.” The ",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-10T17:18:33+00:00",
-      "bullets": [
-        "Real Capital Solutions launched $350M distressed office fund; plans to lever 2.4x to $850M acquisition capacity.",
-        "RCS Contrarian Office Fund targets Class A and Class B office distress nationwide.",
-        "CEO Marcel Arsenault committed $50M personal capital; second investor committed $47.5M."
-      ],
-      "summary": "Real Capital Solutions (RCS), headquartered in Colorado, launched a new $350 million fund—the RCS Contrarian Office Fund—targeting distressed Class A and Class B office assets across the U.S. The fund plans to use leverage to acquire up to $850 million in office assets. Founder and CEO Marcel Arsenault committed $50 million personally, and an unnamed entrepreneur committed $47.5 million. RCS is betting that premium office assets will outperform long-term despite current market headwinds.",
-      "impact": "Moderate capital signal, not a direct demand driver for multifamily. The fund's formation reflects conviction that office distress creates acquisition opportunities, but it does NOT redirect capital to multifamily development. However, it does indicate that institutional capital remains deployed in real estate despite uncertainty, and may compete for debt financing and investor equity that could otherwise flow to apartment development. Monitor whether this fund's success in office distress leads to similar strategies in residential or signals capital reallocation away from multifamily in 2025."
+      "summary": "Real estate investment and hospitality firm Gencom, which manages $8 billion in assets, restructured into two standalone business lines: Gencom Capital (led by Chief Investment Officer Alessandro Colantonio, handling capital markets and portfolio management) and Gencom Real Estate, with CEO and founder Karim Alibhai remaining in charge of both. The firm operates approximately 6,000 hotel rooms under premium brands including Ritz-Carlton, Rosewood, Hyatt, and Marriott.",
+      "impact": "Gencom's reorganization is primarily a hospitality-sector governance event; the firm's $8B portfolio and hotel-focused asset base do not directly affect multifamily development supply, demand, capital availability, or cost. No material relevance to apartment development markets."
     }
   ]
 }
