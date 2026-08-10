@@ -1,21 +1,21 @@
 {
-  "fetchedAt": "2026-08-07T23:25:49.601987+00:00",
+  "fetchedAt": "2026-08-10T12:46:41.089788+00:00",
   "rates": [
     {
       "label": "SOFR",
-      "value": "3.65%",
-      "pct": 0.01,
+      "value": "3.62%",
+      "pct": -0.03,
       "isBps": true
     },
     {
       "label": "10Y Treasury",
       "value": "4.66%",
-      "pct": -0.21
+      "pct": 0.09
     },
     {
       "label": "30Y Treasury",
       "value": "5.21%",
-      "pct": -0.04
+      "pct": -0.06
     },
     {
       "label": "REIT Index (VNQ)",
@@ -25,6 +25,36 @@
   ],
   "stories": [
     {
+      "title": "Equity Residential and AvalonBay: Inside the $71B Mega Multifamily Merger",
+      "link": "https://commercialobserver.com/2026/08/equity-residential-avalonbay-communities-inside-71b-mega-multifamily-merger/",
+      "excerpt": "On May 21, shortly before Memorial Day weekend, participants in public real estate markets awoke to a truly remarkable headline. AvalonBay Communities, the owner of 98,000 apartments and with a market capitalization of $25 billion, would be merging with Equity Residential, one of the oldest real estate investment trusts (REITs) in America, holding 85,000 apartments and $20.5 billion assets under management. “The initial reaction was, ‘Holy cow, two of the largest, most storied apartment REIT companies nationally are choosing to merge,’” said Allan Swaringen, president and CEO of JLL Income Property Trust, a REIT. “These are the two biggest gorillas in the multifamily marketplace who decided to come together. It’s a true merger of equals.” With a total enterprise value of roughly $71 billion, the deal marks the single largest public REIT merger ever, dwarfing the 2022 deal between Prologis and Duke Realty valued at $26 billion. The two apartment firms announced in late July their new company will be called Vivmark Residential. Once the all-stock merger is complete later this year, this new multifamily behemoth will own more than 180,000 rental apartments across more than 600 communities in the U.S. — mainly in the largest coastal cities — plus another 10,800 apartments and $4.4 billion under construction across 32 communities, of which 50 percent will hold an affordable or mixed-income component, the firms noted in a shared release. “My first reaction is they should’ve done it a few years ago. It’s a very natural merger,” said Matt Frankel, a stock market analyst at the Motley Fool, who noted that roughly 95 percent of Equity Residential and AvalonBay’s businesses operate out of the same markets, mainly New York, San Francisco, Boston and Washington, D.C. Equity is headquartered out of Chicago, while AvalonBay calls Arlington, Va., home. “This would be like if Visa or Mastercard were allowed to merge. They’re businesses of the same size and they specialize in the sam",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-10T10:30:01+00:00",
+      "bullets": [
+        "AvalonBay (98K units, $25B market cap) merges Equity Residential (85K units, $20.5B AUM)",
+        "Combined enterprise value ~$71B; largest public REIT merger ever",
+        "Creates dominant 183K-unit platform with consolidated market power and capital deployment scale"
+      ],
+      "summary": "AvalonBay Communities and Equity Residential announced a merger of equals with enterprise value around $71 billion, combining 98,000 and 85,000 apartments respectively. The deal creates the industry's largest consolidated multifamily REIT by unit count and capital base. This represents the largest public REIT merger in history, surpassing 2022's Prologis-Duke Realty transaction.",
+      "impact": "Consolidation at this scale reshapes competitive dynamics across major markets and signals confidence in multifamily fundamentals despite recent cap-rate pressures. The merged entity's enhanced balance sheet and unit density enable faster land acquisition and development execution in high-barrier-to-entry markets, potentially accelerating supply in supply-constrained metros and intensifying competition for best-in-class development sites for younger entrants like TCR."
+    },
+    {
+      "title": "Sunday Summary: Seven. Hundred. Fifty. Billion.",
+      "link": "https://commercialobserver.com/2026/08/sunday-summary-seven-hundred-fifty-billion/",
+      "excerpt": "Three-quarters of a trillion dollars can buy you pretty much anything you want. If you took the gross national product of Chile, and added the GNP of Colombia, you’d still have more than $100 billion left — and that can also get you pretty much anything in the known world. Well, J.P. Morgan Chase has decided to use that ungodly amount of lucre to invest it in a roof over one’s head. On Monday, the bank announced an unprecedented push to build $750 billion worth of housing over the next nine years with the goal of increasing both supply and homeownership nationwide. (Oh, yeah — Commercial Observer broke the story.) “We’re focused on helping more people access quality housing they can afford,” said Michelle Herrick, the bank’s head of commercial real estate. “And we’re working across the real estate community, local governments and nonprofits to scale housing solutions throughout the U.S.” J.P. Morgan’s approach will be to focus on expanding financing through debt, equity and grants, with a target of creating 1 million units of affordable housing. They’re hoping to aid 500,000 customers, of which they’re anticipating 200,000 will be first-time buyers. Of course, the timing of this is opportune. Back in May, CO reported that construction starts on multifamily projects throughout the U.S. for the first quarter of this year hadn’t been this low since 2011. But a few companies have been trying to meet the demand — at least in certain regions. In New York, for example, LMXD and Bedrock Real Estate Partners are building a 560-unit mixed-income development in Astoria. In Florida, Ultimate Equity just shelled out $32 million for a 69-unit townhome community in Hollywood. Krea USA is mid-construction on a 385-unit development called Le Parc at Lauderhill in Lauderhill, Fla. And Harbor Group International bought a zoo — actually, make that HGI bought a garden-style apartment complex near Zoo Miami. California is one of the more valuable and perhaps the most vexing areas for hou",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-09T13:00:18+00:00",
+      "bullets": [
+        "JPMorgan Chase commits $750B housing investment over 9 years",
+        "Target: 1M affordable units; 500K customer impact; debt, equity, grants structure",
+        "Unprecedented capital influx directly addresses supply and affordability at national scale"
+      ],
+      "summary": "J.P. Morgan Chase announced a $750 billion housing investment initiative over nine years targeting 1 million affordable housing units and 500,000 customer impact. The bank will deploy capital via debt financing, equity, and grants, working with developers, local governments, and nonprofits. The announcement positions the bank as a systemic capital provider for affordable housing solutions nationwide.",
+      "impact": "This mega-commitment signals mega-bank conviction in housing scarcity and affordability as a structural problem requiring institutional capital. For multifamily developers, it creates a new primary lender/partner pathway for affordable and workforce projects, likely with better terms and longer hold horizons than traditional CMBS or bridge lenders. Expect easier acquisition financing and construction capital for mixed-income and 60–80% AMI products, widening the addressable pipeline for developers in gateway and secondary markets with affordable mandates."
+    },
+    {
       "title": "Selldorf Architects Signs Long-Term Renewal at 860 Broadway",
       "link": "https://www.connectcre.com/stories/selldorf-architects-signs-long-term-renewal-at-860-broadway/",
       "excerpt": "Colliers SVP Seth Hecht has secured a 10-year, 13,815-square-foot lease renewal for architecture firm Selldorf Architects at 860 Broadway. Hecht represented Gordon Property Group in completing the long-term renewal transaction. Selldorf Architects was represented by Erik Schmall and Scott Weiss of Savills. Led by internationally acclaimed architect Annabelle Selldorf, the firm has called 860 Broadway home for the past two decades. “860 Broadway is one of Manhattan&#8217;s iconic office buildings, and its location continues to make it a highly desirable destination for creative and innovative companies,&#8221; said Hecht. &#8220;When a firm as globally respected as Selldorf Architects commits to another decade in the building, it speaks to both the property&#8217;s enduring appeal and the long-term strength of this market.&#8221; In addition to Selldorf Architects, current 860 Broadway tenants include Industrious, Valon and retail tenant Uniqlo. Hecht is also representing Gordon Property Group in leasing three additional Manhattan office properties. The post Selldorf Architects Signs Long-Term Renewal at 860 Broadway appeared first on Connect CRE.",
@@ -32,27 +62,27 @@
       "cat": "Commercial",
       "date": "2026-08-07T21:53:29+00:00",
       "bullets": [
-        "Selldorf Architects renews 13,815 SF at 860 Broadway, Manhattan, 10-year term",
-        "Architecture firm commits for two additional decades in Flatiron District location",
-        "Long-term renewal signals sustained demand for creative-class office in Manhattan"
+        "Selldorf Architects renews 13,815 SF at Manhattan office icon 860 Broadway for 10 years",
+        "Two-decade tenant commitment signals office market durability in creative sector",
+        "Mixed-use building with Industrious, Valon, Uniqlo; strong leasing momentum"
       ],
-      "summary": "Architecture firm Selldorf Architects renewed its 10-year lease for 13,815 square feet at Gordon Property Group's 860 Broadway in Manhattan's Flatiron District, where it has been based for 20 years. The renewal was brokered by Colliers (Seth Hecht for landlord) and Savills. The lease represents sustained tenant commitment to Manhattan office despite broader market uncertainty, signaling continued viability of Class-A creative office in premium submarkets.",
-      "impact": "Limited direct relevance to multifamily development. Office renewal validates that Manhattan's creative/design-class tenant base remains stable, suggesting continued professional-services employment and resident base retention in adjacent residential markets like Flatiron/NoMad; however, this is a trailing indicator, not a leading demand signal for apartment development."
+      "summary": "Architecture firm Selldorf Architects renewed its 13,815-square-foot lease at 860 Broadway in Manhattan for 10 years, representing a two-decade tenure. The long-term renewal by a globally respected design firm underscores the building's enduring appeal and signals continued demand from creative tenants.",
+      "impact": "Minimal relevance to multifamily development. Office leasing strength in creative buildings does not drive residential demand or inform apartment supply/demand dynamics; it reflects sector-specific real estate health, not housing market signals."
     },
     {
       "title": "Innocean USA Signs 100K-SF lease with Hackman Capital in Headquarters Relocation",
       "link": "https://www.connectcre.com/stories/innocean-usa-signs-100k-sf-lease-with-hackman-capital-in-headquarters-relocation/",
-      "excerpt": "Advertising agency Innocean&nbsp;USA has signed&nbsp;a&nbsp;new 101,000-square-foot office lease at&nbsp;Hackman Capital Partners’&nbsp;888 N. Douglas&nbsp;property&nbsp;in El Segundo.&nbsp;&nbsp;The space will&nbsp;serve as&nbsp;the company’s U.S. headquarters and&nbsp;represents&nbsp;a relocation from 50,000 square feet of space in Huntington Beach.&nbsp;The tenant will move into its new space&nbsp;after construction concludes&nbsp;in 2027. JLL’s Jason Fine, Jeff Ingham, and Mitch Lundquist represented Innocean USA in the new lease. Hackman Capital represented itself. “This is a transformative change for Innocean USA, and we spent years advising the leadership team to help find a ‘one of one’ facility that would bring their company vision of the future to reality,” said Fine. “This is going to be a special place where their employees and creativity will absolutely thrive.” Across from the Lakers’ practice facility and the L.A. Times headquarters, 888 Douglas is a 30-acre campus with four buildings totaling approximately 550,000 square feet. Hackman Capital purchased the 1930s-era aerospace manufacturing site in 2016 and invested $100 million to transform it into a creative office campus. The post Innocean USA Signs 100K-SF lease with Hackman Capital in Headquarters Relocation appeared first on Connect CRE.",
+      "excerpt": "Advertising agency Innocean USA has signed a new 101,000-square-foot office lease at Hackman Capital Partners’ 888 N. Douglas property in El Segundo. The space will serve as the company’s U.S. headquarters and represents a relocation from 50,000 square feet of space in Huntington Beach. The tenant will move into its new space after construction concludes in 2027. JLL’s Jason Fine, Jeff Ingham,&nbsp;and Mitch Lundquist represented&nbsp;Innocean&nbsp;USA in the new lease. Hackman Capital represented itself. “This is a transformative change&nbsp;for&nbsp;Innocean&nbsp;USA, and we spent years&nbsp;advising the leadership team to&nbsp;help find a ‘one of one’ facility that would bring their&nbsp;company&nbsp;vision of the future to reality,” said Fine. “This is going to be a special place where their employees and creativity will absolutely thrive.”&nbsp; Across from the Lakers’ practice facility and the L.A. Times headquarters, 888 Douglas is a 30-acre campus with four buildings&nbsp;totaling&nbsp;approximately 550,000 square feet. Hackman Capital&nbsp;purchased&nbsp;the 1930s-era aerospace manufacturing site in 2016 and invested $100 million to transform it into a creative office campus. Image courtesy of Gensler. The post Innocean USA Signs 100K-SF lease with Hackman Capital in Headquarters Relocation appeared first on Connect CRE.",
       "source": "Connect CRE",
       "cat": "Commercial",
       "date": "2026-08-07T21:42:56+00:00",
       "bullets": [
-        "Innocean USA HQ relocation: 101K SF at 888 Douglas, El Segundo; move-in 2027",
-        "Doubles footprint from 50K SF Huntington Beach; ~600 employee transfer planned",
-        "Hackman Capital 30-acre creative campus attracts major tenant expansion and talent consolidation"
+        "Innocean USA (ad agency) signs 101K SF HQ at Hackman Capital's 888 Douglas, El Segundo",
+        "Nearly doubles footprint from 50K SF in Huntington Beach; move-in 2027",
+        "Major employer relocation to LAX-adjacent office campus; ~600 employee base"
       ],
-      "summary": "Advertising agency Innocean USA signed a 101,000-square-foot lease at Hackman Capital Partners' 888 Douglas creative office campus in El Segundo, representing a relocation and doubling of its U.S. headquarters footprint from 50,000 square feet in Huntington Beach. The company will relocate approximately 600 employees and move in after construction concludes in 2027. The campus is a 30-acre, 550,000-square-foot former aerospace manufacturing site transformed by Hackman.",
-      "impact": "Significant demand signal for multifamily in Los Angeles South Bay / El Segundo submarket. A 600-person employer relocation consolidating from two locations signals near-term in-migration of white-collar workforce into El Segundo and surrounding LAX-adjacent corridors through 2027; multifamily developers should underwrite for rental demand from Innocean employees and talent attraction ripple, with best positioning in walkable mixed-use near 888 Douglas or along El Segundo commute corridors to Huntington Beach feeder market."
+      "summary": "Advertising agency Innocean USA signed a 101,000-square-foot headquarters lease at Hackman Capital Partners' 888 Douglas creative office campus in El Segundo, California. The company is relocating nearly 600 employees from 50,000 square feet in Huntington Beach, with occupancy in 2027. The space includes a production facility for commercials and content.",
+      "impact": "Employer relocation to LAX-adjacent El Segundo signals job-base growth and demographic in-migration into the South Bay/LAX corridor, a historically underserved multifamily market. Nearly 600 relocated white-collar workers and supply-chain effects (contractors, vendors, service workers) will drive incremental rental demand in walkable multifamily near El Segundo and nearby LAX Gateway submarket. Developers should scout land/development sites within 3–5 miles for Class A and workforce housing to capture the wage-earner inflow."
     },
     {
       "title": "MADDD Equities Scoops Up Vacant West Farms Industrial",
@@ -62,27 +92,27 @@
       "cat": "Commercial",
       "date": "2026-08-07T21:29:58+00:00",
       "bullets": [
-        "MADDD Equities acquires 60K SF vacant industrial, West Farms Bronx, for $10.75M",
-        "60K above-grade + 30K below-grade at 425 Devoe Ave.; $180/SF valuation",
-        "Large-site industrial demand near 2/5 subway, Cross Bronx Expressway access"
+        "MADDD Equities acquires vacant West Farms industrial (60K SF above-grade) for $10.75M",
+        "425 Devoe Ave., Bronx; $180/SF; near 2/5 subway and Cross Bronx Expressway",
+        "Strong demand for large commercial sites with regional access signals industrial-to-residential conversion potential"
       ],
-      "summary": "Ariel Property Advisors closed the sale of 425 Devoe Ave., a vacant 60,000-square-foot above-grade multi-story industrial property in West Farms, Bronx, to MADDD Equities for $10.75 million ($180/SF). The property includes 30,000 SF below-grade and sits on a 40,097-SF lot with proximity to the 2 and 5 subway lines and Cross Bronx Expressway.",
-      "impact": "Minimal direct relevance to multifamily development. However, the transaction signals appetite for large-format Bronx industrial sites with strong transit access; if MADDD intends conversion (e.g., to creative office, last-mile logistics, or—less likely—mixed-use residential), this could indicate Bronx industrial-to-mixed-use conversion pipeline worth monitoring for land banking or future development near transit hubs."
+      "summary": "MADDD Equities closed the acquisition of 425 Devoe Avenue, a vacant 60,000-square-foot (above-grade) multi-story industrial property in the Bronx's West Farms neighborhood, for $10.75 million ($180/SF). The 40,097-square-foot lot includes 30,000 SF below-grade space and is well-positioned near subway access and regional highways.",
+      "impact": "Underutilized industrial assets in transit-rich Bronx submarkets are increasingly acquisition targets for adaptive reuse or redevelopment. Buyer acquisition at this price point and site characteristics (size, transit, highway access) suggest conversion feasibility into mixed-use residential or workforce/affordable housing. Developers should monitor West Farms, Mott Haven, and similar Bronx industrial corridors for land-cost advantages and zoning-conversion opportunities as industrial-to-residential arbitrage widens."
     },
     {
       "title": "Shopoff Secures Approval for Buena Park Residential Development",
       "link": "https://www.connectcre.com/stories/shopoff-secures-approval-for-buena-park-residential-development/",
-      "excerpt": "Shopoff Realty Investments has secured unanimous approval from the Buena Park City Council for 5600 Beach Blvd, a 13.76-acre residential development in Buena Park. The property is currently occupied by the Amway Corporation with a corporate sale-leaseback in place until the end of 2026 and consists of two industrial buildings totaling approximately 370,031 square feet. “5600 Beach Blvd represents an important step forward for Orange County and is intended to help address the need for attainable and diverse housing options for first-time homebuyers and for Buena Park’s growing senior population,” said Shopoff Realty Investments’ president and CEO, Bill Shopoff. “Transforming an industrial site into a vibrant residential community aligns with the city and county’s evolving needs, providing homes for people at every stage of life.” The development aims to deliver 231 three-story townhomes and duplex units, offered with four different floor plans, along with 50 for-rent senior affordable housing units. Homes are expected to be delivered in 2029-2030. The post Shopoff Secures Approval for Buena Park Residential Development appeared first on Connect CRE.",
+      "excerpt": "Shopoff Realty Investments&nbsp;has secured unanimous approval from the Buena Park City Council for&nbsp;5600 Beach Blvd, a 13.76-acre residential development in Buena Park. The property is currently occupied by the Amway Corporation with a corporate sale-leaseback in place until the end of 2026 and consists of two industrial buildings totaling approximately 370,031 square feet. “5600 Beach Blvd represents an important step forward for Orange County and is intended to help address the need for attainable and diverse housing options for first-time homebuyers and for Buena Park’s growing senior population,” said Shopoff Realty Investments’ president and CEO, Bill Shopoff. “Transforming an industrial site into a vibrant residential community aligns with the city and county’s evolving needs, providing homes for people at every stage of life.” The development aims to deliver 231 three-story townhomes and duplex units, offered with four different floor plans, along with 50 for-rent senior affordable housing units. Homes are expected to be delivered in 2029-2030. Where the apartment industry connects. Meet the owners, investors, developers, lenders, brokers, and service providers driving today’s multifamily market at Connect Apartments. Build relationships, uncover opportunities, and stay ahead of what’s next. The post Shopoff Secures Approval for Buena Park Residential Development appeared first on Connect CRE.",
       "source": "Connect CRE",
       "cat": "Commercial",
       "date": "2026-08-07T21:19:36+00:00",
       "bullets": [
-        "Shopoff Realty secures unanimous approval, 5600 Beach Blvd, Buena Park; 231 townhomes + 50 senior units",
-        "13.76-acre Amway site conversion; sale-leaseback through end 2026; delivery 2029–2030",
-        "281-unit residential development (mixed-income townhomes and affordable senior housing)"
+        "Shopoff Realty secured unanimous Buena Park City Council approval for 5600 Beach Blvd residential",
+        "13.76-acre Amway corporate site conversion; 231 townhomes + 50 senior affordable units; delivery 2029–2030",
+        "Industrial-to-residential pivot addresses first-time homebuyer and senior housing demand in Orange County"
       ],
-      "summary": "Shopoff Realty Investments secured unanimous approval from Buena Park City Council to develop 5600 Beach Blvd, a 13.76-acre former Amway corporate site, into 281 residential units comprising 231 three-story townhomes/duplexes and 50 for-rent affordable senior units. Amway sale-leaseback expires end of 2026; deliveries expected 2029–2030. The mixed-income development targets first-time homebuyers and seniors.",
-      "impact": "Significant entitlement win in Orange County. Unanimous City Council approval removes entitlement risk and validates municipal appetite for industrial-to-residential conversion in Buena Park; signals shift in demand from logistics/manufacturing to housing. Developers should monitor Buena Park, Santa Ana, and broader OC industrial-zoned sites for similar conversion opportunities through 2026–2027, as expiration of legacy corporate leasebacks creates windows for residential redevelopment in underserved southern OC submarkets."
+      "summary": "Shopoff Realty Investments received unanimous approval from Buena Park City Council for a 13.76-acre residential development at 5600 Beach Blvd. The project converts a former Amway corporate industrial site (370,031 SF, sale-leaseback expires end-2026) into 231 townhomes/duplexes and 50 for-rent senior affordable units across four floor plans. Delivery is expected in 2029–2030.",
+      "impact": "Successful entitlement and industrial-to-residential conversion in Orange County signals demand for attainable housing and municipal appetite for alternative uses on industrial land. However, this is for-sale and rental-senior product, not core multifamily apartments. Secondary signal: Amway's early lease exit suggests corporate footprint rationalization in OC, reducing light-industrial employment base but opening land opportunities. Monitor similar OC industrial leases and corporate departures for land acquisition windows."
     },
     {
       "title": "Matawan Retail Trades to Private Investor for $15M",
@@ -92,12 +122,12 @@
       "cat": "Commercial",
       "date": "2026-08-07T20:58:35+00:00",
       "bullets": [
-        "Marcus & Millichap closes Park Plaza, Matawan NJ retail sale, $14.67M",
-        "61,750 SF retail center, 20 suites, 1986-built; diverse tenant mix includes Dunkin'",
-        "Strong investor demand for neighborhood shopping centers with durable cash flow in Monmouth County"
+        "Park Plaza retail center, Matawan NJ, trades for $14.67M; 61,750 SF, 20 suites, built 1986",
+        "5.86-acre lot; durable tenant mix (Dunkin', dining, services) on Route 34 corridor",
+        "Strong investor demand for neighborhood retail with stable cash flow despite broader retail disruption"
       ],
-      "summary": "Marcus & Millichap completed the sale of Park Plaza, a 61,750-square-foot retail center in Matawan, NJ (343–351 State Route 34), to a private investor for $14.67 million. Built in 1986, the property contains 20 suites with a diverse mix of dining, lifestyle, retail, and service tenants. The transaction reflects sustained retail-investment demand in established Monmouth County corridors.",
-      "impact": "Minimal relevance to multifamily development. However, sustained investor appetite for neighborhood retail on Route 34 in Monmouth County signals continued suburban consumption and population stability; this corroborates demand for workforce/middle-income multifamily in northern NJ suburbs, particularly around established retail corridors with traffic generation and accessibility."
+      "summary": "Marcus & Millichap closed the sale of Park Plaza, a 61,750-square-foot retail center in Matawan, NJ, for $14.67 million. The 5.86-acre property, built in 1986, houses 20 tenant suites with a diverse mix of dining, lifestyle, retail, and service tenants anchored by a Dunkin'. Both buyer and seller are private NJ investors.",
+      "impact": "Minimal relevance to multifamily development. Neighborhood retail transactions reflect commercial real estate activity, not residential demand or supply signals. No secondary effects on apartment fundamentals or land availability in this transaction."
     },
     {
       "title": "Longfellow Sells Hatch Life Sciences Building in LIC for $87M",
@@ -107,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-08-07T18:55:44+00:00",
       "bullets": [
-        "Longfellow Real Estate sells Hatch Life Sciences Bldg, LIC Queens, for $86.9M",
-        "2021 acquisition price: $92.5M (with Sculptor Real Estate); planned $120M renovation",
-        "208K SF life sciences campus, 7 floors; sale signals soft NYC lab/creative office market"
+        "Longfellow Real Estate sells Hatch Life Sciences Building (LIC, Queens) for $86.9M",
+        "Purchased 2021 for $92.5M + $120M capex; 208K SF, 7 floors; life sciences/office labs",
+        "Loss-adjusted sale signals life sciences lab market softening or capital-constraint in specialized asset class"
       ],
-      "summary": "Longfellow Real Estate Partners sold its Hatch Life Sciences Building at 43–10 23 Street in Long Island City, Queens, for $86.9 million—a discount from its $92.5 million 2021 acquisition price (alongside partner Sculptor Real Estate). Longfellow had planned a $120 million renovation of the former parachute manufacturing plant into 208,000 SF of prebuilt lab suites, modular research space, and flexible office across seven floors. The buyer, Pearl Realty Management, acquired through entity 4310 23 St.",
-      "impact": "Warning signal for multifamily developers in Long Island City / Queens. The life sciences building sale at a loss—despite proximity to transit and completed construction—reflects softening demand for specialized office/lab space in LIC and signals potential tenant weakness in the broader creative/tech office category. Multifamily developers should scrutinize near-term employment stability in LIC/Queens and underwrite conservatively for sustained rental demand, particularly if lab/office conversions falter; monitor whether this asset cycles to alternative uses (e.g., residential conversion, flex workspace) that could augment housing supply."
+      "summary": "Longfellow Real Estate Partners sold its Hatch Life Sciences Building at 43-10 23rd Street in Long Island City, Queens, for $86.9 million. Longfellow had acquired the former parachute manufacturing plant in 2021 for $92.5 million and invested $120 million in conversion to 208,000 SF of lab suites, modular research space, and flexible office. The sale to Pearl Realty Management reflects a loss relative to total basis.",
+      "impact": "Life sciences build-to-suit capital intensity and potential oversupply or demand softening in Queens is a cautionary signal. However, minimal direct impact on multifamily unless LIC's life sciences boom (biotech, pharma) was a co-driver of residential demand; if so, slower lab space absorption may slow ancillary residential absorption in LIC. Developers active in Queens/LIC should monitor life sciences leasing velocity and tenant credit quality to gauge sustained job-base and wage-earner demand in the submarket."
     },
     {
       "title": "Barry Sternlicht’s Starwood Buys Two Miami Affordable Housing Rentals",
@@ -122,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-08-07T17:55:49+00:00",
       "bullets": [
-        "Starwood Asset Management (Sternlicht) acquires two Miami affordable housing rentals, $63.8M combined",
-        "Magnolia Landing (150 units, Naranja): $34M; Lafayette Square (160 units, Little River): $29.75M",
-        "Freddie Mac financing ($23.8M on Magnolia); strong investor appetite for affordable Miami rentals"
+        "Starwood Asset Management (Barry Sternlicht) buys two Miami-Dade affordable properties; $63.8M combined",
+        "Magnolia Landing (150 units, Naranja) $34M; Lafayette Square (160 units, Little River) $29.75M",
+        "Institutional capital targeting affordable rentals in Miami-Dade; Freddie Mac financing support"
       ],
-      "summary": "Barry Sternlicht's Starwood Asset Management acquired two affordable housing properties from Gatehouse Group for a combined $63.8 million in Miami-Dade County. Magnolia Landing (150 units, Naranja, built 2011) sold for $34 million ($226,660/unit); Lafayette Square (160 units, Little River, 19-story) for $29.75 million ($185,900/unit). CBRE Capital Partners arranged a $23.8 million Freddie Mac loan for Magnolia.",
-      "impact": "Strong acquisition signal for Miami-Dade affordable multifamily. A major institutional investor (Sternlicht/Starwood) deploying $63.8M into existing affordable stock—despite older vintages—suggests confidence in Miami-Dade rental fundamentals, particularly in southern and central neighborhoods (Naranja, Little River). Developers should view this as validation of persistent demand for workforce/affordable rental product in Miami-Dade; counter-cyclical institutional buying at lower unit economics indicates cap rates/yields remain attractive, supporting development feasibility for new affordable/mixed-income projects in underserved southern-county and Little River submarkets."
+      "summary": "Starwood Asset Management acquired two affordable rental properties in Miami-Dade County from Gatehouse Group for combined $63.8 million. Magnolia Landing (150 units, Naranja, $34M or $226.7K/unit) consists of 20 three-story buildings built in 2011. Lafayette Square (160 units, Little River, $29.75M or $185.9K/unit) is a 19-story building. CBRE Capital Partners secured a $23.8M Freddie Mac loan for Magnolia.",
+      "impact": "Starwood's institutional-scale acquisition of older affordable stock in Miami-Dade signals recognition of supply scarcity, rent growth, and resident income constraints in a high-cost gateway. This caps market pricing power for new affordable development and indicates that secondary-market acquisitions of 2010s-era affordable assets offer better risk-adjusted returns than new construction in saturated markets. For TCR, this suggests Miami-Dade affordable rents are rising fast enough to justify repositioning or new development, but also that seasoned-asset competition will intensify; focus on land and entitlements now to beat the capital flood."
     },
     {
       "title": "Ad Agency Doubles Office HQ Space in Move to Hackman Campus in L.A.",
@@ -137,42 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-07T17:55:22+00:00",
       "bullets": [
-        "Innocean USA HQ move: 101K SF at 888 Douglas, El Segundo; ~600 employee relocation",
-        "Doubling footprint from 50K SF Huntington Beach; move-in 2027",
-        "Hackman Capital 30-acre creative campus tenant anchor validates market positioning"
+        "Innocean USA doubles office footprint: 101K SF HQ at Hackman Capital's 888 Douglas, El Segundo",
+        "Relocates ~600 employees from 50K SF Huntington Beach; occupancy 2027; production facility included",
+        "Major ad-agency employer expansion in LAX-adjacent South Bay corridor"
       ],
-      "summary": "International advertising agency Innocean USA signed a 101,000-square-foot lease at Hackman Capital Partners' 888 Douglas creative office campus in El Segundo, doubling its footprint and relocating approximately 600 employees from 50,000 square feet in Huntington Beach. The company will move in after construction concludes in 2027 and use part of the space for commercial production. The complex spans 30 acres and 550,000 square feet over four buildings.",
-      "impact": "Duplicate of article [2]; same demand signal. Innocean's 600-employee relocation to El Segundo (2027) drives multifamily rental demand in South Bay LAX-adjacent corridor; developers should target mixed-income and upscale workforce housing near 888 Douglas, airport, and Huntington Beach feeder corridors, with completion windows aligned to Q4 2026–Q2 2027 tenant move-in."
-    },
-    {
-      "title": "Attorney James Allen Joins Camber Property Group as Senior Counsel",
-      "link": "https://commercialobserver.com/2026/08/james-allen-new-hire-camber-property-group/",
-      "excerpt": "Camber Property Group has onboarded a new general counsel for its affordable housing and community development transactions, Commercial Observer has learned. James Allen has decamped from real estate law firm Hirschen Singer &amp; Epstein and started the new role this week assisting Camber with affordable housing projects in New York state and the New York tri-state region, according to the development firm. “One trend I am seeing is that, in their efforts to solve the ongoing housing affordability crisis, more developers are starting to expand both the types of projects that they participate in and their geographic footprint,” Allen said in a statement. “Camber is always thinking creatively about both, but they present unique challenges.” Allen was previously an associate for four years at Nixon Peabody and a senior staff attorney for the New York Court of Appeals. The Brooklyn Law School graduate also pens articles about housing equity and affordability while serving on the board of the New York Housing Conference’s Rising Leaders Network and the New York City Bar Association’s Housing &amp; Urban Development Committee. Hirschen Singer &amp; Epstein did not immediately respond to a request for comment. “I feel lucky to have the chance to expand upon that and work with many of the legal partners that I have learned from over the years, while Camber solidifies its New York presence and intentionally expands its footprint to other regions,” Allen said. Mark Hallum can be reached at mhallum@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-07T17:50:06+00:00",
-      "bullets": [
-        "James Allen joins Camber Property Group as Senior Counsel for affordable housing/community development",
-        "Focus: NY state and tri-state affordable housing transactions and complex entitlements",
-        "Trend: Developers expanding project types and geographic footprint in affordable housing"
-      ],
-      "summary": "Camber Property Group hired James Allen as General Counsel to lead affordable housing and community development transactions across New York state and the tri-state region. Allen, previously at Hirschen Singer & Epstein and Nixon Peabody, noted an industry trend toward developers expanding project types and geographic scope to address housing affordability. He also serves on the NY Housing Conference's Rising Leaders Network and NYC Bar Association housing committees.",
-      "impact": "Hiring trend signal for multifamily development landscape. Camber's expansion of in-house legal/transactions counsel focused on affordable housing suggests the developer is scaling mixed-income and affordable projects across tri-state; this reflects broader industry shift (acknowledged by Allen) toward developer geographic and product diversification. For multifamily peers, this signals growing competition for affordable/mixed-income deals in NY/tri-state and highlights importance of in-house expertise in complex affordable housing structures (LIHTC, Section 8, community land trusts, affordability covenants) to compete for capital and entitlements."
-    },
-    {
-      "title": "Selldorf Architects Renews 14K-SF 860 Broadway Lease for 10 Years",
-      "link": "https://commercialobserver.com/2026/08/selldorf-architects-renews-14k-sf-860-broadway-lease-for-10-years/",
-      "excerpt": "Architecture firm Selldorf Architects has renewed its 10-year, 13,815-square-foot lease at Gordon Property Group’s 860 Broadway. Selldorf has called the Flatiron District’s 860 Broadway home for the last two decades, according to landlord brokerage Colliers. The asking rent was not disclosed. However, the average asking rent for office space in Midtown South was $79.41 per square foot, with Class A office space asking an average of $97.22 per foot and Class B space asking $79.96 during the second quarter, according to Colliers data. Seth Hecht from Colliers represented Gordon Property in this deal, while the tenant was represented by Erik Schmall and Scott Weiss from Savills. “860 Broadway is one of Manhattan&#8217;s iconic office buildings, and its location continues to make it a highly desirable destination for creative and innovative companies,&#8221; Hecht said in a statement announcing the renewal. &#8220;When a firm as globally respected as Selldorf Architects commits to another decade in the building, it speaks to both the property&#8217;s enduring appeal and the long-term strength of this market.&#8221; Savills did not immediately respond to Commercial Observer’s request for comment. “Our focus has always been on owning and operating buildings for the long term,&#8221; Tim Gordon, managing director of Gordon Property Group, said in the statement. &#8220;Creating an environment where great companies choose to stay and grow is the ultimate measure of our success, and we&#8217;re proud that 860 Broadway continues to earn that kind of commitment.” Selldorf Architects was founded by Annabelle Selldorf in New York City in 1988, according to the company website. The firm has worked on a number of prestigious projects, including the Frick Collection, the Chateau Haut-Brion — a 16th century estate near Bordeaux in France – and the Museum of Contemporary Art in San Diego. The firm also works on residential and corporate projects. Selldorf did not immediately respond t",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-07T17:36:42+00:00",
-      "bullets": [
-        "Selldorf Architects renews 13,815 SF lease, 860 Broadway Manhattan, 10-year term",
-        "Two-decade tenant commitment; Flatiron District office market sustained creative-class demand",
-        "Class A/B Midtown South asking rents: $79.41 avg., Class A $97.22/SF (Q2)"
-      ],
-      "summary": "Architecture firm Selldorf Architects renewed its 10-year lease for 13,815 square feet at 860 Broadway in Manhattan's Flatiron District, where it has been a tenant for 20 years. The renewal was brokered by Colliers (landlord) and Savills (tenant). Midtown South office average asking rent was $79.41/SF in Q2 (Class A: $97.22/SF; Class B: $79.96/SF). Asking rent for this renewal was not disclosed.",
-      "impact": "Duplicate of article [1]; minimal direct relevance. Office lease renewal underscores stability of Manhattan's design/creative-class employment base and validates Flatiron/NoMad as premium office destination; trailing indicator of sustained professional services and design sector health, which supports resident base and discretionary spending in adjacent residential neighborhoods, but is not a leading demand signal for new multifamily supply."
+      "summary": "International advertising agency Innocean USA signed a 101,000-square-foot headquarters lease at Hackman Capital Partners' 888 Douglas creative office campus in El Segundo, California. The company is relocating nearly 600 employees from 50,000 square feet in Huntington Beach, more than doubling its footprint. Occupancy is slated for 2027, and the space includes a production facility for commercials and content creation.",
+      "impact": "Employer expansion and headquarters relocation to LAX-adjacent El Segundo signals sustained job-base growth and inbound migration of ~600 white-collar workers into the South Bay corridor. Indirect demand for rental housing in proximity to El Segundo and LAX Gateway submarket will accelerate; service and supply-chain workers will follow. Developers should prioritize land acquisition and feasibility studies for Class A and workforce multifamily product within 2–5 miles of 888 Douglas to capture wage-earner and household in-migration; timing aligns with 2027 occupancy ramp-up and job placement cycles."
     }
   ]
 }
