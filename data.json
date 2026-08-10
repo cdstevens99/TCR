@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-10T14:14:16.616031+00:00",
+  "fetchedAt": "2026-08-10T15:51:52.351666+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -10,20 +10,65 @@
     {
       "label": "10Y Treasury",
       "value": "4.69%",
-      "pct": 0.6
+      "pct": 0.73
     },
     {
       "label": "30Y Treasury",
-      "value": "5.23%",
-      "pct": 0.44
+      "value": "5.24%",
+      "pct": 0.56
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "96.87",
-      "pct": -1.58
+      "value": "96.98",
+      "pct": -1.48
     }
   ],
   "stories": [
+    {
+      "title": "Private Equity Firm OceanSound Expands to 32K SF at SL Green’s 450 Park Avenue",
+      "link": "https://commercialobserver.com/2026/08/oceansound-lease-expansion-sl-green-450-park-avenue/",
+      "excerpt": "New York-based private equity group OceanSound Partners has expanded by more than 10,000 square feet at SL Green Realty’s 450 Park Avenue office tower in Midtown. A new five-year lease secured OceanSound 32,032 square feet across the entire eighth, 22nd and 23rd floors of the office tower at the corner of Park Avenue and East 57th Street, according to SL Green. OceanSound previously subleased 21,640 square feet across the 22nd and 23rd floors. Savills’ John Johnson represented OceanSound in the deal, while CBRE’s Paul Amrich, Neil King, Alex D&#8217;Amario, Matthew Dichter and Brooke Dewing negotiated on behalf of SL Green. The exact rent terms of the lease were not disclosed, but asking rent in the building was $170 per square foot as of March, Commercial Observer previously reported. SL Green acquired the Midtown building in April 2022 from Oxford Properties and Crown Acquisitions for $445 million. Steven Durels, SL Green’s director of leasing and real property, said in a statement that the landlord’s recent renovation work inside the building has served to attract tenants looking for “upscale amenities at a luxury location.” Investment advisory services firm Steadfast Financial, OceanSound’s downstairs neighbor, is also a tenant on the 20th and 21st floors. Other prominent tenants in the building include Brazilian bank Banco Bradesco, British-American hedge fund Blue Crest Capital Management, alternative credit platform Willow Tree Credit Partners and principal investing firm Garnett Station Partners. The tower’s flashiest tenant, however, resides on the ground floor, where luxury British sports car brand Aston Martin opened its showroom in 2023. Spokespeople for Savills and CBRE did not immediately respond to requests for comment. Emily Davis can be reached at edavis@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-10T14:44:53+00:00",
+      "bullets": [
+        "OceanSound Partners expands 10K SF to 32K SF at SL Green's 450 Park Avenue, Midtown Manhattan.",
+        "Five-year lease at $170/SF asking rent; OceanSound consolidates two floors into contiguous space.",
+        "Property recently renovated; tenant demand for upscale Midtown office remains active despite sector headwinds."
+      ],
+      "summary": "Private equity firm OceanSound Partners expanded its footprint at SL Green's 450 Park Avenue office tower in Midtown Manhattan, securing 32,032 square feet across three floors on a five-year lease at approximately $170 per square foot. The firm previously occupied 21,640 square feet on two floors and is consolidating and expanding into a larger contiguous block. SL Green's recent renovation work has attracted quality tenants despite ongoing office sector uncertainty.",
+      "impact": "Limited direct relevance to multifamily development. However, sustained office leasing activity and tenant expansion in trophy Midtown locations signals resilience in high-end Manhattan office market, which indirectly supports mixed-use and residential development financing in the NYC metro by demonstrating broader economic health."
+    },
+    {
+      "title": "Stream Lands Cummins Station Leasing Assignment",
+      "link": "https://www.connectcre.com/stories/stream-lands-cummins-station-leasing-assignment/",
+      "excerpt": "Stream Realty Partners has been awarded the leasing assignment for Cummins Station, a more than 400,000-square-foot adaptive reuse office property located at 209 10th Ave. S in Nashville’s Urban Core. DZL Management is the owner of Cummins Station. Originally constructed as a rail terminal and warehouse, Cummins Station has been transformed into one of Nashville&#8217;s most iconic creative office and retail destinations, blending historic character with modern workplace design and amenities. Besides retail, the property offers office space ranging from approximately 1,300 to more than 30,000 square feet, along with flexible office and coworking space. Located in Nashville’s Urban Core between Downtown and The Gulch, Cummins Station is near the city&#8217;s business, dining, entertainment, and hospitality offerings. The property also features a robust amenity package, including ample parking, a conference center, a fitness center currently under construction, and an outdoor garden area. Stream’s Stewart Lyman, Adam Rumsey, and Ben Dotye will oversee leasing on behalf of the owner, DZL. The post Stream Lands Cummins Station Leasing Assignment appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-10T14:21:59+00:00",
+      "bullets": [
+        "Stream Realty Partners awarded leasing for Cummins Station, 400K+ SF adaptive reuse in Nashville Urban Core.",
+        "Converted rail terminal/warehouse blends creative office, retail, coworking; flexible 1.3K–30K+ SF office suites.",
+        "Property near Downtown/Gulch with amenities, parking, conference, fitness center, garden—targets mixed-use user demand."
+      ],
+      "summary": "Stream Realty Partners secured the leasing assignment for Cummins Station, a 400,000-plus-square-foot adaptive reuse office and retail property at 209 10th Avenue South in Nashville's Urban Core. The historic rail terminal and warehouse features flexible office space ranging from 1,300 to over 30,000 square feet, along with coworking, retail, and an amenity suite. The property's location between Downtown and The Gulch positions it for strong demand from creative and professional tenants.",
+      "impact": "Adaptive reuse conversions in high-density urban neighborhoods signal strong demand for mixed-use environments and flexible workspaces in Nashville's core. This reinforces the Urban Core and Gulch corridors as magnet submarkets for younger demographic and tech/creative talent—a tail indicator of where multifamily demand will cluster and support rents in nearby residential projects."
+    },
+    {
+      "title": "Ryman Acquires Orlando Resorts for Record $1.38B",
+      "link": "https://www.connectcre.com/stories/ryman-acquires-orlando-resorts-for-record-1-38b/",
+      "excerpt": "Trinity Investments sold the Grande Lakes Orlando Resort, a 409-acre luxury complex anchored by a 582-key Ritz-Carlton (shown) and a 1,010-key JW Marriott, for $1.38 billion to Ryman Hospitality Properties, Inc. Trinity acquired the resort in December 2018 for $870 million, with financial backing from Elliott Investment Management. Trinity asserts the sale represents the largest non-gaming U.S. resort transaction on record. The asset features 320,000 square feet of indoor and outdoor meeting space, 14 food and beverage outlets, a 40,000-square-foot spa with 40 treatment rooms, and a Greg Norman-designed 18-hole championship golf course, which hosts the PGA Tour’s PNC Championship. Since the acquisition, Trinity has completed a comprehensive renovation and repositioning of the resort. Upon closing, this transaction follows the September 2025 sale of EAST Miami to Blackstone Real Estate and the June 2025 sale of the JW Marriott Phoenix Desert Ridge Resort &amp; Spa to Ryman Hospitality Properties. The post Ryman Acquires Orlando Resorts for Record $1.38B appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-10T14:02:51+00:00",
+      "bullets": [
+        "Trinity Investments sells Grande Lakes Orlando Resort to Ryman Hospitality for $1.38B; largest non-gaming U.S. resort deal on record.",
+        "409-acre complex: 582-key Ritz-Carlton, 1,010-key JW Marriott, 320K SF meeting space, Greg Norman golf course.",
+        "Trinity acquired December 2018 for $870M; post-acquisition renovation and PNC Championship golf tournament anchor value."
+      ],
+      "summary": "Trinity Investments sold the Grande Lakes Orlando Resort—a 409-acre luxury complex anchoring 1,592 hotel keys, 320,000 square feet of meeting space, and a PGA Tour-host golf course—to Ryman Hospitality Properties for $1.38 billion, marking the largest non-gaming U.S. resort transaction on record. Trinity purchased the asset for $870 million in December 2018 and completed comprehensive renovations. The transaction reflects strong capital deployment in Florida resort hospitality.",
+      "impact": "Not directly relevant to multifamily development. However, $1.38B capital redeployment to hospitality in Orlando signals investor confidence in Florida tourism and convention demand post-pandemic, which indirectly supports broader real estate investment activity and labor in-migration to Orlando—a secondary demand signal for multifamily in the metro, though hospitality-focused rather than residential-focused."
+    },
     {
       "title": "What’s Driving CMBS Distress in the Top U.S. Metro Areas",
       "link": "https://commercialobserver.com/2026/08/cmbs-distress-top-u-s-metro-areas/",
@@ -32,12 +77,12 @@
       "cat": "Commercial",
       "date": "2026-08-10T13:30:34+00:00",
       "bullets": [
-        "Multifamily distress doubled Feb–now: 6% to 13% of CMBS portfolio balance",
-        "Minneapolis 55.1%, Denver 35.9%, Oklahoma City 34.1% distressed; Salt Lake City 0%",
-        "Office distress eased 21.2% to 16.7%; property-type shift signals refinance cliff risk"
+        "CMBS distress: $45.8B of $393.5B outstanding (11.6%) across top 50 metros; multifamily distress doubled Feb–now to 13%.",
+        "Minneapolis (55.1%), Denver (35.9%), Oklahoma City (34.1%) lead; Phoenix, Boston, Las Vegas, Orlando near 3%.",
+        "Office distress eased 21.2% to 16.7%; multifamily now primary distress driver—signal of weakening apartment fundamentals."
       ],
-      "summary": "Across 50 largest U.S. CMBS markets, $45.8B of $393.5B outstanding (11.6%) is distressed. Multifamily distress has accelerated sharply—doubling since February—while office distress has moderated. Minneapolis, Denver, and Oklahoma City lead national distress rankings, driven by oversized legacy loans rather than broad market weakness. The shift in distressed property type from office to multifamily marks a critical turning point in the commercial real estate cycle.",
-      "impact": "This acceleration in multifamily CMBS distress signals refinance maturity risk and asset-sale pressure across major metros, particularly Minneapolis, Denver, Oklahoma City, Austin, and Chicago. Developers should anticipate 12–18 month window of forced-sale inventory and depressed cap rates in these markets as lenders work through problem loans, creating acquisition opportunities but also competitive pricing pressure on development land. Conversely, low-distress metros (Phoenix, Boston, Las Vegas, Orlando at ~3%) remain tight for land and underwriting spreads."
+      "summary": "CMBS distress across the top 50 U.S. metros stands at $45.8 billion (11.6% of $393.5 billion outstanding), with multifamily distress more than doubling since February from 6 percent to 13 percent. Minneapolis, Denver, and Oklahoma City lead distress rankings at 55.1, 35.9, and 34.1 percent respectively, while Phoenix, Boston, Las Vegas, and Orlando cluster near 3 percent. Office distress has eased from 21.2 to 16.7 percent, signaling a property-type shift.",
+      "impact": "Multifamily distress acceleration is a critical underwriting red flag for developers and lenders. Markets with <5% CMBS distress (Phoenix, Boston, Las Vegas, Orlando) show pricing stability and lower refinance risk, signaling safer ground to acquire or build. Conversely, high-distress metros (Minneapolis 55%, Denver 36%, Austin 29%) face loan maturity walls, refinance pressure, and asset sales at uncertain values—complicating new development underwriting if nearby comparable sales are distressed. Developers should prioritize acquisition and new development in resilient submarkets with proven absorption and rent growth."
     },
     {
       "title": "Barings Provides $86M Acquisition Debt for Charleston Industrial Portfolio",
@@ -47,12 +92,12 @@
       "cat": "Commercial",
       "date": "2026-08-10T12:57:49+00:00",
       "bullets": [
-        "Barings finances $86.2M acquisition debt for Obelisk's 817K-SF Charleston industrial portfolio",
-        "Three-building portfolio 62% leased; CenterPoint seller; value-add repositioning planned",
-        "Charleston logistics/port orientation cited as high-conviction buy thesis"
+        "Barings provides $86.2M acquisition debt for Obelisk Real Estate Partners' three-building Charleston industrial portfolio.",
+        "817K SF portfolio, 62% leased, ex-CenterPoint Properties; location near port and logistics hubs cited as driver.",
+        "Value-add repositioning plan planned; Southeast industrial demand tied to port and supply-chain resilience."
       ],
-      "summary": "Obelisk Real Estate Partners acquired a three-building, 817,000-square-foot industrial portfolio in Charleston, South Carolina, financed by Barings with $86.2M in debt. The portfolio, previously owned by CenterPoint Properties, is currently 62% leased and targeted for value-add repositioning through capital improvements. Barings highlighted Charleston's logistics and port-oriented location as a durable demand driver justifying the acquisition.",
-      "impact": "Charleston industrial market continues to attract institutional debt and equity capital, reinforcing its position as a supply-constrained port-logistics hub with secular tailwinds from e-commerce and manufacturing reshoring. Multifamily developers in Charleston should expect sustained demand from in-migrating logistics and distribution workforce; industrial absorption will tighten land availability and raise acquisition costs in submarkets near port/rail corridors."
+      "summary": "Obelisk Real Estate Partners secured $86.2 million in acquisition financing from Barings for a three-building industrial portfolio in Charleston, South Carolina, totaling approximately 817,000 square feet and currently 62 percent leased. The portfolio, previously held by CenterPoint Properties, is positioned near Charleston's port and logistics infrastructure. Obelisk plans a value-add capital improvement strategy to drive leasing and value creation.",
+      "impact": "Not directly relevant to multifamily development. However, robust debt capital availability for industrial in Charleston—a logistics/port-driven market—signals healthy debt markets and investor appetite for essential-use real estate. Indirect relevance: strong industrial demand and in-migration of logistics jobs to Charleston supports downstream residential demand, favorably positioning multifamily development in Charleston submarkets adjacent to job clusters."
     },
     {
       "title": "Equity Residential and AvalonBay: Inside the $71B Mega Multifamily Merger",
@@ -62,12 +107,12 @@
       "cat": "Commercial",
       "date": "2026-08-10T10:30:01+00:00",
       "bullets": [
-        "Equity Residential + AvalonBay merge: $71B enterprise value; 183K apartments combined",
-        "Largest public REIT merger ever; creates dominant portfolio with operational scale",
-        "Market consolidation signals confidence in multifamily fundamentals despite rate/cap-rate headwinds"
+        "Equity Residential + AvalonBay merge in all-stock deal valued at ~$71B; creates Vivmark Residential with 180K+ apartments.",
+        "AvalonBay: 98K apartments, $25B market cap; Equity: 85K apartments, $20.5B AUM; largest public REIT merger ever.",
+        "Merger expected to close late 2025; dwarfs 2022 Prologis-Duke Realty deal ($26B); consolidates two largest multifamily REITs."
       ],
-      "summary": "Equity Residential (85K apartments, $20.5B AUM) and AvalonBay Communities (98K apartments, $25B market cap) announced a merger of equals valued at $71 billion enterprise value—the largest public REIT merger on record. The combined entity will own and operate 183,000 apartments across major U.S. markets. Industry observers characterized the deal as a merger of the two largest multifamily operators in America, signaling confidence in long-term rental fundamentals despite near-term cap-rate pressures.",
-      "impact": "Mega-REIT consolidation removes two independent competitors from the acquisition market and creates a behemoth with pricing power, operational scale, and balance-sheet capacity for land banking and forward development in prime markets. For smaller and mid-cap developers, this signals: (1) public-market confidence in multifamily despite rate uncertainty; (2) likely intensified acquisition competition from combined EQR/AVB in core markets (CA, TX, NY, FL, Southeast); and (3) potential opportunity for developers to sell stabilized assets to the enlarged REIT or to fill niche supply gaps that the mega-REIT underserves (secondary markets, workforce, active-adult)."
+      "summary": "AvalonBay Communities and Equity Residential announced an all-stock merger valued at approximately $71 billion, creating Vivmark Residential with over 180,000 apartment units. AvalonBay brings 98,000 apartments and a $25 billion market cap, while Equity Residential contributes 85,000 apartments and $20.5 billion in AUM. Expected to close in late 2025, the transaction is the largest public REIT merger on record, far exceeding the 2022 Prologis-Duke Realty deal valued at $26 billion.",
+      "impact": "This mega-merger fundamentally reshapes multifamily industry structure and capital allocation. A 180K-unit REIT will have unmatched market power in acquisition, development site competition, and capital markets access—raising competitive pressure on mid-size and regional developers. Expect Vivmark to accelerate development in core markets (Boston, NYC, DC, LA, San Francisco) and potentially divest non-core or overlapping assets, signaling which markets the market leader is prioritizing. Smaller developers should monitor Vivmark's portfolio sales and site divestitures as acquisition opportunities and prepare for tighter competition for development sites, financing, and talent in top-tier markets."
     },
     {
       "title": "Sunday Summary: Seven. Hundred. Fifty. Billion.",
@@ -77,12 +122,12 @@
       "cat": "Commercial",
       "date": "2026-08-09T13:00:18+00:00",
       "bullets": [
-        "JPMorgan Chase commits $750B housing investment over 9 years; 1M affordable units target",
-        "Debt, equity, grant capital; 500K customer assistance goal; unprecedented scale commitment",
-        "Addresses systemic supply shortage and affordability crisis through major lender capital mobilization"
+        "JPMorgan Chase announces $750B housing investment commitment over 9 years; target of 1M affordable units.",
+        "Financing via debt, equity, grants; goal to serve 500K customers and expand homeownership and affordable supply.",
+        "Unprecedented scale capital commitment signals institutional focus on housing supply shortage and affordable housing crisis."
       ],
-      "summary": "J.P. Morgan Chase announced a $750 billion housing investment initiative over nine years targeting 1 million units of affordable housing creation and assistance to 500,000 customers. The bank will deploy capital across debt, equity, and grant vehicles in partnership with local governments and nonprofits. This represents an unprecedented commitment by a single institution to address national housing supply and affordability shortfalls.",
-      "impact": "JPMorgan's $750B commitment signals institutional recognition that housing supply crisis demands non-traditional (equity/grant) capital alongside traditional debt, and will reshape development financing landscape. Developers should expect: (1) new debt and equity capital sources earmarked for workforce/affordable multifamily in secondary and tertiary markets; (2) lower required equity returns on affordable/mixed-income deals; (3) potential grant funding for predevelopment/infrastructure in affordable-friendly submarkets; (4) increased regulatory/political pressure on all lenders to follow JPMorgan's lead, improving term availability for mission-driven projects in tight markets like CA, NY, CO, NC."
+      "summary": "JPMorgan Chase announced an unprecedented $750 billion housing investment initiative over nine years, targeting 1 million units of affordable housing and serving 500,000 customers. The bank will deploy capital through debt, equity, and grants, working with local governments, nonprofits, and real estate partners to scale housing solutions nationwide. The commitment reflects institutional recognition of the nation's housing supply shortage and affordability crisis.",
+      "impact": "JPMorgan's $750B commitment is a watershed moment for multifamily and affordable housing development financing. The bank's focus on debt, equity, and grants lowers capital barriers for developers tackling affordable housing—expect easier financing for workforce and mixed-income projects. However, the sheer scale may accelerate capital concentration among large, nationally-scaled developers with established affordable housing expertise and track records. Regional and smaller developers should explore partnerships with JPMorgan and leverage the bank's capital to fund mixed-income and affordable projects; simultaneously, prepare for increased competition from larger, better-capitalized peers entering affordable housing markets at scale."
     },
     {
       "title": "Selldorf Architects Signs Long-Term Renewal at 860 Broadway",
@@ -92,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-08-07T21:53:29+00:00",
       "bullets": [
-        "Selldorf Architects renews 13,815 SF for 10 years at 860 Broadway Manhattan",
-        "Global architecture firm commits to two-decade-long occupancy; iconic trophy office location",
-        "Tenant renewal signals strength in creative/design office market despite broader sector headwinds"
+        "Selldorf Architects renews 13.8K SF at 860 Broadway, Manhattan, for 10 years; architect firm retains iconic office.",
+        "Globally respected firm remains at building after 20 years; other tenants: Industrious, Valon, Uniqlo retail.",
+        "Long-term commitment signals sustained demand for creative office space in high-profile Manhattan buildings."
       ],
-      "summary": "Architecture firm Selldorf Architects renewed a 10-year lease for 13,815 square feet at 860 Broadway in Manhattan, representing a long-term commitment by the internationally acclaimed practice. The firm has occupied the space for two decades. Current tenants at the iconic building include Industrious, Valon, and retail tenant Uniqlo.",
-      "impact": "Minimal direct relevance to multifamily development. The renewal signals resilience in trophy-office submarkets (Flatiron/Union Square) for firms with strong brand equity and creative tenants, but does not affect apartment demand, supply, capital, or construction costs. For context: 860 Broadway occupancy remains selective and skews toward high-income creative/professional users; this renewal reflects captive brand loyalty rather than broad-market office recovery."
+      "summary": "Selldorf Architects, led by internationally acclaimed architect Annabelle Selldorf, renewed its 13,815-square-foot lease at 860 Broadway in Manhattan for 10 years. The architecture firm has occupied the iconic office building for two decades and continues alongside tenants Industrious, Valon, and retailer Uniqlo. The long-term renewal underscores the building's enduring appeal to creative and innovative firms.",
+      "impact": "Not directly relevant to multifamily development. However, sustained leasing of trophy office space in Manhattan to globally-recognized creative firms signals cultural and economic vitality in core Manhattan neighborhoods—supporting the case that mixed-use and residential projects in proximity to creative office hubs (Flatiron, Noho, Soho corridors) will attract high-income residents and command premium rents."
     },
     {
       "title": "Innocean USA Signs 100K-SF lease with Hackman Capital in Headquarters Relocation",
@@ -107,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-08-07T21:42:56+00:00",
       "bullets": [
-        "Innocean USA signs 101K-SF HQ lease at Hackman Capital's 888 N. Douglas, El Segundo",
-        "Relocation from 50K SF Huntington Beach; move-in 2027 post-construction; doubling footprint",
-        "Employer expansion in LA aerospace/creative campus indicates regional talent/HQ consolidation trend"
+        "Innocean USA relocates HQ from Huntington Beach to 101K SF at Hackman Capital's 888 N. Douglas, El Segundo.",
+        "Doubles footprint from 50K to 101K SF; move-in after construction concludes 2027; new U.S. headquarters.",
+        "30-acre creative campus with 550K SF total; Hackman invested $100M post-acquisition (2016) for creative office repositioning."
       ],
-      "summary": "Advertising agency Innocean USA leased 101,000 square feet at Hackman Capital Partners' 888 N. Douglas campus in El Segundo, California, more than doubling its prior 50,000-square-foot footprint in Huntington Beach. The tenant will occupy the space following construction completion in 2027. The 30-acre campus, a converted 1930s aerospace manufacturing site, includes four buildings totaling ~550,000 square feet.",
-      "impact": "Innocean's HQ expansion and consolidation to El Segundo signals continued inward migration of advertising/creative services to Los Angeles metro and suggests sustained corporate tenant appetite for specialized creative campuses in Southland. Multifamily developers in LA Harbor Area/El Segundo/Manhattan Beach submarkets should anticipate upstream demand from agency employee in-migration and talent recruitment; target workforce housing (100K–$150K income, families with children, proximity to creative jobs) in beach communities and near LAX corridor over next 24–36 months."
+      "summary": "Advertising agency Innocean USA signed a 101,000-square-foot lease at Hackman Capital Partners' 888 North Douglas property in El Segundo, relocating its U.S. headquarters from 50,000 square feet in Huntington Beach. The tenant will occupy the newly constructed space in 2027. Hackman's 30-acre campus totals 550,000 square feet and is positioned across from the Lakers' practice facility and LA Times headquarters.",
+      "impact": "Innocean's HQ relocation from Huntington Beach to El Segundo signals emerging office-to-creative-space demand in South Bay markets beyond Santa Monica/Culver City. El Segundo's repositioning as a creative office hub—supported by Hackman's $100M+ investment and proximity to entertainment/Lakers infrastructure—creates a new employment center in LA metro. Multifamily developers should identify residential infill opportunities in El Segundo and nearby South Bay submarkets to capture employee housing demand from creative/tech firms migrating to the Hackman campus and other South Bay office projects."
     },
     {
       "title": "MADDD Equities Scoops Up Vacant West Farms Industrial",
@@ -122,57 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-07T21:29:58+00:00",
       "bullets": [
-        "MADDD Equities acquires vacant West Farms industrial, Bronx, for $10.75M ($180/SF)",
-        "60K SF above grade + 30K SF below; 40K-SF lot; near subway + Cross Bronx Expressway",
-        "Large commercial site repositioning signals Bronx industrial market recovery and adaptive-use potential"
+        "MADDD Equities acquires vacant 60K SF (60K above grade + 30K below) West Farms industrial in Bronx for $10.75M.",
+        "Price: $180/SF above grade; four-level multi-story industrial; near Subway 2/5 lines and Cross Bronx Expressway.",
+        "Strong demand cited for large commercial sites with regional access; ex-Abingdon Square Partners asset."
       ],
-      "summary": "MADDD Equities purchased 425 Devoe Ave., a vacant four-story industrial property in the Bronx's West Farms neighborhood, for $10.75 million ($180 per square foot above grade). The 60,000-square-foot above-grade structure (with an additional 30,000 square feet below grade) sits on a 40,097-square-foot lot with proximity to the 2 and 5 subway lines and the Cross Bronx Expressway. The property was sold by Abingdon Square Partners.",
-      "impact": "Bronx industrial repositioning and vacant-building acquisition at $180/SF signals emerging investor confidence in Outer-Borough logistics/manufacturing conversion and light-industrial redevelopment. Multifamily developers should note: (1) large industrial sites in accessible Bronx submarkets (West Farms, South Bronx) with transit/highway access are entering redevelopment pipeline; (2) potential for adaptive-use mixed-income/affordable multifamily conversions on industrial sites as Bronx gentrification pressures increase; (3) workforce housing demand from industrial/logistics job retention and new creative/tech tenants will drive rental demand in adjacent residential submarkets; (4) zoning/entitlement risk remains high, but approval speed improving—opportunity to acquire repositionable industrial sites before land values fully adjust."
-    },
-    {
-      "title": "Shopoff Secures Approval for Buena Park Residential Development",
-      "link": "https://www.connectcre.com/stories/shopoff-secures-approval-for-buena-park-residential-development/",
-      "excerpt": "Shopoff Realty Investments&nbsp;has secured unanimous approval from the Buena Park City Council for&nbsp;5600 Beach Blvd, a 13.76-acre residential development in Buena Park. The property is currently occupied by the Amway Corporation with a corporate sale-leaseback in place until the end of 2026 and consists of two industrial buildings totaling approximately 370,031 square feet. “5600 Beach Blvd represents an important step forward for Orange County and is intended to help address the need for attainable and diverse housing options for first-time homebuyers and for Buena Park’s growing senior population,” said Shopoff Realty Investments’ president and CEO, Bill Shopoff. “Transforming an industrial site into a vibrant residential community aligns with the city and county’s evolving needs, providing homes for people at every stage of life.” The development aims to deliver 231 three-story townhomes and duplex units, offered with four different floor plans, along with 50 for-rent senior affordable housing units. Homes are expected to be delivered in 2029-2030. Where the apartment industry connects. Meet the owners, investors, developers, lenders, brokers, and service providers driving today’s multifamily market at Connect Apartments. Build relationships, uncover opportunities, and stay ahead of what’s next. The post Shopoff Secures Approval for Buena Park Residential Development appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-07T21:19:36+00:00",
-      "bullets": [
-        "Shopoff Realty secures unanimous Buena Park council approval for 5600 Beach Blvd; 13.76 acres",
-        "231 townhomes/duplexes + 50 senior affordable units; delivery 2029–2030; Amway sale-leaseback to 2026",
-        "Industrial-to-residential conversion addresses Orange County affordability/senior-housing gap"
-      ],
-      "summary": "Shopoff Realty Investments won unanimous approval from Buena Park City Council for a 13.76-acre residential development at 5600 Beach Blvd. The project transforms two industrial buildings (370,031 SF, currently leased to Amway through 2026) into 231 three-story townhomes and duplexes plus 50 for-rent senior affordable units across four floor plans. Deliveries are projected for 2029–2030.",
-      "impact": "Buena Park industrial-to-residential conversion and city-approved entitlement pipeline signal Orange County market willingness to rezone industrial land for housing and seniors, reducing nimbyism barriers in historically industrial-zoned OC submarkets. Multifamily developers in Orange County should: (1) prioritize acquisition of industrial/vacant parcels in Buena Park, Anaheim, Santa Ana with near-term leaseback exits; (2) expect 18–24 month approval timelines for similar TOD/affordable mixed-income projects given city/county political alignment on housing supply; (3) compete on senior-affordable units as county demographic shift (aging in place) and state policies (state senior housing credits) drive subsidy availability and cap-rate compression for workforce/senior products."
-    },
-    {
-      "title": "Matawan Retail Trades to Private Investor for $15M",
-      "link": "https://www.connectcre.com/stories/matawan-retail-trades-to-private-investor-for-15m/",
-      "excerpt": "Marcus &amp; Millichap completed the sale of Park Plaza, a retail center in Matawan, NJ. The asset sold for $14.67 million. “Park Plaza attracted significant investor interest due to its diverse tenant mix, strong visibility and strategic location within one of Monmouth County&#8217;s most established retail corridors,” said Seth Goldberg, associate director investments in Marcus &amp; Millichap’s New Jersey office. “Well-positioned neighborhood shopping centers with durable cash flow continue to be highly sought after, and this transaction reflects the sustained demand for quality retail assets in New Jersey.” Goldberg, Brent Hyldahl and Alan Cafiero of Marcus &amp; Millichap marketed the property for the seller and procured the buyer, both private investors from New Jersey. Located at 343-351 State Rte. 34, the retail center sits on a 5.86-acre lot totaling 61,750 square feet. It was built in 1986 and contains 20 suites. The rent roll features a diverse mix of dining, lifestyle, retail and service-oriented tenants, including a Dunkin&#8217; with a drive-thru. The post Matawan Retail Trades to Private Investor for $15M appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-07T20:58:35+00:00",
-      "bullets": [
-        "Marcus & Millichap closed $14.67M sale of Park Plaza retail center, Matawan, NJ (61.75K SF)",
-        "20-suite neighborhood shopping center; 1986 vintage; diverse tenants including Dunkin' drive-thru",
-        "Retail-center investor appetite remains resilient for durable-cash-flow neighborhood assets"
-      ],
-      "summary": "Marcus & Millichap brokered the $14.67 million sale of Park Plaza, a 61,750-square-foot retail center in Matawan, New Jersey, to a private investor. Built in 1986 on 5.86 acres, the 20-suite property features a diverse tenant mix including dining, lifestyle, retail, and service tenants (including a Dunkin' with drive-thru). Both buyer and seller were New Jersey-based private investors.",
-      "impact": "Minimal direct relevance to multifamily development. Retail sales data shows selective investor demand persists for neighborhood centers with diversified cash-flow tenants and drive-thru/durables exposure, but does not affect multifamily supply, demand, or capital availability. Asset class remains secondary to institutional multifamily and industrial capital flows."
-    },
-    {
-      "title": "Longfellow Sells Hatch Life Sciences Building in LIC for $87M",
-      "link": "https://commercialobserver.com/2026/08/longfellow-sells-hatch-life-sciences-lic-87m/",
-      "excerpt": "Life sciences developer Longfellow Real Estate Partners has parted with its first-ever New York City project at a discount. Longfellow’s Hatch Life Sciences Building, located at 43-10 23 Street in Long Island City, Queens, has sold for $86.9 million, according to city records filed Friday. Pearl Realty Management’s Jack Guttman signed for the buyer, under the entity 4310 23 St. A representative of Pearl Realty Management did not respond to requests for comment. Longfellow purchased the existing building at 43-10 23 Street in 2021 alongside its partner, Steven Orbuch’s Sculptor Real Estate, for $92.5 million. Longfellow, led by CEO and co-founder Adam Sichol, planned to invest another $120 million into turning the former parachute manufacturing plant into a mix of life sciences labs and offices. Construction had all but wrapped up when Commercial Observer visited in 2024. The final product spanned over 208,000 square feet across seven floors, including prebuilt lab suites, modular research space and flexible office areas. Longfellow and Sculptor did not respond immediately to requests for comment on the sale. While Guttman’s plans for the purchase remain unclear, the landlord appears to be active in the Long Island City market. Recent purchases include the Standard Motors Product Building at 37-18 Northern Boulevard for $42 million and BrightSpire Capital&#8216;s office building at 21-02 49th Avenue for $28 million. Emily Davis can be reached at edavis@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-07T18:55:44+00:00",
-      "bullets": [
-        "Longfellow Real Estate sells Hatch Life Sciences Building, LIC Queens, for $86.9M (loss)",
-        "Purchased 2021 for $92.5M + $120M capex; 208K-SF mixed lab/office; buyer Pearl Realty Management",
-        "Life-sciences market cooling; speculative repositioning underperforms; exit signals investor thesis retreat"
-      ],
-      "summary": "Longfellow Real Estate Partners sold its Hatch Life Sciences Building at 43-10 23 Street in Long Island City, Queens, for $86.9 million—a loss from its $92.5 million acquisition price in 2021 alongside partner Steven Orbuch's Sculptor Real Estate. The developer had planned $120 million in capital to convert the former parachute manufacturing facility into 208,000 square feet of prebuilt lab suites, modular research space, and flexible office. Pearl Realty Management acquired the stabilized asset.",
-      "impact": "Longfellow's below-cost exit from NYC life-sciences signals cooling demand/cap-rate expansion in speculative lab-office conversions; perceived structural supply excess or tenant-credit weakness in LIC life-sciences market. For multifamily developers: (1) life-sciences anchor strategies in mixed-use development face headwind; (2) LIC office/lab oversupply likely to suppress nearby multifamily rents and impede co-tenancy support for larger residential projects; (3) repurposing of life-sciences-targeted real estate (conversion back to generic office/flex or to residential) may accelerate, opening adaptive-use multifamily opportunities on Queens waterfront but with extended leasing timelines and higher concession risk."
+      "summary": "MADDD Equities purchased a 60,000-square-foot vacant multi-story industrial property at 425 Devoe Avenue in the West Farms neighborhood of the Bronx for $10.75 million ($180 per square foot above grade), plus an additional 30,000 square feet below grade. The property is situated on a 40,097-square-foot lot with four levels of usable space and convenient access to Subway lines 2 and 5, the Cross Bronx Expressway, and broader regional infrastructure.",
+      "impact": "Vacant Bronx industrial acquisition at $180/SF signals investor confidence in Bronx logistics and light-industrial repositioning. Proximity to Subway 2/5 and Cross Bronx Expressway makes the site attractive for last-mile logistics, food/beverage manufacturing, or mixed-use adaptive reuse. The transaction indicates early-stage gentrification and commercial densification in West Farms—a secondary demand signal for multifamily developers. Monitor Bronx industrial conversions and logistics clusters; nearby residential projects (mixed-income, workforce housing) will capture demand from warehouse/logistics employees and beneficiaries of improved neighborhood infrastructure."
     }
   ]
 }
