@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-10T17:44:09.854876+00:00",
+  "fetchedAt": "2026-08-10T18:43:28.308682+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -10,20 +10,50 @@
     {
       "label": "10Y Treasury",
       "value": "4.70%",
-      "pct": 0.86
+      "pct": 0.77
     },
     {
       "label": "30Y Treasury",
-      "value": "5.25%",
-      "pct": 0.65
+      "value": "5.24%",
+      "pct": 0.58
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "96.81",
-      "pct": -1.65
+      "value": "96.94",
+      "pct": -1.52
     }
   ],
   "stories": [
+    {
+      "title": "Gencom Divides Into Two Business Lines With Leadership Promotions",
+      "link": "https://commercialobserver.com/2026/08/gencom-capital-real-estate-reorganization/",
+      "excerpt": "Real estate investment firm Gencom is reorganizing into two different business lines, with new hires and promotions to match. The reorganization splits the firm, which has $8 billion in assets under management, into Gencom Capital and Gencom Real Estate, with CEO and founder Karim Alibhai continuing to steer both ships, according to Gencom. Gencom operates up to 6,000 hotel rooms nationwide, including brands like Ritz-Carlton, Rosewood, Auberge Resorts Collection, Fairmont, Hyatt and Marriott. &#8220;Successful real estate platforms are built by combining disciplined investing with exceptional execution,&#8221; Alibhai said in a statement. &#8220;As Gencom continues to grow, this evolution strengthens our leadership, sharpens accountability and positions us to capitalize on the opportunities ahead while continuing to deliver outstanding outcomes for our investors and partners.&#8221; Gencom Capital will be led by Chief Investment Officer Alessandro Colantonio, who will handle capital markets, portfolio management and capital allocation. Newly promoted managing directors include Ignasi Puig, who will handle acquisitions and investments; Peter Trujillo, who will be responsible for corporate investments; and Blythe Pierre-Louis, who will manage special situations. Meanwhile, Donald McGregor was promoted to president of Gencom Real Estate and will oversee development, construction and asset management. Shaun Johnston was also promoted to head of portfolio finance and accounting and will report directly to McGregor. Jake Lynch was hired as senior vice president of asset management for Gencom Real Estate. &#8220;As we continue to grow, we are building a team with the expertise to create value at every stage of the investment lifecycle,” McGregor said in a statement. “Jake is a terrific addition to the Gencom Real Estate platform, and Shaun&#8217;s promotion reflects the depth of talent we have developed within the firm. Together, they reinforce our ability to cultivate ta",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-10T18:20:33+00:00",
+      "bullets": [
+        "Gencom reorganizes $8B AUM into Capital and Real Estate divisions.",
+        "Firm operates 6,000 hotel rooms nationally under luxury brands.",
+        "Leadership changes strengthen accountability and capital allocation discipline."
+      ],
+      "summary": "Gencom, an $8 billion real estate investor with ~6,000 hotel rooms across luxury brands (Ritz-Carlton, Rosewood, Fairmont, Hyatt, Marriott), is splitting into two business lines: Gencom Capital (led by new Chief Investment Officer Alessandro Colantonio handling capital markets and allocation) and Gencom Real Estate. The reorganization aims to sharpen execution and accountability as the firm scales.",
+      "impact": "Minimal direct impact on multifamily development. This is a hotel and diversified real estate firm; the restructuring signals operational maturation and potential capital redeployment, but does not clarify multifamily investment appetite or market-specific demand signals relevant to apartment development underwriting."
+    },
+    {
+      "title": "Landmark Delivers 397-Bed CSU Student Housing Venture",
+      "link": "https://www.connectcre.com/stories/landmark-delivers-397-bed-csu-student-housing-venture/",
+      "excerpt": "Landmark Properties delivered The Mark Fort Collins, a 397-bed off-campus student housing community at 255 Johnson Drive in Fort Collins, less than half a mile from Colorado State University. The project was developed in partnership with Silverpeak Real Estate Partners and Peninsula Investments.&nbsp; Landmark’s Jason Doornbos added, “Landmark and our joint venture partners took over a stalled project from a previous developer, restarted construction, and delivered a high-quality asset.” The Mark Fort Collins features 193 units in a mix of studio to four-bedroom layouts. Amenities included a heated outdoor pool and sun shelf, a sky deck and lounge, three courtyards, a gaming lawn, multiple firepits with seating areas, a hammock grove, and outdoor grilling spots. The property also features a fitness center, coffee bar, sports simulator, private study and coworking rooms, and a wellness center. The post Landmark Delivers 397-Bed CSU Student Housing Venture appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-10T17:44:14+00:00",
+      "bullets": [
+        "Landmark Properties delivered 397-bed student housing at Fort Collins, Colorado.",
+        "Project: 193 units, half-mile from Colorado State University campus.",
+        "Developed with Silverpeak Real Estate Partners and Peninsula Investments."
+      ],
+      "summary": "Landmark Properties, in partnership with Silverpeak Real Estate Partners and Peninsula Investments, completed The Mark Fort Collins, a 397-bed student housing community with 193 units (studio to four-bedroom) located at 255 Johnson Drive, less than half a mile from Colorado State University. Landmark took over a stalled project, restarted construction, and delivered a high-amenity asset featuring a pool, sky deck, gaming lawn, fitness center, and wellness spaces.",
+      "impact": "Student housing in Fort Collins remains feasible and absorbs readily near CSU; strong execution by Landmark on a repositioned asset signals continued institutional appetite for education-anchored properties in secondary college towns. Colorado Front Range multifamily markets benefit from sustained enrollment and housing scarcity near major universities, supporting rent growth."
+    },
     {
       "title": "Real Capital Solutions Launches $350M Distressed Office Acquisition Fund",
       "link": "https://commercialobserver.com/2026/08/real-capital-solutions-350m-distressed-office-acquisition-fund/",
@@ -32,12 +62,12 @@
       "cat": "Commercial",
       "date": "2026-08-10T17:18:33+00:00",
       "bullets": [
-        "Real Capital Solutions launches $350M distressed office fund, targeting $850M in Class A/B acquisitions nationwide",
-        "Fund backed by $97.5M in founder and entrepreneur commitments; leverage strategy deployed across U.S.",
-        "Management signals belief in long-term office recovery, betting on flight-to-quality institutional-grade assets"
+        "Real Capital Solutions launches $350M distressed office acquisition fund.",
+        "Fund targets $850M of Class A/B office assets with leverage.",
+        "CEO and founder committed $50M; unnamed entrepreneur $47.5M."
       ],
-      "summary": "Real Capital Solutions launched a $350 million distressed office fund with plans to acquire up to $850 million of Class A and Class B office assets across the U.S. through leverage. The fund is capitalized by $50 million from founder Marcel Arsenault and $47.5 million from an unnamed entrepreneur. Management believes premier office assets will outperform long-term despite current market headwinds.",
-      "impact": "Signals growing institutional capital targeting office distress and refinancing risk—critical context for multifamily developers in mixed-use submarkets where office conversion (or co-development) opportunity may emerge as office yields compress and adaptive reuse becomes economically viable. Watch for secondary markets where distressed office could unlock redevelopment capital."
+      "summary": "Real Capital Solutions (RCS), a Colorado-based real estate firm, launched the RCS Contrarian Office Fund with $350 million in commitments (including $50M from founder Marcel Arsenault and $47.5M from a second investor), targeting acquisition of distressed Class A and Class B office assets nationwide. With leverage, the fund expects to deploy up to $850 million of office capital, betting on long-term institutional demand for premium workplaces.",
+      "impact": "Not directly relevant to multifamily development. However, the aggressive office distress fund launch signals softening office fundamentals and oversupply; institutional capital is rotating to office opportunistically, not to multifamily. This crowds capital away from apartment development and suggests office conversions to residential may accelerate in select markets (NYC, Chicago, other downtowns) if office cap rates spike further and conversion spreads narrow."
     },
     {
       "title": "El-Ad National Buys Oceanfront Fort Lauderdale Hotel for $60M",
@@ -47,12 +77,12 @@
       "cat": "Commercial",
       "date": "2026-08-10T17:15:07+00:00",
       "bullets": [
-        "El-Ad National buys oceanfront Fort Lauderdale hotel for $60M; seller finances $40M of purchase",
-        "1.2-acre site zoned for 541-unit, 246,989-sf residential development up to 200 feet; 40-foot bonus if 60% units are hotel",
-        "Last remaining oceanfront development site in Fort Lauderdale; likely multifamily redevelopment ahead"
+        "El-Ad National bought oceanfront Fort Lauderdale hotel for $60M.",
+        "Sea Club Resort: 99 rooms, 1.2 acres, 1954-vintage property.",
+        "Zoned for 541-unit, 247K-sf mixed-use development up to 200 feet."
       ],
-      "summary": "Israeli developer El-Ad National Properties acquired the 99-room Sea Club Resort in Fort Lauderdale for $60 million, with the seller providing $40 million in financing. The 1.2-acre oceanfront parcel is zoned for a 541-unit residential development and is positioned as one of the last remaining oceanfront development opportunities in Fort Lauderdale, likely triggering redevelopment.",
-      "impact": "Scarce oceanfront land in Fort Lauderdale signals tight supply of premium development sites and validates aggressive pricing for last-remaining parcels—expect continued bid-up in South Florida coastal submarkets. El-Ad's financing flexibility and long-term hold mentality suggests development timing is multi-year; monitor absorption in adjacent rental communities to inform delivery phasing."
+      "summary": "El-Ad National Properties (Boca Raton division of Israeli billionaire Isaac Tshuva's El-Ad Group) acquired the oceanfront Sea Club Resort in Fort Lauderdale for $60 million with $40 million in seller financing. The 99-room, 54,982-sf property sits on 1.2 acres at a prime oceanfront location. The land is zoned to support a 541-unit, 246,989-sf mixed-use development up to 200 feet (240 feet with 60% hotel component); the resort's historic lobby is protected.",
+      "impact": "South Florida development: El-Ad's acquisition signals confidence in Fort Lauderdale beachfront redevelopment and potential residential upside. The 541-unit entitlement and oceanfront scarcity create a rare dense multifamily-plus-hotel play; soft-landing zoning and significant deferred maintenance on a low-value hotel create conversion/redevelopment arbitrage. This is likely a ground-up replacement rather than adaptive reuse, supporting aggressive absorption assumptions in South Florida coastal markets."
     },
     {
       "title": "Oxbow Adding 10 Retail Buildings to Pearl Project",
@@ -62,12 +92,12 @@
       "cat": "Commercial",
       "date": "2026-08-10T16:55:57+00:00",
       "bullets": [
-        "Oxbow Development adds 10 retail buildings, 85,000 sf to Pearl mixed-use project in San Antonio",
-        "Groundbreak early 2027; construction completion late 2028; partnership with 3-O Real Estate Partners",
-        "Pearl Brewery adaptive reuse transformation continues expansion across 21-acre 1900s brewery site"
+        "Oxbow Development adds 10 retail buildings, 85K sf to Pearl Project.",
+        "San Antonio Pearl Brewery: 21-acre mixed-use adaptive reuse village.",
+        "Groundbreaking early 2027; completion targeted late 2028."
       ],
-      "summary": "Oxbow Development Group and 3-O Real Estate Partners submitted plans to add 10 new retail buildings totaling 85,000 square feet to the Pearl Brewery redevelopment in San Antonio. Construction is scheduled to begin in early 2027 with completion in late 2028. The project targets a mix of local, regional, national and global tenants across the 21-acre adaptive reuse site.",
-      "impact": "Minimal direct multifamily impact; primarily retail expansion within existing mixed-use framework. However, Pearl's continued investment and long entitlement-to-delivery timeline (2027–2028) signals stable demand for mixed-use activation in San Antonio's central submarkets—potential supportive environment for adjacent residential infill, but no new demand signal for multifamily supply itself."
+      "summary": "Oxbow Development Group (partnering with 3-O Real Estate Partners) submitted plans to demolish a vacant industrial building and add 10 new retail structures totaling 85,000 sf on both sides of Avenue A within the Pearl Brewery redevelopment in San Antonio. The 21-acre adaptive reuse village project targets a mix of local, regional, national, and global retailers and is slated to break ground early 2027 and deliver by late 2028.",
+      "impact": "Minimal direct impact on multifamily. Pearl Brewery is primarily retail and adaptive reuse; however, mixed-use activation and the multi-year build timeline signal sustained consumer demand and long-term rental fundamentals in San Antonio's central neighborhoods. If Pearl's success drives residential demand nearby, apartment developers should monitor future phases and consider infill multifamily sites in the Pearl/south downtown corridor."
     },
     {
       "title": "Bezos’ Aerospace Company Could Land in Hutto",
@@ -77,12 +107,12 @@
       "cat": "Commercial",
       "date": "2026-08-10T16:39:13+00:00",
       "bullets": [
-        "Blue Origin planning 1.3M-sf manufacturing plant in Hutto, Texas; $650M investment, ~2,000 jobs targeted",
-        "Project Blue Hub would establish major aerospace/defense hub in Central Texas near SpaceX (Bastrop)",
-        "Local incentives under negotiation; significant employment concentration risk and opportunity for job-driven migration"
+        "Blue Origin proposes 1.3M-sf manufacturing plant in Hutto, Texas.",
+        "Project Blue Hub: $650M investment, targets ~2,000 skilled jobs.",
+        "Plant comparable to 26 football fields; location near Bastrop/SpaceX."
       ],
-      "summary": "Blue Origin is considering a $650 million manufacturing facility in Hutto, Texas, spanning 1.3 million square feet and creating approximately 2,000 skilled jobs. The aerospace company's potential entry into Central Texas would add to the region's spaceflight ecosystem alongside SpaceX operations in nearby Bastrop. Hutto's economic development agency is negotiating financial incentives.",
-      "impact": "Major demand signal for Central Texas multifamily—2,000 skilled aerospace jobs in Hutto would drive inbound migration and household formation, lifting rents across Austin metro periphery and secondary markets (Hutto, Round Rock, Pflugerville). If Blue Origin commits, developers should prioritize entitled land within 20–30 minutes of manufacturing campus; construction employment could also lift costs regionally. Timeline remains uncertain pending deal close."
+      "summary": "Blue Origin (Jeff Bezos' aerospace company) is exploring a manufacturing plant in Hutto, Texas—Project Blue Hub—a 1.3 million square-foot facility with an estimated $650 million investment expected to create nearly 2,000 skilled jobs. Hutto's economic development agency is pursuing financial incentives. The facility would join other Central Texas spaceflight companies, including SpaceX in nearby Bastrop.",
+      "impact": "Austin metro/Hutto demand driver: A 2,000-job Blue Origin facility would inject significant wage-earning population into the northern Austin exurb, accelerating commute-shed demand for workforce housing in Hutto, Pflugerville, and Round Rock. Multifamily developers should monitor lease-up timelines and project financing; a 2026–2027 operational ramp would support Class B/C apartment starts in the I-35 corridor 2024–2025. This is a material population pull for Central Texas if finalized."
     },
     {
       "title": "Town Lane, Axis Partners Launch IOS Platform Venture",
@@ -92,12 +122,12 @@
       "cat": "Commercial",
       "date": "2026-08-10T16:33:20+00:00",
       "bullets": [
-        "Town Lane, Axis Partners launch industrial outdoor storage (IOS) platform; 23-property acquisition in Sunbelt markets",
-        "Portfolio located in Atlanta, Houston, Dallas, Nashville; mission-critical infill assets supporting regional contractors/logistics",
-        "Institutional capital + experienced operator model; no transaction terms disclosed"
+        "Town Lane acquires 23-property industrial outdoor storage portfolio.",
+        "Platform JV with Axis Partners; assets in Atlanta, Houston, Dallas, Nashville.",
+        "Mission-critical infill IOS supporting contractors, equipment rental, distributors."
       ],
-      "summary": "Town Lane, a New York-based real estate investment firm, acquired a 23-property industrial outdoor storage portfolio and launched a platform venture with Axis Partners, an Atlanta-based operator. The portfolio comprises infill, mission-critical assets in high-growth Sunbelt markets including Atlanta, Houston, Dallas, and Nashville that support contractors, equipment rental companies, and service businesses.",
-      "impact": "Minimal direct multifamily relevance. However, capital formation in niche industrial assets signals investor appetite for Sunbelt alternative real estate and reinforces that Atlanta, Houston, Dallas, Nashville remain top-tier capital destinations—competitive dynamic for multifamily land acquisition and development financing in these core markets. IOS assets often compete for infill land with multifamily; monitor competition for scarce urban parcels."
+      "summary": "Town Lane (New York-based real estate investment manager) acquired a 23-property industrial outdoor storage (IOS) portfolio and launched a platform venture with Axis Partners (Atlanta-based industrial operator). The portfolio comprises mission-critical, infill IOS assets serving contractors, equipment rental companies, distributors, and service businesses across high-growth Sunbelt markets (Atlanta, Houston, Dallas, Nashville). Terms undisclosed; Town Lane made an investment in the Axis operating platform.",
+      "impact": "Not directly relevant to multifamily development. IOS is non-housing; however, the capital deployment in Sunbelt industrial by institutional investors signals strong fundamentals in gateway metros (Houston, Atlanta, Dallas, Nashville). These markets are also hot for apartment development; strong industrial/logistics ecosystems underpin job growth and wage profiles that support multifamily rent growth and absorption in these submarkets."
     },
     {
       "title": "James Marcellino Re-Joins Colliers’ New York City Office as Vice President",
@@ -107,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-08-10T16:24:05+00:00",
       "bullets": [
-        "James Marcellino rejoins Colliers NYC as Vice President; 17+ years office leasing and institutional asset experience",
-        "Colliers expanding New York office leasing presence; hire reflects firm's growth strategy in Manhattan market",
-        "Marcellino brings landlord and occupier expertise from L&L Holding, Bracha Group, and advisory roles"
+        "James Marcellino rejoins Colliers NYC as Vice President.",
+        "Focus: office leasing and tenant representation in Manhattan.",
+        "Brings 17+ years institutional owner/landlord/occupier experience."
       ],
-      "summary": "James Marcellino rejoined Colliers' New York office as Vice President, focusing on office leasing and tenant representation. With 17 years of experience advising institutional owners and occupiers, Marcellino previously held senior leasing roles at L&L Holding and recently worked as a real estate consultant for the Bracha Group and other institutional clients.",
-      "impact": "Minimal multifamily impact. Signals Colliers' confidence in NYC office market recovery and continued institutional leasing activity—relevant only if office-to-residential conversion opportunities accelerate in Manhattan submarkets. No direct demand, supply, capital, or cost signal for multifamily development."
+      "summary": "James Marcellino, after 13+ years away, has re-joined Colliers' New York City office as Vice President effective Aug. 10, focusing on office leasing and tenant representation. He brings 17+ years advising institutional owners, landlords, and occupiers on office transactions, with recent experience at L&L Holding Company and as a consultant to firms like Bracha Group and Modernus.",
+      "impact": "Minimal impact on multifamily development. Marcellino's hire signals Colliers' continued emphasis on Manhattan office leasing amid market softness; his institutional ownership background may support office-to-residential conversion advisory, but the hire does not indicate new multifamily demand or supply signals in NYC markets."
     },
     {
       "title": "Westville To Open at 540 Third Avenue in Murray Hill",
@@ -122,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-08-10T16:07:33+00:00",
       "bullets": [
-        "Westville restaurant signs 4,148-sf lease at 540 Third Avenue (Murray Hill); ground and lower-level space",
-        "Retail asking rent ~$394/sf in nearby Herald Square area (Q2 2026); mixed-use residential base at Dian building (160 units)",
-        "12th U.S. location for Westville; typical neighborhood-serving retail activation in Manhattan residential tower"
+        "Westville restaurant opens 12th U.S. location at 540 Third Avenue, Manhattan.",
+        "Lease: 4,148 sf (2,739 ground floor, 1,409 lower level), Murray Hill.",
+        "440 Third Avenue (the Dian): 22-story, 160-unit residential building."
       ],
-      "summary": "Westville, a restaurant brand, signed a 4,148-square-foot lease at 540 Third Avenue in Murray Hill, comprising 2,739 square feet on the ground floor and 1,409 square feet on the lower level. The Dian, a 22-story, 160-unit residential building, serves as the host. Comparable Herald Square retail asking rents averaged $394 per square foot in Q2 2026.",
-      "impact": "Minimal multifamily impact. Demonstrates continued ground-floor retail tenancy confidence in Manhattan mixed-use residential buildings, supporting property value and stabilized rents. No demand, supply, capital, or development cost signal; standard neighborhood retail fill in established residential asset."
+      "summary": "Westville, a classic American restaurant brand, signed a 4,148-sf ground and lower-level lease at 540 Third Avenue (the Dian) in Manhattan's Murray Hill neighborhood for its 12th U.S. location. The mixed-use building (160 residential units, 22 stories) sits at the corner of Third Avenue and East 36th Street. Asking rent and lease term not disclosed; Herald Square-area retail averaged $394/sf in Q2 2026.",
+      "impact": "Minimal impact on multifamily development. Retail ground-floor leasing in NYC—even at mixed-use residential buildings—reflects restaurant operator confidence in neighborhood foot traffic, not apartment demand signals. However, the Dian's 160-unit residential component and leasing activity in Murray Hill suggest steady renter traffic; no supply or demand surprise here."
     },
     {
       "title": "Bristol Myers Squibb Chooses Houston for $2.3B Investment",
@@ -137,42 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-10T16:03:14+00:00",
       "bullets": [
-        "Bristol Myers Squibb selects Houston Generation Park for $2.3B manufacturing campus; ~500 skilled jobs",
-        "Modular, multi-modal pharmaceutical manufacturing facility; part of BMS's $40B five-year U.S. investment commitment",
-        "Eli Lilly also investing $6.5B in Generation Park complex; Houston becomes major pharma/life sciences hub"
+        "Bristol Myers Squibb commits $2.3B manufacturing campus in Houston.",
+        "Generation Park location; ~500 skilled jobs, modular/multi-modal design.",
+        "Part of $40B U.S. investment over five years across R&D and manufacturing."
       ],
-      "summary": "Bristol Myers Squibb selected Generation Park in Houston for a $2.3 billion multi-modal pharmaceutical manufacturing campus that will create approximately 500 skilled jobs. The facility will support small molecules, biologics, and antibody-drug conjugates. This investment is part of BMS's $40 billion five-year U.S. commitment and follows Eli Lilly's announced $6.5 billion active pharmaceutical ingredients plant at the same complex.",
-      "impact": "Significant demand driver for Houston multifamily, particularly near Generation Park corridor. Combined BMS ($2.3B) + Eli Lilly ($6.5B) manufacturing commitments signal major employment concentration—estimate 500+ BMS jobs plus similar-scale Eli Lilly roles will draw skilled workforce inbound and boost household formation across Houston metro, especially Energy Corridor and southwest suburbs. Developers should acquire/entitle land within 15–20 minutes of Generation Park; expect sustained rent growth as job base stabilizes. Monitor construction cost inflation from dual major pharma campus build-out."
-    },
-    {
-      "title": "Mamdani, MTA Look to Proptech Solutions to Cool Subways and Heat Buildings",
-      "link": "https://commercialobserver.com/2026/08/mta-mamdani-subway-cooling-geothermal-proptech/",
-      "excerpt": "The Metropolitan Transportation Authority (MTA) and Mayor Zohran Mamdani are considering high tech options to transfer heat out of subway stations and into the buildings above, in what would likely be a complicated and pricey infrastructure project. Still, city officials and the MTA believe it could be worth it to provide straphangers with a more comfortable wait on platforms, by using the heat generated below to cut energy to commercial and residential buildings above ground. “We are exploring a lot of possible options to make stations more comfortable,” MTA Chairman Janno Lieber said during a Monday press conference in the Chambers Street Station on the J and Z lines. “We’re looking into innovative energy networks called TENs and the geothermal concepts that will allow us to capture, store and then transfer the excessive heat in a subway station so that it can be used come the winter to heat the buildings upstairs.” While the technology has never been used in coordination with a transit system before, some buildings in New York City gather heat from below ground through geothermal technology, including St. Patrick’s Cathedral in Midtown and 555 Greenwich Street in Hudson Square. It is most widely used in Canada and Europe, according to Lieber, and proptech companies have been showcasing the use of geothermal piles as building infrastructure for several years now. It’s unclear what exactly the technology would look like on a grand scale or how many buildings it would serve, but city officials such as New York City Comptroller Mark Levine believe it could get complicated between city, state and private stakeholders. But it could be expanded to cultivate heat from grocery store refrigerators and small data centers scattered across the five boroughs. Mamdani name-dropped several city-owned buildings on Monday, such as City Hall, the David N. Dinkins Municipal Building or the Tweed Courthouse. “To do so, we would capture heat in bore holes that would run 500 to 600 fee",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-10T15:54:43+00:00",
-      "bullets": [
-        "NYC MTA and Mayor Mamdani exploring thermal energy networks (TENs) to capture subway heat, transfer to buildings above",
-        "Geothermal/energy-capture infrastructure project; targets platform cooling and building heating via heat exchange",
-        "Technology untested in transit coordination; potentially expensive, complicated infrastructure retrofit with long development timeline"
-      ],
-      "summary": "The NYC Metropolitan Transportation Authority and Mayor Zohran Mamdani are exploring thermal energy networks (TENs) and geothermal concepts to capture excess heat from subway stations and transfer it to commercial and residential buildings above ground. While the technology offers potential benefits for platform cooling and building-level efficiency, it has never been coordinated with a transit system and would likely require significant investment and complexity.",
-      "impact": "Long-term strategic signal for Manhattan multifamily developers: if TENs infrastructure materializes, it could reduce operating costs for residential buildings in dense transit-oriented markets and unlock development economics for previously marginal sites. However, timeline is uncertain and capital requirements unknown; monitor pilot projects. No near-term supply, demand, or financing impact; primarily a cost-efficiency opportunity for future multifamily operating margins in core Manhattan."
-    },
-    {
-      "title": "Public/Private Partnership Could Net Opa-Locka 1,500 Rental Units, Retail, Hotel",
-      "link": "https://www.connectcre.com/stories/public-private-partnership-could-net-opa-locka-1500-rental-units-retail-hotel/",
-      "excerpt": "DBJ&amp;L and MRK Partners are working with the town of Opa-Locka to redevelop its historic downtown. The plan includes thousands of residential units and 275,000 square feet of retail. The S. Florida Business Journal reports the city’s community redevelopment agency voted in favor of a resolution that authorizes negotiations for a long-term ground lease involving the development group and six publicly owned properties. The developers seek to replace those buildings with 225 apartments, 50,000 square feet of flex space, a 35,000-square-foot grocery store, a 15,000-square-foot daycare facility and a 100-room hotel, as part of the first phase of development. Across all phases, the project would add about 1,500 residential units, including affordable housing, and 275,000 square feet of retail, plus the hotel, a structured parking garage and a new elementary school, all on more than 16 acres. Opa-Locka City Place would be one of the biggest projects in years in the city. The town had a population of about 16,000 people last year. The post Public/Private Partnership Could Net Opa-Locka 1,500 Rental Units, Retail, Hotel appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-10T15:38:24+00:00",
-      "bullets": [
-        "DBJ&L and MRK Partners pursue 1,500-unit multifamily project in Opa-Locka (South Florida) via public-private partnership",
-        "Phase 1: 225 apartments, 50k-sf flex, 35k-sf grocery, 15k-sf daycare, 100-room hotel on 6 publicly owned properties",
-        "Full-build includes 1,500 units, 275k-sf retail, hotel, parking, elementary school across 16+ acres; ground lease structure"
-      ],
-      "summary": "DBJ&L and MRK Partners are negotiating a long-term ground lease with Opa-Locka to redevelop six publicly owned properties in the city's historic downtown. Phase 1 will deliver 225 apartments, 50,000 square feet of flex space, a 35,000-square-foot grocery store, a 15,000-square-foot daycare, and a 100-room hotel. The full master plan encompasses 1,500 rental units (including affordable housing), 275,000 square feet of retail, parking, and an elementary school across 16+ acres.",
-      "impact": "Significant supply addition to South Florida multifamily market, particularly in Opa-Locka submarket. 1,500-unit pipeline signals aggressive infill/redevelopment activity in lower-density, underutilized corridors near Miami; municipal partnership de-risks entitlement and ground lease economics. Monitor absorption and rent trajectory as Phase 1 delivers (likely 2027–2029); competitive pressure on adjacent secondary markets. Affordable housing component and mixed-use retail/services indicate demand for workforce housing in Miami periphery. Early development signal for competing projects in Opa-Locka and similar Miami-Dade opportunity zones."
+      "summary": "Bristol Myers Squibb (BMS) selected Houston's Generation Park for a new $2.3 billion multi-modal manufacturing campus creating nearly 500 skilled jobs. The modular campus allows BMS to scale manufacturing capacity for small molecules, biologics, and antibody-drug conjugates. This investment is part of BMS' broader $40 billion, five-year U.S. commitment to R&D, technology, and domestic manufacturing. Last year, Eli Lilly announced a $6.5 billion API plant in the same Generation Park complex.",
+      "impact": "Houston metro demand driver: BMS's $2.3B campus and 500-job commitment, coupled with Eli Lilly's $6.5B API plant at Generation Park, signal major life sciences agglomeration and wage-earner migration into northwest Houston. Multifamily developers should prioritize Class A apartment supply near Generation Park and along I-290/Beltway 8 northwest corridor; skilled manufacturing and biotech jobs command premium rents and support absorption velocity. A 2-3 year operational ramp creates a window to deliver workforce housing in 2025–2026."
     }
   ]
 }
