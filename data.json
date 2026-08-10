@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-10T15:51:52.351666+00:00",
+  "fetchedAt": "2026-08-10T16:43:38.388350+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -10,20 +10,65 @@
     {
       "label": "10Y Treasury",
       "value": "4.69%",
-      "pct": 0.73
+      "pct": 0.69
     },
     {
       "label": "30Y Treasury",
       "value": "5.24%",
-      "pct": 0.56
+      "pct": 0.46
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "96.98",
-      "pct": -1.48
+      "value": "96.94",
+      "pct": -1.51
     }
   ],
   "stories": [
+    {
+      "title": "James Marcellino Re-Joins Colliers’ New York City Office as Vice President",
+      "link": "https://commercialobserver.com/2026/08/james-marcellino-colliers-new-york-vice-president/",
+      "excerpt": "More than 13 years after departing Colliers as an associate director, James Marcellino has returned to the company’s New York office as a vice president. Starting today, Aug. 10, , Marcellino’s new role will focus on office leasing and tenant representation as Colliers continues expanding its New York presence, according to an announcement by the firm. John Gallagher, executive managing director for New York City at Colliers, called Marcellino’s return “another important step” in the firm’s growth. “His institutional ownership experience and entrepreneurial perspective will bring immediate value to our clients and our team, and we’re thrilled to welcome him back,” Gallagher said in a statement. The executive brings with him more than 17 years of experience advising institutional owners, landlords and occupiers on office leasing. In his most recent work as a real estate consultant, Marcellino advised the Bracha Group, Modernus Architectural Products, and Christie&#8217;s International Real Estate’s leading residential sales team, the Gottlieb Team. Marcellino previously served as vice president of leasing at L&amp;L Holding Company from 2023 to 2024, according to the announcement. While there, he oversaw leasing strategy for its 6.3 million-square-foot portfolio and completed nearly 344,000 square feet of office and retail transactions. Marcellino first arrived at Colliers as an associate director in late 2011. He departed in 2013 for an associate role at CBRE, and eventually moved on to leasing leadership positions at CIM Group and the Moinian Group. “Colliers has built a tremendous platform in New York, and I’m excited to return at a time when clients are looking for thoughtful, experienced guidance on increasingly complex real estate decisions,” Marcellino said in a statement. “I’ve built my career on strong relationships and finding opportunities that create meaningful value for clients, and I’m excited to continue that work at Colliers.” Marcellino earned his un",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-10T16:24:05+00:00",
+      "bullets": [
+        "James Marcellino rejoins Colliers NYC as VP after 13-year absence",
+        "Focus: office leasing and tenant representation in New York market",
+        "Brings 17+ years institutional owner and landlord advisory experience"
+      ],
+      "summary": "Colliers has rehired James Marcellino as vice president in its New York office to expand office leasing and tenant representation. Marcellino brings 17+ years advising institutional owners, landlords, and occupiers on office transactions and previously worked at L&L Holding Company. The hire signals Colliers' commitment to growing its NYC brokerage presence.",
+      "impact": "Minimal direct impact on multifamily development. This is an office-focused hire and does not signal shifts in rental demand, capital availability, or construction feasibility for apartment development."
+    },
+    {
+      "title": "Westville to Open at 540 Third Avenue in Murray Hill",
+      "link": "https://commercialobserver.com/2026/08/westville-lease-540-third-avenue-murray-hill/",
+      "excerpt": "Westville is getting ready to open its 12th location in the U.S. and bring a selection of classic American foods to Manhattan’s Murray Hill neighborhood. The restaurant brand just signed a 4,148-square-foot lease at the base of 540 Third Avenue, also known as the Dian, a 22-story, 160-unit residential building at the corner of Third Avenue and East 36th Street, according to broker Meridian Capital Group. The lease comprises 2,739 square feet on the ground floor and 1,409 square feet on the lower level. The asking rent and the length of the lease were not disclosed, but the average asking rent for retail space in the nearby Herald Square area was $394 per square foot during the second quarter of 2026, according to CBRE data. CBRE’s Robert Bonicoro and Betsy Da Silva represented Westville in the lease, while Meridian’s James Famularo and Jordan Langer represented ownership, which is a joint venture between Gilar Realty and Ranco Capital. CBRE did not immediately respond to Commercial Observer’s request for comment. “Westville had its pick of locations in this market, and its decision to commit long-term at 540 Third Avenue underscores the continued demand for well-built, well-located retail on Third Avenue,” Langer said in a statement. Meridian did not disclose when Westville will open its new Murray Hill location. The franchise also has Manhattan restaurants in the West Village, Chelsea, the East Village, the Upper East Side and on Wall Street, as well as a spot in Long Island City, Queens. Westville opened its first location outside of New York City in Northern Virginia. “When Whole Foods and Westville commit to the same few blocks within months of each other, that is not a coincidence, it is a corridor being repositioned in real time,” Famularo said in a statement. “Ownership delivered a first-class space and held firm on value, and we brought in an operator that will draw customers from the day it opens.” Amanda Schiavo can be reached at aschiavo@commercialobserve",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-10T16:07:33+00:00",
+      "bullets": [
+        "Westville restaurant signs 4,148 SF lease at 540 Third Avenue, Murray Hill",
+        "160-unit residential building (the Dian) attracting ground-floor dining anchor tenant",
+        "Herald Square retail averaging $394/SF asking rent in Q2 2026"
+      ],
+      "summary": "Westville, a classic American restaurant brand, signed a 4,148-square-foot lease at the base of the Dian, a 22-story, 160-unit residential building at Third Avenue and East 36th Street in Manhattan's Murray Hill neighborhood. The space spans 2,739 SF on the ground floor and 1,409 SF on the lower level. The lease reflects continued retail leasing activity and demand for restaurant concepts in the Murray Hill submarket.",
+      "impact": "Validates retail demand and street-level activation in Murray Hill residential buildings; successful ground-floor lease-up at 540 Third Avenue (owned by Gilar/Ranco) demonstrates mixed-use viability in the area, reducing lease-up risk and NOI pressure for residential developments anchored with quality retail. Signals continued appetite for restaurant concepts in Manhattan multifamily buildings."
+    },
+    {
+      "title": "Mamdani, MTA Look to Proptech Solutions to Cool Subways and Heat Buildings",
+      "link": "https://commercialobserver.com/2026/08/mta-mamdani-subway-cooling-geothermal-proptech/",
+      "excerpt": "The Metropolitan Transportation Authority (MTA) and Mayor Zohran Mamdani are considering high tech options to transfer heat out of subway stations and into the buildings above, in what would likely be a complicated and pricey infrastructure project. Still, city officials and the MTA believe it could be worth it to provide straphangers with a more comfortable wait on platforms, by using the heat generated below to cut energy to commercial and residential buildings above ground. “We are exploring a lot of possible options to make stations more comfortable,” MTA Chairman Janno Lieber said during a Monday press conference in the Chambers Street Station on the J and Z lines. “We’re looking into innovative energy networks called TENs and the geothermal concepts that will allow us to capture, store and then transfer the excessive heat in a subway station so that it can be used come the winter to heat the buildings upstairs.” While the technology has never been used in coordination with a transit system before, some buildings in New York City gather heat from below ground through geothermal technology, including St. Patrick’s Cathedral in Midtown and 555 Greenwich Street in Hudson Square. It is most widely used in Canada and Europe, according to Lieber, and proptech companies have been showcasing the use of geothermal piles as building infrastructure for several years now. It’s unclear what exactly the technology would look like on a grand scale or how many buildings it would serve, but city officials such as New York City Comptroller Mark Levine believe it could get complicated between city, state and private stakeholders. But it could be expanded to cultivate heat from grocery store refrigerators and small data centers scattered across the five boroughs. Mamdani name-dropped several city-owned buildings on Monday, such as City Hall, the David N. Dinkins Municipal Building or the Tweed Courthouse. “To do so, we would capture heat in bore holes that would run 500 to 600 fee",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-10T15:54:43+00:00",
+      "bullets": [
+        "MTA and Mayor Mamdani explore thermal energy networks (TENs) to capture subway heat",
+        "Technology would transfer excess platform heat to warm buildings above ground",
+        "Never before deployed in transit coordination; infrastructure project cost unspecified"
+      ],
+      "summary": "New York City officials and the MTA are exploring thermal energy networks (TENs) and geothermal concepts to capture excess heat from subway stations and transfer it to residential and commercial buildings above ground. MTA Chairman Janno Lieber stated the agency is considering this innovation to improve passenger comfort while reducing energy costs for above-ground properties. The technology has not yet been deployed in coordination with a transit system.",
+      "impact": "Early-stage but potentially game-changing for NYC multifamily economics if deployed at scale: capturing subway waste heat could materially lower operating costs and carbon footprint for residential buildings proximate to major transit, improving NOI and asset values. Watch for pilot projects; any TEN deployment would create a competitive advantage for developments near high-heat subway corridors (e.g., Manhattan core, busy lines). Feasibility and capex remain unproven."
+    },
     {
       "title": "Private Equity Firm OceanSound Expands to 32K SF at SL Green’s 450 Park Avenue",
       "link": "https://commercialobserver.com/2026/08/oceansound-lease-expansion-sl-green-450-park-avenue/",
@@ -32,42 +77,12 @@
       "cat": "Commercial",
       "date": "2026-08-10T14:44:53+00:00",
       "bullets": [
-        "OceanSound Partners expands 10K SF to 32K SF at SL Green's 450 Park Avenue, Midtown Manhattan.",
-        "Five-year lease at $170/SF asking rent; OceanSound consolidates two floors into contiguous space.",
-        "Property recently renovated; tenant demand for upscale Midtown office remains active despite sector headwinds."
+        "OceanSound Partners expands 32,032 SF at SL Green's 450 Park Avenue, Midtown",
+        "Five-year lease adds ~10,400 SF to existing 21,640 SF subleased space",
+        "Building asking rent ~$170/SF as of March; recent renovations cited as draw"
       ],
-      "summary": "Private equity firm OceanSound Partners expanded its footprint at SL Green's 450 Park Avenue office tower in Midtown Manhattan, securing 32,032 square feet across three floors on a five-year lease at approximately $170 per square foot. The firm previously occupied 21,640 square feet on two floors and is consolidating and expanding into a larger contiguous block. SL Green's recent renovation work has attracted quality tenants despite ongoing office sector uncertainty.",
-      "impact": "Limited direct relevance to multifamily development. However, sustained office leasing activity and tenant expansion in trophy Midtown locations signals resilience in high-end Manhattan office market, which indirectly supports mixed-use and residential development financing in the NYC metro by demonstrating broader economic health."
-    },
-    {
-      "title": "Stream Lands Cummins Station Leasing Assignment",
-      "link": "https://www.connectcre.com/stories/stream-lands-cummins-station-leasing-assignment/",
-      "excerpt": "Stream Realty Partners has been awarded the leasing assignment for Cummins Station, a more than 400,000-square-foot adaptive reuse office property located at 209 10th Ave. S in Nashville’s Urban Core. DZL Management is the owner of Cummins Station. Originally constructed as a rail terminal and warehouse, Cummins Station has been transformed into one of Nashville&#8217;s most iconic creative office and retail destinations, blending historic character with modern workplace design and amenities. Besides retail, the property offers office space ranging from approximately 1,300 to more than 30,000 square feet, along with flexible office and coworking space. Located in Nashville’s Urban Core between Downtown and The Gulch, Cummins Station is near the city&#8217;s business, dining, entertainment, and hospitality offerings. The property also features a robust amenity package, including ample parking, a conference center, a fitness center currently under construction, and an outdoor garden area. Stream’s Stewart Lyman, Adam Rumsey, and Ben Dotye will oversee leasing on behalf of the owner, DZL. The post Stream Lands Cummins Station Leasing Assignment appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-10T14:21:59+00:00",
-      "bullets": [
-        "Stream Realty Partners awarded leasing for Cummins Station, 400K+ SF adaptive reuse in Nashville Urban Core.",
-        "Converted rail terminal/warehouse blends creative office, retail, coworking; flexible 1.3K–30K+ SF office suites.",
-        "Property near Downtown/Gulch with amenities, parking, conference, fitness center, garden—targets mixed-use user demand."
-      ],
-      "summary": "Stream Realty Partners secured the leasing assignment for Cummins Station, a 400,000-plus-square-foot adaptive reuse office and retail property at 209 10th Avenue South in Nashville's Urban Core. The historic rail terminal and warehouse features flexible office space ranging from 1,300 to over 30,000 square feet, along with coworking, retail, and an amenity suite. The property's location between Downtown and The Gulch positions it for strong demand from creative and professional tenants.",
-      "impact": "Adaptive reuse conversions in high-density urban neighborhoods signal strong demand for mixed-use environments and flexible workspaces in Nashville's core. This reinforces the Urban Core and Gulch corridors as magnet submarkets for younger demographic and tech/creative talent—a tail indicator of where multifamily demand will cluster and support rents in nearby residential projects."
-    },
-    {
-      "title": "Ryman Acquires Orlando Resorts for Record $1.38B",
-      "link": "https://www.connectcre.com/stories/ryman-acquires-orlando-resorts-for-record-1-38b/",
-      "excerpt": "Trinity Investments sold the Grande Lakes Orlando Resort, a 409-acre luxury complex anchored by a 582-key Ritz-Carlton (shown) and a 1,010-key JW Marriott, for $1.38 billion to Ryman Hospitality Properties, Inc. Trinity acquired the resort in December 2018 for $870 million, with financial backing from Elliott Investment Management. Trinity asserts the sale represents the largest non-gaming U.S. resort transaction on record. The asset features 320,000 square feet of indoor and outdoor meeting space, 14 food and beverage outlets, a 40,000-square-foot spa with 40 treatment rooms, and a Greg Norman-designed 18-hole championship golf course, which hosts the PGA Tour’s PNC Championship. Since the acquisition, Trinity has completed a comprehensive renovation and repositioning of the resort. Upon closing, this transaction follows the September 2025 sale of EAST Miami to Blackstone Real Estate and the June 2025 sale of the JW Marriott Phoenix Desert Ridge Resort &amp; Spa to Ryman Hospitality Properties. The post Ryman Acquires Orlando Resorts for Record $1.38B appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-10T14:02:51+00:00",
-      "bullets": [
-        "Trinity Investments sells Grande Lakes Orlando Resort to Ryman Hospitality for $1.38B; largest non-gaming U.S. resort deal on record.",
-        "409-acre complex: 582-key Ritz-Carlton, 1,010-key JW Marriott, 320K SF meeting space, Greg Norman golf course.",
-        "Trinity acquired December 2018 for $870M; post-acquisition renovation and PNC Championship golf tournament anchor value."
-      ],
-      "summary": "Trinity Investments sold the Grande Lakes Orlando Resort—a 409-acre luxury complex anchoring 1,592 hotel keys, 320,000 square feet of meeting space, and a PGA Tour-host golf course—to Ryman Hospitality Properties for $1.38 billion, marking the largest non-gaming U.S. resort transaction on record. Trinity purchased the asset for $870 million in December 2018 and completed comprehensive renovations. The transaction reflects strong capital deployment in Florida resort hospitality.",
-      "impact": "Not directly relevant to multifamily development. However, $1.38B capital redeployment to hospitality in Orlando signals investor confidence in Florida tourism and convention demand post-pandemic, which indirectly supports broader real estate investment activity and labor in-migration to Orlando—a secondary demand signal for multifamily in the metro, though hospitality-focused rather than residential-focused."
+      "summary": "Private equity firm OceanSound Partners expanded its footprint at 450 Park Avenue (SL Green Realty) by signing a new five-year lease for 32,032 SF across floors 8, 22, and 23. OceanSound previously subleased 21,640 SF on floors 22–23, so the deal represents a ~10,400 SF net expansion. SL Green's recent building renovations were cited as key to attracting the tenant at an asking rent of ~$170/SF.",
+      "impact": "Negligible impact on multifamily development. This is an office lease renewal and expansion; it signals tenant stickiness and modest office demand in Midtown Manhattan, but does not affect apartment supply, demand, or capital flows. No material second-order effects for residential development."
     },
     {
       "title": "What’s Driving CMBS Distress in the Top U.S. Metro Areas",
@@ -77,102 +92,12 @@
       "cat": "Commercial",
       "date": "2026-08-10T13:30:34+00:00",
       "bullets": [
-        "CMBS distress: $45.8B of $393.5B outstanding (11.6%) across top 50 metros; multifamily distress doubled Feb–now to 13%.",
-        "Minneapolis (55.1%), Denver (35.9%), Oklahoma City (34.1%) lead; Phoenix, Boston, Las Vegas, Orlando near 3%.",
-        "Office distress eased 21.2% to 16.7%; multifamily now primary distress driver—signal of weakening apartment fundamentals."
+        "$45.8B of $393.5B CMBS distressed (11.6%) across top 50 metros",
+        "Multifamily distress doubled Feb–present: 6% to 13%; office distress fell 21.2% to 16.7%",
+        "Minneapolis (55.1%), Denver (35.9%), OKC (34.1%), Portland (30.6%), Austin (28.7%) lead distress"
       ],
-      "summary": "CMBS distress across the top 50 U.S. metros stands at $45.8 billion (11.6% of $393.5 billion outstanding), with multifamily distress more than doubling since February from 6 percent to 13 percent. Minneapolis, Denver, and Oklahoma City lead distress rankings at 55.1, 35.9, and 34.1 percent respectively, while Phoenix, Boston, Las Vegas, and Orlando cluster near 3 percent. Office distress has eased from 21.2 to 16.7 percent, signaling a property-type shift.",
-      "impact": "Multifamily distress acceleration is a critical underwriting red flag for developers and lenders. Markets with <5% CMBS distress (Phoenix, Boston, Las Vegas, Orlando) show pricing stability and lower refinance risk, signaling safer ground to acquire or build. Conversely, high-distress metros (Minneapolis 55%, Denver 36%, Austin 29%) face loan maturity walls, refinance pressure, and asset sales at uncertain values—complicating new development underwriting if nearby comparable sales are distressed. Developers should prioritize acquisition and new development in resilient submarkets with proven absorption and rent growth."
-    },
-    {
-      "title": "Barings Provides $86M Acquisition Debt for Charleston Industrial Portfolio",
-      "link": "https://commercialobserver.com/2026/08/barings-86m-acquisition-debt-charleston-industrial-portfolio/",
-      "excerpt": "Obelisk Real Estate Partners has secured $86.2 million to finance the acquisition of a three-building industrial portfolio in Charleston, South Carolina, Commercial Observer can first report. Barings provided the debt, while JLL’s Peter Rotchford, Christopher Peck, and Nicholas Thorton arranged the transaction. The seller was CenterPoint Properties. Ryan Naumes, managing director with Barings, noted in a statement that his firm has a previous relationship with Obelisk and that the portfolio is located in “one of the Southeast’s most compelling industrial markets.&#8221; “With a logistics and port-oriented location, the portfolio aligns well with our focus on high-quality industrial real estate in markets with durable demand drivers,” said Naumes. Spanning roughly 817,000 square feet across three assets, the portfolio is presently 62 percent leased, with Obelisk Real Estate Partners set to initiate a value-add investment plan through new capital improvements. Both Obelisk and Barings cited its advantageous location. Through Interstate-26 and Interstate-526, the portfolio is connected to the demand drivers like the Port of Charleston, North Charleston Terminal, and a Boeing production facility. “Charleston&#8217;s industrial sector continues to show strong momentum, making it a focus market for Obelisk,” said Jake Meskin, acquisitions associate with Obelisk Real Estate Partners. Brian Pascus can be reached at bpascus@commercialobserver.com. &nbsp;",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-10T12:57:49+00:00",
-      "bullets": [
-        "Barings provides $86.2M acquisition debt for Obelisk Real Estate Partners' three-building Charleston industrial portfolio.",
-        "817K SF portfolio, 62% leased, ex-CenterPoint Properties; location near port and logistics hubs cited as driver.",
-        "Value-add repositioning plan planned; Southeast industrial demand tied to port and supply-chain resilience."
-      ],
-      "summary": "Obelisk Real Estate Partners secured $86.2 million in acquisition financing from Barings for a three-building industrial portfolio in Charleston, South Carolina, totaling approximately 817,000 square feet and currently 62 percent leased. The portfolio, previously held by CenterPoint Properties, is positioned near Charleston's port and logistics infrastructure. Obelisk plans a value-add capital improvement strategy to drive leasing and value creation.",
-      "impact": "Not directly relevant to multifamily development. However, robust debt capital availability for industrial in Charleston—a logistics/port-driven market—signals healthy debt markets and investor appetite for essential-use real estate. Indirect relevance: strong industrial demand and in-migration of logistics jobs to Charleston supports downstream residential demand, favorably positioning multifamily development in Charleston submarkets adjacent to job clusters."
-    },
-    {
-      "title": "Equity Residential and AvalonBay: Inside the $71B Mega Multifamily Merger",
-      "link": "https://commercialobserver.com/2026/08/equity-residential-avalonbay-communities-inside-71b-mega-multifamily-merger/",
-      "excerpt": "On May 21, shortly before Memorial Day weekend, participants in public real estate markets awoke to a truly remarkable headline. AvalonBay Communities, the owner of 98,000 apartments and with a market capitalization of $25 billion, would be merging with Equity Residential, one of the oldest real estate investment trusts (REITs) in America, holding 85,000 apartments and $20.5 billion assets under management. “The initial reaction was, ‘Holy cow, two of the largest, most storied apartment REIT companies nationally are choosing to merge,’” said Allan Swaringen, president and CEO of JLL Income Property Trust, a REIT. “These are the two biggest gorillas in the multifamily marketplace who decided to come together. It’s a true merger of equals.” With a total enterprise value of roughly $71 billion, the deal marks the single largest public REIT merger ever, dwarfing the 2022 deal between Prologis and Duke Realty valued at $26 billion. The two apartment firms announced in late July their new company will be called Vivmark Residential. Once the all-stock merger is complete later this year, this new multifamily behemoth will own more than 180,000 rental apartments across more than 600 communities in the U.S. — mainly in the largest coastal cities — plus another 10,800 apartments and $4.4 billion under construction across 32 communities, of which 50 percent will hold an affordable or mixed-income component, the firms noted in a shared release. “My first reaction is they should’ve done it a few years ago. It’s a very natural merger,” said Matt Frankel, a stock market analyst at the Motley Fool, who noted that roughly 95 percent of Equity Residential and AvalonBay’s businesses operate out of the same markets, mainly New York, San Francisco, Boston and Washington, D.C. Equity is headquartered out of Chicago, while AvalonBay calls Arlington, Va., home. “This would be like if Visa or Mastercard were allowed to merge. They’re businesses of the same size and they specialize in the sam",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-10T10:30:01+00:00",
-      "bullets": [
-        "Equity Residential + AvalonBay merge in all-stock deal valued at ~$71B; creates Vivmark Residential with 180K+ apartments.",
-        "AvalonBay: 98K apartments, $25B market cap; Equity: 85K apartments, $20.5B AUM; largest public REIT merger ever.",
-        "Merger expected to close late 2025; dwarfs 2022 Prologis-Duke Realty deal ($26B); consolidates two largest multifamily REITs."
-      ],
-      "summary": "AvalonBay Communities and Equity Residential announced an all-stock merger valued at approximately $71 billion, creating Vivmark Residential with over 180,000 apartment units. AvalonBay brings 98,000 apartments and a $25 billion market cap, while Equity Residential contributes 85,000 apartments and $20.5 billion in AUM. Expected to close in late 2025, the transaction is the largest public REIT merger on record, far exceeding the 2022 Prologis-Duke Realty deal valued at $26 billion.",
-      "impact": "This mega-merger fundamentally reshapes multifamily industry structure and capital allocation. A 180K-unit REIT will have unmatched market power in acquisition, development site competition, and capital markets access—raising competitive pressure on mid-size and regional developers. Expect Vivmark to accelerate development in core markets (Boston, NYC, DC, LA, San Francisco) and potentially divest non-core or overlapping assets, signaling which markets the market leader is prioritizing. Smaller developers should monitor Vivmark's portfolio sales and site divestitures as acquisition opportunities and prepare for tighter competition for development sites, financing, and talent in top-tier markets."
-    },
-    {
-      "title": "Sunday Summary: Seven. Hundred. Fifty. Billion.",
-      "link": "https://commercialobserver.com/2026/08/sunday-summary-seven-hundred-fifty-billion/",
-      "excerpt": "Three-quarters of a trillion dollars can buy you pretty much anything you want. If you took the gross national product of Chile, and added the GNP of Colombia, you’d still have more than $100 billion left — and that can also get you pretty much anything in the known world. Well, J.P. Morgan Chase has decided to use that ungodly amount of lucre to invest it in a roof over one’s head. On Monday, the bank announced an unprecedented push to build $750 billion worth of housing over the next nine years with the goal of increasing both supply and homeownership nationwide. (Oh, yeah — Commercial Observer broke the story.) “We’re focused on helping more people access quality housing they can afford,” said Michelle Herrick, the bank’s head of commercial real estate. “And we’re working across the real estate community, local governments and nonprofits to scale housing solutions throughout the U.S.” J.P. Morgan’s approach will be to focus on expanding financing through debt, equity and grants, with a target of creating 1 million units of affordable housing. They’re hoping to aid 500,000 customers, of which they’re anticipating 200,000 will be first-time buyers. Of course, the timing of this is opportune. Back in May, CO reported that construction starts on multifamily projects throughout the U.S. for the first quarter of this year hadn’t been this low since 2011. But a few companies have been trying to meet the demand — at least in certain regions. In New York, for example, LMXD and Bedrock Real Estate Partners are building a 560-unit mixed-income development in Astoria. In Florida, Ultimate Equity just shelled out $32 million for a 69-unit townhome community in Hollywood. Krea USA is mid-construction on a 385-unit development called Le Parc at Lauderhill in Lauderhill, Fla. And Harbor Group International bought a zoo — actually, make that HGI bought a garden-style apartment complex near Zoo Miami. California is one of the more valuable and perhaps the most vexing areas for hou",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-09T13:00:18+00:00",
-      "bullets": [
-        "JPMorgan Chase announces $750B housing investment commitment over 9 years; target of 1M affordable units.",
-        "Financing via debt, equity, grants; goal to serve 500K customers and expand homeownership and affordable supply.",
-        "Unprecedented scale capital commitment signals institutional focus on housing supply shortage and affordable housing crisis."
-      ],
-      "summary": "JPMorgan Chase announced an unprecedented $750 billion housing investment initiative over nine years, targeting 1 million units of affordable housing and serving 500,000 customers. The bank will deploy capital through debt, equity, and grants, working with local governments, nonprofits, and real estate partners to scale housing solutions nationwide. The commitment reflects institutional recognition of the nation's housing supply shortage and affordability crisis.",
-      "impact": "JPMorgan's $750B commitment is a watershed moment for multifamily and affordable housing development financing. The bank's focus on debt, equity, and grants lowers capital barriers for developers tackling affordable housing—expect easier financing for workforce and mixed-income projects. However, the sheer scale may accelerate capital concentration among large, nationally-scaled developers with established affordable housing expertise and track records. Regional and smaller developers should explore partnerships with JPMorgan and leverage the bank's capital to fund mixed-income and affordable projects; simultaneously, prepare for increased competition from larger, better-capitalized peers entering affordable housing markets at scale."
-    },
-    {
-      "title": "Selldorf Architects Signs Long-Term Renewal at 860 Broadway",
-      "link": "https://www.connectcre.com/stories/selldorf-architects-signs-long-term-renewal-at-860-broadway/",
-      "excerpt": "Colliers SVP Seth Hecht has secured a 10-year, 13,815-square-foot lease renewal for architecture firm Selldorf Architects at 860 Broadway. Hecht represented Gordon Property Group in completing the long-term renewal transaction. Selldorf Architects was represented by Erik Schmall and Scott Weiss of Savills. Led by internationally acclaimed architect Annabelle Selldorf, the firm has called 860 Broadway home for the past two decades. “860 Broadway is one of Manhattan&#8217;s iconic office buildings, and its location continues to make it a highly desirable destination for creative and innovative companies,&#8221; said Hecht. &#8220;When a firm as globally respected as Selldorf Architects commits to another decade in the building, it speaks to both the property&#8217;s enduring appeal and the long-term strength of this market.&#8221; In addition to Selldorf Architects, current 860 Broadway tenants include Industrious, Valon and retail tenant Uniqlo. Hecht is also representing Gordon Property Group in leasing three additional Manhattan office properties. The post Selldorf Architects Signs Long-Term Renewal at 860 Broadway appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-07T21:53:29+00:00",
-      "bullets": [
-        "Selldorf Architects renews 13.8K SF at 860 Broadway, Manhattan, for 10 years; architect firm retains iconic office.",
-        "Globally respected firm remains at building after 20 years; other tenants: Industrious, Valon, Uniqlo retail.",
-        "Long-term commitment signals sustained demand for creative office space in high-profile Manhattan buildings."
-      ],
-      "summary": "Selldorf Architects, led by internationally acclaimed architect Annabelle Selldorf, renewed its 13,815-square-foot lease at 860 Broadway in Manhattan for 10 years. The architecture firm has occupied the iconic office building for two decades and continues alongside tenants Industrious, Valon, and retailer Uniqlo. The long-term renewal underscores the building's enduring appeal to creative and innovative firms.",
-      "impact": "Not directly relevant to multifamily development. However, sustained leasing of trophy office space in Manhattan to globally-recognized creative firms signals cultural and economic vitality in core Manhattan neighborhoods—supporting the case that mixed-use and residential projects in proximity to creative office hubs (Flatiron, Noho, Soho corridors) will attract high-income residents and command premium rents."
-    },
-    {
-      "title": "Innocean USA Signs 100K-SF lease with Hackman Capital in Headquarters Relocation",
-      "link": "https://www.connectcre.com/stories/innocean-usa-signs-100k-sf-lease-with-hackman-capital-in-headquarters-relocation/",
-      "excerpt": "Advertising agency Innocean USA has signed a new 101,000-square-foot office lease at Hackman Capital Partners’ 888 N. Douglas property in El Segundo. The space will serve as the company’s U.S. headquarters and represents a relocation from 50,000 square feet of space in Huntington Beach. The tenant will move into its new space after construction concludes in 2027. JLL’s Jason Fine, Jeff Ingham,&nbsp;and Mitch Lundquist represented&nbsp;Innocean&nbsp;USA in the new lease. Hackman Capital represented itself. “This is a transformative change&nbsp;for&nbsp;Innocean&nbsp;USA, and we spent years&nbsp;advising the leadership team to&nbsp;help find a ‘one of one’ facility that would bring their&nbsp;company&nbsp;vision of the future to reality,” said Fine. “This is going to be a special place where their employees and creativity will absolutely thrive.”&nbsp; Across from the Lakers’ practice facility and the L.A. Times headquarters, 888 Douglas is a 30-acre campus with four buildings&nbsp;totaling&nbsp;approximately 550,000 square feet. Hackman Capital&nbsp;purchased&nbsp;the 1930s-era aerospace manufacturing site in 2016 and invested $100 million to transform it into a creative office campus. Image courtesy of Gensler. The post Innocean USA Signs 100K-SF lease with Hackman Capital in Headquarters Relocation appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-07T21:42:56+00:00",
-      "bullets": [
-        "Innocean USA relocates HQ from Huntington Beach to 101K SF at Hackman Capital's 888 N. Douglas, El Segundo.",
-        "Doubles footprint from 50K to 101K SF; move-in after construction concludes 2027; new U.S. headquarters.",
-        "30-acre creative campus with 550K SF total; Hackman invested $100M post-acquisition (2016) for creative office repositioning."
-      ],
-      "summary": "Advertising agency Innocean USA signed a 101,000-square-foot lease at Hackman Capital Partners' 888 North Douglas property in El Segundo, relocating its U.S. headquarters from 50,000 square feet in Huntington Beach. The tenant will occupy the newly constructed space in 2027. Hackman's 30-acre campus totals 550,000 square feet and is positioned across from the Lakers' practice facility and LA Times headquarters.",
-      "impact": "Innocean's HQ relocation from Huntington Beach to El Segundo signals emerging office-to-creative-space demand in South Bay markets beyond Santa Monica/Culver City. El Segundo's repositioning as a creative office hub—supported by Hackman's $100M+ investment and proximity to entertainment/Lakers infrastructure—creates a new employment center in LA metro. Multifamily developers should identify residential infill opportunities in El Segundo and nearby South Bay submarkets to capture employee housing demand from creative/tech firms migrating to the Hackman campus and other South Bay office projects."
-    },
-    {
-      "title": "MADDD Equities Scoops Up Vacant West Farms Industrial",
-      "link": "https://www.connectcre.com/stories/maddd-equities-scoops-up-vacant-west-farms-industrial/",
-      "excerpt": "Ariel Property Advisors closed the sale of 425 Devoe Ave., a vacant multi-story industrial property in the West Farms neighborhood of The Bronx, for $10,750,000. The property spans 60,000 square feet above grade, which translates to $180 per square foot, with an additional 30,000 square feet below grade. An Ariel investment sales team led by senior director Jason M. Gold, along with partner Sean R. Kelly, Esq. and director Daniel Mahfa represented the seller, Abingdon Square Partners. The buyer was MADDD Equities, LLC. “The sale of 425 Devoe Ave. demonstrates the strong demand for large, commercial sites offering convenient regional access,” said Gold. Situated on a 40,097-square-foot lot, the property features four levels of usable industrial and warehouse space. It is located near the 2 and 5 subway lines and offers convenient access to the Cross Bronx Expressway, Sheridan Boulevard and the broader New York region. The post MADDD Equities Scoops Up Vacant West Farms Industrial appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-07T21:29:58+00:00",
-      "bullets": [
-        "MADDD Equities acquires vacant 60K SF (60K above grade + 30K below) West Farms industrial in Bronx for $10.75M.",
-        "Price: $180/SF above grade; four-level multi-story industrial; near Subway 2/5 lines and Cross Bronx Expressway.",
-        "Strong demand cited for large commercial sites with regional access; ex-Abingdon Square Partners asset."
-      ],
-      "summary": "MADDD Equities purchased a 60,000-square-foot vacant multi-story industrial property at 425 Devoe Avenue in the West Farms neighborhood of the Bronx for $10.75 million ($180 per square foot above grade), plus an additional 30,000 square feet below grade. The property is situated on a 40,097-square-foot lot with four levels of usable space and convenient access to Subway lines 2 and 5, the Cross Bronx Expressway, and broader regional infrastructure.",
-      "impact": "Vacant Bronx industrial acquisition at $180/SF signals investor confidence in Bronx logistics and light-industrial repositioning. Proximity to Subway 2/5 and Cross Bronx Expressway makes the site attractive for last-mile logistics, food/beverage manufacturing, or mixed-use adaptive reuse. The transaction indicates early-stage gentrification and commercial densification in West Farms—a secondary demand signal for multifamily developers. Monitor Bronx industrial conversions and logistics clusters; nearby residential projects (mixed-income, workforce housing) will capture demand from warehouse/logistics employees and beneficiaries of improved neighborhood infrastructure."
+      "summary": "Multifamily distress in CMBS portfolios has more than doubled since February, rising from 6 percent to 13 percent, while office distress has declined from 21.2 percent to 16.7 percent across the 50 largest metro areas. Overall, $45.8 billion of $393.5 billion in CMBS outstanding balance is distressed (11.6% balance-weighted rate). Minneapolis, Denver, and Oklahoma City lead distress rankings, followed by Portland, Austin, Chicago, and San Francisco, while Phoenix, Boston, Las Vegas, and Orlando sit near 3 percent.",
+      "impact": "CRITICAL: Rapid rise in multifamily CMBS distress (doubled in ~6 months) signals stress in previously stable apartment portfolios—likely driven by rate locks expiring into higher SOFR, occupancy softness, and rent growth deceleration in overleveraged assets. This creates acquisition opportunities for well-capitalized developers with strong balance sheets in distressed metros (Minneapolis, Denver, Austin, Portland, Chicago), where lenders are forced to mark down collateral and may accept lower sale prices. Simultaneously, tight capital and higher cost of carry will force weaker sponsors to exit deals or refinance at losses, reducing new supply pipeline in these markets. Watch for forced sales and value-add opportunities; cap rates may remain compressed due to income stress rather than optimism."
     }
   ]
 }
