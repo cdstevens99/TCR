@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-10T18:43:28.308682+00:00",
+  "fetchedAt": "2026-08-10T19:48:24.446450+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -10,20 +10,65 @@
     {
       "label": "10Y Treasury",
       "value": "4.70%",
-      "pct": 0.77
+      "pct": 0.84
     },
     {
       "label": "30Y Treasury",
       "value": "5.24%",
-      "pct": 0.58
+      "pct": 0.61
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "96.94",
-      "pct": -1.52
+      "value": "97.14",
+      "pct": -1.31
     }
   ],
   "stories": [
+    {
+      "title": "Alliance for Downtown New York Takes 14K SF at 42 Broadway",
+      "link": "https://commercialobserver.com/2026/08/alliance-for-downtown-new-york-lease-42-broadway/",
+      "excerpt": "Nonprofit group Alliance For Downtown New York has expanded its Lower Manhattan footprint to 42 Broadway. The Downtown Alliance, which manages the area’s business improvement district, secured a 14,420-square-foot lease at the Financial District tower, according to a recent CBRE office market report. The Downtown Alliance plans to relocate its operations division to the 22-story office building, a spokesperson for the nonprofit told CO. The nonprofit’s corporate headquarters remain housed roughly three blocks north at Silverstein Properties’ 120 Broadway. JLL’s John Wheeler and his team at JLL represented the tenant in the negotiations. A spokesperson for the team did not respond immediately to a request for comment. The lease terms were not disclosed, but office asking rents in Lower Manhattan averaged $61.91 per square foot in July, according to the CBRE report. A spokesperson for the landlord, Avi Schron&#8216;s Cammeby’s International Group, confirmed the recent transaction to CO, adding that the space is still under construction. It was not immediately clear whether Cammeby’s International Group worked with any outside brokers. Cammeby’s 42 Broadway is located near the intersection of Broadway and Morris Street. Appellate service organization Office of the Appellate Defender relocated there in November, joining a tenant roster that includes office suite provider TKO Suites, chiropractor Prestige Health and Wellness, dental practice DDS Group and cafe Gregorys Coffee. Emily Davis can be reached at edavis@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-10T19:21:31+00:00",
+      "bullets": [
+        "Alliance for Downtown New York leased 14,420 SF at 42 Broadway in Lower Manhattan.",
+        "Downtown Alliance relocating operations division; HQ remains at 120 Broadway three blocks north.",
+        "Lower Manhattan office asking rents averaged $61.91/SF in July 2024."
+      ],
+      "summary": "The Downtown Alliance, which manages Lower Manhattan's business improvement district, expanded its footprint by leasing 14,420 square feet at 42 Broadway in the Financial District. The nonprofit is moving its operations division to the 22-story tower while maintaining headquarters at 120 Broadway. The transaction reflects sustained office demand in Lower Manhattan, where average asking rents stood at $61.91 per square foot as of July.",
+      "impact": "Minimal direct impact on multifamily development. This is an office lease by a nonprofit tenant and signals stable institutional demand in Lower Manhattan, but does not materially affect apartment construction, demand, or financing dynamics in the metro."
+    },
+    {
+      "title": "New York’s Rent Freeze Was Only An Aftershock. This 2019 Law Was The Quake.",
+      "link": "https://commercialobserver.com/2026/08/new-york-rent-freeze-tenant-protection-law-empty-units/",
+      "excerpt": "Jose Tur owns two rent-stabilized rental buildings in Manhattan’s Washington Heights with a total of 45 units. The properties have been in his family for over 30 years, and the mortgages are fully paid off. But Tur tells Commercial Observer that despite this, while he’s reluctant to give an exact number, “more than two or three” units have been sitting empty for an average of over two years. That’s because, according to Tur’s estimates, it would cost anywhere from $30,000 to $60,000 per unit to return them to a livable state, and that’s money he can’t justify spending in return for the stabilized rent amounts in today’s environment. “Some of them require more work than others, but for the ones that need significant work — and I mean baseline, just to get them up to livable standards — we’re talking $30,000 minimum,” said Tur, who has testified about these financial challenges to New York City’s Rent Guidelines Board (RGB). “[Oftentimes] the plumbing’s really old because a tenant has lived there for 10 to 15 years, and you have to do the electrical and then lead abatement, which really increases the tally on the job.” Tur says that the $30,000 estimate is before taking into account more cosmetic fixes like cabinets, tiles and so forth, meaning the total is often closer to $60,000 for a one-bedroom apartment. Given all this, the fate of his currently empty apartments is uncertain. With no financial relief in sight, it is likely the units will not be lived in again for the foreseeable future, removed from the rolls of New York’s livable spaces — and from Tur’s income-producing properties — as if they had never existed. The RGB approved a freeze on rent increases for one- and two-year leases for the city’s rent-stabilized apartments in June for lease terms beginning on Oct. 1 or later. Since then, owners of these properties have been screaming from the rooftops that the failure to approve an increase, at a time when costs of items from maintenance to insurance are skyro",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-10T19:00:45+00:00",
+      "bullets": [
+        "NYC rent-stabilized owner reports 2+ of 45 units vacant 2+ years due to $30K–$60K rehab costs.",
+        "2019 rent regulation law (RGB) cap rent growth below rehab economics for small landlords.",
+        "Owners unable to justify capital reinvestment under stabilized rent ceilings; units remain offline."
+      ],
+      "summary": "A Manhattan rent-stabilized landlord with 45 units in Washington Heights reports that more than two units have sat vacant for over two years because the cost to restore them to livable standards ($30,000–$60,000 per unit) cannot be recovered under rent-stabilized rents capped by New York's 2019 rent regulation law. Lead abatement, electrical, and plumbing upgrades drive high remediation costs, but RGB-approved rent increases do not justify the capital outlay. The owner's testimony highlights a structural disincentive for supply restoration in the stabilized stock.",
+      "impact": "Signals accelerating withdrawal of rent-stabilized units from the NYC rental supply pipeline. Stabilized units taken offline reduce overall supply but do not compete with market-rate multifamily development; however, this underscores the regulatory risk and owner-hostile environment in NYC that may deter investor acquisition and development activity in the outer boroughs where stabilized stock concentration is higher."
+    },
+    {
+      "title": "Local Developer Plans to Build a School at 1000 University Avenue in the Bronx",
+      "link": "https://commercialobserver.com/2026/08/pillar-property-school-1000-university-avenue-bronx/",
+      "excerpt": "School is in session in the Bronx, or at least it will be. Kiumarz Geula, principal of real estate development firm Pillar Property Management, has filed plans with the New York City Department of Buildings (DOB) to build a seven-story school building at 1000 University Avenue in the Highbridge neighborhood of the Bronx. The plans were filed with the DOB on Aug. 5. Geula did not immediately respond to Commercial Observer’s request for comment. Jonathan Imani of IMC Architecture, the registered architect on the project, also did not immediately respond to CO’s request for comment. The DOB plans have few details about the scope of the work coming to the vacant Bronx property. The plans call for the construction of a 64,366-square-foot, 108-foot tall building with a cafeteria and recreation space. No other details are available. Pillar Property Management isn’t the only developer planning to bring a new school building to the Bronx. In June, Apex Development Group and Knickpoint Ventures secured a $60 million debt package to acquire and build a charter school at 1780 East Tremont Avenue, Commercial Observer reported at the time. Ripco Real Estate’s James Murad, who arranged the financing for that deal, told CO at the time that the project reflects “the growing demand for high-quality educational facilities in underserved communities and the continued appeal of mission-driven real estate investments.” Amanda Schiavo can be reached at aschiavo@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-10T18:54:36+00:00",
+      "bullets": [
+        "Pillar Property Management filed plans for 64,366 SF, 7-story school at 1000 University Avenue, Highbridge, Bronx.",
+        "Apex Development/Knickpoint Ventures also planning charter school at 1780 East Tremont Avenue with $60M debt.",
+        "Bronx school development signals institutional demand for education real estate in underserved neighborhoods."
+      ],
+      "summary": "Pillar Property Management filed plans with NYC Department of Buildings on August 5 to construct a 64,366-square-foot, seven-story school building at 1000 University Avenue in the Highbridge neighborhood of the Bronx. The building will include cafeteria and recreation space. This follows another charter school development by Apex Development Group and Knickpoint Ventures at 1780 East Tremont Avenue, which secured $60 million in debt financing.",
+      "impact": "Minimal direct impact on multifamily development. School construction is a separate asset class and does not affect apartment demand or supply. However, the cluster of institutional/educational investment in the Bronx—particularly in Highbridge and Tremont—may signal broader neighborhood investment and population stability that could support future multifamily demand in those submarkets, though this is indirect and long-dated."
+    },
     {
       "title": "Gencom Divides Into Two Business Lines With Leadership Promotions",
       "link": "https://commercialobserver.com/2026/08/gencom-capital-real-estate-reorganization/",
@@ -32,27 +77,12 @@
       "cat": "Commercial",
       "date": "2026-08-10T18:20:33+00:00",
       "bullets": [
-        "Gencom reorganizes $8B AUM into Capital and Real Estate divisions.",
-        "Firm operates 6,000 hotel rooms nationally under luxury brands.",
-        "Leadership changes strengthen accountability and capital allocation discipline."
+        "Gencom ($8B AUM) reorganizes into two business lines: Gencom Capital and Gencom Real Estate.",
+        "Firm operates 6,000 hotel rooms under luxury brands (Ritz-Carlton, Hyatt, Marriott, Fairmont).",
+        "CEO Karim Alibhai retains dual leadership; new COO and CIO hired to sharpen accountability."
       ],
-      "summary": "Gencom, an $8 billion real estate investor with ~6,000 hotel rooms across luxury brands (Ritz-Carlton, Rosewood, Fairmont, Hyatt, Marriott), is splitting into two business lines: Gencom Capital (led by new Chief Investment Officer Alessandro Colantonio handling capital markets and allocation) and Gencom Real Estate. The reorganization aims to sharpen execution and accountability as the firm scales.",
-      "impact": "Minimal direct impact on multifamily development. This is a hotel and diversified real estate firm; the restructuring signals operational maturation and potential capital redeployment, but does not clarify multifamily investment appetite or market-specific demand signals relevant to apartment development underwriting."
-    },
-    {
-      "title": "Landmark Delivers 397-Bed CSU Student Housing Venture",
-      "link": "https://www.connectcre.com/stories/landmark-delivers-397-bed-csu-student-housing-venture/",
-      "excerpt": "Landmark Properties delivered The Mark Fort Collins, a 397-bed off-campus student housing community at 255 Johnson Drive in Fort Collins, less than half a mile from Colorado State University. The project was developed in partnership with Silverpeak Real Estate Partners and Peninsula Investments.&nbsp; Landmark’s Jason Doornbos added, “Landmark and our joint venture partners took over a stalled project from a previous developer, restarted construction, and delivered a high-quality asset.” The Mark Fort Collins features 193 units in a mix of studio to four-bedroom layouts. Amenities included a heated outdoor pool and sun shelf, a sky deck and lounge, three courtyards, a gaming lawn, multiple firepits with seating areas, a hammock grove, and outdoor grilling spots. The property also features a fitness center, coffee bar, sports simulator, private study and coworking rooms, and a wellness center. The post Landmark Delivers 397-Bed CSU Student Housing Venture appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-10T17:44:14+00:00",
-      "bullets": [
-        "Landmark Properties delivered 397-bed student housing at Fort Collins, Colorado.",
-        "Project: 193 units, half-mile from Colorado State University campus.",
-        "Developed with Silverpeak Real Estate Partners and Peninsula Investments."
-      ],
-      "summary": "Landmark Properties, in partnership with Silverpeak Real Estate Partners and Peninsula Investments, completed The Mark Fort Collins, a 397-bed student housing community with 193 units (studio to four-bedroom) located at 255 Johnson Drive, less than half a mile from Colorado State University. Landmark took over a stalled project, restarted construction, and delivered a high-amenity asset featuring a pool, sky deck, gaming lawn, fitness center, and wellness spaces.",
-      "impact": "Student housing in Fort Collins remains feasible and absorbs readily near CSU; strong execution by Landmark on a repositioned asset signals continued institutional appetite for education-anchored properties in secondary college towns. Colorado Front Range multifamily markets benefit from sustained enrollment and housing scarcity near major universities, supporting rent growth."
+      "summary": "Real estate investment firm Gencom, with $8 billion in assets under management, has reorganized into two distinct business lines—Gencom Capital and Gencom Real Estate—with CEO Karim Alibhai leading both. Gencom Capital will focus on capital markets and portfolio management under new Chief Investment Officer Alessandro Colantonio, while Gencom Real Estate will oversee the firm's portfolio of up to 6,000 hotel rooms across luxury brands including Ritz-Carlton, Fairmont, and Hyatt. The restructuring is intended to strengthen leadership and improve accountability.",
+      "impact": "No direct impact on multifamily development. Gencom is a hospitality-focused firm; the reorganization is an internal capital structure change and does not signal shifts in office conversion pipelines, financing availability, or market demand relevant to apartment development."
     },
     {
       "title": "Real Capital Solutions Launches $350M Distressed Office Acquisition Fund",
@@ -62,117 +92,12 @@
       "cat": "Commercial",
       "date": "2026-08-10T17:18:33+00:00",
       "bullets": [
-        "Real Capital Solutions launches $350M distressed office acquisition fund.",
-        "Fund targets $850M of Class A/B office assets with leverage.",
-        "CEO and founder committed $50M; unnamed entrepreneur $47.5M."
+        "Real Capital Solutions launched $350M distressed office fund; plans to lever 2.4x to $850M acquisition capacity.",
+        "RCS Contrarian Office Fund targets Class A and Class B office distress nationwide.",
+        "CEO Marcel Arsenault committed $50M personal capital; second investor committed $47.5M."
       ],
-      "summary": "Real Capital Solutions (RCS), a Colorado-based real estate firm, launched the RCS Contrarian Office Fund with $350 million in commitments (including $50M from founder Marcel Arsenault and $47.5M from a second investor), targeting acquisition of distressed Class A and Class B office assets nationwide. With leverage, the fund expects to deploy up to $850 million of office capital, betting on long-term institutional demand for premium workplaces.",
-      "impact": "Not directly relevant to multifamily development. However, the aggressive office distress fund launch signals softening office fundamentals and oversupply; institutional capital is rotating to office opportunistically, not to multifamily. This crowds capital away from apartment development and suggests office conversions to residential may accelerate in select markets (NYC, Chicago, other downtowns) if office cap rates spike further and conversion spreads narrow."
-    },
-    {
-      "title": "El-Ad National Buys Oceanfront Fort Lauderdale Hotel for $60M",
-      "link": "https://commercialobserver.com/2026/08/el-ad-national-sea-club-resort-florida/",
-      "excerpt": "Developer El-Ad National Properties has paid $60 million for an oceanfront hotel in Fort Lauderdale, Fla., property records show. The 99-room Sea Club Resort sits on a 1.2-acre site at 619 North Fort Lauderdale Beach Boulevard, between Belmar and Auramar streets. The 54,982-square-foot building dates back to 1954. An entity tied to Rachel Levy and Michael Man has owned the resort since 1995, when it paid just under $4 million for it. The entity provided $40 million in seller financing to El-Ad National Properties, a Boca Raton-based division of Israeli billionaire Isaac Tshuva’s El-Ad Group. The property will likely be redeveloped. Berkadia has been marketing the site as “one of the last remaining oceanfront development sites in the Fort Lauderdale area.” The land is zoned to house a 541-unit, 246,989-square-foot development up to 200 feet tall, according to Berkadia. An additional 40 feet could be granted if 60 percent of units serve as a hotel, though the Sea Club Resort’s lobby is protected under a preservation agreement with the Broward Trust for Historic Preservation. El-Ad is an active developer in South Florida. Last year, it nabbed an $85 million construction loan for a mixed-use, 2.8 million-square-foot development in Davie. That same year, it completed the luxury Alina Residences condo development in Boca Raton. A spokesperson for El-Ad did not respond to a request for comment. The sellers could not be reached for comment. Julia Echikson can be reached at jechikson@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-10T17:15:07+00:00",
-      "bullets": [
-        "El-Ad National bought oceanfront Fort Lauderdale hotel for $60M.",
-        "Sea Club Resort: 99 rooms, 1.2 acres, 1954-vintage property.",
-        "Zoned for 541-unit, 247K-sf mixed-use development up to 200 feet."
-      ],
-      "summary": "El-Ad National Properties (Boca Raton division of Israeli billionaire Isaac Tshuva's El-Ad Group) acquired the oceanfront Sea Club Resort in Fort Lauderdale for $60 million with $40 million in seller financing. The 99-room, 54,982-sf property sits on 1.2 acres at a prime oceanfront location. The land is zoned to support a 541-unit, 246,989-sf mixed-use development up to 200 feet (240 feet with 60% hotel component); the resort's historic lobby is protected.",
-      "impact": "South Florida development: El-Ad's acquisition signals confidence in Fort Lauderdale beachfront redevelopment and potential residential upside. The 541-unit entitlement and oceanfront scarcity create a rare dense multifamily-plus-hotel play; soft-landing zoning and significant deferred maintenance on a low-value hotel create conversion/redevelopment arbitrage. This is likely a ground-up replacement rather than adaptive reuse, supporting aggressive absorption assumptions in South Florida coastal markets."
-    },
-    {
-      "title": "Oxbow Adding 10 Retail Buildings to Pearl Project",
-      "link": "https://www.connectcre.com/stories/oxbow-adding-10-retail-buildings-to-pearl-project/",
-      "excerpt": "Oxbow Development Group submitted plans to the city for 10 new retail buildings on either side of Avenue A. Along with completely new builds, the firm is seeking permission to demolish a vacant industrial building at 250 E. Grayson St.,. The new structures will add 85,000 square feet of space to the complex. The development is being led in a partnership between Oxbow and 3-O Real Estate Partners. The San Antonio Business Journal reports the joint venture is aiming for a mix of local, regional, national and global tenants that are a good fit for Pearl. Alamo Architects and Don B. McDonald Architects are designing the project. Oxbow plans to break ground in early 2027, expecting to finish construction in late 2028. Pearl Brewery Redevelopment features the transformational adaptive reuse of a 21-acre 1900s brewery into a mixed-use village. The post Oxbow Adding 10 Retail Buildings to Pearl Project appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-10T16:55:57+00:00",
-      "bullets": [
-        "Oxbow Development adds 10 retail buildings, 85K sf to Pearl Project.",
-        "San Antonio Pearl Brewery: 21-acre mixed-use adaptive reuse village.",
-        "Groundbreaking early 2027; completion targeted late 2028."
-      ],
-      "summary": "Oxbow Development Group (partnering with 3-O Real Estate Partners) submitted plans to demolish a vacant industrial building and add 10 new retail structures totaling 85,000 sf on both sides of Avenue A within the Pearl Brewery redevelopment in San Antonio. The 21-acre adaptive reuse village project targets a mix of local, regional, national, and global retailers and is slated to break ground early 2027 and deliver by late 2028.",
-      "impact": "Minimal direct impact on multifamily. Pearl Brewery is primarily retail and adaptive reuse; however, mixed-use activation and the multi-year build timeline signal sustained consumer demand and long-term rental fundamentals in San Antonio's central neighborhoods. If Pearl's success drives residential demand nearby, apartment developers should monitor future phases and consider infill multifamily sites in the Pearl/south downtown corridor."
-    },
-    {
-      "title": "Bezos’ Aerospace Company Could Land in Hutto",
-      "link": "https://www.connectcre.com/stories/bezos-aerospace-company-could-land-in-hutto/",
-      "excerpt": "Construction of a manufacturing plant associated with Jeff Bezos’ Blue Origin aerospace company may soon be a reality for Hutto, joining a host of other Central Texas spaceflight companies. The proposed Project Blue Hub plant will be about the size of 26 football fields – 1.3 million square feet at a cost of $650 million. It would be joining a host of other Central Texas spaceflight companies. Blue Origin is a competitor to Elon Musk’s SpaceX project, located in nearby Bastrop. The towns economic development agency has been working on financial incentives, should Blue Origin commit. If plans come to fruition, the deal could bring up to 2,000 jobs to the area. Blue Origin was established by Bezos in 2000 The post Bezos’ Aerospace Company Could Land in Hutto appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-10T16:39:13+00:00",
-      "bullets": [
-        "Blue Origin proposes 1.3M-sf manufacturing plant in Hutto, Texas.",
-        "Project Blue Hub: $650M investment, targets ~2,000 skilled jobs.",
-        "Plant comparable to 26 football fields; location near Bastrop/SpaceX."
-      ],
-      "summary": "Blue Origin (Jeff Bezos' aerospace company) is exploring a manufacturing plant in Hutto, Texas—Project Blue Hub—a 1.3 million square-foot facility with an estimated $650 million investment expected to create nearly 2,000 skilled jobs. Hutto's economic development agency is pursuing financial incentives. The facility would join other Central Texas spaceflight companies, including SpaceX in nearby Bastrop.",
-      "impact": "Austin metro/Hutto demand driver: A 2,000-job Blue Origin facility would inject significant wage-earning population into the northern Austin exurb, accelerating commute-shed demand for workforce housing in Hutto, Pflugerville, and Round Rock. Multifamily developers should monitor lease-up timelines and project financing; a 2026–2027 operational ramp would support Class B/C apartment starts in the I-35 corridor 2024–2025. This is a material population pull for Central Texas if finalized."
-    },
-    {
-      "title": "Town Lane, Axis Partners Launch IOS Platform Venture",
-      "link": "https://www.connectcre.com/stories/town-lane-axis-partners-launch-ios-platform-venture/",
-      "excerpt": "Town Lane, a New York-based real estate investment management firm, has acquired a 23-property industrial outdoor storage (IOS) portfolio and launched a platform venture with Axis Partners, an Atlanta-based industrial owner and operator. The transaction includes an investment by Town Lane in the Axis operating platform. Terms were not disclosed. The portfolio comprises mission-critical, infill IOS assets that support the day-to-day operations of local, regional, and national businesses, including contractors, equipment rental companies, distributors, infrastructure providers, and service businesses. It&#8217;s located in high-growth Sunbelt markets such as Atlanta, Houston, Dallas and Nashville. &#8220;The Axis team has built a differentiated sourcing and operating platform that consistently identifies mission-critical, off-market assets supporting the infrastructure behind local and regional economies,” said Garret Overlock, managing director at Town Lane. “This partnership provides a unique opportunity to combine institutional capital with an experienced operator, and we&#8217;re excited to build a market-leading platform together over the long term.&#8221; Pictured: An Axis Partners-owned IOS facility in Laredo, TX. The post Town Lane, Axis Partners Launch IOS Platform Venture appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-10T16:33:20+00:00",
-      "bullets": [
-        "Town Lane acquires 23-property industrial outdoor storage portfolio.",
-        "Platform JV with Axis Partners; assets in Atlanta, Houston, Dallas, Nashville.",
-        "Mission-critical infill IOS supporting contractors, equipment rental, distributors."
-      ],
-      "summary": "Town Lane (New York-based real estate investment manager) acquired a 23-property industrial outdoor storage (IOS) portfolio and launched a platform venture with Axis Partners (Atlanta-based industrial operator). The portfolio comprises mission-critical, infill IOS assets serving contractors, equipment rental companies, distributors, and service businesses across high-growth Sunbelt markets (Atlanta, Houston, Dallas, Nashville). Terms undisclosed; Town Lane made an investment in the Axis operating platform.",
-      "impact": "Not directly relevant to multifamily development. IOS is non-housing; however, the capital deployment in Sunbelt industrial by institutional investors signals strong fundamentals in gateway metros (Houston, Atlanta, Dallas, Nashville). These markets are also hot for apartment development; strong industrial/logistics ecosystems underpin job growth and wage profiles that support multifamily rent growth and absorption in these submarkets."
-    },
-    {
-      "title": "James Marcellino Re-Joins Colliers’ New York City Office as Vice President",
-      "link": "https://commercialobserver.com/2026/08/james-marcellino-colliers-new-york-vice-president/",
-      "excerpt": "More than 13 years after departing Colliers as an associate director, James Marcellino has returned to the company’s New York office as a vice president. Starting today, Aug. 10, , Marcellino’s new role will focus on office leasing and tenant representation as Colliers continues expanding its New York presence, according to an announcement by the firm. John Gallagher, executive managing director for New York City at Colliers, called Marcellino’s return “another important step” in the firm’s growth. “His institutional ownership experience and entrepreneurial perspective will bring immediate value to our clients and our team, and we’re thrilled to welcome him back,” Gallagher said in a statement. The executive brings with him more than 17 years of experience advising institutional owners, landlords and occupiers on office leasing. In his most recent work as a real estate consultant, Marcellino advised the Bracha Group, Modernus Architectural Products, and Christie&#8217;s International Real Estate’s leading residential sales team, the Gottlieb Team. Marcellino previously served as vice president of leasing at L&amp;L Holding Company from 2023 to 2024, according to the announcement. While there, he oversaw leasing strategy for its 6.3 million-square-foot portfolio and completed nearly 344,000 square feet of office and retail transactions. Marcellino first arrived at Colliers as an associate director in late 2011. He departed in 2013 for an associate role at CBRE, and eventually moved on to leasing leadership positions at CIM Group and the Moinian Group. “Colliers has built a tremendous platform in New York, and I’m excited to return at a time when clients are looking for thoughtful, experienced guidance on increasingly complex real estate decisions,” Marcellino said in a statement. “I’ve built my career on strong relationships and finding opportunities that create meaningful value for clients, and I’m excited to continue that work at Colliers.” Marcellino earned his un",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-10T16:24:05+00:00",
-      "bullets": [
-        "James Marcellino rejoins Colliers NYC as Vice President.",
-        "Focus: office leasing and tenant representation in Manhattan.",
-        "Brings 17+ years institutional owner/landlord/occupier experience."
-      ],
-      "summary": "James Marcellino, after 13+ years away, has re-joined Colliers' New York City office as Vice President effective Aug. 10, focusing on office leasing and tenant representation. He brings 17+ years advising institutional owners, landlords, and occupiers on office transactions, with recent experience at L&L Holding Company and as a consultant to firms like Bracha Group and Modernus.",
-      "impact": "Minimal impact on multifamily development. Marcellino's hire signals Colliers' continued emphasis on Manhattan office leasing amid market softness; his institutional ownership background may support office-to-residential conversion advisory, but the hire does not indicate new multifamily demand or supply signals in NYC markets."
-    },
-    {
-      "title": "Westville To Open at 540 Third Avenue in Murray Hill",
-      "link": "https://commercialobserver.com/2026/08/westville-lease-540-third-avenue-murray-hill/",
-      "excerpt": "Westville is getting ready to open its 12th location in the U.S. and bring a selection of classic American foods to Manhattan’s Murray Hill neighborhood. The restaurant brand just signed a 4,148-square-foot lease at the base of 540 Third Avenue, also known as the Dian, a 22-story, 160-unit residential building at the corner of Third Avenue and East 36th Street, according to broker Meridian Capital Group. The lease comprises 2,739 square feet on the ground floor and 1,409 square feet on the lower level. The asking rent and the length of the lease were not disclosed, but the average asking rent for retail space in the nearby Herald Square area was $394 per square foot during the second quarter of 2026, according to CBRE data. CBRE’s Robert Bonicoro and Betsy Da Silva represented Westville in the lease, while Meridian’s James Famularo and Jordan Langer represented ownership, which is a joint venture between Gilar Realty and Ranco Capital. CBRE did not immediately respond to Commercial Observer’s request for comment. “Westville had its pick of locations in this market, and its decision to commit long-term at 540 Third Avenue underscores the continued demand for well-built, well-located retail on Third Avenue,” Langer said in a statement. Meridian did not disclose when Westville will open its new Murray Hill location. The franchise also has Manhattan restaurants in the West Village, Chelsea, the East Village, the Upper East Side and on Wall Street, as well as a spot in Long Island City, Queens. Westville opened its first location outside of New York City in Northern Virginia. “When Whole Foods and Westville commit to the same few blocks within months of each other, that is not a coincidence, it is a corridor being repositioned in real time,” Famularo said in a statement. “Ownership delivered a first-class space and held firm on value, and we brought in an operator that will draw customers from the day it opens.”",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-10T16:07:33+00:00",
-      "bullets": [
-        "Westville restaurant opens 12th U.S. location at 540 Third Avenue, Manhattan.",
-        "Lease: 4,148 sf (2,739 ground floor, 1,409 lower level), Murray Hill.",
-        "440 Third Avenue (the Dian): 22-story, 160-unit residential building."
-      ],
-      "summary": "Westville, a classic American restaurant brand, signed a 4,148-sf ground and lower-level lease at 540 Third Avenue (the Dian) in Manhattan's Murray Hill neighborhood for its 12th U.S. location. The mixed-use building (160 residential units, 22 stories) sits at the corner of Third Avenue and East 36th Street. Asking rent and lease term not disclosed; Herald Square-area retail averaged $394/sf in Q2 2026.",
-      "impact": "Minimal impact on multifamily development. Retail ground-floor leasing in NYC—even at mixed-use residential buildings—reflects restaurant operator confidence in neighborhood foot traffic, not apartment demand signals. However, the Dian's 160-unit residential component and leasing activity in Murray Hill suggest steady renter traffic; no supply or demand surprise here."
-    },
-    {
-      "title": "Bristol Myers Squibb Chooses Houston for $2.3B Investment",
-      "link": "https://www.connectcre.com/stories/bristol-myers-squibb-chooses-houston-for-2-3b-investment/",
-      "excerpt": "Bristol Myers Squibb (BMS) selected Houston as the site for a new, multi-modal manufacturing campus, representing an approximately $2.3 billion investment designed to accelerate the delivery of next-generation medicines to patients. The campus, at Generation Park in Houston, will create nearly 500 skilled jobs and is designed to grow in scale, capability and workforce for decades to come. The selection of Houston marks a significant milestone in BMS’ $40 billion commitment to invest in the United States over five years across research and development, technology and domestic manufacturing. The Houston campus will be modular and multi-modal. Its modular design allows BMS to add and reconfigure manufacturing capacity as needed, reflecting BMS&#8217; current and future pipeline. Its multi-modal capabilities allow BMS to manufacture multiple types of medicines &#8211; such as small molecules, biologics, and antibody-drug conjugates &#8211; across a range of disease areas. Last year, Eli Lilly announced it would invest in a $6.5 billion active pharmaceutical ingredients plant, also in the Generation Park complex in Houston. The post Bristol Myers Squibb Chooses Houston for $2.3B Investment appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-10T16:03:14+00:00",
-      "bullets": [
-        "Bristol Myers Squibb commits $2.3B manufacturing campus in Houston.",
-        "Generation Park location; ~500 skilled jobs, modular/multi-modal design.",
-        "Part of $40B U.S. investment over five years across R&D and manufacturing."
-      ],
-      "summary": "Bristol Myers Squibb (BMS) selected Houston's Generation Park for a new $2.3 billion multi-modal manufacturing campus creating nearly 500 skilled jobs. The modular campus allows BMS to scale manufacturing capacity for small molecules, biologics, and antibody-drug conjugates. This investment is part of BMS' broader $40 billion, five-year U.S. commitment to R&D, technology, and domestic manufacturing. Last year, Eli Lilly announced a $6.5 billion API plant in the same Generation Park complex.",
-      "impact": "Houston metro demand driver: BMS's $2.3B campus and 500-job commitment, coupled with Eli Lilly's $6.5B API plant at Generation Park, signal major life sciences agglomeration and wage-earner migration into northwest Houston. Multifamily developers should prioritize Class A apartment supply near Generation Park and along I-290/Beltway 8 northwest corridor; skilled manufacturing and biotech jobs command premium rents and support absorption velocity. A 2-3 year operational ramp creates a window to deliver workforce housing in 2025–2026."
+      "summary": "Real Capital Solutions (RCS), headquartered in Colorado, launched a new $350 million fund—the RCS Contrarian Office Fund—targeting distressed Class A and Class B office assets across the U.S. The fund plans to use leverage to acquire up to $850 million in office assets. Founder and CEO Marcel Arsenault committed $50 million personally, and an unnamed entrepreneur committed $47.5 million. RCS is betting that premium office assets will outperform long-term despite current market headwinds.",
+      "impact": "Moderate capital signal, not a direct demand driver for multifamily. The fund's formation reflects conviction that office distress creates acquisition opportunities, but it does NOT redirect capital to multifamily development. However, it does indicate that institutional capital remains deployed in real estate despite uncertainty, and may compete for debt financing and investor equity that could otherwise flow to apartment development. Monitor whether this fund's success in office distress leads to similar strategies in residential or signals capital reallocation away from multifamily in 2025."
     }
   ]
 }
