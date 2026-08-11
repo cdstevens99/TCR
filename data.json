@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-11T17:50:20.646882+00:00",
+  "fetchedAt": "2026-08-11T18:48:54.903408+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -10,20 +10,110 @@
     {
       "label": "10Y Treasury",
       "value": "4.69%",
-      "pct": -0.23
+      "pct": -0.28
     },
     {
       "label": "30Y Treasury",
       "value": "5.24%",
-      "pct": -0.13
+      "pct": -0.11
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "96.89",
-      "pct": -0.22
+      "value": "96.72",
+      "pct": -0.4
     }
   ],
   "stories": [
+    {
+      "title": "Sisters of the Visitation Monastery Sells to Brooklyn and Miami Developers for $42M",
+      "link": "https://commercialobserver.com/2026/08/bay-ridge-monastery-sale-brooklyn-miami-developers/",
+      "excerpt": "A 170-year-old monastery in Bay Ridge, Brooklyn, has sold for $42.25 million. The Sisters of the Visitation’s 7.5-acre campus at 8902 Ridge Boulevard –– a campus behind 30-foot stone walls, with a monastery, chapel and school –– was bought by a group of Brooklyn- and Miami-based developers and investors with a history of large residential projects, including leaders of Heights Advisors, Integritas Capital and Royal Palm Companies. A petition by the Catholic religious order to sell its real estate was approved by the office of the New York State Attorney General on Monday. Nonprofits are required by New York law to obtain approval when it sells all or most of its assets. The buyer entity, 1137 91 LLC, is made up of beneficial owners with overlapping development and investment firms. Those include Brooklyn real estate investor Stephen Palmese, founder of private equity platform Integritas Capital (and a former vice chair at JLL), and Rachel Foster, founder and president of Brooklyn housing developer Heights Advisors, alongside the developer’s director, Scott Geddes. The longtime professional partners are planning a resort-residential tower in Fort Lauderdale, according to The Real Deal. Palmese’s Integritas is also the lender behind a forthcoming 27-story church-to-residential conversion in Brooklyn’s Fort Greene. Also named in the LLC is Daniel Kodsi, CEO of Miami developer Royal Palm Companies. A fifth owner, Matthew Kodsi, is an undergraduate student who has worked part-time at Heights Advisors. The cohort of buyers suggests the historic property’s likely fate as a major mixed-used or residential development. The Visitation Sisters entered into an initial contract in late April, according to the filing, but the school and monastery have been shuttered since 2024, after their numbers dropped too low to sustain full ministry. The Visitation Sisters, formally the Order of the Visitation of Holy Mary, were a French order founded in 1610. Their presence in Brooklyn date",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-11T18:30:43+00:00",
+      "bullets": [
+        "Sisters of Visitation Monastery, Bay Ridge Brooklyn, sold for $42.25M to Heights Advisors/Integritas/Royal Palm.",
+        "7.5-acre campus includes monastery, chapel, school behind 30-foot walls; zoned/entitlement status unclear from text.",
+        "Buyer group has track record large residential projects; potential conversion to apartments or mixed-use."
+      ],
+      "summary": "A 170-year-old, 7.5-acre religious campus in Bay Ridge, Brooklyn sold for $42.25M to a developer consortium led by Heights Advisors, Integritas Capital, and Royal Palm Companies. The site sits behind 30-foot stone walls and includes a monastery, chapel, and school. The sale required New York State Attorney General approval under nonprofit asset-sale law. The buyer entity (1137 91 LLC) has a history of large residential development.",
+      "impact": "Bay Ridge has limited large-format land for residential—this 7.5-acre institutional hold becomes a potential anchor for significant new supply. Entitlement and zoning pathway will determine whether the group can deliver 150–300+ units; if achievable, it could shift Bay Ridge's rental trajectory and cap-rate compression in Brooklyn outer boroughs. Monitor conversion feasibility and community opposition."
+    },
+    {
+      "title": "Benefit Street Partners Provides $103M Bridge Debt for Texas Multifamily Portfolio",
+      "link": "https://commercialobserver.com/2026/08/benefit-street-partners-103m-texas-multifamily-portfolio/",
+      "excerpt": "Vantage Communities has secured $103 million in bridge debt to refinance a three-property, 864-unit multifamily portfolio in three cities in Texas, Commercial Observer can first report. Benefit Street Partners provided the debt, which will finance the property toward full stabilization and is structured as a floating-rate, interest-only bridge loan with a three-year term. Greystone Capital Advisors&#8216; Drew Fletcher, Bryan Grover, Jesse Kopecky and Cameron Behr arranged the transaction. &#8220;Benefit Street Partners recognized the quality of the sponsorship, the assets, and the long-term fundamentals supporting these dynamic Central Texas markets,” said Fletcher. The three assets are split among Vantage at Hutto — a 288-unit complex located at 1051 North Farm to Market 1660 in Hutto, Tex., just outside of Austin; Vantage at McKinney Falls — a 288-unit complex located at 7900 McKinney Falls Parkway in suburban Austin, Tex.; and Vantage at Fair Oaks — a 288-unit complex located at 9135 Dietz Elkhorn Road in Boerne, Tex. outside of San Antonio. All three assets opened in either 2023 or 2024 and feature amenities such as resident clubhouses, fitness centers and resort-style swimming pools. &#8220;We were pleased to structure a financing solution that met our clients&#8217; objectives while leveraging the strength of this high-quality, recently delivered portfolio,&#8221; added Fletcher in a statement. Brian Pascus can be reached at bpascus@commercialobserver.com. &nbsp;",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-11T18:16:18+00:00",
+      "bullets": [
+        "Vantage Communities secured $103M bridge debt from Benefit Street Partners for 864-unit Texas portfolio.",
+        "Three properties: Hutto (288 units), McKinney Falls Austin (288 units), Fair Oaks Boerne (288 units); floating-rate, 3-year term.",
+        "Bridge structure signals stabilization play; Central Texas fundamentals strong enough to attract institutional capital."
+      ],
+      "summary": "Vantage Communities closed $103M in bridge debt from Benefit Street Partners to refinance a three-property, 864-unit multifamily portfolio across Central Texas (Hutto, McKinney Falls near Austin, and Boerne). The floating-rate, interest-only loan carries a three-year term and is structured toward full stabilization. Greystone Capital Advisors arranged the deal, citing strong sponsorship and long-term market fundamentals.",
+      "impact": "Bridge refinancing in Central Texas signals lender confidence in rent trajectory and absorption in Austin's supply-constrained suburbs (Hutto, McKinney Falls). Floating-rate structure bets on rate stability or decline; if rates hold or rise, refinance risk materializes in 2027–2029, tightening capital availability for lesser-sponsored assets. Monitor Austin submarket leasing velocity."
+    },
+    {
+      "title": "Coastland Residential Lands $85M to Build Miami-Dade Rental",
+      "link": "https://commercialobserver.com/2026/08/coastland-miami-dade-vybe-75-housing-development/",
+      "excerpt": "Coastland Residential has nabbed a $84.5 million construction loan for a multifamily development near Tropical Park in southwest Miami-Dade County. The debt from PNC Bank covers the Vybe 75, which will house 366 apartments and 5,000 square feet of ground-floor retail space. The eight-story development at 4383 Southwest 75th Avenue sits just east of Tropical Park and the Palmetto Expressway, south of Bird Road. At least a portion of the units will be priced within 120 percent of the area’s median income, though a representative for the Pinecrest-based developer declined to provide an exact figure. Amenities will include a rooftop pool, a gym, a co-working lounge, a sports simulator and a movie theater. Coastland Residential purchased the 4.3-acre site for $14.5 million last year, according to property records. The Corwil Architects-designed development represents the first phase of a larger project that’s expected to deliver about 1,000 units in total. Launched five years ago by Anthony Seijas and Alejandro Rodriguez, Coastland Residential grew out of Rodriguez’s contracting and construction management firm, Coastland Construction, which is also serving as the contractor for Vybe 75. Julia Echikson can be reached at jechikson@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-11T17:55:54+00:00",
+      "bullets": [
+        "Coastland Residential secured $84.5M construction loan from PNC Bank for 366-unit Vybe 75, southwest Miami-Dade.",
+        "Site purchased for $14.5M; first phase of 1,000+ unit master plan; includes 5,000 SF retail, mixed-income (120% AMI floor).",
+        "Rooftop amenities (pool, gym, co-working, movie theater) signal class-A positioning in emerging Tropical Park corridor."
+      ],
+      "summary": "Coastland Residential closed $84.5M in construction financing from PNC Bank for Vybe 75, a 366-unit, eight-story multifamily development near Tropical Park in southwest Miami-Dade. The 4.3-acre site, purchased last year for $14.5M, will include 5,000 SF of ground-floor retail and mixed-income units (minimum 120% AMI). Amenities include rooftop pool, gym, co-working space, and movie theater. The project represents phase one of a larger 1,000+ unit pipeline.",
+      "impact": "Southwest Miami-Dade (Tropical Park/Pinecrest submarket) is seeing institutional capital commit to emerging areas outside saturated coastal zones. Mixed-income mandate and aggressive amenity package suggest developer is competing for workforce and middle-income renters amid Miami's supply glut—signals rent pressure in secondary submarkets. Phase 2 optionality (600+ units) depends on absorption and refinance feasibility of phase 1; construction completion and lease-up timing critical for market fundamentals."
+    },
+    {
+      "title": "Northmarq Arranges Refis for Three Texas Rental Communities",
+      "link": "https://www.connectcre.com/stories/northmarq-arranges-refis-for-three-texas-rental-communities/",
+      "excerpt": "Francis Property Management inked a $68.7 million refinancing on three Texas multifamily communities. Northmarq’s Debt + Equity deal team led by Taylor Francis, along with David Blum, Joe Giordani, Charlie Buckingham and Matt Radich arranged the permanent fixed-rate financing for the three-property Class A multifamily portfolio totaling 940 units located in Houston and San Antonio, Texas. Each loan was structured on a 10-year term with full-term interest-only payments. Holden Heights (shown) is a 282-unit mid-rise apartment community in Houston&#8217;s highly desirable Heights neighborhood. Built in 2015, the property features one- and two-bedroom floor plans with community amenities that incudeo a pool, wellness center, and a landscaped courtyard. Estancia San Miguel is a 300-unit garden-style community situated in Houston&#8217;s Cypress/Fairbanks submarket. Built in 2006, the property features one-, two- and three-bedroom floor plans with amenities that include a swimming pool, clubhouse, business center and on-site laundry facilities. The Montecristo Apartments is a 358-unit garden-style community strategically positioned along North Loop 1604 East within San Antonio&#8217;s Far North Central submarket. Built in 2005, the property offers private balconies and fireplaces in select floor plans. Join the region’s leading multifamily owners, developers, investors, lenders, and brokers at Connect Texas Multifamily on August 13 in Dallas for a focused discussion on the market forces redefining Texas real estate. Be in the room with the decision-makers driving deals and growth across Texas. Register today:&nbsp;www.ConnectTXMF2026.com. The post Northmarq Arranges Refis for Three Texas Rental Communities appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-11T17:47:23+00:00",
+      "bullets": [
+        "Francis Property Management refinanced $68.7M on three Texas multifamily properties (940 units) via Northmarq permanent fixed-rate debt.",
+        "Holden Heights Houston (282 units, 2015), Estancia San Miguel Cypress (300 units, 2006), Montecristo San Antonio (358 units, 2005).",
+        "10-year term, interest-only throughout; refinance from construction/bridge debt indicates strong stabilization and local rent growth."
+      ],
+      "summary": "Northmarq arranged $68.7M in permanent fixed-rate refinancing for Francis Property Management's three-property, 940-unit multifamily portfolio across Houston and San Antonio. The deal includes Holden Heights (282 units, mid-rise, Heights submarket), Estancia San Miguel (300 units, garden-style, Cypress/Fairbanks), and Montecristo (358 units, garden-style, San Antonio's Far North Central). Each loan is structured on a 10-year term with full-term interest-only payments.",
+      "impact": "Permanent fixed-rate closing on 5–20 year old assets signals lender conviction on Houston/San Antonio rent stability and cap-rate floor. Interest-only terms indicate expectation of sustained rent growth; alternative would be amortizing if market were softening. This refinancing reduces portfolio refinance risk in 2027–2029, freeing sponsor capital for acquisitions or development. Monitor trailing lease spreads in Houston Heights and Cypress to confirm absorption strength."
+    },
+    {
+      "title": "North American Data Center Demand Reaches All-Time High",
+      "link": "https://www.connectcre.com/stories/north-american-data-center-demand-reaches-all-time-high/",
+      "excerpt": "North America data center demand reached an all-time high in the first half of 2026, with 25 gigawatts of absorption, double the level from a year ago and five times that of two years prior. JLL’s North America Data Center Report – Midyear 2026 says that although structural demand continues to accelerate, responsible growth now depends on building trust through transparency and early community engagement around electricity, water and noise impacts. Seventy-nine percent of Americans support U.S. leadership in artificial intelligence, while only 14% support data center development in their communities. The 65-point support gap threatens to constrain the infrastructure buildout required to maintain AI competitiveness, the report states. “We’re witnessing demand levels that continue to exceed even industry insiders’ expectations,” said Andy Cvengros, executive managing director, co-lead of U.S. Data Center Markets, JLL. “The market absorbed 25 gigawatts in just six months, driven by hyperscalers, neoclouds and pure-play AI companies competing aggressively for scarce capacity. But the real story is how community acceptance, or lack thereof, has emerged as the defining challenge for this next phase of growth. The industry and communities need to come together to find a path forward that benefits everyone.” The post North American Data Center Demand Reaches All-Time High appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-11T17:26:54+00:00",
+      "bullets": [
+        "North America data center absorption hit 25 GW in H1 2026, double prior year, driven by AI hyperscalers and neoclouds.",
+        "79% of Americans support U.S. AI leadership; only 14% support local data center development—65-point gap threatens infrastructure buildout.",
+        "Community acceptance emerging as primary constraint; electricity, water, noise impacts require transparency and early engagement."
+      ],
+      "summary": "JLL reports North American data center demand reached an all-time high in H1 2026, with 25 gigawatts of absorption—double the prior year and five times the level two years prior. Demand driven by hyperscalers, neoclouds, and AI companies competing for scarce capacity. However, a stark gap exists: 79% of Americans support U.S. AI leadership, but only 14% support data center development in their communities, creating a 65-point support gap that threatens required infrastructure expansion.",
+      "impact": "Explosive data center demand growth is indirectly bullish for multifamily in Tier-2 and Tier-3 metros with data center clusters (e.g., Virginia, Phoenix, Ohio, Texas)—those markets will see tech worker in-migration and job growth, lifting apartment demand and rent velocity. However, community opposition to data centers may slow buildout, constraining job growth in some regions. Developers should flag metros with friendly zoning/permitting for data center projects as emerging demand drivers, and anticipate multifamily supply shortages if data center approvals slow."
+    },
+    {
+      "title": "Cedarwood Building 272-Unit Celina Rental Community",
+      "link": "https://www.connectcre.com/stories/cedarwood-building-272-unit-celina-rental-community/",
+      "excerpt": "Cedarwood Companies is advancing Topaz at Light Farms Way, a 272-unit multifamily community in Celina. The development will feature a mix of studio, one-bedroom and two-bedroom apartments. Residents will enjoy a clubhouse with a cybercafé, a pool with a fire pit, a fitness center, a dedicated dog park with a pet spa, a playground, a car care center, plus walking trails. Construction on the apartments is set to begin soon, and residents are expected to start moving in next summer,&nbsp; Founded in 1972, Cedarwood still continues to have many multifamily community projects and has expanded on some of its existing projects to include additional neighborhoods. Their project base has also expanded to include senior living communities and self-storage facilities. Join the region’s leading multifamily owners, developers, investors, lenders, and brokers at Connect Texas Multifamily on August 13 in Dallas for a focused discussion on the market forces redefining Texas real estate. Be in the room with the decision-makers driving deals and growth across Texas. Register today:&nbsp;www.ConnectTXMF2026.com. The post Cedarwood Building 272-Unit Celina Rental Community appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-11T17:17:22+00:00",
+      "bullets": [
+        "Cedarwood Companies starting construction on Topaz at Light Farms Way, 272-unit multifamily community in Celina, Texas.",
+        "Mix of studios, one-bedroom, two-bedroom units; amenities include cybercafé clubhouse, pool, fitness, dog park, car care, walking trails.",
+        "Residents expected summer 2027; Celina is DFW exurb with strong population growth trajectory supporting new supply."
+      ],
+      "summary": "Cedarwood Companies is advancing construction on Topaz at Light Farms Way, a 272-unit multifamily community in Celina, Texas, featuring studio, one-bedroom, and two-bedroom apartments. Amenities include a clubhouse with cybercafé, pool with fire pit, fitness center, dog park with pet spa, playground, car care center, and walking trails. Move-ins are expected to begin in summer 2027. Cedarwood, founded in 1972, has expanded its portfolio to include senior living and self-storage.",
+      "impact": "Celina (Collin County, north Dallas exurb) is a high-growth satellite market attracting families and remote workers seeking affordable space and new construction. This 272-unit delivery adds to DFW's supply pipeline in a submarket experiencing rapid appreciation; monitor absorption pace to confirm demand keeps pace with new completions. If Celina stabilizes strongly, it signals expansion opportunity for competitors in similar DFW and North Texas exurb corridors."
+    },
     {
       "title": "Too Big to Burn: L.A. Takes Harder Look at Megawarehouses After Cold Storage Fire",
       "link": "https://commercialobserver.com/2026/08/la-lineage-fire-boyle-heights-industrial-warehouse-cold-storage/",
@@ -32,12 +122,12 @@
       "cat": "Commercial",
       "date": "2026-08-11T17:15:25+00:00",
       "bullets": [
-        "Lineage cold storage fire in Boyle Heights, LA June 17; 4,000+ odor complaints lodged",
-        "LA Mayor Bass and local leaders voicing opposition to megawarehouses near residential zones",
-        "Regulatory scrutiny and community pushback may tighten zoning, entitlements for future industrial projects"
+        "Lineage Cold Storage warehouse fire, Boyle Heights Los Angeles, June 17; nearly 4,000 odor complaints to SCAQMD.",
+        "L.A. Mayor Bass cited 'tens of millions of pounds of rotting food,' pest infestation in adjacent residential neighborhoods.",
+        "City now scrutinizing megawarehouse siting; rebuilt facility and zoning for future projects may face new restrictions or setbacks."
       ],
-      "summary": "A major cold storage facility fire in Los Angeles' Boyle Heights neighborhood sparked nearly 4,000 odor complaints and intensified local political opposition to large warehouses adjacent to residential areas. LA Mayor Karen Bass publicly criticized the project, citing pest infestations and unbearable odors from tens of millions of pounds of rotting food. The incident is prompting city leadership to reconsider permit approvals and siting rules for megawarehouses in mixed-use neighborhoods.",
-      "impact": "In Los Angeles, expect slower permitting timelines and stricter conditional-use requirements for large industrial/logistics projects near residential neighborhoods. This may push future supply-chain infrastructure to more remote, less-dense submarkets or delay speculative industrial development, tightening industrial real estate availability and potentially raising logistics costs for last-mile tenants—indirectly reducing apartment demand in some LA neighborhoods if supply-chain jobs relocate or stall."
+      "summary": "A Lineage Cold Storage megawarehouse in Boyle Heights, Los Angeles, caught fire on June 17, releasing odor complaints (nearly 4,000 lodged with SCAQMD) and drawing attention to the facility's proximity to residential neighborhoods. L.A. Mayor Karen Bass cited the 'unbearable' odor from tens of millions of pounds of rotting food and resulting pest infestation. Local leaders are now expressing significant concern about megawarehouses adjacent to residential areas, and Lineage's plans to rebuild are facing heightened scrutiny.",
+      "impact": "This event is NOT directly relevant to multifamily development but signals tightening land-use regulation in L.A. that could indirectly constrain industrial and logistics growth near residential zones, potentially limiting job growth in those submarkets. However, if city tightens warehouse siting, it may preserve or upgrade nearby residential submarkets (e.g., Boyle Heights, East L.A.) by reducing industrial nuisance, potentially creating uplift demand for apartment redevelopment or new infill multifamily. Monitor L.A. zoning amendments and their impact on industrial land supply and neighborhood residential desirability."
     },
     {
       "title": "Northwestern Mutual Provides $110M Perm Loan for Jersey City Multifamily Tower",
@@ -47,27 +137,27 @@
       "cat": "Commercial",
       "date": "2026-08-11T17:10:31+00:00",
       "bullets": [
-        "Northwestern Mutual provides $109.5M permanent loan for 390-unit 425 Summit, Jersey City",
-        "Spitzer Enterprises/Arden Group project stabilized in 2024; strong transit connectivity cited",
-        "Debt availability signals lender confidence in Jersey City multifamily fundamentals and lease-up"
+        "Northwestern Mutual provided $109.5M permanent financing for Spitzer Enterprises/Arden Group's 425 Summit, Jersey City, 390 units.",
+        "2024-completed, 390-unit development in Journal Square, Jersey City; transit-connected, recently stabilized and lease-up.",
+        "CBRE arranged; lenders cited institutional-quality asset, experienced sponsorship, strong operating performance; fixed-rate perm loan retires construction debt."
       ],
-      "summary": "Spitzer Enterprises and Arden Group secured a $109.5 million permanent loan from Northwestern Mutual for 425 Summit, a 390-unit newly completed tower in Jersey City's Journal Square neighborhood. The transaction closed following lease-up and stabilization of the 2024-completed asset. Lenders cited exceptional transit connectivity, strong operating performance, and experienced sponsorship as drivers of competitive financing interest.",
-      "impact": "Jersey City Journal Square continues to attract institutional capital for multifamily at strong underwriting metrics, validating the submarket's demand fundamentals tied to PATH transit access and waterfront proximity. This signals confidence in Northeast Corridor multifamily and may encourage follow-on development starts in Journal Square and adjacent Journal Square sites, increasing competitive pressure on rents and accelerating absorption timelines."
+      "summary": "A joint venture between Spitzer Enterprises and Arden Group closed $109.5M in permanent financing from Northwestern Mutual for 425 Summit, a newly-completed, 390-unit multifamily tower in Jersey City's Journal Square neighborhood. The loan retires construction debt following lease-up and stabilization in 2024. CBRE arranged the transaction, citing the property's exceptional transit connectivity, quality construction, strong operating performance, and experienced sponsorship.",
+      "impact": "Jersey City Journal Square has become a financing magnet for institutional lenders—permanent debt on 390-unit, class-A, transit-accessible multifamily closes readily at scale, signaling strong rent fundamentals and low-risk operational profile. This signals cap-rate compression in Jersey City Core and continued flight-to-quality in the region. Developers should prioritize transit-connected Jersey City sites; non-transit assets or secondary markets may face refinance or acquisition headwinds."
     },
     {
-      "title": "Comcast Advertising Signs 140K-SF Lease at 1540 Broadway",
-      "link": "https://commercialobserver.com/2026/08/comcast-advertising-lease-1540-broadway/",
-      "excerpt": "A major media company is moving its advertising headquarters to Broadway. Comcast Advertising, the advertising sales and technology division of Comcast, has signed a 140,000-square-foot lease at 1540 Broadway, owned by GFP Real Estate and BDT &amp; MSD Partners. The deal represents a relocation for Comcast from 55 West 46th Street, according to the landlords, which landed a couple other tenants at 1540 Broadway recently as well. The asking rent and the length of the lease were not disclosed, but the average office asking rent in Midtown at the end of the second quarter of 2026 was $86.18 per square foot, according to a report from CBRE. &#8220;The decision by Comcast and others to locate their employees here reflects what we&#8217;re hearing throughout the market – companies continue to prioritize high-quality office environments that help attract talent, foster collaboration and support long-term growth,” GFP Development CEO Brian Steinwurtzel, who oversaw a $150 million repositioning of the property, said in a statement. “With additional transactions in advanced discussions, we expect the remaining space to be substantially leased by year-end.&#8221; GFP’s Allen Gurevich represented ownership in-house alongside JLL’s Clark Finney, Frank Doyle, Mike Pallas and Carlee Palmer. Gabe Marans, Jay Joyce and Greg Bante of Savills negotiated on behalf of Comcast. Savills did not immediately respond to a request for comment. &#8220;Tenants continue to gravitate toward buildings that combine exceptional ownership, modern amenities, efficient floor plates and premier accessibility, and 1540 Broadway has emerged as one of the strongest examples of that trend,&#8221; Finney said in a statement. The Comcast lease was revealed in a CBRE office report for the month of July, but details were scarce. Other new tenants in the building on West 45th Street between Avenue of the Americas and Broadway include equity investment firm Metalmark Capital, which signed a 9,314-square-foot leas",
-      "source": "Comm. Observer",
+      "title": "VanTrust Starts Work on 512K-SF McKinney Warehouse Venture",
+      "link": "https://www.connectcre.com/stories/vantrust-starts-work-on-512k-sf-mckinney-warehouse-venture/",
+      "excerpt": "VanTrust Real Estate has begun construction on Phase 1 of 121 Commerce Park, the company&#8217;s first industrial park in McKinney. Phase 1 will include more than 512,000 square feet of Class A industrial space across two speculative buildings. Phase 1 includes Building A, totaling 242,393 square feet, and Building B, totaling 270,479 square feet. Both buildings are designed with flexible single- or multi-tenant configurations. Completion is anticipated in the second quarter of 2027. Situated on 42 acres at the northwest corner of Tina Drive and SH-121, 121 Commerce Park offers direct access to U.S. 75, State Highway 121/Sam Rayburn Tollway and Highway 380, with convenient proximity to McKinney National Airport. Future plans also call for an additional 250,000 square feet of build-to-suit industrial space in Phase 2 . JLL’s Kurt Griffin and Nathan Orbin market the project. VanTrust has selected Evans General Contractors, GSR Andrade Architects and Kimley-Horn to support the development of 121 Commerce Park. The post VanTrust Starts Work on 512K-SF McKinney Warehouse Venture appeared first on Connect CRE.",
+      "source": "Connect CRE",
       "cat": "Commercial",
-      "date": "2026-08-11T17:10:23+00:00",
+      "date": "2026-08-11T16:55:00+00:00",
       "bullets": [
-        "Comcast Advertising relocates to 1540 Broadway, Manhattan; 140K SF lease signed",
-        "GFP completed $150M repositioning; tenant relocation from 55 W. 46th Street",
-        "Midtown office asking rents ~$86/SF (Q2 2026); major tenant commitments support office stabilization"
+        "VanTrust Real Estate began Phase 1 of 121 Commerce Park, McKinney, Texas: 512,000 SF industrial space across two buildings.",
+        "Building A: 242,393 SF; Building B: 270,479 SF; flexible single/multi-tenant; completion Q2 2027; future Phase 2: 250,000 SF.",
+        "Located 42 acres, northwest corner Tina Drive/SH-121; direct access U.S. 75, SH-121/Sam Rayburn Tollway, Highway 380, McKinney National Airport."
       ],
-      "summary": "Comcast Advertising, the ad sales and technology division of Comcast, signed a 140,000-square-foot lease at 1540 Broadway in Midtown Manhattan, relocating from West 46th Street. The landlords, GFP Real Estate and BDT & MSD Partners, completed a $150 million repositioning of the property and are landing additional tenants. The deal reflects tenant appetite for high-quality office space to attract talent and support long-term growth despite macro headwinds.",
-      "impact": "While this is an office transaction, it's secondary relevance to multifamily developers: major media/tech employer consolidation and repositioning in Midtown signals continued job concentration in Manhattan, sustaining white-collar residential demand in nearby submarkets (e.g., Upper West Side, Downtown Brooklyn, Long Island City). However, office-to-residential conversion opportunities in Midtown remain capital-efficient if landlords face sustained vacancy; this lease suggests Class-A office still absorbs institutional tenants, reducing near-term conversion urgency."
+      "summary": "VanTrust Real Estate began construction on Phase 1 of 121 Commerce Park, its first industrial park in McKinney, Texas. Phase 1 includes 512,000 SF of Class A industrial space across two speculative buildings (242K SF Building A, 270K SF Building B) with flexible single- or multi-tenant configurations. Completion is anticipated in Q2 2027. The 42-acre site offers direct access to U.S. 75, SH-121, and Highway 380, with proximity to McKinney National Airport. Phase 2 will add up to 250,000 SF of build-to-suit industrial space.",
+      "impact": "NOT directly multifamily-relevant, but McKinney is a logistics and light-industrial hub feeding DFW growth. Industrial buildout signals job creation and employer activity; if tenants occupy Phase 1 and expand into Phase 2, McKinney will see wage-earning worker in-migration supporting apartment demand. Monitor lease-up pace and tenant profiles (3PLs, last-mile, manufacturing) to forecast multifamily demand in McKinney's rental market."
     },
     {
       "title": "Value, Nostalgia and Gas Prices Shape Store Traffic in 2026",
@@ -77,102 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-11T16:48:13+00:00",
       "bullets": [
-        "Rising gas prices, inflation reshape consumer traffic H1 2026; not uniform slowdown across sectors",
-        "Dining hit harder than brick-and-mortar retail; nostalgia-driven brands (e.g., Barnes & Noble) growing",
-        "Consumer discretionary spending pressured but reallocation evident; value proposition driving traffic"
+        "H1 2026: gas prices climbing, inflation rising, economic uncertainty weighing on consumer discretionary budgets per Placer.ai.",
+        "Higher gas prices reshuffled consumer activity; dining establishments hit harder than brick-and-mortar retail; long-distance destination retail also impacted.",
+        "Value proposition and nostalgia (early 2000s mall brands, e.g., Barnes & Noble resurgence) driving traffic growth among some retailers."
       ],
-      "summary": "Higher gas prices and inflation in H1 2026 reshaped consumer spending patterns rather than uniformly slowing traffic, according to Placer.ai. Dining establishments absorbed more impact than retail, while destination retail faced headwinds. Brands leveraging value propositions and nostalgia—notably Barnes & Noble—continued to grow store traffic despite macro pressure on discretionary budgets.",
-      "impact": "Minimal direct impact to multifamily development strategy. Indirectly, sustained consumer spending pressure may dampen household formation and rent growth in secondary/tertiary markets where wage growth lags inflation; in prime coastal metros with strong job markets, renter demand remains resilient. Monitor rent growth in non-coastal markets through 2026–27 for softening signals that could delay development starts in weaker-demand corridors."
-    },
-    {
-      "title": "Halo Vista Team Kicks Off Phase I of TSMC-Area Warehouse Project",
-      "link": "https://www.connectcre.com/stories/halo-vista-team-kick-off-phase-i-of-tsmc-area-warehouse-project/",
-      "excerpt": "Mack Real Estate Group (MREG) and McCourt Partners are kicking off Phase I of an industrial project within Halo Vista, a 2,400-acre master-planned community in North Phoenix, not far from the Taiwan Semiconductor Manufacturing Company plant. Designed by Ware Malcomb, Phase I is planned to include seven buildings totaling more than 780,000 square feet. The facilities will offer flexible layouts, with individual buildings ranging from 43,000 to 203,000 square feet, to accommodate uses such as high-tech manufacturing and supply chain logistics. The broader multi-phase plan contemplates approximately 2.5 million square feet of industrial development. “Our target occupiers will be TSMC suppliers and service providers, as well as other advanced manufacturing companies seeking to benefit from the high-tech manufacturing talent and ecosystem created by proximity to Taiwan Semiconductor,” said Richard Mack, CEO of Mack Real Estate Group. Site development for the industrial buildings is anticipated to commence in the 4th quarter of 2026. CBRE will serve as leasing and sales agent. The post Halo Vista Team Kicks Off Phase I of TSMC-Area Warehouse Project appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-11T16:39:31+00:00",
-      "bullets": [
-        "Mack Real Estate Group, McCourt Partners kick off Phase I near TSMC plant, North Phoenix",
-        "Phase I: 780K SF across 7 buildings (43K–203K SF ea.); 2.5M SF multi-phase plan total",
-        "Target occupiers: TSMC suppliers, advanced manufacturing; site development Q4 2026 start"
-      ],
-      "summary": "Mack Real Estate Group and McCourt Partners have commenced Phase I of Halo Vista, a 2,400-acre master-planned community in North Phoenix near TSMC's semiconductor plant. Phase I comprises seven buildings totaling 780,000 square feet with flexible layouts for high-tech manufacturing and logistics. The broader project envisions 2.5 million square feet of industrial development targeting TSMC suppliers and advanced manufacturing tenants; site work is slated to begin Q4 2026.",
-      "impact": "TSMC's Phoenix fab and its 2025+ ramp is a major structural demand driver for North Phoenix industrial and ancillary residential. This supply-chain campus development will attract mid-to-senior manufacturing engineers, logistics managers, and service technicians to the metro, expanding rental demand in North Phoenix submarkets and extending the commute shed. Multifamily developers should acquire land in a 5–10 mile radius of TSMC and the Halo Vista industrial corridor to capture influx from suppliers/service providers; rents in North Phoenix will accelerate 2027–28 as Phase I operationalizes."
-    },
-    {
-      "title": "Kroger Out, Sprouts In at Houston’s Hedwig Village",
-      "link": "https://www.connectcre.com/stories/kroger-out-sprouts-in-at-houstons-hedwig-village/",
-      "excerpt": "A former Kroger location in Hedwig Village is being transformed into a Sprouts Farmers Market. The store is currently scheduled to open in 2027. The Houston Business Journal reports construction crews are renovating the 46,268-square-foot former Kroger space at 9325 Katy Freeway in the Echo Lane shopping center. Sprouts will take up approximately half the building. The other half is available. Boucher Design Group is the design firm for the project. Smithco bought the center in 2020. The center, built in 1974 is on 12 acres and has nearly 150,000 square feet under roof. The specialty grocer debuted in the Houston area in 2013 with its first local store at 23105 Cinco Ranch Blvd., off the Grand Parkway in the Katy area. Sprouts opened four that year; one has since closed. The post Kroger Out, Sprouts In at Houston’s Hedwig Village appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-11T16:33:10+00:00",
-      "bullets": [
-        "Sprouts Farmers Market taking 23K SF of former 46.3K SF Kroger at Echo Lane, Houston",
-        "Kroger vacated; Sprouts opening 2027; remainder of space available for lease",
-        "Specialty grocer has grown Houston footprint since 2013 debut; center built 1974, 150K SF total"
-      ],
-      "summary": "A former Kroger location in the Echo Lane shopping center in Hedwig Village, Houston is being redeveloped for Sprouts Farmers Market, which will occupy approximately 23,000 of the 46,268 square feet. Sprouts is scheduled to open in 2027. The specialty grocer has been expanding in Houston since 2013 and will occupy half the former Kroger space, leaving the other half available for lease.",
-      "impact": "Minimal direct relevance to multifamily development. Indirectly, Sprouts' expansion in Houston reflects continued foot-traffic retail adaptation and the viability of non-traditional grocery concepts in suburban markets; this may support apartment demand in suburban nodes like Hedwig Village if retail/service amenity diversity improves walkability. However, this is a single-unit retrofit; broader market implication is weak."
-    },
-    {
-      "title": "In Commercial Real Estate, a Plausible Answer From AI Is Not Enough",
-      "link": "https://commercialobserver.com/2026/08/commercial-real-estate-parsing-ai/",
-      "excerpt": "Artificial intelligence can now produce work that looks remarkably finished. It can summarize a lease, review a rent roll, draft an investment committee memo and explain a change in occupancy in polished language. That creates a new problem for commercial real estate firms: A document can look ready long before it is safe to use. For an asset manager, controller or acquisitions professional, the test is not whether an answer reads well but whether the person receiving it can defend the work. Where did the number come from? Was it pulled from the current rent roll or an older version? Does “occupancy” mean leased, physically occupied or economically occupied? Were the calculations independently checked? What happens when the system is unsure? Arunabh Dastidar. Photo: Courtesy Leni. Those questions are becoming more important as AI moves beyond drafting and begins completing longer sequences of work. Consider a routine request: “Send the Monday operating report.” To a person, that instruction carries a great deal of unstated knowledge. The report must use the correct reporting period, property list and accounting data. It may need to flag certain variances but ignore others. Some information may be available to the asset management team, but restricted from other recipients. The finished document may also require review before it leaves the company. The request sounds like one task. In practice, it is a series of decisions. That distinction matters because each individual step can appear reasonable while the final result is wrong. An AI system may retrieve a document, summarize it, add figures to a spreadsheet and prepare an email. But, if it selects an outdated file or sends the report to the wrong distribution list, the fact that every individual step worked correctly offers little comfort. Commercial real estate is particularly unforgiving of this kind of error. A report can be professionally written and still contain a bad entity mapping, an incorrect date or a fo",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-11T16:30:37+00:00",
-      "bullets": [
-        "AI-generated CRE documents (rent rolls, memos, reports) risk accuracy/audit defects if unsupervised",
-        "Key risk: AI outputs appear polished but lack verifiable source data and logic checks",
-        "Firms must establish governance: data provenance, variance flagging, uncertainty documentation"
-      ],
-      "summary": "AI systems can now produce polished commercial real estate documents—rent rolls, operating reports, investment memos—that appear ready before accuracy and data integrity are verified. The technology poses risk when stakeholders trust presentation quality rather than validating source data, calculation methodology, and awareness of system limitations. CRE firms are learning that governance, audit trails, and explicit uncertainty flagging are critical before AI-generated outputs inform capital decisions.",
-      "impact": "No direct market impact. For development teams: validate all AI-assisted underwriting outputs (pro formas, market analysis, rent growth assumptions) by re-tracing data sources and calculations; do not rely on AI summaries for acquisition memos or financial models without human verification. This is an operational/risk-control issue, not a market signal."
-    },
-    {
-      "title": "Wells Fargo Provides $175M Construction Loan for Queens Mixed-Use Development",
-      "link": "https://commercialobserver.com/2026/08/wells-fargo-175m-construction-loan-queens-elara-apartment/",
-      "excerpt": "The affordable housing development push continues in New York City. The Domain Companies has secured $175 million in construction financing to build Elara, a two-building, 429-unit mixed-income housing development in the historic Astoria neighborhood of Queens, Commercial Observer can first report. Wells Fargo provided the construction debt, while Domain Companies contributed an undisclosed amount of equity into the deal together with Canyon Partners Real Estate and BLDG Management. JLL Capital Markets’ Chris Peck and Nicco Lupo arranged the transaction. In a statement, Jacob Feingold, partner and head of originations at Canyon Partners Real Estate, cited Astoria’s ongoing population growth and The Domain Companies’ experience building in the area. The firm opened Jasper, a 499-unit multifamily complex along the Queens waterfront, in 2025. “We continue to see attractive opportunities to invest in high-quality residential projects in markets supported by strong housing demand and compelling long-term fundamentals,” said Feingold. Located at 35-45, 35-33 and 35-42 41st Street in an area that borders the neighborhoods of Sunnyside Gardens and Astoria, Elara is split between Elara East, an 18-story building with 330 apartments, and Elara West, a 12-story building with 99 apartments. Between the two buildings, the complex will deliver 107 permanently affordable housing units and 4,000 square feet of retail space. On-site amenities will include fitness centers, co-working spaces, a screening room, a gaming room with a golf simulator, a children’s playroom, a dog wash station and outdoor courtyards, while Elara East will hold a rooftop terrace with views of the Manhattan skyline. Matt Schwartz, co-CEO of Domain Companies, called Astoria “one of New York’s most vibrant and culturally rich neighborhoods,” in a statement. “We’re proud to deepen that connection by delivering a thoughtfully designed residential community that reflects the character of the neighborhood while off",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-11T15:25:48+00:00",
-      "bullets": [
-        "Wells Fargo provides $175M construction loan for Domain Companies' Elara, Queens; 429 units mixed-income",
-        "Two-building project in Astoria; Domain also operates Jasper (499 units, opened 2025 waterfront)",
-        "Astoria population growth and affordable housing focus cited as demand fundamentals"
-      ],
-      "summary": "Domain Companies secured $175 million in construction financing from Wells Fargo for Elara, a two-building, 429-unit mixed-income development in Astoria, Queens, with equity co-investment from Canyon Partners Real Estate and BLDG Management. The project follows Domain's 2025 opening of Jasper, a 499-unit waterfront complex in Queens. Lenders cited Astoria's population growth and strong housing demand as primary underwriting drivers.",
-      "impact": "Queens remains an attractive multifamily development market with construction financing available at scale for affordable/mixed-income projects. Domain's back-to-back delivery of Jasper (2025) and Elara (under construction) signals strong Queens rental demand and lender appetite for Astoria-specific assets. For competing developers in Queens, acquisition windows are narrowing; land costs and competition will rise 2026–27 as institutional capital chases population-growth tail winds in Long Island City, Astoria, and western Queens."
-    },
-    {
-      "title": "B of A Pays $155M for Jacksonville Office Buildings",
-      "link": "https://www.connectcre.com/stories/b-of-a-pays-155m-for-jacksonville-office-buildings/",
-      "excerpt": "Bank of America paid $155 million for five buildings and two parking garages that it had been leasing at its Southside Boulevard operations center campus. The banking giant acquired the property from Ladder Capital of New York City. Bank of America bought about 820,000 square feet of space spanning Buildings 200, 300, 400, 500 and 600 at the campus at 9000 Southside Blvd., north of The Avenues mall. The company has invested heavily in renovating the properties it bought. As part of the transaction, Bank of America will continue to lease about 78,000 square feet across three floors in Building 100, which is owned by Glenfield Capital of Atlanta. The Southside campus serves as one of Bank of America’s major operations hubs and supports more than 7,100 employees across its businesses, including consumer banking, wealth management, operations, technology, and staff and support functions. Bank of America remains the largest bank in metro Jacksonville with 23 branches. The post B of A Pays $155M for Jacksonville Office Buildings appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-11T15:05:25+00:00",
-      "bullets": [
-        "Bank of America buys $155M Jacksonville office campus (820K SF, five bldgs) from Ladder Capital",
-        "Property is owned operations center for 7,100+ employees; strategic footprint for BofA",
-        "Largest bank in Jacksonville; lease continues for third-party-owned Building 100 (78K SF)"
-      ],
-      "summary": "Bank of America acquired approximately 820,000 square feet across five buildings and two parking garages at its Southside Boulevard operations center in Jacksonville for $155 million, buying from Ladder Capital. The property supports over 7,100 employees across multiple business lines and serves as a major operational hub. BofA will continue leasing additional space in a third-party-owned building, reinforcing its Jacksonville presence.",
-      "impact": "BofA's $155M commitment to own (rather than lease) its Jacksonville operations hub signals long-term employment concentration in the metro. This anchors 7,100+ jobs in the Southside corridor, supporting multifamily demand in nearby residential neighborhoods and suburban spine markets. Expect sustained professional-class rental demand in Ponte Vedra, Southside, and Ortega areas; this reduces uncertainty around white-collar job churn and supports mid-to-market-rate apartment fundamentals in Jacksonville through 2027–30."
-    },
-    {
-      "title": "Florida Panthers, Broward County Exploring Entertainment District",
-      "link": "https://www.connectcre.com/stories/florida-panthers-broward-county-exploring-entertainment-district/",
-      "excerpt": "Broward County has submitted plans that could transform the 154-acre area surrounding the Florida Panthers’ home into a massive 24/7 mixed-use destination in Sunrise. The Panthers say they’re in the early stages of discussions with Broward County and Sunrise. A Sunrise City Commission will consider the proposal next week. The proposal could include 1,400 apartments, 600 hotel rooms, 1.62 million square feet of office/education space and 300,000 square feet of commercial space. Much of the development replaces portions of the current parking lots. It’s not known if the Amerant Bank Arena will be part of the transformation. Major sports stadiums and arenas across the United States are increasingly paired with mixed-use entertainment districts. Prominent examples include The Battery Atlanta at Truist Park, Ballpark Village at Busch Stadium in St. Louis, and L.A. Live across from where the Los Angeles Lakers play basketball. The post Florida Panthers, Broward County Exploring Entertainment District appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-11T14:38:26+00:00",
-      "bullets": [
-        "Florida Panthers, Broward County planning 154-acre entertainment district near Amerant Bank Arena, Sunrise",
-        "Proposal includes 1,400 apartments, 600 hotel rooms, 1.62M SF office/education, 300K SF retail",
-        "Development replaces parking lots; modeled on Battery Atlanta, Ballpark Village, L.A. Live precedents"
-      ],
-      "summary": "Broward County and the Florida Panthers are in early planning stages for a 154-acre mixed-use entertainment district surrounding the Panthers' home arena in Sunrise. The proposal envisions 1,400 apartments, 600 hotel rooms, 1.62 million square feet of office and education space, and 300,000 square feet of retail, largely replacing existing surface parking. The Sunrise City Commission will consider the proposal; precedents include The Battery Atlanta and Ballpark Village.",
-      "impact": "If approved, this is a significant positive signal for South Florida multifamily demand in Sunrise. The 1,400-unit residential component will compete directly with existing and planned apartments in Sunrise and nearby Plantation/Coral Springs; developers should monitor entitlements closely for 2027 approvals and subsequent lease-up timelines. The arena-anchored mixed-use model suggests strong foot-traffic retail support and daytime employment draw, reducing absorption risk for ancillary residential. Broward County's willingness to entitle this size project signals policy openness to density and mixed-use in suburban hubs—expect follow-on development site availability and faster permitting in Sunrise over 2027–29."
+      "summary": "Placer.ai reports that H1 2026 consumer traffic was shaped by gas price increases, rising inflation, and economic uncertainty. Higher fuel costs did not uniformly slow foot traffic; instead, they reshuffled consumer activity—dining establishments were hit harder than brick-and-mortar retailers, while long-distance destination retail felt some impact. The report notes that value proposition and nostalgia for early 2000s mall anchors (e.g., Barnes & Noble) are powering traffic growth for brands positioned to capitalize.",
+      "impact": "NOT directly multifamily-relevant, but signals consumer income stress (rising inflation, gas costs, uncertainty) could soften rental demand in discretionary-focused markets if household formation or mobility slows. However, value-seeking behavior is positive for workforce and middle-income multifamily. Monitor regional employment and wage growth; if consumer traffic patterns reveal geographic spending weakness, multifamily demand may soften in those metros. Conversely, value-oriented retail growth may correlate with stable workforce housing demand in cost-conscious submarkets."
     }
   ]
 }
