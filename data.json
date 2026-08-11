@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-11T15:52:16.593337+00:00",
+  "fetchedAt": "2026-08-11T16:48:15.167695+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -10,20 +10,28 @@
     {
       "label": "10Y Treasury",
       "value": "4.69%",
-      "pct": -0.15
+      "pct": -0.28
     },
     {
       "label": "30Y Treasury",
       "value": "5.24%",
-      "pct": -0.1
+      "pct": -0.15
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "96.72",
-      "pct": -0.4
+      "value": "96.89",
+      "pct": -0.23
     }
   ],
   "stories": [
+    {
+      "title": "In Commercial Real Estate, a Plausible Answer From AI Is Not Enough",
+      "link": "https://commercialobserver.com/2026/08/commercial-real-estate-parsing-ai/",
+      "excerpt": "Artificial intelligence can now produce work that looks remarkably finished. It can summarize a lease, review a rent roll, draft an investment committee memo and explain a change in occupancy in polished language. That creates a new problem for commercial real estate firms: A document can look ready long before it is safe to use. For an asset manager, controller or acquisitions professional, the test is not whether an answer reads well but whether the person receiving it can defend the work. Where did the number come from? Was it pulled from the current rent roll or an older version? Does “occupancy” mean leased, physically occupied or economically occupied? Were the calculations independently checked? What happens when the system is unsure? Arunabh Dastidar. Photo: Courtesy Leni. Those questions are becoming more important as AI moves beyond drafting and begins completing longer sequences of work. Consider a routine request: “Send the Monday operating report.” To a person, that instruction carries a great deal of unstated knowledge. The report must use the correct reporting period, property list and accounting data. It may need to flag certain variances but ignore others. Some information may be available to the asset management team, but restricted from other recipients. The finished document may also require review before it leaves the company. The request sounds like one task. In practice, it is a series of decisions. That distinction matters because each individual step can appear reasonable while the final result is wrong. An AI system may retrieve a document, summarize it, add figures to a spreadsheet and prepare an email. But, if it selects an outdated file or sends the report to the wrong distribution list, the fact that every individual step worked correctly offers little comfort. Commercial real estate is particularly unforgiving of this kind of error. A report can be professionally written and still contain a bad entity mapping, an incorrect date or a fo",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-11T16:30:37+00:00"
+    },
     {
       "title": "Wells Fargo Provides $175M Construction Loan for Queens Mixed-Use Development",
       "link": "https://commercialobserver.com/2026/08/wells-fargo-175m-construction-loan-queens-elara-apartment/",
@@ -32,12 +40,12 @@
       "cat": "Commercial",
       "date": "2026-08-11T15:25:48+00:00",
       "bullets": [
-        "Wells Fargo provides $175M construction debt for Domain Companies' Elara in Queens Astoria",
-        "429-unit mixed-income project follows Domain's 499-unit Jasper waterfront delivery in early 2025",
-        "Lender cites Astoria population growth and strong housing demand fundamentals"
+        "Wells Fargo funds $175M construction loan for Domain Companies' 429-unit Elara in Queens Astoria",
+        "Mixed-income development follows Domain's 499-unit Jasper waterfront completion in early 2025",
+        "Strong housing demand and population growth cited as underwriting drivers in Queens"
       ],
-      "summary": "Domain Companies secured $175M in construction financing from Wells Fargo for Elara, a 429-unit mixed-income development in Queens' Astoria neighborhood, with equity from Canyon Partners Real Estate and BLDG Management. The project follows Domain's recent delivery of Jasper, a 499-unit complex on the Queens waterfront, in early 2025. Lender commentary emphasizes population growth and long-term housing demand strength in the submarket.",
-      "impact": "Sustained multifamily construction in Queens Astoria signals developer and lender confidence in outer-borough rental demand despite macro headwinds. The back-to-back large projects (929 units across Jasper and Elara) by the same sponsor suggest absorption and rental rate resilience in a supply-constrained micro. Queens' population in-migration and limited new supply pipeline support development momentum—watch for rent growth acceleration that could justify higher-basis new starts across Brooklyn/Queens submarkets."
+      "summary": "Domain Companies secured $175 million in construction financing from Wells Fargo for Elara, a two-building, 429-unit mixed-income development in Astoria, Queens, with equity from Canyon Partners Real Estate and BLDG Management. The deal reflects continued affordable housing development momentum in NYC and follows Domain's successful 2025 delivery of Jasper, a 499-unit complex on the Queens waterfront. Lender and equity partners cited Astoria's population growth and strong housing fundamentals as core underwriting drivers.",
+      "impact": "Queens waterfront and Astoria submarkets show sustained rental demand strength sufficient to attract institutional capital (Wells Fargo, Canyon Partners) into mixed-income product. Domain's back-to-back deliveries signal operator confidence in the borough's absorbability; developers should monitor Astoria-LIC rent growth and occupancy trends to time future acquisitions ahead of further population in-migration."
     },
     {
       "title": "Architecture and Design Firm SWA Group Inks 6K SF at 381 Park Avenue South",
@@ -45,14 +53,15 @@
       "excerpt": "Architecture and design firm SWA Group has signed a 5,789-square-foot lease at Olmstead Properties’ 381 Park Avenue South in Midtown South, the landlord announced Tuesday. The 10.5-year lease for the global landscape architecture, planning and urban design firm will stretch across part of the building’s 12th floor. SWA — which did not immediately respond to Commercial Observer’s request for comment — will relocate from 31 West 27th Street. The exact asking rent was not disclosed, but Olmstead did note that asking rent in the building averages $75 per square foot. SWA was represented by Janet Liff from J. Liff Co., while Steve Marvin and Jonathan Bock from Olmstead Properties represented ownership in the deal. Liff did not immediately respond to Commercial Observer’s request for comment. Meanwhile, Olmstead also announced Tuesday that health care products company On The Right Track Systems, backed by Riveria Investment Group, signed a new lease for 4,157 square feet on part of the 10th floor of 381 Park Avenue South, relocating from 99 Park Avenue. Riveria invested in the provider of proprietary hospital privacy curtains and health care industry track systems in February 2025. The lease runs for seven years and six months. Olmstead’s Marvin and Bock also represented ownership in that deal, while the tenant was represented by Arash Sadighi and Tyler Ruggieri from Venture Commercial NYC, as well as by Alan Rosinsky from Metro Manhattan Office Space. Olmstead has been seeing strong leasing momentum at 381 Park Avenue South as well as 373 Park Avenue South, bringing the two properties to about 99,000 square feet of new office and retail leases in the past eight months. Irish-American pub Stout NYC signed a lease for 13,900 square feet at the base of 373 Park Avenue South in May. &#8220;Companies continue to respond to thoughtfully designed prebuilt suites, upgraded common areas and an ownership team that moves quickly. With additional transactions in the pipeline, we&#82",
       "source": "Comm. Observer",
       "cat": "Commercial",
-      "date": "2026-08-11T15:22:35+00:00",
-      "bullets": [
-        "SWA Group leases 5,789 SF at 381 Park Avenue South, Midtown South, at ~$75/SF asking",
-        "Architecture firm relocates from Chelsea; 10.5-year lease on 12th floor",
-        "No direct multifamily signal; office leasing activity in tight Midtown South market"
-      ],
-      "summary": "Architecture and design firm SWA Group signed a 10.5-year lease for 5,789 square feet at Olmstead Properties' 381 Park Avenue South in Midtown South at approximately $75 per square foot asking rent. The firm is relocating from 31 West 27th Street in Chelsea. Olmstead also leased 4,157 square feet to health care products company On The Right Track Systems on the same building's 10th floor.",
-      "impact": "Minimal direct relevance to multifamily development. Office leasing activity in Midtown South signals some tenant confidence and rent resilience in Plaza District, but does not materially affect apartment demand, supply, or capital availability in any major metro."
+      "date": "2026-08-11T15:22:35+00:00"
+    },
+    {
+      "title": "B of A Pays $155M for Jacksonville Office Buildings",
+      "link": "https://www.connectcre.com/stories/b-of-a-pays-155m-for-jacksonville-office-buildings/",
+      "excerpt": "Bank of America paid $155 million for five buildings and two parking garages that it had been leasing at its Southside Boulevard operations center campus. The banking giant acquired the property from Ladder Capital of New York City. Bank of America bought about 820,000 square feet of space spanning Buildings 200, 300, 400, 500 and 600 at the campus at 9000 Southside Blvd., north of The Avenues mall. The company has invested heavily in renovating the properties it bought. As part of the transaction, Bank of America will continue to lease about 78,000 square feet across three floors in Building 100, which is owned by Glenfield Capital of Atlanta. The Southside campus serves as one of Bank of America’s major operations hubs and supports more than 7,100 employees across its businesses, including consumer banking, wealth management, operations, technology, and staff and support functions. Bank of America remains the largest bank in metro Jacksonville with 23 branches. The post B of A Pays $155M for Jacksonville Office Buildings appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-11T15:05:25+00:00"
     },
     {
       "title": "Florida Panthers, Broward County Exploring Entertainment District",
@@ -62,12 +71,12 @@
       "cat": "Commercial",
       "date": "2026-08-11T14:38:26+00:00",
       "bullets": [
-        "Broward County, Florida Panthers planning 154-acre entertainment district in Sunrise",
-        "Proposal includes 1,400 apartments, 600 hotel rooms, 1.62M SF office, 300K SF retail",
-        "Project replaces parking lots; approval vote scheduled; Amerant Bank Arena status unclear"
+        "Broward County proposes 1,400 apartments + 600 hotel rooms around Florida Panthers arena in Sunrise",
+        "154-acre mixed-use entertainment district replaces parking, adds 1.62M SF office/education and 300K SF retail",
+        "Sunrise City Commission to vote; Panthers, county in early-stage exploration of 24/7 destination model"
       ],
-      "summary": "Broward County and the Florida Panthers are exploring a 154-acre mixed-use entertainment district anchored by Amerant Bank Arena in Sunrise. The proposal envisions 1,400 apartments, 600 hotel rooms, 1.62 million square feet of office and education space, and 300,000 square feet of retail, much of it replacing surface parking. Sunrise City Commission is expected to vote on the proposal next week.",
-      "impact": "If approved, this represents significant multifamily supply absorption opportunity in South Florida's Sunrise submarket, but the large unit count (1,400) on a single 154-acre site signals intentional density that could soften rents if delivered over short timeline. The sports-entertainment anchor model (Battery Atlanta, Ballpark Village) typically drives foot traffic and daytime employment but can cannibalize nearby retail leasing. Monitor approval pace and phasing; early land control adjacent to Amerant Bank Arena could capture spillover demand, but oversupply risk is material in a 5–7 year delivery window."
+      "summary": "Broward County has submitted a transformation plan for the 154-acre area surrounding the Florida Panthers' Amerant Bank Arena in Sunrise, proposing 1,400 apartments, 600 hotel rooms, 1.62 million square feet of office/education space, and 300,000 square feet of commercial uses, with much of the development replacing surface parking. The Panthers and local government are in early discussions; Sunrise City Commission will consider the proposal imminently. The concept mirrors successful stadium-anchored mixed-use districts like The Battery Atlanta and Ballpark Village.",
+      "impact": "This arena-anchored project would create a significant rental demand catalyst in the Sunrise/Broward submarket by concentrating workers, visitors, and residents around a major entertainment/employment anchor. If approved and financed, it represents a 1,400-unit supply inflow; developers should track entitlement timing and pre-leasing signals to assess whether competing projects should advance or delay starts. The model also signals that parking-heavy suburban campuses in South Florida are now developable as mixed-use infill."
     },
     {
       "title": "ApartmentIQ Secures $25M Follow-On Funding Round",
@@ -77,12 +86,12 @@
       "cat": "Commercial",
       "date": "2026-08-11T14:13:14+00:00",
       "bullets": [
-        "ApartmentIQ secures $25M Series C from Susquehanna Growth Equity after 2021 Series B",
-        "Real-time market intelligence and AI platform now covers 8M+ multifamily units",
-        "New products (Explore Pro, Daylight) target acquisition, asset management, market research"
+        "ApartmentIQ raises $25M Series C led by Susquehanna Growth Equity; surpasses 8 million units tracked",
+        "Launched Explore Pro (acquisition/asset management tool) and Daylight (revenue management) in past 9 months",
+        "Real-time market intelligence and AI platform increasingly central to multifamily underwriting workflows"
       ],
-      "summary": "Multifamily data and intelligence platform ApartmentIQ announced a $25 million follow-on funding round led by Susquehanna Growth Equity, which also led the company's $22.5 million Series B in 2021. The company now covers over 8 million units in its customer base and has launched two new products—Explore Pro (market research and site selection) and Daylight—to complement its existing survey and revenue management platform.",
-      "impact": "Capital inflow to apartment intelligence tools indicates venture confidence in multifamily data monetization and validates developer/operator demand for advanced site selection and market intelligence. Wider unit coverage and new product layers (Explore Pro for acquisition site selection) could accelerate market transparency, compress information advantages, and intensify competitive bidding for prime infill and development sites. For developers, expect rising input costs for market data and faster competitive site identification by rivals."
+      "summary": "ApartmentIQ, a multifamily data and revenue management platform formerly known as Rentable, secured $25 million in Series C funding from Susquehanna Growth Equity, which also led the company's 2021 Series B at $22.5 million. The platform now covers 8 million units and has launched two new products in the past nine months: Explore Pro, a market research and site selection tool for acquisitions and asset management, and Daylight, a revenue management solution. CEO Alec Slocum emphasized the value of leveraging proprietary market survey data to power downstream products.",
+      "impact": "ApartmentIQ's funding and product velocity underscore that real-time market intelligence and AI-driven site selection are now table-stakes for institutional multifamily developers in underwriting and capital allocation. Explore Pro's traction suggests developer teams are increasingly relying on algorithmic/data-driven site selection over traditional broker and pro-forma analysis; teams without access to granular market data and predictive tools risk slower acquisition cycles and weaker conviction in site selection. This raises the cost of capital and competitive advantage for data-informed operators."
     },
     {
       "title": "JLB Pursuing Buckhead Office-to-Apartments Conversion",
@@ -92,12 +101,12 @@
       "cat": "Commercial",
       "date": "2026-08-11T14:07:02+00:00",
       "bullets": [
-        "JLB Partners converting seven-story 1960s office building at 470 E. Paces Ferry Road, Buckhead Atlanta",
-        "314-unit apartment project; construction start targeted for summer 2027",
-        "Site surrounded by mixed-use, retail, and condo/apartment developments (Camden, Ashley Gables)"
+        "JLB Partners converting 470 E. Paces Ferry Road (1960s office, 7-story) to 314 apartments in Buckhead",
+        "Longstanding tenant Logility acquired by Aptean in 2025; reduced workforce enables conversion",
+        "Construction targeted for summer 2027; walkable to Buckhead Village mixed-use district"
       ],
-      "summary": "JLB Partners is planning a 314-unit apartment conversion of a seven-story 1960s office building at 470 E. Paces Ferry Road in Buckhead Village, Atlanta. The building, home to Logility Supply Chain Solutions (recently acquired by Aptean), will be redeveloped into apartments with nearby retail and shopping. Construction is targeted to begin in summer 2027, pending permits.",
-      "impact": "Office-to-apartment conversion in Buckhead Village signals weak office-market fundamentals and strong apartment demand in Atlanta's premium submarket. The 314-unit conversion, if realized, reduces supply-chain risk versus ground-up development but assumes existing structural integrity and zoning pliability. Watch the submarket's office absorption rate and vacancy trends; if large-block office space (50K–100K SF) remains vacant, additional conversions could spike, increasing competitive pressure on new Class A apartment rents and forcing newer construction to higher-amenity/class-A positioning to justify pricing."
+      "summary": "JLB Partners is converting a seven-story, mid-century office building at 470 E. Paces Ferry Road in Buckhead Village to 314 apartments. The property was previously occupied by Logility Supply Chain Solutions, which was acquired by Aptean in 2025 and has since reduced its on-site workforce. Construction is targeted to begin in summer 2027 pending approvals. The site benefits from proximity to Buckhead Village District and other recent apartment and condo deliveries in the submarket.",
+      "impact": "Buckhead's office-to-residential conversion pipeline is accelerating as major employers (Aptean/Logility) downsize legacy office footprints. This conversion opportunity signals soft office demand in the submarket and rising residential values; developers should scout other occupied mid-rise office assets with tenant turnover risk or shrinking corporate tenants. JLB's timeline (summer 2027 start) suggests 2025–2026 permitting; monitor Buckhead entitlement trends to identify windows for competing conversion or ground-up projects before zoning tightens."
     },
     {
       "title": "Hogan Lovells Cadwalader, the Blockbuster New Firm in Corporate Law",
@@ -105,29 +114,7 @@
       "excerpt": "You know that nightmare, where you are late for class and your teacher calls out from behind you, and all you feel is dread? That happened to real estate lawyer Sulie Arias, a partner with the corporate finance practice at Hogan Lovells Cadwalader — a newly formed firm thanks to a $3.9 billion merger — except her reality wasn’t a nightmare. The professor was running to catch up with Arias to tell the trembling student just how impressed she was with the grade Arias received on a test that very few people had even passed. The professor encouraged Arias to pursue law as a career, and now she is part of one of the biggest law firms in the country, working alongside people like Trevor Adler, another partner in the corporate finance practice. Hogan Lovells Cadwalader is the result of the almost $4 billion merger between Hogan Lovells, and Cadwalader Wickersham &amp; Taft that took effect on July 1, creating a singular firm. Commercial Observer caught up with Arias and Adler in August to discuss the merger, their careers and practices, insights on office leasing and the other real estate markets in New York City, as well as the benefits of the merger. This conversation has been edited for length and clarity. Commercial Observer: Please introduce yourselves and tell us about your practice. Trevor Adler: I am from the legacy Hogan Lovell side. I am a lifer with my particular group of people. I started as a summer associate in 2006, and have been with the same real estate team ever since. There are a lot of lifers in our combined team too. I do all things real estate, but my specialty is condominiums and commercial leasing — office, retail, medical, data centers — on both the landlord and tenant side, about half my work is in the New York City area, and about half is across the country. Also, I just love history and I have written a LinkedIn post every week since January about New York City real estate history. Sulie Arias: I’ve been with Cadwalader for six years, and before",
       "source": "Comm. Observer",
       "cat": "Commercial",
-      "date": "2026-08-11T14:00:37+00:00",
-      "bullets": [
-        "Hogan Lovells and Cadwalader Wickersham & Taft merge in ~$3.9B transaction effective July 1",
-        "New firm Hogan Lovells Cadwalader is one of largest law firms in U.S.",
-        "Profile focuses on real estate lawyers and corporate finance practice"
-      ],
-      "summary": "Hogan Lovells and Cadwalader Wickersham & Taft completed a nearly $4 billion merger effective July 1, creating Hogan Lovells Cadwalader, one of the largest law firms in the U.S. The article profiles partners Sulie Arias and Trevor Adler in the corporate finance practice, highlighting their roles in real estate deals and office leasing trends.",
-      "impact": "No material relevance to multifamily development. Law firm merger consolidation may modestly benefit multifamily lenders and sponsors via deeper capital-markets expertise and financing support, but does not signal demand, supply, cost, or capital availability shifts in any apartment market."
-    },
-    {
-      "title": "Investment Firm Capital Group Takes 70K SF at Rudin’s 345 Park Avenue",
-      "link": "https://commercialobserver.com/2026/08/capital-group-lease-rudin-345-park-avenue/",
-      "excerpt": "Global investment management firm Capital Group is taking space for an additional office in New York City. Capital Group, which is based in Los Angeles and oversees $3.6 trillion in assets, signed a 10-year lease for the entire 70,400-square-foot fourth floor of Rudin’s 345 Park Avenue in Midtown, according to the landlord. The firm will open its new office in the fall of 2027. “345 Park Avenue’s prime location, large floor plates and our upcoming amenity enhancements distinguish it as a best-in-class asset,” Michael Rudin, co-CEO at Rudin, said in a statement. “We are pleased to accommodate Capital Group’s continued growth in the Plaza District and commitment to New York City.” The lease is part of a $38 million investment by Capital Group that is expected to create 200 new jobs in the city over the next five years, according to Crain&#8217;s New York Business, which first reported news of the lease. Gov. Kathy Hochul is expected to announce the news Tuesday along with the state’s backing of the investment. “Capital Group is making its largest investment ever in its sales force to create two new client coastal hubs in Los Angeles and New York and expand our presence in both,” Matt Eisenhardt, head of sales for the advisor group at Capital Group, wrote in a LinkedIn post in April. Eisenhardt added that as part of the expansion, the firm plans to hire 130 new sales and sales support roles to reach more advisors. The new deal at 345 Park Avenue represents a second New York City office for Capital Group, which will continue to operate its city headquarters out of a roughly 25,000-square-foot space three blocks north at BXP’s 399 Park Avenue. The asking rent was unclear, but a report from Newmark found office rents along Park Avenue in Midtown averaged $127.78 per square foot during the second quarter of 2026. CBRE&#8216;s Chris Mansfield, Frank Scott, David Opper, Zachary Weil, Eddie Sisca and Trevor Larkin brokered the deal for Capital Group, while Robert Steinman rep",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-11T13:51:16+00:00",
-      "bullets": [
-        "Capital Group leases entire 70,400 SF fourth floor at Rudin's 345 Park Avenue, Midtown Manhattan",
-        "10-year lease; office opens fall 2027; $38M investment expected to create 200 jobs",
-        "NY State and Governor Hochul backing investment; signals confidence in Manhattan office"
-      ],
-      "summary": "Global investment firm Capital Group, which oversees $3.6 trillion in assets and is based in Los Angeles, signed a 10-year lease for the entire 70,400-square-foot fourth floor of Rudin's 345 Park Avenue in Midtown Manhattan. The lease is part of a $38 million Capital Group investment expected to create 200 jobs over five years in New York City. The office is slated to open in fall 2027.",
-      "impact": "Large-block Midtown office leasing by a prestigious, expanding employer (200 new jobs over 5 years) signals incremental demand for white-collar housing in Manhattan and outer-borough submarkets accessible to Midtown. However, the 2027 opening timeline means the wage-earning cohort will not immediately drive apartment lease-up. Monitor if Capital Group job growth attracts mid-to-senior talent migration into NYC; if so, strengthens rental fundamentals in Midtown South, FiDi, and Brooklyn Bridge Park-adjacent markets. State incentives (Hochul backing) suggest a broader coordinated push to keep/grow finance/asset-management jobs in NY, bullish for multifamily demand 2027–2030."
+      "date": "2026-08-11T14:00:37+00:00"
     },
     {
       "title": "CBRE Scores Charleston-Area Warehouse Leasing Assignment",
@@ -135,14 +122,7 @@
       "excerpt": "CBRE has been retained to market and lease North Rhett Center at 5801 North Rhett Avenue, a 516,000-square-foot two-building industrial property in Hanahan, South Carolina. The property offers approximately 318,926 square feet of available space for lease and was recently acquired by Obelisk Real Estate Partners. CBRE&#8217;s Brendan Redeyoff and Bob Barrineau are leading leasing efforts on behalf of Obelisk Real Estate Partners. Obelisk Real Estate Partners recently acquired 5801 North Rhett Avenue and the adjacent 305,250-square foot industrial property at 1020 North Pointe Industrial Boulevard from CenterPoint Properties. The available space at 5801 North Rhett can accommodate users ranging from approximately 50,000 square feet to the full 318,926 square feet. The property also offers CSX rail service and up to 3.25 acres of laydown yard space, providing flexibility for a range of manufacturing, logistics and distribution users. The asset is also proximate to the NIWC and Charleston International Airport, where Boeing is expanding its production facility. The post CBRE Scores Charleston-Area Warehouse Leasing Assignment appeared first on Connect CRE.",
       "source": "Connect CRE",
       "cat": "Commercial",
-      "date": "2026-08-11T13:42:45+00:00",
-      "bullets": [
-        "CBRE markets North Rhett Center, two-building 516K SF industrial property in Hanahan, South Carolina",
-        "318,926 SF available; recently acquired by Obelisk Real Estate Partners from CenterPoint Properties",
-        "Property offers CSX rail, laydown yard, proximity to NIWC and Charleston International Airport"
-      ],
-      "summary": "CBRE has been retained to lease North Rhett Center, a 516,000-square-foot two-building industrial property in Hanahan, South Carolina, recently acquired by Obelisk Real Estate Partners from CenterPoint Properties. The property offers 318,926 square feet of available space, CSX rail service, laydown yard capacity, and proximity to the Naval Information Warfare Center and Charleston International Airport.",
-      "impact": "No direct multifamily relevance. Industrial leasing activity in Charleston area may signal supply-chain logistics and manufacturing demand, which could translate to downstream job growth and in-migration into Charleston, supporting multifamily rental demand. However, this news alone is insufficient to predict apartment-market impact without context on tenant type, wage levels, and occupancy timeline."
+      "date": "2026-08-11T13:42:45+00:00"
     },
     {
       "title": "High Street Residential Tops Out on First Manhattan Development",
@@ -152,27 +132,12 @@
       "cat": "Commercial",
       "date": "2026-08-10T22:05:39+00:00",
       "bullets": [
-        "High Street Residential (Trammell Crow subsidiary) tops out The Marq, 25-story SoHo tower, Manhattan",
-        "99 luxury units, 2,072 SF retail, 25 affordable apartments; completion Q4 2027",
-        "Project located on vacant lot at 126 Lafayette Street, Lower West Side"
+        "High Street Residential (Trammell Crow Co. subsidiary) topped out The Marq, 25-story luxury tower in SoHo Manhattan",
+        "99 units (studios to 3-bed penthouses) + 2,072 SF retail + 25 affordable apartments; completion Q4 2027",
+        "First Manhattan project for HSR; positioned on vacant lot at 126 Lafayette Street, Lower West Side"
       ],
-      "summary": "High Street Residential, the residential subsidiary of Trammell Crow Company, has topped out construction on The Marq, a 25-story luxury residential tower in SoHo, Manhattan. The project includes 99 market-rate units (studios to three-bedroom penthouses), 2,072 square feet of ground-floor retail, and 25 affordable apartments on a vacant lot at 126 Lafayette Street. Completion is targeted for Q4 2027.",
-      "impact": "Successful structural completion of Trammell Crow's first Manhattan luxury project (albeit small, 99 units) validates sponsor's Manhattan development execution and market timing. SoHo/Lower West Side location and Q4 2027 delivery position units to absorb high-income renters and international buyers seeking prime Manhattan; 25 affordable units may benefit from NY State/City housing incentives. Limited unit count minimizes direct supply impact, but signals sponsor confidence in luxury rental fundamentals downtown post-pandemic. Monitor lease-up velocity and achieved rents post-opening to gauge luxury segment health in prime Manhattan submarkets."
-    },
-    {
-      "title": "Vietnamese Beauty Brand Hasaki Makes U.S. Debut in Cudahy",
-      "link": "https://www.connectcre.com/stories/vietnamese-beauty-brand-hasaki-makes-u-s-debut-in-cudahy/",
-      "excerpt": "CBRE has arranged a 7,000‑square‑foot retail lease for Vietnamese beauty retailer&nbsp;Hasaki&nbsp;at Cudahy Plaza in Cudahy, marking the brand’s first U.S. store. Hai T. Dang&nbsp;with CBRE’s San Jose office represented the tenant. The landlord is Excel Realty Partners, LP. Cudahy Plaza, located at 7903–8017 South Atlantic Ave., is an open‑air retail center anchored by national retailers including Sprouts Farmers Market and Burlington. Founded in 2016,&nbsp;Hasaki&nbsp;is an omnichannel beauty and personal care retailer operating more than 300 stores, 18 clinics, and a nationwide e‑commerce platform in Vietnam. In addition to the Cudahy lease, CBRE represented&nbsp;Hasaki&nbsp;in a second 7,000-square-foot retail location at Magnolia Square, located at 1234 S. Magnolia Ave. in Anaheim, scheduled to open in the fourth quarter. “The center’s visibility, accessibility and heavy foot traffic aligned with&nbsp;Hasaki’s criteria for selecting a high‑performing location within Los Angeles County,” said Dang. Hasaki&nbsp;plans to open 10 additional U.S. stores The post Vietnamese Beauty Brand Hasaki Makes U.S. Debut in Cudahy appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-10T21:57:58+00:00",
-      "bullets": [
-        "Vietnamese beauty retailer Hasaki opens first U.S. store: 7K SF at Cudahy Plaza in Los Angeles County",
-        "Second 7K SF location at Magnolia Square, Anaheim, opening Q4 2024",
-        "Brand operates 300+ stores in Vietnam; plans 10 additional U.S. stores"
-      ],
-      "summary": "Vietnamese beauty and personal care retailer Hasaki, founded in 2016 and operating 300+ stores in Vietnam, opened its first U.S. location with a 7,000-square-foot lease at Cudahy Plaza in Cudahy, Los Angeles County, anchored by Sprouts and Burlington. A second 7,000-square-foot location at Magnolia Square in Anaheim is scheduled to open in Q4 2024. Hasaki plans to expand to 10 additional U.S. stores.",
-      "impact": "Minimal relevance to multifamily development. International retail expansion by emerging-market beauty brands into secondary-tier LA County suburban centers (Cudahy, Anaheim) signals foot traffic and consumer spending resilience in inner-ring suburbs but does not materially affect apartment demand, supply, or capital in any major metro. Could modestly support retail fundamentals in mixed-use projects but is indirect and immaterial for multifamily underwriting."
+      "summary": "High Street Residential, the residential division of Trammell Crow Company, has reached topping-out on The Marq, a 25-story luxury residential tower in SoHo with 99 market-rate units (studios through three-bedroom penthouses), 25 affordable apartments, and 2,072 square feet of ground-floor retail. Located on a previously vacant parcel at 126 Lafayette Street on Manhattan's Lower West Side, the project is slated for delivery in the fourth quarter of 2027.",
+      "impact": "This flagship Manhattan entry by High Street Residential (a Trammell Crow subsidiary) validates SoHo-Lower West Side as investable ground-up luxury residential. The 99-unit density on a compact infill site and affordable unit inclusion (25 units, ~20% of mix) reflect current market/regulatory realities for Manhattan development. Completion in Q4 2027 means pre-leasing should begin in 2026–2027; performance and absorption data will inform whether Trammell Crow accelerates subsequent Manhattan/Tier-1 market development activity. Project viability also signals robust capital availability for luxury residential in prime Manhattan submarkets despite recent rate volatility."
     }
   ]
 }
