@@ -1,21 +1,21 @@
 {
-  "fetchedAt": "2026-08-10T23:26:01.137314+00:00",
+  "fetchedAt": "2026-08-11T12:42:47.818531+00:00",
   "rates": [
     {
       "label": "SOFR",
-      "value": "3.62%",
-      "pct": -0.03,
+      "value": "3.63%",
+      "pct": 0.01,
       "isBps": true
     },
     {
       "label": "10Y Treasury",
       "value": "4.70%",
-      "pct": 0.84
+      "pct": 0.04
     },
     {
       "label": "30Y Treasury",
-      "value": "5.24%",
-      "pct": 0.61
+      "value": "5.25%",
+      "pct": 0.11
     },
     {
       "label": "REIT Index (VNQ)",
@@ -25,6 +25,111 @@
   ],
   "stories": [
     {
+      "title": "Gibson Dunn Embraces Client Complexity With Breadth and Specialization",
+      "link": "https://commercialobserver.com/2026/08/gibson-dunn-real-estate-finance-data-centers/",
+      "excerpt": "The real estate department at law firm Gibson Dunn has grown by 30 percent over the past two years, giving the group over 200 lawyers throughout 17 of the firm’s 23 offices worldwide, including in New York, Washington, D.C., Los Angeles, San Francisco and London, where the department has grown from six attorneys in 2021 to 21 today. This growth was organic, spurred by the client needs of a firm advising on some of the largest and most complex transactions in real estate. Recent examples include Blackstone’s acquisition of Safe Harbor Marinas, the largest marina and superyacht servicing business in the U.S., from Sun Communities for $5.65 billion in April 2025; Related Companies’ joint venture with Oxford Properties Group for the development of the 1.385 million-square-foot 70 Hudson Yards (which is going to be accounting giant Deloitte’s new U.S. headquarters); and RXR’s $540 million recapitalization of three New York City office towers collectively valued at over $3.5 billion. The firm also completed more than 225 data center transactions in 2025, including advising on a $16 billion joint venture between Blackstone and Related Digital. All told, the firm’s real estate department did $462 million in business in 2025, according to firm partner and department co-chair Jesse Sharf, who will celebrate his 40th year at Gibson Dunn in September. Sharf estimates that that number will rise to “well over $500 million” this year. Gibson Dunn’s real estate group — which, according to the firm, comprises over 10 percent of its total business — has long pursued expertise in the widest possible array of disciplines. “We do a lot of complicated transactions. It’s one of the things that distinguishes us from a lot of our competitors,” said Sharf, 63, who noted that institutional investors make up the largest aspect of the real estate group’s practice, followed closely by lenders and operators/developers. “I think most of our competitors do not have the development function that we ",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-11T11:00:46+00:00",
+      "bullets": [
+        "Gibson Dunn real estate dept grew 30% in 2 years to 200+ lawyers across 17 offices",
+        "London office expanded 6 to 21 attorneys since 2021; advises on $5.65B+ transactions",
+        "Recent deals: Blackstone's Safe Harbor acquisition, Related's 70 Hudson Yards, RXR NYC office recaps"
+      ],
+      "summary": "Gibson Dunn's real estate practice has grown 30 percent over two years to over 200 lawyers across 17 global offices, driven by demand for complex deal counsel. The firm's London office alone expanded from 6 to 21 attorneys since 2021. Recent mandates include Blackstone's $5.65B Safe Harbor Marinas acquisition, Related Companies' 1.385M SF development at 70 Hudson Yards (Deloitte HQ), and RXR's $540M office tower recapitalization, signaling robust capital flows into trophy real estate assets.",
+      "impact": "Strong institutional capital activity and complex transaction volume across office, mixed-use, and institutional real estate suggest stable debt and equity availability for large-scale development. Law firm headcount growth is a lagging indicator of robust deal flow; this signals favorable conditions for financing and closing major development projects in competitive markets like NYC, LA, and DC."
+    },
+    {
+      "title": "Simon Raises 2026 Expectations as Leasing, Development Pipeline Accelerate",
+      "link": "https://commercialobserver.com/2026/08/simon-property-reit-retail-q2/",
+      "excerpt": "Simon Property Group’s second quarter offered more evidence that the nation’s largest mall owner is carrying its post-pandemic run into the second half of 2026. The real estate investment trust said Monday that its quarterly revenue, funds from operations (FFO) and tenant sales are all climbing while the company’s leaders raised its full-year outlook again. “Clearly, malls, retail centers at large are having a cultural moment,” CEO Eli Simon said. “People realize that they’re not going away. Young people want to hang out here.” The Indianapolis-based company generated $1.79 billion in second-quarter revenue, up 19.5 percent from $1.50 billion during the same period last year and 1.9 percent from $1.76 billion in the first quarter. Consolidated net income, meanwhile, reached $574.1 million, up about 1 percent from $568.5 million in the first quarter, but down 10.8 percent from $643.7 million a year earlier. Net income attributable to common stockholders was $483.1 million, or $1.49 per diluted share, compared with $556.1 million, or $1.70 per share, a year ago. (Last year’s second quarter included a noncash after-tax investment gain worth 21 cents per share.) Simon reported $1.18 billion in overall FFO, compared with $1.11 billion in the first quarter and $1.19 billion in the second quarter of 2025. Real estate FFO increased to $1.25 billion, up from $1.21 billion in the first quarter and $1.15 billion a year earlier. The performance prompted Simon to raise its outlook for the annual real estate FFO to between $13.20 and $13.30 per share, up by 8 cents. Leasing was particularly strong. Simon signed more than 1,200 leases encompassing more than 4.8 million square feet during the quarter, while the number of new deals increased more than 20 percent year-over-year. New leases accounted for about 28 percent of leases through the first half of the year, and initial base rents on new deals increased 17 percent from last year, while tenant allowances declined 12 percent. Si",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-10T23:35:07+00:00",
+      "bullets": [
+        "Simon Property Group Q2 revenue $1.79B, up 19.5% YoY; raised full-year 2026 outlook",
+        "Consolidated net income $574.1M; tenant sales climbing; FFO rising quarter-over-quarter",
+        "CEO cites 'cultural moment' for malls; young demographic engagement driving foot traffic and leasing"
+      ],
+      "summary": "Simon Property Group posted Q2 revenue of $1.79B, up 19.5 percent year-over-year, with rising FFO and tenant sales, prompting a raised full-year 2026 outlook. Net income reached $574.1M, with first-quarter sequential growth of 1.9 percent in revenue. CEO Eli Simon cited a retail 'cultural moment,' noting that malls are not declining and young consumers actively seek in-person retail experiences.",
+      "impact": "Retail-anchored mixed-use development sentiment is strengthening; stronger retail health reduces default risk on retail-anchored multifamily projects and supports mixed-use underwriting assumptions in value-add and development scenarios. However, this is primarily a retail/retail REIT story with limited direct multifamily demand signal unless projects incorporate significant retail components."
+    },
+    {
+      "title": "High Street Residential Tops Out on First Manhattan Development",
+      "link": "https://www.connectcre.com/stories/high-street-residential-tops-out-on-first-manhattan-development/",
+      "excerpt": "High Street Residential (HSR), the residential subsidiary of Trammell Crow Company, has topped out construction on the firm’s first Manhattan project, The Marq, a 25-story luxury residential tower in SoHo. Slated for completion in the fourth quarter of 2027, the project will include 99 units, 2,072 square feet of ground-floor retail and 25 affordable apartments. Located on a vacant lot at 126 Lafayette St. in New York City’s Lower West Side, units at The Marq will range from studios to three-bedroom penthouses. “Our aim is for The Marq to reflect the vibrancy and elegance of this iconic community of SoHo,” said Michael Adamo, a principal with HSR in New York. “With its proximity to major transit hubs and green spaces like Hudson River Park, SoHo remains one of New York City&#8217;s most desirable locations for residential development. We&#8217;re proud to bring this project to life.” Along with its capital partners, other project partners on The Marq include Marvel Architects, general contractor Leeding Builders Group and interior designer Chris Shao Studio. Where the apartment industry connects. Meet the owners, investors, developers, lenders, brokers, and service providers driving today’s multifamily market at Connect Apartments. Build relationships, uncover opportunities, and stay ahead of what’s next The post High Street Residential Tops Out on First Manhattan Development appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-10T22:05:39+00:00",
+      "bullets": [
+        "High Street Residential (Trammell Crow subsidiary) topped out The Marq in SoHo, Manhattan",
+        "25-story luxury tower, 99 units + 25 affordable, 2,072 SF retail, delivery Q4 2027",
+        "First Manhattan project for HSR; located at 126 Lafayette St., Lower West Side"
+      ],
+      "summary": "High Street Residential, Trammell Crow's residential arm, reached topping-out on The Marq, a 25-story luxury residential tower in SoHo with 99 market-rate units and 25 affordable apartments, plus ground-floor retail. Located at 126 Lafayette Street in Lower Manhattan, the project is scheduled for completion in Q4 2027. Units range from studios to three-bedroom penthouses.",
+      "impact": "This marks TCR's flagship Manhattan luxury entry and signals confidence in SoHo/Lower West Side rental demand despite elevated construction costs and complex NYC regulatory environment. Delivery timing (Q4 2027) positions the asset for a competitive luxury market; the 25-unit affordable component signals compliance with NYC inclusionary zoning. Success here establishes HSR as a major player in trophy Manhattan multifamily and de-risks future development in constrained, high-barrier markets."
+    },
+    {
+      "title": "Vietnamese Beauty Brand Hasaki Makes U.S. Debut in Cudahy",
+      "link": "https://www.connectcre.com/stories/vietnamese-beauty-brand-hasaki-makes-u-s-debut-in-cudahy/",
+      "excerpt": "CBRE has arranged a 7,000‑square‑foot retail lease for Vietnamese beauty retailer&nbsp;Hasaki&nbsp;at Cudahy Plaza in Cudahy, marking the brand’s first U.S. store. Hai T. Dang&nbsp;with CBRE’s San Jose office represented the tenant. The landlord is Excel Realty Partners, LP. Cudahy Plaza, located at 7903–8017 South Atlantic Ave., is an open‑air retail center anchored by national retailers including Sprouts Farmers Market and Burlington. Founded in 2016,&nbsp;Hasaki&nbsp;is an omnichannel beauty and personal care retailer operating more than 300 stores, 18 clinics, and a nationwide e‑commerce platform in Vietnam. In addition to the Cudahy lease, CBRE represented&nbsp;Hasaki&nbsp;in a second 7,000-square-foot retail location at Magnolia Square, located at 1234 S. Magnolia Ave. in Anaheim, scheduled to open in the fourth quarter. “The center’s visibility, accessibility and heavy foot traffic aligned with&nbsp;Hasaki’s criteria for selecting a high‑performing location within Los Angeles County,” said Dang. Hasaki&nbsp;plans to open 10 additional U.S. stores The post Vietnamese Beauty Brand Hasaki Makes U.S. Debut in Cudahy appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-10T21:57:58+00:00",
+      "bullets": [
+        "Vietnamese beauty retailer Hasaki leases 7,000 SF at Cudahy Plaza, Cudahy, CA; first U.S. store",
+        "CBRE arranged deal; second 7,000 SF location at Magnolia Square, Anaheim opening Q4 2024",
+        "Hasaki operates 300+ stores, 18 clinics in Vietnam; plans 10+ additional U.S. stores"
+      ],
+      "summary": "Vietnamese omnichannel beauty retailer Hasaki signed a 7,000-square-foot lease at Cudahy Plaza in Cudahy, California, marking its U.S. debut, with a second 7,000 SF location at Magnolia Square in Anaheim scheduled to open Q4 2024. Founded in 2016, Hasaki operates over 300 stores and 18 clinics in Vietnam. The company plans to open 10 additional U.S. stores, focusing on high-traffic centers in Los Angeles County.",
+      "impact": "International retail expansion into Southern California signals strong consumer demand and supports tenant mix diversification in mixed-use and retail-anchored projects. However, this is a tenant-placement story with no direct bearing on multifamily supply, demand, or capital markets."
+    },
+    {
+      "title": "PE Firm OceanSound Expands Presence at SL Green’s 450 Park Ave.",
+      "link": "https://www.connectcre.com/stories/494390-2/",
+      "excerpt": "SL Green Realty Corp said Monday that OceanSound, LP has signed a new five-year, 32,032 square foot lease covering floors 8, 22 and 23 at 450 Park Ave. The private equity firm, which focuses on the technology sector, currently subleases 21,640 square feet &#8220;We’re proud to extend and expand our valued relationship with OceanSound at 450 Park Ave.,&#8221; said Steven Durels, EVP, director of leasing and real property at SL Green. &#8220;The recent completion of various building upgrades has positioned 450 Park as the premier boutique office building for tenants seeking best-in-class workspace with upscale amenities at a luxury location.&#8221; OceanSound was represented by John Johnson of Savills, Inc. SL Green was represented by Paul Amrich, Neil King, Alex D&#8217;Amario, Matthew Dichter and Brooke Dewing of CBRE. Located at the southwest corner of Park Avenue and 57th Street, 450 Park is a 33-story office tower whose tenants include Banco Bradesco, Blue Crest Capital Management, Garnett Station Partners, Muzinich &amp; Co, and Steadfast Financial. The post PE Firm OceanSound Expands Presence at SL Green&#8217;s 450 Park Ave. appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-10T21:49:00+00:00",
+      "bullets": [
+        "OceanSound LP (PE firm) signed 5-year lease for 32,032 SF at SL Green's 450 Park Ave.",
+        "Tech-focused PE firm expands from existing 21,640 SF sublease; occupies floors 8, 22, 23",
+        "SL Green completed building upgrades; positioning as 'premier boutique office' for luxury tenants"
+      ],
+      "summary": "Private equity firm OceanSound, which focuses on technology sector investments, signed a five-year lease for 32,032 square feet at 450 Park Avenue in Midtown Manhattan, expanding from a current sublease of 21,640 SF. SL Green has completed building upgrades and is positioning 450 Park as a premium boutique office asset. Other tenants include Banco Bradesco, Blue Crest Capital, Garnett Station Partners, and Muzinich & Co.",
+      "impact": "Tech and PE sector office leasing in prime Manhattan locations signals continued demand for quality trophy office space, supporting SL Green's property values and refinancing capacity. However, this is an office asset story with no direct multifamily implications unless the building is part of a larger mixed-use development."
+    },
+    {
+      "title": "MMCC Arranges Financing for Riverside County Self-Storage Property",
+      "link": "https://www.connectcre.com/stories/mmcc-arranges-financing-for-riverside-county-self-storage-property/",
+      "excerpt": "Marcus &amp; Millichap Capital Corporation (MMCC) arranged $7,380,000 in financing for Beaumont RV and Self Storage, a 49,958-square-foot self-storage property located at 251 W. 1st St. in Beaumont. Chad O’Connor, executive managing director in MMCC’s San Diego office, secured the 10-year financing with a national federal credit union on behalf of a private client. The loan carries a 5.75% interest rate and a 30-year amortization period. “Demand for self-storage remains supported by the sector’s durable operating fundamentals and the need for flexible space serving both household and recreational uses,” said O’Connor. “We were pleased to secure long-term financing with competitive terms that align with our client’s investment objectives.” Beaumont RV and Self Storage offers traditional self-storage units as well as dedicated RV and boat storage. The property is located near Interstate 10 and provides convenient access for customers throughout Beaumont and the surrounding Riverside County area. The post MMCC Arranges Financing for Riverside County Self-Storage Property appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-10T21:32:00+00:00",
+      "bullets": [
+        "MMCC arranged $7.38M financing for Beaumont RV and Self Storage, Riverside County, CA",
+        "10-year loan, 5.75% rate, 30-year amortization; 49,958 SF property near Interstate 10",
+        "Self-storage demand supported by household and recreational (RV/boat) storage need"
+      ],
+      "summary": "Marcus & Millichap Capital Corporation arranged $7.38 million in 10-year financing for Beaumont RV and Self Storage in Riverside County, California. The loan carries a 5.75 percent interest rate with a 30-year amortization period, provided by a national federal credit union. The 49,958 SF property offers traditional self-storage plus RV and boat storage near Interstate 10.",
+      "impact": "5.75% fixed rate on self-storage debt signals modest tightening from peak lows but remains constructive for stabilized alternative real estate. Self-storage strength reflects population mobility and household formation; however, this sector does not compete directly with multifamily for land or capital in Riverside County's suburban market."
+    },
+    {
+      "title": "3650 Capital Furnishes Construction Loan for Yonkers Self-Storage",
+      "link": "https://www.connectcre.com/stories/3650-capital-furnishes-construction-loan-for-yonkers-self-storage/",
+      "excerpt": "3650 Capital has provided an approximately $24-million senior construction loan to finance the completion of 1060 Nepperhan Avenue, a 949-unit self-storage development located in Yonkers, NY. The project will be branded and operated by CubeSmart. The development is sponsored jointly by Cayre Equities and KCT Inc., the property’s original developer. The 3650 financing was provided as exit capital concurrent with the borrower’s emergence from a court-supervised reorganization. The transaction structure allows the sponsors to accelerate project completion while providing certainty to all stakeholders through an approved plan of reorganization.. The loan will be secured by a first-priority mortgage on the property and features a 36-month initial term with one six-month extension option. David Eyzenberg of Eyzenberg &amp; Company served as the capital advisor structuring and arranging the requisite debt and equity. “This financing structure will enable the borrower to resolve all outstanding claims and facilitate the completion of a best-in-class self-storage facility in a supply-constrained market,” said Jonathan Roth, co-founder of 3650 Capital The post 3650 Capital Furnishes Construction Loan for Yonkers Self-Storage appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-10T21:16:35+00:00",
+      "bullets": [
+        "3650 Capital provided $24M senior construction loan for 1060 Nepperhan Ave., Yonkers, NY",
+        "949-unit self-storage dev.; sponsored by Cayre Equities & KCT Inc.; branded CubeSmart",
+        "36-month term + 6-month extension; exit capital from court-supervised reorganization"
+      ],
+      "summary": "3650 Capital provided approximately $24 million in senior construction financing for 1060 Nepperhan Avenue, a 949-unit self-storage development in Yonkers, New York, to be branded and operated by CubeSmart. The project is sponsored jointly by Cayre Equities and KCT Inc. The loan features a 36-month initial term with one six-month extension option and is structured as exit capital from a court-supervised reorganization.",
+      "impact": "Large self-storage development in Westchester County signals durable demand for flexible storage; the use of a supply-constrained market narrative suggests tight self-storage availability. Yonkers is a secondary market with strong population density and transit access; self-storage supply constraints there could push residual demand to multifamily, but more likely indicates robust household formation and moving activity supporting multifamily demand indirectly."
+    },
+    {
       "title": "Law Firm Greenberg Traurig Takes 25K SF at Related Ross Dev in West Palm",
       "link": "https://commercialobserver.com/2026/08/greenberg-traurig-related-ross-west-palm-beach-15-cityplace/",
       "excerpt": "Law firm Greenberg Traurig is relocating to another Related Ross building in Downtown West Palm Beach, Fla. The firm signed a 10-year lease to occupy about 25,000 square feet at the 15 CityPlace office development, which remains under construction, the tenant announced. The deal spans the entire 12th floor of the 25-story project. Move-in is scheduled for fall 2027. “The move reflects our long-term commitment to the West Palm Beach market and positions us to meet increasing client demand throughout Palm Beach County and beyond,” Tracy Gerber, co-managing shareholder of Greenberg Traurig&#8217;s West Palm Beach office, said in a statement. 15 CityPlace, and the neighboring 10 CityPlace, are expected to be completed next year after developer Related Ross secured a $772 million construction debt package last year. Health care provider Cleveland Clinic has already pre-leased 125,000 square feet at 15 CityPlace, which will span about 500,000 square feet. The law firm is currently stationed at Philips Point, where it leases roughly 30,000 square feet. Related Ross, led by Stephen Ross, purchased the 448,914-square-foot office for $282 million in 2021. The two-building complex, which dates back to 1985, is currently undergoing a $120 million renovation. Even as Greenberg Traurig departs, the building has nabbed new tenants: global index provider MSCI taking 7,500 square feet, investment bank Solomon Partners taking 4,200 square feet, and Integrity Pro Consulting taking 1,300 square feet. Julia Echikson can be reached at jechikson@commercialobserver.com.",
@@ -32,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-08-10T21:05:38+00:00",
       "bullets": [
-        "Greenberg Traurig signs 10-year, 25K SF lease at Related Ross' 15 CityPlace, West Palm Beach.",
-        "Cleveland Clinic pre-leased 125K SF at same 500K SF project; $772M construction debt secured.",
-        "Law firm move signals confidence in Downtown West Palm Beach office market through 2027."
+        "Greenberg Traurig leased 25,000 SF at Related Ross's 15 CityPlace, West Palm Beach, FL",
+        "10-year lease; entire 12th floor; move-in fall 2027; concurrent with office construction completion",
+        "Cleveland Clinic pre-leased 125,000 SF; project also expected to finish 2027 after $772M debt package"
       ],
-      "summary": "Greenberg Traurig is relocating within West Palm Beach to a Related Ross office tower under construction, signing a 10-year lease for the entire 12th floor (25,000 SF) at 15 CityPlace, with move-in in fall 2027. The 500K SF, 25-story project is anchored by Cleveland Clinic's 125K SF pre-lease and backed by $772M in construction financing. The law firm's long-term commitment reflects expanding client demand across Palm Beach County.",
-      "impact": "Strong office anchoring and professional services expansion in West Palm Beach's downtown core signals sustained employment and population in-migration to the market. This demand validation de-risks multifamily development in proximate submarkets; developers should monitor absorption trends and job growth in law, healthcare, and corporate sectors to time residential product delivery and pricing in West Palm Beach and broader South Florida."
+      "summary": "Law firm Greenberg Traurig signed a 10-year lease for 25,000 square feet at Related Ross's 15 CityPlace, an under-construction 25-story office tower in Downtown West Palm Beach, Florida. The firm will occupy the entire 12th floor with move-in scheduled for fall 2027. Cleveland Clinic has pre-leased 125,000 SF at the project, which received a $772 million construction debt package and is expected to complete in 2027.",
+      "impact": "Strong anchor tenant (Cleveland Clinic) and professional services demand in West Palm Beach office market signals robust job growth and employer expansion in South Florida. Office and healthcare tenant pre-leasing supports mixed-use development viability in Downtown WPB; law firm relocation reflects confidence in the market's recovery and positions multifamily developers to capture incoming professional workforce demand in nearby residential markets."
     },
     {
       "title": "Law Firm Dunn Isaacson Rhee Leases 11K SF at 7 World Trade Center",
@@ -47,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-08-10T19:59:31+00:00",
       "bullets": [
-        "DC-based law firm Dunn Isaacson Rhee opens NYC office with 11.2K SF lease at 7 World Trade.",
-        "Asking rents at Silverstein property range $100–$150/SF; firm relocates from 11 Park Place.",
-        "Firm specializes in high-stakes litigation and crisis management; new office targets Southern District courthouse proximity."
+        "Washington D.C. law firm Dunn Isaacson Rhee leased 11,167 SF at Silverstein's 7 World Trade, NYC",
+        "34th floor lease; asking rents $100–$150/SF; firm specializes in trials, investigations, crisis mgmt.",
+        "Tenant relocating from 11 Park Place in Financial District; move-in 2024"
       ],
-      "summary": "Dunn Isaacson Rhee, a Washington D.C.-based litigation and crisis management firm, is establishing its first Manhattan office with an 11,167 SF lease on the 34th floor of 7 World Trade Center. Asking rents at the Silverstein Properties-owned tower range from $100 to $150 per square foot. The firm is relocating from 11 Park Place in the Financial District and will occupy space later in 2025.",
-      "impact": "Out-of-state professional services firms establishing NYC footholds signal continued labor demand and talent migration to Manhattan's Financial District. This office expansion does not directly drive residential demand but indicates workforce stability in the metro; developers should monitor whether such professional services clustering sustains rental demand in downtown-proximate multifamily assets and residential neighborhoods serving Financial District workers."
+      "summary": "Washington D.C.-based law firm Dunn Isaacson Rhee, specializing in high-stakes trials and crisis management, signed an 11,167-square-foot lease on the 34th floor of Silverstein Properties' 7 World Trade Center in Lower Manhattan. Asking rents in the building range from $100 to $150 per square foot. The firm is relocating from 11 Park Place, also in the Financial District, with move-in expected later in 2024.",
+      "impact": "Law firm expansion into 7 World Trade signals renewed confidence in Downtown Manhattan office markets post-COVID. However, this is an office asset story; the move from 11 Park Place to 7 World Trade represents localized competition for office tenants but does not directly impact multifamily supply or demand in Manhattan."
     },
     {
       "title": "Alliance for Downtown New York Inks 14K SF at 42 Broadway",
@@ -62,42 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-10T19:21:31+00:00",
       "bullets": [
-        "Alliance for Downtown New York (BID) leases 14.4K SF at 42 Broadway, Lower Manhattan.",
-        "Operations division relocates; HQ remains at Silverstein's 120 Broadway three blocks north.",
-        "Lower Manhattan office asking rents average $61.91/SF as of July; lease terms undisclosed."
+        "Alliance For Downtown New York leased 14,420 SF at Cammeby's 42 Broadway, Lower Manhattan",
+        "Nonprofit operations division relocates; HQ remains at 120 Broadway, 3 blocks north",
+        "Lower Manhattan office rents averaged $61.91/SF in July 2024; space under construction"
       ],
-      "summary": "The Alliance for Downtown New York, the Financial District's business improvement district, has leased 14,420 SF at 42 Broadway to relocate its operations division, while maintaining its corporate headquarters at 120 Broadway. The move expands the nonprofit's Lower Manhattan footprint across two Silverstein Properties locations. Lower Manhattan office asking rents averaged $61.91 per square foot as of July.",
-      "impact": "Limited direct multifamily relevance; the BID's investment in Lower Manhattan real estate reinforces institutional commitment to the Financial District's long-term viability and revitalization. However, sustained BID operations and amenity management are indirect supports for residential demand in adjacent neighborhoods; developers should monitor whether such anchor tenant stability justifies new or repositioned multifamily product in downtown Brooklyn and Hudson Yards-adjacent markets."
-    },
-    {
-      "title": "New York’s Rent Freeze Was Only An Aftershock. This 2019 Law Was The Quake.",
-      "link": "https://commercialobserver.com/2026/08/new-york-rent-freeze-tenant-protection-law-empty-units/",
-      "excerpt": "Jose Tur owns two rent-stabilized rental buildings in Manhattan’s Washington Heights with a total of 45 units. The properties have been in his family for over 30 years, and the mortgages are fully paid off. But Tur tells Commercial Observer that despite this, while he’s reluctant to give an exact number, “more than two or three” units have been sitting empty for an average of over two years. That’s because, according to Tur’s estimates, it would cost anywhere from $30,000 to $60,000 per unit to return them to a livable state, and that’s money he can’t justify spending in return for the stabilized rent amounts in today’s environment. “Some of them require more work than others, but for the ones that need significant work — and I mean baseline, just to get them up to livable standards — we’re talking $30,000 minimum,” said Tur, who has testified about these financial challenges to New York City’s Rent Guidelines Board (RGB). “[Oftentimes] the plumbing’s really old because a tenant has lived there for 10 to 15 years, and you have to do the electrical and then lead abatement, which really increases the tally on the job.” Tur says that the $30,000 estimate is before taking into account more cosmetic fixes like cabinets, tiles and so forth, meaning the total is often closer to $60,000 for a one-bedroom apartment. Given all this, the fate of his currently empty apartments is uncertain. With no financial relief in sight, it is likely the units will not be lived in again for the foreseeable future, removed from the rolls of New York’s livable spaces — and from Tur’s income-producing properties — as if they had never existed. The RGB approved a freeze on rent increases for one- and two-year leases for the city’s rent-stabilized apartments in June for lease terms beginning on Oct. 1 or later. Since then, owners of these properties have been screaming from the rooftops that the failure to approve an increase, at a time when costs of items from maintenance to insurance are skyro",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-10T19:00:45+00:00",
-      "bullets": [
-        "NYC rent-stabilized landlord holds 2–3+ vacant units for 2+ years due to $30K–$60K rehab costs.",
-        "Stabilized rents cannot justify capital spend; 2019 Housing Stability law (RGB authority over increases) is root cause.",
-        "Owner reluctant to commit to stabilized stock; units remain dark despite paid-off mortgages and market demand."
-      ],
-      "summary": "A Manhattan rent-stabilized landlord with 45 units in Washington Heights has left more than two or three units vacant for over two years because the $30,000 to $60,000 per-unit rehabilitation costs (plumbing, electrical, lead abatement) cannot be economically justified against capped stabilized rents. The owner attributes the financial trap to the 2019 Housing Stability law, which gave the Rent Guidelines Board authority to set annual increases; despite owning the properties outright with no mortgage, the landlord cannot justify reinvestment.",
-      "impact": "Rent stabilization regulations are creating a perverse outcome: reduction in effective supply as owners mothball units rather than reinvest, shrinking the stabilized stock available to lower-income tenants. This artificially constrains overall housing supply in Manhattan and may drive marginal renters upmarket into market-rate buildings, supporting prices in new and unregulated multifamily product. Developers should model future policy risk in NYC underwriting; if stabilization expands to market-rate stock or rent control tightens further, returns on new supply will compress and development velocity will slow."
-    },
-    {
-      "title": "Local Developer Plans to Build a School at 1000 University Avenue in the Bronx",
-      "link": "https://commercialobserver.com/2026/08/pillar-property-school-1000-university-avenue-bronx/",
-      "excerpt": "School is in session in the Bronx, or at least it will be. Kiumarz Geula, principal of real estate development firm Pillar Property Management, has filed plans with the New York City Department of Buildings (DOB) to build a seven-story school building at 1000 University Avenue in the Highbridge neighborhood of the Bronx. The plans were filed with the DOB on Aug. 5. Geula did not immediately respond to Commercial Observer’s request for comment. Jonathan Imani of IMC Architecture, the registered architect on the project, also did not immediately respond to CO’s request for comment. The DOB plans have few details about the scope of the work coming to the vacant Bronx property. The plans call for the construction of a 64,366-square-foot, 108-foot tall building with a cafeteria and recreation space. No other details are available. Pillar Property Management isn’t the only developer planning to bring a new school building to the Bronx. In June, Apex Development Group and Knickpoint Ventures secured a $60 million debt package to acquire and build a charter school at 1780 East Tremont Avenue, Commercial Observer reported at the time. Ripco Real Estate’s James Murad, who arranged the financing for that deal, told CO at the time that the project reflects “the growing demand for high-quality educational facilities in underserved communities and the continued appeal of mission-driven real estate investments.” Amanda Schiavo can be reached at aschiavo@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-10T18:54:36+00:00",
-      "bullets": [
-        "Pillar Property Management files plans for 7-story, 64.4K SF school building in Highbridge, Bronx.",
-        "Project at 1000 University Avenue; filed Aug. 5; no additional project details disclosed.",
-        "Apex Development and Knickpoint Ventures separately secured $60M debt for charter school at 1780 East Tremont."
-      ],
-      "summary": "Pillar Property Management has filed construction plans with NYC's Department of Buildings for a seven-story, 64,366 SF school building (108 feet tall) at 1000 University Avenue in Highbridge, the Bronx. The project includes cafeteria and recreation space but no other details are available. A separate developer team (Apex/Knickpoint) recently closed $60M debt for a charter school at 1780 East Tremont in the same borough.",
-      "impact": "Charter school and educational facility development in the Bronx signals confidence in population stability and youth demographic growth in the borough. New school buildings anchor neighborhood revitalization and attract families, indirectly supporting multifamily demand in Highbridge and surrounding Bronx submarkets. Developers should track school openings and enrollment trends as leading indicators of residential in-migration; submarkets with recent school investment and institutional anchoring may justify new family-oriented or affordable multifamily product."
+      "summary": "Nonprofit organization Alliance For Downtown New York, which manages Lower Manhattan's business improvement district, secured a 14,420-square-foot lease at 42 Broadway in the Financial District. The organization is relocating its operations division to the building, while its corporate headquarters remain at 120 Broadway. Lower Manhattan office asking rents averaged $61.91 per square foot in July 2024.",
+      "impact": "Nonprofit tenant activity in Lower Manhattan reflects stabilization of the Financial District office market and continued institutional confidence in the submarket. However, this is a lower-income office lease with no direct correlation to multifamily demand or supply; it is not indicative of strong employment or wage growth driving residential demand."
     }
   ]
 }
