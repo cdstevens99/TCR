@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-11T14:13:26.881124+00:00",
+  "fetchedAt": "2026-08-11T15:52:16.593337+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -9,21 +9,96 @@
     },
     {
       "label": "10Y Treasury",
-      "value": "4.68%",
-      "pct": -0.45
+      "value": "4.69%",
+      "pct": -0.15
     },
     {
       "label": "30Y Treasury",
-      "value": "5.23%",
-      "pct": -0.25
+      "value": "5.24%",
+      "pct": -0.1
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "96.73",
-      "pct": -0.39
+      "value": "96.72",
+      "pct": -0.4
     }
   ],
   "stories": [
+    {
+      "title": "Wells Fargo Provides $175M Construction Loan for Queens Mixed-Use Development",
+      "link": "https://commercialobserver.com/2026/08/wells-fargo-175m-construction-loan-queens-elara-apartment/",
+      "excerpt": "The affordable housing development push continues in New York City. The Domain Companies has secured $175 million in construction financing to build Elara, a two-building, 429-unit mixed-income housing development in the historic Astoria neighborhood of Queens, Commercial Observer can first report. Wells Fargo provided the construction debt, while Domain Companies contributed an undisclosed amount of equity into the deal together with Canyon Partners Real Estate and BLDG Management. JLL Capital Markets’ Chris Peck and Nicco Lupo arranged the transaction. In a statement, Jacob Feingold, partner and head of originations at Canyon Partners Real Estate, cited Astoria’s ongoing population growth and The Domain Companies’ experience building in the area. The firm opened Jasper, a 499-unit multifamily complex along the Queens waterfront, in 2025. “We continue to see attractive opportunities to invest in high-quality residential projects in markets supported by strong housing demand and compelling long-term fundamentals,” said Feingold. Located at 35-45, 35-33 and 35-42 41st Street in an area that borders the neighborhoods of Sunnyside Gardens and Astoria, Elara is split between Elara East, an 18-story building with 330 apartments, and Elara West, a 12-story building with 99 apartments. Between the two buildings, the complex will deliver 107 permanently affordable housing units and 4,000 square feet of retail space. On-site amenities will include fitness centers, co-working spaces, a screening room, a gaming room with a golf simulator, a children’s playroom, a dog wash station and outdoor courtyards, while Elara East will hold a rooftop terrace with views of the Manhattan skyline. Matt Schwartz, co-CEO of Domain Companies, called Astoria “one of New York’s most vibrant and culturally rich neighborhoods,” in a statement. “We’re proud to deepen that connection by delivering a thoughtfully designed residential community that reflects the character of the neighborhood while off",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-11T15:25:48+00:00",
+      "bullets": [
+        "Wells Fargo provides $175M construction debt for Domain Companies' Elara in Queens Astoria",
+        "429-unit mixed-income project follows Domain's 499-unit Jasper waterfront delivery in early 2025",
+        "Lender cites Astoria population growth and strong housing demand fundamentals"
+      ],
+      "summary": "Domain Companies secured $175M in construction financing from Wells Fargo for Elara, a 429-unit mixed-income development in Queens' Astoria neighborhood, with equity from Canyon Partners Real Estate and BLDG Management. The project follows Domain's recent delivery of Jasper, a 499-unit complex on the Queens waterfront, in early 2025. Lender commentary emphasizes population growth and long-term housing demand strength in the submarket.",
+      "impact": "Sustained multifamily construction in Queens Astoria signals developer and lender confidence in outer-borough rental demand despite macro headwinds. The back-to-back large projects (929 units across Jasper and Elara) by the same sponsor suggest absorption and rental rate resilience in a supply-constrained micro. Queens' population in-migration and limited new supply pipeline support development momentum—watch for rent growth acceleration that could justify higher-basis new starts across Brooklyn/Queens submarkets."
+    },
+    {
+      "title": "Architecture and Design Firm SWA Group Inks 6K SF at 381 Park Avenue South",
+      "link": "https://commercialobserver.com/2026/08/swa-group-lease-381-park-avenue-south/",
+      "excerpt": "Architecture and design firm SWA Group has signed a 5,789-square-foot lease at Olmstead Properties’ 381 Park Avenue South in Midtown South, the landlord announced Tuesday. The 10.5-year lease for the global landscape architecture, planning and urban design firm will stretch across part of the building’s 12th floor. SWA — which did not immediately respond to Commercial Observer’s request for comment — will relocate from 31 West 27th Street. The exact asking rent was not disclosed, but Olmstead did note that asking rent in the building averages $75 per square foot. SWA was represented by Janet Liff from J. Liff Co., while Steve Marvin and Jonathan Bock from Olmstead Properties represented ownership in the deal. Liff did not immediately respond to Commercial Observer’s request for comment. Meanwhile, Olmstead also announced Tuesday that health care products company On The Right Track Systems, backed by Riveria Investment Group, signed a new lease for 4,157 square feet on part of the 10th floor of 381 Park Avenue South, relocating from 99 Park Avenue. Riveria invested in the provider of proprietary hospital privacy curtains and health care industry track systems in February 2025. The lease runs for seven years and six months. Olmstead’s Marvin and Bock also represented ownership in that deal, while the tenant was represented by Arash Sadighi and Tyler Ruggieri from Venture Commercial NYC, as well as by Alan Rosinsky from Metro Manhattan Office Space. Olmstead has been seeing strong leasing momentum at 381 Park Avenue South as well as 373 Park Avenue South, bringing the two properties to about 99,000 square feet of new office and retail leases in the past eight months. Irish-American pub Stout NYC signed a lease for 13,900 square feet at the base of 373 Park Avenue South in May. &#8220;Companies continue to respond to thoughtfully designed prebuilt suites, upgraded common areas and an ownership team that moves quickly. With additional transactions in the pipeline, we&#82",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-11T15:22:35+00:00",
+      "bullets": [
+        "SWA Group leases 5,789 SF at 381 Park Avenue South, Midtown South, at ~$75/SF asking",
+        "Architecture firm relocates from Chelsea; 10.5-year lease on 12th floor",
+        "No direct multifamily signal; office leasing activity in tight Midtown South market"
+      ],
+      "summary": "Architecture and design firm SWA Group signed a 10.5-year lease for 5,789 square feet at Olmstead Properties' 381 Park Avenue South in Midtown South at approximately $75 per square foot asking rent. The firm is relocating from 31 West 27th Street in Chelsea. Olmstead also leased 4,157 square feet to health care products company On The Right Track Systems on the same building's 10th floor.",
+      "impact": "Minimal direct relevance to multifamily development. Office leasing activity in Midtown South signals some tenant confidence and rent resilience in Plaza District, but does not materially affect apartment demand, supply, or capital availability in any major metro."
+    },
+    {
+      "title": "Florida Panthers, Broward County Exploring Entertainment District",
+      "link": "https://www.connectcre.com/stories/florida-panthers-broward-county-exploring-entertainment-district/",
+      "excerpt": "Broward County has submitted plans that could transform the 154-acre area surrounding the Florida Panthers’ home into a massive 24/7 mixed-use destination in Sunrise. The Panthers say they’re in the early stages of discussions with Broward County and Sunrise. A Sunrise City Commission will consider the proposal next week. The proposal could include 1,400 apartments, 600 hotel rooms, 1.62 million square feet of office/education space and 300,000 square feet of commercial space. Much of the development replaces portions of the current parking lots. It’s not known if the Amerant Bank Arena will be part of the transformation. Major sports stadiums and arenas across the United States are increasingly paired with mixed-use entertainment districts. Prominent examples include The Battery Atlanta at Truist Park, Ballpark Village at Busch Stadium in St. Louis, and L.A. Live across from where the Los Angeles Lakers play basketball. The post Florida Panthers, Broward County Exploring Entertainment District appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-11T14:38:26+00:00",
+      "bullets": [
+        "Broward County, Florida Panthers planning 154-acre entertainment district in Sunrise",
+        "Proposal includes 1,400 apartments, 600 hotel rooms, 1.62M SF office, 300K SF retail",
+        "Project replaces parking lots; approval vote scheduled; Amerant Bank Arena status unclear"
+      ],
+      "summary": "Broward County and the Florida Panthers are exploring a 154-acre mixed-use entertainment district anchored by Amerant Bank Arena in Sunrise. The proposal envisions 1,400 apartments, 600 hotel rooms, 1.62 million square feet of office and education space, and 300,000 square feet of retail, much of it replacing surface parking. Sunrise City Commission is expected to vote on the proposal next week.",
+      "impact": "If approved, this represents significant multifamily supply absorption opportunity in South Florida's Sunrise submarket, but the large unit count (1,400) on a single 154-acre site signals intentional density that could soften rents if delivered over short timeline. The sports-entertainment anchor model (Battery Atlanta, Ballpark Village) typically drives foot traffic and daytime employment but can cannibalize nearby retail leasing. Monitor approval pace and phasing; early land control adjacent to Amerant Bank Arena could capture spillover demand, but oversupply risk is material in a 5–7 year delivery window."
+    },
+    {
+      "title": "ApartmentIQ Secures $25M Follow-On Funding Round",
+      "link": "https://commercialobserver.com/2026/08/apartmentiq-follow-on-funding-round/",
+      "excerpt": "Multifamily data company ApartmentIQ announced Tuesday that it has secured a $25 million follow-on funding round. Susquehanna Growth Equity (SGE) funded the follow-on after leading ApartmentIQ’s $22.5 million Series B financing in 2021, when the company was known as Rentable, a large national apartment marketplace. ApartmentIQ — which now bills itself as a real-time market intelligence, revenue management and AI platform for the multifamily sector — also announced that it had surpassed 8 million units in its customer base. “We are taking the data that powers our market survey platform we&#8217;ve been collecting and adding additional products,” said Alec Slocum, co-founder and CEO of ApartmentIQ about the follow-on founding round’s timing. “There&#8217;s two additional products that we&#8217;ve launched in the last nine months based on that same data. We call the first one Explore Pro, which is a market research tool used by acquisitions asset management teams to figure out where they should buy, build and redevelop. The second product we&#8217;ve launched is called Daylight. It&#8217;s a revenue management tool that&#8217;s powered by the public data that we&#8217;ve collected.” Alec Slocum. PHOTO: Courtesy ApartmentIQ Both products are currently tracking to surpass 1 million customer units in their first year. The SGE capital also triggered the launch of MavenAI, ApartmentIQ’s multifamily marketing agent, which represents the company’s first major step into agentic AI. MavenAI uses software to uncover insights and take action on behalf of operators, according to the company. In addition, the SGE funding will be used for continued hiring across ApartmentIQ’s engineering, data, product, and go-to-market teams. “The big headline for us in the agentic world is that there&#8217;s a lot of agentic companies coming together,” said Slocum. “Maven automates the marketing actions customers want to take and sits on top of the data from ApartmentIQ, but it integrates with the",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-11T14:13:14+00:00",
+      "bullets": [
+        "ApartmentIQ secures $25M Series C from Susquehanna Growth Equity after 2021 Series B",
+        "Real-time market intelligence and AI platform now covers 8M+ multifamily units",
+        "New products (Explore Pro, Daylight) target acquisition, asset management, market research"
+      ],
+      "summary": "Multifamily data and intelligence platform ApartmentIQ announced a $25 million follow-on funding round led by Susquehanna Growth Equity, which also led the company's $22.5 million Series B in 2021. The company now covers over 8 million units in its customer base and has launched two new products—Explore Pro (market research and site selection) and Daylight—to complement its existing survey and revenue management platform.",
+      "impact": "Capital inflow to apartment intelligence tools indicates venture confidence in multifamily data monetization and validates developer/operator demand for advanced site selection and market intelligence. Wider unit coverage and new product layers (Explore Pro for acquisition site selection) could accelerate market transparency, compress information advantages, and intensify competitive bidding for prime infill and development sites. For developers, expect rising input costs for market data and faster competitive site identification by rivals."
+    },
+    {
+      "title": "JLB Pursuing Buckhead Office-to-Apartments Conversion",
+      "link": "https://www.connectcre.com/stories/jlb-pursuing-buckhead-office-to-apartments-conversion/",
+      "excerpt": "JLB Partners plans to redevelop a seven-story building at 470 E. Paces Ferry Road in Buckhead Village. The Atlanta Business Chronicle reports the project consists of 314 apartments in what was once a mid-century office building. On Maple Drive, the 1960s-era office building is the longtime home of Logility Supply Chain Solutions. Aptean acquired Logility in 2025 and has maintained a small workforce in the building. A shopping center is directly south of the site, and various businesses operate out of older homes along Shadowlawn Avenue to the west. Additional retail is located to the north along Peachtree Road. Other condo and apartment buildings have risen all over the area, including the Camden Buckhead Square and Ashley Gables Buckhead developments. Future residents would be within walking distance of Buckhead Village District, the upscale mixed-use development spanning multiple city blocks. Construction on the proposed development could begin in summer 2027, pending permitting approval. The post JLB Pursuing Buckhead Office-to-Apartments Conversion appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-11T14:07:02+00:00",
+      "bullets": [
+        "JLB Partners converting seven-story 1960s office building at 470 E. Paces Ferry Road, Buckhead Atlanta",
+        "314-unit apartment project; construction start targeted for summer 2027",
+        "Site surrounded by mixed-use, retail, and condo/apartment developments (Camden, Ashley Gables)"
+      ],
+      "summary": "JLB Partners is planning a 314-unit apartment conversion of a seven-story 1960s office building at 470 E. Paces Ferry Road in Buckhead Village, Atlanta. The building, home to Logility Supply Chain Solutions (recently acquired by Aptean), will be redeveloped into apartments with nearby retail and shopping. Construction is targeted to begin in summer 2027, pending permits.",
+      "impact": "Office-to-apartment conversion in Buckhead Village signals weak office-market fundamentals and strong apartment demand in Atlanta's premium submarket. The 314-unit conversion, if realized, reduces supply-chain risk versus ground-up development but assumes existing structural integrity and zoning pliability. Watch the submarket's office absorption rate and vacancy trends; if large-block office space (50K–100K SF) remains vacant, additional conversions could spike, increasing competitive pressure on new Class A apartment rents and forcing newer construction to higher-amenity/class-A positioning to justify pricing."
+    },
     {
       "title": "Hogan Lovells Cadwalader, the Blockbuster New Firm in Corporate Law",
       "link": "https://commercialobserver.com/2026/08/hogan-lovells-cadwalader-corporate-law/",
@@ -32,27 +107,27 @@
       "cat": "Commercial",
       "date": "2026-08-11T14:00:37+00:00",
       "bullets": [
-        "Hogan Lovells + Cadwalader merger creates $3.9B legal powerhouse",
-        "Real estate finance practice now expanded with combined expertise",
-        "No direct multifamily supply, demand, capital, or cost signal"
+        "Hogan Lovells and Cadwalader Wickersham & Taft merge in ~$3.9B transaction effective July 1",
+        "New firm Hogan Lovells Cadwalader is one of largest law firms in U.S.",
+        "Profile focuses on real estate lawyers and corporate finance practice"
       ],
-      "summary": "Hogan Lovells and Cadwalader Wickersham & Taft merged July 1, 2024, forming a combined $3.9 billion firm. The combined entity consolidates corporate finance and real estate practices. This is a structural legal market event with no material impact on multifamily development fundamentals.",
-      "impact": "Minimal relevance. While law firm consolidation can affect CRE transaction velocity and fee structures, this story contains no specific intelligence on development financing, market growth, or cost drivers affecting multifamily underwriting in any market."
+      "summary": "Hogan Lovells and Cadwalader Wickersham & Taft completed a nearly $4 billion merger effective July 1, creating Hogan Lovells Cadwalader, one of the largest law firms in the U.S. The article profiles partners Sulie Arias and Trevor Adler in the corporate finance practice, highlighting their roles in real estate deals and office leasing trends.",
+      "impact": "No material relevance to multifamily development. Law firm merger consolidation may modestly benefit multifamily lenders and sponsors via deeper capital-markets expertise and financing support, but does not signal demand, supply, cost, or capital availability shifts in any apartment market."
     },
     {
       "title": "Investment Firm Capital Group Takes 70K SF at Rudin’s 345 Park Avenue",
       "link": "https://commercialobserver.com/2026/08/capital-group-lease-rudin-345-park-avenue/",
-      "excerpt": "Global investment management firm Capital Group is taking space for an additional office in New York City. Capital Group, which is based in Los Angeles and oversees $3.6 trillion in assets, signed a 10-year lease for the entire 70,400-square-foot fourth floor of Rudin’s 345 Park Avenue in Midtown, according to the landlord. The firm will open its new office in the fall of 2027. “345 Park Avenue’s prime location, large floor plates and our upcoming amenity enhancements distinguish it as a best-in-class asset,” Michael Rudin, co-CEO at Rudin, said in a statement. “We are pleased to accommodate Capital Group’s continued growth in the Plaza District and commitment to New York City.” The lease is part of a $38 million investment by Capital Group that is expected to create 200 new jobs in the city over the next five years, according to Crain&#8217;s New York Business, which first reported news of the lease. Gov. Kathy Hochul is expected to announce the news Tuesday and the state’s backing of the investment. “Capital Group is making its largest investment ever in its sales force to create two new client coastal hubs in Los Angeles and New York and expand our presence in both,” Matt Eisenhardt, head of sales for the advisor group at Capital Group, wrote in a LinkedIn post in April. Eisenhardt added that as part of the expansion, the firm plans to hire 130 new sales and sales support roles to reach more advisors. The new deal at 345 Park Avenue represents a second New York City office for Capital Group, which will continue to operate its city headquarters out of a roughly 25,000-square-foot space three blocks north at BXP’s 399 Park Avenue. The asking rent was unclear, but a report from Newmark found office rents along Park Avenue in Midtown averaged $127.78 per square foot during the second quarter of 2026. CBRE&#8216;s Chris Mansfield, Frank Scott, David Opper, Zachary Weil, Eddie Sisca and Trevor Larkin brokered the deal for Capital Group, while Robert Steinman repped Rud",
+      "excerpt": "Global investment management firm Capital Group is taking space for an additional office in New York City. Capital Group, which is based in Los Angeles and oversees $3.6 trillion in assets, signed a 10-year lease for the entire 70,400-square-foot fourth floor of Rudin’s 345 Park Avenue in Midtown, according to the landlord. The firm will open its new office in the fall of 2027. “345 Park Avenue’s prime location, large floor plates and our upcoming amenity enhancements distinguish it as a best-in-class asset,” Michael Rudin, co-CEO at Rudin, said in a statement. “We are pleased to accommodate Capital Group’s continued growth in the Plaza District and commitment to New York City.” The lease is part of a $38 million investment by Capital Group that is expected to create 200 new jobs in the city over the next five years, according to Crain&#8217;s New York Business, which first reported news of the lease. Gov. Kathy Hochul is expected to announce the news Tuesday along with the state’s backing of the investment. “Capital Group is making its largest investment ever in its sales force to create two new client coastal hubs in Los Angeles and New York and expand our presence in both,” Matt Eisenhardt, head of sales for the advisor group at Capital Group, wrote in a LinkedIn post in April. Eisenhardt added that as part of the expansion, the firm plans to hire 130 new sales and sales support roles to reach more advisors. The new deal at 345 Park Avenue represents a second New York City office for Capital Group, which will continue to operate its city headquarters out of a roughly 25,000-square-foot space three blocks north at BXP’s 399 Park Avenue. The asking rent was unclear, but a report from Newmark found office rents along Park Avenue in Midtown averaged $127.78 per square foot during the second quarter of 2026. CBRE&#8216;s Chris Mansfield, Frank Scott, David Opper, Zachary Weil, Eddie Sisca and Trevor Larkin brokered the deal for Capital Group, while Robert Steinman rep",
       "source": "Comm. Observer",
       "cat": "Commercial",
       "date": "2026-08-11T13:51:16+00:00",
       "bullets": [
-        "Capital Group leases 70.4K SF at 345 Park Ave, Manhattan; 10-year term",
-        "Investment: $38M; 200 jobs created over 5 years; opens Fall 2027",
-        "Signals strong DEMAND for Manhattan office; Plaza District competitiveness"
+        "Capital Group leases entire 70,400 SF fourth floor at Rudin's 345 Park Avenue, Midtown Manhattan",
+        "10-year lease; office opens fall 2027; $38M investment expected to create 200 jobs",
+        "NY State and Governor Hochul backing investment; signals confidence in Manhattan office"
       ],
-      "summary": "Capital Group (LA-based, $3.6T AUM) signed a 10-year lease for the entire 4th floor (70,400 SF) at Rudin's 345 Park Avenue in Midtown Manhattan, with occupancy Fall 2027. The firm will invest $38M and create 200 jobs over five years. This lease demonstrates continued Manhattan office strength and confidence from major institutional tenants.",
-      "impact": "Signals sustained office-sector resilience in Manhattan's Plaza District, which has ripple effects for mixed-use development and ground-floor retail demand in Midtown submarkets. Large employer expansions drive white-collar worker in-migration, strengthening nearby residential rental demand; however, multifamily developers should monitor whether office flight to suburban submarkets (NJ, CT, Westchester) redistributes demand away from Manhattan core."
+      "summary": "Global investment firm Capital Group, which oversees $3.6 trillion in assets and is based in Los Angeles, signed a 10-year lease for the entire 70,400-square-foot fourth floor of Rudin's 345 Park Avenue in Midtown Manhattan. The lease is part of a $38 million Capital Group investment expected to create 200 jobs over five years in New York City. The office is slated to open in fall 2027.",
+      "impact": "Large-block Midtown office leasing by a prestigious, expanding employer (200 new jobs over 5 years) signals incremental demand for white-collar housing in Manhattan and outer-borough submarkets accessible to Midtown. However, the 2027 opening timeline means the wage-earning cohort will not immediately drive apartment lease-up. Monitor if Capital Group job growth attracts mid-to-senior talent migration into NYC; if so, strengthens rental fundamentals in Midtown South, FiDi, and Brooklyn Bridge Park-adjacent markets. State incentives (Hochul backing) suggest a broader coordinated push to keep/grow finance/asset-management jobs in NY, bullish for multifamily demand 2027–2030."
     },
     {
       "title": "CBRE Scores Charleston-Area Warehouse Leasing Assignment",
@@ -62,57 +137,12 @@
       "cat": "Commercial",
       "date": "2026-08-11T13:42:45+00:00",
       "bullets": [
-        "Obelisk RE acquired 823K SF industrial portfolio in Hanahan, SC",
-        "North Rhett Center has 318.9K SF available; CSX rail, 3.25 acres yard",
-        "Charleston logistics hub attraction; inventory churn signals market tightness"
+        "CBRE markets North Rhett Center, two-building 516K SF industrial property in Hanahan, South Carolina",
+        "318,926 SF available; recently acquired by Obelisk Real Estate Partners from CenterPoint Properties",
+        "Property offers CSX rail, laydown yard, proximity to NIWC and Charleston International Airport"
       ],
-      "summary": "Obelisk Real Estate Partners acquired a 516K SF two-building industrial property (North Rhett Center) plus adjacent 305K SF asset in Hanahan, South Carolina, from CenterPoint Properties. CBRE is marketing 318,926 SF of available space, with flexibility for users 50K–319K SF. The property offers CSX rail access, laydown yard, and proximity to NIWC and Charleston International Airport.",
-      "impact": "Charleston's industrial market is tightening and attracting institutional capital, signaling strong logistics and distribution demand driven by aerospace/defense (Boeing NIWC) and port activity. This supply absorption pressure and investor appetite indicate underlying job and population growth in Charleston metro; multifamily developers should anticipate near-term demand acceleration in Charleston residential submarkets, especially near Hanahan/North Charleston employment clusters—window to acquire sites ahead of supply tightness."
-    },
-    {
-      "title": "NYC Pied-à-Terre Tax Rollout Temporarily Blocked",
-      "link": "https://commercialobserver.com/2026/08/nyc-pied-a-terre-tax-mamdani-temporarily-blocked/",
-      "excerpt": "A real estate industry that has sounded alarms over New York City Mayor Zohran Mamdani’s pied-a-terre tax harming the luxury residential market got a momentary reprieve Monday. Staten Island Supreme Court Justice Wayne Ozzi blocked the Mamdani administration’s rollout of a controversial surcharge on second homes worth more than $5 million and ordered the removal of nearly 1 million properties the city had posted online affected by the tax. The decision, which was issued in response to a lawsuit filed by homeowners last week, was appealed by the city Monday evening, which automatically triggered a stay of the ruling until an appeal is heard on Aug. 31. A source familiar with New York tax laws cautioned that no matter how the legal drama plays out, the tax is likely to still take effect even if delayed. The source said homeowners who received original July surcharge notices should &#8220;still get their paperwork ready.&#8221; The pied-a-terre tax was approved by the New York State Legislature in May and is projected to raise $500 million in revenue for the Big Apple, according to an analysis by New York City Comptroller Mark Levine. The policy has sparked concerns, however, from many real estate professionals about potential negative effects of luxury developers and buyers avoiding New York City despite the luxury market seeing an uptick in June. “We disagree with today’s ruling, but we are confident in both the pied-à-terre surcharge and the city’s ability to implement it fairly and effectively,” Mamdani spokesperson Matt Rauschenbach told the Wall Street Journal. “This surcharge asks those who own second homes valued at $5 million or more to contribute their fair share to the city they benefit from.” Andrew Coen can be reached at acoen@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-11T13:38:42+00:00",
-      "bullets": [
-        "Staten Island court blocked NYC pied-à-terre tax rollout; city appealed",
-        "Tax targets homes >$5M; $500M annual revenue projected",
-        "Uncertainty delays implementation; legal battle on Aug. 31; tax likely survives"
-      ],
-      "summary": "Staten Island Supreme Court Justice Wayne Ozzi temporarily blocked New York City's pied-à-terre tax surcharge on second homes worth more than $5 million and ordered removal of ~1 million properties from the city's online list. The city appealed Monday, triggering a stay pending an Aug. 31 appeal hearing. Tax experts say the tax is likely to ultimately take effect despite legal challenges, though implementation may be delayed.",
-      "impact": "While directly a luxury condo issue, a sustained pied-à-terre tax reduces second-home investment demand in NYC and weakens developer appetite for luxury units in Manhattan/Brooklyn. However, it may shift capital toward primary-residence rental and workforce housing in NYC and suburban metros (NJ, CT, PA), opening rental demand and pricing windows for Class B/C multifamily developers outside prestige corridors. Monitor regulatory risk for similar taxes in other blue-state metros (CA, IL)."
-    },
-    {
-      "title": "The Hidden 90% of AI Costs Every CRE Firm Ignores",
-      "link": "https://commercialobserver.com/2026/08/the-hidden-90-of-ai-costs-every-cre-firm-ignores/",
-      "excerpt": "CRE firms have now moved through three technology cycles that each asked the same question at the wrong altitude: business intelligence in the 2000s, RPA in the 2010s, and generative AI now. Each time, the industry asks what the license costs. Two decades of watching these cycles play out says the license was never the number that mattered. The number that matters is what happens to cost per additional use case at the fifth deployment, the 20th, the 100th. Most CRE firms still can&#8217;t answer that question, and it&#8217;s costing them more than the license line ever will. The wrong approach is easy to spot. Most firms evaluate AI economics the way they&#8217;d evaluate traditional enterprise software: seat cost, contract length, implementation fee. That framing breaks once AI is deployed across a portfolio, because the real cost structure isn&#8217;t the license. It&#8217;s everything wrapped around it: integration, governance, maintenance, and the recurring labor of keeping a fast-moving technology from going stale. License cost is the visible 10 percent. The other 90 percent is where the budget actually goes, and almost nobody prices for it up front. It’s not that traditional CRE platforms are the wrong investment; they remain the operational backbone for many firms. The challenge is that AI introduces new economics that extend beyond the software purchase itself. Three cost models have played out at scale across this industry. All three break the same way, just on different timelines. The first is buying point solutions — a lease abstraction tool here, a market intelligence tool there, a separate product for tour books. Each tool stands on its own. But at scale, none of them share infrastructure. Each requires its own integration, governance and maintenance. The result is what the industry calls AI islands: real capability, zero compounding. This is a large part of why roughly 95 percent of generative AI pilots fail to produce measurable business impact. The m",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-11T13:35:58+00:00",
-      "bullets": [
-        "CRE firms underestimate AI deployment cost; 90% is integration labor, not license",
-        "Three tech cycles show repeated miscalculation of true economics",
-        "No market signal; advisory/operational issue only"
-      ],
-      "summary": "An industry analysis warns CRE firms that the majority cost of AI deployment—integration, governance, maintenance, and labor—is typically not priced up front; the visible license cost represents only ~10% of total cost of ownership. Most firms evaluate AI the way they evaluate traditional software, missing compounding costs across portfolio deployments.",
-      "impact": "Not material to multifamily development strategy, site selection, or market demand/supply. This is an internal operational/tech finance issue for larger institutional platforms. Relevant only if a developer's capital or tech budget is materially consumed by AI implementation costs, which would be self-inflicted and avoidable."
-    },
-    {
-      "title": "Owner Fisher Brothers Launches AI Innovation Lab",
-      "link": "https://commercialobserver.com/2026/08/owner-fisher-brothers-launches-ai-innovation-lab/",
-      "excerpt": "Real estate owner and operator Fisher Brothers announced Tuesday that it has launched an in-house artificial intelligence-native innovation lab. The 111-year-old Manhattan-based company’s AI Innovation Lab will operate across its commercial and residential enterprise, as well as at Area15, its Las Vegas entertainment venue. Rather than adopting off-the-shelf tools, Fisher Brothers’ technology team is developing proprietary applications and AI agents capable of automating multistep workflows, connecting previously siloed systems, and turning the company’s data into a resource employees can access and act on in real time, according to the firm. In doing so, Fisher Brothers joins other larger operators and owners in taking the proptech in-house more. “I feel like when ChatGPT went public to the consumer, that it was a watershed moment,” said Winston Fisher, a partner at Fisher Brothers, referring to the AI vehicle’s 2022 debut. “I quickly said that I think this is one of the most transformative technologies in the world. Our AI Innovation Lab is a culmination of working, becoming educated, and doing individual initiatives. Mark Stutzman, as our global chief technology officer, has been working on projects with our team over the last three years. That led us to the point where we could really take the next step: have a full-time dedicated resource over and above the existing team to really accelerate the transformation that we had already started working on.” In deploying a dedicated internal engineering team to develop company-owned AI applications, the lab will develop custom apps, foster agentic automation of repetitive workflows, connect internal systems, and expand AI fluency across the organization. The goal is to continue to integrate AI across the firm to support growth. “I think it&#8217;s a flywheel of transformation that leads to transformation at a faster pace,” said Stutzman. “It starts to roll out basic things to be used in their day-to-day workflow and to",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-11T13:00:27+00:00",
-      "bullets": [
-        "Fisher Brothers launches proprietary AI Innovation Lab; applies to commercial + residential",
-        "In-house development of AI agents to automate workflows, integrate silos",
-        "Institutional operator investing in tech differentiation; no market demand signal"
-      ],
-      "summary": "Fisher Brothers, a 111-year-old Manhattan owner/operator, announced launch of an in-house AI Innovation Lab serving its commercial, residential, and Area15 Las Vegas entertainment properties. The firm is developing proprietary AI agents to automate multistep workflows, integrate siloed systems, and enable real-time data access for employees. This represents institutional owners moving proptech development in-house.",
-      "impact": "No direct impact on multifamily supply, demand, capital availability, or cost. This is an operator efficiency play. Relevant only as a signal that larger institutional operators are building tech moats; smaller or regional multifamily developers may face operational cost disadvantages if proprietary AI/analytics become table-stakes for asset management and leasing."
+      "summary": "CBRE has been retained to lease North Rhett Center, a 516,000-square-foot two-building industrial property in Hanahan, South Carolina, recently acquired by Obelisk Real Estate Partners from CenterPoint Properties. The property offers 318,926 square feet of available space, CSX rail service, laydown yard capacity, and proximity to the Naval Information Warfare Center and Charleston International Airport.",
+      "impact": "No direct multifamily relevance. Industrial leasing activity in Charleston area may signal supply-chain logistics and manufacturing demand, which could translate to downstream job growth and in-migration into Charleston, supporting multifamily rental demand. However, this news alone is insufficient to predict apartment-market impact without context on tenant type, wage levels, and occupancy timeline."
     },
     {
       "title": "High Street Residential Tops Out on First Manhattan Development",
@@ -122,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-08-10T22:05:39+00:00",
       "bullets": [
-        "High Street Residential (Trammell Crow subsidiary) tops out The Marq, Manhattan",
-        "25-story SoHo tower; 99 units + 25 affordable; completion Q4 2027",
-        "SUPPLY SIGNAL: Pipeline delivery in prime Manhattan submarket; mixed-income model"
+        "High Street Residential (Trammell Crow subsidiary) tops out The Marq, 25-story SoHo tower, Manhattan",
+        "99 luxury units, 2,072 SF retail, 25 affordable apartments; completion Q4 2027",
+        "Project located on vacant lot at 126 Lafayette Street, Lower West Side"
       ],
-      "summary": "High Street Residential (HSR, Trammell Crow Company's residential subsidiary) topped out The Marq, a 25-story luxury residential tower at 126 Lafayette St. in SoHo, Manhattan. The project includes 99 market-rate units (studios to 3-bed penthouses), 2,072 SF of ground-floor retail, and 25 affordable apartments. Completion is scheduled for Q4 2027.",
-      "impact": "HSR's successful Manhattan entry and completion of premium SoHo unit validates luxury-infill development model in Lower Manhattan and signals Trammell Crow's confidence in NYC residential fundamentals despite office sector volatility. The 99-unit + 25-affordable mix reflects NYC's inclusionary zoning requirement, raising per-unit development cost; monitor whether this project's underwriting holds through 2027 delivery. SoHo/Lower West Side submarket will see supply absorption; developers should assess rent trajectory pre-delivery and weigh competing projects in immediate radius."
+      "summary": "High Street Residential, the residential subsidiary of Trammell Crow Company, has topped out construction on The Marq, a 25-story luxury residential tower in SoHo, Manhattan. The project includes 99 market-rate units (studios to three-bedroom penthouses), 2,072 square feet of ground-floor retail, and 25 affordable apartments on a vacant lot at 126 Lafayette Street. Completion is targeted for Q4 2027.",
+      "impact": "Successful structural completion of Trammell Crow's first Manhattan luxury project (albeit small, 99 units) validates sponsor's Manhattan development execution and market timing. SoHo/Lower West Side location and Q4 2027 delivery position units to absorb high-income renters and international buyers seeking prime Manhattan; 25 affordable units may benefit from NY State/City housing incentives. Limited unit count minimizes direct supply impact, but signals sponsor confidence in luxury rental fundamentals downtown post-pandemic. Monitor lease-up velocity and achieved rents post-opening to gauge luxury segment health in prime Manhattan submarkets."
     },
     {
       "title": "Vietnamese Beauty Brand Hasaki Makes U.S. Debut in Cudahy",
@@ -137,42 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-10T21:57:58+00:00",
       "bullets": [
-        "Hasaki (Vietnam beauty retailer, 300+ stores) opens 2 US locations in SoCal",
-        "7K SF lease each in Cudahy + Anaheim; 10 additional US stores planned",
-        "Foreign brand expansion to US; reflects demographic/consumer shift in LA County"
+        "Vietnamese beauty retailer Hasaki opens first U.S. store: 7K SF at Cudahy Plaza in Los Angeles County",
+        "Second 7K SF location at Magnolia Square, Anaheim, opening Q4 2024",
+        "Brand operates 300+ stores in Vietnam; plans 10 additional U.S. stores"
       ],
-      "summary": "Vietnamese beauty brand Hasaki (founded 2016, 300+ stores in Vietnam) made its U.S. debut with a 7,000 SF lease at Cudahy Plaza (Cudahy, CA) and signed second 7K SF lease at Magnolia Square (Anaheim, CA), opening Q4 2024. The firm plans to open 10 additional U.S. stores. CBRE brokered both deals; landlords are Excel Realty Partners and other operators.",
-      "impact": "Signals Asian consumer brand migration to U.S., particularly SoCal, driven by Vietnamese and pan-Asian population concentration in LA County. While retail-focused, this underscores demographic and income growth in LA County suburbs (Cudahy, Anaheim, Orange County); multifamily developers should target workforce housing and Class B/C apartments near Vietnamese/Asian employment and retail clusters in LA County, anticipating sustained in-migration and household formation."
-    },
-    {
-      "title": "PE Firm OceanSound Expands Presence at SL Green’s 450 Park Ave.",
-      "link": "https://www.connectcre.com/stories/494390-2/",
-      "excerpt": "SL Green Realty Corp said Monday that OceanSound, LP has signed a new five-year, 32,032 square foot lease covering floors 8, 22 and 23 at 450 Park Ave. The private equity firm, which focuses on the technology sector, currently subleases 21,640 square feet &#8220;We’re proud to extend and expand our valued relationship with OceanSound at 450 Park Ave.,&#8221; said Steven Durels, EVP, director of leasing and real property at SL Green. &#8220;The recent completion of various building upgrades has positioned 450 Park as the premier boutique office building for tenants seeking best-in-class workspace with upscale amenities at a luxury location.&#8221; OceanSound was represented by John Johnson of Savills, Inc. SL Green was represented by Paul Amrich, Neil King, Alex D&#8217;Amario, Matthew Dichter and Brooke Dewing of CBRE. Located at the southwest corner of Park Avenue and 57th Street, 450 Park is a 33-story office tower whose tenants include Banco Bradesco, Blue Crest Capital Management, Garnett Station Partners, Muzinich &amp; Co, and Steadfast Financial. The post PE Firm OceanSound Expands Presence at SL Green&#8217;s 450 Park Ave. appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-10T21:49:00+00:00",
-      "bullets": [
-        "OceanSound (tech-focused PE firm) expands at SL Green's 450 Park Ave, Manhattan",
-        "32K SF new 5-year lease (floors 8, 22, 23); currently subleases 21.6K SF",
-        "Manhattan office demand from financial/tech tenants persists; no net new supply"
-      ],
-      "summary": "OceanSound, LP, a private equity firm focused on technology, signed a new five-year, 32,032 SF lease at 450 Park Avenue in Midtown Manhattan, covering floors 8, 22, and 23. OceanSound currently subleases 21,640 SF at the property. SL Green completed building upgrades positioning 450 Park as a boutique, amenity-rich office option.",
-      "impact": "Reaffirms Manhattan Midtown office demand from high-value tenants (PE, tech) despite broader office sector headwinds. However, this is expansion within existing tenancy and sublease conversion—not new office-sector demand creation. Multifamily impact is indirect: continued Park Avenue/Midtown tenant retention supports worker base and nearby residential rental demand, but no new population influx; developers should focus on existing Midtown submarkets rather than anticipating new office-driven migration."
-    },
-    {
-      "title": "MMCC Arranges Financing for Riverside County Self-Storage Property",
-      "link": "https://www.connectcre.com/stories/mmcc-arranges-financing-for-riverside-county-self-storage-property/",
-      "excerpt": "Marcus &amp; Millichap Capital Corporation (MMCC) arranged $7,380,000 in financing for Beaumont RV and Self Storage, a 49,958-square-foot self-storage property located at 251 W. 1st St. in Beaumont. Chad O’Connor, executive managing director in MMCC’s San Diego office, secured the 10-year financing with a national federal credit union on behalf of a private client. The loan carries a 5.75% interest rate and a 30-year amortization period. “Demand for self-storage remains supported by the sector’s durable operating fundamentals and the need for flexible space serving both household and recreational uses,” said O’Connor. “We were pleased to secure long-term financing with competitive terms that align with our client’s investment objectives.” Beaumont RV and Self Storage offers traditional self-storage units as well as dedicated RV and boat storage. The property is located near Interstate 10 and provides convenient access for customers throughout Beaumont and the surrounding Riverside County area. The post MMCC Arranges Financing for Riverside County Self-Storage Property appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-10T21:32:00+00:00",
-      "bullets": [
-        "MMCC arranged $7.38M financing for Beaumont RV/Self-Storage, Riverside County",
-        "10-year loan at 5.75%; 30-year amortization; federal credit union lender",
-        "Self-storage fundamentals strong; capital available; no multifamily relevance"
-      ],
-      "summary": "Marcus & Millichap Capital Corporation (MMCC) arranged $7.38 million in 10-year financing (5.75% rate, 30-year amortization) for Beaumont RV and Self Storage, a 49,958 SF property in Beaumont, Riverside County, California. The loan was secured from a national federal credit union. The property offers traditional self-storage, RV, and boat storage near I-10.",
-      "impact": "Not material to multifamily development. Self-storage is an alternative use class; while capital availability at 5.75% suggests credit union lending remains competitive for niche asset classes, this does not signal multifamily-specific debt markets, rate trends, or Riverside County residential demand. Self-storage demand may compete for same development sites in Riverside, but no direct supply/demand/capital signal for apartments."
+      "summary": "Vietnamese beauty and personal care retailer Hasaki, founded in 2016 and operating 300+ stores in Vietnam, opened its first U.S. location with a 7,000-square-foot lease at Cudahy Plaza in Cudahy, Los Angeles County, anchored by Sprouts and Burlington. A second 7,000-square-foot location at Magnolia Square in Anaheim is scheduled to open in Q4 2024. Hasaki plans to expand to 10 additional U.S. stores.",
+      "impact": "Minimal relevance to multifamily development. International retail expansion by emerging-market beauty brands into secondary-tier LA County suburban centers (Cudahy, Anaheim) signals foot traffic and consumer spending resilience in inner-ring suburbs but does not materially affect apartment demand, supply, or capital in any major metro. Could modestly support retail fundamentals in mixed-use projects but is indirect and immaterial for multifamily underwriting."
     }
   ]
 }
