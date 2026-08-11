@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-11T18:48:54.903408+00:00",
+  "fetchedAt": "2026-08-11T19:55:35.976219+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -9,35 +9,80 @@
     },
     {
       "label": "10Y Treasury",
-      "value": "4.69%",
-      "pct": -0.28
+      "value": "4.68%",
+      "pct": -0.32
     },
     {
       "label": "30Y Treasury",
       "value": "5.24%",
-      "pct": -0.11
+      "pct": -0.13
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "96.72",
-      "pct": -0.4
+      "value": "96.44",
+      "pct": -0.69
     }
   ],
   "stories": [
     {
-      "title": "Sisters of the Visitation Monastery Sells to Brooklyn and Miami Developers for $42M",
+      "title": "SME Capital Forced to Hand Over Hudson Yards Condo Building to Residents",
+      "link": "https://commercialobserver.com/2026/08/sme-capital-letitia-james-441-west-37th-street/",
+      "excerpt": "Private investment firm SME Capital Ventures is handing ownership of 441 West 37th Street to the condominium board after an investigation by the New York Attorney General’s office. SME acquired the building out of foreclosure in 2023. It then failed to pay bills related to the Hudson Yards property and neglected safety violations, leading to a settlement to pay $700,000, according to Attorney General Letitia James. Built in 2020 by Levi Balkany, the nine-unit building went into foreclosure in 2023. SME never reported to the state that it was the winning bidder in the auction and never acknowledged that it owned the building, leaving residents to pick up the tab for things like a new $15,824 certificate of occupancy, according to the AG. Some of the units were rented out while awaiting buyers, including 35 formerly homeless people who were ousted around the time SME took control of the building, according to The Real Deal. &#8220;Private equity firms do not get to pick and choose which laws apply to them,&#8221; James said in a statement. &#8220;When this company took control of a Manhattan condo building, it took on real legal responsibilities to the homeowners who lived there. For two years, SME Capital dodged those duties while still collecting rent checks. My office will keep holding these firms accountable when they put profits over New Yorkers&#8217; safety.&#8221; Balkany could not be reached for comment. SME’s Eran Silverberg signed the settlement agreement, but the firm&#8217;s attorney Ken Breen attested that the building&#8217;s problems all boil down to developer failing in his own responsibilities to the residents of the building, leaving SME to &#8220;inherited a building that had been left in regulatory limbo.&#8221; &#8220;We chose to resolve this matter because the homeowners at 441 West 37th Street had already suffered enough as a result of Mr. Balkany&#8217;s conduct,&#8221; Breen said in a statement. &#8220;Under the terms of the settlement, SME C",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-11T19:01:09+00:00",
+      "bullets": [
+        "SME Capital Ventures forced to surrender Hudson Yards condo (441 W 37th St) to residents after neglecting $15.8K compliance costs.",
+        "Firm failed to report ownership, evicted 35 formerly homeless residents, settled with NY AG for $700K.",
+        "Nine-unit condo built 2020, acquired from foreclosure 2023, now under resident control."
+      ],
+      "summary": "SME Capital Ventures is handing over a nine-unit Hudson Yards condo building to its condominium board after a New York Attorney General investigation found the firm neglected safety violations, unpaid bills, and failed to disclose ownership following a 2023 foreclosure acquisition. The firm will pay $700,000 in penalties. SME had rented units to formerly homeless residents before evicting them around the time it took control.",
+      "impact": "Limited direct impact. This is a condo/for-sale issue, not a rental demand signal. However, it flags regulatory risk around Manhattan real estate foreclosures and the AG's scrutiny of institutional buyers acquiring distressed residential assets—relevant for developers considering Manhattan acquisitions in down cycles."
+    },
+    {
+      "title": "SRS Real Estate Partners Brokers $15M Sale of Retail Property Anchored by Chick-fil-A",
+      "link": "https://www.connectcre.com/stories/srs-real-estate-partners-brokers-15m-sale-of-retail-property-anchored-by-chick-fil-a/",
+      "excerpt": "SRS Real Estate Partners completed the $14.95 million sale of a two-tenant retail property located at 540 Maple Avenue in Vienna, Virginia, about 15 miles from Washington, D.C. Built in 2019 and situated on 1.19 acres, this unique two-story property is fully occupied by Chick-fil-A on the ground floor with a drive-thru. Flagship Carwash is operating a full-service facility on the second floor. SRS Capital Markets Executive Vice President &amp; Managing Principal Andrew Fallon and First Vice President Philip Wellde represented the seller, the property&#8217;s original developer. The buyer was a local investor. &#8220;As a net lease investment offering, the asset attracted significant interest from a wide range of investors, including high-net-worth and 1031 exchange buyers seeking a high-quality property with long-term passive income and a building that has tax-efficient components,&#8221; said Fallon. Located at 540 Maple Avenue East, the property benefits from a premier infill location in the heart of Vienna. The post SRS Real Estate Partners Brokers $15M Sale of Retail Property Anchored by Chick-fil-A appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-11T18:53:38+00:00",
+      "bullets": [
+        "SRS Capital Markets brokered $14.95M sale of retail at 540 Maple Ave, Vienna, VA (15 miles from DC).",
+        "Two-tenant net lease: Chick-fil-A ground floor with drive-thru, Flagship Carwash second floor, built 2019.",
+        "Local investor buyer; seller was original developer; attracted 1031 exchange and high-net-worth capital."
+      ],
+      "summary": "SRS Real Estate Partners completed the $14.95 million sale of a fully occupied two-tenant retail property in Vienna, Virginia, anchored by Chick-fil-A on the ground floor (with drive-thru) and Flagship Carwash on the second. Built in 2019 on 1.19 acres, the property was sold by its original developer to a local investor seeking long-term passive income.",
+      "impact": "Minimal direct relevance to multifamily. Retail transaction signals stable suburban DC investment appetite and strong QSR/service-sector fundamentals in the Northern Virginia submarket, which could underpin residential demand in high-barrier-to-entry, car-dependent suburban corridors like Vienna. Not a primary demand signal."
+    },
+    {
+      "title": "PRP Real Assets Acquires 900 19th Street NW in DC",
+      "link": "https://www.connectcre.com/stories/prp-real-assets-acquires-900-19th-street-nw-in-dc/",
+      "excerpt": "PRP Real Assets, a Washington, D.C.–based real estate investment management firm, has acquired 900 19th Street NW, a 116,385-square-foot office tower in the heart of the city&#8217;s Central Business District. Positioned at the corner of 19th and Eye Streets, between K Street and Pennsylvania Avenue, the corner building sits three blocks west of the White House, steps from the Farragut West Metro station, and within walking distance of the World Bank and International Monetary Fund headquarters. The previous owner completed a comprehensive base-building and aesthetic redevelopment of the property. “900 19th Street is exactly the kind of asset we look for in the current market, an institutionally repositioned building in the most durable corridor in the District, acquired at a basis that cannot be replicated through new construction,” said Jon McAvoy, Chief Investment Officer of PRP Real Assets. The post PRP Real Assets Acquires 900 19th Street NW in DC appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-11T18:41:58+00:00",
+      "bullets": [
+        "PRP Real Assets acquired 900 19th St NW, DC: 116,385-sf office tower in CBD (K–Pennsylvania Ave corridor).",
+        "Three blocks west of White House, steps from Farragut West Metro; previous owner completed base-building redevelopment.",
+        "Seller emphasized 'institutionally repositioned' basis unreplicable via new construction; metro/office-centric investment thesis."
+      ],
+      "summary": "PRP Real Assets, a Washington D.C.-based investment manager, acquired 900 19th Street NW, a 116,385-square-foot office tower in the city's Central Business District near K Street and Pennsylvania Avenue, three blocks west of the White House and adjacent to Farragut West Metro. The previous owner had completed a comprehensive base-building and aesthetic redevelopment. PRP cited the property's durability and repositioned basis as a value opportunity.",
+      "impact": "Not directly relevant to multifamily. Signals institutional capital targeting trophy office assets in DC's core CBD—potential indirect signal of white-collar job retention/stabilization in the market. However, the broader office glut in DC remains a headwind for residential; no clear demand transmission unless PRP's thesis hints at office-to-residential conversion upside (not mentioned)."
+    },
+    {
+      "title": "Sisters of the Visitation Monastery Sells to Integritas Capital for $42M",
       "link": "https://commercialobserver.com/2026/08/bay-ridge-monastery-sale-brooklyn-miami-developers/",
-      "excerpt": "A 170-year-old monastery in Bay Ridge, Brooklyn, has sold for $42.25 million. The Sisters of the Visitation’s 7.5-acre campus at 8902 Ridge Boulevard –– a campus behind 30-foot stone walls, with a monastery, chapel and school –– was bought by a group of Brooklyn- and Miami-based developers and investors with a history of large residential projects, including leaders of Heights Advisors, Integritas Capital and Royal Palm Companies. A petition by the Catholic religious order to sell its real estate was approved by the office of the New York State Attorney General on Monday. Nonprofits are required by New York law to obtain approval when it sells all or most of its assets. The buyer entity, 1137 91 LLC, is made up of beneficial owners with overlapping development and investment firms. Those include Brooklyn real estate investor Stephen Palmese, founder of private equity platform Integritas Capital (and a former vice chair at JLL), and Rachel Foster, founder and president of Brooklyn housing developer Heights Advisors, alongside the developer’s director, Scott Geddes. The longtime professional partners are planning a resort-residential tower in Fort Lauderdale, according to The Real Deal. Palmese’s Integritas is also the lender behind a forthcoming 27-story church-to-residential conversion in Brooklyn’s Fort Greene. Also named in the LLC is Daniel Kodsi, CEO of Miami developer Royal Palm Companies. A fifth owner, Matthew Kodsi, is an undergraduate student who has worked part-time at Heights Advisors. The cohort of buyers suggests the historic property’s likely fate as a major mixed-used or residential development. The Visitation Sisters entered into an initial contract in late April, according to the filing, but the school and monastery have been shuttered since 2024, after their numbers dropped too low to sustain full ministry. The Visitation Sisters, formally the Order of the Visitation of Holy Mary, were a French order founded in 1610. Their presence in Brooklyn date",
+      "excerpt": "A 170-year-old monastery in Bay Ridge, Brooklyn, has sold for $42.25 million. The Sisters of the Visitation’s 7.5-acre campus at 8902 Ridge Boulevard — a campus behind 30-foot stone walls, with a monastery, chapel and school — was bought by a group of Brooklyn-based developers and investors with a history of large residential projects, including leaders of Integritas Capital and Heights Advisors. A petition by the Catholic religious order to sell its real estate was approved by the office of the New York State Attorney General on Monday. Nonprofits are required by New York law to obtain approval when it sells all or most of its assets. The buyer entity, 1137 91 LLC, is led by Brooklyn real estate investor Stephen Palmese, founder of private equity platform Integritas Capital (and a former vice chair at JLL). Passive investors included Rachel Foster, founder and president of Brooklyn housing developer Heights Advisors, alongside the developer’s director, Scott Geddes, as well as Daniel Kodsi and Matthew Kodsi . The longtime professional partners are planning a resort-residential tower in Fort Lauderdale, according to The Real Deal. Palmese’s Integritas is also the lender behind a forthcoming 27-story church-to-residential conversion in Brooklyn’s Fort Greene. The cohort of buyers suggests the historic property’s likely fate as a major mixed-used or residential development. The Visitation Sisters entered into an initial contract in late April, according to the filing, but the school and monastery have been shuttered since 2024, after their numbers dropped too low to sustain full ministry. The Visitation Sisters, formally the Order of the Visitation of Holy Mary, were a French order founded in 1610. Their presence in Brooklyn dates back to 1855. The sellers expect net proceeds of $40.9 million, according to the filing, which will be held in escrow under an approved dissolution and distribution of assets plan. The beneficial owners and their representatives did not resp",
       "source": "Comm. Observer",
       "cat": "Commercial",
       "date": "2026-08-11T18:30:43+00:00",
       "bullets": [
-        "Sisters of Visitation Monastery, Bay Ridge Brooklyn, sold for $42.25M to Heights Advisors/Integritas/Royal Palm.",
-        "7.5-acre campus includes monastery, chapel, school behind 30-foot walls; zoned/entitlement status unclear from text.",
-        "Buyer group has track record large residential projects; potential conversion to apartments or mixed-use."
+        "Integritas Capital and Heights Advisors acquired 7.5-acre Sisters of Visitation Monastery (Bay Ridge, Brooklyn) for $42.25M.",
+        "170-year-old campus with monastery, chapel, school; 30-foot stone walls; behind-walls development potential.",
+        "Led by Stephen Palmese (ex-JLL, Integritas founder); passive investors include Rachel Foster (Heights Advisors CEO) and Kodsi brothers."
       ],
-      "summary": "A 170-year-old, 7.5-acre religious campus in Bay Ridge, Brooklyn sold for $42.25M to a developer consortium led by Heights Advisors, Integritas Capital, and Royal Palm Companies. The site sits behind 30-foot stone walls and includes a monastery, chapel, and school. The sale required New York State Attorney General approval under nonprofit asset-sale law. The buyer entity (1137 91 LLC) has a history of large residential development.",
-      "impact": "Bay Ridge has limited large-format land for residential—this 7.5-acre institutional hold becomes a potential anchor for significant new supply. Entitlement and zoning pathway will determine whether the group can deliver 150–300+ units; if achievable, it could shift Bay Ridge's rental trajectory and cap-rate compression in Brooklyn outer boroughs. Monitor conversion feasibility and community opposition."
+      "summary": "A consortium led by Stephen Palmese (founder of Integritas Capital) and Rachel Foster (Heights Advisors) purchased the 7.5-acre Sisters of the Visitation Monastery campus in Bay Ridge, Brooklyn, for $42.25 million. The 170-year-old property includes a monastery, chapel, school, and is surrounded by 30-foot stone walls. The sale required approval from the New York State Attorney General's office, as required for nonprofit asset dispositions.",
+      "impact": "MAJOR for Brooklyn multifamily development. 7.5 acres in Bay Ridge (a historically underserved, price-sensitive submarket) with entitled institutional campus zoning now in hands of experienced Brooklyn residential developers. High probability of mixed-use or pure multifamily conversion; the monastery's likely low FAR creates significant upside for density and unit count. Watch for entitlement/rezoning moves; this is a rare large-lot assemblage in a tight Brooklyn supply market. Demand signal: developer confidence in Bay Ridge rental demand and willingness to pay ~$5.6M per acre for conversion upside."
     },
     {
       "title": "Benefit Street Partners Provides $103M Bridge Debt for Texas Multifamily Portfolio",
@@ -47,12 +92,12 @@
       "cat": "Commercial",
       "date": "2026-08-11T18:16:18+00:00",
       "bullets": [
-        "Vantage Communities secured $103M bridge debt from Benefit Street Partners for 864-unit Texas portfolio.",
-        "Three properties: Hutto (288 units), McKinney Falls Austin (288 units), Fair Oaks Boerne (288 units); floating-rate, 3-year term.",
-        "Bridge structure signals stabilization play; Central Texas fundamentals strong enough to attract institutional capital."
+        "Benefit Street Partners provided $103M floating-rate bridge debt to Vantage Communities for 864-unit Texas portfolio.",
+        "Three properties: Hutto (288 units), McKinney Falls/Austin (288 units), Fair Oaks/Boerne (288 units); 3-year bridge, interest-only.",
+        "Greystone Capital arranged; properties toward stabilization in Central Texas submarkets outside Austin."
       ],
-      "summary": "Vantage Communities closed $103M in bridge debt from Benefit Street Partners to refinance a three-property, 864-unit multifamily portfolio across Central Texas (Hutto, McKinney Falls near Austin, and Boerne). The floating-rate, interest-only loan carries a three-year term and is structured toward full stabilization. Greystone Capital Advisors arranged the deal, citing strong sponsorship and long-term market fundamentals.",
-      "impact": "Bridge refinancing in Central Texas signals lender confidence in rent trajectory and absorption in Austin's supply-constrained suburbs (Hutto, McKinney Falls). Floating-rate structure bets on rate stability or decline; if rates hold or rise, refinance risk materializes in 2027–2029, tightening capital availability for lesser-sponsored assets. Monitor Austin submarket leasing velocity."
+      "summary": "Vantage Communities secured $103 million in bridge financing from Benefit Street Partners to refinance a 864-unit, three-property multifamily portfolio across Central Texas (Hutto, suburban Austin, and Boerne). The floating-rate, interest-only bridge has a three-year term and is structured to finance the properties toward full stabilization. Greystone Capital Advisors arranged the transaction.",
+      "impact": "BULLISH SIGNAL for Central Texas multifamily. Bridge debt availability at scale ($103M on stabilizing assets) indicates lender confidence in Austin/Central Texas rental fundamentals and market fundamentals post-rate-hike cycle. Three-year bridge window aligns with potential exit window as rates normalize; suggests developers see strong absorption and rent trajectory in Hutto and suburban Austin. Demand watch: continued in-migration to Austin-adjacent markets (Hutto, Boerne) driven by tech, cost-of-living arbitrage, and spillover from core Austin."
     },
     {
       "title": "Coastland Residential Lands $85M to Build Miami-Dade Rental",
@@ -62,12 +107,12 @@
       "cat": "Commercial",
       "date": "2026-08-11T17:55:54+00:00",
       "bullets": [
-        "Coastland Residential secured $84.5M construction loan from PNC Bank for 366-unit Vybe 75, southwest Miami-Dade.",
-        "Site purchased for $14.5M; first phase of 1,000+ unit master plan; includes 5,000 SF retail, mixed-income (120% AMI floor).",
-        "Rooftop amenities (pool, gym, co-working, movie theater) signal class-A positioning in emerging Tropical Park corridor."
+        "Coastland Residential landed $84.5M construction loan from PNC Bank for Vybe 75 in southwest Miami-Dade (366 units, 5k SF retail).",
+        "Located near Tropical Park, SW 75th Ave; 8-story; at least portion affordable (≤120% AMI); first phase of ~1,000-unit master plan.",
+        "Site acquired for $14.5M in 2024; amenities include rooftop pool, gym, co-working, movie theater."
       ],
-      "summary": "Coastland Residential closed $84.5M in construction financing from PNC Bank for Vybe 75, a 366-unit, eight-story multifamily development near Tropical Park in southwest Miami-Dade. The 4.3-acre site, purchased last year for $14.5M, will include 5,000 SF of ground-floor retail and mixed-income units (minimum 120% AMI). Amenities include rooftop pool, gym, co-working space, and movie theater. The project represents phase one of a larger 1,000+ unit pipeline.",
-      "impact": "Southwest Miami-Dade (Tropical Park/Pinecrest submarket) is seeing institutional capital commit to emerging areas outside saturated coastal zones. Mixed-income mandate and aggressive amenity package suggest developer is competing for workforce and middle-income renters amid Miami's supply glut—signals rent pressure in secondary submarkets. Phase 2 optionality (600+ units) depends on absorption and refinance feasibility of phase 1; construction completion and lease-up timing critical for market fundamentals."
+      "summary": "Coastland Residential obtained an $84.5 million construction loan from PNC Bank for Vybe 75, an 8-story, 366-unit multifamily development near Tropical Park in southwest Miami-Dade County. The project includes 5,000 square feet of ground-floor retail and includes deed-restricted affordable units (at least a portion at ≤120% AMI). The site was purchased for $14.5 million in 2024, and Vybe 75 represents the first phase of a larger ~1,000-unit master plan.",
+      "impact": "STRONG SUPPLY AND CAPITAL SIGNAL for Miami-Dade. PNC's willingness to underwrite a $84.5M construction loan on a ~$14.5M land basis (5.8x LTV cushion, modest) signals confidence in Miami-Dade rental fundamentals despite recent supply influx. Affordable component (120% AMI) suggests strong local demand and/or tax-increment financing or LIHTC stacking. First-phase sizing (366 units) and phased master plan (1,000+ units total) indicate developer/lender bullishness on long-term South Florida demand. Watch for absorption and lease-up metrics on Vybe 75 to gauge Miami-Dade's true net rental demand after recent deliveries."
     },
     {
       "title": "Northmarq Arranges Refis for Three Texas Rental Communities",
@@ -77,12 +122,12 @@
       "cat": "Commercial",
       "date": "2026-08-11T17:47:23+00:00",
       "bullets": [
-        "Francis Property Management refinanced $68.7M on three Texas multifamily properties (940 units) via Northmarq permanent fixed-rate debt.",
-        "Holden Heights Houston (282 units, 2015), Estancia San Miguel Cypress (300 units, 2006), Montecristo San Antonio (358 units, 2005).",
-        "10-year term, interest-only throughout; refinance from construction/bridge debt indicates strong stabilization and local rent growth."
+        "Northmarq arranged $68.7M permanent refinancing for Francis Property Management's 940-unit Texas portfolio (3 properties).",
+        "Holden Heights (Houston Heights, 282 units, 2015); Estancia San Miguel (Cypress/Fairbanks, 300 units, 2006); Montecristo (San Antonio, 358 units, 2005).",
+        "Fixed-rate, 10-year term, full-term interest-only; Class A portfolio in desirable Houston and San Antonio submarkets."
       ],
-      "summary": "Northmarq arranged $68.7M in permanent fixed-rate refinancing for Francis Property Management's three-property, 940-unit multifamily portfolio across Houston and San Antonio. The deal includes Holden Heights (282 units, mid-rise, Heights submarket), Estancia San Miguel (300 units, garden-style, Cypress/Fairbanks), and Montecristo (358 units, garden-style, San Antonio's Far North Central). Each loan is structured on a 10-year term with full-term interest-only payments.",
-      "impact": "Permanent fixed-rate closing on 5–20 year old assets signals lender conviction on Houston/San Antonio rent stability and cap-rate floor. Interest-only terms indicate expectation of sustained rent growth; alternative would be amortizing if market were softening. This refinancing reduces portfolio refinance risk in 2027–2029, freeing sponsor capital for acquisitions or development. Monitor trailing lease spreads in Houston Heights and Cypress to confirm absorption strength."
+      "summary": "Northmarq's Debt + Equity team arranged a $68.7 million permanent fixed-rate refinancing for Francis Property Management's three-property, 940-unit Class A multifamily portfolio in Houston and San Antonio. The loans are structured on 10-year terms with full-term interest-only payments. The portfolio includes Holden Heights (282 units, Houston Heights, 2015), Estancia San Miguel (300 units, Cypress/Fairbanks, 2006), and Montecristo (358 units, San Antonio, 2005).",
+      "impact": "REFINANCE WINDOW SIGNAL for stabilized Texas multifamily. Fixed-rate, 10-year refi on older Class A assets (ranging 2005–2015) indicates lender conviction on Houston and San Antonio fundamentals and cap-rate stability. Interest-only structure on mature properties suggests low refinance risk and strong debt-service coverage; typical of trophy portfolio plays. Houston submarket confidence (Heights is premier, Cypress is supply-constrained), San Antonio growth signal. Modest supply pressure in core Houston Heights and Cypress makes these assets defensible."
     },
     {
       "title": "North American Data Center Demand Reaches All-Time High",
@@ -92,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-08-11T17:26:54+00:00",
       "bullets": [
-        "North America data center absorption hit 25 GW in H1 2026, double prior year, driven by AI hyperscalers and neoclouds.",
-        "79% of Americans support U.S. AI leadership; only 14% support local data center development—65-point gap threatens infrastructure buildout.",
-        "Community acceptance emerging as primary constraint; electricity, water, noise impacts require transparency and early engagement."
+        "North America data center absorption hit 25 gigawatts in H1 2026—double YoY, 5x two years prior.",
+        "79% of Americans support U.S. AI leadership; only 14% support data center development locally—65-point gap threatens build-out.",
+        "JLL report cites hyperscaler, neocloud, and AI-company competition for scarce capacity; community acceptance now key constraint."
       ],
-      "summary": "JLL reports North American data center demand reached an all-time high in H1 2026, with 25 gigawatts of absorption—double the prior year and five times the level two years prior. Demand driven by hyperscalers, neoclouds, and AI companies competing for scarce capacity. However, a stark gap exists: 79% of Americans support U.S. AI leadership, but only 14% support data center development in their communities, creating a 65-point support gap that threatens required infrastructure expansion.",
-      "impact": "Explosive data center demand growth is indirectly bullish for multifamily in Tier-2 and Tier-3 metros with data center clusters (e.g., Virginia, Phoenix, Ohio, Texas)—those markets will see tech worker in-migration and job growth, lifting apartment demand and rent velocity. However, community opposition to data centers may slow buildout, constraining job growth in some regions. Developers should flag metros with friendly zoning/permitting for data center projects as emerging demand drivers, and anticipate multifamily supply shortages if data center approvals slow."
+      "summary": "North America's data center demand reached an all-time high in the first half of 2026, with 25 gigawatts of absorption—double the prior-year level and five times the level from two years prior. JLL's report attributes the surge to hyperscalers, neoclouds, and pure-play AI companies competing for limited capacity. However, a 65-point gap between American support for U.S. AI leadership (79%) and support for local data center development (14%) threatens to constrain the infrastructure buildout needed to sustain AI competitiveness.",
+      "impact": "INDIRECT but MATERIAL for multifamily. Explosive data center demand growth signals massive corporate capex, tech job creation, and population in-migration to data center hubs (TX, AZ, VA, NC, OH). However, community resistance to data centers—due to electricity, water, and noise externalities—will create planning friction and may slow residential supply in data center corridors. This creates a mismatch: strong job/migration demand in data center regions, but local NIMBYism around industrial/energy infrastructure limits overall regional capacity. Multifamily developers should monitor which metros overcome community friction; those that do will see accelerated rental demand and rent growth."
     },
     {
       "title": "Cedarwood Building 272-Unit Celina Rental Community",
@@ -107,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-08-11T17:17:22+00:00",
       "bullets": [
-        "Cedarwood Companies starting construction on Topaz at Light Farms Way, 272-unit multifamily community in Celina, Texas.",
-        "Mix of studios, one-bedroom, two-bedroom units; amenities include cybercafé clubhouse, pool, fitness, dog park, car care, walking trails.",
-        "Residents expected summer 2027; Celina is DFW exurb with strong population growth trajectory supporting new supply."
+        "Cedarwood Companies building Topaz at Light Farms Way: 272-unit community in Celina, Texas (Dallas exurb).",
+        "Mix of studio, 1-bed, 2-bed units; amenities include cybercafé, pool, fire pit, fitness, dog park, pet spa, car care, trails.",
+        "Construction beginning soon; lease-up expected summer 2027; Cedarwood expanding into senior living and self-storage."
       ],
-      "summary": "Cedarwood Companies is advancing construction on Topaz at Light Farms Way, a 272-unit multifamily community in Celina, Texas, featuring studio, one-bedroom, and two-bedroom apartments. Amenities include a clubhouse with cybercafé, pool with fire pit, fitness center, dog park with pet spa, playground, car care center, and walking trails. Move-ins are expected to begin in summer 2027. Cedarwood, founded in 1972, has expanded its portfolio to include senior living and self-storage.",
-      "impact": "Celina (Collin County, north Dallas exurb) is a high-growth satellite market attracting families and remote workers seeking affordable space and new construction. This 272-unit delivery adds to DFW's supply pipeline in a submarket experiencing rapid appreciation; monitor absorption pace to confirm demand keeps pace with new completions. If Celina stabilizes strongly, it signals expansion opportunity for competitors in similar DFW and North Texas exurb corridors."
+      "summary": "Cedarwood Companies is advancing Topaz at Light Farms Way, a 272-unit multifamily community in Celina, Texas (a Dallas-area exurb). The development will include studio, one-bedroom, and two-bedroom apartments with amenities such as a clubhouse, cybercafé, pool with fire pit, fitness center, dedicated dog park with pet spa, playground, car care center, and walking trails. Construction is set to begin soon, with resident move-ins expected in summer 2027.",
+      "impact": "MODEST SUPPLY SIGNAL for Dallas exurbs. 272 units in Celina indicates developer confidence in Dallas-area outward migration and exurban growth (Celina is ~30 miles north, car-dependent). However, scale is small relative to core Dallas-Plano supply. Topaz's feature set (cybercafé, pet spa, amenity density) targets middle-income families and remote workers seeking suburban lifestyle. Watch Cedarwood's lease-up velocity to gauge true demand in lower-density Dallas exurbs vs. core metroplex. No immediate supply-glut concern, but further signals outward sprawl pressure if pipeline in Celina, Frisco, etc. accelerates."
     },
     {
       "title": "Too Big to Burn: L.A. Takes Harder Look at Megawarehouses After Cold Storage Fire",
@@ -122,57 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-11T17:15:25+00:00",
       "bullets": [
-        "Lineage Cold Storage warehouse fire, Boyle Heights Los Angeles, June 17; nearly 4,000 odor complaints to SCAQMD.",
-        "L.A. Mayor Bass cited 'tens of millions of pounds of rotting food,' pest infestation in adjacent residential neighborhoods.",
-        "City now scrutinizing megawarehouse siting; rebuilt facility and zoning for future projects may face new restrictions or setbacks."
+        "Lineage cold-storage warehouse fire (Boyle Heights, LA, June 17) destroyed ~500k SF, triggered ~4,000 odor complaints to SCAQMD.",
+        "LA Mayor Bass highlighted rotting food, pest infestation, community health crisis; city now scrutinizing megawarehouse zoning and siting.",
+        "Lineage planned to rebuild; LA considering tighter regulations on warehouse-residential adjacency and emergency response protocols."
       ],
-      "summary": "A Lineage Cold Storage megawarehouse in Boyle Heights, Los Angeles, caught fire on June 17, releasing odor complaints (nearly 4,000 lodged with SCAQMD) and drawing attention to the facility's proximity to residential neighborhoods. L.A. Mayor Karen Bass cited the 'unbearable' odor from tens of millions of pounds of rotting food and resulting pest infestation. Local leaders are now expressing significant concern about megawarehouses adjacent to residential areas, and Lineage's plans to rebuild are facing heightened scrutiny.",
-      "impact": "This event is NOT directly relevant to multifamily development but signals tightening land-use regulation in L.A. that could indirectly constrain industrial and logistics growth near residential zones, potentially limiting job growth in those submarkets. However, if city tightens warehouse siting, it may preserve or upgrade nearby residential submarkets (e.g., Boyle Heights, East L.A.) by reducing industrial nuisance, potentially creating uplift demand for apartment redevelopment or new infill multifamily. Monitor L.A. zoning amendments and their impact on industrial land supply and neighborhood residential desirability."
-    },
-    {
-      "title": "Northwestern Mutual Provides $110M Perm Loan for Jersey City Multifamily Tower",
-      "link": "https://commercialobserver.com/2026/08/northwestern-mutual-jersey-city-apartments/",
-      "excerpt": "A joint venture between Spitzer Enterprises and Arden Group has sealed $109.5 million of permanent financing for a newly-built multifamily tower in Jersey City, Commercial Observer can first report. Northwestern Mutual supplied the loan to retire construction debt following the lease-up and stabilization of 2024-completed, 390-unit 425 Summit development in Jersey City’s Journal Square neighborhood. CBRE arranged the transaction with a debt &amp; structured finance team consisting of Matthew Pizzolato, Jason Gaccione, Jake Salkovitz, Shawn Rosenthal, Josh Stein and Carlos Silva. &#8220;425 Summit represented a compelling opportunity to finance a recently stabilized, institutional-quality multifamily asset in one of the region&#8217;s most dynamic residential markets,&#8221; Pizzolato said in a statement. &#8220;Because of the property&#8217;s exceptional transit connectivity, quality construction, strong operating performance and experienced sponsorship, there was no shortage of interest from the lending community.&#8221; Located at 425 Summit Avenue less than a half mile from the Journal Square Path station, the 27-story building has studio to three-bedroom apartments and is 98 percent leased, according to CBRE. The property has ground-floor retail space along with community amenities that include a fitness center, coworking lounge, golf simulator and pet spa. Northwestern Mutual, Spitzer Enterprises and Arden Group did not immediately return requests for comment. Andrew Coen can be reached at acoen@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-11T17:10:31+00:00",
-      "bullets": [
-        "Northwestern Mutual provided $109.5M permanent financing for Spitzer Enterprises/Arden Group's 425 Summit, Jersey City, 390 units.",
-        "2024-completed, 390-unit development in Journal Square, Jersey City; transit-connected, recently stabilized and lease-up.",
-        "CBRE arranged; lenders cited institutional-quality asset, experienced sponsorship, strong operating performance; fixed-rate perm loan retires construction debt."
-      ],
-      "summary": "A joint venture between Spitzer Enterprises and Arden Group closed $109.5M in permanent financing from Northwestern Mutual for 425 Summit, a newly-completed, 390-unit multifamily tower in Jersey City's Journal Square neighborhood. The loan retires construction debt following lease-up and stabilization in 2024. CBRE arranged the transaction, citing the property's exceptional transit connectivity, quality construction, strong operating performance, and experienced sponsorship.",
-      "impact": "Jersey City Journal Square has become a financing magnet for institutional lenders—permanent debt on 390-unit, class-A, transit-accessible multifamily closes readily at scale, signaling strong rent fundamentals and low-risk operational profile. This signals cap-rate compression in Jersey City Core and continued flight-to-quality in the region. Developers should prioritize transit-connected Jersey City sites; non-transit assets or secondary markets may face refinance or acquisition headwinds."
-    },
-    {
-      "title": "VanTrust Starts Work on 512K-SF McKinney Warehouse Venture",
-      "link": "https://www.connectcre.com/stories/vantrust-starts-work-on-512k-sf-mckinney-warehouse-venture/",
-      "excerpt": "VanTrust Real Estate has begun construction on Phase 1 of 121 Commerce Park, the company&#8217;s first industrial park in McKinney. Phase 1 will include more than 512,000 square feet of Class A industrial space across two speculative buildings. Phase 1 includes Building A, totaling 242,393 square feet, and Building B, totaling 270,479 square feet. Both buildings are designed with flexible single- or multi-tenant configurations. Completion is anticipated in the second quarter of 2027. Situated on 42 acres at the northwest corner of Tina Drive and SH-121, 121 Commerce Park offers direct access to U.S. 75, State Highway 121/Sam Rayburn Tollway and Highway 380, with convenient proximity to McKinney National Airport. Future plans also call for an additional 250,000 square feet of build-to-suit industrial space in Phase 2 . JLL’s Kurt Griffin and Nathan Orbin market the project. VanTrust has selected Evans General Contractors, GSR Andrade Architects and Kimley-Horn to support the development of 121 Commerce Park. The post VanTrust Starts Work on 512K-SF McKinney Warehouse Venture appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-11T16:55:00+00:00",
-      "bullets": [
-        "VanTrust Real Estate began Phase 1 of 121 Commerce Park, McKinney, Texas: 512,000 SF industrial space across two buildings.",
-        "Building A: 242,393 SF; Building B: 270,479 SF; flexible single/multi-tenant; completion Q2 2027; future Phase 2: 250,000 SF.",
-        "Located 42 acres, northwest corner Tina Drive/SH-121; direct access U.S. 75, SH-121/Sam Rayburn Tollway, Highway 380, McKinney National Airport."
-      ],
-      "summary": "VanTrust Real Estate began construction on Phase 1 of 121 Commerce Park, its first industrial park in McKinney, Texas. Phase 1 includes 512,000 SF of Class A industrial space across two speculative buildings (242K SF Building A, 270K SF Building B) with flexible single- or multi-tenant configurations. Completion is anticipated in Q2 2027. The 42-acre site offers direct access to U.S. 75, SH-121, and Highway 380, with proximity to McKinney National Airport. Phase 2 will add up to 250,000 SF of build-to-suit industrial space.",
-      "impact": "NOT directly multifamily-relevant, but McKinney is a logistics and light-industrial hub feeding DFW growth. Industrial buildout signals job creation and employer activity; if tenants occupy Phase 1 and expand into Phase 2, McKinney will see wage-earning worker in-migration supporting apartment demand. Monitor lease-up pace and tenant profiles (3PLs, last-mile, manufacturing) to forecast multifamily demand in McKinney's rental market."
-    },
-    {
-      "title": "Value, Nostalgia and Gas Prices Shape Store Traffic in 2026",
-      "link": "https://www.connectcre.com/stories/value-nostalgia-and-gas-prices-shape-store-traffic-in-2026/",
-      "excerpt": "With gas prices climbing sharply, inflation on the rise again, and economic uncertainty weighing on discretionary budgets, the first half of 2026 put consumers to the test, Placer.ai reports in a new white paper. However, the impact of more pain at the pump was not as generalized as one might think. In the new white paper, The Forces Shaping Consumer Traffic in 2026, Placer.ai notes that higher gas prices reshuffled consumer activity rather than merely slowing it down. Dining establishments were hit harder than brick-and-mortar retailers, although long-distance destination retail felt some of the impact. The white paper also examines how the value proposition is driving both store traffic and growth in store traffic. At the same time, nostalgia for early 2000s mall mainstays is also powering growth for the brands in a position to capitalize on it. &#8220;Barnes &amp; Noble may have been the original heritage brand comeback story, and its continued strength in H1 2026 suggests the nostalgia wave has yet to reach its peak,&#8221; Placer.ai reports. The post Value, Nostalgia and Gas Prices Shape Store Traffic in 2026 appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-11T16:48:13+00:00",
-      "bullets": [
-        "H1 2026: gas prices climbing, inflation rising, economic uncertainty weighing on consumer discretionary budgets per Placer.ai.",
-        "Higher gas prices reshuffled consumer activity; dining establishments hit harder than brick-and-mortar retail; long-distance destination retail also impacted.",
-        "Value proposition and nostalgia (early 2000s mall brands, e.g., Barnes & Noble resurgence) driving traffic growth among some retailers."
-      ],
-      "summary": "Placer.ai reports that H1 2026 consumer traffic was shaped by gas price increases, rising inflation, and economic uncertainty. Higher fuel costs did not uniformly slow foot traffic; instead, they reshuffled consumer activity—dining establishments were hit harder than brick-and-mortar retailers, while long-distance destination retail felt some impact. The report notes that value proposition and nostalgia for early 2000s mall anchors (e.g., Barnes & Noble) are powering traffic growth for brands positioned to capitalize.",
-      "impact": "NOT directly multifamily-relevant, but signals consumer income stress (rising inflation, gas costs, uncertainty) could soften rental demand in discretionary-focused markets if household formation or mobility slows. However, value-seeking behavior is positive for workforce and middle-income multifamily. Monitor regional employment and wage growth; if consumer traffic patterns reveal geographic spending weakness, multifamily demand may soften in those metros. Conversely, value-oriented retail growth may correlate with stable workforce housing demand in cost-conscious submarkets."
+      "summary": "A massive warehouse fire at a Lineage cold storage facility in Boyle Heights, Los Angeles, on June 17 destroyed approximately half a million square feet and sparked nearly 4,000 odor complaints. The burned-out facility has released a putrid smell of rotting meat and other food, prompting LA Mayor Karen Bass to highlight the public health crisis and pest infestation affecting adjacent residential neighborhoods. LA is now conducting stricter scrutiny of megawarehouse projects and their proximity to residential communities.",
+      "impact": "ZONING AND REGULATORY RISK for LA residential development. The Lineage fire will likely prompt stricter municipal controls on large warehouse siting, setbacks from residential, and emergency protocols—potentially capping industrial-zone expansion near dense neighborhoods. However, the reverse effect is bullish for multifamily near existing residential cores (central LA, east LA neighborhoods): reduced industrial encroachment and land-use conflict enhance livability, reduce noise/odor/pest issues, and support premium rental positioning. Watch for LA City Council rezoning actions; stricter warehouse rules may tighten industrial land supply and push logistics operators (and associated job growth) to other SoCal counties (SGV, IE, OC), fragmenting LA's distribution advantage and weakening some corridor job density. Net effect: less supply risk for LA multifamily, but potential demand softness if warehousing jobs migrate outward."
     }
   ]
 }
