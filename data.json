@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-11T16:48:15.167695+00:00",
+  "fetchedAt": "2026-08-11T17:50:20.646882+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -10,27 +10,124 @@
     {
       "label": "10Y Treasury",
       "value": "4.69%",
-      "pct": -0.28
+      "pct": -0.23
     },
     {
       "label": "30Y Treasury",
       "value": "5.24%",
-      "pct": -0.15
+      "pct": -0.13
     },
     {
       "label": "REIT Index (VNQ)",
       "value": "96.89",
-      "pct": -0.23
+      "pct": -0.22
     }
   ],
   "stories": [
+    {
+      "title": "Too Big to Burn: L.A. Takes Harder Look at Megawarehouses After Cold Storage Fire",
+      "link": "https://commercialobserver.com/2026/08/la-lineage-fire-boyle-heights-industrial-warehouse-cold-storage/",
+      "excerpt": "A person rides a bicycle as a massive warehouse fire at a Lineage cold storage facility burns on June 20 in Los Angeles. PHOTO: Mario Tama/Getty Images The smells still coming from the husk of the Lineage Cold Storage warehouse, which caught fire in the Boyle Heights neighborhood of Los Angeles on June 17, defy common description. Nearly 4,000 odor complaints have been lodged with the South Coast Air Quality Management District (SCAQMD), with various descriptions of the putrid smell of rotting meat and other food. During a SCAQMD hearing in August, L.A. Mayor Karen Bass said “the putrid offensive odor coming from the tens of millions of pounds of rotting food in the warehouse is unbearable. … Now flies, rats and other pests have infested the community.” In addition to picking up the funky scent, local leaders are also starting to express significant concern and unease around these projects, and their location adjacent to residential neighborhoods. When Lineage submitted plans to rebuild the half-million-square-foot building in late July, it led to outcry from L.A. leaders. In that same SCAQMD statement, Mayor Bass, who issued an emergency executive order placing a hold on rebuilding until cleanup is complete, urged the SCAQMD to hold Lineage “accountable to the maximum extent of the law. That includes fines, effective mitigation, and a complete and thorough cleanup,” including “maximum penalties for the ongoing air quality violations, including maximum financial fines.” Councilmember Ysabel Jurado has advocated for a suite of environmental justice ordinances in wake of the fire, including an ordinance that would prohibit locating new cold storage warehouses anywhere near school, daycares and other sensitive sites. Protesters march towards Stevenson Middle School where a meeting is held about the status of recovery efforts from the 8-day fire at Lineage&#8217;s cold-storage warehouse in Los Angeles. PHOTO: Etienne Laurent / Los Angeles Times via Getty Images “I’ve sa",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-11T17:15:25+00:00",
+      "bullets": [
+        "Lineage cold storage fire in Boyle Heights, LA June 17; 4,000+ odor complaints lodged",
+        "LA Mayor Bass and local leaders voicing opposition to megawarehouses near residential zones",
+        "Regulatory scrutiny and community pushback may tighten zoning, entitlements for future industrial projects"
+      ],
+      "summary": "A major cold storage facility fire in Los Angeles' Boyle Heights neighborhood sparked nearly 4,000 odor complaints and intensified local political opposition to large warehouses adjacent to residential areas. LA Mayor Karen Bass publicly criticized the project, citing pest infestations and unbearable odors from tens of millions of pounds of rotting food. The incident is prompting city leadership to reconsider permit approvals and siting rules for megawarehouses in mixed-use neighborhoods.",
+      "impact": "In Los Angeles, expect slower permitting timelines and stricter conditional-use requirements for large industrial/logistics projects near residential neighborhoods. This may push future supply-chain infrastructure to more remote, less-dense submarkets or delay speculative industrial development, tightening industrial real estate availability and potentially raising logistics costs for last-mile tenants—indirectly reducing apartment demand in some LA neighborhoods if supply-chain jobs relocate or stall."
+    },
+    {
+      "title": "Northwestern Mutual Provides $110M Perm Loan for Jersey City Multifamily Tower",
+      "link": "https://commercialobserver.com/2026/08/northwestern-mutual-jersey-city-apartments/",
+      "excerpt": "A joint venture between Spitzer Enterprises and Arden Group has sealed $109.5 million of permanent financing for a newly-built multifamily tower in Jersey City, Commercial Observer can first report. Northwestern Mutual supplied the loan to retire construction debt following the lease-up and stabilization of 2024-completed, 390-unit 425 Summit development in Jersey City’s Journal Square neighborhood. CBRE arranged the transaction with a debt &amp; structured finance team consisting of Matthew Pizzolato, Jason Gaccione, Jake Salkovitz, Shawn Rosenthal, Josh Stein and Carlos Silva. &#8220;425 Summit represented a compelling opportunity to finance a recently stabilized, institutional-quality multifamily asset in one of the region&#8217;s most dynamic residential markets,&#8221; Pizzolato said in a statement. &#8220;Because of the property&#8217;s exceptional transit connectivity, quality construction, strong operating performance and experienced sponsorship, there was no shortage of interest from the lending community.&#8221; Located at 425 Summit Avenue less than a half mile from the Journal Square Path station, the 27-story building has studio to three-bedroom apartments and is 98 percent leased, according to CBRE. The property has ground-floor retail space along with community amenities that include a fitness center, coworking lounge, golf simulator and pet spa. Northwestern Mutual, Spitzer Enterprises and Arden Group did not immediately return requests for comment. Andrew Coen can be reached at acoen@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-11T17:10:31+00:00",
+      "bullets": [
+        "Northwestern Mutual provides $109.5M permanent loan for 390-unit 425 Summit, Jersey City",
+        "Spitzer Enterprises/Arden Group project stabilized in 2024; strong transit connectivity cited",
+        "Debt availability signals lender confidence in Jersey City multifamily fundamentals and lease-up"
+      ],
+      "summary": "Spitzer Enterprises and Arden Group secured a $109.5 million permanent loan from Northwestern Mutual for 425 Summit, a 390-unit newly completed tower in Jersey City's Journal Square neighborhood. The transaction closed following lease-up and stabilization of the 2024-completed asset. Lenders cited exceptional transit connectivity, strong operating performance, and experienced sponsorship as drivers of competitive financing interest.",
+      "impact": "Jersey City Journal Square continues to attract institutional capital for multifamily at strong underwriting metrics, validating the submarket's demand fundamentals tied to PATH transit access and waterfront proximity. This signals confidence in Northeast Corridor multifamily and may encourage follow-on development starts in Journal Square and adjacent Journal Square sites, increasing competitive pressure on rents and accelerating absorption timelines."
+    },
+    {
+      "title": "Comcast Advertising Signs 140K-SF Lease at 1540 Broadway",
+      "link": "https://commercialobserver.com/2026/08/comcast-advertising-lease-1540-broadway/",
+      "excerpt": "A major media company is moving its advertising headquarters to Broadway. Comcast Advertising, the advertising sales and technology division of Comcast, has signed a 140,000-square-foot lease at 1540 Broadway, owned by GFP Real Estate and BDT &amp; MSD Partners. The deal represents a relocation for Comcast from 55 West 46th Street, according to the landlords, which landed a couple other tenants at 1540 Broadway recently as well. The asking rent and the length of the lease were not disclosed, but the average office asking rent in Midtown at the end of the second quarter of 2026 was $86.18 per square foot, according to a report from CBRE. &#8220;The decision by Comcast and others to locate their employees here reflects what we&#8217;re hearing throughout the market – companies continue to prioritize high-quality office environments that help attract talent, foster collaboration and support long-term growth,” GFP Development CEO Brian Steinwurtzel, who oversaw a $150 million repositioning of the property, said in a statement. “With additional transactions in advanced discussions, we expect the remaining space to be substantially leased by year-end.&#8221; GFP’s Allen Gurevich represented ownership in-house alongside JLL’s Clark Finney, Frank Doyle, Mike Pallas and Carlee Palmer. Gabe Marans, Jay Joyce and Greg Bante of Savills negotiated on behalf of Comcast. Savills did not immediately respond to a request for comment. &#8220;Tenants continue to gravitate toward buildings that combine exceptional ownership, modern amenities, efficient floor plates and premier accessibility, and 1540 Broadway has emerged as one of the strongest examples of that trend,&#8221; Finney said in a statement. The Comcast lease was revealed in a CBRE office report for the month of July, but details were scarce. Other new tenants in the building on West 45th Street between Avenue of the Americas and Broadway include equity investment firm Metalmark Capital, which signed a 9,314-square-foot leas",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-11T17:10:23+00:00",
+      "bullets": [
+        "Comcast Advertising relocates to 1540 Broadway, Manhattan; 140K SF lease signed",
+        "GFP completed $150M repositioning; tenant relocation from 55 W. 46th Street",
+        "Midtown office asking rents ~$86/SF (Q2 2026); major tenant commitments support office stabilization"
+      ],
+      "summary": "Comcast Advertising, the ad sales and technology division of Comcast, signed a 140,000-square-foot lease at 1540 Broadway in Midtown Manhattan, relocating from West 46th Street. The landlords, GFP Real Estate and BDT & MSD Partners, completed a $150 million repositioning of the property and are landing additional tenants. The deal reflects tenant appetite for high-quality office space to attract talent and support long-term growth despite macro headwinds.",
+      "impact": "While this is an office transaction, it's secondary relevance to multifamily developers: major media/tech employer consolidation and repositioning in Midtown signals continued job concentration in Manhattan, sustaining white-collar residential demand in nearby submarkets (e.g., Upper West Side, Downtown Brooklyn, Long Island City). However, office-to-residential conversion opportunities in Midtown remain capital-efficient if landlords face sustained vacancy; this lease suggests Class-A office still absorbs institutional tenants, reducing near-term conversion urgency."
+    },
+    {
+      "title": "Value, Nostalgia and Gas Prices Shape Store Traffic in 2026",
+      "link": "https://www.connectcre.com/stories/value-nostalgia-and-gas-prices-shape-store-traffic-in-2026/",
+      "excerpt": "With gas prices climbing sharply, inflation on the rise again, and economic uncertainty weighing on discretionary budgets, the first half of 2026 put consumers to the test, Placer.ai reports in a new white paper. However, the impact of more pain at the pump was not as generalized as one might think. In the new white paper, The Forces Shaping Consumer Traffic in 2026, Placer.ai notes that higher gas prices reshuffled consumer activity rather than merely slowing it down. Dining establishments were hit harder than brick-and-mortar retailers, although long-distance destination retail felt some of the impact. The white paper also examines how the value proposition is driving both store traffic and growth in store traffic. At the same time, nostalgia for early 2000s mall mainstays is also powering growth for the brands in a position to capitalize on it. &#8220;Barnes &amp; Noble may have been the original heritage brand comeback story, and its continued strength in H1 2026 suggests the nostalgia wave has yet to reach its peak,&#8221; Placer.ai reports. The post Value, Nostalgia and Gas Prices Shape Store Traffic in 2026 appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-11T16:48:13+00:00",
+      "bullets": [
+        "Rising gas prices, inflation reshape consumer traffic H1 2026; not uniform slowdown across sectors",
+        "Dining hit harder than brick-and-mortar retail; nostalgia-driven brands (e.g., Barnes & Noble) growing",
+        "Consumer discretionary spending pressured but reallocation evident; value proposition driving traffic"
+      ],
+      "summary": "Higher gas prices and inflation in H1 2026 reshaped consumer spending patterns rather than uniformly slowing traffic, according to Placer.ai. Dining establishments absorbed more impact than retail, while destination retail faced headwinds. Brands leveraging value propositions and nostalgia—notably Barnes & Noble—continued to grow store traffic despite macro pressure on discretionary budgets.",
+      "impact": "Minimal direct impact to multifamily development strategy. Indirectly, sustained consumer spending pressure may dampen household formation and rent growth in secondary/tertiary markets where wage growth lags inflation; in prime coastal metros with strong job markets, renter demand remains resilient. Monitor rent growth in non-coastal markets through 2026–27 for softening signals that could delay development starts in weaker-demand corridors."
+    },
+    {
+      "title": "Halo Vista Team Kicks Off Phase I of TSMC-Area Warehouse Project",
+      "link": "https://www.connectcre.com/stories/halo-vista-team-kick-off-phase-i-of-tsmc-area-warehouse-project/",
+      "excerpt": "Mack Real Estate Group (MREG) and McCourt Partners are kicking off Phase I of an industrial project within Halo Vista, a 2,400-acre master-planned community in North Phoenix, not far from the Taiwan Semiconductor Manufacturing Company plant. Designed by Ware Malcomb, Phase I is planned to include seven buildings totaling more than 780,000 square feet. The facilities will offer flexible layouts, with individual buildings ranging from 43,000 to 203,000 square feet, to accommodate uses such as high-tech manufacturing and supply chain logistics. The broader multi-phase plan contemplates approximately 2.5 million square feet of industrial development. “Our target occupiers will be TSMC suppliers and service providers, as well as other advanced manufacturing companies seeking to benefit from the high-tech manufacturing talent and ecosystem created by proximity to Taiwan Semiconductor,” said Richard Mack, CEO of Mack Real Estate Group. Site development for the industrial buildings is anticipated to commence in the 4th quarter of 2026. CBRE will serve as leasing and sales agent. The post Halo Vista Team Kicks Off Phase I of TSMC-Area Warehouse Project appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-11T16:39:31+00:00",
+      "bullets": [
+        "Mack Real Estate Group, McCourt Partners kick off Phase I near TSMC plant, North Phoenix",
+        "Phase I: 780K SF across 7 buildings (43K–203K SF ea.); 2.5M SF multi-phase plan total",
+        "Target occupiers: TSMC suppliers, advanced manufacturing; site development Q4 2026 start"
+      ],
+      "summary": "Mack Real Estate Group and McCourt Partners have commenced Phase I of Halo Vista, a 2,400-acre master-planned community in North Phoenix near TSMC's semiconductor plant. Phase I comprises seven buildings totaling 780,000 square feet with flexible layouts for high-tech manufacturing and logistics. The broader project envisions 2.5 million square feet of industrial development targeting TSMC suppliers and advanced manufacturing tenants; site work is slated to begin Q4 2026.",
+      "impact": "TSMC's Phoenix fab and its 2025+ ramp is a major structural demand driver for North Phoenix industrial and ancillary residential. This supply-chain campus development will attract mid-to-senior manufacturing engineers, logistics managers, and service technicians to the metro, expanding rental demand in North Phoenix submarkets and extending the commute shed. Multifamily developers should acquire land in a 5–10 mile radius of TSMC and the Halo Vista industrial corridor to capture influx from suppliers/service providers; rents in North Phoenix will accelerate 2027–28 as Phase I operationalizes."
+    },
+    {
+      "title": "Kroger Out, Sprouts In at Houston’s Hedwig Village",
+      "link": "https://www.connectcre.com/stories/kroger-out-sprouts-in-at-houstons-hedwig-village/",
+      "excerpt": "A former Kroger location in Hedwig Village is being transformed into a Sprouts Farmers Market. The store is currently scheduled to open in 2027. The Houston Business Journal reports construction crews are renovating the 46,268-square-foot former Kroger space at 9325 Katy Freeway in the Echo Lane shopping center. Sprouts will take up approximately half the building. The other half is available. Boucher Design Group is the design firm for the project. Smithco bought the center in 2020. The center, built in 1974 is on 12 acres and has nearly 150,000 square feet under roof. The specialty grocer debuted in the Houston area in 2013 with its first local store at 23105 Cinco Ranch Blvd., off the Grand Parkway in the Katy area. Sprouts opened four that year; one has since closed. The post Kroger Out, Sprouts In at Houston’s Hedwig Village appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-11T16:33:10+00:00",
+      "bullets": [
+        "Sprouts Farmers Market taking 23K SF of former 46.3K SF Kroger at Echo Lane, Houston",
+        "Kroger vacated; Sprouts opening 2027; remainder of space available for lease",
+        "Specialty grocer has grown Houston footprint since 2013 debut; center built 1974, 150K SF total"
+      ],
+      "summary": "A former Kroger location in the Echo Lane shopping center in Hedwig Village, Houston is being redeveloped for Sprouts Farmers Market, which will occupy approximately 23,000 of the 46,268 square feet. Sprouts is scheduled to open in 2027. The specialty grocer has been expanding in Houston since 2013 and will occupy half the former Kroger space, leaving the other half available for lease.",
+      "impact": "Minimal direct relevance to multifamily development. Indirectly, Sprouts' expansion in Houston reflects continued foot-traffic retail adaptation and the viability of non-traditional grocery concepts in suburban markets; this may support apartment demand in suburban nodes like Hedwig Village if retail/service amenity diversity improves walkability. However, this is a single-unit retrofit; broader market implication is weak."
+    },
     {
       "title": "In Commercial Real Estate, a Plausible Answer From AI Is Not Enough",
       "link": "https://commercialobserver.com/2026/08/commercial-real-estate-parsing-ai/",
       "excerpt": "Artificial intelligence can now produce work that looks remarkably finished. It can summarize a lease, review a rent roll, draft an investment committee memo and explain a change in occupancy in polished language. That creates a new problem for commercial real estate firms: A document can look ready long before it is safe to use. For an asset manager, controller or acquisitions professional, the test is not whether an answer reads well but whether the person receiving it can defend the work. Where did the number come from? Was it pulled from the current rent roll or an older version? Does “occupancy” mean leased, physically occupied or economically occupied? Were the calculations independently checked? What happens when the system is unsure? Arunabh Dastidar. Photo: Courtesy Leni. Those questions are becoming more important as AI moves beyond drafting and begins completing longer sequences of work. Consider a routine request: “Send the Monday operating report.” To a person, that instruction carries a great deal of unstated knowledge. The report must use the correct reporting period, property list and accounting data. It may need to flag certain variances but ignore others. Some information may be available to the asset management team, but restricted from other recipients. The finished document may also require review before it leaves the company. The request sounds like one task. In practice, it is a series of decisions. That distinction matters because each individual step can appear reasonable while the final result is wrong. An AI system may retrieve a document, summarize it, add figures to a spreadsheet and prepare an email. But, if it selects an outdated file or sends the report to the wrong distribution list, the fact that every individual step worked correctly offers little comfort. Commercial real estate is particularly unforgiving of this kind of error. A report can be professionally written and still contain a bad entity mapping, an incorrect date or a fo",
       "source": "Comm. Observer",
       "cat": "Commercial",
-      "date": "2026-08-11T16:30:37+00:00"
+      "date": "2026-08-11T16:30:37+00:00",
+      "bullets": [
+        "AI-generated CRE documents (rent rolls, memos, reports) risk accuracy/audit defects if unsupervised",
+        "Key risk: AI outputs appear polished but lack verifiable source data and logic checks",
+        "Firms must establish governance: data provenance, variance flagging, uncertainty documentation"
+      ],
+      "summary": "AI systems can now produce polished commercial real estate documents—rent rolls, operating reports, investment memos—that appear ready before accuracy and data integrity are verified. The technology poses risk when stakeholders trust presentation quality rather than validating source data, calculation methodology, and awareness of system limitations. CRE firms are learning that governance, audit trails, and explicit uncertainty flagging are critical before AI-generated outputs inform capital decisions.",
+      "impact": "No direct market impact. For development teams: validate all AI-assisted underwriting outputs (pro formas, market analysis, rent growth assumptions) by re-tracing data sources and calculations; do not rely on AI summaries for acquisition memos or financial models without human verification. This is an operational/risk-control issue, not a market signal."
     },
     {
       "title": "Wells Fargo Provides $175M Construction Loan for Queens Mixed-Use Development",
@@ -40,20 +137,12 @@
       "cat": "Commercial",
       "date": "2026-08-11T15:25:48+00:00",
       "bullets": [
-        "Wells Fargo funds $175M construction loan for Domain Companies' 429-unit Elara in Queens Astoria",
-        "Mixed-income development follows Domain's 499-unit Jasper waterfront completion in early 2025",
-        "Strong housing demand and population growth cited as underwriting drivers in Queens"
+        "Wells Fargo provides $175M construction loan for Domain Companies' Elara, Queens; 429 units mixed-income",
+        "Two-building project in Astoria; Domain also operates Jasper (499 units, opened 2025 waterfront)",
+        "Astoria population growth and affordable housing focus cited as demand fundamentals"
       ],
-      "summary": "Domain Companies secured $175 million in construction financing from Wells Fargo for Elara, a two-building, 429-unit mixed-income development in Astoria, Queens, with equity from Canyon Partners Real Estate and BLDG Management. The deal reflects continued affordable housing development momentum in NYC and follows Domain's successful 2025 delivery of Jasper, a 499-unit complex on the Queens waterfront. Lender and equity partners cited Astoria's population growth and strong housing fundamentals as core underwriting drivers.",
-      "impact": "Queens waterfront and Astoria submarkets show sustained rental demand strength sufficient to attract institutional capital (Wells Fargo, Canyon Partners) into mixed-income product. Domain's back-to-back deliveries signal operator confidence in the borough's absorbability; developers should monitor Astoria-LIC rent growth and occupancy trends to time future acquisitions ahead of further population in-migration."
-    },
-    {
-      "title": "Architecture and Design Firm SWA Group Inks 6K SF at 381 Park Avenue South",
-      "link": "https://commercialobserver.com/2026/08/swa-group-lease-381-park-avenue-south/",
-      "excerpt": "Architecture and design firm SWA Group has signed a 5,789-square-foot lease at Olmstead Properties’ 381 Park Avenue South in Midtown South, the landlord announced Tuesday. The 10.5-year lease for the global landscape architecture, planning and urban design firm will stretch across part of the building’s 12th floor. SWA — which did not immediately respond to Commercial Observer’s request for comment — will relocate from 31 West 27th Street. The exact asking rent was not disclosed, but Olmstead did note that asking rent in the building averages $75 per square foot. SWA was represented by Janet Liff from J. Liff Co., while Steve Marvin and Jonathan Bock from Olmstead Properties represented ownership in the deal. Liff did not immediately respond to Commercial Observer’s request for comment. Meanwhile, Olmstead also announced Tuesday that health care products company On The Right Track Systems, backed by Riveria Investment Group, signed a new lease for 4,157 square feet on part of the 10th floor of 381 Park Avenue South, relocating from 99 Park Avenue. Riveria invested in the provider of proprietary hospital privacy curtains and health care industry track systems in February 2025. The lease runs for seven years and six months. Olmstead’s Marvin and Bock also represented ownership in that deal, while the tenant was represented by Arash Sadighi and Tyler Ruggieri from Venture Commercial NYC, as well as by Alan Rosinsky from Metro Manhattan Office Space. Olmstead has been seeing strong leasing momentum at 381 Park Avenue South as well as 373 Park Avenue South, bringing the two properties to about 99,000 square feet of new office and retail leases in the past eight months. Irish-American pub Stout NYC signed a lease for 13,900 square feet at the base of 373 Park Avenue South in May. &#8220;Companies continue to respond to thoughtfully designed prebuilt suites, upgraded common areas and an ownership team that moves quickly. With additional transactions in the pipeline, we&#82",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-11T15:22:35+00:00"
+      "summary": "Domain Companies secured $175 million in construction financing from Wells Fargo for Elara, a two-building, 429-unit mixed-income development in Astoria, Queens, with equity co-investment from Canyon Partners Real Estate and BLDG Management. The project follows Domain's 2025 opening of Jasper, a 499-unit waterfront complex in Queens. Lenders cited Astoria's population growth and strong housing demand as primary underwriting drivers.",
+      "impact": "Queens remains an attractive multifamily development market with construction financing available at scale for affordable/mixed-income projects. Domain's back-to-back delivery of Jasper (2025) and Elara (under construction) signals strong Queens rental demand and lender appetite for Astoria-specific assets. For competing developers in Queens, acquisition windows are narrowing; land costs and competition will rise 2026–27 as institutional capital chases population-growth tail winds in Long Island City, Astoria, and western Queens."
     },
     {
       "title": "B of A Pays $155M for Jacksonville Office Buildings",
@@ -61,7 +150,14 @@
       "excerpt": "Bank of America paid $155 million for five buildings and two parking garages that it had been leasing at its Southside Boulevard operations center campus. The banking giant acquired the property from Ladder Capital of New York City. Bank of America bought about 820,000 square feet of space spanning Buildings 200, 300, 400, 500 and 600 at the campus at 9000 Southside Blvd., north of The Avenues mall. The company has invested heavily in renovating the properties it bought. As part of the transaction, Bank of America will continue to lease about 78,000 square feet across three floors in Building 100, which is owned by Glenfield Capital of Atlanta. The Southside campus serves as one of Bank of America’s major operations hubs and supports more than 7,100 employees across its businesses, including consumer banking, wealth management, operations, technology, and staff and support functions. Bank of America remains the largest bank in metro Jacksonville with 23 branches. The post B of A Pays $155M for Jacksonville Office Buildings appeared first on Connect CRE.",
       "source": "Connect CRE",
       "cat": "Commercial",
-      "date": "2026-08-11T15:05:25+00:00"
+      "date": "2026-08-11T15:05:25+00:00",
+      "bullets": [
+        "Bank of America buys $155M Jacksonville office campus (820K SF, five bldgs) from Ladder Capital",
+        "Property is owned operations center for 7,100+ employees; strategic footprint for BofA",
+        "Largest bank in Jacksonville; lease continues for third-party-owned Building 100 (78K SF)"
+      ],
+      "summary": "Bank of America acquired approximately 820,000 square feet across five buildings and two parking garages at its Southside Boulevard operations center in Jacksonville for $155 million, buying from Ladder Capital. The property supports over 7,100 employees across multiple business lines and serves as a major operational hub. BofA will continue leasing additional space in a third-party-owned building, reinforcing its Jacksonville presence.",
+      "impact": "BofA's $155M commitment to own (rather than lease) its Jacksonville operations hub signals long-term employment concentration in the metro. This anchors 7,100+ jobs in the Southside corridor, supporting multifamily demand in nearby residential neighborhoods and suburban spine markets. Expect sustained professional-class rental demand in Ponte Vedra, Southside, and Ortega areas; this reduces uncertainty around white-collar job churn and supports mid-to-market-rate apartment fundamentals in Jacksonville through 2027–30."
     },
     {
       "title": "Florida Panthers, Broward County Exploring Entertainment District",
@@ -71,73 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-11T14:38:26+00:00",
       "bullets": [
-        "Broward County proposes 1,400 apartments + 600 hotel rooms around Florida Panthers arena in Sunrise",
-        "154-acre mixed-use entertainment district replaces parking, adds 1.62M SF office/education and 300K SF retail",
-        "Sunrise City Commission to vote; Panthers, county in early-stage exploration of 24/7 destination model"
+        "Florida Panthers, Broward County planning 154-acre entertainment district near Amerant Bank Arena, Sunrise",
+        "Proposal includes 1,400 apartments, 600 hotel rooms, 1.62M SF office/education, 300K SF retail",
+        "Development replaces parking lots; modeled on Battery Atlanta, Ballpark Village, L.A. Live precedents"
       ],
-      "summary": "Broward County has submitted a transformation plan for the 154-acre area surrounding the Florida Panthers' Amerant Bank Arena in Sunrise, proposing 1,400 apartments, 600 hotel rooms, 1.62 million square feet of office/education space, and 300,000 square feet of commercial uses, with much of the development replacing surface parking. The Panthers and local government are in early discussions; Sunrise City Commission will consider the proposal imminently. The concept mirrors successful stadium-anchored mixed-use districts like The Battery Atlanta and Ballpark Village.",
-      "impact": "This arena-anchored project would create a significant rental demand catalyst in the Sunrise/Broward submarket by concentrating workers, visitors, and residents around a major entertainment/employment anchor. If approved and financed, it represents a 1,400-unit supply inflow; developers should track entitlement timing and pre-leasing signals to assess whether competing projects should advance or delay starts. The model also signals that parking-heavy suburban campuses in South Florida are now developable as mixed-use infill."
-    },
-    {
-      "title": "ApartmentIQ Secures $25M Follow-On Funding Round",
-      "link": "https://commercialobserver.com/2026/08/apartmentiq-follow-on-funding-round/",
-      "excerpt": "Multifamily data company ApartmentIQ announced Tuesday that it has secured a $25 million follow-on funding round. Susquehanna Growth Equity (SGE) funded the follow-on after leading ApartmentIQ’s $22.5 million Series B financing in 2021, when the company was known as Rentable, a large national apartment marketplace. ApartmentIQ — which now bills itself as a real-time market intelligence, revenue management and AI platform for the multifamily sector — also announced that it had surpassed 8 million units in its customer base. “We are taking the data that powers our market survey platform we&#8217;ve been collecting and adding additional products,” said Alec Slocum, co-founder and CEO of ApartmentIQ about the follow-on founding round’s timing. “There&#8217;s two additional products that we&#8217;ve launched in the last nine months based on that same data. We call the first one Explore Pro, which is a market research tool used by acquisitions asset management teams to figure out where they should buy, build and redevelop. The second product we&#8217;ve launched is called Daylight. It&#8217;s a revenue management tool that&#8217;s powered by the public data that we&#8217;ve collected.” Alec Slocum. PHOTO: Courtesy ApartmentIQ Both products are currently tracking to surpass 1 million customer units in their first year. The SGE capital also triggered the launch of MavenAI, ApartmentIQ’s multifamily marketing agent, which represents the company’s first major step into agentic AI. MavenAI uses software to uncover insights and take action on behalf of operators, according to the company. In addition, the SGE funding will be used for continued hiring across ApartmentIQ’s engineering, data, product, and go-to-market teams. “The big headline for us in the agentic world is that there&#8217;s a lot of agentic companies coming together,” said Slocum. “Maven automates the marketing actions customers want to take and sits on top of the data from ApartmentIQ, but it integrates with the",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-11T14:13:14+00:00",
-      "bullets": [
-        "ApartmentIQ raises $25M Series C led by Susquehanna Growth Equity; surpasses 8 million units tracked",
-        "Launched Explore Pro (acquisition/asset management tool) and Daylight (revenue management) in past 9 months",
-        "Real-time market intelligence and AI platform increasingly central to multifamily underwriting workflows"
-      ],
-      "summary": "ApartmentIQ, a multifamily data and revenue management platform formerly known as Rentable, secured $25 million in Series C funding from Susquehanna Growth Equity, which also led the company's 2021 Series B at $22.5 million. The platform now covers 8 million units and has launched two new products in the past nine months: Explore Pro, a market research and site selection tool for acquisitions and asset management, and Daylight, a revenue management solution. CEO Alec Slocum emphasized the value of leveraging proprietary market survey data to power downstream products.",
-      "impact": "ApartmentIQ's funding and product velocity underscore that real-time market intelligence and AI-driven site selection are now table-stakes for institutional multifamily developers in underwriting and capital allocation. Explore Pro's traction suggests developer teams are increasingly relying on algorithmic/data-driven site selection over traditional broker and pro-forma analysis; teams without access to granular market data and predictive tools risk slower acquisition cycles and weaker conviction in site selection. This raises the cost of capital and competitive advantage for data-informed operators."
-    },
-    {
-      "title": "JLB Pursuing Buckhead Office-to-Apartments Conversion",
-      "link": "https://www.connectcre.com/stories/jlb-pursuing-buckhead-office-to-apartments-conversion/",
-      "excerpt": "JLB Partners plans to redevelop a seven-story building at 470 E. Paces Ferry Road in Buckhead Village. The Atlanta Business Chronicle reports the project consists of 314 apartments in what was once a mid-century office building. On Maple Drive, the 1960s-era office building is the longtime home of Logility Supply Chain Solutions. Aptean acquired Logility in 2025 and has maintained a small workforce in the building. A shopping center is directly south of the site, and various businesses operate out of older homes along Shadowlawn Avenue to the west. Additional retail is located to the north along Peachtree Road. Other condo and apartment buildings have risen all over the area, including the Camden Buckhead Square and Ashley Gables Buckhead developments. Future residents would be within walking distance of Buckhead Village District, the upscale mixed-use development spanning multiple city blocks. Construction on the proposed development could begin in summer 2027, pending permitting approval. The post JLB Pursuing Buckhead Office-to-Apartments Conversion appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-11T14:07:02+00:00",
-      "bullets": [
-        "JLB Partners converting 470 E. Paces Ferry Road (1960s office, 7-story) to 314 apartments in Buckhead",
-        "Longstanding tenant Logility acquired by Aptean in 2025; reduced workforce enables conversion",
-        "Construction targeted for summer 2027; walkable to Buckhead Village mixed-use district"
-      ],
-      "summary": "JLB Partners is converting a seven-story, mid-century office building at 470 E. Paces Ferry Road in Buckhead Village to 314 apartments. The property was previously occupied by Logility Supply Chain Solutions, which was acquired by Aptean in 2025 and has since reduced its on-site workforce. Construction is targeted to begin in summer 2027 pending approvals. The site benefits from proximity to Buckhead Village District and other recent apartment and condo deliveries in the submarket.",
-      "impact": "Buckhead's office-to-residential conversion pipeline is accelerating as major employers (Aptean/Logility) downsize legacy office footprints. This conversion opportunity signals soft office demand in the submarket and rising residential values; developers should scout other occupied mid-rise office assets with tenant turnover risk or shrinking corporate tenants. JLB's timeline (summer 2027 start) suggests 2025–2026 permitting; monitor Buckhead entitlement trends to identify windows for competing conversion or ground-up projects before zoning tightens."
-    },
-    {
-      "title": "Hogan Lovells Cadwalader, the Blockbuster New Firm in Corporate Law",
-      "link": "https://commercialobserver.com/2026/08/hogan-lovells-cadwalader-corporate-law/",
-      "excerpt": "You know that nightmare, where you are late for class and your teacher calls out from behind you, and all you feel is dread? That happened to real estate lawyer Sulie Arias, a partner with the corporate finance practice at Hogan Lovells Cadwalader — a newly formed firm thanks to a $3.9 billion merger — except her reality wasn’t a nightmare. The professor was running to catch up with Arias to tell the trembling student just how impressed she was with the grade Arias received on a test that very few people had even passed. The professor encouraged Arias to pursue law as a career, and now she is part of one of the biggest law firms in the country, working alongside people like Trevor Adler, another partner in the corporate finance practice. Hogan Lovells Cadwalader is the result of the almost $4 billion merger between Hogan Lovells, and Cadwalader Wickersham &amp; Taft that took effect on July 1, creating a singular firm. Commercial Observer caught up with Arias and Adler in August to discuss the merger, their careers and practices, insights on office leasing and the other real estate markets in New York City, as well as the benefits of the merger. This conversation has been edited for length and clarity. Commercial Observer: Please introduce yourselves and tell us about your practice. Trevor Adler: I am from the legacy Hogan Lovell side. I am a lifer with my particular group of people. I started as a summer associate in 2006, and have been with the same real estate team ever since. There are a lot of lifers in our combined team too. I do all things real estate, but my specialty is condominiums and commercial leasing — office, retail, medical, data centers — on both the landlord and tenant side, about half my work is in the New York City area, and about half is across the country. Also, I just love history and I have written a LinkedIn post every week since January about New York City real estate history. Sulie Arias: I’ve been with Cadwalader for six years, and before",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-11T14:00:37+00:00"
-    },
-    {
-      "title": "CBRE Scores Charleston-Area Warehouse Leasing Assignment",
-      "link": "https://www.connectcre.com/stories/cbre-scores-charleston-area-warehouse-leasing-assignment/",
-      "excerpt": "CBRE has been retained to market and lease North Rhett Center at 5801 North Rhett Avenue, a 516,000-square-foot two-building industrial property in Hanahan, South Carolina. The property offers approximately 318,926 square feet of available space for lease and was recently acquired by Obelisk Real Estate Partners. CBRE&#8217;s Brendan Redeyoff and Bob Barrineau are leading leasing efforts on behalf of Obelisk Real Estate Partners. Obelisk Real Estate Partners recently acquired 5801 North Rhett Avenue and the adjacent 305,250-square foot industrial property at 1020 North Pointe Industrial Boulevard from CenterPoint Properties. The available space at 5801 North Rhett can accommodate users ranging from approximately 50,000 square feet to the full 318,926 square feet. The property also offers CSX rail service and up to 3.25 acres of laydown yard space, providing flexibility for a range of manufacturing, logistics and distribution users. The asset is also proximate to the NIWC and Charleston International Airport, where Boeing is expanding its production facility. The post CBRE Scores Charleston-Area Warehouse Leasing Assignment appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-11T13:42:45+00:00"
-    },
-    {
-      "title": "High Street Residential Tops Out on First Manhattan Development",
-      "link": "https://www.connectcre.com/stories/high-street-residential-tops-out-on-first-manhattan-development/",
-      "excerpt": "High Street Residential (HSR), the residential subsidiary of Trammell Crow Company, has topped out construction on the firm’s first Manhattan project, The Marq, a 25-story luxury residential tower in SoHo. Slated for completion in the fourth quarter of 2027, the project will include 99 units, 2,072 square feet of ground-floor retail and 25 affordable apartments. Located on a vacant lot at 126 Lafayette St. in New York City’s Lower West Side, units at The Marq will range from studios to three-bedroom penthouses. “Our aim is for The Marq to reflect the vibrancy and elegance of this iconic community of SoHo,” said Michael Adamo, a principal with HSR in New York. “With its proximity to major transit hubs and green spaces like Hudson River Park, SoHo remains one of New York City&#8217;s most desirable locations for residential development. We&#8217;re proud to bring this project to life.” Along with its capital partners, other project partners on The Marq include Marvel Architects, general contractor Leeding Builders Group and interior designer Chris Shao Studio. Where the apartment industry connects. Meet the owners, investors, developers, lenders, brokers, and service providers driving today’s multifamily market at Connect Apartments. Build relationships, uncover opportunities, and stay ahead of what’s next The post High Street Residential Tops Out on First Manhattan Development appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-10T22:05:39+00:00",
-      "bullets": [
-        "High Street Residential (Trammell Crow Co. subsidiary) topped out The Marq, 25-story luxury tower in SoHo Manhattan",
-        "99 units (studios to 3-bed penthouses) + 2,072 SF retail + 25 affordable apartments; completion Q4 2027",
-        "First Manhattan project for HSR; positioned on vacant lot at 126 Lafayette Street, Lower West Side"
-      ],
-      "summary": "High Street Residential, the residential division of Trammell Crow Company, has reached topping-out on The Marq, a 25-story luxury residential tower in SoHo with 99 market-rate units (studios through three-bedroom penthouses), 25 affordable apartments, and 2,072 square feet of ground-floor retail. Located on a previously vacant parcel at 126 Lafayette Street on Manhattan's Lower West Side, the project is slated for delivery in the fourth quarter of 2027.",
-      "impact": "This flagship Manhattan entry by High Street Residential (a Trammell Crow subsidiary) validates SoHo-Lower West Side as investable ground-up luxury residential. The 99-unit density on a compact infill site and affordable unit inclusion (25 units, ~20% of mix) reflect current market/regulatory realities for Manhattan development. Completion in Q4 2027 means pre-leasing should begin in 2026–2027; performance and absorption data will inform whether Trammell Crow accelerates subsequent Manhattan/Tier-1 market development activity. Project viability also signals robust capital availability for luxury residential in prime Manhattan submarkets despite recent rate volatility."
+      "summary": "Broward County and the Florida Panthers are in early planning stages for a 154-acre mixed-use entertainment district surrounding the Panthers' home arena in Sunrise. The proposal envisions 1,400 apartments, 600 hotel rooms, 1.62 million square feet of office and education space, and 300,000 square feet of retail, largely replacing existing surface parking. The Sunrise City Commission will consider the proposal; precedents include The Battery Atlanta and Ballpark Village.",
+      "impact": "If approved, this is a significant positive signal for South Florida multifamily demand in Sunrise. The 1,400-unit residential component will compete directly with existing and planned apartments in Sunrise and nearby Plantation/Coral Springs; developers should monitor entitlements closely for 2027 approvals and subsequent lease-up timelines. The arena-anchored mixed-use model suggests strong foot-traffic retail support and daytime employment draw, reducing absorption risk for ancillary residential. Broward County's willingness to entitle this size project signals policy openness to density and mixed-use in suburban hubs—expect follow-on development site availability and faster permitting in Sunrise over 2027–29."
     }
   ]
 }
