@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-12T15:51:58.991820+00:00",
+  "fetchedAt": "2026-08-12T16:47:26.268354+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -10,7 +10,7 @@
     {
       "label": "10Y Treasury",
       "value": "4.67%",
-      "pct": -0.3
+      "pct": -0.34
     },
     {
       "label": "30Y Treasury",
@@ -19,25 +19,55 @@
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "97.27",
-      "pct": 0.92
+      "value": "97.25",
+      "pct": 0.9
     }
   ],
   "stories": [
     {
+      "title": "As Prelude to Texas Multifamily 2026, a Q & A with Nick Jans of Red Oak Capital Holdings",
+      "link": "https://www.connectcre.com/stories/as-prelude-to-texas-multifamily-2026-a-q-a-with-nick-jans-of-red-oak-capital-holdings/",
+      "excerpt": "As real estate transaction volume gradually returns, underwriting standards have tightened and return thresholds have reset. At the Texas Multifamily 2026 in-person event set for August 13 in Dallas, a panel of lending experts will provide conference attendees with insiders’ perspectives on how deals get done in the current environment. Nick Jans, CCIM – Regional Director, Central U.S. – Red Oak Capital Holdings, will be among the “Capital Is Back, But on What Terms?” speakers, and provides a preview of the discussion here. Q: Have borrower requirements&nbsp;and&nbsp;borrower awareness&nbsp;changed&nbsp;from a year ago? A:&nbsp;Most borrowers now realize there is unlikely to be a coming dramatic drop in the interest rate environment. Some sources in the market say&nbsp;what&#8217;s&nbsp;transacting are only those deals that MUST, but&nbsp;that&#8217;s&nbsp;too&nbsp;restrictive&nbsp;a comment. Sponsors are aware of the current rate environment, be they in the hunt for perm, bridge, CMBS, agency,&nbsp;or what&nbsp;have&nbsp;you.&nbsp;Whether this is a “change” from a year ago or not, borrowers&#8217;&nbsp;refinance requirement, if they&nbsp;can get it,&nbsp;is&nbsp;the cash neutral execution. Non-recourse&nbsp;remains&nbsp;a must&nbsp;for the preponderance of sponsors, even&nbsp;in bridge,&nbsp;which is exclusively what Red Oak&nbsp;looks&nbsp;for.&nbsp; Q: There are more lending sources in the market, but has&nbsp;underwriting&nbsp;gotten any less stringent?&nbsp; A:&nbsp;You&#8217;d&nbsp;probably&nbsp;have&nbsp;to&nbsp;look far and deep to find aggressive underwriting on non-market terms, but&nbsp;I’m&nbsp;thinking&nbsp;it&#8217;s&nbsp;out there. There are lenders who “need” to put dollars out, like there are equity teams who need to&nbsp;deploy&nbsp;capital. Do they wait for the least risky&nbsp;play&nbsp;or do they choose to cut one corner not typically cut? If anything, I think underwriting has gotten more stringent.&nbsp;It&#8217;s&nbsp;no&nbsp;less stringent at",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-12T16:02:47+00:00",
+      "bullets": [
+        "Red Oak Capital panelist: borrowers accept rates won't drop dramatically soon.",
+        "Lenders demand cash-neutral refi structures, non-recourse terms; fewer deals transacting overall.",
+        "Texas multifamily capital market tightening; sponsors hunting perm, bridge, CMBS, agency debt."
+      ],
+      "summary": "Nick Jans of Red Oak Capital signals that multifamily borrowers have reset expectations around interest rates and no longer anticipate meaningful Fed cuts. Sponsors are actively refinancing and acquiring, but lenders have tightened underwriting and now require cash-neutral structures and non-recourse execution. The shift reflects a market where deal volume is lower, but it isn't frozen—only deals that meet stricter return thresholds and loan terms are moving.",
+      "impact": "Texas multifamily development feasibility hinges on sponsor ability to underwrite at higher permanent rates (5.8%+) and accept tighter leverage. Developers acquiring now should model 60%+ LTV permanent debt and assume rates above 6%; this will compress returns on speculative ground-up development unless rents accelerate faster than recent comps. Acquisition windows may favor sponsors with balance-sheet strength."
+    },
+    {
+      "title": "Richman Group Secures $225M Loan to Refinance Three South Florida Multifamily Assets",
+      "link": "https://commercialobserver.com/2026/08/richman-group-225m-loan-refinance-three-south-florida-multifamily/",
+      "excerpt": "The Richman Group, an $18.5 billion asset management firm, has secured $225 million in permanent financing to refinance three stabilized luxury multifamily properties in South Florida that total 942 units. New York Life Investment Management provided $107 million to refinance the Marc Apartments, a 396-unit multifamily property in Palm Beach Gardens. The asset is located at 3955 Design Center Drive and opened in December 2024. New York Life Investment Management also provided $72.5 million to refinance Everly Apartments, a 320-unit community in Naples, Fla. The asset is located at 3250 Magnolia Pond Circle and opened in early 2024. Finally, Reinsurance Group of America provided $45.5 million to refinance Vista Sur Apartments, an eight-story, 226-unit multifamily building in the South Miami neighborhood of Naranja. That asset is located at 27077 South Dixie Highway and opened in 2024. Each of the three loans carries a 10-year term with a five-year interest-only period at interest rates that range from 5.8 percent to 6.1 percent. No brokers were listed on the transactions. Richard Richman, founder of the Richman Group, noted in a statement that his firm closed the $225 million in financings in just four months, in an environment where capital remains constrained and underwriting standards have risen amid industry-wide refinancing challenges. “These closings reflect the strength and stability of our assets, our team&#8217;s ability to execute complex transactions, and our successful transition of all three communities into long-term stabilized operations,&#8221; he said. Richman founded his eponymous firm in 1986 and has since accumulated a portfolio of more than 2,070 properties, 166,500 units, and $28 billion in total deal volume. The firm has 12 national offices. Brian Pascus can be reached at bpascus@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-12T15:57:04+00:00",
+      "bullets": [
+        "Richman Group refis 942 units across South Florida (Naples, Palm Beach Gardens, Miami) for $225M.",
+        "Three 2024 deliveries locked at 5.8%–6% rates, 10-year terms with 5-year IO; mix of lenders.",
+        "Stabilized new supply absorbing quickly; lenders (NY Life, RGA) actively providing perm financing."
+      ],
+      "summary": "Richman Group closed $225M in permanent financing across three newly stabilized luxury multifamily assets totaling 942 units in South Florida (Marc Apartments, 396 units in Palm Beach Gardens; Everly, 320 units in Naples; Vista Sur, 226 units in Miami). All three opened in 2024 and refinanced at rates between 5.8% and 6% on 10-year terms with five-year interest-only periods. Lenders included New York Life Investment Management and Reinsurance Group of America.",
+      "impact": "South Florida's 2024 deliveries are leasing faster than expected and reaching stabilization quickly enough to attract permanent capital at sub-6% rates. This signals strong rental-rate momentum in the submarket and suggests that core-plus value-add repositioning (post-2024 deliveries) will remain feasible in Naples, Palm Beach Gardens, and South Miami if operators can execute rent growth. Developers should monitor leasing velocity across these three assets as a leading indicator of broader South Florida demand strength through 2025–2026."
+    },
+    {
       "title": "AI Insurance Firm WithCoverage Signs 18K-SF Lease at 200 Varick Street",
       "link": "https://commercialobserver.com/2026/08/withcoverage-sublease-200-varick-street/",
-      "excerpt": "An artificial intelligence-powered insurance technology company subleasing space in Hudson Square has the attention of Gov. Kathy Hochul. While WithCoverage is only taking 17,663 square feet at GFP Real Estate’s 200 Varick Street, Hochul emphasized future economic benefits of the deal, such as the creation of 205 new jobs, according to a Wednesday announcement. WithCoverage also plans to invest $25 million in research and development operations in New York City over the next five years, according to Hochul. GFP Real Estate did not immediately disclose the names of brokers, the length of the lease or the asking rent for the building, but the average office asking rent in Midtown South was $85.73 per square foot in the second quarter of 2026, according to a report from CBRE. It’s unclear who the sublandlord is, but WithCoverage’s new Hudson Square office will be in addition to its current offices at 25 East 21st Street. “New York continues to attract the world’s fastest-growing technology companies because we have the talent, innovation ecosystem and business environment they need to succeed,” Hochul said in a statement. “WithCoverage’s decision to expand in New York City and create more than 200 high-quality jobs is another example of our strategy to grow the industries of the future while strengthening our economy today.” Some prominent business leaders such as Citadel’s Ken Griffin and Vornado Realty Trust’s Steve Roth have been critical of Mayor Zohran Mamdani and Hochul’s policies of late, stating the pied-a-terre tax could drive businesses away from the city. But overall, the office market does not seem to be losing steam. Manhattan office leasing velocity rose 22 percent from June to July alone, and 28.4 percent year-over-year from July 2025, according to Colliers data. “New York is where the best of technology and the best of people come together, from insurance experts and attorneys to AI engineers and product designers,” WithCoverage CEO and founder Max Bren",
+      "excerpt": "An artificial intelligence-powered insurance technology company subleasing space in Hudson Square has the attention of Gov. Kathy Hochul. While WithCoverage is only taking 17,663 square feet at GFP Real Estate’s 200 Varick Street, Hochul emphasized future economic benefits of the deal, such as the creation of 205 new jobs, according to a Wednesday announcement. WithCoverage also plans to invest $25 million in research and development operations in New York City over the next five years, according to Hochul. GFP Real Estate did not immediately disclose the length of the lease or the asking rent for the building, but the average office asking rent in Midtown South was $85.73 per square foot in the second quarter of 2026, according to a report from CBRE. It’s unclear who the sublandlord is, but WithCoverage’s new Hudson Square office will be in addition to its current offices at 25 East 21st Street. “New York continues to attract the world’s fastest-growing technology companies because we have the talent, innovation ecosystem and business environment they need to succeed,” Hochul said in a statement. “WithCoverage’s decision to expand in New York City and create more than 200 high-quality jobs is another example of our strategy to grow the industries of the future while strengthening our economy today.” Newmark&#8216;s Adam Spector and Derek Feinman represented WithCoverage in the sublease deal. Some prominent business leaders such as Citadel’s Ken Griffin and Vornado Realty Trust’s Steve Roth have been critical of Mayor Zohran Mamdani and Hochul’s policies of late, stating the pied-a-terre tax could drive businesses away from the city. But overall, the office market does not seem to be losing steam. Manhattan office leasing velocity rose 22 percent from June to July alone, and 28.4 percent year-over-year from July 2025, according to Colliers data. “New York is where the best of technology and the best of people come together, from insurance experts and attorneys to AI",
       "source": "Comm. Observer",
       "cat": "Commercial",
       "date": "2026-08-12T15:31:41+00:00",
       "bullets": [
-        "WithCoverage AI insurance firm leases 17,663 SF at 200 Varick Street, Hudson Square Manhattan",
-        "Company commits $25M R&D investment, 205 jobs over 5 years in NYC",
-        "Midtown South office asking rent $85.73/SF Q2 2026; sublet signals continued tech demand"
+        "WithCoverage (AI insurance tech) leases 17,663 SF at 200 Varick, Hudson Square, NYC.",
+        "Tenant planning $25M R&D investment; 205 jobs created; Midtown South office asking rent $85.73/SF.",
+        "Tech company expansion signals ongoing office absorption in core NYC submarkets."
       ],
-      "summary": "WithCoverage, an AI-powered insurance tech company, signed an 18K-SF sublease at 200 Varick Street in Hudson Square with plans to invest $25 million in NYC R&D over five years and create 205 jobs. The deal underscores continued demand for office space by high-growth tech firms despite broader office headwinds. Midtown South office rents averaged $85.73/SF in Q2 2026.",
-      "impact": "Tech talent agglomeration in Manhattan (especially Hudson Square/Midtown South) continues to anchor office leasing and signals underlying demand for adjacent residential in high-wage job corridors. However, the lease is a sublease, not direct—evidence of existing supply overhang. Net effect: modest positive for renter demand in Manhattan submarkets with strong tech employment (Flatiron, SoHo, Lower East Side conversion corridors), but developer caution warranted on new multifamily given lingering office vacancy."
+      "summary": "WithCoverage, an AI-powered insurance technology firm, signed an 18K-SF sublease at 200 Varick Street in Hudson Square, Manhattan. The company plans to invest $25M in R&D operations in NYC over five years and will create 205 jobs. Average asking rent in Midtown South was $85.73/SF in Q2 2026, and Governor Hochul highlighted the deal as evidence of tech sector growth in the state.",
+      "impact": "Limited relevance to multifamily development. Tech hiring and R&D spend indicate continued job and wage growth in Manhattan, which underpins baseline renter demand, but the story is fundamentally about office leasing. Multifamily developers should note that tech employment concentration in core Manhattan neighborhoods (Hudson Square, Midtown South) sustains above-market rent growth for renter households; however, office recovery does not directly create housing shortage or constrain apartment supply."
     },
     {
       "title": "Pearlmark Offloads 216-Unit Bradenton Apartment Community",
@@ -47,12 +77,12 @@
       "cat": "Commercial",
       "date": "2026-08-12T14:50:07+00:00",
       "bullets": [
-        "Pearlmark sells ShoreView Waterfront Apartments, 216 units, Bradenton FL to Cedarwood Companies",
-        "2021-built Class A property, $1.3M average rent/unit pricing, waterfront downtown location",
-        "Mezzanine foreclosure exit; new owner positioned for value-add or hold-and-operate"
+        "Pearlmark sells ShoreView Waterfront Apartments, 216 units, downtown Bradenton to Cedarwood Companies.",
+        "Class A waterfront property completed 2021; average unit 1,024 SF; sale via lender-foreclosure exit.",
+        "Berkadia brokered sale; Pearlmark acquired via mezzanine foreclosure, then marketed asset."
       ],
-      "summary": "Pearlmark divested ShoreView Waterfront Apartments, a 216-unit Class A community in downtown Bradenton completed in 2021, to Cedarwood Companies for an undisclosed price. The property was acquired by Pearlmark through mezzanine lender foreclosure. The asset features waterfront location, premium amenities (saltwater pool, EV charging, garages), and strong unit mix (avg. 1,024 SF).",
-      "impact": "Bradenton waterfront resi remains an active acquisition target for stabilized operators, signaling continued demand strength in South Florida's secondary coastal markets. Mezzanine lender recovery indicates prior owner overleveraged post-2021; watch for similar distress sales in Bradenton/Tampa Bay as bridge debt matures. No new supply signal here—steady-state absorption of recent vintage Class A drives cap rate compression and operator consolidation."
+      "summary": "Pearlmark has sold ShoreView Waterfront Apartments, a 216-unit Class A waterfront community at 1161 3rd Avenue N in downtown Bradenton, to Cedarwood Companies. The property, completed in 2021, features one-, two-, and three-bedroom units (760–1,416 SF average 1,024 SF) with amenities including pool, fitness center, EV charging, and dog-washing station. Pearlmark acquired it via mezzanine lender foreclosure and marketed it for sale; the purchase price was undisclosed.",
+      "impact": "Pearlmark's exit via secondary-market sale signals that even Class A waterfront multifamily in Bradenton is not commanding enough value or cash-flow premium to justify hold through higher-rate environment. Cedarwood's acquisition likely reflects value-add or stabilization focus, or expectation of Bradenton market rent growth. Developers should view Bradenton as a secondary market where class A waterfront commands a rent premium but not enough to offset financing cost inflation—opportunity exists for ground-up development only if new supply remains limited and in-migration continues."
     },
     {
       "title": "Brooklyn Developers to Acquire Church Site in Downtown Brooklyn for Resi Project",
@@ -62,12 +92,12 @@
       "cat": "Commercial",
       "date": "2026-08-12T14:40:37+00:00",
       "bullets": [
-        "Tankhouse and Lonicera Partners under contract to buy church site, 360 Schermerhorn Street, Downtown Brooklyn",
-        "$28.3M acquisition price; demolition planned for new residential building, no unit count disclosed",
-        "Site on Boerum Hill/Downtown Brooklyn border; church exiting due to financial burden"
+        "Tankhouse and Lonicera acquire church property (360 Schermerhorn, Downtown Brooklyn-Boerum Hill) for $28.3M.",
+        "Plan to demolish two-story church, build residential; church cites site as financial burden.",
+        "Rezoning and entitlement pathway unclear; no unit count, density, or timeline disclosed."
       ],
-      "summary": "Brooklyn-based developers Tankhouse and Lonicera Partners are in contract to acquire a two-story church property at 360 Schermerhorn Street in Downtown Brooklyn (Boerum Hill border) for $28.3 million from First Baptist Church in Pierrepont Street. The developers plan to demolish the existing structure and build new residential housing, though project scope remains undisclosed. The church cited financial strain as the reason for relocation.",
-      "impact": "Downtown Brooklyn continues to attract infill residential redevelopment capital; acquisition of religious/institutional sites for resi conversion signals land scarcity and strong developer conviction in submarket fundamentals. Low density institutional land in walkable, transit-rich neighborhoods (Brooklyn Heights/Boerum Hill proximity to subway) commands premium pricing relative to project economics, likely requiring rental or mixed-income mix to pencil. Monitor Downtown Brooklyn delivery pipeline—strong leasing velocity and rent growth could support higher density on completed church site than competitors can underwrite."
+      "summary": "Brooklyn-based developers Tankhouse and Lonicera are under contract to buy a church property at 360 Schermerhorn Street on the Boerum Hill–Downtown Brooklyn border from First Baptist Church for $28.3M. The developers plan to demolish the existing two-story religious structure and build new residential housing, though specific unit counts, height, and timeline remain undisclosed. The church, citing the site as a financial burden, will relocate.",
+      "impact": "Downtown Brooklyn–Boerum Hill site control at $28.3M indicates active ground-up acquisition appetite in a prime submarket. Developers should monitor zoning and Department of City Planning approval timelines for this site; if entitlements clear quickly and pro-housing zoning prevails, it signals strong developer confidence in Brooklyn residential-market fundamentals and willingness to pay land prices consistent with 15%+ density gains post-zoning. Absence of unit-count disclosure suggests entitlement risk or value-engineering phase still underway; acquisition price per SF of site (undisclosed building SF) will be key comp for future Brooklyn church/institutional conversion plays."
     },
     {
       "title": "ArrowMark Partners Refis Utah Apartments With $58M Bridge Loan",
@@ -77,12 +107,12 @@
       "cat": "Commercial",
       "date": "2026-08-12T14:38:10+00:00",
       "bullets": [
-        "ArrowMark Partners closes $58M bridge loan for Klein Huis and Sequoia Apartments, Heber City Utah",
-        "286 total units, both completed 2024; three-year fixed-rate refi retiring construction debt",
-        "Heber Valley near Salt Lake City and Park City; lender cites low multifamily supply, population growth"
+        "ArrowMark Partners provides $58M three-year bridge to Alpha Development/Bow River Capital JV, Heber City, Utah.",
+        "Refinances Klein Huis and Sequoia (286 units, 2024 deliveries); fixed-rate loan; KeyBank brokered.",
+        "Market lacks multifamily supply; properties near Park City and Salt Lake City labor/demand centers."
       ],
-      "summary": "A joint venture of Alpha Development Group and Bow River Capital secured $58 million of three-year fixed-rate bridge financing from ArrowMark Partners to refinance Klein Huis at Turner Mill and Sequoia Apartments at Turner Mill, two adjacent 2024-completed properties totaling 286 units in Heber City, Utah. The loan retired prior construction debt and supports lease-up. The submarket benefits from proximity to Salt Lake City and Park City with limited new supply.",
-      "impact": "Heber Valley/Park City corridor faces tight supply and in-migration from Salt Lake City—strong lease-up conditions and low competing inventory create favorable pricing power for newer vintage product. Bridge financing signals developer confidence in lease-up and near-term refi/exit, but fixed-rate terms at this stage suggest lenders remain cautious on rate trajectory. Watch for similar Wasatch Front acquisitions and new starts as population pressure mounts and supply constraints persist through 2026–2027."
+      "summary": "A joint venture between Alpha Development Group and Bow River Capital closed $58M of three-year fixed-rate bridge financing from ArrowMark Partners to refinance two newly completed multifamily developments in Heber City, Utah. Klein Huis and Sequoia Apartments at Turner Mill total 286 units and both delivered in 2024. The loan retires construction debt and supports lease-up. KeyBank Real Estate Capital's Jack Tidrick negotiated the deal. ArrowMark's Rob Brown cited strong population growth in Greater Salt Lake and Park City, and a lack of multifamily supply in Heber City, as key tailwinds.",
+      "impact": "Heber City's tight supply + proximity to Salt Lake City and Park City job centers + recent population growth create favorable leasing environment for newly delivered properties. Bridge financing at fixed rates signals lender confidence in lease-up velocity and eventual permanent-debt securitization. Developers considering speculative or NMC growth markets in Utah should note Heber City as a micro-market where recent supply constraint is real and in-migration (from SLC and PC labor sheds) underpins demand; ground-up development feasibility is high if entitled land can be acquired within 3-year bridge horizon."
     },
     {
       "title": "Turnbridge Acquires Raleigh Apartments, Upgrades on Way",
@@ -92,12 +122,12 @@
       "cat": "Commercial",
       "date": "2026-08-12T14:31:41+00:00",
       "bullets": [
-        "Turnbridge Equities acquires Skyhouse Raleigh, 320 units, with $62M first mortgage from ACORE CAPITAL",
-        "2015-built property; only 300 units under construction downtown, no deliveries until late 2027",
-        "Value-add renovation program commencing fall; saltwater pool, balconies in all units, strong amenities"
+        "Turnbridge acquires 320-unit Skyhouse Raleigh (downtown, 2015 vintage) for $62M first mortgage from ACORE.",
+        "Only ~300 units under construction downtown Raleigh; next delivery expected late 2027.",
+        "Turnbridge planning comprehensive value-add renovation (fall start); 23rd-floor pool, balconies, amenities upgrade."
       ],
-      "summary": "Turnbridge Equities acquired Skyhouse Raleigh, a 320-unit multifamily community in downtown Raleigh completed in 2015, with $62 million first mortgage financing from ACORE CAPITAL. Turnbridge is planning a comprehensive value-add renovation including common space and unit upgrades. Downtown Raleigh's new supply has been absorbed quickly; only ~300 units are under construction with no deliveries expected until late 2027.",
-      "impact": "Downtown Raleigh rental market is entering supply tightness phase—recent record deliveries are leasing fast, and the project pipeline is thin through 2027. This creates favorable conditions for value-add operators and signals rising rents for stabilized assets. Turnbridge's entry and renovation plan suggest confidence in continued demand, likely driven by tech/financial services job growth in Research Triangle. Developers should accelerate land acquisition and entitlements for downtown Raleigh projects now; window for favorable underwriting could narrow as supply tightens and rents reset higher."
+      "summary": "Turnbridge Equities acquired the 320-unit Skyhouse Raleigh, a downtown Raleigh multifamily community, and secured $62M first mortgage financing from ACORE CAPITAL. The 2015-vintage building will undergo comprehensive value-add renovations starting in fall, including unit and common-area upgrades. Turnbridge notes that while record supply arrived in recent years and is absorbing quickly, only ~300 units remain under construction in downtown Raleigh, with deliveries not expected until late 2027.",
+      "impact": "Downtown Raleigh's supply absorption + multi-year delivery gap (new units not arriving until late 2027) creates a 2–3 year window where existing stock can command meaningful rent growth and support value-add IRRs. Turnbridge's acquisition at $62M/$193.75K per unit on a 2015 asset signals confidence in rent upside through 2026–2027; developers with entitled downtown sites should accelerate permitting and financing to deliver in 2026 and benefit from supply-constrained market before 2027–2028 wave arrives. This is a classic micro-timing opportunity in a Sunbelt secondary market."
     },
     {
       "title": "U.S.-Japan Yen Intervention Puts Global Interest Rates in Focus",
@@ -107,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-08-12T14:10:50+00:00",
       "bullets": [
-        "U.S. and Japan jointly intervened to support yen; currency fell to ¥164/dollar (40-year low)",
-        "Intervention briefly strengthened yen to ¥155.20 (May high), then reversed to ¥157.50; durability questioned",
-        "Weak JGB demand and rising domestic yields threaten Treasury holdings and carry trade stability"
+        "U.S.–Japan joint yen intervention; yen weakened to ¥164/$, briefly recovered to ¥155.20, settled near ¥157.50.",
+        "Intervention effectiveness depends on Fed policy rate, not intervention size; carry-trade risks remain.",
+        "Japan may reduce Treasury holdings or repatriate capital, pressuring U.S. rates and capital flows."
       ],
-      "summary": "The U.S. and Japan jointly intervened in currency markets to support the yen after it weakened to ¥164 per dollar, its lowest in roughly four decades. The operation briefly strengthened the yen to ¥155.20 but gains were partially reversed, settling near ¥157.50. Intervention effectiveness depends on interest rate policy. Rising Japanese domestic yields and weak JGB demand create risks of Japanese capital repatriation and Treasury sell-offs.",
-      "impact": "Currency instability and carry-trade dynamics inject uncertainty into global funding costs and capital flows. If Japanese investors repatriate capital or reduce Treasury holdings to finance interventions, U.S. rates could rise, pressuring multifamily development cap rates, construction financing costs, and refinance feasibility. Monitor Fed funds rate trajectory and Treasury yield volatility; cap rate compression or financing tightness in Q1–Q2 2026 would signal capital market stress tied to this macro event. Developers with variable-rate debt or near-term refinances face headwind risk."
+      "summary": "The U.S. and Japan jointly intervened to support the yen after it weakened to ¥164 per dollar, its lowest in four decades. The operation temporarily strengthened the yen to ¥155.20 but it subsequently softened to ¥157.50. Experts note that the intervention's long-term success depends less on the size of purchases than on Federal Reserve policy. Japan's larger interventions are producing shorter-lived results, and rising domestic Japanese yields threaten to trigger repatriation of Japanese capital from U.S. Treasuries or force Japan to sell Treasuries to fund future interventions.",
+      "impact": "If Japan repatriates capital or reduces Treasury holdings to finance yen support, U.S. 10-year yields could rise 25–50 bps, pushing permanent multifamily rates above 6.25%–6.5% and compressing development returns across the board. Conversely, if Fed cuts rates more aggressively to support the dollar, multifamily financing could ease. Developers should monitor Fed policy signals and Treasury 10-year yields closely; a 50+ bp sustained rise in long-bond yields would materially reduce new-start feasibility and shift capital toward value-add and acquisition over ground-up development."
     },
     {
       "title": "Saratoga Capital Pays $98.4M at Auction for Atlanta Apartment Community",
@@ -122,27 +152,12 @@
       "cat": "Commercial",
       "date": "2026-08-12T14:09:31+00:00",
       "bullets": [
-        "Saratoga Capital Partners purchases Generation Atlanta, 336 units, for $98.4M at foreclosure auction",
-        "Prior owner Frankforter Group bought for $126.9M in late 2021; defaulted on $104.4M Arbor Realty Trust loan",
-        "Downtown location near Georgia Aquarium; 66 units converted to affordable (60% AMI) via $4M Invest Atlanta grant"
+        "Saratoga Capital buys Generation Atlanta (336 units, Centennial Olympic Park Drive) at auction for $98.4M.",
+        "Previous owner Frankforter defaulted on $104.4M loan; Arbor Realty filed foreclosure July 2024.",
+        "Property includes 66 affordable units (60% AMI); prior sale price $126.9M (late 2021); 54% value loss."
       ],
-      "summary": "Saratoga Capital Partners acquired Generation Atlanta, a 336-unit multifamily community on Centennial Olympic Park Drive, for $98.4 million in a foreclosure auction. Prior owner Frankforter Group purchased the property in late 2021 for $126.9 million, then defaulted on a $104.4 million loan from Arbor Realty Trust. The property includes 66 affordable units at 60% AMI funded by a $4 million Invest Atlanta grant.",
-      "impact": "Atlanta foreclosure activity signals prior overleveraging in 2021–2022 vintage deals; post-pandemic financing assumptions did not hold. Saratoga's acquisition at a ~22% haircut (vs. Frankforter's 2021 price) reflects normalization of cap rates and lender conservatism. Downtown Atlanta near iconic tourist attractions (Aquarium, Olympic Park) retains strong institutional buyer interest, but distress sales indicate prior operators misjudged market or capital costs. Developers should expect higher equity requirements and lower LTV for new Atlanta projects; supply pipeline remains healthy, limiting pricing power recovery through 2026."
-    },
-    {
-      "title": "Morgan Stanley Acquires KC Ace Hardware Facility for $159M",
-      "link": "https://www.connectcre.com/stories/morgan-stanley-acquires-kc-ace-hardware-facility-for-159m/",
-      "excerpt": "Morgan Stanley Investment Management, through investment funds managed by Morgan Stanley Real Estate Investing, acquired a newly developed 1.5 million-square-foot distribution facility in Kansas City, Missouri, for $158.5 million. The property was acquired from Hunt Midwest, which developed the logistics facility as a build-to-suit in 2025, the first phase of KCI 29 Logistics Park. The facility is subject to a long-term net lease with Ace Hardware. The property was acquired through an off-market transaction facilitated by Mark Long and John Hassler of Newmark Zimmer. &#8220;This acquisition reflects our continued conviction in high-quality net lease investments that combine strong tenant credit, mission-critical operations and institutional-quality real estate,&#8221; said David Gross, Managing Director at Morgan Stanley Real Estate Investing. The Ace Hardware facility is located within KCI 29 Logistics Park, a 3,300-acre megasite, which will support up to 20 million square feet of industrial facilities. Measuring a half mile from end to end, the new facility is the largest distribution center in Kansas City by building footprint. The post Morgan Stanley Acquires KC Ace Hardware Facility for $159M appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-12T14:06:25+00:00",
-      "bullets": [
-        "Morgan Stanley REIM acquires Ace Hardware distribution facility, Kansas City MO, for $158.5M, 1.5M SF",
-        "Hunt Midwest developed 2025 build-to-suit; 20-year net lease; first phase of KCI 29 Logistics Park",
-        "Park site 3,300 acres; facility largest distribution center in Kansas City by footprint"
-      ],
-      "summary": "Morgan Stanley Real Estate Investing, via funds under MSIM, acquired a newly developed 1.5 million-square-foot distribution facility in Kansas City, Missouri, for $158.5 million. The asset, developed by Hunt Midwest in 2025 as a build-to-suit for Ace Hardware on a long-term net lease, is the first phase of KCI 29 Logistics Park, a 3,300-acre megasite planned for up to 20 million square feet of industrial capacity.",
-      "impact": "Industrial logistics remain a capital magnet for institutional investors despite retail headwinds. However, this deal is NOT multifamily relevant. The megasite development (KCI 29) may eventually generate workforce housing demand if ancillary office/logistics employment concentrates, but the deal itself signals no direct resi signal. Kansas City remains a secondary logistics hub; monitor if KCI 29's massive footprint drives population inflow or wage growth that could support new multifamily near the logistics park or in nearby submarkets."
+      "summary": "Saratoga Capital Partners acquired the 336-unit Generation Atlanta community on Centennial Olympic Park Drive in a foreclosure auction for $98.4M. The previous owner, Frankforter Group, had purchased the property in late 2021 for $126.9M and subsequently defaulted on a $104.4M loan held by Arbor Realty Trust, which filed for foreclosure in July. The property includes 66 affordable units at 60% AMI funded by a $4M Invest Atlanta grant. The asset is located near Downtown landmarks including the Georgia Aquarium and World of Coke.",
+      "impact": "A $28.5M (22%) loss in three years signals that mid-2021 vintage Atlanta deals overestimated rent growth or underestimated financing-cost increases. Frankforter's foreclosure is a canary for stabilized-yield underwriting; if stabilized deals can't service debt at current rate environment, speculative or bridge-financed development is at risk. Developers should assume permanent debt at 6%+ and model 20%+ cap-rate spreads over current risk-free rates; Atlanta's strong in-migration supports organic rent growth, but overlevered or aggressive stabilized acquisitions will face refinance risk through 2026–2027."
     },
     {
       "title": "Greenberg Traurig Hires Brian Helweil as Shareholder in Global Real Estate Practice",
@@ -152,27 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-12T13:56:03+00:00",
       "bullets": [
-        "Brian Helweil joins Greenberg Traurig as shareholder, global real estate practice, New York office",
-        "Helweil represents landlords, tenants, developers; practice covers office/retail leasing, acquisitions, financings",
-        "GT increasing 'critical mass' in NYC leasing market; strategic priority for law firm"
+        "Brian Helweil joins Greenberg Traurig as shareholder in global real estate practice, NYC office.",
+        "Helweil specializes in commercial office, retail leasing, acquisitions, dispositions, financings; NYC focus.",
+        "GT expanding critical mass in NYC office leasing market; Helweil joins from Loeb & Loeb."
       ],
-      "summary": "New York real estate attorney Brian Helweil has joined law firm Greenberg Traurig as a shareholder in its global real estate practice. Helweil, who brings experience representing landlords, tenants, owners, developers, and investors, previously worked as a partner at Loeb & Loeb for roughly three years. His practice focuses on commercial office and retail leasing, acquisitions, dispositions, financings, and joint ventures across New York and the U.S.",
-      "impact": "Minimal direct impact on multifamily development. Legal talent recruitment signals law firm competition for NYC real estate transaction volume, but Helweil's primary focus is office and retail leasing, not residential. However, his expertise in acquisitions, financings, and joint ventures may signal ongoing institutional deal activity in NYC CRE broadly. Developers should note that GT's strategic emphasis on NYC leasing market depth may indicate expectation of continued transaction velocity despite office headwinds."
-    },
-    {
-      "title": "Artifact Real Estate Buys Historic Odd Fellows Hall in Little Italy for $28M",
-      "link": "https://commercialobserver.com/2026/08/artifact-real-estate-buys-165-grand-street/",
-      "excerpt": "An Uptown Manhattan landlord has purchased a Little Italy office building. Washington Heights-focused Artifact Real Estate Development purchased 165 Grand Street for $28 million from Bijan Nassi of Bijan Royal, according to a deed filing in property records Tuesday afternoon. Nassi, a controversial residential landlord who has fallen into poor standing with the New York City Public Advocate’s office by making the Worst Landlord Watchlist in 2025, acquired the property with an alternative address of 224 Centre Street in 1997 for an unknown amount, property records indicate. It’s unclear whether the sale is tied to a foreclosure action taken by Nassi’s lenders in June 2025 after he defaulted on an $11.4 million loan. It’s also unclear who brokered the deal. Nassi could not be reached for comment, while Artifact did not immediately respond to a request for comment. The six-story building between Centre and Baxter streets has unique Italianate style architecture, and was built around 1847. It served as the former headquarters of the Independent Order of Odd Fellows, a non-political fraternal organization, in the 1880s. It was also given protected status by the New York City Landmarks Preservation Commission in 1982, which recognized the building’s history as one of the earliest extant Italianate style buildings in the city. Mark Hallum can be reached at mhallum@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-12T13:21:12+00:00",
-      "bullets": [
-        "Artifact Real Estate Development purchases 165 Grand Street, Little Italy, for $28M from Bijan Nassi",
-        "Six-story Italianate building (built ~1847); former Odd Fellows Hall headquarters; unclear conversion plans",
-        "Prior owner Nassi acquired 1997; defaulted on $11.4M loan June 2025; foreclosure action unclear"
-      ],
-      "summary": "Artifact Real Estate Development, a Washington Heights-focused landlord, purchased 165 Grand Street (also known as 224 Centre Street) in Little Italy for $28 million from Bijan Nassi. The six-story Italianate building, built around 1847, formerly served as headquarters for the Independent Order of Odd Fellows. Prior owner Nassi acquired the property in 1997 and reportedly defaulted on an $11.4 million loan in June 2025, though the relationship between that default and the current sale is unclear.",
-      "impact": "Historic building acquisition in Little Italy/Nolita signals continued gentrification-driven land value appreciation in lower Manhattan. Artifact's move into Manhattan (expanding from Washington Heights base) suggests capital availability for adaptive reuse and suggests residential conversion potential (the 1847 Italianate structure likely has unit potential under NYC zoning). However, the conversion scope is undisclosed. Historic preservation costs and landmark designation may constrain project economics and timeline; monitor if Artifact pursues residential conversion or office repositioning. Nolita/Little Italy remains tight on new supply; pricing power for resi conversion likely remains strong if entitlements clear."
+      "summary": "New York real estate attorney Brian Helweil has joined Greenberg Traurig as a shareholder in the firm's global real estate practice in its New York office. Helweil, with experience representing both landlords and tenants, specializes in commercial office and retail leasing, acquisitions, dispositions, financings, and joint ventures across the U.S. GT executive leadership cited the hire as a strategic effort to deepen expertise in NYC's office leasing market. Helweil previously spent roughly three years as a partner at Loeb & Loeb.",
+      "impact": "Minimal direct relevance to multifamily development. Law-firm hiring and office-market talent consolidation reflects competitive dynamics in real estate practices but do not signal shifts in multifamily demand, supply, capital, or cost. Indirectly, GT's stated focus on NYC office leasing suggests continued large-tenant activity and deal flow in Manhattan, which supports professional employment and renter demand but does not constrain or enable apartment development."
     }
   ]
 }
