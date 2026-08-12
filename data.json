@@ -1,21 +1,21 @@
 {
-  "fetchedAt": "2026-08-11T23:31:06.318168+00:00",
+  "fetchedAt": "2026-08-12T12:46:38.382628+00:00",
   "rates": [
     {
       "label": "SOFR",
-      "value": "3.63%",
+      "value": "3.64%",
       "pct": 0.01,
       "isBps": true
     },
     {
       "label": "10Y Treasury",
-      "value": "4.68%",
-      "pct": -0.32
+      "value": "4.67%",
+      "pct": -0.38
     },
     {
       "label": "30Y Treasury",
-      "value": "5.24%",
-      "pct": -0.13
+      "value": "5.22%",
+      "pct": -0.31
     },
     {
       "label": "REIT Index (VNQ)",
@@ -25,6 +25,36 @@
   ],
   "stories": [
     {
+      "title": "The Plan: Extell’s 70-Unit 50 West 66th Street Leans Into Luxury Via Hospitality",
+      "link": "https://commercialobserver.com/2026/08/the-plan-extells-70-unit-50-west-66th-street-leans-into-luxury-via-hospitality/",
+      "excerpt": "Central Park views? Check. An abundance of natural light? Check. Doorman? Check. Resort-quality amenities? Check. Honestly, once you move in there’s really no reason to ever leave Extell’s 50 West 66th Street. The 70-story condominium building has two sides: the house, which has 84 units, and the tower with 37 units. Residents began moving in last year, but the building is still undergoing some finishing touches and has a few units that need to be completed. Still, Janice Chang of Douglas Elliman said most buyers purchased based solely on the renderings and floor plans, as they were so taken with the possibilities. “We’ve sold a lot of these apartments sight unseen,” Chang said. “We just started showing people the furnished models, and it’s been so well received, it’s so incredible.” The view from the tower units is nothing short of spectacular. Any of these homes — which range in size from two to six bedrooms and in price from $8 million to $85 million — would make for the perfect retreat for a snuggly day at home reading and watching the city’s activity go by. “This is the best view because it’s panoramic,” Chang said while showing Commercial Observer around a recently completed, nearly 10,000-square-foot unit. “It’s a sweep from the Hudson River all the way to Central Park South. And you’re not very high, you can see all of the trees and landmarks, and up to the George Washington Bridge.” There are touches of luxury throughout each unit, including the white marble kitchens with Miele appliances, double ovens and wine refrigerators. There’s also cabinetry by designer SmallBone, and bathrooms with heated floors, rain showers and deep-soaking tubs. (You know CO is a sucker for a good tub.) There are uniquely designed light fixtures in the units and throughout the building, almost like statement pieces in their own right, bringing more sophistication to the property. “After people move in, they tell me they love it. They are happy with what they’ve received, and they",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-12T10:00:21+00:00",
+      "bullets": [
+        "Extell's 50 West 66th Street: 121 total units ($8M–$85M), 70-story mixed condo tower in Manhattan.",
+        "Buyers purchasing sight-unseen based on renderings; furnished models now showing strong reception.",
+        "Hospitality-grade amenities and services positioning product as ultra-luxury alternative to traditional housing."
+      ],
+      "summary": "Extell's 50 West 66th Street in Manhattan—121 condos across a 70-story building with unit prices ranging $8M to $85M—is leaning into hospitality-grade service and amenities to differentiate its luxury product. Residents have begun moving in, though units are still completing. Most buyers committed based on renderings and floor plans alone, and the newly furnished models are generating strong market reception.",
+      "impact": "This signals a sustained ultra-luxury condo market in Manhattan's prime locations, but the hospitality service model and high entry price ($8M floor) address a narrow demand slice and don't directly inform multifamily rental supply or demand dynamics that drive TCR's core underwriting and development pipeline."
+    },
+    {
+      "title": "Looking Past the Noise: A More Nuanced View of Multifamily",
+      "link": "https://commercialobserver.com/2026/08/looking-past-the-noise-a-more-nuanced-view-of-multifamily/",
+      "excerpt": "The multifamily market is entering a new phase defined less by broad national narratives and more by local realities, operational discipline, and selective opportunity. In a recent conversation on “Inside the Deal, a CRE Podcast by Berkadia®,” host Ernie Katai, executive vice president &#8211; head of production for Berkadia, sat down with rental housing economist Jay Parsons to unpack what is actually happening across multifamily today — beyond the noise of headlines and broad-brush narratives. Parsons emphasized that many common multifamily narratives are too simplistic. He noted that rental housing tends to perform best when the broader economy is strong, household formation is healthy, and consumer confidence is rising, underscoring how closely multifamily is tied to the overall state of the economy. If there is one word Parsons uses repeatedly, it is “resilient.” He described today’s apartment market as choppy and renter-favorable, but still remarkably durable. Even after the largest supply wave since the 1970s, national rent declines have remained relatively modest in aggregate, and vacancy has not deteriorated as severely as many feared. Likewise, while valuations are down from peak levels, the worst-case distress scenarios that many expected several years ago have not materialized at scale. Instead, debt availability and recapitalization have allowed many owners to hold on longer than expected, softening what could have been a far more dramatic correction. That does not mean conditions are easy. Parsons characterized the current phase as both a messy transition and a recovery — a “two steps forward, one step back” environment. Deals are getting done, but not without obstacles. Operators, owners, and capital providers are navigating a far more demanding environment than they did during the boom years, during a market that Katai said was often described as “catching money in buckets.” Today’s market rewards precision, patience, and operational excellence rathe",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-12T04:00:24+00:00",
+      "bullets": [
+        "Berkadia economist: multifamily market is choppy and renter-favorable but 'resilient' post-supply wave.",
+        "National rent declines modest despite largest supply since 1970s; vacancy worse than feared but manageable.",
+        "Thesis: market performance tied to broad economy, household formation, consumer confidence—not monolithic narratives."
+      ],
+      "summary": "Berkadia and economist Jay Parsons argue the multifamily market is entering a phase where local realities, not broad headlines, drive outcomes. Despite the largest supply wave since the 1970s, national rent declines have remained modest, and vacancy deterioration is less severe than feared. Parsons emphasizes that apartment performance depends on macro factors—strong economy, healthy household formation, rising consumer confidence—making the market resilient but market-and-submarket-specific.",
+      "impact": "This reframes TCR's underwriting discipline: oversimplified 'multifamily is saturated' narratives are losing currency, but it reinforces the critical importance of market-by-market and submarket-level selection, household formation tracking, and macro sensitivity. Developers with conviction on local demand and operational discipline will find pockets of opportunity where supply headwinds are less acute and renter absorption is stronger."
+    },
+    {
       "title": "Law Firm Dunn Isaacson Rhee Establishes NYC Office at 7 World Trade Center",
       "link": "https://www.connectcre.com/stories/law-firm-dunn-isaacson-rhee-establishes-nyc-office-at-7-world-trade-center/",
       "excerpt": "Silverstein Properties announced that Dunn Isaacson Rhee LLP has signed a new lease for 11,167 square feet of office space on the 34th floor of 7 World Trade Center. The lease establishes a New York office for the firm, an elite litigation boutique.“Dunn Isaacson Rhee represents the caliber of organization that continues to define 7 World Trade Center as one of Downtown Manhattan’s premier office destinations,” said Keith Cody, Head of Commercial Leasing at Silverstein Properties. “Today’s leading firms are seeking workplaces that reflect their brand, support their people, and provide an exceptional experience for their clients. Through thoughtful design, hospitality-driven amenities, and a commitment to excellence, 7 World Trade Center continues to deliver an environment that meets those expectations.”Tenant representation was provided by Lisa Ann Pollakowski, Cory Gahr and Richard Plehn of Lee &amp; Associates. Ownership was represented in-house by Cody, Gordon Hough, and Harlan Strader, with CBRE agency leasing support from MaryAnn Tighe and team. The post Law Firm Dunn Isaacson Rhee Establishes NYC Office at 7 World Trade Center appeared first on Connect CRE.",
@@ -32,27 +62,27 @@
       "cat": "Commercial",
       "date": "2026-08-11T21:55:31+00:00",
       "bullets": [
-        "Dunn Isaacson Rhee LLP leases 11,167 SF at 7 World Trade Center, Downtown Manhattan",
-        "Law firm office demand signals financial district recovery post-pandemic",
-        "Silverstein Properties continues filling premium office space in Lower Manhattan"
+        "Dunn Isaacson Rhee LLP leases 11,167 SF at 7 World Trade Center, downtown Manhattan office.",
+        "Elite litigation boutique establishing first NYC office; signals office demand for quality brand spaces.",
+        "Silverstein positioning 7 WTC as premier destination for high-caliber firms seeking branded workplaces."
       ],
-      "summary": "Dunn Isaacson Rhee, an elite litigation boutique, signed an 11,167-square-foot lease on the 34th floor of 7 World Trade Center in Lower Manhattan. The lease represents continued office tenant demand at Silverstein Properties' flagship Downtown Manhattan asset. This signals ongoing recovery in the post-pandemic office market, particularly for premium, branded workspaces.",
-      "impact": "Minimal direct impact on multifamily development. Office leasing strength in Downtown Manhattan indicates white-collar job stability, which supports residential demand indirectly, but the effect is modest and already-priced into Manhattan multifamily fundamentals."
+      "summary": "Silverstein Properties announced that litigation boutique Dunn Isaacson Rhee LLP has leased 11,167 square feet on the 34th floor of 7 World Trade Center in downtown Manhattan. The firm is establishing its first New York office at this premier address, signaling selective office tenant demand in Lower Manhattan for high-quality branded spaces.",
+      "impact": "Minimal direct impact on multifamily development. Office leasing in lower Manhattan is upstream from rental housing demand—strong office market does support white-collar job growth and worker population, but this single boutique lease is not a demand signal material enough for TCR's acquisition and development planning."
     },
     {
       "title": "Newmark Closes Note Sale on San Pedro Adaptive Reuse",
       "link": "https://www.connectcre.com/stories/newmark-closes-note-sale-on-san-pedro-adaptive-reuse/",
-      "excerpt": "Newmark arranged the sale of a note secured by Topaz Tower, a fully entitled adaptive reuse development project located at 222 W. 6th St. in San Pedro. The 12-story, 309,732-square-foot office tower is entitled for conversion to 246 market-rate multifamily units. Executive Managing Director Ryan Plummer, Co-Head of U.S. Capital Markets Kevin Shannon, Vice Chairman Ken White, Senior Managing Director Chris Benton and Managing Director Anthony Muhlstein represented the lender. The buyer was 222 PV Harbor View, LLC, a private Los Angeles-based residential developer. “Topaz Tower represents an exceptionally rare opportunity to acquire a fully entitled coastal high-rise multifamily conversion with scale, ocean views and an immediate execution path in a rapidly evolving submarket,” said Plummer. Topaz Tower Apartments will include a mix of studio, one-, two- and three-bedroom residences with an average unit size of 835 square feet. Planned amenities include a rooftop deck with a resort-style pool, ocean-view units, balconies and high ceilings. The post Newmark Closes Note Sale on San Pedro Adaptive Reuse appeared first on Connect CRE.",
+      "excerpt": "Newmark arranged the sale of a note secured by Topaz Tower, a fully entitled adaptive reuse development project located at 222 W. 6th St. in San Pedro. The 12-story, 309,732-square-foot office tower is entitled for conversion to 246 market-rate multifamily units. Executive managing director Ryan Plummer, co-head of U.S. Capital Markets Kevin Shannon, vice chairman Ken White, senior managing director Chris Benton and managing director Anthony Muhlstein represented the lender. The buyer was 222 PV Harbor View, LLC, a private Los Angeles-based residential developer. “Topaz Tower represents an exceptionally rare opportunity to acquire a fully entitled coastal high-rise multifamily conversion with scale, ocean views and an immediate execution path in a rapidly evolving submarket,” said Plummer. Topaz Tower Apartments will include a mix of studio, one-, two- and three-bedroom residences with an average unit size of 835 square feet. Planned amenities include a rooftop deck with a resort-style pool, ocean-view units, balconies and high ceilings. Stay ahead of the multifamily market at Connect Apartments. Gain firsthand insights from industry leaders on capital markets, development, operations, financing, and investment trends while expanding your network with the people making deals happen. See you on September 22! The post Newmark Closes Note Sale on San Pedro Adaptive Reuse appeared first on Connect CRE.",
       "source": "Connect CRE",
       "cat": "Commercial",
       "date": "2026-08-11T21:48:22+00:00",
       "bullets": [
-        "Topaz Tower, San Pedro: 246-unit fully entitled adaptive reuse, 12-story, 309K SF",
-        "Private LA developer 222 PV Harbor View acquired note; coastal high-rise with scale and ocean views",
-        "San Pedro submarket rapidly evolving; adaptive reuse conversions attract capital as rare entitled supply"
+        "Topaz Tower (222 W. 6th St., San Pedro): 12-story office tower fully entitled for 246 market-rate apartments.",
+        "Newmark closed note sale to 222 PV Harbor View LLC, private LA developer; adaptive reuse with ocean views.",
+        "Mix of studio–3BR units (835 SF avg), rooftop pool, balconies; immediate execution path in evolving submarket."
       ],
-      "summary": "Newmark closed a note sale on Topaz Tower, a fully entitled adaptive reuse project in San Pedro converting a 12-story office tower into 246 market-rate multifamily units with an average unit size of 835 square feet. The buyer was 222 PV Harbor View LLC, a private Los Angeles residential developer. The deal signals strong appetite for entitled coastal multifamily conversions in rapidly evolving Los Angeles submarkets.",
-      "impact": "San Pedro's adaptive reuse pipeline is attracting residential capital and showcasing a path to dense, coastal supply in a supply-constrained market. As the submarket evolves (per the deal description), competition for entitled conversions will intensify; developers with land in adjacent submarkets should monitor San Pedro's absorption and rent growth to calibrate timing of their own coastal or near-coastal projects in LA."
+      "summary": "Newmark closed a note sale on Topaz Tower, a fully entitled 12-story adaptive reuse development in San Pedro, California, converting office to 246 market-rate multifamily units. Buyer 222 PV Harbor View LLC, a Los Angeles-based residential developer, acquired the asset which includes studio through 3-bedroom units averaging 835 SF, with ocean views and resort-style amenities. The property has clear entitlements and execution path.",
+      "impact": "San Pedro (coastal LA submarket) is experiencing infill and redevelopment momentum. This entitled office-to-multifamily conversion signals: (1) office stock repositioning as capital-efficient housing supply in transit-adjacent coastal markets, (2) acquisition window for entitled conversion projects where regulatory/entitlement risk is absorbed, and (3) viable demand for coastal high-rise rental product with scale and ocean exposure. TCR should scout similar fully entitled conversion opportunities in LA's secondary coastal corridors before competing developers lock supply."
     },
     {
       "title": "Venture X Coworking Location to Open in Pompano Beach",
@@ -62,27 +92,27 @@
       "cat": "Commercial",
       "date": "2026-08-11T21:40:08+00:00",
       "bullets": [
-        "Venture X signs 20K SF, 10-year lease in Pompano Beach mixed-use development",
-        "Coworking expansion reflects Pompano Beach transformation: new residential, infrastructure, dining, retail",
-        "Grover Corlew's Mayla development anchors mixed-use growth along Atlantic Boulevard"
+        "Venture X coworking lease: 20,000 SF across 44,102 SF office building in Pompano Beach, Fla., 10-year term.",
+        "Space spans 2nd–4th floors of 2020-built office; 85 private suites, 4 meeting rooms; opens 2025.",
+        "Pompano Beach undergoing 'one of most exciting transformations in South Florida'—luxury condos, dining, retail, infrastructure."
       ],
-      "summary": "Priddy Spaces signed a 10-year, 20,000-square-foot lease for a Venture X coworking location at Grover Corlew's Mayla Pompano mixed-use development. The coworking space will occupy the second, third, and fourth floors of a 2020-built office building on East Atlantic Boulevard and is expected to open in 2025. The lease reflects Pompano Beach's rapid transformation from a working-class town into a destination attracting businesses and talent via new residential, dining, retail, and beach proximity.",
-      "impact": "Coworking expansion and business-class amenity growth in Pompano Beach signals rising white-collar and service-class job demand in South Florida, which will drive rental absorption across income tiers in the submarket. Multifamily developers should view Pompano Beach as an emerging micro-market with infrastructure and lifestyle momentum; first-mover advantage in Class A rental apartments near Atlantic Boulevard and waterfront precincts could capture in-migration before rents spike."
+      "summary": "Priddy Spaces signed a 10-year lease for a Venture X coworking location in Pompano Beach, Florida, occupying 20,000 square feet (floors 2–4) of a 44,102 SF office building within Grover Corlew's Mayla Pompano mixed-use development. The location will feature 85 private office suites and four meeting rooms, opening in 2025. Leadership cited Pompano's transformation—new residential, infrastructure, dining, retail—as driver.",
+      "impact": "Pompano Beach, historically working-class, is pivoting to luxury residential and mixed-use infill (Related Group and others building condos). Coworking anchor signals talent/entrepreneurial density clustering in the market. This creates positive demand tailwinds for multifamily in Pompano: job growth, young professional migration, lifestyle amenities maturity. TCR should evaluate rental development sites in walkable Pompano corridors within 0.5 miles of dining/retail/beach access; this demographic is renter-friendly and upscale."
     },
     {
       "title": "Domain Lines Up $176M Financing for Mixed-Income Astoria Rentals",
       "link": "https://www.connectcre.com/stories/domain-lines-up-176m-financing-for-mixed-income-astoria-rentals/",
-      "excerpt": "The Domain Companies has closed on $175.6 million in financing with Wells Fargo for a new mixed-income housing project called Elara, which will deliver 429 new apartments in Astoria, Queens. Domain’s equity partners on the deal are Canyon Partners Real Estate and BLDG Management. The financing was brokered by Chris Peck and Nicco Lupo of JLL Capital Markets. “Astoria is one of New York’s most vibrant and culturally rich neighborhoods, and it has long held a special place in Domain’s history,” said Matt Schwartz, co-CEO of Domain Companies.“We’re proud to deepen that connection by delivering a thoughtfully designed residential community that reflects the character of the neighborhood while offering one of the highest-quality living experiences in the market.” The project includes an 18-story building with 330 apartments called Elara East, and a 12-story building with 99 apartments named Elara West. The development includes 107 permanently affordable homes. The buildings are located at 35-45, 35-33 and 35-42 41st St, with Elara West anticipated to open in February 2028, and Elara East expected in September 2028. The post Domain Lines Up $176M Financing for Mixed-Income Astoria Rentals appeared first on Connect CRE.",
+      "excerpt": "The Domain Companies has closed on $175.6 million in financing with Wells Fargo for a new mixed-income housing project called Elara, which will deliver 429 new apartments in Astoria, Queens. Domain’s equity partners on the deal are Canyon Partners Real Estate and BLDG Management. The financing was brokered by Chris Peck and Nicco Lupo of JLL Capital Markets.&nbsp; “Astoria is one of New York’s most vibrant and culturally rich neighborhoods, and it has long held a special place in Domain’s history,” said Matt Schwartz, co-CEO of Domain Companies.“We’re proud to deepen that connection by delivering a thoughtfully designed residential community that reflects the character of the neighborhood while offering one of the highest-quality living experiences in the market.” The project includes an 18-story building with 330 apartments called Elara East, and a 12-story building with 99 apartments named Elara West. The development includes 107 permanently affordable homes. The buildings are located at 35-45, 35-33 and 35-42 41st St., with Elara West anticipated to open in February 2028, and Elara East expected in September 2028. Stay ahead of the multifamily market at Connect Apartments. Gain firsthand insights from industry leaders on capital markets, development, operations, financing, and investment trends while expanding your network with the people making deals happen. See you on September 22! The post Domain Lines Up $176M Financing for Mixed-Income Astoria Rentals appeared first on Connect CRE.",
       "source": "Connect CRE",
       "cat": "Commercial",
       "date": "2026-08-11T21:39:32+00:00",
       "bullets": [
-        "Domain Companies closes $175.6M financing (Wells Fargo) for Elara, 429 units in Astoria, Queens",
-        "Mixed-income: 107 permanently affordable homes among 330 units (East) + 99 units (West)",
-        "Two-tower development, Q2 2028 and Q3 2028 deliveries; equity partners: Canyon Partners, BLDG Management"
+        "Domain Companies closes $175.6M Wells Fargo financing for Elara (429 apartments) in Astoria, Queens.",
+        "Two buildings: Elara East (18-story, 330 units) opening Sept 2028; Elara West (12-story, 99 units) opening Feb 2028.",
+        "107 permanently affordable units; mixed-income product; located 35-45, 35-33, 35-42 41st Street, Astoria."
       ],
-      "summary": "Domain Companies secured $175.6 million in construction financing from Wells Fargo for Elara, a 429-unit mixed-income rental project in Astoria, Queens. The development comprises two buildings—Elara East (330 units, 18 stories) and Elara West (99 units, 12 stories)—with 107 permanently affordable units. Elara West is expected to deliver in February 2028 and Elara East in September 2028. JLL Capital Markets brokered the financing; equity partners are Canyon Partners Real Estate and BLDG Management.",
-      "impact": "Large, stabilized construction financing with a quasi-public equity co-investor signals confidence in Astoria's rental fundamentals and acceptance of mixed-income underwriting by marquee lenders. Astoria has been a magnet for in-migration and young professional households; Domain's scale and permanent affordability commitment suggest the submarket can support both market-rate and subsidized supply. Competitors should monitor Astoria absorption and rent trajectory post-2028 to gauge whether mixed-income projects canScale; if successful, it could unlock land sites held by non-profits or institutions seeking mixed-income conversion partners."
+      "summary": "The Domain Companies closed $175.6 million in financing with Wells Fargo for Elara, a mixed-income rental project delivering 429 apartments across two buildings in Astoria, Queens. Elara East (18-story, 330 units, opening Sept 2028) and Elara West (12-story, 99 units, opening Feb 2028) will include 107 permanently affordable homes. Equity partners are Canyon Partners Real Estate and BLDG Management.",
+      "impact": "Astoria continues to attract institutional capital and major development despite Queens market saturation concerns. The ability to close $176M for a 429-unit mixed-income project signals: (1) permanent affordability mandates remain financeable (likely via tax credits and subsidy), (2) Queens rental demand remains sufficient to support mid-market + affordable blend, (3) development timeline extends 3+ years, requiring TCR to model absorption against competing Queens supply. Astoria submarkets with lower density zoning and less pipeline may offer better IRR opportunities."
     },
     {
       "title": "La La Land Cafe Signs with Brixton Capital for First San Diego Location",
@@ -92,12 +122,12 @@
       "cat": "Commercial",
       "date": "2026-08-11T21:26:44+00:00",
       "bullets": [
-        "La La Land Café signs lease at Brixton Capital's Del Mar Plaza retail, San Diego",
-        "1,168 SF mezzanine/café space; brand expansion (30+ locations since 2019) entering San Diego market",
-        "Retail tenant quality upgrade reflects neighborhood amenity lift and foot-traffic potential"
+        "La La Land Café (30+ locations, founded 2019) signs first San Diego location at Brixton Capital's Del Mar Plaza.",
+        "1,168 SF interior + terrace space; replaces Pacifica Breeze Café; opening timeline TBD.",
+        "Brixton Capital positioning Del Mar Plaza as upscale retail destination with dynamic F&B anchors."
       ],
-      "summary": "Brixton Capital secured a lease with La La Land Café for 1,168 square feet of mezzanine and café space at Del Mar Plaza in San Diego. La La Land, which has grown to over 30 locations since its founding in 2019, is expanding into San Diego for the first time. The space replaces Pacifica Breeze Café. Construction start and opening dates are not yet determined.",
-      "impact": "Minimal direct multifamily development impact. Retail tenant upgrading at a premier shopping center suggests sustained affluent-consumer spending in the Del Mar submarket, which indirectly supports demand for Class A apartments and mixed-use. However, the effect is localized to retail and does not signal material supply or capital shifts relevant to multifamily development timing."
+      "summary": "Brixton Capital secured a lease with La La Land Café for 1,168 square feet at Del Mar Plaza in San Diego, marking La La Land's first location in the market. The fast-growing brand (30+ locations since 2019) will occupy interior space plus terrace, replacing the former Pacifica Breeze Café. Grand opening date not yet determined; lease terms undisclosed.",
+      "impact": "Minimal direct impact on multifamily development. This is F&B retail leasing in an upscale shopping center. However, La La Land's rapid expansion and strong early-market selection suggest a national lifestyle/social venue brand capturing affluent, younger demographics—a positive indicator for premium residential markets where TCR develops. No specific supply or demand signal for rental housing."
     },
     {
       "title": "JLL Arranges Sale of Two Twin Cities Seniors Housing Properties",
@@ -107,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-08-11T21:22:47+00:00",
       "bullets": [
-        "JLL arranges sale of 216-unit seniors housing portfolio (Boulder Ponds, Round Lake) to LTC Properties",
-        "Portfolio: Lake Elmo and Arden Hills, Minnesota; strong 98% occupancy at Boulder Ponds (opened 2020); Round Lake opened 2023",
-        "Lifespark remains operator; both communities offer independent, assisted, and memory care"
+        "JLL arranges sale of Boulder Ponds (95 units, Lake Elmo) and Round Lake (121 units, Arden Hills) senior living.",
+        "Portfolio: 216-unit seniors housing; 98% occupancy at Boulder Ponds (opened 2020); Round Lake opened 2023.",
+        "Buyer: LTC Properties, Inc.; operator remains Lifespark; Twin Cities stronghold for purpose-built seniors communities."
       ],
-      "summary": "JLL arranged the sale of Boulder Ponds Senior Living (95 units, Lake Elmo, opened 2020) and Round Lake Senior Living (121 units, Arden Hills, opened 2023) to LTC Properties, Inc. The 216-unit seniors housing portfolio was developed and sold by Trident Development. Boulder Ponds maintains approximately 98% occupancy and strong operating performance. Lifespark will remain the operator of both communities.",
-      "impact": "Limited direct bearing on market-rate multifamily. Seniors housing asset sales in Twin Cities reflect institutional appetite for stabilized, operator-managed age-restricted communities, but this signals demographic strength and long-term population aging that supports rental demand across all housing types in the Metro. Multifamily developers should note Twin Cities' stable labor market and in-migration trends, which have supported both market-rate and affordable absorption; continued strong seniors housing fundamentals validate the metro's demographic tailwinds."
+      "summary": "JLL facilitated the sale of two purpose-built seniors housing communities in the Twin Cities—Boulder Ponds Senior Living (95 units, Lake Elmo, opened 2020, ~98% occupied) and Round Lake Senior Living (121 units, Arden Hills, opened 2023)—to LTC Properties, Inc. Portfolio total: 216 units. Lifespark continues to operate both communities, which offer independent living, assisted living, and memory care.",
+      "impact": "Senior housing is a distinct asset class from TCR's core multifamily rental development, with different financing, ops, and exit profiles. However, strong occupancy at newer communities (98% at Boulder Ponds; recent stabilization at Round Lake) and rapid portfolio sale to established operator (LTC) signals healthy seniors housing demand in Twin Cities, particularly in suburban markets with healthcare access. Not actionable for TCR unless pursuing seniors or co-living product."
     },
     {
       "title": "AI Wealth Management Platform Vise Grabs 12K SF at 50 Ninth Avenue",
@@ -122,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-08-11T20:13:47+00:00",
       "bullets": [
-        "Vise (AI wealth mgmt platform, $22B valuation, $100B AUM) expands NYC footprint: SoHo to Meatpacking",
-        "11,949 SF lease at 50 Ninth Avenue (2nd floor); 10-year term; quadruples space from 4K SF",
-        "Tenant expansion reflects fintech/digital asset class strength and Manhattan office demand at premium rents ($150/SF)"
+        "Vise (AI wealth mgmt, $22B valuation, $100B+ AUM) quadruples office space to 11,949 SF at 50 Ninth Avenue, Meatpacking.",
+        "10-year lease at $150/SF; expands from 4,000 SF SoHo space; dramatic 20+ ft ceilings, garden atrium.",
+        "Founded Nov 2019; high-growth fintech firm anchoring premium Manhattan office market with modern amenities."
       ],
-      "summary": "Vise, an AI-powered wealth management platform valued at $22 billion and managing over $100 billion in assets, is relocating from SoHo to 50 Ninth Avenue in the Meatpacking District. The firm will quadruple its office footprint from 4,000 to 11,949 square feet under a 10-year lease at $150 per square foot. Current Real Estate Advisors represented the tenant; Newmark represented the landlord, Tavros Capital.",
-      "impact": "Fintech and digital-asset-class tenant growth in Meatpacking District (and broader Manhattan) indicates sustained high-wage job concentration and ecosystem strength in NYC, supporting rental demand for Class A apartments and luxury residential near major office clusters. Vise's footprint expansion signals confidence in NYC's talent pool and premium office market; multifamily developers near transit and office anchors (e.g., Hudson Yards, Meatpacking, Soho) should expect continued rental demand from white-collar workers in tech and finance."
+      "summary": "AI-powered wealth management platform Vise is relocating from SoHo to 50 Ninth Avenue in Manhattan's Meatpacking District, quadrupling its office footprint to 11,949 square feet on a 10-year lease at $150/SF. The space features dramatic 20-foot-plus ceilings and an atrium garden. Vise, valued at $22 billion and hosting $100 billion in AUM, represents high-growth fintech anchoring premium Manhattan office.",
+      "impact": "Another Manhattan office lease for a high-growth, VC-backed tech/fintech firm. While office demand is outside TCR's core, this signals continued concentration of well-capitalized, young-demographic talent and employers in Manhattan (especially West Village/Meatpacking), supporting rental demand for proximate multifamily. No direct supply or capital implication for TCR development."
     },
     {
       "title": "SME Capital Forced to Hand Over Hudson Yards Condo Building to Residents",
@@ -137,42 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-11T19:01:09+00:00",
       "bullets": [
-        "SME Capital Ventures forced to surrender 441 West 37th Street (Hudson Yards) 9-unit condo to board",
-        "Private equity firm acquired out of foreclosure (2023), failed to pay bills, ignored safety violations; $700K settlement",
-        "Regulatory intervention and condo ownership conflict; developer accountability and investor-operator governance risk"
+        "SME Capital Ventures forced to hand over 441 W. 37th St. (9-unit condo) to residents by NY AG office.",
+        "SME acquired building out of foreclosure in 2023, failed to pay bills, violated safety codes; settled for $700K.",
+        "Building built 2020 by Levi Balkany; 35 homeless residents ousted when SME took control; AG enforcement action."
       ],
-      "summary": "Private investment firm SME Capital Ventures is surrendering ownership of 441 West 37th Street, a nine-unit condominium building in Hudson Yards, to the condominium board following an investigation by New York Attorney General Letitia James. SME acquired the building at foreclosure in 2023 but failed to pay bills and address safety violations. The settlement includes a $700,000 payment. The building was originally developed by Levi Balkany in 2020.",
-      "impact": "Regulatory and reputational risk for institutional residential investors and foreclosure acquirers in NYC. The enforcement action signals heightened AG scrutiny of private equity and institutional buyer conduct in residential assets, particularly condo buildings and small multifamily properties. Developers should be aware that distressed-asset acquisitions or condo conversions carry heightened governance and compliance risk under NY law; partnerships with experienced operators and robust legal/compliance frameworks are now table-stakes to avoid AG enforcement and loss of asset control."
-    },
-    {
-      "title": "Sisters of the Visitation Monastery Sells to Integritas Capital for $42M",
-      "link": "https://commercialobserver.com/2026/08/bay-ridge-monastery-sale-brooklyn-miami-developers/",
-      "excerpt": "A 170-year-old monastery in Bay Ridge, Brooklyn, has sold for $42.25 million. The Sisters of the Visitation’s 7.5-acre campus at 8902 Ridge Boulevard — a campus behind 30-foot stone walls, with a monastery, chapel and school — was bought by a group of Brooklyn-based developers and investors with a history of large residential projects, including leaders of Integritas Capital and Heights Advisors. A petition by the Catholic religious order to sell its real estate was approved by the office of the New York State Attorney General on Monday. Nonprofits are required by New York law to obtain approval when it sells all or most of its assets. The buyer entity, 1137 91 LLC, is led by Brooklyn real estate investor Stephen Palmese, founder of private equity platform Integritas Capital (and a former vice chair at JLL). Passive investors included Rachel Foster, founder and president of Brooklyn housing developer Heights Advisors, alongside the developer’s director, Scott Geddes, as well as Daniel Kodsi and Matthew Kodsi . The longtime professional partners are planning a resort-residential tower in Fort Lauderdale, according to The Real Deal. Palmese’s Integritas is also the lender behind a forthcoming 27-story church-to-residential conversion in Brooklyn’s Fort Greene. The cohort of buyers suggests the historic property’s likely fate as a major mixed-used or residential development. The Visitation Sisters entered into an initial contract in late April, according to the filing, but the school and monastery have been shuttered since 2024, after their numbers dropped too low to sustain full ministry. The Visitation Sisters, formally the Order of the Visitation of Holy Mary, were a French order founded in 1610. Their presence in Brooklyn dates back to 1855. The sellers expect net proceeds of $40.9 million, according to the filing, which will be held in escrow under an approved dissolution and distribution of assets plan. The beneficial owners and their representatives did not resp",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-11T18:30:43+00:00",
-      "bullets": [
-        "Sisters of the Visitation Monastery, Bay Ridge Brooklyn, sells 7.5-acre campus to Integritas Capital for $42.25M",
-        "Buyer: 1137 91 LLC led by Stephen Palmese (Integritas Capital, ex-JLL); passive investors include Heights Advisors",
-        "Large-scale institutional land play; 170-year-old nonprofit real estate conversion signals development pipeline opportunity"
-      ],
-      "summary": "The Sisters of the Visitation Monastery sold its 7.5-acre campus at 8902 Ridge Boulevard in Bay Ridge, Brooklyn, to a group of Brooklyn-based developers and investors led by Stephen Palmese (founder of Integritas Capital and former JLL vice chair) for $42.25 million. The deal includes passive investment from Rachel Foster (Heights Advisors) and Daniel and Matthew Kodsi. The campus, situated behind 30-foot stone walls and comprising a monastery, chapel, and school, required approval from the NY State Attorney General.",
-      "impact": "Major institutional land acquisition in Bay Ridge signals developer appetite for large, entitled or easily-entitleable sites in Brooklyn submarkets outside Crown Heights and Williamsburg. The deal price ($42.25M for 7.5 acres ≈ $2.52M/acre) and buyer profile (experienced Brooklyn residential developers) suggests a near-term multifamily development or mixed-use master-plan is likely. Competitors should monitor Bay Ridge zoning and entitlement trends; the submarket could become a secondary growth corridor as waterfront and central Brooklyn sites become scarce and expensive. First-mover advantage exists for developers with aligned community and agency relationships."
-    },
-    {
-      "title": "Benefit Street Partners Provides $103M Bridge Debt for Texas Multifamily Portfolio",
-      "link": "https://commercialobserver.com/2026/08/benefit-street-partners-103m-texas-multifamily-portfolio/",
-      "excerpt": "Vantage Communities has secured $103 million in bridge debt to refinance a three-property, 864-unit multifamily portfolio in three cities in Texas, Commercial Observer can first report. Benefit Street Partners provided the debt, which will finance the property toward full stabilization and is structured as a floating-rate, interest-only bridge loan with a three-year term. Greystone Capital Advisors&#8216; Drew Fletcher, Bryan Grover, Jesse Kopecky and Cameron Behr arranged the transaction. &#8220;Benefit Street Partners recognized the quality of the sponsorship, the assets, and the long-term fundamentals supporting these dynamic Central Texas markets,” said Fletcher. The three assets are split among Vantage at Hutto — a 288-unit complex located at 1051 North Farm to Market 1660 in Hutto, Tex., just outside of Austin; Vantage at McKinney Falls — a 288-unit complex located at 7900 McKinney Falls Parkway in suburban Austin, Tex.; and Vantage at Fair Oaks — a 288-unit complex located at 9135 Dietz Elkhorn Road in Boerne, Tex. outside of San Antonio. All three assets opened in either 2023 or 2024 and feature amenities such as resident clubhouses, fitness centers and resort-style swimming pools. &#8220;We were pleased to structure a financing solution that met our clients&#8217; objectives while leveraging the strength of this high-quality, recently delivered portfolio,&#8221; added Fletcher in a statement. Brian Pascus can be reached at bpascus@commercialobserver.com. &nbsp;",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-11T18:16:18+00:00",
-      "bullets": [
-        "Vantage Communities secures $103M floating-rate bridge debt (Benefit Street Partners) for 864-unit TX portfolio",
-        "Three assets: Hutto (288u), McKinney Falls/Austin (288u), Fair Oaks/Boerne (288u); 3-year term, interest-only",
-        "Central Texas market fundamentals support bridge capital; sponsor quality and submarket growth drive lender confidence"
-      ],
-      "summary": "Vantage Communities secured $103 million in floating-rate bridge debt from Benefit Street Partners to refinance a three-property, 864-unit multifamily portfolio across Hutto, McKinney Falls (Austin), and Fair Oaks (Boerne), Texas. The loan is structured as interest-only with a three-year term. Greystone Capital Advisors arranged the transaction. The deal reflects lender confidence in the quality of the sponsor, the assets, and long-term fundamentals in Central Texas markets.",
-      "impact": "Bridge lending availability and favorable terms for stabilized multifamily in Central Texas signal strong capital-markets confidence in Austin metro and secondary-tier Texas markets (Boerne, Hutto). Strong sponsor reputation and portfolio scale are de-risking floating-rate exposure; the 3-year term reflects exit flexibility via permanent financing or sale. Multifamily developers in Central Texas should view this as validation of market fundamentals and sponsor quality as key underwriting levers. Compete on operational excellence and sponsor track record; markets themselves are competitive and supply-constrained, favoring experienced operators with proven asset management and exit optionality."
+      "summary": "The New York Attorney General's office compelled SME Capital Ventures to hand over ownership of 441 West 37th Street (Hudson Yards, 9-unit condo) to the condominium board after investigation revealed SME—which acquired the building at foreclosure auction in 2023—failed to pay operating expenses, violated safety codes, and ousted 35 formerly homeless residents. SME settled by paying $700,000 and surrendering title.",
+      "impact": "This is enforcement action on a failed foreclosure play in condo conversion, not a multifamily rental signal. However, it flags regulatory and reputational risk for developers acquiring distressed/foreclosed buildings in Manhattan without robust due diligence on tenant protections and legal compliance. For TCR: avoid aggressive foreclosure or distressed condo plays in NYC without strong legal, tax, and title review; regulatory scrutiny on affordable/vulnerable tenant displacement is intensifying."
     }
   ]
 }
