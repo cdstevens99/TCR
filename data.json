@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-12T14:15:13.199344+00:00",
+  "fetchedAt": "2026-08-12T15:51:58.991820+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -9,21 +9,126 @@
     },
     {
       "label": "10Y Treasury",
-      "value": "4.66%",
-      "pct": -0.43
+      "value": "4.67%",
+      "pct": -0.3
     },
     {
       "label": "30Y Treasury",
-      "value": "5.23%",
-      "pct": -0.17
+      "value": "5.24%",
+      "pct": -0.02
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "96.80",
-      "pct": 0.44
+      "value": "97.27",
+      "pct": 0.92
     }
   ],
   "stories": [
+    {
+      "title": "AI Insurance Firm WithCoverage Signs 18K-SF Lease at 200 Varick Street",
+      "link": "https://commercialobserver.com/2026/08/withcoverage-sublease-200-varick-street/",
+      "excerpt": "An artificial intelligence-powered insurance technology company subleasing space in Hudson Square has the attention of Gov. Kathy Hochul. While WithCoverage is only taking 17,663 square feet at GFP Real Estate’s 200 Varick Street, Hochul emphasized future economic benefits of the deal, such as the creation of 205 new jobs, according to a Wednesday announcement. WithCoverage also plans to invest $25 million in research and development operations in New York City over the next five years, according to Hochul. GFP Real Estate did not immediately disclose the names of brokers, the length of the lease or the asking rent for the building, but the average office asking rent in Midtown South was $85.73 per square foot in the second quarter of 2026, according to a report from CBRE. It’s unclear who the sublandlord is, but WithCoverage’s new Hudson Square office will be in addition to its current offices at 25 East 21st Street. “New York continues to attract the world’s fastest-growing technology companies because we have the talent, innovation ecosystem and business environment they need to succeed,” Hochul said in a statement. “WithCoverage’s decision to expand in New York City and create more than 200 high-quality jobs is another example of our strategy to grow the industries of the future while strengthening our economy today.” Some prominent business leaders such as Citadel’s Ken Griffin and Vornado Realty Trust’s Steve Roth have been critical of Mayor Zohran Mamdani and Hochul’s policies of late, stating the pied-a-terre tax could drive businesses away from the city. But overall, the office market does not seem to be losing steam. Manhattan office leasing velocity rose 22 percent from June to July alone, and 28.4 percent year-over-year from July 2025, according to Colliers data. “New York is where the best of technology and the best of people come together, from insurance experts and attorneys to AI engineers and product designers,” WithCoverage CEO and founder Max Bren",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-12T15:31:41+00:00",
+      "bullets": [
+        "WithCoverage AI insurance firm leases 17,663 SF at 200 Varick Street, Hudson Square Manhattan",
+        "Company commits $25M R&D investment, 205 jobs over 5 years in NYC",
+        "Midtown South office asking rent $85.73/SF Q2 2026; sublet signals continued tech demand"
+      ],
+      "summary": "WithCoverage, an AI-powered insurance tech company, signed an 18K-SF sublease at 200 Varick Street in Hudson Square with plans to invest $25 million in NYC R&D over five years and create 205 jobs. The deal underscores continued demand for office space by high-growth tech firms despite broader office headwinds. Midtown South office rents averaged $85.73/SF in Q2 2026.",
+      "impact": "Tech talent agglomeration in Manhattan (especially Hudson Square/Midtown South) continues to anchor office leasing and signals underlying demand for adjacent residential in high-wage job corridors. However, the lease is a sublease, not direct—evidence of existing supply overhang. Net effect: modest positive for renter demand in Manhattan submarkets with strong tech employment (Flatiron, SoHo, Lower East Side conversion corridors), but developer caution warranted on new multifamily given lingering office vacancy."
+    },
+    {
+      "title": "Pearlmark Offloads 216-Unit Bradenton Apartment Community",
+      "link": "https://www.connectcre.com/stories/pearlmark-offloads-216-unit-bradenton-apartment-community/",
+      "excerpt": "Pearlmark has sold ShoreView Waterfront Apartments, a 216-unit Class A waterfront multifamily community located at 1161 3rd Avenue N in downtown Bradenton. Berkadia’s Matt Mitchell and Chris Burtner of Berkadia Florida arranged the sale on behalf of Pearlmark, which acquired the property through a mezzanine lender foreclosure before broadly marketing the asset for sale. The Cedarwood Companies acquired the property for an undisclosed amount. Completed in 2021, ShoreView Waterfront Apartments features one-, two- and three-bedroom apartment homes ranging from 760 to 1,416 square feet, with an average unit size of 1,024 square feet. Community amenities include a swimming pool, clubroom with resident lounge, fitness center, elevators, outdoor fire pit, outdoor kitchen and grilling area, dog-washing station, EV charging stations, package receiving area, on-site maintenance, storage units and garages. The post Pearlmark Offloads 216-Unit Bradenton Apartment Community appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-12T14:50:07+00:00",
+      "bullets": [
+        "Pearlmark sells ShoreView Waterfront Apartments, 216 units, Bradenton FL to Cedarwood Companies",
+        "2021-built Class A property, $1.3M average rent/unit pricing, waterfront downtown location",
+        "Mezzanine foreclosure exit; new owner positioned for value-add or hold-and-operate"
+      ],
+      "summary": "Pearlmark divested ShoreView Waterfront Apartments, a 216-unit Class A community in downtown Bradenton completed in 2021, to Cedarwood Companies for an undisclosed price. The property was acquired by Pearlmark through mezzanine lender foreclosure. The asset features waterfront location, premium amenities (saltwater pool, EV charging, garages), and strong unit mix (avg. 1,024 SF).",
+      "impact": "Bradenton waterfront resi remains an active acquisition target for stabilized operators, signaling continued demand strength in South Florida's secondary coastal markets. Mezzanine lender recovery indicates prior owner overleveraged post-2021; watch for similar distress sales in Bradenton/Tampa Bay as bridge debt matures. No new supply signal here—steady-state absorption of recent vintage Class A drives cap rate compression and operator consolidation."
+    },
+    {
+      "title": "Brooklyn Developers to Acquire Church Site in Downtown Brooklyn for Resi Project",
+      "link": "https://commercialobserver.com/2026/08/tankhouse-sale-church-downtown-brooklyn-residential-360-schermerhorn-street/",
+      "excerpt": "Tankhouse and Lonicera Partners — a pair of Brooklyn-based developers — are in contract to acquire a church property in Downtown Brooklyn and build a new residential building on the site. The developers are set to buy the development site at 360 Schermerhorn Street on the border of Boerum Hill for $28.3 million from the First Baptist Church in Pierrepont Street, a petition filed Tuesday in Kings County Supreme Court shows. Tankhouse and Lonicera are planning to demolish the existing two-story religious structure to build residential housing, according to the filing, though there is no more information currently available regarding what the project would entail. The signatories on the contract were pastor Edwin Colon for the seller and Sam Alison-Mayne, co-founder of Tankhouse, for the buyers. The church could not be reached for comment, while the developers did not immediately respond to Commercial Observer’s requests for comment. The church, which claimed in the petition that its current Schermerhorn Street site is “a financial burden,” plans to transition to a new location as part of the deal and will relocate all its existing ministries and continue providing similar services at its new site, according to the filing. The Downtown Brooklyn site spans about 145,000 buildable square feet, according to data from PincusCo. The agreement is contingent on approval from the congregation, as well as no objection by the Attorney General of the State of New York. Nonprofits are required by New York law to obtain approval when it seeks to sell its assets. Church properties have been changing hands around Brooklyn lately. A 170-year-old monastery in Bay Ridge sold for $42.25 million this week, CO reported. The Sisters of the Visitation’s 7.5-acre campus at 8902 Ridge Boulevard was sold to a group of Brooklyn developers including Integritas Capital and Heights Advisors. Developers are also planning more housing around Brooklyn. Earlier this summer, Moses Karpen of Waterfront P",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-12T14:40:37+00:00",
+      "bullets": [
+        "Tankhouse and Lonicera Partners under contract to buy church site, 360 Schermerhorn Street, Downtown Brooklyn",
+        "$28.3M acquisition price; demolition planned for new residential building, no unit count disclosed",
+        "Site on Boerum Hill/Downtown Brooklyn border; church exiting due to financial burden"
+      ],
+      "summary": "Brooklyn-based developers Tankhouse and Lonicera Partners are in contract to acquire a two-story church property at 360 Schermerhorn Street in Downtown Brooklyn (Boerum Hill border) for $28.3 million from First Baptist Church in Pierrepont Street. The developers plan to demolish the existing structure and build new residential housing, though project scope remains undisclosed. The church cited financial strain as the reason for relocation.",
+      "impact": "Downtown Brooklyn continues to attract infill residential redevelopment capital; acquisition of religious/institutional sites for resi conversion signals land scarcity and strong developer conviction in submarket fundamentals. Low density institutional land in walkable, transit-rich neighborhoods (Brooklyn Heights/Boerum Hill proximity to subway) commands premium pricing relative to project economics, likely requiring rental or mixed-income mix to pencil. Monitor Downtown Brooklyn delivery pipeline—strong leasing velocity and rent growth could support higher density on completed church site than competitors can underwrite."
+    },
+    {
+      "title": "ArrowMark Partners Refis Utah Apartments With $58M Bridge Loan",
+      "link": "https://commercialobserver.com/2026/08/arrowmark-partners-utah-apartments/",
+      "excerpt": "A joint venture between Alpha Development Group and Bow River Capital has sealed $58 million of bridge debt to refinance two newly delivered adjacent multifamily developments in Utah’s Heber Valley, Commercial Observer has learned. ArrowMark Partners provided the three-year fixed-rate loan to retire past construction debt and support lease-up of the Klein Huis at Turner Mill and Sequoia Apartments at Turner Mill properties in Heber City, Utah. Both properties, comprising 286 total units, were completed in 2024. KeyBank Real Estate Capital&#8216;s Jack Tidrick negotiated the debt. Rob Brown, portfolio manager and head of real estate at ArrowMark Partners, said both properties are well positioned for success given the lack of multifamily supply in Heber City, which is within commuting distance of Salt Lake City and Park City. “Greater Salt Lake and even pulling closer towards Park City has seen a lot of population growth over the past couple years,” Brown told CO. “It has gotten very expensive to own in this area so a lot of people are now renters.” Located at 105 East Turner Mill Road, Sequoia Apartments at Turner Mill consists of 145 units ranging from one to three bedrooms. Community amenities include a swimming pool, fitness center, pickleball court and dog run. The Klein Huis at Turner Mill on 144 East Turner Mill Road features 141 townhome style units in one to three-bedroom layouts. Its amenities include a fire pit, barbeque area, dog run and disc golf. Alpha Development Group, Bow River Capital and KeyBank did not immediately return requests for comment. Andrew Coen can be reached at acoen@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-12T14:38:10+00:00",
+      "bullets": [
+        "ArrowMark Partners closes $58M bridge loan for Klein Huis and Sequoia Apartments, Heber City Utah",
+        "286 total units, both completed 2024; three-year fixed-rate refi retiring construction debt",
+        "Heber Valley near Salt Lake City and Park City; lender cites low multifamily supply, population growth"
+      ],
+      "summary": "A joint venture of Alpha Development Group and Bow River Capital secured $58 million of three-year fixed-rate bridge financing from ArrowMark Partners to refinance Klein Huis at Turner Mill and Sequoia Apartments at Turner Mill, two adjacent 2024-completed properties totaling 286 units in Heber City, Utah. The loan retired prior construction debt and supports lease-up. The submarket benefits from proximity to Salt Lake City and Park City with limited new supply.",
+      "impact": "Heber Valley/Park City corridor faces tight supply and in-migration from Salt Lake City—strong lease-up conditions and low competing inventory create favorable pricing power for newer vintage product. Bridge financing signals developer confidence in lease-up and near-term refi/exit, but fixed-rate terms at this stage suggest lenders remain cautious on rate trajectory. Watch for similar Wasatch Front acquisitions and new starts as population pressure mounts and supply constraints persist through 2026–2027."
+    },
+    {
+      "title": "Turnbridge Acquires Raleigh Apartments, Upgrades on Way",
+      "link": "https://www.connectcre.com/stories/turnbridge-acquires-raleigh-apartments-upgrades-on-way/",
+      "excerpt": "Turnbridge Equities acquired the 320-unit Skyhouse Raleigh, a multifamily community in downtown Raleigh. ACORE CAPITAL provided a $62 million first mortgage on the property. Equity for the transaction was provided by Turnbridge. Northmarq brokered the sale and arranged the debt financing. In a Turnbridge release, the company asserts that while recent years brought record-setting new supply to the market, that inventory is being absorbed quickly, and now only about 300 units are currently under construction in Downtown Raleigh, with delivery of those units not expected until late 2027. Turnbridge is planning a comprehensive value-add renovation program to update the 2015 building. The renovation will commence in the fall and include upgrades to the building&#8217;s common spaces, amenities, and units. The building has balconies in every unit, a 23rd-floor rooftop saltwater pool, a sky terrace, a fitness center, and a tenant lounge. The post Turnbridge Acquires Raleigh Apartments, Upgrades on Way appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-12T14:31:41+00:00",
+      "bullets": [
+        "Turnbridge Equities acquires Skyhouse Raleigh, 320 units, with $62M first mortgage from ACORE CAPITAL",
+        "2015-built property; only 300 units under construction downtown, no deliveries until late 2027",
+        "Value-add renovation program commencing fall; saltwater pool, balconies in all units, strong amenities"
+      ],
+      "summary": "Turnbridge Equities acquired Skyhouse Raleigh, a 320-unit multifamily community in downtown Raleigh completed in 2015, with $62 million first mortgage financing from ACORE CAPITAL. Turnbridge is planning a comprehensive value-add renovation including common space and unit upgrades. Downtown Raleigh's new supply has been absorbed quickly; only ~300 units are under construction with no deliveries expected until late 2027.",
+      "impact": "Downtown Raleigh rental market is entering supply tightness phase—recent record deliveries are leasing fast, and the project pipeline is thin through 2027. This creates favorable conditions for value-add operators and signals rising rents for stabilized assets. Turnbridge's entry and renovation plan suggest confidence in continued demand, likely driven by tech/financial services job growth in Research Triangle. Developers should accelerate land acquisition and entitlements for downtown Raleigh projects now; window for favorable underwriting could narrow as supply tightens and rents reset higher."
+    },
+    {
+      "title": "U.S.-Japan Yen Intervention Puts Global Interest Rates in Focus",
+      "link": "https://www.connectcre.com/stories/u-s-japan-yen-intervention-puts-global-interest-rates-in-focus/",
+      "excerpt": "Executive Summary Japan and the United States recently jointly intervened to support the yen after the currency weakened to nearly ¥164 per dollar, its lowest level in roughly four decades. The operation briefly drove the yen to ¥155.20, its strongest level since May, before it surrendered part of the gain and settled near ¥157.50. The intervention provided immediate relief, but its longer-term effectiveness will depend less on the amount spent than on interest rates. Previous episodes show that official yen purchases have struggled when Federal Reserve policy was restrictive and proved more durable when U.S. rates subsequently declined. Law of Diminishing Returns Japan’s interventions are becoming larger while producing shorter-lived results. The latest action also comes as demand weakens for Japanese government bonds, threatening to push domestic yields higher and make JGBs more competitive with U.S. Treasuries. That combination creates several risks: Japan could reduce its Treasury holdings to finance future interventions, Japanese investors could repatriate capital as domestic yields rise, and a rapidly appreciating yen could destabilize the multitrillion-dollar carry trade, where an investor borrows money in a currency or asset with a low interest rate and uses those funds to buy higher-yielding assets or currencies. Japan’s Expensive Battle Since resuming yen purchases in September 2022, the Ministry of Finance has spent an estimated $240 billion to $255 billion supporting the currency, depending on the exchange rates used to translate official yen figures. Despite those purchases, the currency subsequently fell to new multidecade lows. That total excludes last week’s actions because Japan has not released the official amount. Preliminary money-market data and private estimates suggest authorities may have spent nearly $100 billion over two days and potentially a record 48-hour intervention. The latest operation lifted the yen sharply, but its partial reversal",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-12T14:10:50+00:00",
+      "bullets": [
+        "U.S. and Japan jointly intervened to support yen; currency fell to ¥164/dollar (40-year low)",
+        "Intervention briefly strengthened yen to ¥155.20 (May high), then reversed to ¥157.50; durability questioned",
+        "Weak JGB demand and rising domestic yields threaten Treasury holdings and carry trade stability"
+      ],
+      "summary": "The U.S. and Japan jointly intervened in currency markets to support the yen after it weakened to ¥164 per dollar, its lowest in roughly four decades. The operation briefly strengthened the yen to ¥155.20 but gains were partially reversed, settling near ¥157.50. Intervention effectiveness depends on interest rate policy. Rising Japanese domestic yields and weak JGB demand create risks of Japanese capital repatriation and Treasury sell-offs.",
+      "impact": "Currency instability and carry-trade dynamics inject uncertainty into global funding costs and capital flows. If Japanese investors repatriate capital or reduce Treasury holdings to finance interventions, U.S. rates could rise, pressuring multifamily development cap rates, construction financing costs, and refinance feasibility. Monitor Fed funds rate trajectory and Treasury yield volatility; cap rate compression or financing tightness in Q1–Q2 2026 would signal capital market stress tied to this macro event. Developers with variable-rate debt or near-term refinances face headwind risk."
+    },
+    {
+      "title": "Saratoga Capital Pays $98.4M at Auction for Atlanta Apartment Community",
+      "link": "https://www.connectcre.com/stories/saratoga-capital-pays-98-4m-at-auction-for-atlanta-apartment-community/",
+      "excerpt": "Saratoga Capital Partners bought the 336-unit Generation Atlanta community on Centennial Olympic Park Drive for $98.4 million in a foreclosure auction. Frankforter Group was the building&#8217;s previous owner. In late 2021, Frankforter bought the project from Kaplan Residential for $126.9 million, then a record sale. The Atlanta Business Chronicle reports that since then, Frankforter has defaulted on a $104.4 million loan, and the lender, Arbor Realty Trust, filed for foreclosure in July. As a result of a $4 million grant from Invest Atlanta, the Frankforter Group converted 66 market-rate apartments to affordable options at 60 percent AMI. Located a few blocks north of renowned Downtown landmarks such as the Georgia Aquarium, the World of Coke and Centennial Olympic Park, Generation Atlanta offers studio, one- and two-bedroom floor plans. The post Saratoga Capital Pays $98.4M at Auction for Atlanta Apartment Community appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-12T14:09:31+00:00",
+      "bullets": [
+        "Saratoga Capital Partners purchases Generation Atlanta, 336 units, for $98.4M at foreclosure auction",
+        "Prior owner Frankforter Group bought for $126.9M in late 2021; defaulted on $104.4M Arbor Realty Trust loan",
+        "Downtown location near Georgia Aquarium; 66 units converted to affordable (60% AMI) via $4M Invest Atlanta grant"
+      ],
+      "summary": "Saratoga Capital Partners acquired Generation Atlanta, a 336-unit multifamily community on Centennial Olympic Park Drive, for $98.4 million in a foreclosure auction. Prior owner Frankforter Group purchased the property in late 2021 for $126.9 million, then defaulted on a $104.4 million loan from Arbor Realty Trust. The property includes 66 affordable units at 60% AMI funded by a $4 million Invest Atlanta grant.",
+      "impact": "Atlanta foreclosure activity signals prior overleveraging in 2021–2022 vintage deals; post-pandemic financing assumptions did not hold. Saratoga's acquisition at a ~22% haircut (vs. Frankforter's 2021 price) reflects normalization of cap rates and lender conservatism. Downtown Atlanta near iconic tourist attractions (Aquarium, Olympic Park) retains strong institutional buyer interest, but distress sales indicate prior operators misjudged market or capital costs. Developers should expect higher equity requirements and lower LTV for new Atlanta projects; supply pipeline remains healthy, limiting pricing power recovery through 2026."
+    },
     {
       "title": "Morgan Stanley Acquires KC Ace Hardware Facility for $159M",
       "link": "https://www.connectcre.com/stories/morgan-stanley-acquires-kc-ace-hardware-facility-for-159m/",
@@ -32,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-08-12T14:06:25+00:00",
       "bullets": [
-        "Morgan Stanley acquired 1.5M SF Ace Hardware distribution facility in Kansas City for $158.5M.",
-        "Hunt Midwest developed facility as build-to-suit; part of 3,300-acre KCI 29 Logistics Park megasite.",
-        "Largest distribution center by footprint in Kansas City; long-term net lease anchors institutional investment."
+        "Morgan Stanley REIM acquires Ace Hardware distribution facility, Kansas City MO, for $158.5M, 1.5M SF",
+        "Hunt Midwest developed 2025 build-to-suit; 20-year net lease; first phase of KCI 29 Logistics Park",
+        "Park site 3,300 acres; facility largest distribution center in Kansas City by footprint"
       ],
-      "summary": "Morgan Stanley Real Estate Investing acquired a newly built 1.5 million-square-foot logistics facility in Kansas City leased to Ace Hardware for $158.5 million. The property is the largest distribution center by building footprint in the metro and represents phase one of a 3,300-acre megasite capable of supporting 20 million square feet of industrial development. The acquisition reflects institutional appetite for high-quality net lease industrial assets with strong tenants and mission-critical operations.",
-      "impact": "Kansas City's logistics infrastructure expansion signals rising regional distribution demand, likely driven by Midwest supply-chain centralization and e-commerce growth. Multifamily developers should monitor job creation from the full buildout of KCI 29 (projected 20M SF) and downstream residential demand in submarkets near the Park; wage growth from logistics jobs supports rental demand and rents."
+      "summary": "Morgan Stanley Real Estate Investing, via funds under MSIM, acquired a newly developed 1.5 million-square-foot distribution facility in Kansas City, Missouri, for $158.5 million. The asset, developed by Hunt Midwest in 2025 as a build-to-suit for Ace Hardware on a long-term net lease, is the first phase of KCI 29 Logistics Park, a 3,300-acre megasite planned for up to 20 million square feet of industrial capacity.",
+      "impact": "Industrial logistics remain a capital magnet for institutional investors despite retail headwinds. However, this deal is NOT multifamily relevant. The megasite development (KCI 29) may eventually generate workforce housing demand if ancillary office/logistics employment concentrates, but the deal itself signals no direct resi signal. Kansas City remains a secondary logistics hub; monitor if KCI 29's massive footprint drives population inflow or wage growth that could support new multifamily near the logistics park or in nearby submarkets."
     },
     {
       "title": "Greenberg Traurig Hires Brian Helweil as Shareholder in Global Real Estate Practice",
@@ -47,27 +152,12 @@
       "cat": "Commercial",
       "date": "2026-08-12T13:56:03+00:00",
       "bullets": [
-        "Greenberg Traurig hired Brian Helweil as shareholder in New York real estate practice.",
-        "Helweil brings 3+ years as partner at Loeb & Loeb; practice focuses on leasing, acquisitions, financings.",
-        "Law firm prioritizing 'critical mass' in NYC office leasing market as strategic focus."
+        "Brian Helweil joins Greenberg Traurig as shareholder, global real estate practice, New York office",
+        "Helweil represents landlords, tenants, developers; practice covers office/retail leasing, acquisitions, financings",
+        "GT increasing 'critical mass' in NYC leasing market; strategic priority for law firm"
       ],
-      "summary": "Law firm Greenberg Traurig hired Brian Helweil as a shareholder in its New York real estate practice. Helweil, formerly a partner at Loeb & Loeb, specializes in commercial office and retail leasing, acquisitions, and financings across the U.S. The firm explicitly stated that strengthening its NYC leasing practice is a strategic priority.",
-      "impact": "Minimal direct impact to multifamily development. Story reflects law firm portfolio shifts toward office leasing in a weak office market; signals no particular capital, demand, or cost signal relevant to apartment development."
-    },
-    {
-      "title": "Cardone Capital Pays $89.9M for 282-Unit Naples Multifamily Community",
-      "link": "https://www.connectcre.com/stories/cardone-pays-89-9m-for-282-unit-naples-multifamily-community/",
-      "excerpt": "Cardone Capital paid $89.9 million, including 282 Bitcoin, for Orchid Run, a 282-unit apartment development in Naples, Florida. The Inland Real Estate Group of Companies was the seller. Berkadia’s Matt Mitchell and Chris Burtner arranged the sale on behalf of The Inland Real Estate Group. Completed in 2015, Orchid Run is located at 10991 Lost Lake Drive in Central Naples. The garden-style community features 108 one-bedroom, 126 two-bedroom and 48 three-bedroom residences averaging approximately 1,040 square feet. Amenities include a swimming pool and spa with private cabanas, a large fitness center with a dedicated yoga studio, a sprawling clubhouse with a resident lounge and demonstration kitchen, a coffee bar, outdoor grilling and entertaining areas, a pet washing station, a car wash and gated entry. The acquisition expands Cardone Capital&#8217;s portfolio to more than 14,800 apartment units and over $5.4 billion in assets under management. The post Cardone Capital Pays $89.9M for 282-Unit Naples Multifamily Community appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-12T13:40:26+00:00",
-      "bullets": [
-        "Cardone Capital paid $89.9M for 282-unit Orchid Run apartment community in Naples, Florida.",
-        "Garden-style property completed in 2015; Inland Real Estate Group seller; Berkadia brokered transaction.",
-        "Acquisition grows Cardone's portfolio to 14,800+ units and $5.4B AUM; includes Bitcoin as partial consideration."
-      ],
-      "summary": "Cardone Capital acquired Orchid Run, a 282-unit garden-style apartment community in Central Naples, Florida, for $89.9 million (including Bitcoin as consideration). The property, completed in 2015, features one-, two-, and three-bedroom units averaging 1,040 square feet with full resort-style amenities. The acquisition expands Cardone's portfolio to over 14,800 units and $5.4 billion in assets under management.",
-      "impact": "Naples market continues to attract institutional capital, signaling sustained demand from wealth migration to Southwest Florida. Established communities (2015 vintage) trading at ~$319K/unit suggests pricing discipline remains despite high supply in coastal Florida; near-term development opportunity windows closing in saturated coastal submarkets as institutional buyers acquire and hold."
+      "summary": "New York real estate attorney Brian Helweil has joined law firm Greenberg Traurig as a shareholder in its global real estate practice. Helweil, who brings experience representing landlords, tenants, owners, developers, and investors, previously worked as a partner at Loeb & Loeb for roughly three years. His practice focuses on commercial office and retail leasing, acquisitions, dispositions, financings, and joint ventures across New York and the U.S.",
+      "impact": "Minimal direct impact on multifamily development. Legal talent recruitment signals law firm competition for NYC real estate transaction volume, but Helweil's primary focus is office and retail leasing, not residential. However, his expertise in acquisitions, financings, and joint ventures may signal ongoing institutional deal activity in NYC CRE broadly. Developers should note that GT's strategic emphasis on NYC leasing market depth may indicate expectation of continued transaction velocity despite office headwinds."
     },
     {
       "title": "Artifact Real Estate Buys Historic Odd Fellows Hall in Little Italy for $28M",
@@ -77,102 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-12T13:21:12+00:00",
       "bullets": [
-        "Artifact Real Estate purchased historic Odd Fellows Hall at 165 Grand Street in Little Italy for $28M.",
-        "Property sold from troubled landlord Bijan Nassi; sale possibly tied to June 2025 foreclosure action.",
-        "Six-story Italianate building built ~1847; unknown end use; conversion development potential unclear."
+        "Artifact Real Estate Development purchases 165 Grand Street, Little Italy, for $28M from Bijan Nassi",
+        "Six-story Italianate building (built ~1847); former Odd Fellows Hall headquarters; unclear conversion plans",
+        "Prior owner Nassi acquired 1997; defaulted on $11.4M loan June 2025; foreclosure action unclear"
       ],
-      "summary": "Washington Heights-based developer Artifact Real Estate purchased the historic Odd Fellows Hall at 165 Grand Street in Manhattan's Little Italy for $28 million. The property was acquired from landlord Bijan Nassi, who defaulted on an $11.4 million loan and faced foreclosure action in June 2025. The six-story building features unique Italianate architecture dating to approximately 1847.",
-      "impact": "Distressed sale signals potential for mixed-use or residential conversion in prime SoHo/Little Italy submarket, but absence of stated end-use and conversion economics unclear; minimal impact without visibility to Artifact's development plan. Watch for entitlement and conversion announcement to assess demand signal and cost structure for historic rehab multifamily in Manhattan."
-    },
-    {
-      "title": "U.S. Consumer Prices Edge Up 0.1% in July; Annual Inflation Cools to 3.4%",
-      "link": "https://www.connectcre.com/stories/u-s-consumer-prices-edge-up-0-1-in-july-annual-inflation-cools-to-3-4/",
-      "excerpt": "The Consumer Price Index rose 0.1% in July, rebounding from a 0.4% decline in June, the U.S. Bureau of Labor Statistics reported. Over the past 12 months, the index increased 3.4%, down slightly from 3.5% in June. Shelter costs rose 0.1% in July, accounting for roughly two-thirds of the monthly increase, while food prices also rose 0.1%, driven by a 0.3% jump in food away from home. Energy prices fell 1.5% for the month, though they remained up sharply over the trailing year. Core prices, which exclude food and energy, rose 0.2% after holding flat in June, with increases in medical care, airline fares, communication, education, and recreation. Motor vehicle insurance was among the categories that declined. The core index rose 2.5% over the 12 months ending in July, down from 2.6% the prior month. The report arrives as Federal Reserve officials assess whether inflation is slowing sufficiently to keep interest rates unchanged. The Fed held its target federal funds range at 3.50% to 3.75% at its July meeting, as inflation remained above its 2% objective. The post U.S. Consumer Prices Edge Up 0.1% in July; Annual Inflation Cools to 3.4% appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-12T13:02:55+00:00",
-      "bullets": [
-        "U.S. CPI rose 0.1% in July; annual inflation cooled to 3.4% YoY from 3.5% in June.",
-        "Shelter costs rose 0.1% in July, accounting for roughly two-thirds of monthly CPI increase.",
-        "Core CPI (excluding food/energy) rose 2.5% YoY; Federal Reserve holds rates at 3.50-3.75%."
-      ],
-      "summary": "The Consumer Price Index increased 0.1% in July, with annual inflation cooling to 3.4% from 3.5% in June. Shelter costs rose 0.1% and accounted for roughly two-thirds of the monthly increase, while core inflation (excluding food and energy) rose 2.5% year-over-year, down from 2.6%. The Federal Reserve maintained its federal funds rate target at 3.50% to 3.75% as it assesses whether inflation is slowing sufficiently.",
-      "impact": "Shelter inflation persistence (0.1% MoM) and core above 2% target suggest Fed rate cuts may remain delayed or measured; expect higher cap rates and borrowing costs to persist longer than hoped, compressing acquisition yields and development returns. Modestly cooling headline inflation (_3.4% vs 3.5%_) creates optionality for rate cuts by late 2025, but multifamily underwriting should assume 4.0%+ long-term cap rate environment and higher construction financing costs."
-    },
-    {
-      "title": "The Plan: Extell’s 70-Unit 50 West 66th Street Leans Into Luxury Via Hospitality",
-      "link": "https://commercialobserver.com/2026/08/the-plan-extells-70-unit-50-west-66th-street-leans-into-luxury-via-hospitality/",
-      "excerpt": "Central Park views? Check. An abundance of natural light? Check. Doorman? Check. Resort-quality amenities? Check. Honestly, once you move in there’s really no reason to ever leave Extell’s 50 West 66th Street. The 70-story condominium building has two sides: the house, which has 84 units, and the tower with 37 units. Residents began moving in last year, but the building is still undergoing some finishing touches and has a few units that need to be completed. Still, Janice Chang of Douglas Elliman said most buyers purchased based solely on the renderings and floor plans, as they were so taken with the possibilities. “We’ve sold a lot of these apartments sight unseen,” Chang said. “We just started showing people the furnished models, and it’s been so well received, it’s so incredible.” The view from the tower units is nothing short of spectacular. Any of these homes — which range in size from two to six bedrooms and in price from $8 million to $85 million — would make for the perfect retreat for a snuggly day at home reading and watching the city’s activity go by. “This is the best view because it’s panoramic,” Chang said while showing Commercial Observer around a recently completed, nearly 10,000-square-foot unit. “It’s a sweep from the Hudson River all the way to Central Park South. And you’re not very high, you can see all of the trees and landmarks, and up to the George Washington Bridge.” There are touches of luxury throughout each unit, including the white marble kitchens with Miele appliances, double ovens and wine refrigerators. There’s also cabinetry by designer SmallBone, and bathrooms with heated floors, rain showers and deep-soaking tubs. (You know CO is a sucker for a good tub.) There are uniquely designed light fixtures in the units and throughout the building, almost like statement pieces in their own right, bringing more sophistication to the property. “After people move in, they tell me they love it. They are happy with what they’ve received, and they",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-12T10:00:21+00:00",
-      "bullets": [
-        "Extell's 50 West 66th Street: 70-story luxury condo with 121 units ($8M–$85M pricing).",
-        "Building split between 84-unit 'house' and 37-unit tower; move-ins began; 70% of units unsold.",
-        "Buyers purchased 'sight unseen' based on renderings; furnished models now driving high conversion."
-      ],
-      "summary": "Extell's 50 West 66th Street is a 70-story luxury condominium tower with 121 total units split between a 84-unit mid-rise 'house' and a 37-unit tower, priced from $8 million to $85 million. Residents have begun moving in, though finishing touches and unit completions remain. Brokers report most early buyers purchased based solely on renderings and floor plans, with furnished model showings now driving strong sales momentum.",
-      "impact": "Minimal direct multifamily development impact; luxury condo sales do not inform rental-apartment underwriting. Story reflects strength in ultra-high-net-worth NYC residential demand and appetite for branded, hospitality-focused residential; no signal on rental market fundamentals, supply, or cost."
-    },
-    {
-      "title": "Looking Past the Noise: A More Nuanced View of Multifamily",
-      "link": "https://commercialobserver.com/2026/08/looking-past-the-noise-a-more-nuanced-view-of-multifamily/",
-      "excerpt": "The multifamily market is entering a new phase defined less by broad national narratives and more by local realities, operational discipline, and selective opportunity. In a recent conversation on “Inside the Deal, a CRE Podcast by Berkadia®,” host Ernie Katai, executive vice president &#8211; head of production for Berkadia, sat down with rental housing economist Jay Parsons to unpack what is actually happening across multifamily today — beyond the noise of headlines and broad-brush narratives. Parsons emphasized that many common multifamily narratives are too simplistic. He noted that rental housing tends to perform best when the broader economy is strong, household formation is healthy, and consumer confidence is rising, underscoring how closely multifamily is tied to the overall state of the economy. If there is one word Parsons uses repeatedly, it is “resilient.” He described today’s apartment market as choppy and renter-favorable, but still remarkably durable. Even after the largest supply wave since the 1970s, national rent declines have remained relatively modest in aggregate, and vacancy has not deteriorated as severely as many feared. Likewise, while valuations are down from peak levels, the worst-case distress scenarios that many expected several years ago have not materialized at scale. Instead, debt availability and recapitalization have allowed many owners to hold on longer than expected, softening what could have been a far more dramatic correction. That does not mean conditions are easy. Parsons characterized the current phase as both a messy transition and a recovery — a “two steps forward, one step back” environment. Deals are getting done, but not without obstacles. Operators, owners, and capital providers are navigating a far more demanding environment than they did during the boom years, during a market that Katai said was often described as “catching money in buckets.” Today’s market rewards precision, patience, and operational excellence rathe",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-12T04:00:24+00:00",
-      "bullets": [
-        "Berkadia economist: multifamily market entering phase defined by local realities, not national narratives.",
-        "Rental housing described as 'choppy and renter-favorable' but 'resilient' despite largest supply wave since 1970s.",
-        "Rents declining modestly in aggregate; vacancy has not deteriorated as severely as feared."
-      ],
-      "summary": "In a Berkadia podcast discussion, rental housing economist Jay Parsons emphasized that multifamily narratives are overly simplistic and the market is entering a phase defined by local market conditions rather than broad national trends. Parsons described the apartment market as choppy and renter-favorable yet resilient, noting that even after the largest supply wave since the 1970s, national rent declines have remained modest and vacancy rates have not deteriorated as severely as anticipated.",
-      "impact": "Critical market signal: national supply saturation is real, but submarket-level dynamics differ significantly. Developers should prioritize markets with strong household formation, employer growth, and healthy consumer confidence; avoid generic supply plays in weak-demand metros. Renter favorability and modest rent declines signal consolidation phase—winners will be operators in supply-constrained, high-demand corridors; losers in saturated coastal markets."
-    },
-    {
-      "title": "Law Firm Dunn Isaacson Rhee Establishes NYC Office at 7 World Trade Center",
-      "link": "https://www.connectcre.com/stories/law-firm-dunn-isaacson-rhee-establishes-nyc-office-at-7-world-trade-center/",
-      "excerpt": "Silverstein Properties announced that Dunn Isaacson Rhee LLP has signed a new lease for 11,167 square feet of office space on the 34th floor of 7 World Trade Center. The lease establishes a New York office for the firm, an elite litigation boutique.“Dunn Isaacson Rhee represents the caliber of organization that continues to define 7 World Trade Center as one of Downtown Manhattan’s premier office destinations,” said Keith Cody, Head of Commercial Leasing at Silverstein Properties. “Today’s leading firms are seeking workplaces that reflect their brand, support their people, and provide an exceptional experience for their clients. Through thoughtful design, hospitality-driven amenities, and a commitment to excellence, 7 World Trade Center continues to deliver an environment that meets those expectations.”Tenant representation was provided by Lisa Ann Pollakowski, Cory Gahr and Richard Plehn of Lee &amp; Associates. Ownership was represented in-house by Cody, Gordon Hough, and Harlan Strader, with CBRE agency leasing support from MaryAnn Tighe and team. The post Law Firm Dunn Isaacson Rhee Establishes NYC Office at 7 World Trade Center appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-11T21:55:31+00:00",
-      "bullets": [
-        "Law firm Dunn Isaacson Rhee leased 11,167 SF at 7 World Trade Center, 34th floor.",
-        "Silverstein Properties brokered lease; establishes firm's first NYC office; 10+ year lease term implied.",
-        "Silverstein positioning 7 WTC as 'premier office destination' for high-caliber professional services firms."
-      ],
-      "summary": "Silverstein Properties announced that litigation boutique Dunn Isaacson Rhee LLP signed a lease for 11,167 square feet on the 34th floor of 7 World Trade Center. The lease establishes the firm's New York office and reflects Silverstein's positioning of 7 WTC as a premier office destination for elite professional services organizations.",
-      "impact": "Minimal multifamily relevance. Office leasing by law firms does not inform apartment demand or supply; reflects selective strength in Downtown Manhattan office (post-WTC rebuild) but unrelated to rental housing economics or development feasibility."
-    },
-    {
-      "title": "Newmark Closes Note Sale on San Pedro Adaptive Reuse",
-      "link": "https://www.connectcre.com/stories/newmark-closes-note-sale-on-san-pedro-adaptive-reuse/",
-      "excerpt": "Newmark arranged the sale of a note secured by Topaz Tower, a fully entitled adaptive reuse development project located at 222 W. 6th St. in San Pedro. The 12-story, 309,732-square-foot office tower is entitled for conversion to 246 market-rate multifamily units. Executive managing director Ryan Plummer, co-head of U.S. Capital Markets Kevin Shannon, vice chairman Ken White, senior managing director Chris Benton and managing director Anthony Muhlstein represented the lender. The buyer was 222 PV Harbor View, LLC, a private Los Angeles-based residential developer. “Topaz Tower represents an exceptionally rare opportunity to acquire a fully entitled coastal high-rise multifamily conversion with scale, ocean views and an immediate execution path in a rapidly evolving submarket,” said Plummer. Topaz Tower Apartments will include a mix of studio, one-, two- and three-bedroom residences with an average unit size of 835 square feet. Planned amenities include a rooftop deck with a resort-style pool, ocean-view units, balconies and high ceilings. Stay ahead of the multifamily market at Connect Apartments. Gain firsthand insights from industry leaders on capital markets, development, operations, financing, and investment trends while expanding your network with the people making deals happen. See you on September 22! The post Newmark Closes Note Sale on San Pedro Adaptive Reuse appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-11T21:48:22+00:00",
-      "bullets": [
-        "Newmark closed sale of mezzanine note on Topaz Tower in San Pedro; 246-unit entitled conversion.",
-        "12-story, 309,732 SF office tower fully entitled for adaptive reuse to market-rate apartments; 835 SF avg.",
-        "Buyer: 222 PV Harbor View (LA residential developer); mixed-studio to 3-bed units with ocean views."
-      ],
-      "summary": "Newmark facilitated the sale of a note secured by Topaz Tower, a fully entitled adaptive reuse development in San Pedro, Los Angeles. The 12-story, 309,732-square-foot office building is entitled for conversion to 246 market-rate multifamily units averaging 835 square feet. The buyer, 222 PV Harbor View LLC, is a Los Angeles-based residential developer; planned amenities include rooftop pool, ocean views, and high ceilings.",
-      "impact": "San Pedro submarket showing traction for office-to-residential conversion with coastal positioning and scale (246 units). Entitled deals with clear execution path attracting specialized residential capital; signals conversion economics are viable in coastal LA submarkets when entitled. Developers should monitor San Pedro and similar coastal office corridors where supply is constrained, rents are rising, and entitled conversion pipelines can move quickly to capture demand."
-    },
-    {
-      "title": "Venture X Coworking Location to Open in Pompano Beach",
-      "link": "https://commercialobserver.com/2026/08/venture-x-pompano-beach-priddy-spaces-grover-corlew/",
-      "excerpt": "Priddy Spaces has signed a 20,000-square-foot lease for a Venture X coworking location in Pompano Beach, Fla. The coworking operator signed a 10-year lease at a 44,102-square-foot office property within Grover Corlew’s Mayla Pompano mixed-use development. Located at 2335 East Atlantic Boulevard, the four-story office building sits two blocks east of Dixie Highway and was constructed in 2020. The coworking outpost — which will span the building’s second, third and fourth floors — will feature 85 private office suites and four meeting rooms. It’s expected to open next year. “Pompano Beach is experiencing one of the most exciting transformations in South Florida,&#8221; Kevin Priddy, co-founder and CEO of Priddy Spaces, said in a statement. &#8220;The combination of new residential development, improved infrastructure, vibrant dining and retail, and its proximity to the beach has created an environment where businesses and talent want to be.” Pompano Beach, long a working-class town, is seeing a rush of luxury condo development along its coast, from the likes of Miami-based Related Group and other developers. West Palm Beach-based Priddy Spaces is a franchisee of Venture X, operating five locations in South Florida, with Vast Coworking Group serving as the franchisor. Private equity firm New State Capital Partners purchased Vast Coworking Group earlier this year for an undisclosed amount. Priddy Spaces operates a Venture X location in nearby Boca Raton at Grover Corlew’s Palmetto Central office campus. The four-acre Mayla Pompano mixed-use development includes a 355-unit apartment building and two other office properties. Julia Echikson can be reached at jechikson@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-11T21:40:08+00:00",
-      "bullets": [
-        "Priddy Spaces signed 20K SF lease for Venture X coworking in Pompano Beach, Florida.",
-        "10-year lease; 85 private office suites + 4 meeting rooms; expected open 2026.",
-        "Coworking expansion follows Pompano Beach luxury residential boom and infrastructure improvements."
-      ],
-      "summary": "Priddy Spaces, a coworking operator, signed a 10-year lease for 20,000 square feet at a mixed-use property in Pompano Beach, Florida, for a Venture X location spanning three floors of a 44,102-square-foot office building. The facility will feature 85 private office suites and four meeting rooms and is expected to open in 2026. The lease reflects Pompano Beach's transformation through new residential development, infrastructure improvements, and proximity to the beach.",
-      "impact": "Coworking expansion in Pompano Beach signals growing white-collar workforce influx tied to residential development boom in South Florida submarket. Multifamily developers should track talent concentration—coworking facilities follow residential migration and job creation; Pompano's infrastructure and residential pipeline indicate sustained demand tailwinds for rental apartments. Proximity to luxury coastal condo development (Related Group, others) suggests mixed-income opportunity; younger workforce (coworking tenants) may anchor workforce/workforce-plus rental demand."
+      "summary": "Artifact Real Estate Development, a Washington Heights-focused landlord, purchased 165 Grand Street (also known as 224 Centre Street) in Little Italy for $28 million from Bijan Nassi. The six-story Italianate building, built around 1847, formerly served as headquarters for the Independent Order of Odd Fellows. Prior owner Nassi acquired the property in 1997 and reportedly defaulted on an $11.4 million loan in June 2025, though the relationship between that default and the current sale is unclear.",
+      "impact": "Historic building acquisition in Little Italy/Nolita signals continued gentrification-driven land value appreciation in lower Manhattan. Artifact's move into Manhattan (expanding from Washington Heights base) suggests capital availability for adaptive reuse and suggests residential conversion potential (the 1847 Italianate structure likely has unit potential under NYC zoning). However, the conversion scope is undisclosed. Historic preservation costs and landmark designation may constrain project economics and timeline; monitor if Artifact pursues residential conversion or office repositioning. Nolita/Little Italy remains tight on new supply; pricing power for resi conversion likely remains strong if entitlements clear."
     }
   ]
 }
