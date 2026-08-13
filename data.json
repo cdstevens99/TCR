@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-13T16:45:51.433905+00:00",
+  "fetchedAt": "2026-08-13T17:51:26.574100+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -10,20 +10,125 @@
     {
       "label": "10Y Treasury",
       "value": "4.64%",
-      "pct": -0.88
+      "pct": -0.79
     },
     {
       "label": "30Y Treasury",
-      "value": "5.21%",
-      "pct": -0.69
+      "value": "5.22%",
+      "pct": -0.59
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "98.39",
-      "pct": 1.1
+      "value": "98.38",
+      "pct": 1.09
     }
   ],
   "stories": [
+    {
+      "title": "Fortress Refinances Dania Design Center With $45M After Foreclosure Fight",
+      "link": "https://commercialobserver.com/2026/08/fortress-dania-beach-design-center-americas-charles-cohen/",
+      "excerpt": "Fortress Investment Group has refinanced the Design Center of the Americas in Dania Beach, Fla., following a nasty foreclosure fight with its previous owner, New York-based billionaire Charles Cohen. City National Bank of Florida supplied a $45 million loan backing the 780,000-square-foot office and design showroom complex at 1855 Griffin Road, facing the I-95. In the past two years, Fortress has invested about $3 million updating the campus, which dates back to 1988. Another $3 million to $5 million of renovations are planned over the coming year. In June, it tapped Jamestown to oversee management and leasing of the mixed-use property. The move comes about five years after the Design Center lost one of its main tenants, online pet retailer Chewy, which occupied about 100,000 square feet, when it relocated to Plantation Pointe. Fortress won control of Design Center and the neighboring Le Méridien Dania Beach hotel in 2024, through a $76 million credit bid. The proceeding was part of a broader foreclosure suit with Cohen Realty Enterprises, which Charles Cohen’s father Sherman Cohen had founded in the 1950s. In 2022, the New York-based lender provided a $535 million debt package, covering several commercial properties, including Cohens’s Dania Beach assets. The billionaire also personally guaranteed a $187 million portion of the loan. A year later, Cohen defaulted, prompting Fortress to take control of the commercial real estate. The lender also went after the borrower’s personal assets, believing the commercial properties were worth less than what Cohen owed, the Wall Street Journal reported. These include a chateau and vineyard estate in the south of France, a 220-foot megayacht, and a collection of Ferraris. In response, Cohen sold off several properties in New York. In June, Cohen announced that he had paid off the full judgement. But the legal battle remains, with Cohen filing to recoup $204 million in alleged damages. A representative for Fortress did not immed",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-13T17:40:19+00:00",
+      "bullets": [
+        "Fortress refinanced 780K-SF Dania Beach mixed-use complex with $45M City National Bank loan",
+        "Property lost 100K-SF Chewy tenant five years ago; $6–8M renovation planned over 12 months",
+        "Fortress acquired asset via $76M credit bid in 2024 foreclosure; Jamestown hired as manager"
+      ],
+      "summary": "Fortress Investment Group secured a $45 million refinance from City National Bank of Florida for the Design Center of the Americas in Dania Beach, a 780,000-square-foot office and design showroom complex acquired through a 2024 credit bid. The property has been updated with $3 million in improvements and plans another $3–5 million over the coming year. The asset had lost significant tenant Chewy (100,000 SF) five years prior, and Fortress recently engaged Jamestown for management and leasing.",
+      "impact": "Refinancing signals stabilization of a distressed South Florida mixed-use asset and reflects lender appetite for value-add office repositioning. Dania Beach office market may see selective demand if Fortress executes leasing against renovation pipeline; however, the property's 100K-SF tenant loss and current economic headwinds in legacy office limit upside for competing multifamily players seeking land or capital in the submarket."
+    },
+    {
+      "title": "Keystone Equities Provides $61M Refi for IOS Repositioning Site in Newark",
+      "link": "https://commercialobserver.com/2026/08/keystone-equities-61m-refi-ios-newark/",
+      "excerpt": "KS Group has secured $60.5 million to refinance a 51-acre industrial site in Newark, N.J., that will be repositioned as an industrial outdoor storage property, Commercial Observer can first report. Keystone Equities provided the debt, structured as a senior bridge loan, marking $660 million in capital the firm has deployed since August 2023, the firm noted in a release. CBRE’s Shlomo Weissberg and Eli Klapper arranged the transaction. Jonathan Zamir, founder and CEO of Keystone Equities, noted in a statement that the site is currently under active environmental remediation and still hadn’t secured a certificate of occupancy before closing, which led to several “traditional lenders” to decline to underwrite the risk associated with the deal. “This was a deal that required real diligence. We dug in, structured around the risks, and found a solution that works for both us and the borrower,” he said. “That’s where Keystone adds value.” Located at 151 Raymond Boulevard in Newark, the industrial site is a former PSEG property that holds proximity to Port Newark-Elizabeth and New York City. The new IOS site will include parking for both trucks and trailers, a container garage for shipping, and electric vehicle and solar charging stations. CBRE noted in recent reports that IOS vacancy in Northern New Jersey stands at 2.5 percent, while rents have grown 123 percent since 2020. Brian Pascus can be reached at bpascus@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-13T17:24:51+00:00",
+      "bullets": [
+        "Keystone Equities closed $60.5M senior bridge for 51-acre Newark industrial site repositioning",
+        "Property under environmental remediation, lacks certificate of occupancy; traditional lenders declined risk",
+        "KS Group converting former PSEG utility property to industrial outdoor storage; bridge structure reflects contamination uncertainty"
+      ],
+      "summary": "Keystone Equities provided a $60.5 million senior bridge loan to refinance a 51-acre industrial site at 151 Raymond Boulevard in Newark, New Jersey, being repositioned as an industrial outdoor storage property. The asset is undergoing active environmental remediation and had not obtained a certificate of occupancy at closing, creating risk that traditional lenders declined. Keystone's willingness to structure around environmental and regulatory uncertainty reflects the firm's $660 million deployment since August 2023.",
+      "impact": "Bridge financing for contaminated industrial sites signals continued capital availability for remediation-dependent projects in the Newark market, but has minimal direct impact on multifamily development. The deal underscores that alternative lenders are filling voids left by traditional underwriters—relevant to multifamily developers seeking non-recourse or acquisition bridge structures in distressed or regulatory-challenged situations."
+    },
+    {
+      "title": "CMBS Special Servicing Rate Dips in July as Office, Lodging Improve",
+      "link": "https://www.connectcre.com/stories/cmbs-special-servicing-rate-dips-in-july-as-office-lodging-improve/",
+      "excerpt": "The Trepp CMBS special servicing overall rate declined 11 basis points in July to 11.09%, partially reversing the increases of recent months. However, decreases in special servicing rates were not seen across the board in all property types. The improvement was led by office, the largest special servicing category, along with lodging, whose rates fell 53 and 26 bps to 16.58% and 8.63%, respectively. Industrial edged down three bps to 1.34%. That progress outweighed a sharp increase in retail, where a heavy wave of regional-mall loans transferred into special servicing for maturity default, lifting the retail rate 33 bps to 13.28%, Trepp reported Multifamily rose 16 bps to 8.39%, and mixed-use edged up two bps to 11.93%. New transfers to special servicing totaled roughly $1.69 billion across 41 loans and were unusually concentrated in retail, which accounted for about $903.6 million. The flow was dominated by regional malls reaching their balloon maturities. The post CMBS Special Servicing Rate Dips in July as Office, Lodging Improve appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-13T17:22:58+00:00",
+      "bullets": [
+        "Multifamily special servicing rate rose 16 bps to 8.39% in July; overall CMBS rate fell 11 bps to 11.09%",
+        "Office and lodging improved (office -53 bps to 16.58%; lodging -26 bps to 8.63%); retail jumped 33 bps to 13.28%",
+        "$1.69B in new special servicing transfers; retail (regional malls) accounted for $903.6M, driven by maturity defaults"
+      ],
+      "summary": "The Trepp CMBS special servicing rate fell 11 basis points in July to 11.09%, led by improvements in office (-53 bps to 16.58%) and lodging (-26 bps to 8.63%). However, multifamily rose 16 basis points to 8.39%, while retail surged 33 bps to 13.28%, driven by $903.6 million in regional mall loans hitting balloon maturity. Total new special servicing transfers reached $1.69 billion across 41 loans.",
+      "impact": "Rising multifamily special servicing signals stress in select multifamily CMBS pools—likely concentrated in older, high-leverage deals originated 2019–2021 with near-term maturities. While office pain masks multifamily's modest deterioration, the 16 bp uptick warrants monitoring of regional-specific CMBS maturity walls and potential distressed sale opportunities in markets with high CMBS-backed inventory, particularly secondary metros. Conversely, it signals tightening underwriting for new construction debt."
+    },
+    {
+      "title": "Return to Lender: Week of August 13, 2026",
+      "link": "https://www.connectcre.com/stories/return-to-lender-week-of-august-13-2026/",
+      "excerpt": "An out-of-state hedge fund has won an auction to acquire the entirety of Spirit Airlines’ former headquarters in South Florida with a $93.25-million cash bid. The South Florida Business Journal reported that the now-defunct carrier named DPC HoldCo LLC, an affiliate of Boston-based Hill City Capital, as the successful bidder in a notice of auction results. Hill City was also the stalking horse bidder in the auction, which was brokered by Savills Eastdil Secured. A downtown San Antonio office building, anchored by La Panaderia Bakery &amp; Café on the ground floor, has sold in a distressed sale. The Vogue Building at 600 Navarro St. traded in an Aug. 5 foreclosure auction for about $5.2 million, the San Antonio Business Journal reported. Ownership entity Vogue SATX LLC, connected to local investor Dr. Sanjay Misra, defaulted on a $6 million loan drawn up by Blue Sky Bank. The bank took control of the property, which was last appraised at $6 million, per the Bexar Central Appraisal District. U.S. National Bank Association, the lender for Denver&#8217;s tallest tower, has requested a receiver for the property after ownership defaulted on an approximately $130-million loan, reported the Denver Business Journal. Republic Plaza, at 370 17th St., is owned by Brookfield Properties and insurer MetLife. The retail space at Brightline MiamiCentral Station could be seized in a $65-million foreclosure lawsuit, according to the Orlando Business Journal. U.S. Bank, acting as administrative agent for two groups of lenders, filed a foreclosure complaint July 30 against Brightline Investment Holdings and DTS DT Retail LLC, along with property manager FECI Realty. The roughly 124,000 square feet of retail at 600 N.W. 1st Ave. is owned by DTS DT Retail, which is a subsidiary of Brightline Investment Holdings. Buffalo Business First reported that a New York City developer is now facing foreclosure proceedings against a second large apartment community in Amherst. Acres Loan Origination ",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-13T17:22:33+00:00",
+      "bullets": [
+        "Article placeholder with no substantive content; generic CRE news column header dated August 13, 2026",
+        "No deals, market data, or editorial information provided",
+        "Section label only; unable to extract actionable intelligence"
+      ],
+      "summary": "This article is a template or placeholder with no actual news content—only a column header and byline attribution for a weekly distressed asset recap. No market data, deals, or analysis is included.",
+      "impact": "No impact; article contains no substantive information relevant to multifamily development."
+    },
+    {
+      "title": "Texas People & Companies, August 14, 2026",
+      "link": "https://www.connectcre.com/stories/texas-people-companies-august-14-2026/",
+      "excerpt": "Austin-based&nbsp;ECR&nbsp;promoted Stephen McMillen from Research Analyst to Brokerage Advisor. The RA program provides a path into commercial real estate brokerage without requiring an existing book of business or industry contacts. McMillen joined ECR’s RA program in August 2025, supporting the brokerage and marketing teams with market research and by tracking properties and tenants across Austin. In his new role, he moves into brokerage full-time. Stream Realty Partners&nbsp;represented Superior Energy Services, Inc. in the relocation of its corporate headquarters to 56,256 square feet at 8020 Katy Freeway in Houston.&nbsp;Stream Vice Chairman&nbsp;David Guion&nbsp;and Lucian Bukowski represented Superior Energy Services in the transaction. Located in Houston’s Spring Branch submarket just north of Memorial, 8020 Katy Freeway is a 225,024-square-foot, 13-story office tower. CBRE arranged a 50,802-square-foot office lease for Carrington, Coleman, Sloman &amp; Blumenthal, LLP at Dallas Arts Tower, a Class-A office tower at 2200 Ross Ave. in downtown Dallas. The law firm relocated from Bank of America Plaza and will occupy floors 18 and 19 of the property. CBRE’s Phil Puckett and Harlan Davis represented Carrington Coleman in lease negotiations. The landlord, Fortis Property Group, LLC, was represented by JJ Leonard of Partners Real Estate and Matt Wieser of Stream Realty. The Dinerstein Companies (TDC), in joint venture partnership with Up Campus Student Living and Harrison Street Asset Management, announced that its new student high-rise, Aspire Reserve, opened on August 1. Soaring 19 stories high at the most visible, prime corner of the Northgate district, Aspire Reserve offers 873 beds across a diverse mix of floor plans ranging from thoughtfully designed studios to spacious six-bedroom layouts, spanning from 400 to 1,900 square feet. Amenities include a two-story indoor/outdoor fitness and wellness center, yoga studio, Peloton spin studio, a golf and gaming si",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-13T17:20:33+00:00",
+      "bullets": [
+        "Article placeholder titled 'Texas People & Companies' dated August 14, 2026; no content",
+        "Section header only; no deals, executive moves, or market trends disclosed",
+        "Unable to assess regional market signals for Texas multifamily"
+      ],
+      "summary": "This article is a section header with no actual content—only a column title and generic author bio. No Texas market news, people moves, corporate relocations, or deal activity is included.",
+      "impact": "No impact; article contains no substantive information."
+    },
+    {
+      "title": "Florida People & Companies, August 14, 2026",
+      "link": "https://www.connectcre.com/stories/florida-people-companies-august-14-2026/",
+      "excerpt": "West Palm Beach, Fla. –&nbsp;PTM Partners&nbsp;and Hernandez Development &amp; Construction acquired an 8.13-acre development site at 8530 Belvedere Road in West Palm Beach, Florida for $11.5 million. The site will be developed as Palm Beach Commerce Center, a&nbsp;93,556-square-foot&nbsp;Class A industrial facility with&nbsp;32-foot&nbsp;clear heights, 22 dock doors&nbsp;and&nbsp;more than&nbsp;180 feet&nbsp;of&nbsp;building&nbsp;depth.&nbsp;Previously approved for retail, gas station, and daycare uses, the site is being repositioned to address the continued demand for&nbsp;logistics&nbsp;and distribution space in Palm Beach County.&nbsp; Former Miami Beach City Manager Jimmy Morales, has been hired by Bilzin Sumberg, as Special Counsel. Morales joins the firm’s Land Development &amp; Government Relations Group. His arrival strengthens Bilzin Sumberg’s ability to serve clients navigating consequential transactions, strategic initiatives, government matters, regulatory challenges and opportunities for growth. Wood Partners hired Micah Conn as Managing Director of the firm’s South Florida office. Conn will oversee all aspects of development across the region, including origination, entitlements, design, capitalization and construction management. Conn has more than 20 years of experience in multifamily and mixed-use development. Before joining Wood Partners, he served as senior vice president of development at AvalonBay Communities. Miami-based Gencom Real Estate will be led by Donald McGregor, who has been promoted to President of Gencom Real Estate. In this leadership role, he will oversee the execution of the firm&#8217;s strategies across development, construction, and asset management, ensuring disciplined delivery from acquisition through stabilization and exit, while creating long-term value across the portfolio. The post Florida People &amp; Companies, August 14, 2026 appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-13T17:11:02+00:00",
+      "bullets": [
+        "Article placeholder titled 'Florida People & Companies' dated August 14, 2026; no content",
+        "Section header only; author bio provided but no actual news or market data",
+        "Unable to assess Florida multifamily demand or supply signals"
+      ],
+      "summary": "This article is a section header with no actual content—only a column title and author attribution. No Florida market news, corporate activity, or deal transactions are provided.",
+      "impact": "No impact; article contains no substantive information."
+    },
+    {
+      "title": "Jackson-Shaw Starts Work on 900K-SF Denton Industrial Project",
+      "link": "https://www.connectcre.com/stories/jackson-shaw-starts-work-on-900k-sf-denton-industrial-project/",
+      "excerpt": "Jackson-Shaw broke ground on Horizon 35, a master-planned business park at the northeast corner of Interstate 35 and Loop 288 in Denton, Texas. Phase I will deliver 543,550 square feet across three rear-load buildings and is now pre-leasing for delivery in the third quarter of 2027. At full buildout, the development will total more than 900,000 square feet and accommodate a range of tenant sizes. A future Phase II offers up to 400,000 square feet for build-to-suit. Along the I-35 corridor, Horizon 35 offers frontage and access to Interstate 35, Loop 288, and U.S. Highway 77. Phase I includes Building 1 at 147,390 square feet, Building 2 at 145,920 square feet, and Building 3 at 250,240 square feet. ARCO/Murray is serving as the design-builder. The Stream Realty Partners leasing team for Horizon 35 includes Forrest Cook, Mac Hall and Connor Land. The post Jackson-Shaw Starts Work on 900K-SF Denton Industrial Project appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-13T16:58:34+00:00",
+      "bullets": [
+        "Jackson-Shaw broke ground on Horizon 35, 900K-SF industrial park at I-35 & Loop 288, Denton, Texas",
+        "Phase I delivers 543.6K SF across three buildings by Q3 2027; Phase II offers up to 400K SF build-to-suit",
+        "Stream Realty Partners leasing project; I-35 corridor location attracts logistics and light industrial tenants"
+      ],
+      "summary": "Jackson-Shaw commenced construction on Horizon 35, a master-planned 900,000-square-foot industrial business park at the northeast corner of I-35 and Loop 288 in Denton, Texas. Phase I will deliver 543,550 square feet across three rear-load buildings in Q3 2027, with Phase II offering up to 400,000 square feet for build-to-suit. ARCO/Murray is the design-builder, and Stream Realty Partners is handling leasing.",
+      "impact": "Large-scale industrial pipeline in the Denton I-35 corridor signals ongoing supply growth in a key Dallas metro logistics submarket, which may absorb tenants and capital that could have flowed to adjacent Dallas proper. Denton's industrial growth reflects broader North Texas warehouse expansion, but has minimal direct multifamily demand effect unless logistics job creation in the submarket drives worker housing migration into adjacent residential markets (Frisco, Plano, Carrollton). Developers should monitor Denton rent growth and demographic trends to gauge secondary housing demand."
+    },
     {
       "title": "Zimmet Law Group Relocates to 5K SF at GFP’s 515 Madison Avenue",
       "link": "https://commercialobserver.com/2026/08/zimmet-law-group-lease-gfp-515-madison-avenue/",
@@ -32,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-08-13T16:42:00+00:00",
       "bullets": [
-        "Zimmet Law Group leases 5,476 SF at 515 Madison Avenue, Manhattan Midtown.",
-        "Midtown office asking rents average $88.50/SF (Q2 2026); Plaza District remains competitive.",
-        "Tenant flight from 477 Madison signals consolidation within premium Midtown corridor."
+        "Zimmet Law Group signed 5,476-SF lease at GFP's 515 Madison Avenue (DuMall Building) in Plaza District",
+        "Tenant relocating one block south from RFR's 477 Madison; asking rent ~$88.50/SF (Midtown avg Q2 2026)",
+        "Nearly 10-year term for newly completed space; occupancy expected late 2026"
       ],
-      "summary": "Zimmet Law Group signed a nearly 10-year lease for 5,476 SF of newly completed space at GFP Real Estate's 515 Madison Avenue in Manhattan's Plaza District, relocating from 477 Madison Avenue one block north. Average asking rents in Midtown stood at $88.50/SF in Q2 2026. The firm expects occupancy later in 2026.",
-      "impact": "Minimal direct relevance to multifamily development. Signals stable office leasing in Midtown Manhattan, but office demand does not translate to residential demand or supply pressures in the metro."
+      "summary": "Zimmet Law Group leased 5,476 square feet of newly completed office space at GFP Real Estate's 515 Madison Avenue (DuMont Building) in Manhattan's Plaza District, relocating from RFR's 477 Madison one block south. The nearly 10-year lease was signed at asking rents near Midtown's Q2 2026 average of $88.50 per square foot, with occupancy expected later in 2026.",
+      "impact": "Minimal impact on multifamily development; this is a small Manhattan office renewal in a premium submarket. No signal of broad office-to-residential conversion, major tenant flight, or demand deterioration in Midtown. The lease represents localized Plaza District office stability and GFP's ability to lease newly built space, but does not influence multifamily acquisition, construction, or financing strategy."
     },
     {
       "title": "Sixth Street Acquires Iconic Pier House Hotel in Key West for $190M",
@@ -47,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-08-13T16:21:09+00:00",
       "bullets": [
-        "Sixth Street Partners + Riller Capital acquire Pier House Resort, Key West, $190M.",
-        "142-room oceanfront luxury asset on 5 acres; Starwood Property Trust financed debt.",
-        "Beachfront location at 1 Duval Street; private beach access and high-end positioning."
+        "Sixth Street Partners and Riller Capital acquired Pier House, 142-room Key West oceanfront resort, for $190M",
+        "Property sits on five acres at 1 Duval Street (top tourist destination); Starwood Property Trust provided debt",
+        "Acquisition targets long-term hospitality value creation in high-barrier-to-entry Key West market"
       ],
-      "summary": "Sixth Street Partners and Riller Capital acquired Pier House Resort & Spa, a 142-room luxury oceanfront resort in Key West, for $190 million from Braemar Hotels & Resorts. The asset sits on five acres at 1 Duval Street with direct waterfront access, two dining venues, spa, pool, and 3,000 SF of meeting space. Starwood Property Trust provided debt financing.",
-      "impact": "No direct impact on multifamily development. Hospitality asset acquisition by institutional capital; no supply, demand, or cost signals for apartment communities."
+      "summary": "Sixth Street Partners and Riller Capital acquired Pier House Resort and Spa, a 142-room luxury oceanfront hotel in downtown Key West, from Braemar Hotels & Resorts for $190 million. Located on five acres at 1 Duval Street with private beach access and sunset views, Starwood Property Trust provided debt financing. The investors cited the property's premium beachfront location and tourism destination positioning as drivers of long-term value.",
+      "impact": "No direct impact on multifamily development strategy. Key West hospitality remains a specialized, supply-constrained asset class with minimal overlap with residential development. However, the deal signals continued PE and debt appetite for premium hospitality in constrained coastal markets, reflecting broader confidence in post-pandemic leisure travel and suggests capital may be flowing away from secondary-market multifamily toward trophy hospitality assets."
     },
     {
       "title": "Heights Advisors Files Plans to Build 606 Affordable Units in the Bronx",
@@ -62,117 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-13T15:56:26+00:00",
       "bullets": [
-        "Heights Advisors files ULURP for 606 affordable units, Soundview, Bronx, 945 White Plains Road.",
-        "21-story mixed-use: 503,095 SF residential, 11,968 SF commercial; 515,063 SF total.",
-        "Seeking HPD New Construction Finance Program funding; ~7-month ULURP review ahead."
+        "Heights Advisors filed ULURP for 606 affordable units in 21-story building at 945 White Plains Road, Bronx Soundview",
+        "Project includes 503K SF residential plus 11.9K SF commercial in 515K-SF total; seeking HPD New Construction Finance",
+        "ULURP review typically spans seven months; if approved, development would generate significant affordable supply in East Bronx"
       ],
-      "summary": "Heights Advisors filed a land-use application for a 21-story mixed-use building with 606 affordable units in the Bronx's Soundview neighborhood at 945 White Plains Road. The project spans 515,063 SF (503,095 SF residential, 11,968 SF commercial) and requires a zoning amendment and special permit through ULURP. The developer is seeking construction financing via HPD's New Construction Finance Program.",
-      "impact": "Signals strong institutional/nonprofit appetite for affordable multifamily in Bronx submarkets; Heights Advisors' scale and financing pathway indicate viable development economics even in outer-borough affordable. Increased supply in Soundview may moderate future rent growth but strengthens population retention and workforce housing in the borough, supporting long-term demand for additional market-rate infill."
-    },
-    {
-      "title": "City of Mesa Advancing Marriott Hotel Plans",
-      "link": "https://www.connectcre.com/stories/city-of-mesa-advancing-marriott-hotel-plans/",
-      "excerpt": "The City of Mesa authorized the town’s city manager to negotiate a deal with a developer to construct a 5-story AC Hotel by Marriott on the northeast corner of Main Street and Centennial Way. The 85,000-square-foot hotel would consist of 150 rooms, an outdoor pool and a lounge open to guests and the public. The project is slated to cost $39 million. The terms of the deal would require the city to reimburse up to $288,000 in construction sales taxes generated by the project. The developer would be obligated to license up to 100 parking spaces within a parking garage, which is projected to generate $5 million in revenue over the 50-year term of the parking license. Under state law, the hotel project would be exempt from approximately $2.1 million in property taxes. The post City of Mesa Advancing Marriott Hotel Plans appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-13T15:39:12+00:00",
-      "bullets": [
-        "City of Mesa authorized AC Hotel by Marriott, Main & Centennial, 150 rooms, $39M.",
-        "5-story, 85,000 SF hotel; city reimburses up to $288K in sales tax; 50-year parking license.",
-        "Hotel exempt ~$2.1M in property tax under Arizona law."
-      ],
-      "summary": "The City of Mesa authorized its city manager to negotiate development of a 150-room AC Hotel by Marriott on the northeast corner of Main Street and Centennial Way. The $39 million, 85,000 SF, 5-story project includes an outdoor pool and public lounge. The city will reimburse up to $288,000 in construction sales tax; the developer will license up to 100 parking spaces, projected to generate $5 million over 50 years.",
-      "impact": "Minimal direct relevance to multifamily. Hotel development signals downtown Mesa activation and foot traffic, which can indirectly support future mixed-use or residential infill, but no explicit apartment supply, demand, or cost signals present."
-    },
-    {
-      "title": "Madewell To Open New Store at Tishman Speyer’s 1 Rockefeller Plaza",
-      "link": "https://commercialobserver.com/2026/08/madewell-lease-store-tishman-speyer-1-rockefeller-plaza/",
-      "excerpt": "Famed denim and clothing brand Madewell is opening a new store at Tishman Speyer’s 1 Rockefeller Plaza, the landlord announced Thursday. The retailer signed a 7,340-square-foot lease at the Midtown landmark, where its new space will open in 2027. The asking rent and the length of the lease were not disclosed, but the average asking rent for retail space in Midtown Plaza District was $2,540 per square foot during the second quarter of 2026, according to CBRE data. “Rockefeller Center continues to attract brands that shape culture and consumer behavior globally,” EB Kelly, senior managing director at Tishman Speyer and head of Rockefeller Center, said in a statement. “Madewell’s decision to establish a presence here reinforces the center’s unique ability to combine iconic New York identity with modern cultural relevance.&#8221; Newmark brokered the deal for Madewell, while Tishman Speyer was repped in-house by Lucy Phillips. Newmark did not immediately respond to a request for comment. Madewell’s new store at Rockefeller Center will be its eighth location in New York City. “We’re excited to be part of Rockefeller Center, one of New York’s most iconic retail destinations,” Garrett Putney, senior vice president of retail at Madewell, said in a statement. “This store represents an important milestone for Madewell, giving us the opportunity to bring our full brand experience to life in a space that reflects our commitment to quality, style and community.” Built in 1937, 1 Rockefeller Plaza is a 34-story office, dining and shopping center located between West 48th and West 49th streets in Midtown. Office tenants in the building include real estate investment trust Chimera Investment Corporation and investment firm Ulysses Management, while clothing shop Alex Mill has a ground-floor location there. Amanda Schiavo can be reached at aschiavo@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-13T15:29:08+00:00",
-      "bullets": [
-        "Madewell signs 7,340 SF lease at Tishman Speyer's 1 Rockefeller Plaza, Midtown.",
-        "Retail asking rents in Midtown Plaza District average $2,540/SF (Q2 2026); lease opens 2027.",
-        "Tishman Speyer landing marquee retail; no residential component disclosed."
-      ],
-      "summary": "Madewell signed a 7,340 SF lease at Tishman Speyer's 1 Rockefeller Plaza in Midtown Manhattan, with opening planned for 2027. Retail asking rents in the Midtown Plaza District averaged $2,540/SF in Q2 2026. The landlord and retailer emphasized the property's cultural draw and global consumer relevance.",
-      "impact": "No direct impact on multifamily development. Retail leasing in Rockefeller Center reflects strong flagship retail demand in Midtown but does not signal residential supply, demand, or capital dynamics."
-    },
-    {
-      "title": "Porter Kyle Adds New 100-Unit BTR Community to East Valley Portfolio",
-      "link": "https://www.connectcre.com/stories/porter-kyle-adds-new-100-unit-btr-community-to-east-valley-portfolio/",
-      "excerpt": "Porter Kyle, a Scottsdale-based Build-to-Rent (BTR) developer and general contractor, opened the doors to The Wayne, a 100-unit BTR townhome community in Chandler, Ariz. Residents are moving in, and the clubhouse and first four buildings at the community have been transitioned to Mark-Taylor for ongoing lease-up and property management. The opening caps a 20-month build by Porter Kyle Builders of a community that was delivered on schedule and under budget. Porter Kyle’s Taylor Shultz added, &#8220;This community was built to compete with for-sale product on quality while offering the flexibility of a lease, and the early absorption numbers tell us that resonated with renters from day one.&#8221; The Wayne offers one-, two- and three-bedroom townhomes with direct-access two-car garages, and private backyards. Community amenities include a resident clubhouse with coworking spaces and private offices, a fitness center, pool and outdoor kitchen, a dog park, and a community trail system. Porter Kyle has four BTR projects in Phoenix’s East Valley. The post Porter Kyle Adds New 100-Unit BTR Community to East Valley Portfolio appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-13T15:18:33+00:00",
-      "bullets": [
-        "Porter Kyle delivered The Wayne, 100-unit BTR townhome community, Chandler, Arizona.",
-        "20-month build completed on schedule and under budget; early absorption strong.",
-        "Units include 1–3 bedrooms, direct-access garages, backyards; Mark-Taylor managing lease-up."
-      ],
-      "summary": "Porter Kyle completed The Wayne, a 100-unit build-to-rent (BTR) townhome community in Chandler, Arizona, on schedule and under budget in 20 months. Amenities include a clubhouse with coworking, fitness center, pool, dog park, and community trails. Units offer one-, two-, and three-bedroom floor plans with direct-access two-car garages and private backyards. Mark-Taylor is now managing lease-up; early absorption has exceeded expectations.",
-      "impact": "BTR absorption strength in Chandler signals robust demand for single-family rental product in East Valley Phoenix submarket. On-time, under-budget delivery indicates favorable construction conditions and labor availability in Arizona. Continued BTR supply and competitive absorption versus for-sale may temper future rent growth but confirms sustained demand for flexibility-focused housing; validates continued BTR pipeline in metro."
-    },
-    {
-      "title": "KKR Names Sam Caven, Marshall Nevins New Co-Heads of Acquisitions",
-      "link": "https://commercialobserver.com/2026/08/kkr-names-sam-caven-marshall-nevins-new-co-heads-of-acquisitions/",
-      "excerpt": "KKR has appointed Sam Caven and Marshall Nevins co-heads of acquisitions for the Americas, Commercial Observer can first report. Nevins joins KKR from Blackstone, where he was a managing director, leading investments across multiple real estate strategies. Caven has led investment activity across KKR’s U.S. real estate funds since 2024 and previously spent 13 years at Starwood Capital. The new co-heads now join Brett Kelly and Michael Osborne, co-heads of KKR’s real estate equity asset management business, with all four reporting up to Justin Pattner, head of equity for the Americas. “We pride ourselves on continuing to evolve, and sometimes the more profound changes around businesses present themselves as people-related changes,” Pattner said. “We’ve been investing, harvesting, and trying to figure out what our organizational structure should look like on a go-forward basis so that we can maintain performance and grow well into the future, and this was a great time to make those changes.” Nevins’ first day was August 12, and so those changes are now up and running. “As a firm, we&#8217;re big believers in if you can find the right co-head model — because people have different perspectives and different strengths — and as long as you have the right organizational structure and the right incentive model, you can be in a situation where one-plus-one is greater than two,” Pattner said. “So, it’s a case of the right time, right people, and we&#8217;re pretty excited.” San Francisco-based Caven brings 19 years of experience to his new role. At Starwood, he led acquisitions and dispositions of office, industrial and residential assets and also worked on the formation of Starwood Waypoint Homes and Starwood Real Estate Income Trust. Prior to Starwood, Caven worked on capital raising and M&amp;A advisory for both public and private real estate companies at JMP Securities. “I&#8217;d known Sam for the better part of eight or nine years and had been looking to bring him on bo",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-13T15:08:46+00:00",
-      "bullets": [
-        "KKR appoints Sam Caven and Marshall Nevins co-heads of Americas acquisitions.",
-        "Nevins from Blackstone (MD); Caven led KKR's U.S. real estate funds since 2024.",
-        "Organizational restructuring; no capital commitment or strategy shift disclosed."
-      ],
-      "summary": "KKR named Sam Caven and Marshall Nevins as co-heads of acquisitions for the Americas, effective August 12. Nevins joined from Blackstone, where he was a managing director investing across multiple real estate strategies. Caven has led KKR's U.S. real estate fund investment activity since 2024 and spent 13 years at Starwood Capital. Both report to Justin Pattner, head of equity for the Americas.",
-      "impact": "Organizational change at a mega-cap real estate investor; no immediate signal on capital deployment, asset-class focus, or rate/cap-rate assumptions. Monitor for future announcements on multifamily acquisition targets or fund closes to assess appetite and pricing discipline in the market."
-    },
-    {
-      "title": "ParkProperty Acquires 280-Unit Buckhead Apartment Community",
-      "link": "https://www.connectcre.com/stories/parkproperty-acquires-280-unit-buckhead-apartment-community/",
-      "excerpt": "ParkProperty Capital acquired The Jane, a 280-unit multifamily in the Brookwood district of Atlanta, adjacent to Buckhead. The property was traded for $75 million. CWS Capital Partners was the seller. The property was named after the local golf legend Bobby Jones’ putter, Calamity Jane. Brookwood sits adjacent to the Bobby Jones Golf Course. Once called Marquis at Buckhead, The Jane is located steps away from the Beltline Northside Trail along Colonial Homes Drive Northwest. The community features one- and two-bedroom floor plans. Amenities include a saltwater pool, two sundecks, outdoor sporting and recreation area, and a regulation-size Bocce Ball court . ParkProperty Capital plans to renovate the community’s interiors to better align with the property’s branding and pay tribute to its contemporary Southern exterior architecture. ParkProperty Capital purchased an adjacent multifamily property, The Monroe, in 2022. The company owns additional multifamily assets in U.S. metros such as Houston, Charlotte, Austin, Seattle and Phoenix. The post ParkProperty Acquires 280-Unit Buckhead Apartment Community appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-13T14:27:04+00:00",
-      "bullets": [
-        "ParkProperty Capital acquires The Jane, 280-unit multifamily, Brookwood/Buckhead, Atlanta, $75M.",
-        "Asset formerly Marquis at Buckhead; CWS Capital Partners seller; adjacent to Bobby Jones Golf Course.",
-        "ParkProperty owns multifamily in Houston, Charlotte, Austin, Seattle, Phoenix; renovation planned."
-      ],
-      "summary": "ParkProperty Capital acquired The Jane, a 280-unit multifamily property in Atlanta's Brookwood district (adjacent to Buckhead), for $75 million from CWS Capital Partners. The property (formerly Marquis at Buckhead) features one- and two-bedroom floor plans and sits steps from the Beltline Northside Trail. ParkProperty plans interior renovations and already owns The Monroe nearby; it also holds multifamily assets in Houston, Charlotte, Austin, Seattle, and Phoenix.",
-      "impact": "Confirms strong institutional acquisition appetite for stabilized multifamily in Atlanta's Buckhead-adjacent submarkets despite regional supply growth. $75M / 280 units = ~$268K per unit, suggesting moderate cap rates and continued buyer confidence in Atlanta rental demand. ParkProperty's geographic diversification signals operators rotating capital across Sunbelt markets with balanced supply-demand profiles."
-    },
-    {
-      "title": "Sixth Street Pays $190M for Key West Resort",
-      "link": "https://www.connectcre.com/stories/sixth-street-pays-190m-for-key-west-resort/",
-      "excerpt": "Sixth Street acquired the Pier House Resort &amp; Spa, a 142-room, luxury oceanfront resort in Key West, Florida, for $190 million from Braemar Hotels &amp; Resorts. Sixth Street completed the transaction in partnership with Riller Capital. Financing for the transaction was provided by Starwood Property Trust. Situated on five acres at 1 Duval Street, Pier House is located on the waterfront at the gateway to Key West’s Duval Street. Amenities include two oceanfront dining venues, a full-service spa, fitness center, oceanfront pool, 75 linear feet of private beach frontage, and approximately 3,000 square feet of meeting and event space. Sixth Street Real Estate invests directly in properties, provides solutions across the capital structure—including equity, preferred equity, and debt—and partners with sector-related operating businesses. The firm’s real estate investments span a wide range of asset classes, including residential, office, hospitality, industrial, data centers, retail, and other specialized sectors. The post Sixth Street Pays $190M for Key West Resort appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-13T13:57:00+00:00",
-      "bullets": [
-        "Sixth Street Partners + Riller Capital acquire Pier House Resort, Key West, $190M (duplicate of Article 2).",
-        "142-room oceanfront luxury on 5 acres; Starwood Property Trust provided debt.",
-        "Located at 1 Duval Street; full amenities; private beach and spa."
-      ],
-      "summary": "Sixth Street and Riller Capital acquired the Pier House Resort & Spa, a 142-room luxury oceanfront resort in Key West, for $190 million. The property sits on five acres at 1 Duval Street with two dining venues, spa, fitness center, oceanfront pool, 75 linear feet of private beach, and 3,000 SF of meeting space. Starwood Property Trust financed the debt.",
-      "impact": "Duplicate of Article 2. No impact on multifamily development."
-    },
-    {
-      "title": "Xebec Snags Financing for 687K-SF Savannah-Area Industrial Development",
-      "link": "https://www.connectcre.com/stories/xebec-snags-financing-for-687k-sf-savannah-area-industrial-development/",
-      "excerpt": "Xebec closed on $30.49 million in joint-venture equity alongside $39.95 million in construction financing for Black Creek Commerce Center, a three-building Class A industrial development in Black Creek, Georgia. not far from Savannah. JLL secured the construction loan from Seacoast Bank and placed the joint-venture equity with a private investment group. Scheduled to deliver in the third quarter of 2027, the 687,890-square-foot development will feature three buildings spanning 219,170, 284,580 and 184,140 square feet. The development has direct access to U.S. Highway 80, providing immediate connectivity to Interstate 16 and the broader Atlanta market. The Xebec holds a right of first refusal on Phase II, an adjacent 77-acre parcel, through April 2027. The JLL Capital Markets team representing the developer was led by Bobby Norwood and Mark Sixour, along with Britton Burdette, Jim Freeman, Kelsey Bawcombe and Austin Smith. The post Xebec Snags Financing for 687K-SF Savannah-Area Industrial Development appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-13T13:42:42+00:00",
-      "bullets": [
-        "Xebec closes $30.49M equity + $39.95M construction loan for Black Creek Commerce Center, Georgia.",
-        "687,890 SF Class A industrial (3 buildings); delivery Q3 2027; near Savannah and I-16.",
-        "JLL placed financing via Seacoast Bank; ROFR on Phase II (77 acres) through April 2027."
-      ],
-      "summary": "Xebec closed $30.49 million in joint-venture equity and $39.95 million in construction financing for Black Creek Commerce Center, a 687,890 SF Class A industrial development in Black Creek, Georgia (near Savannah). The three-building project (219,170, 284,580, and 184,140 SF buildings) is scheduled for Q3 2027 delivery and has direct access to U.S. Highway 80 and I-16. Xebec holds a right of first refusal on an adjacent 77-acre Phase II parcel through April 2027.",
-      "impact": "No direct relevance to multifamily development. Industrial capital flowing into Savannah-area logistics; signals regional infrastructure maturity and investor confidence in Southeastern logistics nodes but does not affect residential supply, demand, or financing dynamics."
+      "summary": "Heights Advisors, a Brooklyn-based developer, filed a land use application with NYC Department of City Planning for a 21-story mixed-use building with 606 affordable housing units at 945 White Plains Road in the Bronx's Soundview neighborhood. The 515,063-square-foot project includes 503,095 square feet of residential space and 11,968 square feet of commercial space, and the developer is seeking construction financing through the NYC Department of Housing Preservation and Development's New Construction Finance Program. The Uniform Land Use Review Procedure (ULURP) typically takes approximately seven months.",
+      "impact": "Material supply signal for East Bronx multifamily market: 606 units of subsidized affordable housing will compete directly with market-rate and workforce housing in the Soundview submarket, likely depressing rents for unsubsidized product and limiting pricing power for nearby private developers. The reliance on HPD financing and lengthy ULURP timeline suggests this project will not deliver before 2028–2029, creating a multi-year window for competitive market-rate development. Developers targeting the Bronx should assess whether Soundview is saturating with affordable-only pipelines and consider adjacent neighborhoods (Pelham Bay, Throggs Neck) for market-rate multifamily opportunities."
     }
   ]
 }
