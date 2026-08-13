@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-13T17:51:26.574100+00:00",
+  "fetchedAt": "2026-08-13T18:50:23.809406+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -10,20 +10,50 @@
     {
       "label": "10Y Treasury",
       "value": "4.64%",
-      "pct": -0.79
+      "pct": -0.88
     },
     {
       "label": "30Y Treasury",
-      "value": "5.22%",
-      "pct": -0.59
+      "value": "5.21%",
+      "pct": -0.65
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "98.38",
-      "pct": 1.09
+      "value": "98.48",
+      "pct": 1.2
     }
   ],
   "stories": [
+    {
+      "title": "JLL Secures $40M Refinancing for Multifamily in Portland’s Lloyd District",
+      "link": "https://www.connectcre.com/stories/jll-secures-40m-refinancing-for-multifamily-in-portlands-lloyd-district/",
+      "excerpt": "JLL has secured a $40.5 million refinancing for The Payton, a 162-unit multifamily property in Portland, Oregon. JLL represented the borrower, ColRich, in arranging the five-year, floating-rate loan through Prime Finance. The Payton, located at 2020 NE Multnomah St., is a seven-story mid-rise community built in 2019. JLL Capital Market’s Debt Advisory team was led by Senior Managing Director Aldon Cole, Managing Director Jimmy Conley, Directors Brock Knapp and Sean O’Brien, and Analysts Ben Choromanski and Matthew Payamps. The property sits at the confluence of Portland&#8217;s Central Eastside and Lloyd District, two of the metro area&#8217;s most centralized urban submarkets, with over five million square feet of retail within one mile. The property maintains 98% occupancy as of August 2026. &#8220;The successful refinancing of The Payton demonstrates the positive momentum in Portland&#8217;s multifamily market and the quality of ColRich&#8217;s long-term ownership strategy,&#8221; said Cole. The post JLL Secures $40M Refinancing for Multifamily in Portland&#8217;s Lloyd District appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-13T18:03:11+00:00",
+      "bullets": [
+        "JLL refinanced The Payton, 162-unit Portland property, $40.5M floating-rate loan.",
+        "Lloyd District/Central Eastside submarket asset maintains 98% occupancy as of Aug 2026.",
+        "Prime Finance provided five-year term; mid-rise built 2019 in dense urban node."
+      ],
+      "summary": "JLL Capital Markets arranged a $40.5 million five-year floating-rate refinancing for The Payton, a 162-unit mid-rise apartment community in Portland's Lloyd District delivered in 2019. The property maintains 98% occupancy and sits at the confluence of two central urban submarkets with over 5 million square feet of retail within one mile. The transaction was placed through Prime Finance and signals lender confidence in Portland's multifamily fundamentals.",
+      "impact": "Refinancing activity at near-full occupancy and strong debt execution in Portland's urban core suggests stabilized fundamentals and lender appetite for quality mid-rise assets in that submarket. Lloyd District's density and retail proximity position new development favorably for Class A rents and value-add plays, particularly for mixed-use projects that can capture synergies with surrounding retail and office."
+    },
+    {
+      "title": "Cushman & Wakefield Arranges $37M Financing for MD Mixed-Used Development",
+      "link": "https://www.connectcre.com/stories/cushman-wakefield-arranges-37m-financing-for-md-mixed-used-development/",
+      "excerpt": "Cushman &amp; Wakefield has arranged $37.37 million in floating-rate construction financing for Derby Place, a 94,587-square-foot retail development anchored by Whole Foods Market in Bel Air, Maryland. The property is already 92% committed with retailers and service providers. Located at 610 Baltimore Pike, Derby Place will feature 60,000 square feet of luxury boutiques, restaurants, shops and amenities. The development will offer 512 parking spaces on a 10.45-acre site. Derby Place will replace a vacant Macy’s location at the former Harford Mall. Cushman &amp; Wakefield’s Equity, Debt &amp; Structured Finance team of John Alascio, Mark Gilbert, Alex Hernandez, and Mitch Rothstein represented the borrower, SJC Ventures, in securing the financing. SJC Ventures recently began the demolition process of the former Macy&#8217;s. Bank of America provided the loan. “This transaction exemplifies the continued demand for institutional-quality, grocery-anchored retail in high-barrier markets,” said Gilbert. The post Cushman &amp; Wakefield Arranges $37M Financing for MD Mixed-Used Development appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-13T17:55:28+00:00",
+      "bullets": [
+        "C&W arranged $37.37M construction financing for Derby Place retail in Bel Air, Maryland.",
+        "Project 92% pre-committed; Whole Foods-anchored, replaces vacant Macy's at former Harford Mall.",
+        "Bank of America lender; floating-rate term covers 94,587-SF retail on 10.45-acre site."
+      ],
+      "summary": "Cushman & Wakefield secured $37.37 million in floating-rate construction financing for Derby Place, a grocery-anchored retail development in Bel Air, Maryland anchored by Whole Foods with 92% tenant commitments. The project replaces a vacant Macy's location and will feature 60,000 square feet of luxury retail, restaurants, and shops on a 10.45-acre parcel. Bank of America provided the loan as SJC Ventures began demolition.",
+      "impact": "Limited direct multifamily relevance; however, grocery-anchored mixed-use redevelopment of regional mall sites signals real estate's shift toward neighborhood convenience and experiential retail, which can create foot traffic and amenity pull for nearby residential development. The strong pre-leasing (92% committed) in a repurposing scenario demonstrates demand for curated retail experiences in suburban nodes, validating co-located residential strategies in secondary markets."
+    },
     {
       "title": "Fortress Refinances Dania Design Center With $45M After Foreclosure Fight",
       "link": "https://commercialobserver.com/2026/08/fortress-dania-beach-design-center-americas-charles-cohen/",
@@ -32,27 +62,42 @@
       "cat": "Commercial",
       "date": "2026-08-13T17:40:19+00:00",
       "bullets": [
-        "Fortress refinanced 780K-SF Dania Beach mixed-use complex with $45M City National Bank loan",
-        "Property lost 100K-SF Chewy tenant five years ago; $6–8M renovation planned over 12 months",
-        "Fortress acquired asset via $76M credit bid in 2024 foreclosure; Jamestown hired as manager"
+        "Fortress refinanced Design Center of Americas (Dania Beach, FL) with $45M City National Bank loan.",
+        "780,000-SF office/showroom complex; $3M invested in past two years, $3–5M more planned.",
+        "Fortress won asset in 2024 credit bid ($76M) after foreclosure; lost Chewy (100K SF) five years prior."
       ],
-      "summary": "Fortress Investment Group secured a $45 million refinance from City National Bank of Florida for the Design Center of the Americas in Dania Beach, a 780,000-square-foot office and design showroom complex acquired through a 2024 credit bid. The property has been updated with $3 million in improvements and plans another $3–5 million over the coming year. The asset had lost significant tenant Chewy (100,000 SF) five years prior, and Fortress recently engaged Jamestown for management and leasing.",
-      "impact": "Refinancing signals stabilization of a distressed South Florida mixed-use asset and reflects lender appetite for value-add office repositioning. Dania Beach office market may see selective demand if Fortress executes leasing against renovation pipeline; however, the property's 100K-SF tenant loss and current economic headwinds in legacy office limit upside for competing multifamily players seeking land or capital in the submarket."
+      "summary": "Fortress Investment Group refinanced the Design Center of the Americas in Dania Beach, Florida with a $45 million loan from City National Bank of Florida, following a 2024 $76 million credit-bid acquisition and foreclosure fight with previous owner Charles Cohen. The 780,000-square-foot office and design showroom complex has received $3 million in updates since acquisition, with another $3–5 million planned. Jamestown was tapped in June to oversee management and leasing.",
+      "impact": "Not directly relevant to multifamily development; however, the Fortress-led repositioning of distressed office-showroom assets in South Florida's industrial corridor (near I-95, Dania Beach) signals broader capital availability for mixed-use and office-to-alternative-use conversions in the region. If Design Center moves toward hospitality, flex, or creative office as leasing stabilizes, it could influence competing capital deployment and land values in adjacent submarkets where multifamily developers operate."
     },
     {
-      "title": "Keystone Equities Provides $61M Refi for IOS Repositioning Site in Newark",
+      "title": "MDH Partners Acquires 1M-SF Industrial Building in Indiana",
+      "link": "https://www.connectcre.com/stories/mdh-partners-acquires-1m-sf-industrial-building-in-indiana/",
+      "excerpt": "MDH Partners (MDH) has acquired 70 Connect III, a 1,005,776-square-foot industrial building in Greenfield, Indiana, part of the Indianapolis metropolitan area. The building, developed by Lauth, was delivered on a speculative basis and sits along West 350 North in the East industrial submarket. JLL represented the seller in the transaction. MDH&#8217;s Director of Acquisitions Houston Hawley led the acquisition for the firm. JLL&#8217;s Brian Buschuk and Brian Seitz will handle leasing for MDH. “We&#8217;re ultimately believers in quality assets at a good basis, and that&#8217;s exactly what we&#8217;re getting with 70 Connect III,” Hawley said. The cross-docked building offers 40-foot clear heights, 108 dock doors expandable to 216, four drive-in doors, an ESFR sprinkler system and eight-inch slabs. The site has two points of entry along West 350 North and is less than three miles from Interstate 70 and about ten miles from Interstate 465, Indianapolis&#8217; primary loop. The Indianapolis International Airport and its FedEx hub are within a 30-mile drive. Join the Executives Driving Western Industrial Real Estate | August 20Hear from senior leaders representing the industry&#8217;s most active firms as they discuss investment strategy, market fundamentals, leasing trends, and emerging opportunities across the West Coast. Connect Industrial West is where industry leaders come together to share insights, build relationships, and identify what&#8217;s next for the sector. Secure your spot: www.connectindustrialwest2026.com The post MDH Partners Acquires 1M-SF Industrial Building in Indiana appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-13T17:36:52+00:00",
+      "bullets": [
+        "MDH Partners acquired 70 Connect III, 1,005,776-SF industrial in Greenfield, Indiana (Indianapolis metro).",
+        "Cross-dock spec building with 40-ft clear, 108 docks, <3 miles from I-70; FedEx hub 30 miles.",
+        "JLL represented seller; building within East industrial submarket, near Indianapolis International Airport."
+      ],
+      "summary": "MDH Partners acquired 70 Connect III, a 1-million-plus-square-foot spec industrial building in Greenfield, Indiana (Indianapolis metro), featuring 40-foot clear heights, 108 dock doors, and optimal highway connectivity to I-70 and I-465. The asset was developed by Lauth and positioned for cross-dock logistics with proximity to the Indianapolis International Airport and FedEx hub. JLL represented the seller.",
+      "impact": "Limited direct multifamily impact; however, strong industrial absorption and new class-A logistics facility development in Indianapolis' East submarket signals sustained logistics-driven job growth and population inflow to the metro. This reinforces multifamily development opportunity in core Indianapolis neighborhoods and suburban nodes with highway adjacency, particularly for workforce and middle-income segments serving 3PL and distribution tenants at nearby hubs."
+    },
+    {
+      "title": "Keystone Equities Provides $61M Acquisition Debt for IOS Repositioning Site in Newark",
       "link": "https://commercialobserver.com/2026/08/keystone-equities-61m-refi-ios-newark/",
-      "excerpt": "KS Group has secured $60.5 million to refinance a 51-acre industrial site in Newark, N.J., that will be repositioned as an industrial outdoor storage property, Commercial Observer can first report. Keystone Equities provided the debt, structured as a senior bridge loan, marking $660 million in capital the firm has deployed since August 2023, the firm noted in a release. CBRE’s Shlomo Weissberg and Eli Klapper arranged the transaction. Jonathan Zamir, founder and CEO of Keystone Equities, noted in a statement that the site is currently under active environmental remediation and still hadn’t secured a certificate of occupancy before closing, which led to several “traditional lenders” to decline to underwrite the risk associated with the deal. “This was a deal that required real diligence. We dug in, structured around the risks, and found a solution that works for both us and the borrower,” he said. “That’s where Keystone adds value.” Located at 151 Raymond Boulevard in Newark, the industrial site is a former PSEG property that holds proximity to Port Newark-Elizabeth and New York City. The new IOS site will include parking for both trucks and trailers, a container garage for shipping, and electric vehicle and solar charging stations. CBRE noted in recent reports that IOS vacancy in Northern New Jersey stands at 2.5 percent, while rents have grown 123 percent since 2020. Brian Pascus can be reached at bpascus@commercialobserver.com.",
+      "excerpt": "KS Group has secured $60.5 million in acquisition debt to buy a 51-acre industrial site in Newark, N.J., that will be repositioned as an industrial outdoor storage property, Commercial Observer can first report. Keystone Equities provided the debt, structured as a senior bridge loan, marking $660 million in capital the firm has deployed since August 2023, the firm noted in a release. KS Group is buying the site from an ownership group led by Daryl Hagler. CBRE’s Shlomo Weissberg and Eli Klapper arranged the transaction. Jonathan Zamir, founder and CEO of Keystone Equities, noted in a statement that the site is currently under active environmental remediation and still hadn’t secured a certificate of occupancy before closing, which led to several “traditional lenders” to decline to underwrite the risk associated with the deal. “This was a deal that required real diligence. We dug in, structured around the risks, and found a solution that works for both us and the borrower,” he said. “That’s where Keystone adds value.” Located at 151 Raymond Boulevard in Newark, the industrial site is a former PSEG property that holds proximity to Port Newark-Elizabeth and New York City. The new IOS site will include parking for both trucks and trailers, a container garage for shipping, and electric vehicle and solar charging stations. CBRE noted in recent reports that IOS vacancy in Northern New Jersey stands at 2.5 percent, while rents have grown 123 percent since 2020. Brian Pascus can be reached at bpascus@commercialobserver.com.",
       "source": "Comm. Observer",
       "cat": "Commercial",
       "date": "2026-08-13T17:24:51+00:00",
       "bullets": [
-        "Keystone Equities closed $60.5M senior bridge for 51-acre Newark industrial site repositioning",
-        "Property under environmental remediation, lacks certificate of occupancy; traditional lenders declined risk",
-        "KS Group converting former PSEG utility property to industrial outdoor storage; bridge structure reflects contamination uncertainty"
+        "Keystone Equities provided $60.5M senior bridge for KS Group's 51-acre Newark industrial-storage repositioning.",
+        "Site at 151 Raymond Boulevard under environmental remediation; no occupancy certificate at close.",
+        "Keystone has deployed $660M in capital since Aug 2023; CBRE arranged transaction."
       ],
-      "summary": "Keystone Equities provided a $60.5 million senior bridge loan to refinance a 51-acre industrial site at 151 Raymond Boulevard in Newark, New Jersey, being repositioned as an industrial outdoor storage property. The asset is undergoing active environmental remediation and had not obtained a certificate of occupancy at closing, creating risk that traditional lenders declined. Keystone's willingness to structure around environmental and regulatory uncertainty reflects the firm's $660 million deployment since August 2023.",
-      "impact": "Bridge financing for contaminated industrial sites signals continued capital availability for remediation-dependent projects in the Newark market, but has minimal direct impact on multifamily development. The deal underscores that alternative lenders are filling voids left by traditional underwriters—relevant to multifamily developers seeking non-recourse or acquisition bridge structures in distressed or regulatory-challenged situations."
+      "summary": "Keystone Equities provided a $60.5 million senior bridge loan for KS Group to acquire a 51-acre industrial site in Newark, New Jersey that will be repositioned as an industrial outdoor storage property. The site is currently under environmental remediation and lacked a certificate of occupancy at close—conditions that disqualified traditional lenders. The transaction marks $660 million deployed by Keystone since August 2023.",
+      "impact": "Keystone's willingness to deploy bridge capital into remediation-stage Newark industrial land signals recovery and development activity in distressed North Jersey corridors. For multifamily developers, this underscores available specialty debt capital for complex risk structures and suggests increasing investment velocity in Newark's industrial and mixed-use zones, which could drive land values and labor availability for residential projects in nearby submarkets (Jersey City, Newark core, Ironbound)."
     },
     {
       "title": "CMBS Special Servicing Rate Dips in July as Office, Lodging Improve",
@@ -62,12 +107,12 @@
       "cat": "Commercial",
       "date": "2026-08-13T17:22:58+00:00",
       "bullets": [
-        "Multifamily special servicing rate rose 16 bps to 8.39% in July; overall CMBS rate fell 11 bps to 11.09%",
-        "Office and lodging improved (office -53 bps to 16.58%; lodging -26 bps to 8.63%); retail jumped 33 bps to 13.28%",
-        "$1.69B in new special servicing transfers; retail (regional malls) accounted for $903.6M, driven by maturity defaults"
+        "Trepp CMBS special servicing rate fell 11 bps in July to 11.09%; office down 53 bps to 16.58%.",
+        "Multifamily special servicing rose 16 bps to 8.39%; mixed-use edged up 2 bps to 11.93%.",
+        "Retail spiked 33 bps to 13.28% as regional malls hit balloon maturities; $1.69B new transfers overall."
       ],
-      "summary": "The Trepp CMBS special servicing rate fell 11 basis points in July to 11.09%, led by improvements in office (-53 bps to 16.58%) and lodging (-26 bps to 8.63%). However, multifamily rose 16 basis points to 8.39%, while retail surged 33 bps to 13.28%, driven by $903.6 million in regional mall loans hitting balloon maturity. Total new special servicing transfers reached $1.69 billion across 41 loans.",
-      "impact": "Rising multifamily special servicing signals stress in select multifamily CMBS pools—likely concentrated in older, high-leverage deals originated 2019–2021 with near-term maturities. While office pain masks multifamily's modest deterioration, the 16 bp uptick warrants monitoring of regional-specific CMBS maturity walls and potential distressed sale opportunities in markets with high CMBS-backed inventory, particularly secondary metros. Conversely, it signals tightening underwriting for new construction debt."
+      "summary": "The Trepp CMBS special servicing overall rate declined 11 basis points in July to 11.09%, driven by marked improvements in office (down 53 bps to 16.58%) and lodging (down 26 bps to 8.63%). However, multifamily special servicing rates rose 16 basis points to 8.39%, while mixed-use ticked up 2 basis points to 11.93%. Retail saw the sharpest increase—up 33 basis points to 13.28%—as regional mall loans transferred into special servicing for maturity defaults.",
+      "impact": "Rising multifamily special servicing rates (up 16 bps to 8.39%) signal emerging credit stress in certain multifamily CMBS pools, likely concentrated in markets with softening fundamentals or aggressive leverage. This suggests tightening CMBS availability for multifamily transitional deals and cap-rate compression opportunities in secondary markets; well-capitalized developers should monitor distressed CMBS pools and maturing debt in supply-constrained metro markets (Sunbelt growth cities, tight suburban rings) for acquisition targets."
     },
     {
       "title": "Return to Lender: Week of August 13, 2026",
@@ -77,57 +122,12 @@
       "cat": "Commercial",
       "date": "2026-08-13T17:22:33+00:00",
       "bullets": [
-        "Article placeholder with no substantive content; generic CRE news column header dated August 13, 2026",
-        "No deals, market data, or editorial information provided",
-        "Section label only; unable to extract actionable intelligence"
+        "Column header only; no substantive deal data provided in excerpt.",
+        "Section title references week of August 13, 2026; specific transactions not detailed.",
+        "Content appears truncated or placeholder; insufficient information for analysis."
       ],
-      "summary": "This article is a template or placeholder with no actual news content—only a column header and byline attribution for a weekly distressed asset recap. No market data, deals, or analysis is included.",
-      "impact": "No impact; article contains no substantive information relevant to multifamily development."
-    },
-    {
-      "title": "Texas People & Companies, August 14, 2026",
-      "link": "https://www.connectcre.com/stories/texas-people-companies-august-14-2026/",
-      "excerpt": "Austin-based&nbsp;ECR&nbsp;promoted Stephen McMillen from Research Analyst to Brokerage Advisor. The RA program provides a path into commercial real estate brokerage without requiring an existing book of business or industry contacts. McMillen joined ECR’s RA program in August 2025, supporting the brokerage and marketing teams with market research and by tracking properties and tenants across Austin. In his new role, he moves into brokerage full-time. Stream Realty Partners&nbsp;represented Superior Energy Services, Inc. in the relocation of its corporate headquarters to 56,256 square feet at 8020 Katy Freeway in Houston.&nbsp;Stream Vice Chairman&nbsp;David Guion&nbsp;and Lucian Bukowski represented Superior Energy Services in the transaction. Located in Houston’s Spring Branch submarket just north of Memorial, 8020 Katy Freeway is a 225,024-square-foot, 13-story office tower. CBRE arranged a 50,802-square-foot office lease for Carrington, Coleman, Sloman &amp; Blumenthal, LLP at Dallas Arts Tower, a Class-A office tower at 2200 Ross Ave. in downtown Dallas. The law firm relocated from Bank of America Plaza and will occupy floors 18 and 19 of the property. CBRE’s Phil Puckett and Harlan Davis represented Carrington Coleman in lease negotiations. The landlord, Fortis Property Group, LLC, was represented by JJ Leonard of Partners Real Estate and Matt Wieser of Stream Realty. The Dinerstein Companies (TDC), in joint venture partnership with Up Campus Student Living and Harrison Street Asset Management, announced that its new student high-rise, Aspire Reserve, opened on August 1. Soaring 19 stories high at the most visible, prime corner of the Northgate district, Aspire Reserve offers 873 beds across a diverse mix of floor plans ranging from thoughtfully designed studios to spacious six-bedroom layouts, spanning from 400 to 1,900 square feet. Amenities include a two-story indoor/outdoor fitness and wellness center, yoga studio, Peloton spin studio, a golf and gaming si",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-13T17:20:33+00:00",
-      "bullets": [
-        "Article placeholder titled 'Texas People & Companies' dated August 14, 2026; no content",
-        "Section header only; no deals, executive moves, or market trends disclosed",
-        "Unable to assess regional market signals for Texas multifamily"
-      ],
-      "summary": "This article is a section header with no actual content—only a column title and generic author bio. No Texas market news, people moves, corporate relocations, or deal activity is included.",
-      "impact": "No impact; article contains no substantive information."
-    },
-    {
-      "title": "Florida People & Companies, August 14, 2026",
-      "link": "https://www.connectcre.com/stories/florida-people-companies-august-14-2026/",
-      "excerpt": "West Palm Beach, Fla. –&nbsp;PTM Partners&nbsp;and Hernandez Development &amp; Construction acquired an 8.13-acre development site at 8530 Belvedere Road in West Palm Beach, Florida for $11.5 million. The site will be developed as Palm Beach Commerce Center, a&nbsp;93,556-square-foot&nbsp;Class A industrial facility with&nbsp;32-foot&nbsp;clear heights, 22 dock doors&nbsp;and&nbsp;more than&nbsp;180 feet&nbsp;of&nbsp;building&nbsp;depth.&nbsp;Previously approved for retail, gas station, and daycare uses, the site is being repositioned to address the continued demand for&nbsp;logistics&nbsp;and distribution space in Palm Beach County.&nbsp; Former Miami Beach City Manager Jimmy Morales, has been hired by Bilzin Sumberg, as Special Counsel. Morales joins the firm’s Land Development &amp; Government Relations Group. His arrival strengthens Bilzin Sumberg’s ability to serve clients navigating consequential transactions, strategic initiatives, government matters, regulatory challenges and opportunities for growth. Wood Partners hired Micah Conn as Managing Director of the firm’s South Florida office. Conn will oversee all aspects of development across the region, including origination, entitlements, design, capitalization and construction management. Conn has more than 20 years of experience in multifamily and mixed-use development. Before joining Wood Partners, he served as senior vice president of development at AvalonBay Communities. Miami-based Gencom Real Estate will be led by Donald McGregor, who has been promoted to President of Gencom Real Estate. In this leadership role, he will oversee the execution of the firm&#8217;s strategies across development, construction, and asset management, ensuring disciplined delivery from acquisition through stabilization and exit, while creating long-term value across the portfolio. The post Florida People &amp; Companies, August 14, 2026 appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-13T17:11:02+00:00",
-      "bullets": [
-        "Article placeholder titled 'Florida People & Companies' dated August 14, 2026; no content",
-        "Section header only; author bio provided but no actual news or market data",
-        "Unable to assess Florida multifamily demand or supply signals"
-      ],
-      "summary": "This article is a section header with no actual content—only a column title and author attribution. No Florida market news, corporate activity, or deal transactions are provided.",
-      "impact": "No impact; article contains no substantive information."
-    },
-    {
-      "title": "Jackson-Shaw Starts Work on 900K-SF Denton Industrial Project",
-      "link": "https://www.connectcre.com/stories/jackson-shaw-starts-work-on-900k-sf-denton-industrial-project/",
-      "excerpt": "Jackson-Shaw broke ground on Horizon 35, a master-planned business park at the northeast corner of Interstate 35 and Loop 288 in Denton, Texas. Phase I will deliver 543,550 square feet across three rear-load buildings and is now pre-leasing for delivery in the third quarter of 2027. At full buildout, the development will total more than 900,000 square feet and accommodate a range of tenant sizes. A future Phase II offers up to 400,000 square feet for build-to-suit. Along the I-35 corridor, Horizon 35 offers frontage and access to Interstate 35, Loop 288, and U.S. Highway 77. Phase I includes Building 1 at 147,390 square feet, Building 2 at 145,920 square feet, and Building 3 at 250,240 square feet. ARCO/Murray is serving as the design-builder. The Stream Realty Partners leasing team for Horizon 35 includes Forrest Cook, Mac Hall and Connor Land. The post Jackson-Shaw Starts Work on 900K-SF Denton Industrial Project appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-13T16:58:34+00:00",
-      "bullets": [
-        "Jackson-Shaw broke ground on Horizon 35, 900K-SF industrial park at I-35 & Loop 288, Denton, Texas",
-        "Phase I delivers 543.6K SF across three buildings by Q3 2027; Phase II offers up to 400K SF build-to-suit",
-        "Stream Realty Partners leasing project; I-35 corridor location attracts logistics and light industrial tenants"
-      ],
-      "summary": "Jackson-Shaw commenced construction on Horizon 35, a master-planned 900,000-square-foot industrial business park at the northeast corner of I-35 and Loop 288 in Denton, Texas. Phase I will deliver 543,550 square feet across three rear-load buildings in Q3 2027, with Phase II offering up to 400,000 square feet for build-to-suit. ARCO/Murray is the design-builder, and Stream Realty Partners is handling leasing.",
-      "impact": "Large-scale industrial pipeline in the Denton I-35 corridor signals ongoing supply growth in a key Dallas metro logistics submarket, which may absorb tenants and capital that could have flowed to adjacent Dallas proper. Denton's industrial growth reflects broader North Texas warehouse expansion, but has minimal direct multifamily demand effect unless logistics job creation in the submarket drives worker housing migration into adjacent residential markets (Frisco, Plano, Carrollton). Developers should monitor Denton rent growth and demographic trends to gauge secondary housing demand."
+      "summary": "This article stub contains only a column header and byline for Paul Bubny's 'Return to Lender' weekly wrap-up, with no transaction details or market data included in the excerpt provided.",
+      "impact": "No material impact can be assessed; full article content is not available."
     },
     {
       "title": "Zimmet Law Group Relocates to 5K SF at GFP’s 515 Madison Avenue",
@@ -137,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-08-13T16:42:00+00:00",
       "bullets": [
-        "Zimmet Law Group signed 5,476-SF lease at GFP's 515 Madison Avenue (DuMall Building) in Plaza District",
-        "Tenant relocating one block south from RFR's 477 Madison; asking rent ~$88.50/SF (Midtown avg Q2 2026)",
-        "Nearly 10-year term for newly completed space; occupancy expected late 2026"
+        "Zimmet Law Group leased 5,476 SF at GFP's 515 Madison Avenue (Midtown Manhattan).",
+        "Nearly 10-year term in Plaza District; asking rents ~$88.50/SF (Q2 2026 Midtown average).",
+        "One block from prior tenant location; GFP negotiated in-house; occupancy expected later 2026."
       ],
-      "summary": "Zimmet Law Group leased 5,476 square feet of newly completed office space at GFP Real Estate's 515 Madison Avenue (DuMont Building) in Manhattan's Plaza District, relocating from RFR's 477 Madison one block south. The nearly 10-year lease was signed at asking rents near Midtown's Q2 2026 average of $88.50 per square foot, with occupancy expected later in 2026.",
-      "impact": "Minimal impact on multifamily development; this is a small Manhattan office renewal in a premium submarket. No signal of broad office-to-residential conversion, major tenant flight, or demand deterioration in Midtown. The lease represents localized Plaza District office stability and GFP's ability to lease newly built space, but does not influence multifamily acquisition, construction, or financing strategy."
+      "summary": "Zimmet Law Group signed a 5,476-square-foot lease for a newly completed space at GFP Real Estate's 515 Madison Avenue (the DuMont Building) in Manhattan's Plaza District, relocating from a nearby address. The nearly 10-year lease is priced at market Midtown asking rates averaging $88.50 per square foot as of Q2 2026. The firm is expected to take occupancy later in 2026.",
+      "impact": "Not relevant to multifamily development; office leasing activity in Plaza District does not directly signal residential demand or supply dynamics. However, ongoing office tenant stability and new lease activity in Midtown East suggest selective office market recovery in prime Manhattan addresses, which could support mixed-use and residential development in transit-adjacent Midtown submarkets if office demand stabilizes further."
     },
     {
       "title": "Sixth Street Acquires Iconic Pier House Hotel in Key West for $190M",
@@ -152,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-08-13T16:21:09+00:00",
       "bullets": [
-        "Sixth Street Partners and Riller Capital acquired Pier House, 142-room Key West oceanfront resort, for $190M",
-        "Property sits on five acres at 1 Duval Street (top tourist destination); Starwood Property Trust provided debt",
-        "Acquisition targets long-term hospitality value creation in high-barrier-to-entry Key West market"
+        "Sixth Street Partners and Riller Capital acquired Pier House Resort (Key West) for $190M.",
+        "142-room luxury oceanfront hotel; 5 acres beachfront on Duval Street; private beach access.",
+        "Starwood Property Trust provided debt; Braemar Hotels & Resorts seller; opened 1975."
       ],
-      "summary": "Sixth Street Partners and Riller Capital acquired Pier House Resort and Spa, a 142-room luxury oceanfront hotel in downtown Key West, from Braemar Hotels & Resorts for $190 million. Located on five acres at 1 Duval Street with private beach access and sunset views, Starwood Property Trust provided debt financing. The investors cited the property's premium beachfront location and tourism destination positioning as drivers of long-term value.",
-      "impact": "No direct impact on multifamily development strategy. Key West hospitality remains a specialized, supply-constrained asset class with minimal overlap with residential development. However, the deal signals continued PE and debt appetite for premium hospitality in constrained coastal markets, reflecting broader confidence in post-pandemic leisure travel and suggests capital may be flowing away from secondary-market multifamily toward trophy hospitality assets."
+      "summary": "Sixth Street Partners and Riller Capital acquired Pier House, a 142-room luxury oceanfront resort in Key West, Florida from Braemar Hotels & Resorts for $190 million. The property sits on five acres of beachfront at 1 Duval Street, a prime tourist and retail destination with private beach access and unobstructed sunset views. Starwood Property Trust provided debt financing.",
+      "impact": "Limited direct multifamily relevance; however, strong institutional capital (Sixth Street) acquiring iconic hospitality assets at premium valuations in Key West signals confidence in Florida's experiential tourism and short-term rental dynamics. For multifamily developers, this underscores potential for adaptive-reuse and conversion opportunities in similar high-amenity coastal markets, and validates mixed-use strategies that blend residential, hospitality, and retail in destination submarkets with limited supply."
     },
     {
       "title": "Heights Advisors Files Plans to Build 606 Affordable Units in the Bronx",
@@ -167,12 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-13T15:56:26+00:00",
       "bullets": [
-        "Heights Advisors filed ULURP for 606 affordable units in 21-story building at 945 White Plains Road, Bronx Soundview",
-        "Project includes 503K SF residential plus 11.9K SF commercial in 515K-SF total; seeking HPD New Construction Finance",
-        "ULURP review typically spans seven months; if approved, development would generate significant affordable supply in East Bronx"
+        "Heights Advisors filed ULURP for 606 affordable units, 21-story mixed-use at 945 White Plains Road, Bronx.",
+        "Soundview neighborhood; 515,063 SF total (503K residential, 12K commercial); seeking HPD construction financing.",
+        "Zoning amendment and special permit required; typical ULURP timeline ~7 months."
       ],
-      "summary": "Heights Advisors, a Brooklyn-based developer, filed a land use application with NYC Department of City Planning for a 21-story mixed-use building with 606 affordable housing units at 945 White Plains Road in the Bronx's Soundview neighborhood. The 515,063-square-foot project includes 503,095 square feet of residential space and 11,968 square feet of commercial space, and the developer is seeking construction financing through the NYC Department of Housing Preservation and Development's New Construction Finance Program. The Uniform Land Use Review Procedure (ULURP) typically takes approximately seven months.",
-      "impact": "Material supply signal for East Bronx multifamily market: 606 units of subsidized affordable housing will compete directly with market-rate and workforce housing in the Soundview submarket, likely depressing rents for unsubsidized product and limiting pricing power for nearby private developers. The reliance on HPD financing and lengthy ULURP timeline suggests this project will not deliver before 2028–2029, creating a multi-year window for competitive market-rate development. Developers targeting the Bronx should assess whether Soundview is saturating with affordable-only pipelines and consider adjacent neighborhoods (Pelham Bay, Throggs Neck) for market-rate multifamily opportunities."
+      "summary": "Heights Advisors, a Brooklyn-based developer, filed a land-use application with NYC Department of City Planning for a 21-story mixed-use building with 606 affordable units at 945 White Plains Road in the Bronx's Soundview neighborhood. The 515,063-square-foot project includes 503,095 square feet of residential and 11,968 square feet of commercial space. Heights Advisors is seeking construction financing through HPD's New Construction Finance Program, with the ULURP process expected to take approximately seven months.",
+      "impact": "New York City's aggressive affordable housing pipeline in Bronx growth corridors (Soundview) signals sustained demand for workforce multifamily and HPD-financed development in outer boroughs. This validates development strategies targeting mixed-income and naturally-occurring affordable housing in Bronx neighborhoods with transit access and infrastructure investment. For developers, HPD's financing availability for large-scale projects and Soundview's emerging status as a growth node make the submarket relevant for community-based partnerships and affordable-focused acquisition strategies in the coming 12–24 months."
     }
   ]
 }
