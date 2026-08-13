@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-13T12:48:06.660109+00:00",
+  "fetchedAt": "2026-08-13T14:16:54.268320+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -9,21 +9,51 @@
     },
     {
       "label": "10Y Treasury",
-      "value": "4.67%",
-      "pct": -0.17
+      "value": "4.62%",
+      "pct": -1.22
     },
     {
       "label": "30Y Treasury",
-      "value": "5.24%",
-      "pct": -0.19
+      "value": "5.20%",
+      "pct": -0.97
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "97.31",
-      "pct": 0.96
+      "value": "98.42",
+      "pct": 1.14
     }
   ],
   "stories": [
+    {
+      "title": "Producer Prices Flat in July as Goods Costs Fall",
+      "link": "https://www.connectcre.com/stories/producer-prices-flat-in-july-as-goods-costs-fall/",
+      "excerpt": "U.S. producer prices were unchanged in July as declining goods costs balanced out increases across services and construction, according to data released by the Bureau of Labor Statistics.&nbsp; The Producer Price Index for final demand remained flat on a seasonally adjusted basis after&nbsp;edging down&nbsp;0.1% in June and advancing 0.5% in May. Over the 12 months ending in July, unadjusted final demand prices increased 4.7%.&nbsp; Excluding volatile food, energy, and trade services components, the core final demand index rose 0.4% in July following a modest 0.1% tick higher in June. On an annual basis, the index for final&nbsp;demand&nbsp;less foods, energy, and trade services gained 4.7%.&nbsp; Final-demand goods prices declined 0.7% in July after falling 1.4% in June. Energy prices dropped 3.1%, led by a 5.7% decrease in gasoline. Food prices declined 0.9%, while prices for goods excluding food and energy edged up 0.1%.&nbsp;Those declines were offset by a 0.2% increase in final-demand services and a 2.2% advance in construction prices.&nbsp; Services excluding trade,&nbsp;transportation&nbsp;and warehousing&nbsp; increased&nbsp;0.6%. Portfolio-management prices surged 6.5%, while margins rose for several retail categories.&nbsp;Freight-trucking prices declined 1.8%, and trade-service margins slipped 0.1%.&nbsp; The report may reduce the urgency for a September rate increase, but the strength in services and construction gives policymakers reason to remain cautious about declaring inflation&nbsp;contained.&nbsp; The post Producer Prices Flat in July as Goods Costs Fall appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-13T13:01:22+00:00",
+      "bullets": [
+        "Producer Price Index flat July 2026; goods down 0.7%, construction up 2.2%",
+        "Core final demand +0.4% MoM, +4.7% YoY; energy fell 3.1%, services +0.2%",
+        "Construction prices accelerating despite broader deflation; sticky cost driver for developers"
+      ],
+      "summary": "U.S. producer prices remained flat in July 2026 on a seasonally adjusted basis, with declining goods costs offsetting service and construction increases. Final-demand construction prices surged 2.2% in July, the steepest monthly gain. Core inflation excluding food and energy rose 0.4% monthly and 4.7% annually, signaling persistent pressure in services and construction materials despite broader goods deflation.",
+      "impact": "Construction cost inflation remains a headwind for multifamily development underwriting nationwide. While goods deflation improves material costs, construction services and labor costs are accelerating—tightening margins on new starts and raising hurdle rates. Developers should expect slower softening of hard costs than commodity prices alone suggest, pressuring feasibility in mid-to-low-yield markets."
+    },
+    {
+      "title": "Walker Webcast: McKinsey’s Aditya Sanghvi Discusses Why and How Agentic AI Can Be Tailor-Made for Rental Housing",
+      "link": "https://www.connectcre.com/stories/walker-webcast-mckinseys-aditya-sanghvi-discusses-why-and-how-agentic-ai-can-be-tailor-made-for-rental-housing/",
+      "excerpt": "Artificial intelligence, particularly the agentic kind, could help rental housing owners and operators automate tasks, coordinate maintenance and improve resident retention. But getting there involves more than installing a new technology. “I would put out there that rental housing is perfect for AI,” said McKinsey &amp; Co. senior partner Aditya Sanghvi, a leader of the firm’s global real estate practice. Sanghvi spoke at Walker &amp; Dunlop’s recent annual convention in Sun Valley, Idaho, in a session broadcast Aug. 12 as a Walker Webcast. During the session, Sanghvi discussed why rental housing is well-suited to agentic AI, why adoption remains slow and what CEOs can do to get more value from the technology. Rental Housing Is Built for Agentic AI Unlike generative AI, which responds to human prompts, agentic AI is given a goal. The agent then plans and executes the tasks needed to achieve it. Multiple agents can also coordinate specialized processes. Sanghvi said that the technology perfectly matches property management, as the industry relies on numerous relatively simple tasks that become complicated when residents, property managers and vendors intersect. The result can be “dead zones,” the unfulfilled maintenance tickets, unanswered calls and missed follow-ups that can erode the resident experience. Agentic AI can help fill those gaps. In a maintenance situation, for example, one agent could triage requests, another could coordinate vendors, and another could handle scheduling. A separate agent could identify recurring problems and improve future decisions. Agentic AI could also improve lease conversions, renewals, collections and other repetitive processes. Over time, agents can learn from repeated decisions and become more effective. This doesn’t mean that humans are eliminated. “Humans are essential for the loop of every agent AI process,” Sanghvi said. Humans still outperform agents on many tasks. Also, agents can’t be held accountable.” Adoption Remains ",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-13T12:38:03+00:00",
+      "bullets": [
+        "McKinsey senior partner Sanghvi: agentic AI tailored for rental housing ops and maintenance",
+        "Technology automates resident tasks, coordinates maintenance, improves retention; adoption remains slow",
+        "AI well-suited to multifamily's fragmented task coordination; resolves 'dead zones' in service"
+      ],
+      "summary": "McKinsey's Aditya Sanghvi discussed how agentic AI—which executes goals autonomously rather than responding to prompts—is uniquely suited to rental housing operations. The technology can automate maintenance coordination, resident communication, and vendor interactions. Adoption remains slow despite the fit, largely because implementation requires organizational change beyond software installation.",
+      "impact": "This signals emerging operational leverage for institutional multifamily operators willing to invest in automation infrastructure. Early adopters who deploy agentic AI for property management and resident retention will gain cost and satisfaction edges, especially critical as wage inflation pressures operating margins in tight labor markets. Expect increasing divergence between tech-forward and legacy operators on NOI."
+    },
     {
       "title": "The Schedule C Trap: Why Your Biggest Deal This Year Might Be With the IRS",
       "link": "https://commercialobserver.com/2026/08/schedule-c-trap-irs-taxes-ryan-serhant/",
@@ -32,12 +62,12 @@
       "cat": "Commercial",
       "date": "2026-08-13T11:00:35+00:00",
       "bullets": [
-        "Article is about tax strategy for real estate agents, not development or property fundamentals.",
-        "No relevance to multifamily demand, supply, capital, or construction costs.",
-        "Focuses on Schedule C sole proprietor vs. entity structure inefficiency."
+        "Real estate professionals face self-employment tax inefficiency under Schedule C sole proprietor filing",
+        "High earners (\\$50M+ deals) lose $10K–$30K+ annually to avoidable tax drag vs. entity structures",
+        "Article about broker comp optimization; no direct bearing on multifamily development economics"
       ],
-      "summary": "Commercial Observer article on tax optimization for high-earning real estate agents filing as sole proprietors. Argues Schedule C structure creates self-employment tax burden ($10K–$30K annually) unsuitable for agents doing high volume. No data on market transactions, pricing, or sector trends.",
-      "impact": "No meaningful impact on multifamily development. This is CPA-level individual income tax advice, not a market signal or capital/supply indicator."
+      "summary": "A column warns real estate agents and brokers that filing as sole proprietors under Schedule C creates unnecessary self-employment tax exposure as income scales. Professionals earning $50 million or more annually incur significant tax drag that could be eliminated through entity restructuring (LLC, S-Corp, C-Corp). The piece argues that strategies optimal at three deals per year become liabilities at scale.",
+      "impact": "Minimal direct impact on multifamily development. This applies to brokerage and agent economics, not capital formation or development feasibility. However, indirectly, high-net-worth individuals who optimize personal tax structures may have more capital available for real estate co-investments or equity raises—a marginal boost to capital pools for development sponsors."
     },
     {
       "title": "Luxury Condo Sales in Manhattan Rise Post-Pied-à-Terre Rollout",
@@ -47,12 +77,12 @@
       "cat": "Commercial",
       "date": "2026-08-13T11:00:05+00:00",
       "bullets": [
-        "NYC pied-à-terre tax blocked by court; luxury sales momentum persists despite April passage.",
-        "Aug. 1–7: 16 contracts signed >$5M, +7% YoY; April–Aug: 302 sales >$5M vs. 268 prior year.",
-        "$5M–$15M segment up 2% YoY; legal uncertainty did not suppress near-term transactional activity."
+        "NYC pied-à-terre tax blocked by Staten Island court; luxury condo sales up 7% YoY week 1 Aug",
+        "Sales above $5M up 1% since tax passage 16 weeks prior; $5–15M segment +2% YoY",
+        "Manhattan luxury market resilient; regulatory uncertainty temporarily resolved, signaling continued high-end demand"
       ],
-      "summary": "A Staten Island court blocked NYC Mayor Zohran Mamdani's pied-à-terre tax (surcharge on second homes >$5M) in early August 2026. Despite the tax's April passage, luxury sales accelerated: week of Aug. 1–7 saw 16 contracts >$5M (+7% YoY), and April–Aug period logged 302 total sales >$5M vs. 268 same period prior year. Sales in the $5M–$15M band up 2% YoY.",
-      "impact": "For Manhattan multifamily: regulatory uncertainty on high-net-worth buyer taxation is clearing, likely to stabilize foreign/wealthy investor confidence. However, pied-à-terre demand drives condo/coop markets, not rental multifamily; limited direct impact on apartment supply or renter demand in core Manhattan or outer boroughs."
+      "summary": "A Staten Island judge blocked Mayor Zohran Mamdani's proposed pied-à-terre tax on second homes worth over $5 million in early August 2026. Despite the tax's passage 16 weeks prior, luxury condo sales above $5 million rose 1% versus the same period last year, and 7% in the first week of August. Sales of homes between $5 million and $15 million gained 2% year-over-year.",
+      "impact": "Removal of pied-à-terre tax uncertainty removes a cloud over Manhattan luxury condo development economics and investor confidence. While the article focuses on resale/secondary market, the injunction signals sustained demand from international and domestic high-net-worth buyers, validating luxury rental conversion and new-build condo feasibility in Manhattan's core submarkets. No immediate pressure on rental demand, but supports valuation of luxury rental comps."
     },
     {
       "title": "AV Management Nabs SoHo Mixed-Use for $43M",
@@ -62,12 +92,12 @@
       "cat": "Commercial",
       "date": "2026-08-12T22:07:20+00:00",
       "bullets": [
-        "AV Management acquired 73–75 Sullivan St., SoHo, 32,957 SF mixed-use for $43.3M.",
-        "Property: 11 market-rate residential units + ground-floor commercial (Montessori School tenant).",
-        "Buyer cited 'enduring strength' of Manhattan multifamily investment; C, E, 1, 6 subway access, prime retail/dining proximity."
+        "AV Management acquires 73–75 Sullivan St., SoHo: 11 units + ground-floor school for $43.3M",
+        "Newly built mixed-use; free-market residential; strong subway access (C, E, 1, 6); tight SoHo micro-market",
+        "Asset sale validates continued investor appetite for core Manhattan infill multifamily; tight supply, strong location"
       ],
-      "summary": "Cushman & Wakefield closed sale of 73–75 Sullivan Street in SoHo for $43.3 million. Property comprises 11 market-rate residential units and 32,957 SF total. Buyer AV Management is an institutional investor; broker noted strong investor appetite for free-market multifamily in core Manhattan neighborhoods with transit access and walkable amenities.",
-      "impact": "Validates continued institutional capital demand for small-to-mid-sized fully-leased multifamily assets in prime Manhattan (SoHo). Strong broker commentary on 'enduring strength' signals confidence in rental fundamentals; suggests near-term window for developers/investors to acquire and build in similar walkable, transit-rich submarkets before cap rates compress further as supply-demand balance tightens."
+      "summary": "AV Management purchased a newly constructed mixed-use building at 73–75 Sullivan Street in SoHo for $43.3 million, comprising 11 residential units and a ground-floor commercial space leased to The Montessori School. The property totals 32,957 square feet and benefits from immediate subway access and walkability to retail, dining, and cultural amenities. The transaction reflects continued investor demand for high-quality multifamily in core Manhattan neighborhoods.",
+      "impact": "This small-scale, newly built Manhattan multifamily sale at ~$3.94M per unit validates that core SoHo infill development remains highly competitive and commands premium pricing. The ability to blend residential with institutional ground-floor tenancy (school) demonstrates mixed-use optionality for Manhattan developers. For TCR, this signals continued investment velocity in tight-supply, prime-location submarkets; development feasibility remains strong if land basis supports underwriting."
     },
     {
       "title": "U.S. Multifamily Gains Momentum in Q2 2026 as Absorption Surges",
@@ -77,12 +107,12 @@
       "cat": "Commercial",
       "date": "2026-08-12T21:49:50+00:00",
       "bullets": [
-        "U.S. multifamily Q2 2026: 167.5K net absorption (nearly 2x Q1); vacancy fell to 4.3% from 4.8%.",
-        "Deliveries eased to 77.7K units (–14% YoY); rent growth +1.5% QoQ to $2,257/month.",
-        "Multifamily investment volume $34.9B (–2.7% YoY but 27% of total CRE); absorption nearly doubling YoY signals supply/demand inflection."
+        "U.S. multifamily Q2 2026: 167.5K net absorption (nearly 2x Q1); vacancy fell 50 bps to 4.3%",
+        "Supply moderating: 77.7K units delivered (−14% YoY); rents +1.5% QoQ to $2,257/month",
+        "Investment volume $34.9B (−2.7% YoY); multifamily largest CRE sector at 27% of volume; strongest rent recovery since 2022 expected"
       ],
-      "summary": "CBRE reports U.S. multifamily market strengthening in Q2 2026. Net absorption surged to 167,500 units—nearly double Q1—while new supply slowed 14% year-over-year to 77,700 units. National vacancy rate fell 50 bps quarter-over-quarter to 4.3%, below 5% long-term average. Average rent rose 1.5% QoQ to $2,257. Multifamily remained largest CRE investment sector at $34.9B (27% of volume), though down 2.7% YoY.",
-      "impact": "CRITICAL INFLECTION POINT FOR DEVELOPMENT: Supply wave is cresting nationally. With absorption nearly doubling and deliveries decelerating, rent growth is accelerating toward 'strongest recovery since 2022' per CBRE. Developers should aggressively underwrite pipeline assets and land in supply-constrained/high-absorption metros (e.g., Sunbelt secondary markets) before institutional cap-rate compression eliminates underwriting arbitrage. Financing windows may narrow if rates tick up; move forward on capital raises and pre-leasing near-term."
+      "summary": "The U.S. multifamily market accelerated in Q2 2026 with net absorption of 167,500 units nearly doubling Q1 levels, while the national vacancy rate compressed 50 basis points to 4.3%, below the 5% long-term average. New supply continued to ease, with deliveries down 14% year-over-year to 77,700 units. Average rents rose 1.5% quarter-over-quarter to $2,257, and multifamily investment volume totaled $34.9 billion, remaining the largest CRE sector at 27% of total.",
+      "impact": "The supply wave is cresting nationally—this is the inflection point where years of overbuilding resolve into a tight market and rent growth accelerates. For TCR developers, this signals a window to fast-track deliveries in Q3–Q4 2026 to capture pent-up demand before competitor leasing ramps; cap rates likely to compress as absorption/occupancy improve. Focus on near-term (18–24 month) delivery windows and markets with above-average absorption to maximize rent recovery tailwinds."
     },
     {
       "title": "Institutional Investor Snares San Dimas Light Industrial Park",
@@ -92,42 +122,12 @@
       "cat": "Commercial",
       "date": "2026-08-12T21:43:39+00:00",
       "bullets": [
-        "Institutional buyer acquired San Dimas Commerce Center (179.3K SF, 19 buildings) for $41M.",
-        "Property 90% occupied by 70+ local/regional tenants; infill light industrial on 10.54 acres.",
-        "SRS positioned optionality for future individual building sales to owner-users, validating small-bay diversification thesis."
+        "Institutional investor acquires San Dimas Commerce Center light industrial park: $41M, 179K SF, 90% occupied",
+        "19-building portfolio on 10.5 acres; 70+ tenants; individual building sale optionality key to buyer appeal",
+        "Industrial trophy asset; supply scarcity and owner-user flexibility drive value; not multifamily-relevant"
       ],
-      "summary": "SRS Real Estate Partners brokered $41 million acquisition of San Dimas Commerce Center in San Dimas, California—a 10.54-acre, 179,345-SF light industrial park comprising 19 buildings. Buyer is a national institutional investor. Property was 90% leased to 70+ small and regional tenants with several long-term occupants. Marketing emphasized flexibility to sell individual buildings to owner-users.",
-      "impact": "Industrial market strength in LA basin remains robust; small-bay product with diversified tenant bases and owner-user optionality is attracting institutional capital. Not directly relevant to multifamily but signals strong logistics/e-commerce demand in Inland Empire/SGV markets adjacent to Los Angeles, which drives population and worker migration into nearby residential corridors—potential tailwind for multifamily rents in LA outer ring (Inland Empire, San Bernardino, Riverside markets)."
-    },
-    {
-      "title": "Morris Heights Seniors Housing Project Secures Permits",
-      "link": "https://www.connectcre.com/stories/morris-heights-seniors-housing-project-secures-permits/",
-      "excerpt": "Permits have been approved for a new 10-story affordable senior housing development at 105 W. Tremont Ave. in the Morris Heights neighborhood of the Bronx. Developed by Crown Holdings in partnership with The Community Builders, one of the nation&#8217;s largest affordable housing organizations, the project will provide 95 Affordable Independent Residences forSeniors (AIRS) and form part of a broader neighborhood regeneration initiative in Morris Heights. Designed by Crown Architecture, the approximately 55,000-square-foot, 100-foot-tall building will bring housing and support services to a borough where demand for affordable homes outpaces supply. In addition to housing, residents will have access to onsite amenities and services that include community and recreational spaces, an outdoor patio and garden, consultation rooms, laundry facilities, bicycle storage and a 24-hour attended receptionThe project incorporates a strong sustainability agenda through its Passive House design standards. The all-electric building will also feature an approximately 1,800-square-foot rooftop solar array. Rendering courtesy of Crown Architecture. Where the apartment industry connects. Meet the owners, investors, developers, lenders, brokers, and service providers driving today’s multifamily market at Connect Apartments. Build relationships, uncover opportunities, and stay ahead of what’s next. The post Morris Heights Seniors Housing Project Secures Permits appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-12T21:31:59+00:00",
-      "bullets": [
-        "Crown Holdings + Community Builders secured permits for 95-unit affordable senior housing in Morris Heights, Bronx.",
-        "10-story, 55K SF, Passive House design, all-electric; $100/ft tall on 105 W. Tremont Ave.",
-        "Addresses Bronx affordable housing supply deficit; onsite services include laundry, garden, 24-hr reception, community spaces."
-      ],
-      "summary": "Crown Holdings and The Community Builders received permits for a 10-story, 55,000-SF affordable senior housing development at 105 W. Tremont Avenue in Morris Heights, Bronx. Project will deliver 95 Affordable Independent Residences for Seniors (AIRS) with onsite amenities (recreation, garden, consultation rooms, laundry, 24-hr reception). Designed to Passive House standards; all-electric, promoting sustainability.",
-      "impact": "Demonstrates continued capital and entitlement momentum for affordable housing in Bronx, a borough with chronic undersupply relative to demand. Senior housing (AIRS) is complementary to general multifamily, not competitive; success signals strong nonprofit/public funding environment and receptive local zoning for density. For-profit developers should monitor Bronx entitlement and financing trends—affordable + mixed-income projects may unlock faster approvals and tax credits, accelerating land-to-revenue conversion."
-    },
-    {
-      "title": "Fully Leased Chula Vista Retail Fetches $30M",
-      "link": "https://www.connectcre.com/stories/fully-leased-chula-vista-retail-fetches-30m/",
-      "excerpt": "JLL&nbsp;Capital Markets arranged&nbsp;the $30.4-million sale of Terra Nova Plaza, a fully leased, 96,114-square-foot retail property positioned within a 301,000-square-foot regional shopping center in&nbsp;Chula&nbsp;Vista. Senior managing director Gleb Lvovich, managing director Daniel Tyner and senior managing director Geoff Tranchina. represented the seller, a global investment manager. Located at 390 E H St., Terra Nova Plaza sits within a high-performing grocery-anchored center. Dick&#8217;s Sporting Goods operates from a 44,477-square-foot space, while Floor &amp; Decor occupies 51,637 square feet under long-term leases. Co-tenants within the larger center include Smart &amp; Final, CVS, Marshalls, Chase Bank, Taco Bell, Jack In the Box and Shell. &#8220;The combination of long-term lease security, exceptional freeway visibility and proximity to one of the region&#8217;s most dynamic residential growth corridors made this an extremely compelling opportunity,&#8221; said Lvovich. &#8220;Chula&nbsp;Vista&#8217;s retail fundamentals remain strong with limited new supply and continued demand from quality tenants seeking high-traffic locations.&#8221; The post Fully Leased Chula Vista Retail Fetches $30M appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-12T21:15:32+00:00",
-      "bullets": [
-        "JLL Capital Markets sold Terra Nova Plaza (96.1K SF retail) in Chula Vista for $30.4M; 100% leased.",
-        "Anchored by Dick's Sporting Goods (44.5K SF) + Floor & Decor (51.6K SF); co-tenants include CVS, Marshall's, Taco Bell.",
-        "Buyer: global investment manager; location near high-performing grocery-anchored center in dynamic residential growth corridor."
-      ],
-      "summary": "JLL Capital Markets brokered $30.4 million sale of Terra Nova Plaza, a fully leased 96,114-SF retail property in Chula Vista anchored by Dick's Sporting Goods and Floor & Decor. Property sits within a 301,000-SF regional shopping center with strong co-tenants (CVS, Marshalls, Taco Bell, Chase, Jack in the Box). Buyer is a global investment manager. Broker noted strong Chula Vista retail fundamentals with limited new supply.",
-      "impact": "Chula Vista (South County San Diego) continues to attract institutional retail capital due to high residential in-migration and limited supply. While not multifamily, this signals sustained population growth and consumer spending in the corridor—tail wind for nearby apartment development and rent growth. Developers should monitor Chula Vista/South County for greenfield or infill multifamily sites; demographic momentum and retail infrastructure strength support higher-density residential."
+      "summary": "SRS Real Estate Partners arranged the $41 million sale of San Dimas Commerce Center, a 19-building light industrial park totaling 179,345 square feet on 10.54 acres in San Dimas, California. The property was 90% occupied with leases to 70+ local and regional businesses. An institutional investor with national presence acquired the asset, which offered optionality to sell individual buildings to owner-users.",
+      "impact": "Not directly relevant to multifamily development. However, the transaction highlights strong capital appetite for diversified, small-bay industrial assets in Southern California infill markets and underscores investor preference for buildings with owner-user optionality. Indirectly, sustained industrial investment and employment density in San Dimas/inland LA markets may support demand for workforce housing in nearby submarkets."
     },
     {
       "title": "TikTok Tells U.S. Employees to Return to Office 5 Days a Week",
@@ -137,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-08-12T20:44:46+00:00",
       "bullets": [
-        "TikTok mandates 5-day office return for U.S. hybrid employees in 2026; announced December 2025.",
-        "Company operates thousands of U.S. employees across major metros: Culver City HQ (LA), 7 floors at One Five One (Manhattan Times Square).",
-        "Recent closure of 250-person Nashville office (opened ~2 years prior) complicates office consolidation narrative."
+        "TikTok mandates 5-day office return for U.S. hybrid employees; e-commerce division already back full-time",
+        "Affects thousands of employees across metro offices: Culver City HQ, One Five One Manhattan, others",
+        "Company closed Nashville 250-person office in 2026 after two-year run; broader RTO trend underway"
       ],
-      "summary": "TikTok (ByteDance) has instructed U.S. employees to return to office five days per week in 2026, reversing hybrid policies. E-commerce division resumed full in-office work >1 year ago. Company employs thousands across dozens of metro locations including Culver City HQ (Los Angeles) and seven floors of Manhattan's One Five One (Durst Organization, Times Square). However, TikTok closed its 250-person Nashville office in January 2026 after just two years.",
-      "impact": "Mixed signal for office real estate but potential upside for multifamily in LA and Manhattan. TikTok's LA consolidation around Culver City HQ could drive talent in-migration and demand for rental housing in LA's tech corridor (West LA, Culver City, Santa Monica markets). Manhattan Times Square footprint stabilization supports office-adjacent multifamily. However, Nashville office closure signals caution on remote tech hubs; developers should de-weight Nashville as a growth lever and focus on coastal tech/finance metros with established employment bases."
+      "summary": "TikTok's leadership directed U.S. hybrid employees to return to the office five days per week starting in 2026, reversing pandemic-era flexibility. The mandate impacts thousands of employees across multiple metro locations, including the company's Culver City, California headquarters and its seven-floor presence at One Five One in Manhattan's Times Square. TikTok recently closed its Nashville office of 250 employees after just two years.",
+      "impact": "TikTok's RTO mandate signals renewed corporate commitment to office density in Los Angeles and Manhattan, improving near-term office market fundamentals and occupier retention in prime tech corridors. However, the Nashville closure suggests geographic consolidation away from secondary markets—a headwind for multifamily demand outside primary metros. For TCR, focus development in LA (Culver City/West LA), Manhattan, and other RTO-leading tech hubs; avoid speculative multifamily in secondary markets losing tech job clusters."
     },
     {
       "title": "Blackstone Snaps Up Ken Griffin’s 125 Worth Avenue in Palm Beach for $86M",
@@ -152,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-08-12T20:30:15+00:00",
       "bullets": [
-        "Blackstone acquired 125 Worth Avenue, Palm Beach (50K SF office/retail) from Ken Griffin for $86M cash.",
-        "Griffin paid $83M in 2023; all-cash acquisition signals strong institutional conviction in luxury retail fundamentals.",
-        "Worth Avenue scarcity + high-net-worth migration into Palm Beach drive valuations; Acadia Realty paid $43M for 225 Worth Ave (Gucci) in March 2026."
+        "Blackstone acquires 125 Worth Ave., Palm Beach retail/office from Ken Griffin for $86M (all-cash)",
+        "50K SF, three-story; Griffin bought 2023 for $83M; Blackstone betting on high-street retail strength",
+        "Worth Avenue ultra-scarcity supply + high-income in-migration drive valuations; retail corridor resilient"
       ],
-      "summary": "Blackstone Real Estate purchased 125 Worth Avenue in Palm Beach from billionaire Ken Griffin in an all-cash deal for $86 million. Griffin acquired the three-story, 50,000-SF office/retail property in 2023 for $83 million. Blackstone principal cited 'strong fundamentals' in high-street retail and Palm Beach's positioning as a top luxury market. Worth Avenue supply is extremely scarce; Acadia Realty's March 2026 purchase of 225 Worth Avenue (Gucci) fetched $43 million.",
-      "impact": "Validates robust wealth migration into South Florida (Palm Beach specifically). Institutional capital deploying at scale in luxury retail signals continued high-net-worth inflows; multifamily developers should prioritize luxury rental product in Palm Beach, Miami Beach, and South Florida prime markets. Strong retail/commercial fundamentals and rising property values indicate healthy local economy—rent growth tailwinds in adjacent multifamily. Consider mixed-use development or condo-conversion plays in Palm Beach/Miami submarkets where retail anchors drive foot traffic and tenant willingness to pay."
+      "summary": "Blackstone Real Estate agreed to acquire the three-story retail and office building at 125 Worth Avenue in Palm Beach from billionaire Ken Griffin for $86 million in an all-cash transaction. Griffin had purchased the roughly 50,000-square-foot property in 2023 for $83 million. Blackstone highlighted strong fundamentals in high-street luxury retail, driven by scarcity and soaring demand from affluent residents relocating to Palm Beach.",
+      "impact": "This transaction reflects institutional validation of Palm Beach as a ultra-prime, supply-constrained luxury market with resilient high-income demographic tailwinds. While focused on retail, it signals broader wealth migration into South Florida and confirms the robustness of multifamily demand and rents in Palm Beach, Miami Beach, and greater South Florida. For TCR, this reinforces South Florida as a prime market for upscale rental development; luxury multifamily in Palm Beach/Miami submarkets will benefit from demographic and capital inflows supporting rents."
     },
     {
       "title": "Fund Administrator Hanover Park Inks 19K-SF Deal at 387 Park Avenue South",
@@ -167,12 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-12T18:44:46+00:00",
       "bullets": [
-        "Hanover Park (AI-driven fund administrator) leased 19.3K SF (entire 10th floor) at TF Cornerstone's 387 Park Ave South.",
-        "Firm's 5th office move in 2 years; prior HQ at 115 E. 23rd St. NoMad market asking rent $85.73/SF (Q2 2026).",
-        "TF Cornerstone reported tenant expansion/new company influx; property outperforming broader Midtown South market."
+        "Hanover Park (AI-driven fund administrator) leases 19.3K SF floor at 387 Park Ave South, Manhattan",
+        "Entire 10th floor; Midtown South asking rent ~$85.73/SF (Q2 2026); company's 5th move in two years",
+        "Office market signal: AI/fintech tenant growth in NoMad/Midtown South; demand stable for Class A"
       ],
-      "summary": "Hanover Park, an AI-driven fund administrator, signed a 19,269-SF lease for the entire 10th floor of TF Cornerstone's 387 Park Avenue South in NoMad. This marks the company's fifth office move in two years (prior HQ: 115 E. 23rd Street). TF Cornerstone did not disclose lease rate, but Q2 2026 average asking rent in Midtown South was $85.73/SF. Landlord noted ongoing tenant expansion and new company recruitment.",
-      "impact": "Tenuous signal for office recovery in Manhattan's Midtown South (NoMad). Single 19K-SF lease to a growing fintech/AI firm is positive but insufficient to drive broad office market healing or justify new development starts. For multifamily: NoMad/Midtown South office stabilization supports nearby residential demand (grad students, young professionals), but weak overall office absorption argues against over-investing in office-to-residential conversion plays until vacancies normalize. Monitor NoMad submarket for landlord distress; opportunity may arise for larger conversion or adaptive-reuse multifamily development."
+      "summary": "Hanover Park, an AI-driven fund administrator, signed a 19,269-square-foot lease on the entire 10th floor of TF Cornerstone's 387 Park Avenue South in Manhattan's NoMad submarket. The transaction marks the company's fifth office relocation in two years. Midtown South average asking rent in Q2 2026 was $85.73 per square foot, and TF Cornerstone's property continues to outperform the broader market.",
+      "impact": "Minimal direct impact on multifamily. However, sustained Class A office leasing in Midtown South/NoMad by growing fintech and AI firms signals job density and wage earner concentration in Manhattan—positive for rental demand nearby. The frequency of Hanover Park's moves suggests rapid hiring and growth; employee in-migration supports rental demand in lower Manhattan and nearby multifamily submarkets. Indirect validation of Manhattan rental market strength in tech-adjacent employment nodes."
     }
   ]
 }
