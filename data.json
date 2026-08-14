@@ -1,21 +1,21 @@
 {
-  "fetchedAt": "2026-08-13T23:32:18.213689+00:00",
+  "fetchedAt": "2026-08-14T12:43:24.499527+00:00",
   "rates": [
     {
       "label": "SOFR",
       "value": "3.62%",
-      "pct": -0.02,
+      "pct": 0.0,
       "isBps": true
     },
     {
       "label": "10Y Treasury",
       "value": "4.64%",
-      "pct": -0.88
+      "pct": 0.09
     },
     {
       "label": "30Y Treasury",
-      "value": "5.21%",
-      "pct": -0.65
+      "value": "5.23%",
+      "pct": 0.4
     },
     {
       "label": "REIT Index (VNQ)",
@@ -25,6 +25,21 @@
   ],
   "stories": [
     {
+      "title": "CRE Continues Holding Up as Occupiers and Investors are More Selective",
+      "link": "https://www.connectcre.com/stories/cre-continues-holding-up-as-occupiers-and-investors-are-more-selective/",
+      "excerpt": "The first half of 2026 generated considerable concern among commercial real estate investors and occupiers. Inflation remained sticky, prompting the Federal Reserve to hold interest rates steady. Tariff and trade uncertainty continued to generate pricing pressures, the Middle East conflict impacted oil prices, and the labor market softened despite a still-low unemployment rate. Yet commercial real estate has continued to perform relatively well. According to a recent CBRE newsletter, occupier demand remains strong, investment activity has increased, and fundamentals continue to improve across property sectors. Several factors are supporting the industry. Limited New Supply Office and retail construction remain near historic lows, while industrial supply growth is leveling off. Apartment starts are also declining. That supply constraint is beginning to affect tenant behavior. Occupiers are planning further ahead to secure early renewals and available space. Meanwhile, increased bank financing is giving owners and investors more opportunities to repurpose obsolete properties into higher-quality assets. Quality Is Changing “Quality” also means something different than it once did. For office occupiers, quality is about attracting and retaining talent rather than newer, shinier finishes. Retailers want space in locations where customers congregate. Industrial tenants look for functionality, including truck-flow efficiency, dock configurations and yard design. While prime office assets continue to attract capital, CBRE said that investors are also looking at well-located, second-generation facilities with existing power that could be converted into data centers. AI Changes the Equation Technology has historically reshaped workplaces and real estate. CBRE said that artificial intelligence will do the same. The firm said AI adoption should boost productivity, create new occupations and increase demand for skilled workers. Rather than eliminating the need for offices, AI co",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-14T05:01:00+00:00",
+      "bullets": [
+        "Apartment starts declining; office and retail construction near historic lows.",
+        "Strong occupier demand, increased bank financing enabling asset repurposing.",
+        "Supply constraint driving early renewals and forward tenant planning."
+      ],
+      "summary": "Commercial real estate fundamentals remain resilient despite sticky inflation and rate uncertainty. Apartment starts are declining alongside historically low office and retail construction, creating supply constraints across sectors. Strong occupier demand and improved bank financing availability are enabling owners to repurpose obsolete assets and giving tenants incentive to secure space early.",
+      "impact": "Declining apartment starts signal a tightening pipeline that will support rent growth in major markets over the next 18–24 months. Developers should accelerate land acquisition and entitlements in high-demand submarkets before supply scarcity fully materializes and competition for sites intensifies."
+    },
+    {
       "title": "The Real Estate Question About Quantum Computing",
       "link": "https://www.connectcre.com/stories/the-real-estate-question-about-quantum-computing/",
       "excerpt": "Quantum computing infrastructure is scaling faster than the real estate needed to support it, according to JLL’s “Future of Quantum Real Estate” report. Today, much of the space and infrastructure is concentrated on university campuses. But over the next decade, JLL said it expects the private sector to play a much larger role. Unlike conventional computers, which use bits to process information, quantum computers use qubits to tackle extraordinarily complex problems. The technology won’t replace conventional computing. Instead, JLL described it as “a high-value layer of compute within the digital infrastructure stack.” That emerging layer will require its own physical infrastructure. It could also generate a new real estate niche. Not Your Average Data Center Quantum real estate refers to the facilities that support the research, fabrication and deployment of quantum computing systems. JLL identified more than 240 quantum facilities across nine asset types and 35 countries. It might be tempting to think of quantum real estate as data center 2.0. But the physical requirements are different. Quantum installations can require a “room within a room,” with dilution refrigerators, vibration isolation and electromagnetic shielding alongside conventional computing equipment. Those systems also rely on low-latency fiber connections to the classical computing infrastructure that includes software, networks and data storage systems. The requirements vary further depending on the type of technology involved. JLL discussed several modalities, including topological, silicon spin, photonic, neutral-atom, trapped-ion, and superconducting systems. Each of these offers different potential applications ranging from cybersecurity and telecommunications to pharmaceuticals, logistics and finance. Universities As the Foundation Higher education institutions currently anchor most quantum ecosystems because they bring together specialized talent, government funding, corporate partnerships ",
@@ -32,27 +47,27 @@
       "cat": "Commercial",
       "date": "2026-08-13T22:48:28+00:00",
       "bullets": [
-        "JLL identifies 240+ quantum computing facilities across 9 asset types, 35 countries globally.",
-        "Private sector quantum deployment scaling faster than supporting real estate infrastructure available.",
-        "Quantum facilities require specialized 'room within room' design with refrigeration, isolation, shielding."
+        "Quantum computing infrastructure demand scaling faster than available real estate.",
+        "Private sector expected to dominate quantum facilities within 10 years; currently concentrated on university campuses.",
+        "Quantum real estate requires specialized infrastructure (dilution refrigerators, vibration isolation, shielding) distinct from data center models."
       ],
-      "summary": "JLL's 'Future of Quantum Real Estate' report identifies an emerging niche: quantum computing infrastructure is outpacing real estate supply. Over 240 quantum facilities exist globally across 9 asset types, concentrated today on university campuses but expected to shift toward private-sector deployment over the next decade. Unlike data centers, quantum installations require specialized physical infrastructure including dilution refrigerators, vibration isolation, and electromagnetic shielding alongside conventional computing equipment.",
-      "impact": "Minimal near-term relevance to multifamily development. Quantum real estate could generate demand for specialized lab/technical space in select markets with R&D clusters (Boston, San Francisco Bay Area, Austin), but this affects industrial/lab real estate, not residential. Monitor for potential secondary housing demand if major quantum research hubs emerge in new metros, but no direct multifamily supply or financing signal."
+      "summary": "JLL's 'Future of Quantum Real Estate' report identifies over 240 quantum facilities globally across nine asset types. Quantum computing infrastructure demand is outpacing real estate supply, with the private sector poised to become the dominant player over the next decade. Unlike data centers, quantum facilities require specialized environmental controls and isolation systems, creating a distinct real estate niche.",
+      "impact": "Limited relevance to multifamily development. Quantum real estate is a specialized industrial/lab asset class emerging primarily in tech hubs (likely San Francisco, Boston, Austin, Seattle). Indirectly, continued tech sector investment may boost overall employment and housing demand in those metros, but quantum facilities themselves are not a multifamily driver."
     },
     {
       "title": "Madewell to Open Its First Rockefeller Center Store in 2027",
       "link": "https://www.connectcre.com/stories/madewell-to-open-its-first-rockefeller-center-store-in-2027/",
-      "excerpt": "Tishman Speyer has signed Madewell to a long-term lease for 7,340 square feet at 1 Rockefeller Plaza. Slated to open in 2027, the new store marks Madewell’s first location at Rockefeller Center. Madewell offers premium denim, apparel, and accessories for women and men. Best known for its denim expertise, the brand is recognized for its thoughtful design, innovative approach to denim, and everyday wardrobe essential. The new store will bring the full Madewell experience to life, showcasing the brand&#8217;s denim expertise, signature styling, and community-focused programming, according to Tishman Speyer. &#8220;Rockefeller Center continues to attract brands that shape culture and consumer behavior globally,&#8221; said EB Kelly, Senior Managing Director at Tishman Speyer and Head of Rockefeller Center. &#8220;Madewell’s decision to establish a presence here reinforces the Center’s unique ability to combine iconic New York identity with modern cultural relevance.&#8221; The post Madewell to Open Its First Rockefeller Center Store in 2027 appeared first on Connect CRE.",
+      "excerpt": "Tishman Speyer has signed&nbsp;Madewell&nbsp;to a long-term lease for 7,340 square feet at 1 Rockefeller Plaza. Slated to open in 2027, the new store marks&nbsp;Madewell’s first location at Rockefeller Center. Madewell&nbsp;offers premium denim, apparel, and accessories for women and men. Best known for its denim expertise, the brand is recognized for its thoughtful design, innovative approach to denim, and everyday wardrobe essential. The new store will bring the full&nbsp;Madewell&nbsp;experience to life, showcasing the brand&#8217;s denim expertise, signature styling, and community-focused programming, according to Tishman Speyer. &#8220;Rockefeller Center continues to attract brands that shape culture and consumer behavior globally,&#8221; said EB Kelly, senior managing director at Tishman Speyer and head of Rockefeller Center. &#8220;Madewell’s decision to establish a presence here reinforces the Center’s unique ability to combine iconic New York identity with modern cultural relevance.&#8221; The post Madewell to Open Its First Rockefeller Center Store in 2027 appeared first on Connect CRE.",
       "source": "Connect CRE",
       "cat": "Commercial",
       "date": "2026-08-13T21:48:59+00:00",
       "bullets": [
-        "Madewell signed 7,340 sq ft lease at 1 Rockefeller Plaza, opening 2027.",
-        "Tishman Speyer emphasizes Rockefeller Center's cultural relevance attracting global brands.",
-        "Retail tenant expansion signals ongoing Manhattan office/retail mixed-use viability."
+        "Madewell signs 7,340 sq ft lease at 1 Rockefeller Plaza, opening 2027.",
+        "Tishman Speyer notes Rockefeller Center attracting brands shaping culture globally.",
+        "Premium denim retailer expanding flagship presence in premier NYC location."
       ],
-      "summary": "Madewell will open its first Rockefeller Center location in 2027, anchoring 7,340 square feet at 1 Rockefeller Plaza under a long-term lease signed by Tishman Speyer. The premium denim and apparel retailer's move signals confidence in Rockefeller Center's ability to attract brands that 'shape culture and consumer behavior globally,' according to Tishman Speyer leadership. The 2027 opening is part of continued retail repositioning at the iconic Manhattan mixed-use property.",
-      "impact": "Modest signal for NYC multifamily near Midtown. Strong retail tenant commitments at flagship mixed-use centers (Rockefeller Center) support foot traffic, employment density, and urban vibrancy in submarkets surrounding these properties, which can elevate nearby residential appeal. However, this is a single retailer lease—not a structural shift in Manhattan demand. Watch for broader Rockefeller Center or Hudson Yards mixed-use tenant flow to inform Midtown West/Billionaires' Row residential leasing sentiment."
+      "summary": "Madewell has signed a long-term lease for 7,340 square feet at 1 Rockefeller Plaza, marking its first Rockefeller Center location and opening in 2027. The decision reflects broader tenant confidence in flagship retail at iconic Manhattan addresses. Tishman Speyer emphasized the center's ability to combine iconic NYC identity with modern cultural relevance.",
+      "impact": "Minimal direct impact on multifamily development. Retail lease signings signal consumer spending confidence and tourism strength in Manhattan, which indirectly supports hotel and short-term rental demand but does not meaningfully affect apartment development, supply, or valuations in any specific metro."
     },
     {
       "title": "NAI Capital Lists Owner-User Opportunity in Pasadena’s Playhouse Village District",
@@ -62,12 +77,12 @@
       "cat": "Commercial",
       "date": "2026-08-13T21:39:00+00:00",
       "bullets": [
-        "530–532 E. Colorado Blvd., Pasadena: 99,280 sq ft, 8-story, built 1924, currently vacant.",
-        "Owner-user sale opportunity in walkable Playhouse Village District with parking, transit.",
-        "NAI Capital notes owner-user acquisitions already reducing available office inventory locally."
+        "NAI Capital lists 530–532 E. Colorado Blvd., 99,280 sq ft, 8-story office, Pasadena.",
+        "Built 1924, vacant; owner-user opportunity in walkable Playhouse Village District.",
+        "Broker notes owner-user acquisitions reducing available office inventory in Pasadena."
       ],
-      "summary": "NAI Capital Commercial has listed 530–532 E. Colorado Blvd. in Pasadena's Playhouse Village District for sale, a rare owner-user opportunity spanning 99,280 square feet across eight stories. Built in 1924 and currently vacant, the marble-tile, three-elevator building features 300 tons of water-cooled chiller capacity, dual Generac generators, and full fire/sprinkler systems. The listing broker notes that owner-user acquisitions have already tightened available office inventory in the district.",
-      "impact": "Indirect signal for Pasadena multifamily demand. Owner-user office acquisitions removing vacancy and stabilizing the Pasadena office market can support employment clustering and local spending that benefits adjacent residential submarkets. However, this is a single distressed asset listing—not a demand surge. More relevant if the trend accelerates and signals office-to-mixed-use conversion opportunities in Playhouse Village or broader Pasadena; monitor for adaptive reuse plays targeting the tech/creative tenants that fill owner-user space."
+      "summary": "NAI Capital is marketing a rare 8-story, 99,280-square-foot office building at 530–532 E. Colorado Blvd. in Pasadena's Playhouse Village District for owner-user acquisition. The 1924 property, currently vacant, features substantial infrastructure (chiller capacity, generators, modern elevator and fire systems) and prime Colorado Boulevard transit access. The broker notes that owner-user deals have already tightened office inventory in this walkable submarket.",
+      "impact": "Limited direct impact on multifamily. However, the broker's comment that owner-user acquisitions are reducing Pasadena office inventory may signal corporate demand and employment growth in the area. Developers should monitor whether this translates to population inflow and rental demand growth in Pasadena, particularly for workforce housing near Colorado Boulevard transit corridors."
     },
     {
       "title": "Podcast: How Landlords Can Solve the Tenant Visibility Problem – Sytes’ Rafael Weiss",
@@ -77,42 +92,27 @@
       "cat": "Commercial",
       "date": "2026-08-13T21:33:59+00:00",
       "bullets": [
-        "Sytes marketplace connects 350+ tenants, 35,000+ active retail/CRE listings across 50 states.",
-        "Platform clients include Kimco, InvenTrust, Church's Chicken, Dutch Bros; bases in Boca Raton.",
-        "Podcast addresses tenant visibility and demand opacity in retail leasing markets."
+        "Sytes platform connects landlords, developers, brokers with 350+ tenants, 35,000+ listings.",
+        "Clients include Kimco, InvenTrust, Church's Chicken, Dutch Bros across 50 states.",
+        "Platform solves retail leasing information asymmetry and demand visibility gap."
       ],
-      "summary": "Sytes, a marketplace platform co-founded by Rafael Weiss, connects commercial real estate landlords, developers, and brokers with tenants actively seeking space in real time. The platform serves nearly 350 tenants and over 35,000 active site listings across all 50 states, with major clients including Kimco, InvenTrust, Church's Chicken, and Dutch Bros. Weiss built Sytes to solve information asymmetry in retail leasing, originating from a deal loss he experienced as a developer.",
-      "impact": "Peripheral relevance to multifamily. Sytes addresses demand visibility in retail/commercial leasing, not residential. However, improved real-time tenant demand signals can accelerate retail leasing velocity and certainty in mixed-use developments (which often include multifamily), potentially improving financing and IRR assumptions for multifamily+retail projects. Monitor if Sytes expands into residential or if retail velocity improvements boost mixed-use multifamily development economics."
+      "summary": "Sytes is a marketplace platform addressing the retail leasing information gap by connecting landlords, developers, and brokers with tenants actively seeking space. The platform serves nearly 350 tenants and 35,000+ active listings across all 50 states, with major REIT and QSR clients. The tool enables real-time demand visibility and earlier deal closure, reducing time and uncertainty in retail leasing.",
+      "impact": "Indirect relevance to multifamily development. Sytes improves retail leasing efficiency and visibility, which can accelerate retail tenant commitments in mixed-use developments. For multifamily developers planning retail portions of residential projects, better tenant demand data reduces lease-up risk and improves financial underwriting. However, the platform's primary value accrues to retail REITs and developers, not apartment-focused operators."
     },
     {
       "title": "New York People and Company News, Week of August 14, 2026",
       "link": "https://www.connectcre.com/stories/new-york-people-and-company-news-week-of-august-14-2026/",
-      "excerpt": "Colliers announced that James Marcellino has re-joined the firm&#8217;s New York office as VP. With more than 17 years of experience advising institutional owners, landlords and occupiers, Marcellino has helped maximize value across some of the city’s most prominent office portfolios. Previously, he served as VP of Leasing at L&amp;L Holding Company, where he led leasing strategy across a 6.3 million-square-foot portfolio. Greenberg Traurig, LLP has expanded its Global Real Estate Practice with the addition of Brian Helweil as a shareholder in its New York office. Helweil joins from Loeb &amp; Loeb LLP, where he represented owners, developers, investors, landlords, and tenants in a broad range of real estate transactions. Montroy Architecture appointed Leila Colbert, RA, LEED AP as Principal, following the firm’s merger with Colbert’s design studio Leila Colbert Architecture. Colbert joins Montroy following a 15-year career that spans executive leadership, design and project management positions at architectural, real estate development and K-12 education organizations. Tarter Krinsky &amp; Drogin announced the continued expansion of its Real Estate Practice with the arrival of partners Nahum Palefski and Melissa Bassin in the firm&#8217;s New York office. Joining from Moses &amp; Singer, Palefski and Bassin bring more than three decades of combined experience representing institutional investors, developers, financial institutions, corporate occupiers and high-net-worth individuals in sophisticated commercial real estate transactions, including significant acquisitions, dispositions, financings and leasing matters. Almanac Realty Investors, the private real estate arm of Neuberger, a global investment manager, has committed $250 million of growth capital to Stamford, CT-based AmCap Ventures, a privately-held, vertically-integrated real estate company founded in 1979. The growth capital will be used with the goal of accelerating AmCap&#8217;s strategy of acquiring g",
+      "excerpt": "Colliers announced that James Marcellino has rejoined the firm&#8217;s New York office as VP. With more than 17 years of experience advising institutional owners, landlords and occupiers, Marcellino has helped maximize value across some of the city’s most prominent office portfolios. Previously, he served as VP of leasing at L&amp;L Holding Company, where he led leasing strategy across a 6.3-million-square-foot portfolio. Greenberg Traurig, LLP has expanded its Global Real Estate Practice with the addition of Brian Helweil as a shareholder in its New York office. Helweil joins from Loeb &amp; Loeb LLP, where he represented owners, developers, investors, landlords, and tenants in a broad range of real estate transactions. Montroy Architecture appointed Leila Colbert, RA, LEED AP as Principal, following the firm’s merger with Colbert’s design studio Leila Colbert Architecture. Colbert joins Montroy following a 15-year career that spans executive leadership, design and project management positions at architectural, real estate development and K-12 education organizations. Tarter Krinsky &amp; Drogin announced the continued expansion of its Real Estate Practice with the arrival of partners Nahum Palefski and Melissa Bassin in the firm&#8217;s New York office. Joining from Moses &amp; Singer, Palefski and Bassin bring more than three decades of combined experience representing institutional investors, developers, financial institutions, corporate occupiers and high-net-worth individuals in sophisticated commercial real estate transactions, including significant acquisitions, dispositions, financings and leasing matters. Almanac Realty Investors, the private real estate arm of Neuberger, has committed $250 million of growth capital to Stamford, CT-based AmCap Ventures, a privately held, vertically integrated real estate company founded in 1979. The growth capital will be used to accelerate AmCap&#8217;s strategy of acquiring grocery-anchored and necessity retail shopping ",
       "source": "Connect CRE",
       "cat": "Commercial",
       "date": "2026-08-13T21:29:52+00:00",
       "bullets": [
-        "New York People and Company News roundup from week of August 14, 2026.",
-        "Article content is generic summary boilerplate, no specific transactions detailed.",
-        "Insufficient detail to analyze market signals or development relevance."
+        "New York personnel and company announcements week of August 14, 2026.",
+        "Content summary truncated; insufficient detail provided for analysis.",
+        "Unable to extract specific market signal or transaction data."
       ],
-      "summary": "This article is a generic byline and boilerplate summary of Connect Commercial Real Estate's content offerings and editorial structure, with no substantive news or transaction details provided. The actual news items for the week of August 14, 2026, are not included in the excerpt.",
-      "impact": "No actionable market intelligence. Article stub lacks data necessary to assess NYC multifamily demand, supply, capital, or cost drivers. Requires full article text to evaluate."
-    },
-    {
-      "title": "California People and Company News, Week of August 14, 2026",
-      "link": "https://www.connectcre.com/stories/california-people-and-company-news-week-of-august-14-2026/",
-      "excerpt": "Rory Baird has joined Kidder Mathews’ Valuation Advisory Services team as VP based in its downtown Los Angeles office. Baird brings more than a decade of commercial real estate experience, specializing in the valuation of industrial, storage yard, retail, office, medical office, multifamily, and vacant land properties throughout Greater Los Angeles, Orange County, and the Inland Empire. Kidder Mathews also announced that veteran commercial real estate investment broker Jon Busse has joined the firm’s Carlsbad office. With more than four decades of experience, Busse has represented investors, developers, and institutional property owners in investment sales transactions across a broad range of asset types. Raymond Buddie has joined law firm Coblentz Patch Duffy &amp; Bass LLP as a partner in San Francisco. Buddie brings more than 30 years of experience representing clients in complex construction matters and resolving high-stakes construction-related disputes. RET Ventures has promoted Jameson Hartman, CFA, from Vice President to Industry Principal. In his new role, Jameson works closely with RET’s Strategic Investors, a network of more than 55 leading multifamily and single-family rental owners and operators, including major REITs and private residential owners, to identify emerging technology needs and trends across the industry. Kilroy Realty Corporation announced today that Jeffrey Kuehling has left the company. In connection with his departure, Eliott Trencher will assume the roles of CFO and treasurer on an interim basis. The company has initiated an executive search effort through Russell Reynolds Associates to identify and appoint a new CFO. Kuehling’s departure is not the result of any disagreements related to the company’s financial policies, including any accounting principles and practices, or related to any financial statements or disclosures. Granite has been awarded an approximately $31-million Early Works Grading Package by Hydrostor for its Willow Ro",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-13T21:21:31+00:00",
-      "bullets": [
-        "California People and Company News roundup from week of August 14, 2026.",
-        "Article content is generic summary boilerplate, no specific transactions detailed.",
-        "Insufficient detail to analyze market signals or development relevance."
-      ],
-      "summary": "This article is a generic byline and boilerplate summary of Connect Commercial Real Estate's content offerings and editorial structure, with no substantive news or transaction details provided. The actual news items for the week of August 14, 2026, are not included in the excerpt.",
-      "impact": "No actionable market intelligence. Article stub lacks data necessary to assess California (or submarket) multifamily demand, supply, capital, or cost drivers. Requires full article text to evaluate."
+      "summary": "Article provides New York CRE personnel and company news for the week of August 14, 2026, but the excerpt is incomplete and lacks specific transactions, deal details, or market-moving announcements.",
+      "impact": "Insufficient information to assess impact. Full article text needed to identify relevant deal flow, personnel movements, or market signals affecting New York multifamily development."
     },
     {
       "title": "Barry Sternlicht’s Starwood Scoops Up More Miami-Dade Affordable Housing",
@@ -122,12 +122,12 @@
       "cat": "Commercial",
       "date": "2026-08-13T21:17:48+00:00",
       "bullets": [
-        "Starwood Asset Management acquired 2 more Miami-Dade affordable housing properties for $51.6M, 260 units.",
-        "Total 4-acquisition spree: $115.4M, 570 units; includes Lafayette Plaza (136 units, $27M) and Emerald Terrace (124 units, $24.6M).",
-        "Freddie Mac financing; both properties built 2008–2009 in Little River neighborhood."
+        "Starwood Asset Management acquires 4 Miami-Dade affordable housing properties for $115.4M, 570 units.",
+        "Recent purchases: Lafayette Plaza (136 units, $27M) and Emerald Terrace (124 units, $24.6M) in Little River.",
+        "CBRE Capital Markets provided Freddie Mac-backed financing (18.9M and 17.2M loans)."
       ],
-      "summary": "Barry Sternlicht's Starwood Asset Management has acquired two additional affordable housing properties in Miami-Dade County, totaling $51.6 million and 260 units, bringing the firm's recent affordable housing spree to $115.4 million across 570 units. The acquisitions include Lafayette Plaza (136 units at $27M, Freddie Mac loan $18.9M) and Emerald Terrace (124 units at $24.6M, Freddie Mac loan $17.2M), both located in Miami's Little River neighborhood and built in 2008–2009. CBRE Capital Markets arranged Freddie Mac-backed financing for both deals.",
-      "impact": "Significant capital signal for Miami-Dade multifamily, specifically affordable housing. Starwood's aggressive acquisition pace ($115.4M in affordable units signals confidence in Freddie Mac liquidity and Miami-Dade affordable housing fundamentals amid stabilization of older garden/mid-rise stock. Indicates accessible financing for value-add/stabilized assets with HUD/affordable covenants. Competitive pressure: large institutional buyers consolidating Little River neighborhood inventory may tighten acquisition opportunities for traditional market-rate developers in that submarket. Watch for cap rate compression in Miami-Dade affordable segment and potential spillover demand to adjacent walkable submarkets (Wynwood, Buena Vista)."
+      "summary": "Barry Sternlicht's Starwood Asset Management has acquired four affordable housing properties in Miami-Dade County totaling $115.4 million and 570 units over two weeks. Recent deals include Lafayette Plaza (136 units, $27M) and Emerald Terrace (124 units, $24.6M), both in Little River, with CBRE Capital Markets securing Freddie Mac-backed financing for each. The properties were built in 2008–2009 and benefit from Freddie Mac's affordable housing lending appetite.",
+      "impact": "Starwood's rapid accumulation of Miami-Dade affordable housing signals strong investor confidence in Freddie Mac-backed portfolios and the asset class's stability. For multifamily developers in Miami-Dade, this highlights institutional capital competition in workforce and affordable segments. Developers should monitor whether Freddie Mac lending availability and credit terms remain favorable, as this is a key financing source for affordable/workforce units. The Little River submarket is seeing institutional consolidation, which may reduce off-market acquisition opportunities."
     },
     {
       "title": "Javits Center Expansion, Tech Upgrades Boosting NYC Hospitality Industry",
@@ -137,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-08-13T19:37:03+00:00",
       "bullets": [
-        "Javits Center completed $1.5B expansion 5 years prior; now invested $5M in Wi-Fi 7 upgrade.",
-        "First U.S. convention center with Wi-Fi 7; debuted at Fanatics Fest August 2026.",
-        "Technology investment aims to boost conference/event attraction, supporting NYC hospitality ecosystem."
+        "Javits Center completes $5M technology upgrade; becomes first U.S. convention center with Wi-Fi 7.",
+        "3.3M sq ft facility debuted Wi-Fi 7 at Fanatics Fest; attracts premium events.",
+        "Investment supports NYC hospitality industry adjacent to Hudson Yards and Midtown Manhattan."
       ],
-      "summary": "The Jacob Javits Center in Hudson Yards has completed a $5 million technology upgrade, becoming the first U.S. convention center to deploy Wi-Fi 7 wireless network. The system debuted in August 2026 at Fanatics Fest. This enhancement follows the $1.5 billion expansion completed five years prior and is designed to attract more conferences and events by enabling attendees to maintain remote workplace connectivity. CEO Joyce Leveston emphasized that state-of-the-art Wi-Fi is essential to compete for major events.",
-      "impact": "Positive demand signal for NYC multifamily, particularly Hudson Yards and Midtown West. Enhanced Javits Center event capacity and technology edge will drive increased visitor volume, extend average stay length, and boost hotel occupancy—which supports ancillary residential demand (extended-stay, corporate housing, temporary relocations for conference attendees). Greater event velocity also fuels local employment (hospitality, logistics, retail) and foot traffic that strengthens nearby multifamily submarkets. The $5M tech investment signals Javits' competitive positioning; watch for announced major conferences (2027–2028) to assess concrete visitor impact on Hudson Yards and Hell's Kitchen residential leasing."
+      "summary": "The Javits Center, a 3.3-million-square-foot convention facility in Hudson Yards, has completed a $5 million technology upgrade making it the first U.S. convention center to deploy Wi-Fi 7. The upgrade, which debuted at Fanatics Fest, enhances the facility's ability to attract high-profile conferences and events. This follows a $1.5 billion expansion five years prior and reflects continued investment in NYC's event and hospitality infrastructure.",
+      "impact": "Strong indirect driver of Manhattan and Hudson Yards multifamily demand. Premium event hosting draws corporate attendees, business travelers, and relocation candidates to NYC, boosting hotel occupancy and indirect demand for furnished rentals and corporate housing. Developers should view Javits Center investment as a signal of sustained NYC tourism and business travel strength, supporting both core Manhattan and nearby Hudson Yards residential development pipelines."
     },
     {
       "title": "Westphal Company Lands $56M Refi for San Diego Apartments",
@@ -152,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-08-13T19:30:34+00:00",
       "bullets": [
-        "Westphal Company secured $56.1M refi for 354-unit garden apartment, Lakeside, CA (San Diego County).",
-        "Northmarq arranged Fannie Mae fixed-rate, 10-year, interest-only nonrecourse loan; all escrows waived.",
-        "Wintercrest Village Apartments: 1–2 bed units, pools, spas, fitness; 20 miles northeast of Downtown San Diego."
+        "Westphal Company secures $56.1M refi for 354-unit Wintercrest Village Apartments, Lakeside, San Diego.",
+        "Fannie Mae fixed-rate, 10-year, interest-only loan; nonrecourse; operating escrows waived.",
+        "Loan extracts equity while preserving cash flow; property 20 miles northeast of Downtown San Diego."
       ],
-      "summary": "The Westphal Company has refinanced Wintercrest Village Apartments, a 354-unit garden-style community in Lakeside, California (eastern San Diego County), with $56.1 million in permanent Fannie Mae financing. Northmarq arranged the fixed-rate, 10-year, nonrecourse loan with interest-only payments and all operating escrows waived. The property features one- and two-bedroom apartments, two pools, spas, and fitness amenities. The refinance allowed Westphal to extract equity while preserving cash flow.",
-      "impact": "Positive capital availability signal for San Diego County multifamily. Fannie Mae's appetite for garden-style suburban apartments in Lakeside—20 miles from urban core—with waived escrows and IO terms signals lender confidence in suburban San Diego County rent stability and lease-up. Indicates refinance window remains open for stabilized, non-luxury product; suggests cap rates/leverage acceptable for hold-and-refi strategies. Competitive implication: suburban garden apartments outside San Diego core (i.e., Lakeside, Santee, El Cajon) remain fundable; watch for Fannie Mae issuance trends to gauge whether suburban refi appetite extends to new acquisition/development or remains limited to existing stock."
+      "summary": "The Westphal Company has refinanced Wintercrest Village Apartments, a 354-unit garden-style community in Lakeside (San Diego County), with $56.1 million in permanent Fannie Mae financing. The 10-year fixed-rate loan includes interest-only payments, nonrecourse terms, and waived operating escrows, enabling equity extraction while maintaining cash flow. The property is located approximately 20 miles northeast of Downtown San Diego.",
+      "impact": "Demonstrates continued Fannie Mae appetite for garden-style multifamily refinancing and equity extraction, signaling stable debt markets for established, stabilized properties. San Diego's outer-ring submarkets (like Lakeside) continue to attract institutional capital and favorable financing, reflecting sustained demand and lower development risk. Developers should note that Fannie Mae's willingness to waive escrows and offer favorable terms on proven assets may create opportunities for land acquisition in adjacent San Diego submarkets where rental demand and property quality justify new construction."
     },
     {
       "title": "Fortress Refinances Dania Design Center With $45M After Foreclosure Fight",
@@ -167,13 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-13T17:40:19+00:00",
       "bullets": [
-        "Fortress Investment Group refinanced Dania Design Center (780,000 sq ft office/showroom) with $45M loan.",
-        "City National Bank of Florida provided financing; Fortress invested $3M in updates, plans $3–5M more.",
-        "Fortress acquired property via $76M credit bid in 2024 foreclosure; Chewy departure (100k sq ft) 5 years prior.",
-        "Jamestown managing leasing; property faces I-95 in Dania Beach."
+        "Fortress Investment Group refinances Design Center of Americas, Dania Beach, for $45M post-foreclosure.",
+        "780,000 sq ft office/design showroom complex; Fortress invested $3M in upgrades, plans $3–5M additional.",
+        "Jamestown hired for management/leasing; Chewy relocated from site 5 years prior (100,000 sq ft vacancy)."
       ],
-      "summary": "Fortress Investment Group has refinanced the Design Center of the Americas in Dania Beach, Florida, a 780,000-square-foot office and design showroom complex, with a $45 million loan from City National Bank of Florida. Fortress acquired the property in 2024 via $76 million credit bid following a foreclosure suit against previous owner Charles Cohen. The firm has invested $3 million in updates since acquisition and plans $3–5 million in additional renovations over the coming year. Jamestown was tapped in June 2026 to oversee management and leasing; the property lost online retailer Chewy (100,000 sq ft tenant) about five years prior when it relocated to Plantation Pointe.",
-      "impact": "Minimal direct multifamily relevance; primarily industrial/office repositioning signal. However, Fortress's refinance success and renovation investment in a distressed 780k SF office/mixed-use asset signals that trophy/legacy commercial properties in South Florida (Dania Beach, I-95 corridor) remain fundable and viable for value-add conversion. If Fortress pursues office-to-residential or office-to-mixed-use conversion at Design Center, it could signal broader South Florida office asset recycling trend. Monitor Jamestown's leasing strategy—if they reposition the property for industrial/flex/last-mile use or mixed-use residential, it would indicate Miami-Dade/Broward County appetite for adaptive reuse. Near-term: no direct multifamily supply or demand signal."
+      "summary": "Fortress Investment Group has refinanced the Design Center of the Americas in Dania Beach with a $45 million loan from City National Bank of Florida following a foreclosure battle with previous owner Charles Cohen. The 780,000-square-foot office and design showroom complex has received $3 million in upgrades with another $3–5 million planned. Fortress acquired control via $76 million credit bid in 2024 and engaged Jamestown for management and leasing.",
+      "impact": "Minimal direct impact on multifamily. However, Fortress's stabilization of a distressed office asset signals that institutional capital is willing to resolve troubled CRE and reposition it for long-term hold, reducing risk of market dumping. For South Florida multifamily developers, the refocus on Design Center (near I-95 in Dania Beach) indicates that office repositioning and employment concentration may support adjacent residential development. Monitor whether Fortress's leasing efforts and capital reinvestment in Dania Beach signal broader commercial recovery in the corridor."
     }
   ]
 }
