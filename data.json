@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-17T16:16:38.997923+00:00",
+  "fetchedAt": "2026-08-17T17:18:58.222488+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -10,20 +10,80 @@
     {
       "label": "10Y Treasury",
       "value": "4.71%",
-      "pct": 0.26
+      "pct": 0.3
     },
     {
       "label": "30Y Treasury",
       "value": "5.29%",
-      "pct": 0.47
+      "pct": 0.53
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "97.97",
-      "pct": -0.87
+      "value": "98.11",
+      "pct": -0.72
     }
   ],
   "stories": [
+    {
+      "title": "Common Group Unveils Goodyear Retail Center Plans",
+      "link": "https://www.connectcre.com/stories/common-group-unveils-goodyear-retail-center-plans/",
+      "excerpt": "Common Bond Development Group revealed details for its latest commercial development: a premium, grocery-anchored shopping center in the master-planned community of Estrella in Goodyear, Arizona. The project brings together the City of Goodyear, developer Harvard Investments, and anchor tenant Sprouts Farmers Market to establish a new commercial heart for the trade area. Phase one of the development will total approximately 35,224 square feet, featuring a 23,024-square-foot Sprouts Farmers Market, 9,200 square feet of inline retail space, and a 3,000-square-foot standalone pad. A future second phase, situated along the lake, is planned to add 16,000 to 20,000 square feet of retail and restaurant space. The center’s initial design, completed by Suite 6 Architecture + Planning incorporates a maritime theme that reflects its location on Estrella Parkway at North Lake near the Yacht Club of Estrella and the Starpointe Residents’ Club. The project is targeted to break ground in the first quarter of 2027. The post Common Group Unveils Goodyear Retail Center Plans appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-17T16:48:32+00:00",
+      "bullets": [
+        "Common Group breaks ground Q1 2027 on Sprouts-anchored center, Goodyear, Arizona.",
+        "Phase one: 35,224 SF retail; phase two adds 16K–20K SF restaurant/retail by lake.",
+        "Developer signals suburban retail confidence ahead of anticipated Phoenix metro population influx."
+      ],
+      "summary": "Common Group, Harvard Investments, and Sprouts Farmers Market are developing a grocery-anchored shopping center in Estrella, a master-planned community in Goodyear, Arizona. Phase one totals 35,224 square feet with a 23,024-SF Sprouts anchor, 9,200 SF inline retail, and a 3,000-SF pad; phase two will add 16,000–20,000 SF of retail and restaurant space along the lake. Groundbreaking is targeted for Q1 2027.",
+      "impact": "This Goodyear retail development signals developer confidence in sustained population growth in West Valley Phoenix suburbs. Retail anchoring precedes and validates multifamily absorption in master-planned communities; Trammell Crow should monitor Estrella's residential pipeline and absorption rates as anchor tenancy stabilizes the trade area and drives household density."
+    },
+    {
+      "title": "Developer Plans 297 Housing Units Across From Downtown Brooklyn Macy’s Project",
+      "link": "https://commercialobserver.com/2026/08/housing-downtown-brooklyn-fulton-street-macys/",
+      "excerpt": "Another residential tower might be coming to Downtown Brooklyn, directly across from a major retail makeover project at the former Macy’s. Local developer Shimon Klein has filed plans with the New York City Department of Buildings to bring a trio of 99-unit residential buildings along Fulton Street between Bridge and Lawrence streets. The 99-unit nature of the filing means Klein will likely try to utilize the city’s controversial 485-x tax abatement program, which comes with a construction wage requirement for projects with 100 or more units. Klein’s proposal calls for a 99-unit, 27-story building at 485 Fulton Street. The registered architect is Kao Hwa Lee from Kao Hwa Lee Architects. Neither the architect nor the developer responded to Commercial Observer’s requests for comment. If approved, the building at 485 Fulton Street would have between four and eight residential units across the third through 27th floors. There would also be commercial and community facility space, as well as nearly 3,000 square feet of outdoor rooftop space for tenants. There are no further amenity details, but offerings including workout space, communal lounges, and coworking options have become non-negotiables in new residential developments. The other two 99-unit buildings would be built at 147 and 149 Lawrence Street, with similar makeups, according to the filing. The tenants of Klein’s new project would have a plethora of entertainment options in the neighborhood. The building is located across the street from 422 Fulton Street, a former Macy’s department store, which is being renovated into a five-floor retail and entertainment spot called BKX, CO previously reported. Amanda Schiavo can be reached at aschiavo@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-17T16:38:18+00:00",
+      "bullets": [
+        "Developer Shimon Klein files 297-unit project across from Downtown Brooklyn Macy's redevelopment.",
+        "Three 99-unit buildings on Fulton Street designed to avoid 485-x tax abatement wage requirements.",
+        "Brooklyn residential supply pipeline signals developer arbitrage on tax incentive thresholds and retail co-tenancy."
+      ],
+      "summary": "Local developer Shimon Klein has filed plans for three 99-unit residential buildings totaling 297 units along Fulton Street in Downtown Brooklyn, directly across from a major Macy's retail conversion. The filing strategy—splitting into three 99-unit buildings rather than one 297-unit tower—appears designed to avoid the city's 485-x tax abatement program's construction wage requirements, which apply to projects with 100+ units. The proposed 27-story building at 485 Fulton Street includes commercial and community facility space.",
+      "impact": "This filing reveals developer structuring to circumvent labor cost mandates in NYC, a strategy that will compress underwriting margins across the market if widely adopted. For Trammell Crow: monitor whether NYC tax abatement arbitrage erodes pro-forma returns; watch absorption and rent growth at 485 Fulton post-opening to validate Macy's redevelopment as a demand generator in Downtown Brooklyn, and assess whether competing projects will replicate Klein's threshold-avoidance filing structure."
+    },
+    {
+      "title": "Wind Energy Supplier Inks Lease at Brookshire Industrial Park",
+      "link": "https://www.connectcre.com/stories/wind-energy-supplier-inks-lease-at-brookshire-industrial-park/",
+      "excerpt": "Vestas-American Wind Technology leased approximately 131,300 square feet of space at Enterprise Park at Twinwood in Brookshire, Texas. The Class A industrial warehouse and office facility sits on approximately 17 acres and will support Vestas&#8217; spare parts distribution and operations across North America. JLL’s Louis Rosenthal, Graham Horton, Cayla Wardenburg and Eric Turner represented Vestas-American Wind Technology in the transaction. Bill Gold and Faron Wiley of CBRE represented the landlord, Twinwood Industrial Owner LLC. Vestas-American Wind Technology is the North American division of Vestas, a leading provider of sustainable energy solutions and one of the world&#8217;s largest wind turbine manufacturers. The company designs, manufactures, installs and services wind energy systems. The new Brookshire facility will strengthen Vestas&#8217; spare parts distribution network, allowing the company to better support its growing wind turbine distribution to meet demand for customers throughout the region. The post Wind Energy Supplier Inks Lease at Brookshire Industrial Park appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-17T16:29:53+00:00",
+      "bullets": [
+        "Vestas-American Wind Technology leases 131,300 SF at Enterprise Park, Brookshire, Texas.",
+        "Wind turbine spare parts distribution hub supports North American operations and regional demand growth.",
+        "Industrial facility lease signals green energy sector expansion and supply-chain infrastructure investment near Houston."
+      ],
+      "summary": "Vestas-American Wind Technology leased approximately 131,300 square feet at Enterprise Park at Twinwood in Brookshire, Texas, a Class A industrial warehouse and office facility on 17 acres. The space will serve as a spare parts distribution and operations hub for Vestas' North American wind turbine business, strengthening the company's logistics network to support growing demand.",
+      "impact": "This lease reflects accelerating green energy infrastructure investment in Greater Houston, which will drive sustained job and population inflow to the region. For multifamily: Vestas' commitment signals sector-specific employment clustering in industrial submarkets west of Houston; monitor population influx and wage growth in Brookshire and downstream residential demand in suburbs along I-10 west corridor."
+    },
+    {
+      "title": "Avelo Airlines Reveals First McKinney National Airport Flights",
+      "link": "https://www.connectcre.com/stories/avelo-airlines-reveals-first-mckinney-national-airport-flights/",
+      "excerpt": "McKinney National Airport’s new $79 million commercial passenger terminal is on track to start hosting flights starting in November. Avelo Airlines will launch the first-ever commercial passenger service at McKinney National Airport (DTX) on November 11, 2026. The low-cost carrier is establishing a local base with two Boeing 737 aircraft, offering nonstop flights to Las Vegas and four Florida destinations. The facility includes a 45,000-square-foot terminal with four initial gates, expanded vehicle parking, and upgraded ramp/taxiway infrastructure. Construction of the commercial terminal began in 2025. McKinney will be the third commercial airport in the DFW, along with Dallas Fort Worth International Airport and Dallas Love Field. Avelo Airlines, Inc. is an American ultra-low-cost airline headquartered in Houston, Texas. It previously operated charter flights as Casino Express Airlines and Xtra Airways before transitioning to scheduled operations and rebranding as Avelo Airlines on April 8, 2021. The post Avelo Airlines Reveals First McKinney National Airport Flights appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-17T16:04:06+00:00",
+      "bullets": [
+        "McKinney National Airport opens $79M commercial terminal November 2026; Avelo Airlines launch anchor tenant.",
+        "Two Boeing 737 aircraft base with nonstop service to Las Vegas and four Florida destinations.",
+        "Third DFW commercial airport signals North Texas air-hub growth and residential demand catalyst in McKinney."
+      ],
+      "summary": "McKinney National Airport's new $79 million, 45,000-square-foot commercial passenger terminal is on track to open in November 2026, with Avelo Airlines launching the airport's first scheduled service. Avelo will base two Boeing 737 aircraft at the facility, offering nonstop flights to Las Vegas and four Florida destinations. The airport will be the third commercial aviation hub in the DFW metroplex alongside DFW International and Dallas Love Field.",
+      "impact": "Commercial aviation service creates a demand catalyst for multifamily growth in McKinney and surrounding North Dallas suburbs by improving business-travel accessibility and attracting corporate relocation. Trammell Crow should front-run residential development in McKinney's northeast quadrant and evaluate whether air-service activation justifies higher rents and density in airport-proximate submarkets; monitor Fortune 500 relocation announcements to DFW in 2026–2027."
+    },
     {
       "title": "Spirit Airlines Dania Beach HQ Sells at Auction for $93.25M",
       "link": "https://www.connectcre.com/stories/spirit-airlines-dania-beach-hq-sells-at-auction-for-93-25m/",
@@ -32,12 +92,12 @@
       "cat": "Commercial",
       "date": "2026-08-17T14:57:46+00:00",
       "bullets": [
-        "Spirit Airlines HQ, Dania Beach, sold for $93.25M to Hill City Capital affiliate",
-        "600K SF campus with crew training, flight simulators, corporate housing delivered 2 years prior",
-        "Airline bankruptcy liquidation; South Florida office market faces distressed inventory pressure"
+        "Spirit Airlines shuttered HQ campus sold at auction for $93.25M; Hill City Capital buyer.",
+        "600K+ SF office campus on 11 acres, delivered two years prior, now monetized via bankruptcy.",
+        "Dania Beach office asset fire-sale signals aviation sector distress and flight from speculative office development."
       ],
-      "summary": "Hill City Capital acquired Spirit Airlines' shuttered headquarters campus in Dania Beach for $93.25 million at auction. The 11-acre, 600K SF facility comprised four buildings including corporate offices, amenity space, flight simulators, and crew training facilities, delivered just two years before the airline's May 2024 collapse. The bankruptcy estate is monetizing real estate and equipment as part of the liquidation process.",
-      "impact": "Distressed office conversion opportunity in South Florida. The liquidation of a brand-new, purpose-built corporate campus signals weakness in Dania Beach/Fort Lauderdale office fundamentals and may flood local market with conversion or redevelopment inventory, potentially suppressing nearby office valuations and creating tactical land/adaptive reuse opportunities for multifamily developers in the submarket."
+      "summary": "Spirit Airlines' headquarters campus in Dania Beach, Florida was acquired at auction for $93.25 million by Hill City Capital, a Boston-based hedge fund. The 600,000+ square-foot office campus, delivered just two years ago, sits on 11 acres and includes corporate offices, amenity building, crew-training facility, and corporate housing. Spirit shut down abruptly on May 2 after a failed federal bailout, resulting in 17,000 job losses and asset liquidation via bankruptcy.",
+      "impact": "Spirit's collapse and fire-sale of a newly-built office campus underscores catastrophic headwinds in aviation labor and low-cost carrier economics, with spillover risk to regional employment hubs. For Trammell Crow in South Florida: this signals localized job destruction and potential residential rent compression in Dania Beach and Fort Lauderdale; monitor whether Hill City's acquisition signals office-to-alternative-use conversion (data center, logistics, mixed-use) that might regenerate employment and stabilize regional multifamily demand."
     },
     {
       "title": "Payments Manager Corpay Cross-Border Relocates to 18K SF at 560 Lexington Avenue",
@@ -47,12 +107,12 @@
       "cat": "Commercial",
       "date": "2026-08-17T14:46:13+00:00",
       "bullets": [
-        "Corpay Cross-Border, international payments firm, relocates HQ to Rudin's 560 Lexington Avenue",
-        "11-year lease, 17.8K SF at ~$84/SF ($1.494M annual); move from 300 Park Avenue fall 2025",
-        "Manhattan Plaza District office demand from TAMI/fintech; Rudin recent build-to-suit capital deployed"
+        "Corpay Cross-Border Solutions leases 17,778 SF at 560 Lexington Avenue, Manhattan, 11-year term.",
+        "Relocates from Tishman Speyer's 300 Park Avenue; rent ~$84/SF indicates Plaza District office strength.",
+        "International payments firm HQ consolidation reflects office demand stabilization in Midtown Manhattan post-pandemic."
       ],
-      "summary": "Corpay Cross-Border Solutions, a payments and currency risk management firm, signed an 11-year, 17,778 SF lease at Rudin's 560 Lexington Avenue in Manhattan's Plaza District at approximately $84/SF. The company is relocating from Tishman Speyer's 300 Park Avenue to an entirely pre-built 17th floor, moving in fall 2025. The deal reflects Rudin's recent portfolio investments enabling rapid tenant accommodation and validates demand for Class-A office space among fintech/TAMI firms.",
-      "impact": "Modest positive signal for Manhattan office market in TAMI segment, but minimal direct multifamily impact. The relocation underscores that Manhattan office demand remains concentrated in high-spec fintech and financial services; broader office headwinds persist, which may temper net in-migration and job growth that would otherwise support multifamily demand in outer boroughs and nearby metros."
+      "summary": "Corpay Cross-Border Solutions, an international payments and currency risk management firm, has signed an 11-year lease for 17,778 square feet at Rudin's 560 Lexington Avenue in Midtown Manhattan's Plaza District. The firm is relocating from Tishman Speyer's 300 Park Avenue and will occupy the entire 17th floor. Asking rent was approximately $84 per square foot, and the move is scheduled for fall 2024.",
+      "impact": "This Plaza District lease validates office market recovery in core Midtown Manhattan and signals tenant confidence in long-term office occupancy and lease terms. For Trammell Crow: office-market stabilization in Manhattan increases residential demand from white-collar workers securing multi-year office tenancy; monitor whether similar financial-services consolidations drive residential absorption in Midtown-proximate neighborhoods (Kips Bay, Murray Hill, Gramercy) and support rent growth in luxury and Class A multifamily stock."
     },
     {
       "title": "Charlotte Apartments Trade for $76.3M",
@@ -62,42 +122,12 @@
       "cat": "Commercial",
       "date": "2026-08-17T14:25:09+00:00",
       "bullets": [
-        "Tishman Speyer acquires Berkshire Dilworth, Charlotte, 296 units at $258K/unit ($76.3M total)",
-        "Luxury asset, 97% occupied, West Midtown/Dilworth neighborhood; includes 3K SF retail",
-        "Tishman's first Charlotte entry; signals institutional capital pursuing Sunbelt multifamily growth market"
+        "Tishman Speyer acquires Berkshire Dilworth, 296-unit luxury apartments, Charlotte for $76.3M ($257.8K/unit).",
+        "97% occupied; 856-SF average unit; located between West Midtown and historic Dilworth neighborhood.",
+        "Institutional investor entry into Charlotte market signals confidence in Sunbelt multifamily fundamentals and rent growth."
       ],
-      "summary": "Tishman Speyer purchased Berkshire Dilworth, a 296-unit luxury multifamily property in Charlotte's West Midtown/Dilworth neighborhood, for $76.3 million ($258K/unit) from Berkshire Residential. The property is 97% occupied with studios and 1-3 BR units averaging 856 SF, and includes amenities, rooftop lounge, and 3K SF street-level retail. Tishman plans selective upgrades to amenities and select units.",
-      "impact": "Entry by tier-one institutional developer signals confidence in Charlotte multifamily fundamentals and rent growth trajectory. Acquisition price at $258K/unit in a Sunbelt luxury submarket validates underwriting assumptions for new development in Charlotte; de facto market comp supports elevated development feasibility and attracts additional capital to the market, shortening pre-development timelines for pipeline projects."
-    },
-    {
-      "title": "Investor Team Pays $91.8M for 2 Charlotte Office Buildings",
-      "link": "https://www.connectcre.com/stories/investor-team-pays-91-8m-on-2-charlotte-office-buildings/",
-      "excerpt": "Corebridge Real Estate Investors and Crestlight Capital acquired two buildings in The Station at LoSo mixed-use project in Charlotte. Commercial Search reports that the group paid $91.8 million for the assets, which consist of 200,000 square feet of space. Beacon Partners was the seller. At the time of sale, the buildings were 90 percent leased. JLL’s Ryan Clutter, Mike McDonald, Daniel Flynn and Director CJ Liuzzo led the Capital Markets’ Investment Sales and Advisory team that worked on behalf of Beacon Partners. Located at 3600 and 3700 South Blvd., Station 3 and Station 4 represent the first phase of a roughly 15-acre, master-planned development. Slated to come online in three phases, Beacon Partners’ project also includes MAA LoSo and Ello House, two communities totaling 693 units. Future phases will bring online Station 1 and 2, two additional office buildings set to total roughly 1 million square feet, as well as a 350-unit community expected to break ground this year. The post Investor Team Pays $91.8M for 2 Charlotte Office Buildings appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-17T13:53:56+00:00",
-      "bullets": [
-        "Corebridge Real Estate & Crestlight Capital acquire 2 office buildings, Station at LoSo Charlotte, $91.8M",
-        "200K SF office space, 90% leased; part of 15-acre mixed-use master plan with 693 multifamily units delivered",
-        "Future phases include 350-unit multifamily community and ~1M SF additional office (Stations 1 & 2)"
-      ],
-      "summary": "Corebridge Real Estate Investors and Crestlight Capital acquired two office buildings (Station 3 and Station 4) at The Station at LoSo mixed-use development in Charlotte for $91.8 million. The 200K SF portfolio was 90% leased at sale. The mixed-use project already includes 693 multifamily units (MAA LoSo, Ello House) and plans to deliver two additional office buildings totaling ~1M SF and a 350-unit apartment community in future phases.",
-      "impact": "Mixed-use placemaking with significant multifamily component anchored by institutional office. The office acquisition validates master-plan economics and suggests capital redeployment within phases; future 350-unit delivery compounds demand pressure on Charlotte market and indicates developer confidence in residential absorption. Institutional capital stacking office+residential signals submarket maturation and may attract additional development to LoSo and nearby Charlotte South Boulevard corridor."
-    },
-    {
-      "title": "NRP Advancing 312-Unit Port St. Lucie Apartment Venture",
-      "link": "https://www.connectcre.com/stories/nrp-advancing-312-unit-port-st-lucie-apartment-venture/",
-      "excerpt": "The NRP Group broke ground on its newest luxury apartment community, a 312-unit development within the 10,000-acre Tradition master-planned community at 13661 SW Village Parkway in Port St. Lucie. M&amp;T Bank provided construction financing. Group 4 Architecture designed the project. This marks The NRP Group&#8217;s second development closing in Florida this year. Situated on approximately 18 acres, the development consists of 10, 3-story buildings offering a mix of one-, two- and three-bedroom apartment homes ranging from approximately 720 to 1,300 square feet. Every residence will include either a private balcony or a fenced ground-floor yard. Amenities include a 24-hour fitness center with both strength and cardio equipment, a swimming pool, coworking suites and dedicated work-from-home offices, a multipurpose resident lounge with a full kitchen, package concierge and storage facilities, outdoor grilling areas, as well as landscaped courtyards and gathering spaces. Completion is scheduled for summer 2028. The post NRP Advancing 312-Unit Port St. Lucie Apartment Venture appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-17T13:37:43+00:00",
-      "bullets": [
-        "NRP Group breaks ground, 312-unit luxury development, Tradition master-planned community, Port St. Lucie",
-        "M&T Bank construction financing; 18 acres, 10 three-story buildings, 720-1.3K SF units",
-        "Second Florida development closing for NRP in 2025; work-from-home amenities, high-end finishes"
-      ],
-      "summary": "The NRP Group broke ground on a 312-unit luxury apartment community at Tradition, a 10K-acre master-planned community in Port St. Lucie, with M&T Bank providing construction financing. The development spans 18 acres across 10 three-story buildings offering 1-3 BR units (720-1.3K SF) with private balconies or fenced ground-floor yards. Amenities include fitness, pool, coworking, multipurpose lounge, and landscaped courtyards.",
-      "impact": "NRP's second Florida close in 2025 reflects sustained multifamily capital confidence in Florida pipeline despite rate headwinds. Port St. Lucie development within established master-plan signals developer focus on high-amenity, work-from-home-enabled product in secondary Sunbelt markets; successful absorption here may trigger additional development site acquisitions across Florida's mid-tier metros and reinforce institutional appetite for Tradition and similar large-scale planned communities."
+      "summary": "Tishman Speyer purchased Berkshire Dilworth, a 296-unit luxury multifamily property in Charlotte, North Carolina, for $76.3 million, or approximately $257,800 per unit. The asset, located at 1351 E. Morehead Street between West Midtown and the historic Dilworth neighborhood, is 97% occupied with studios and one- to three-bedroom units averaging 856 square feet. Tishman Speyer plans amenity and exterior upgrades, plus selective unit improvements.",
+      "impact": "Tishman Speyer's entry into Charlotte signals institutional investor conviction in the market's rent-growth fundamentals and Sunbelt migration tailwinds. For Trammell Crow: the $257.8K/unit valuation sets a market comp for Charlotte Class A multifamily; monitor cap-rate compression and whether similar institutional acquisitions indicate headroom for new development starts, particularly in West Midtown and surrounding transit-accessible submarkets experiencing demographic influx and income growth."
     },
     {
       "title": "John McCullough of Kennedy Wilson Multifamily Development: 5 Questions",
@@ -107,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-08-17T12:00:23+00:00",
       "bullets": [
-        "Kennedy Wilson acquires Toll Brothers' apartment platform, $347M; 29-site development pipeline",
-        "18 operating properties, $2.2B AUM; John McCullough leads multifamily development group",
-        "Major platform consolidation; Toll Brothers exit signals strategic shift in apartment portfolio"
+        "Kennedy Wilson acquires Toll Brothers apartment platform for $347M; 18 properties, $2.2B AUM.",
+        "John McCullough (ex-Toll COO) leads 29-site development pipeline and management team transition.",
+        "Major platform consolidation signals capital concentration and operational scaling in multifamily development segment."
       ],
-      "summary": "Kennedy Wilson acquired Toll Brothers' entire apartment living platform for $347 million, gaining general partner interests in 18 apartment and student housing properties worth $2.2B AUM and a development pipeline of 29 sites in various construction stages. Toll Brothers' apartment management team, led by former platform head John McCullough, transitioned to Kennedy Wilson. McCullough now serves as president of Kennedy Wilson's multifamily development group.",
-      "impact": "Significant institutional capital reallocation and platform consolidation. Toll Brothers' apartment exit signals potential strategic refocus toward single-family homebuilding; Kennedy Wilson's acquisition of 29 pipeline sites and experienced management team suggests capital deployment across multiple markets and de facto confirmation of development feasibility assumptions embedded in Toll's original site assembly, likely accelerating delivery timelines and competitive density in those markets."
+      "summary": "Kennedy Wilson acquired Toll Brothers' entire apartment living platform for $347 million, gaining general partner interests in 18 apartment and student housing properties with $2.2 billion in assets under management and a pipeline of 29 development sites. John McCullough, former COO of Toll Brothers' apartment division, now leads Kennedy Wilson's multifamily development group and oversaw the transition of Toll's management team.",
+      "impact": "This platform acquisition consolidates a major development pipeline under institutional capital and experienced management, accelerating project velocity and potentially compressing market timelines for competitive entries. For Trammell Crow: track Kennedy Wilson's 29-site pipeline by market and stage; anticipate accelerated deliveries in 2026–2028 that may compress rent growth and cap rates in overlapping markets; assess whether the Toll platform's geographic footprint (likely Sunbelt and high-growth metros) overlaps with Trammell Crow's acquisition targets."
     },
     {
       "title": "Southern Land Company Hires Tony Marchbanks as Head of Homebuilding",
@@ -122,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-08-17T11:00:22+00:00",
       "bullets": [
-        "Southern Land Company hires Tony Marchbanks as national president of homebuilding",
-        "30-year veteran from Highland Homes (Houston 1K homes/year production); focus Tennessee, Texas, Colorado",
-        "Higher rates, lot oversupply from 3-year-old acquisitions create consolidation opportunity for efficient builders"
+        "Southern Land Company hires Tony Marchbanks (ex-Highland Homes COO) as national president of homebuilding.",
+        "Marchbanks built 1,000 homes/year in Houston; now targets Tennessee, Texas, Colorado expansion.",
+        "Experienced homebuilder exec signals Southern Land's lot-supply advantage in tight new-home market consolidation."
       ],
-      "summary": "Southern Land Company hired Tony Marchbanks as national president of homebuilding to lead single-family development in Tennessee, Texas, and Colorado. Marchbanks previously served as COO for Highland Homes, where he oversaw Houston production of 1,000 homes per year. He noted that higher interest rates and weak job growth have constrained the homebuilding environment, but created opportunity for well-capitalized firms like Southern Land to acquire overextended lot supplies from competitors who secured land three years ago.",
-      "impact": "Lateral signal for multifamily: homebuilder lot consolidation and reduced single-family production (due to rates and consumer confidence erosion) may redirect buyer demand toward rental housing, particularly in Texas and Tennessee. Reduced single-family supply and slower delivery timelines in these high-growth metros support sustained multifamily rent growth and development feasibility; multifamily developers should model increased absorption velocity and consider accelerating starts in markets where single-family production is contracting."
+      "summary": "Southern Land Company hired Tony Marchbanks as national president of homebuilding, focusing on single-family development in Tennessee, Texas, and Colorado. Marchbanks previously served as COO of Highland Homes, where he oversaw production of 1,000 homes per year in Houston. Marchbanks noted that while interest rates and weak job growth challenge the sector, Southern Land's lot supply positions the firm to capture market share from competitors holding excess inventory.",
+      "impact": "Marchbanks' hire signals Southern Land's competitive positioning via lot-supply arbitrage in a constrained new-home market; higher rates and weak consumer confidence favor land-rich incumbents over leverage-dependent builders. For Trammell Crow: monitor whether single-family oversupply in Texas and Colorado compresses household formation and rental demand in those markets; assess whether Southern Land's expansion accelerates lot velocity and pricing, thereby constraining multifamily sites' land costs in overlapping Texas markets."
     },
     {
       "title": "How Trent Johnson, Brian Landrum at Harbert Management Corp. Invest in Senior Housing",
@@ -137,42 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-17T10:30:17+00:00",
       "bullets": [
-        "Harbert Management senior housing team manages $8B AUM, raised $510M fund in 2020",
-        "15-year track record in seniors housing; third fundraise underway capitalizing on Baby Boomer aging wave",
-        "Baby Boomers turning 80+ in 2016 catalyst; institutional capital pursuing seniors housing asset class"
+        "Harbert Management ($8B AUM) invests in seniors housing via $210M (2016) and $510M (2020) funds.",
+        "Trent Johnson and Brian Landrum co-lead team; third fundraise underway to capitalize on Baby Boomer aging.",
+        "Institutional capital targeting first wave of Baby Boomers turning 80 in 2016; sector fundamentals strengthening."
       ],
-      "summary": "Trent Johnson and Brian Landrum, co-heads of seniors housing at Harbert Management Corporation ($8B alternatives asset manager), have invested in seniors housing for 15 years, raising a $210M fund in 2016 and a $510M fund in 2020. The team is currently executing a third fundraise to capitalize on the first wave of Baby Boomers reaching age 80. The duo discussed how the asset class has evolved and where best-in-class opportunities exist.",
-      "impact": "Minimal direct multifamily impact; seniors housing is distinct asset class with different underwriting, financing, and regulatory requirements. However, large institutional capital commitment to seniors housing signals demographic demand tailwinds (aging population, lifecycling) that may compress available institutional capital for mainstream multifamily development and increase competition for REIT/fund capital, potentially raising cost of debt and equity for conventional apartment projects in key markets."
-    },
-    {
-      "title": "Sunday Summary: The Rent is Too Damn Low!",
-      "link": "https://commercialobserver.com/2026/08/sunday-summary-the-rent-is-too-damn-low/",
-      "excerpt": "Back in 2010, Jimmy McMillan ran for governor of New York on a pretty straightforward platform: The rent was too damn high. McMillan said it again and again, and named his political party The Rent is Too Damn High Party. (McMillan’s presence on the debate stage garnered national attention and Matthew Yglesias even titled a slim book with the same name.) Sixteen years later, McMillan is still not wrong, in that the average monthly rent just hit $6,655 in Manhattan according to research from Corcoran Sunshine — which is 10 percent higher than it was a year ago. There are a number of solutions that the Mamdani administration have proffered, but one that has perhaps attracted the most attention has been freezing rents on rent-stabilized apartments. In June, the Rent Guidelines Board issued a freeze on one- and two-year leases, which will certainly be popular with rent-stabilized voters. But one has to wonder if it will actually address the larger issue of affordability — especially if landlords begin to lose more money than they make on stabilized units. Some landlords are keeping units off the market rather than getting them in rentable shape. “Some of [the rent-stabilized units] require more work than others, but for the ones that need significant work — and I mean baseline, just to get them up to livable standards — we’re talking $30,000 minimum,” said Jose Tur, who owns two stabilized buildings in Washington Heights and testified before the RGB before their vote. In addition to the baseline, Tur told Commercial Observer that he would probably have to include another $30,000 per unit for the cosmetic fixes. And that’s on the lower end of the renovation spectrum. Matthew Engel, president of Langsam Property Services, says he has units that require $80,000 to $100,000 worth of work, and rent as low as $600 per month. “There’s no way for me to finance that work,” said Engel. “No bank would lend me $100,000 if I’m only going to be able to collect $6,000 a year in rent.” ",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-16T13:00:15+00:00",
-      "bullets": [
-        "Manhattan average rent $6.655/month, up 10% YoY; rent-stabilized freeze issued June 2025",
-        "Rent Guidelines Board froze 1- and 2-year lease renewals; political response to affordability crisis",
-        "Risk: rent-stabilized inventory retention if landlord economics deteriorate further"
-      ],
-      "summary": "Manhattan's average monthly rent reached $6,655, a 10% year-over-year increase, according to Corcoran Sunshine research. In response to affordability pressure, New York's Rent Guidelines Board issued a freeze on one- and two-year lease renewals for rent-stabilized apartments. However, the freeze may not address underlying affordability and risks landlord underinvestment if economics on stabilized units deteriorate further, potentially pulling rental inventory off-market.",
-      "impact": "Regulatory risk to New York multifamily development pipeline. Rent stabilization freeze suppresses operator economics on legacy stock and may deter new institutional investment in unregulated (market-rate) inventory if perception grows that political intervention will broaden. Developers should model higher cost-of-capital in NYC and premium pricing for new construction to offset regulatory tail risk; Manhattan market tightness may accelerate outer-borough and nearby suburban multifamily development as capital seeks regulatory clarity and yield certainty."
-    },
-    {
-      "title": "AI-Native Hanover Park Leases Full Floor at 387 Park Ave. South",
-      "link": "https://www.connectcre.com/stories/ai-native-hanover-park-leases-full-floor-at-387-park-ave-south/",
-      "excerpt": "A new lease with AI-native fund administrator Hanover Park and the expansion and extension of PMG Worldwide&#8217;s existing space have been recent highlights at TF Cornerstone&#8217;s 387 Park Ave. South, which has seen more than 100,000 square feet of leasing activity in the past year. The recent transactions follow K Health&#8217;s long-term renewal and the expansion of another TAMI user completed in late 2025. Hanover Park signed a lease for the building&#8217;s entire 10th floor, totaling approximately 19,269 square feet. PMG Worldwide renewed its lease on the entire second floor while expanding into the entire third floor, bringing its total footprint to approximately 38,744 square feet. &#8220;We&#8217;re pleased to welcome Hanover Park to 387 Park Avenue South and to expand our relationship with PMG Worldwide,&#8221; said Joe Lanzilotta, Director, Commercial Asset Management at TF Cornerstone. &#8220;The property continues to outperform the market as a destination for growing businesses.&#8221; The post AI-Native Hanover Park Leases Full Floor at 387 Park Ave. South appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-14T21:42:26+00:00",
-      "bullets": [
-        "Hanover Park (AI-native fund administrator) leases entire 10th floor, 19.3K SF, 387 Park Ave South",
-        "PMG Worldwide expands/renews 38.7K SF (floors 2-3); 100K+ SF leasing activity past year",
-        "Manhattan office leasing momentum in TAMI/AI-native segment; TF Cornerstone build-to-suit deployment"
-      ],
-      "summary": "Hanover Park, an AI-native fund administrator, leased the entire 10th floor (19,269 SF) at TF Cornerstone's 387 Park Avenue South in Manhattan. Concurrently, PMG Worldwide renewed and expanded across floors 2-3, totaling 38,744 SF. The property has recorded over 100K SF of leasing activity over the past year, including renewals from K Health and other TAMI tenants, validating TF Cornerstone's capital deployment.",
-      "impact": "Positive office leasing signal in Manhattan TAMI/AI segment but immaterial to multifamily. Concentrated office demand in fintech/AI segments does not broadly support Manhattan office or housing demand; sustained Manhattan office weakness in non-TAMI segments and overall employment uncertainty continue to dampen net in-migration and renter demand. Multifamily developers should remain cautious on Manhattan ramp-up; office strength in narrow vertical does not validate broad-based office recovery."
+      "summary": "Harbert Management Corporation, an $8 billion alternatives asset manager, has been investing in seniors housing for 15 years, raising a $210 million fund in 2016 and a $510 million fund in 2020. Co-heads Trent Johnson and Brian Landrum are currently executing a third fundraise to capture the first wave of Baby Boomers turning 80, beginning in 2016. The interview explores career paths, asset-class evolution, and emerging investment opportunities in seniors housing.",
+      "impact": "Institutional capital concentration in seniors housing reflects demographic conviction and capital deployment ahead of peak Baby Boomer aging curves (2025–2035). For Trammell Crow: monitor Harbert's deployment geography and acquisition strategy to identify competing multifamily submarkets where seniors housing competes for land and capital; assess whether seniors housing cap rates and returns are attracting capital away from conventional multifamily, potentially reducing development competition in certain markets while intensifying it in age-dense Sunbelt metros (Florida, Arizona, Carolinas)."
     }
   ]
 }
