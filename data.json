@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-17T18:25:03.862858+00:00",
+  "fetchedAt": "2026-08-17T19:21:30.613536+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -9,21 +9,66 @@
     },
     {
       "label": "10Y Treasury",
-      "value": "4.73%",
-      "pct": 0.64
+      "value": "4.72%",
+      "pct": 0.6
     },
     {
       "label": "30Y Treasury",
       "value": "5.31%",
-      "pct": 0.87
+      "pct": 0.84
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "98.07",
-      "pct": -0.77
+      "value": "97.87",
+      "pct": -0.97
     }
   ],
   "stories": [
+    {
+      "title": "Arlington Aerospace Supplier Building $45M Addition",
+      "link": "https://www.connectcre.com/stories/arlington-aerospace-supplier-building-45m-addition/",
+      "excerpt": "Circuit Systems Co. Inc. plans to begin construction in November to expand its manufacturing warehouse at 5301 W. Pioneer Parkway. The contract manufacturer makes aerospace bonding jumping cables, bus bars and grounding straps. The expansion is expected to cost $45 million. The company will add 20,980 square feet to its existing 11,880-square-foot facility. The expansion also includes new offices, a conference room, storage and restroom facilities. Circuit Systems products — used in commercial and military aircraft — include parts of the F-22 and F-35 aircraft from Fort Worth-based Lockheed Martin Aeronautics as well as those used in the International Space Station. Those parts provide a safe pathway for electrical currents on aircraft, preventing damage from lightning strikes. The post Arlington Aerospace Supplier Building $45M Addition appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-17T18:56:08+00:00",
+      "bullets": [
+        "Circuit Systems expanding Arlington facility by 21k SF; $45M investment Nov start",
+        "Aerospace supplier serving Lockheed Martin, F-22/F-35 programs; manufacturing expansion signals defense sector strength",
+        "New office, storage, restrooms added; signals employer headcount/operational growth in Fort Worth metro"
+      ],
+      "summary": "Circuit Systems, a Lockheed Martin aerospace parts supplier in Arlington, is investing $45 million in a manufacturing facility expansion adding 20,980 square feet to its 11,880-square-foot footprint, with construction starting in November. The expansion includes new offices, conference space, and support facilities. The company manufactures electrical bonding and grounding components for commercial and military aircraft including F-22 and F-35 jets.",
+      "impact": "Defense contractor expansion signals sustained demand in Fort Worth's aerospace cluster and indicates employer headcount growth; multifamily developers should monitor Arlington and surrounding submarkets for rental demand tailwinds tied to contractor and Lockheed Martin staff growth, particularly for workforce housing near defense facilities."
+    },
+    {
+      "title": "384-Room San Antonio Airport Hotel Trades Hands",
+      "link": "https://www.connectcre.com/stories/384-room-san-antonio-airport-hotel-trades-hands/",
+      "excerpt": "Hospitality and multifamily investor LXMI Capital acquired the DoubleTree by Hilton San Antonio Airport. The company scored a $36.4 million acquisition loan from Fortress Investment Group. The property at 611 NW Loop 410 had been owned by Presidian Hospitality. Situated at 611 Northwest Loop 410 in San Antonio, Texas, roughly two miles from San Antonio International Airport, the hotel features 384 guest rooms and approximately 14,659 square feet of meeting and event space. Amenities include free self-parking, an outdoor pool, a fitness center, and a complimentary 24/7 airport shuttle service. The 13-story hotel has room rates between $109-$169. Presidian bought the hotel in 2019 and immediately began a $10 million renovation plan. The hotel was built in 1981 as La Mansion del Norte. The post 384-Room San Antonio Airport Hotel Trades Hands appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-17T18:18:03+00:00",
+      "bullets": [
+        "LXMI Capital acquires 384-room DoubleTree San Antonio Airport for undisclosed price; $36.4M Fortress loan",
+        "Hotel trades at $109–$169 nightly; prior owner invested $10M renovation post-2019 purchase",
+        "Hospitality-focused investor signals continued appetite for airport-proximate lodging; modest deal size suggests secondary market"
+      ],
+      "summary": "LXMI Capital, a hospitality and multifamily investor, acquired the 384-room DoubleTree by Hilton San Antonio Airport from Presidian Hospitality using a $36.4 million construction loan from Fortress Investment Group. The 13-story property, located 2 miles from San Antonio International Airport, features meeting space, free parking, pool, and 24/7 shuttle service. Presidian had purchased the asset in 2019 and completed a $10 million renovation.",
+      "impact": "Modest deal size and investor composition (hospitality + multifamily specialist) reflects San Antonio's secondary-market status and limited capital intensity for lodging; unlikely to signal broad capital availability for multifamily development, but LXMI's diversification into hospitality suggests hospitality weakness may redirect capital toward residential if airport-hotel cap rates remain compressed."
+    },
+    {
+      "title": "Safeway Opens at 200K-SF Gilbert Retail Center",
+      "link": "https://www.connectcre.com/stories/safeway-opens-at-200k-sf-gilbert-retail-center/",
+      "excerpt": "Thompson Thrift celebrated the grand opening of Safeway at The Gilmore, the company&#8217;s 35-acre mixed-use development in Gilbert. The 64,000-square-foot Safeway grocery store is located at the northwest corner of Val Vista Drive and Germann Road, just off Loop 202. The Gilmore features approximately 200,000 square feet of grocery, restaurant and retail space and the 300 luxury apartment homes at The Residences at The Gilmore. The Residences at The Gilmore will offer studio, one-, two- and three-bedroom apartment homes with amenities, including a heated swimming pool, 24-hour fitness studio, coworking lounge with private focus rooms, outdoor entertainment kitchen, resident social spaces and a dog park with pet spa. Residents will also balcony and patio options. Thompson Thrift remains highly active across Arizona with several notable developments, including Pointe17 and Refinery at Pointe17 in Phoenix, The Maddox in Buckeye, Stella in San Tan Valley, Southbridge Marketplace in Maricopa, Elliot Tech Center in Mesa, Germann Commerce Center in Queen Creek and more. The post Safeway Opens at 200K-SF Gilbert Retail Center appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-17T18:01:32+00:00",
+      "bullets": [
+        "Thompson Thrift opens 64k SF Safeway at The Gilmore; 35-acre mixed-use Gilbert development",
+        "300 luxury apartments (studio to 3-bed) at Residences at The Gilmore; amenity-rich positioning",
+        "200k SF retail/grocery/restaurant component anchored by Sprouts competitor; grocery-anchored mixed-use trend in Phoenix West Valley"
+      ],
+      "summary": "Thompson Thrift celebrated the grand opening of a 64,000-square-foot Safeway at The Gilmore, a 35-acre mixed-use development in Gilbert, Arizona. The center totals approximately 200,000 square feet of retail, restaurant, and grocery space alongside 300 luxury apartment homes (studio to 3-bedroom) with amenities including pool, fitness center, coworking lounge, and dog park. The site sits at Val Vista Drive and Germann Road near Loop 202.",
+      "impact": "Completed multifamily component at established mixed-use project demonstrates sustained Phoenix West Valley demand and absorption of premium units; the grocery-anchored retail ecosystem validates tenant and resident draw, signaling strong sublease economics and potential for future-phase expansion; developers should assess Gilbert's northeast corridor (Val Vista/Germann) for infill multifamily or retail-residential opportunities given demonstrated leasing velocity."
+    },
     {
       "title": "PGIM Sells Delray Beach Assisted Living Community for at Least $140M",
       "link": "https://commercialobserver.com/2026/08/pgim-arbor-at-delray-beach-artemis/",
@@ -32,12 +77,12 @@
       "cat": "Commercial",
       "date": "2026-08-17T17:59:10+00:00",
       "bullets": [
-        "PGIM Real Estate sold 207-unit Delray Beach assisted living facility for $140M+ in 2025.",
-        "Artemis Real Estate Partners acquired The Arbor at Delray; $676K per unit implies strong healthcare RE appetite.",
-        "PGIM built property in 2023; land purchased 2023 for $8.2M, construction loan $45.7M from Comerica."
+        "PGIM Real Estate sells The Arbor at Delray assisted-living community; $140M+ price, Artemis acquires",
+        "207-unit asset completed 2023; $676k per unit; 224k SF with nursing home and clubhouse",
+        "Two-year hold and significant exit valuation; signals strong South Florida senior-housing cap-rate environment and institutional investor appetite"
       ],
-      "summary": "PGIM Real Estate divested The Arbor at Delray, a 224,951-square-foot assisted living community with 207 units, to Artemis Real Estate Partners for at least $140 million. The property, completed in 2023, generated roughly $676,300 per unit and included a 35,586-square-foot clubhouse and 51,461-square-foot nursing home. PGIM had acquired the land for $8.2 million in 2021 and secured $45.7 million in construction financing from Comerica Bank.",
-      "impact": "Strong exit multiple on recent completion signals robust institutional capital appetite for senior housing in South Florida, despite higher cap rates. Successful monetization of this scale may encourage other operators to develop similar communities in Miami/Fort Lauderdale submarkets where demand remains strong from retiree in-migration, though construction costs and labor remain elevated barriers."
+      "summary": "PGIM Real Estate sold The Arbor at Delray, a 207-unit assisted-living community completed in 2023, to Chevy Chase-based Artemis Real Estate Partners for at least $140 million (approximately $676,300 per unit). The 224,951-square-foot property, located at 6595 Morikami Park Road, includes a 35,586-square-foot recreational clubhouse and 51,461-square-foot nursing home. PGIM's development partner Alliance Residential purchased the land for $8.2 million in 2021 and secured a $45.7 million construction loan from Comerica Bank.",
+      "impact": "Strong exit valuation ($140M+ on $45.7M construction debt plus ~$8M land) reflects robust South Florida senior-housing demand and cap-rate compression, but asset class is healthcare/assisted-living, not market-rate multifamily; relevant for developers evaluating Delray Beach submarkets and mixed-age housing strategies, but limited direct signal for traditional apartments unless demonstrates strong rental-demand fundamentals in broader South Jog Road corridor."
     },
     {
       "title": "Mamdani Invests $8.4M in Business Improvement Districts Citywide",
@@ -47,12 +92,12 @@
       "cat": "Commercial",
       "date": "2026-08-17T17:23:45+00:00",
       "bullets": [
-        "NYC Mayor Mamdani allocates $8.4M to business improvement districts across five boroughs.",
-        "Grants fund street cleaning, lighting, public art; intended to boost foot traffic for 20,000 businesses.",
-        "Brooklyn receives largest share; largest single NYC cash infusion for BIDs on record."
+        "NYC Mayor Mamdani allocates $8.4M to Business Improvement Districts citywide; largest single infusion",
+        "Grants support public art, street cleaning, lighting, directories; aim to boost foot traffic for 20k businesses",
+        "Brooklyn receives majority of funding; signals administrative focus on retail/streetscape vitality across five boroughs"
       ],
-      "summary": "New York City's Department of Small Business Services, under Mayor Zohran Mamdani, awarded $8.4 million in grant funding to business improvement districts citywide for public art, street cleaning, lighting, and directories. The administration claims the investment could drive foot traffic to 20,000 small businesses across the five boroughs and represents the largest single cash infusion of its kind. Brooklyn received the plurality of funds.",
-      "impact": "Modest but signals municipal intent to support street-level retail vitality in walkable neighborhoods; marginal impact on multifamily demand itself, but sustained deterioration of local commercial districts (storefronts, street quality) can suppress renter foot-traffic and reduce lease-up velocity. Investment in BIDs may stabilize older urban submarkets and make transit-oriented multifamily development more attractive to capital."
+      "summary": "New York City Mayor Zohran Mamdani and the Department of Small Business Services announced $8.4 million in grant funding for Business Improvement Districts citywide to support public art, street cleaning, lighting, and business directories. The administration stated the grants could boost foot traffic for approximately 20,000 businesses across the five boroughs, marking the largest single cash infusion of its kind. Brooklyn received the majority of funding.",
+      "impact": "Public investment in streetscape and foot-traffic activation signals focus on retail corridor vitality and small-business retention; while $8.4M is modest relative to NYC's scale, it may reduce retail vacancy risk in ground-floor retail of mixed-use developments and support asset valuations in dense neighborhoods; developers should prioritize ground-floor retail activation and street-level programming to align with municipal priorities and enhance leasing prospects in BID-designated areas."
     },
     {
       "title": "MBA: Multifamily Mortgage Volume Rose 32% in 2025",
@@ -62,12 +107,12 @@
       "cat": "Commercial",
       "date": "2026-08-17T17:01:24+00:00",
       "bullets": [
-        "Multifamily mortgage volume rose 32% YoY in 2025 to $381.8B across 2,530 lenders.",
-        "GSEs (Fannie Mae, Freddie Mac) captured 40% by dollar volume; JPMorgan Chase, Wells Fargo led top five.",
-        "Rate stability and clearer pricing expectations drove increased refinancing and acquisition activity."
+        "Multifamily mortgage volume surged 32% YoY to $381.8B in 2025; 2,530 active lenders",
+        "GSEs (Fannie/Freddie) captured 40% of volume; top 5 lenders: JPMorgan, Wells Fargo, Walker & Dunlop, Berkadia, CBRE",
+        "Rate stability and pricing clarity drove refinancing and acquisition activity throughout 2025"
       ],
-      "summary": "The Mortgage Bankers Association reported multifamily mortgage originations totaled $381.8 billion in 2025, a 32% increase over 2024, across 2,530 lenders. GSEs underwrote 40% of total volume, with JPMorgan Chase, Wells Fargo, Walker & Dunlop, Berkadia, and CBRE rounding out the top five. The spike was attributed to greater rate stability and improved pricing visibility that brought borrowers and lenders back to market for refinancing and acquisitions.",
-      "impact": "Sharp rebound in multifamily lending capital availability and volume de-risks new development underwriting and refinance assumptions; stable rates and normalized spread pricing enable developers to lock construction and bridge loans at predictable costs. Indicates SOFR and rate uncertainty have largely cleared—a green light for pipeline acceleration and new starts throughout 2025–2026, especially in supply-constrained markets where acquisition and replacement of aging stock are economically justified."
+      "summary": "The Mortgage Bankers Association reported that multifamily mortgage originations reached $381.8 billion in 2025, a 32% increase over 2024, with 2,530 different lenders active across the market. Government-sponsored enterprises (Fannie Mae and Freddie Mac) accounted for 40% of total dollar volume. Greater rate stability and clearer pricing expectations supported increased refinancing and acquisition activity, with JPMorgan Chase, Wells Fargo, Walker & Dunlop, Berkadia, and CBRE ranking as the top five lenders by volume.",
+      "impact": "Strong 32% YoY growth in multifamily lending signals robust capital availability and improved refinancing conditions; GSE dominance (40%) indicates agency appetite remains strong and floors competitive pricing; acquisition activity surge creates opportunities for developers to source construction financing and refinance stabilized assets; however, monitor spreads and floating-rate terms as rate volatility returns—stable pricing window may narrow, affecting new-start underwriting and mezzanine structures."
     },
     {
       "title": "Common Group Unveils Goodyear Retail Center Plans",
@@ -77,12 +122,12 @@
       "cat": "Commercial",
       "date": "2026-08-17T16:48:32+00:00",
       "bullets": [
-        "Common Bond Development Group launching grocery-anchored retail center in master-planned Estrella community, Goodyear, Arizona.",
-        "Phase one: 35,224 SF including 23,024 SF Sprouts Farmers Market, 9.2K SF inline retail, 3K SF pad.",
-        "Groundbreaking targeted Q1 2027; future phase two adds 16K–20K SF retail and restaurant along lake."
+        "Common Bond Development Group unveils Goodyear retail center in Estrella master-plan; Sprouts anchor",
+        "Phase 1: 35.2k SF with 23k SF Sprouts, 9.2k inline retail, 3k pad; Phase 2 planned 16–20k SF",
+        "Groundbreak Q1 2027; maritime-themed design; signals continued retail density in Goodyear West Valley corridor"
       ],
-      "summary": "Common Bond Development Group, Harvard Investments, and anchor tenant Sprouts Farmers Market are developing a grocery-anchored shopping center in Goodyear, Arizona's master-planned Estrella community. Phase one comprises 35,224 square feet with Sprouts as anchor, inline retail, and a standalone pad, targeted to break ground in Q1 2027. A future lake-fronting phase two will add 16,000 to 20,000 square feet of retail and restaurant uses.",
-      "impact": "Minimal direct multifamily relevance, but Estrella is a fast-growing master-planned community attracting younger families and working-age renters; strong retail/commercial anchoring in the trade area signals developer confidence in demographic trajectory and purchasing power. Retail success here may inform site selection for multifamily within or near Estrella, as new commercial nodes reduce car-dependence and increase local amenity appeal—key factors for lease-up velocity in Phoenix's sprawling suburban markets."
+      "summary": "Common Bond Development Group revealed plans for a grocery-anchored retail center in Estrella, Goodyear, Arizona, developed in partnership with Harvard Investments and anchored by Sprouts Farmers Market. Phase one totals 35,224 square feet, including a 23,024-square-foot Sprouts, 9,200 square feet of inline retail, and a 3,000-square-foot pad. A future phase will add 16,000 to 20,000 square feet of retail and restaurant space along the lake. Groundbreaking is targeted for Q1 2027.",
+      "impact": "Retail-anchored mixed-use development in Estrella confirms continued westward population and commercial density migration in Phoenix metro; developers should evaluate nearby multifamily opportunities in Goodyear's retail corridors as retail anchors typically precede or co-locate with residential build-out; master-planned community amenities (yacht club, residents' club, lake) support rental demand for workforce and active-adult housing in the trade area."
     },
     {
       "title": "Developer Plans 297 Housing Units Across From Downtown Brooklyn Macy’s Project",
@@ -92,57 +137,12 @@
       "cat": "Commercial",
       "date": "2026-08-17T16:38:18+00:00",
       "bullets": [
-        "Shimon Klein filed plans for 297 residential units across three 99-unit buildings, Downtown Brooklyn, Fulton Street.",
-        "Project at 485 Fulton Street: 27-story tower with 99 units; Klein likely pursuing 485-x tax abatement to avoid wage requirements.",
-        "Positioned directly across from Macy's retail redevelopment; targeted commercial/community facility space plus 3K SF rooftop."
+        "Shimon Klein files 99-unit residential tower at 485 Fulton Street; 27-story building across from Macy's redevelopment",
+        "Unit-count structured to avoid 485-x tax abatement wage requirement; commercial/community facility space included",
+        "Positioning avoids construction-wage mandate; signals developer cost sensitivity and development economics pressure in Downtown Brooklyn"
       ],
-      "summary": "Local developer Shimon Klein filed Department of Buildings applications for three separate 99-unit residential towers totaling 297 units along Fulton Street in Downtown Brooklyn, between Bridge and Lawrence streets. The lead property at 485 Fulton would be a 27-story building configured to exploit the city's 485-x tax abatement program, which avoids prevailing wage requirements for projects under 100 units. The site sits directly across from the Macy's retail redevelopment and includes commercial/community facility space.",
-      "impact": "Klein's filing structure signals developer strategy to avoid NYC prevailing wage thresholds—a key cost lever for feasibility in expensive Brooklyn markets. Clustering 99-unit buildings suggests builder expects strong demand and rent growth justified by proximity to Macy's retail anchor and Fulton Street's transit hub. Tax abatement arbitrage and phased delivery can improve IRRs; success here will validate Downtown Brooklyn's ability to absorb new luxury/middle-market supply post-pandemic, reinforcing capital competition for infill sites in the borough."
-    },
-    {
-      "title": "Wind Energy Supplier Inks Lease at Brookshire Industrial Park",
-      "link": "https://www.connectcre.com/stories/wind-energy-supplier-inks-lease-at-brookshire-industrial-park/",
-      "excerpt": "Vestas-American Wind Technology leased approximately 131,300 square feet of space at Enterprise Park at Twinwood in Brookshire, Texas. The Class A industrial warehouse and office facility sits on approximately 17 acres and will support Vestas&#8217; spare parts distribution and operations across North America. JLL’s Louis Rosenthal, Graham Horton, Cayla Wardenburg and Eric Turner represented Vestas-American Wind Technology in the transaction. Bill Gold and Faron Wiley of CBRE represented the landlord, Twinwood Industrial Owner LLC. Vestas-American Wind Technology is the North American division of Vestas, a leading provider of sustainable energy solutions and one of the world&#8217;s largest wind turbine manufacturers. The company designs, manufactures, installs and services wind energy systems. The new Brookshire facility will strengthen Vestas&#8217; spare parts distribution network, allowing the company to better support its growing wind turbine distribution to meet demand for customers throughout the region. The post Wind Energy Supplier Inks Lease at Brookshire Industrial Park appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-17T16:29:53+00:00",
-      "bullets": [
-        "Vestas-American Wind Technology leased 131,300 SF at Enterprise Park at Twinwood, Brookshire, Texas.",
-        "Facility supports spare parts distribution and North American operations for global wind turbine manufacturer.",
-        "Class A industrial warehouse on 17 acres strengthens Vestas' supply-chain footprint near Houston market."
-      ],
-      "summary": "Vestas-American Wind Technology, the North American division of global wind turbine manufacturer Vestas, leased approximately 131,300 square feet of Class A industrial warehouse and office space at Enterprise Park at Twinwood in Brookshire, Texas. The facility will serve as a spare parts distribution and operations hub to support growing wind turbine demand across the region. JLL and CBRE represented both tenant and landlord.",
-      "impact": "Minimal direct multifamily impact, but Vestas' regional HQ and distribution expansion signals energy-sector job growth in Greater Houston; manufacturing and supply-chain employment typically drives housing demand among middle-income workers. Industrial growth in Brookshire corridor may attract speculative multifamily development in nearby submarkets (Tomball, Magnolia) where commute times remain reasonable and affordable rental stock is limited—creating long-term demand tailwinds for outland infill and new-build communities."
-    },
-    {
-      "title": "Avelo Airlines Reveals First McKinney National Airport Flights",
-      "link": "https://www.connectcre.com/stories/avelo-airlines-reveals-first-mckinney-national-airport-flights/",
-      "excerpt": "McKinney National Airport’s new $79 million commercial passenger terminal is on track to start hosting flights starting in November. Avelo Airlines will launch the first-ever commercial passenger service at McKinney National Airport (DTX) on November 11, 2026. The low-cost carrier is establishing a local base with two Boeing 737 aircraft, offering nonstop flights to Las Vegas and four Florida destinations. The facility includes a 45,000-square-foot terminal with four initial gates, expanded vehicle parking, and upgraded ramp/taxiway infrastructure. Construction of the commercial terminal began in 2025. McKinney will be the third commercial airport in the DFW, along with Dallas Fort Worth International Airport and Dallas Love Field. Avelo Airlines, Inc. is an American ultra-low-cost airline headquartered in Houston, Texas. It previously operated charter flights as Casino Express Airlines and Xtra Airways before transitioning to scheduled operations and rebranding as Avelo Airlines on April 8, 2021. The post Avelo Airlines Reveals First McKinney National Airport Flights appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-17T16:04:06+00:00",
-      "bullets": [
-        "Avelo Airlines launches first commercial service at McKinney National Airport on November 11, 2026.",
-        "New $79M, 45,000 SF terminal with four gates; Avelo basing two Boeing 737s with flights to Las Vegas and four Florida cities.",
-        "McKinney becomes third commercial airport in DFW; terminal construction began 2025."
-      ],
-      "summary": "McKinney National Airport's new $79 million commercial passenger terminal will open with Avelo Airlines service beginning November 11, 2026. The ultra-low-cost carrier is establishing a local base with two Boeing 737 aircraft, offering nonstop flights to Las Vegas and four Florida destinations. The 45,000-square-foot facility includes four initial gates, expanded parking, and improved ramp/taxiway infrastructure. McKinney will become the third commercial airport serving the Dallas-Fort Worth metropolitan area.",
-      "impact": "New low-cost carrier service expands airport access for North Dallas residents and businesses, reducing friction for leisure and business travel. This can accelerate residential demand in McKinney and surrounding Collin County submarkets by attracting relocating professionals and expanding corporate footprints; improved air connectivity historically boosts multifamily lease-up velocity and rent growth in previously car-dependent exurban markets. Developer should monitor Avelo route expansion and corporate tenant recruitment around DTX to identify emerging demand nodes for acquisition or development."
-    },
-    {
-      "title": "Spirit Airlines Dania Beach HQ Sells at Auction for $93.25M",
-      "link": "https://www.connectcre.com/stories/spirit-airlines-dania-beach-hq-sells-at-auction-for-93-25m/",
-      "excerpt": "Spirit Airlines&#8217; shuttered headquarters building in Dania Beach was acquired at auction for $93.25 million. A Hill City Capital affiliate was the buyer of the office campus, totaling over 600,000 square feet. The facility was delivered just two years ago. The campus covered more than 11 acres and comprised four buildings, including corporate offices, an amenity building, a crew-training facility with flight simulators and corporate housing. The low-cost carrier shut down abruptly on May 2 after a last-minute bailout from the federal government failed to materialize. About 17,000 employees lost their jobs. With the airline no longer operating, its bankruptcy estate began monetizing its remaining assets. That includes aircraft, equipment, airport-related assets and real estate. Hill City Capital is a Boston-based investment firm and hedge fund founded in 2020. It manages roughly $4.9 billion in discretionary assets focusing on concentrated, long-biased equity strategies within sectors like industrials, transportation, and business services The post Spirit Airlines Dania Beach HQ Sells at Auction for $93.25M appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-17T14:57:46+00:00",
-      "bullets": [
-        "Spirit Airlines headquarters campus in Dania Beach, Florida sold at auction for $93.25M to Hill City Capital affiliate.",
-        "600,000+ SF, 11-acre campus with four buildings (offices, crew training, corporate housing) delivered just two years prior.",
-        "Spirit ceased operations May 2, 2024; bankruptcy estate monetizing assets including real estate."
-      ],
-      "summary": "Spirit Airlines' headquarters campus in Dania Beach, Florida—comprising over 600,000 square feet across four buildings on 11 acres—was acquired at auction by a Hill City Capital affiliate for $93.25 million. The newly delivered facility included corporate offices, amenity building, crew-training facility with flight simulators, and corporate housing. Spirit shut down abruptly on May 2, 2024, after a federal bailout failed, idling 17,000 employees and triggering bankruptcy asset monetization.",
-      "impact": "Massive office/industrial asset in South Florida real estate market now in distressed liquidation; Hill City's acquisition suggests repositioning intent (e.g., industrial conversion, logistics, or spec office sublease). Sudden loss of 17,000 jobs in Broward/Miami-Dade creates near-term headwind for residential leasing velocity and rent growth, as displaced workers reduce new household formation and household income. However, distressed asset sales often presage value-add opportunities; monitor if Hill City converts or redevelops the campus, which could stabilize regional employment and support medium-term multifamily absorption in Dania Beach and west Broward submarkets."
+      "summary": "Local developer Shimon Klein filed plans with the NYC Department of Buildings for a 99-unit residential tower at 485 Fulton Street in Downtown Brooklyn, directly across from a major retail renovation at the former Macy's. The 27-story building will feature residential units on floors 3–27, with commercial and community facility space, plus 3,000 square feet of rooftop amenity area. The 99-unit filing structure suggests Klein intends to utilize the city's 485-x tax abatement program to avoid the construction wage requirement mandated for projects with 100 or more units.",
+      "impact": "Unit-count ceiling to circumvent 485-x wage requirements signals tight project economics in Downtown Brooklyn and developer caution on labor-cost burden; adjacent Macy's redevelopment retail anchor may support ground-floor retail leasing but indicates prolonged commercial uncertainty; residential approval and delivery timing tied to retail activation will be critical to absorption—monitor site for financing and entitlement delays that often accompany retail-dependent mixed-use projects in challenged secondary CBD corridors."
     },
     {
       "title": "Payments Manager Corpay Cross-Border Relocates to 18K SF at 560 Lexington Avenue",
@@ -152,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-08-17T14:46:13+00:00",
       "bullets": [
-        "Corpay Cross-Border Solutions signed 11-year lease for 17,778 SF at Rudin's 560 Lexington Avenue, Manhattan.",
-        "Company relocating headquarters from Tishman Speyer's 300 Park Avenue; move-in fall 2025.",
-        "Recent comps at 560 Lexington at $84/SF; tenant occupies full 17th floor with prebuilt office."
+        "Corpay Cross-Border signs 11-year lease; 17,778 SF at Rudin's 560 Lexington Avenue; headquarters relocation",
+        "Relocating from 300 Park Avenue (Tishman Speyer); move-in fall 2025; asking rent ~$84/SF (Apr market)",
+        "International payments/currency-risk firm; prebuilt space with minimal TI; signals Plaza District office demand resilience"
       ],
-      "summary": "Corpay Cross-Border Solutions, an international payment and currency risk management firm, leased 17,778 square feet at Rudin's 560 Lexington Avenue (Plaza District, Manhattan) for 11 years. The company is relocating headquarters from Tishman Speyer's 300 Park Avenue and will occupy the entire 17th floor with prebuilt office. Comparable asking rents at the building were recently $84 per square foot; tenant plans occupancy in fall 2025.",
-      "impact": "Minimal direct multifamily signal, but Corpay's Midtown lease renewal and tower selection reflects stabilization of Manhattan's Class A office market and return of corporate tenancy confidence. Successful pre-built office and rapid lease-up at Plaza District validates Rudin's strategy; sustained office tenant morale and occupancy can support adjacent and nearby multifamily by maintaining CBD employment base and worker commuting patterns. However, office-to-residential conversion remains a longer-term alternative if office demand falters again."
+      "summary": "Corpay Cross-Border Solutions, an international payments and currency risk management firm, signed an 11-year lease for 17,778 square feet on the entire 17th floor of Rudin's 560 Lexington Avenue in Manhattan's Plaza District. The company is relocating from Tishman Speyer's 300 Park Avenue with a planned move-in in fall 2025. The asking rent was approximately $84 per square foot (as of April market), and Rudin's prebuilt space required minimal tenant improvements to meet Corpay's timeline.",
+      "impact": "Midtown Plaza District office lease of 17.7k SF to financial-services firm signals selective institutional tenant demand outside Midtown South/Hudson Yards; however, fintech/payments processing is lower headcount-per-SF than traditional office, limiting downstream residential demand; lease validates Rudin's asset management and prebuilt strategy but represents localized tenant move rather than net job creation—developers should not assume office leasing strength translates to broad Manhattan multifamily demand without measuring net employment growth in source and destination buildings."
     },
     {
       "title": "John McCullough of Kennedy Wilson Multifamily Development: 5 Questions",
@@ -167,12 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-17T12:00:23+00:00",
       "bullets": [
-        "Kennedy Wilson acquired Toll Brothers apartment living platform for $347M in 2025; McCullough named president of multifamily development.",
-        "Acquisition includes GP interests in 18 apartment/student housing properties ($2.2B AUM) and 29-site development pipeline.",
-        "Toll Brothers' entire apartment management team transitioned under McCullough's leadership."
+        "Kennedy Wilson acquired Toll Brothers apartment platform for $347M; $2.2B AUM; John McCullough leads",
+        "Acquisition includes GP interests in 18 apartment/student-housing properties; pipeline of 29 development sites",
+        "Entire Toll management team transitioned; McCullough now president of multifamily development group"
       ],
-      "summary": "Kennedy Wilson completed a $347 million acquisition of Toll Brothers' apartment living platform in 2025, with John McCullough appointed president of the firm's multifamily development group. The deal includes general partner interests in 18 apartment and student housing properties with $2.2 billion in assets under management, plus a pipeline of 29 development sites in various stages of construction. Toll Brothers' entire apartment management team transitioned to Kennedy Wilson under McCullough's leadership.",
-      "impact": "Significant industry consolidation signal: major institutional platform acquisition indicates capital appetite and confidence in multifamily fundamentals despite rate uncertainty in late 2024–early 2025. Kennedy Wilson's integration of Toll Brothers' 29-site pipeline accelerates delivery into tight markets; new ownership/operator transitions often unlock value through cost reduction and capital redeployment. Monitor McCullough's development strategy and site dispositions—pipeline rationalization and strategic redirection could reshape competitive dynamics in core markets and signal where institutional capital expects strongest returns in next 2–3 years."
+      "summary": "Kennedy Wilson completed its $347 million acquisition of Toll Brothers' apartment living platform, gaining general partner interests in 18 apartment and student housing properties totaling $2.2 billion in assets under management and a pipeline of 29 development sites in various stages of construction. John McCullough, who previously led apartment living operations at Toll Brothers, transitioned to Kennedy Wilson as president of the firm's multifamily development group, overseeing all U.S. development operations. The entire Toll management team moved to Kennedy Wilson under McCullough's leadership.",
+      "impact": "Strategic acquisition consolidates ~29 development sites under single operator and signals Kennedy Wilson's capital deployment into multifamily development at scale; pipeline concentration may reduce competitive lot availability in markets where Toll was active (particularly Sun Belt/West); monitor Kennedy Wilson's start timeline and capital allocation—large pipeline under single ownership can accelerate or defer deliveries, affecting submarket supply and rental rate pressure in affected metros; merger of management teams may also signal potential site sales or joint-venture activity if capital constraints emerge."
     }
   ]
 }
