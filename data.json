@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-17T14:18:48.882795+00:00",
+  "fetchedAt": "2026-08-17T15:17:25.568618+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -10,20 +10,80 @@
     {
       "label": "10Y Treasury",
       "value": "4.70%",
-      "pct": 0.13
+      "pct": 0.09
     },
     {
       "label": "30Y Treasury",
       "value": "5.28%",
-      "pct": 0.27
+      "pct": 0.32
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "97.86",
-      "pct": -0.98
+      "value": "97.85",
+      "pct": -0.99
     }
   ],
   "stories": [
+    {
+      "title": "Payments Manager Corpay Cross-Border Relocates to 18K SF at 560 Lexington Avenue",
+      "link": "https://commercialobserver.com/2026/08/corpay-cross-border-lease-rudin-560-lexington-avenue/",
+      "excerpt": "An international payment and currency risk management firm is planning a headquarters relocation to Rudin’s 560 Lexington Avenue. Corpay Cross-Border Solutions, which operates under corporate payments company Corpay, has signed an 11-year lease for 17,778 square feet at the Plaza District tower, Commercial Observer has learned. The landlord declined to provide the asking rent, but an April lease inside Rudin’s 22-story tower asked $84 per square foot, according to previous CO reports. Jacob Rosenthal and Kevin Carroll of CBRE represented Corpay, while Rudin was represented in-house by Kevin Daly and a CBRE team of Peter Turchin, Brett Shannon, Eric Deutsch and Lauren Levy. Corpay Cross-Border plans to move from Tishman Speyer&#8216;s 300 Park Avenue into its new, prebuilt office, which occupies the entire 17th floor of 560 Lexington, this fall. Daly, Rudin’s vice president of office leasing, stated that the deal validates recent portfolio investments, which allowed for minimal modifications to meet Corpay’s space requirements. “This allowed us to accommodate their accelerated timeline for move-in, which was a big factor in getting the deal done,” Daly said. Located two blocks from Grand Central Terminal, the 380,000-square-foot office building at the corner of Lexington Avenue and East 50th Street has seen over 91,000 square feet of leasing activity in the last six months, according to Rudin. Recent arrivals include financial firm Marex, hedge fund SummitTX and coworking firm Industrious. Spokespeople for CBRE and Corpay Cross-Border did not immediately respond to requests for comment. Emily Davis can be reached at edavis@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-17T14:46:13+00:00",
+      "bullets": [
+        "Corpay Cross-Border relocates HQ to 560 Lexington, 17,778 SF, 11-year lease at ~$84/SF",
+        "Move from 300 Park Avenue signals tenant confidence in Plaza District office market recovery",
+        "Rudin's pre-built space enabled accelerated fall move-in, reducing landlord capex risk"
+      ],
+      "summary": "Corpay Cross-Border Solutions signed an 11-year lease for 17,778 square feet at Rudin's 560 Lexington Avenue in Manhattan's Plaza District at approximately $84 per square foot, relocating from Tishman Speyer's 300 Park Avenue. The pre-built, move-in-ready space on the 17th floor accommodated the tenant's accelerated timeline with minimal modifications. The deal validates Rudin's recent portfolio investments and signals selective demand recovery in Midtown Manhattan office.",
+      "impact": "Office leasing activity in Midtown Manhattan Plaza District supports downtown stabilization and reduces downward rent pressure that would otherwise compress valuation multiples across NYC real estate. However, this is office-focused with limited direct multifamily demand signal; note that office capital redeployment toward residential conversions remains a longer-term play."
+    },
+    {
+      "title": "Charlotte Apartments Trade for $76.3M",
+      "link": "https://www.connectcre.com/stories/charlotte-apartments-trade-for-76-3m/",
+      "excerpt": "Tishman Speyer made its first foray into the Charlotte market, purchasing Berkshire Dilworth, a 296-unit luxury multifamily property between West Midtown and the historic Dilworth neighborhood. Berkshire Residential was the seller of the asset, which traded for $76.3 million, or just over $250,000 a unit. Berkshire Dilworth, located at 1351 E. Morehead St., is 97 percent occupied. The unit mix includes studios and one- to three-bedroom floorplans with an average size of 856 square feet. Interior amenities at Berkshire Dilworth comprise a 24-hour fitness center, a yoga studio, a resident lounge, coworking spaces, a clubhouse and a rooftop lounge with a fireplace. Outdoor offerings include a swimming pool, a sundeck and a terrace lounge. The community also includes 3,000 square feet of street-level retail. Tishman Speyer is planning to upgrade the property’s amenities and exterior, along with select apartment improvements. Newmark’s John Heimburger, Dean Smith and Sean Wood represented Berkshire Residential. The post Charlotte Apartments Trade for $76.3M appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-17T14:25:09+00:00",
+      "bullets": [
+        "Tishman Speyer acquires Berkshire Dilworth, 296-unit luxury apt, Charlotte for $76.3M ($257K/unit)",
+        "97% occupied, 856 SF avg, mixed unit types; includes 3,000 SF retail; property 97% leased",
+        "Value-add play: amenity and exterior upgrades planned post-acquisition"
+      ],
+      "summary": "Tishman Speyer made its first Charlotte acquisition, purchasing the 296-unit luxury Berkshire Dilworth in West Midtown/Dilworth neighborhood for $76.3 million, or approximately $257,000 per unit. The property is 97% occupied with an average unit size of 856 square feet across studios through three-bedrooms. Tishman Speyer plans selective amenity, exterior, and unit-level upgrades.",
+      "impact": "Major institutional capital entry into Charlotte multifamily signals market maturation and rent growth confidence in the submarket. Tishman Speyer's acquisition at $257K/unit suggests value-add thesis is still viable; expect downward pressure on Class-B/C land and development pricing as large operators enter and bidding competition intensifies. Demand fundamentals (job growth, in-migration) likely strong enough to justify entry by top-tier operator."
+    },
+    {
+      "title": "Investor Team Pays $91.8M for 2 Charlotte Office Buildings",
+      "link": "https://www.connectcre.com/stories/investor-team-pays-91-8m-on-2-charlotte-office-buildings/",
+      "excerpt": "Corebridge Real Estate Investors and Crestlight Capital acquired two buildings in The Station at LoSo mixed-use project in Charlotte. Commercial Search reports that the group paid $91.8 million for the assets, which consist of 200,000 square feet of space. Beacon Partners was the seller. At the time of sale, the buildings were 90 percent leased. JLL’s Ryan Clutter, Mike McDonald, Daniel Flynn and Director CJ Liuzzo led the Capital Markets’ Investment Sales and Advisory team that worked on behalf of Beacon Partners. Located at 3600 and 3700 South Blvd., Station 3 and Station 4 represent the first phase of a roughly 15-acre, master-planned development. Slated to come online in three phases, Beacon Partners’ project also includes MAA LoSo and Ello House, two communities totaling 693 units. Future phases will bring online Station 1 and 2, two additional office buildings set to total roughly 1 million square feet, as well as a 350-unit community expected to break ground this year. The post Investor Team Pays $91.8M for 2 Charlotte Office Buildings appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-17T13:53:56+00:00",
+      "bullets": [
+        "Corebridge Real Estate & Crestlight Capital buy 2 Charlotte office buildings, Station 3 & 4, $91.8M for 200K SF",
+        "Station LoSo mixed-use: 90% leased; phases 1–3 include 693 apt units (MAA LoSo, Ello House) + 350-unit community breaking ground this year",
+        "Future phases: 1M+ SF office, making LoSo a major live-work-play hub in Charlotte"
+      ],
+      "summary": "Corebridge Real Estate Investors and Crestlight Capital acquired Station 3 and Station 4 office buildings at The Station at LoSo mixed-use development in Charlotte for $91.8 million, totaling 200,000 square feet at 90% occupancy. The roughly 15-acre master-planned project includes 693 existing apartment units (MAA LoSo and Ello House) and is slated to add a 350-unit community breaking ground this year, with future office phases totaling approximately 1 million square feet.",
+      "impact": "Station LoSo's mixed-use model demonstrates institutional confidence in Charlotte's live-work-play demand; the planned 350-unit phase and additional 1M SF of office create a flywheel of tenant stacking and demand density. This de-risks future multifamily phases and signals sustained rent growth and pre-leasing potential. Developers should monitor LoSo's absorption and phase timing—strong absorption would validate Charlotte's job/population fundamentals and increase land pricing in competing South Boulevard submarket locations."
+    },
+    {
+      "title": "NRP Advancing 312-Unit Port St. Lucie Apartment Venture",
+      "link": "https://www.connectcre.com/stories/nrp-advancing-312-unit-port-st-lucie-apartment-venture/",
+      "excerpt": "The NRP Group broke ground on its newest luxury apartment community, a 312-unit development within the 10,000-acre Tradition master-planned community at 13661 SW Village Parkway in Port St. Lucie. M&amp;T Bank provided construction financing. Group 4 Architecture designed the project. This marks The NRP Group&#8217;s second development closing in Florida this year. Situated on approximately 18 acres, the development consists of 10, 3-story buildings offering a mix of one-, two- and three-bedroom apartment homes ranging from approximately 720 to 1,300 square feet. Every residence will include either a private balcony or a fenced ground-floor yard. Amenities include a 24-hour fitness center with both strength and cardio equipment, a swimming pool, coworking suites and dedicated work-from-home offices, a multipurpose resident lounge with a full kitchen, package concierge and storage facilities, outdoor grilling areas, as well as landscaped courtyards and gathering spaces. Completion is scheduled for summer 2028. The post NRP Advancing 312-Unit Port St. Lucie Apartment Venture appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-17T13:37:43+00:00",
+      "bullets": [
+        "NRP Group breaks ground on 312-unit luxury apt, Port St. Lucie (Tradition master-plan), M&T Bank financing",
+        "18 acres, 10 buildings, 3-story, 720–1,300 SF units; full amenity suite with coworking/work-from-home focus",
+        "NRP's second Florida closing in 2025; strong demand signal in 55+ growth corridor"
+      ],
+      "summary": "The NRP Group broke ground on a 312-unit luxury apartment community within the 10,000-acre Tradition master-planned community in Port St. Lucie, financed by M&T Bank. The 18-acre development comprises ten 3-story buildings with one-, two-, and three-bedroom units ranging from 720 to 1,300 square feet, including amenities such as fitness, pool, coworking, and dedicated work-from-home offices. This marks NRP's second Florida development close in 2025.",
+      "impact": "Port St. Lucie's continued buildout signals sustained demand from retirees and remote workers migrating to Florida's lower-cost alternatives to Miami/South Florida. M&T Bank's construction financing appetite confirms market creditworthiness. NRP's repeat capital deployment in Florida this year indicates strong absorption and rent growth expectations; developers should monitor Tradition absorption rates and pricing to calibrate competing West Palm Beach/Port St. Lucie land strategies."
+    },
     {
       "title": "John McCullough of Kennedy Wilson Multifamily Development: 5 Questions",
       "link": "https://commercialobserver.com/2026/08/john-mccullough-kennedy-wilson-multifamily-development-5-questions/",
@@ -32,12 +92,12 @@
       "cat": "Commercial",
       "date": "2026-08-17T12:00:23+00:00",
       "bullets": [
-        "Kennedy Wilson acquired Toll Brothers' apartment platform for $347M in 2025; assumes $2.2B AUM.",
-        "Pipeline includes 29 development sites across various construction stages; 18 existing apartment/student housing properties.",
-        "McCullough leads multifamily development group; entire Toll Brothers apartment team transitioned to Kennedy Wilson."
+        "Kennedy Wilson acquires Toll Brothers apartment platform for $347M (2025); John McCullough named president",
+        "18 properties, $2.2B AUM, 29-site development pipeline; full Toll Bros. management team transferred",
+        "Signals major capital commitment to multifamily development and operational consolidation"
       ],
-      "summary": "Kennedy Wilson completed its $347 million acquisition of Toll Brothers' apartment living platform, gaining control of 18 operational apartment and student housing properties ($2.2B AUM) and a 29-site development pipeline. John McCullough, former head of apartment operations at Toll Brothers, now leads Kennedy Wilson's multifamily development group and oversaw the team transition. The deal consolidates significant development capacity and operating assets under unified management.",
-      "impact": "Toll Brothers' exit from multifamily development narrows the competitive landscape for large-scale development; Kennedy Wilson's expanded pipeline and AUM signals capital availability for ground-up development and value-add repositioning across major markets. Watch for where the 29 pipeline sites are concentrated—likely signals institutional deployment priorities and potential supply inflection points in those submarkets."
+      "summary": "Kennedy Wilson acquired Toll Brothers' entire apartment living platform for $347 million, bringing general partner interests in 18 apartment and student housing properties with $2.2 billion in assets under management, plus a pipeline of 29 development sites. John McCullough, formerly head of apartment operations at Toll Brothers, leads the multifamily development group, and the entire Toll Brothers apartment management team transitioned to Kennedy Wilson.",
+      "impact": "This $347M acquisition signals major capital reallocation into multifamily development and operational platforms; Kennedy Wilson's 29-site pipeline creates a meaningful competitive presence across markets. Developers should track which markets and project types Kennedy Wilson prioritizes within its pipeline—this will indicate capital flight away from certain geographies and potential inventory increases in others, affecting land competition and cap rates."
     },
     {
       "title": "Southern Land Company Hires Tony Marchbanks as Head of Homebuilding",
@@ -47,12 +107,12 @@
       "cat": "Commercial",
       "date": "2026-08-17T11:00:22+00:00",
       "bullets": [
-        "Tony Marchbanks joins Southern Land Co. as national president of homebuilding; 30 years industry experience.",
-        "Focus: Tennessee, Texas, Colorado; Marchbanks previously launched 1,000-home/year program at Highland Homes (Houston).",
-        "Insight: Most builders locked lot supply 3 years ago; current oversupply creates M&A and consolidation opportunity."
+        "Southern Land Company hires Tony Marchbanks as national president of homebuilding; 30 yrs real estate experience",
+        "Focus on Tennessee, Texas, Colorado; Marchbanks launched 1,000 homes/year at Highland Homes (Houston)",
+        "Leadership signals expansion in Texas amid higher rates, lack of job growth; lot oversupply creating acquisition opportunity"
       ],
-      "summary": "Southern Land Company hired Tony Marchbanks, former Highland Homes COO, as national president of homebuilding to drive expansion in Tennessee, Texas, and Colorado. Marchbanks noted that higher rates, weak job growth, and low consumer confidence create headwinds broadly, but represent opportunity for well-capitalized operators. Most competitors secured lot supplies three years ago and now carry excess inventory, creating competitive advantage for Southern Land's expansion into Texas—the nation's largest new home market.",
-      "impact": "Single-family builder consolidation and lot repositioning (Texas especially) signals capital efficiency and land-cost deflation in key Sun Belt markets. For multifamily: builder distress and lot oversupply may lower raw land valuations in Texas/Tennessee/Colorado, improving development margins for apartment projects competing for similar suburban and infill locations. Weak consumer confidence also dampens housing demand broadly—an indirect signal that multifamily rental demand may accelerate as affordability-conscious household formation favors leasing over ownership."
+      "summary": "Southern Land Company appointed Tony Marchbanks as national president of homebuilding, focusing development in Tennessee, Texas, and Colorado. Marchbanks brings 30 years of real estate experience and previously served as COO at Highland Homes, where he launched production of 1,000 homes per year in Houston. He cited higher interest rates, weak job growth, and consumer confidence challenges as headwinds, but identified Texas's largest new-home market status and lot oversupply (from three-year-old purchases) as expansion opportunities.",
+      "impact": "Marchbanks' hire and Texas focus in a high-rate environment signals Southern Land's confidence in Texas population/migration fundamentals outweighing macro headwinds. Lot oversupply from 2022 purchases creates pricing opportunity for disciplined builders; this suggests land values in Texas may remain depressed longer than in supply-constrained markets, affecting multifamily land competition. Monitor whether single-family builder lot consolidation in Texas compresses multifamily land availability in key metros (Austin, Dallas, Houston)."
     },
     {
       "title": "How Trent Johnson, Brian Landrum at Harbert Management Corp. Invest in Senior Housing",
@@ -62,12 +122,12 @@
       "cat": "Commercial",
       "date": "2026-08-17T10:30:17+00:00",
       "bullets": [
-        "Harbert Management raised $510M seniors housing fund in 2020; currently on third fundraise.",
-        "15-year track record; first Baby Boomers turned 80 in 2016—demographic wave underway.",
-        "Trent Johnson, Brian Landrum co-lead $8B alternatives manager's seniors housing strategy."
+        "Harbert Management Corp. seniors housing team raises $510M fund (2020), now on third fundraise; 15-year track record",
+        "Baby Boomer wave: first cohort turned 80 in 2016; Harbert capitalized $210M (2016) and $510M (2020) funds",
+        "Asset class evolution and investment thesis tied to demographic tailwinds and operational consolidation"
       ],
-      "summary": "Harbert Management Corporation, an $8 billion alternatives asset manager, has invested in seniors housing for 15 years and raised $210 million (2016) and $510 million (2020) dedicated funds. The firm is now in its third fundraise to capitalize on Baby Boomers reaching age 80, which began in 2016. Co-heads Trent Johnson (legal background, investor since 2012) and Brian Landrum (from Fortress) lead the seniors housing team.",
-      "impact": "Institutional capital actively fundraising for seniors housing underscores strong conviction in demographic tailwinds and ROI potential in an aging-in-place market. For multifamily developers: seniors housing and assisted living represent a parallel asset class attracting institutional LP capital; the competitive landscape for land, construction labor, and financing may tighten in secondary markets where seniors housing and traditional rental development compete for sites. Monitor Harbert's deployment for signals on which metros/submarkets offer best risk-adjusted returns."
+      "summary": "Harbert Management Corporation's Trent Johnson and Brian Landrum co-head an $8 billion alternatives asset manager's seniors housing team, which has invested in the space for 15 years. The team raised a $210 million fund in 2016 and a $510 million fund in 2020, and is currently on its third fundraise. The strategy capitalizes on the first wave of Baby Boomers turning 80 in 2016 and the subsequent demographic tailwind in seniors housing.",
+      "impact": "This is outside core multifamily development but signals institutional capital confidence in seniors housing as a parallel asset class. The demographic wave (Boomers aging into 80s) creates a distinct demand cohort separate from workforce multifamily; developers should note that large capital allocators view seniors housing and age-restricted communities as complementary growth drivers to traditional rental apartments, potentially competing for prime land in 55+ markets and sunbelt retirement hubs."
     },
     {
       "title": "Sunday Summary: The Rent is Too Damn Low!",
@@ -77,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-08-16T13:00:15+00:00",
       "bullets": [
-        "Manhattan average rent hit $6,655/month in 2026; 10% YoY increase per Corcoran Sunshine.",
-        "Rent Guidelines Board froze one- and two-year stabilized lease rents in June 2026.",
-        "Policy risk: stabilized units losing money may be withheld from market; affordability crisis ongoing."
+        "Manhattan avg rent hit $6,655/month (Corcoran Sunshine), up 10% YoY; frozen rent-stabilized leases (June) via Rent Guidelines Board",
+        "Policy: rent freeze on 1–2 year stabilized leases; uncertainty if landlords lose money on stabilized units long-term",
+        "Affordability crisis persists despite freeze; risk of reduced new supply and landlord capital withdrawal"
       ],
-      "summary": "Manhattan's average monthly rent reached $6,655 in 2026, up 10% year-over-year, according to Corcoran Sunshine research. The Rent Guidelines Board issued a freeze on one- and two-year rent-stabilized leases in June 2026 to address affordability concerns. However, the freeze risks pushing landlords to keep stabilized units off the market if they become cash-flow negative, potentially worsening supply constraints and affordability.",
-      "impact": "Rent freeze on stabilized stock signals regulatory risk and potential supply withdrawal in Manhattan; multifamily developers will face stricter rent-control regimes and reduced incentive to maintain/upgrade legacy buildings, pushing institutional capital toward new construction (exempt from stabilization) and market-rate value-add repositioning. Expect accelerated conversion of Class B stabilized buildings to mixed-income or market-rate, and heightened competition for new development sites with favorable regulatory pathways (Brooklyn, Queens submarkets). Cap rates and NOI sensitivity to rent-control policy shifts will affect refinancing availability and investor appetite."
+      "summary": "According to Corcoran Sunshine research, Manhattan's average monthly rent reached $6,655, a 10% year-over-year increase. In June, New York's Rent Guidelines Board imposed a freeze on one- and two-year leases for rent-stabilized apartments. The article questions whether the freeze addresses broader affordability issues, particularly if landlords begin losing money on stabilized units and remove them from the market.",
+      "impact": "Rent stabilization freezes reduce economics on legacy stabilized inventory, creating inventory withdrawal risk and reducing supply-side flexibility. This policy uncertainty pressures new market-rate development as substitution plays; expect compressed value-add opportunities and higher new-construction rents to offset regulatory drag. Developers should avoid new construction in stabilized buildings and focus on market-rate opportunities; watch for landlord pressure to convert or exit stabilized stock, creating potential portfolio sales and rehabilitation opportunities."
     },
     {
       "title": "AI-Native Hanover Park Leases Full Floor at 387 Park Ave. South",
@@ -92,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-08-14T21:42:26+00:00",
       "bullets": [
-        "AI-native Hanover Park leased entire 10th floor (19,269 SF) at 387 Park Ave. South (TF Cornerstone).",
-        "PMG Worldwide renewed 2nd floor, expanded to 3rd floor; total footprint 38,744 SF.",
-        "Property logged 100K+ SF leasing in past year; strong demand from TAMI/tech tenants."
+        "Hanover Park (AI-native fund administrator) leases entire 10th floor, 19,269 SF at 387 Park Ave. South (Manhattan)",
+        "PMG Worldwide renews 2nd floor, expands to 3rd floor; 38,744 SF total; 100K+ SF leased in past year",
+        "TAMI tenant attraction and expansion signal sustained demand for office in South Park Avenue corridor"
       ],
-      "summary": "TF Cornerstone's 387 Park Avenue South in Manhattan signed Hanover Park (AI-native fund administrator) for the entire 10th floor (19,269 SF) and expanded its existing relationship with PMG Worldwide to include the entire second and third floors (38,744 SF total). The property has generated over 100,000 SF of leasing activity over the past year, with recent tenants including K Health and other TAMI (Technology, Advertising, Media, Information) users.",
-      "impact": "Strong office leasing velocity for TAMI/AI-native tenants signals sustained demand for Class A office space in Manhattan's Flatiron/NoMad submarket; however, office-to-multifamily conversion opportunities may emerge if office supply softens. For multifamily developers: co-tenanting patterns show concentrated AI/fintech hiring and expansion in Manhattan—ground-truth indicator of high-income household in-migration and rental demand in walkable, transit-rich neighborhoods. Monitor conversion projects in office-heavy submarkets."
+      "summary": "AI-native fund administrator Hanover Park signed a lease for the entire 10th floor (19,269 square feet) at TF Cornerstone's 387 Park Avenue South in Manhattan. PMG Worldwide renewed its second-floor lease and expanded into the entire third floor, bringing its total footprint to 38,744 square feet. The property has logged more than 100,000 square feet of leasing activity in the past year, following renewals and expansions by K Health and other TAMI users.",
+      "impact": "This is office-focused with limited direct multifamily demand signal; however, the 100K+ SF of leasing activity and TAMI tenant (high wage earner) concentration in South Park Avenue indicates sustained office demand recovery in Manhattan south of traditional Midtown, which could support nearby residential demand and rent growth in East Village/Gramercy submarkets. Office anchoring may stabilize Class-B residential asset values nearby."
     },
     {
       "title": "PMB, Loma Linda University Health Break Ground on Inpatient Rehab Hospital",
@@ -107,72 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-14T21:31:33+00:00",
       "bullets": [
-        "PMB and Loma Linda University Health broke ground on 80-bed inpatient rehab hospital; Redlands, CA.",
-        "99,000 SF, three-story facility; summer 2028 opening; Lifepoint Rehabilitation operates.",
-        "Harrison Street Asset Management provides financing; Layton Construction general contractor."
+        "PMB & Loma Linda University Health break ground on 80-bed inpatient rehab hospital, Redlands (San Bernardino County), 99K SF",
+        "Harrison Street Asset Management financing; Layton Construction GC; summer 2028 opening; Loma Linda transitions existing rehab unit",
+        "Healthcare real estate development in Inland Empire; signals institutional capital in medical facility expansion"
       ],
-      "summary": "PMB and Loma Linda University Health broke ground on a 99,000-square-foot, 80-bed inpatient rehabilitation hospital at 11207 New Jersey in Redlands, California. The three-story standalone facility is expected to open in summer 2028 and will be jointly operated by Loma Linda University Health and Lifepoint Rehabilitation. Financing is provided by Harrison Street Asset Management.",
-      "impact": "Healthcare real estate development in Inland Empire/Redlands signals institutional capital and healthcare operators entering secondary Sun Belt markets with aging demographic tailwinds. For multifamily developers: hospital and senior housing campuses generate ancillary demand (medical professionals, patient families, nearby service workers); ground-truth indicator of population growth and household formation in Redlands submarket. Monitor hospital workforce and supplier logistics for labor availability and construction cost inflation in the region."
-    },
-    {
-      "title": "Astoria Favorite :3Coffee Roasters Expands to Halletts Point",
-      "link": "https://www.connectcre.com/stories/astoria-favorite-3coffee-roasters-expands-to-halletts-point/",
-      "excerpt": "The Durst Organization has signed :3Coffee Roasters to a 1,232-square-foot lease for a new retail location at 30&nbsp;Halletts&nbsp;Point in Astoria, Queens. Expected to open later this year, the new shop marks an expansion for the family-owned business and its second Astoria location. It will also be the first retail at 20 and 30 Halletts Point, which opened last year with 647 apartments. “Halletts Point is a thriving community with spectacular views of Manhattan and Queens. As the neighborhood continues to grow, we are selecting retailers that will bring additional value to residents and neighbors alike, and we are excited to welcome :3Coffee Roasters,” said Jody Durst, president of The Durst Organization. :3Coffee Roasters was founded by Astoria residents Fabian Guzman and Andrea Gomez. The brand first opened on Steinway Street in Astoria and later expanded to the Flatiron District in Manhattan, building a following for their neighborhood-oriented approach and high-quality offerings. The Durst Organization was represented in-house by Karen Rose and Eric Engelhardt and by KSR’s Zach Nathan, Mark Gallucci, and Hunter Lazan. :3Coffee Roasters was represented by Genaro Otero at Sinvin. The post Astoria Favorite :3Coffee Roasters Expands to Halletts Point appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-14T21:22:37+00:00",
-      "bullets": [
-        ":3Coffee Roasters signed 1,232 SF lease at 30 Halletts Point (Astoria, Queens); Durst Organization landlord.",
-        "Second Astoria location for family-owned brand; first retail at 20/30 Halletts Point (647 apartments opened 2025).",
-        "Building: walkable waterfront community with Manhattan views; neighborhood-oriented retail strategy emerging."
-      ],
-      "summary": "The Durst Organization signed :3Coffee Roasters, a family-owned specialty coffee brand, to a 1,232-square-foot retail lease at 30 Halletts Point in Astoria, Queens. This marks the brand's second Astoria location and represents the first retail opening at the newly completed 20 and 30 Halletts Point buildings, which together delivered 647 apartments in 2025. The expansion reflects the neighborhood's maturation and Durst's strategy to attract neighborhood-oriented retailers.",
-      "impact": "Halletts Point retail activation signals strong early-stage absorption and resident willingness to pay premium rents for walkable, mixed-use waterfront amenities in Queens. For multifamily developers: the retail success (local, independent tenancy) validates demand for authentic, neighborhood-serving commercial in emerging outer-borough submarkets. Signals strong rent-paying capacity for nearby ground-up development and may accelerate further supply in Astoria waterfront; monitor absorption curves and demographic composition (high-income households driving specialty retail demand)."
-    },
-    {
-      "title": "CBRE Arranges Debt on Advanced Manufacturing Campus in San Jose’s Golden Triangle",
-      "link": "https://www.connectcre.com/stories/cbre-arranges-debt-on-advanced-manufacturing-campus-in-san-joses-golden-triangle/",
-      "excerpt": "CBRE announced it arranged $67.4 million in financing for Forge North First, a mixed-phase industrial/R&amp;D campus and advanced manufacturing development in San Jose&#8217;s Golden Triangle submarket. Mike Walker, Brad Zampa and Andy Gross of CBRE&#8217;s Debt &amp; Structured Finance team in San Francisco arranged the five-year bridge loan with floating-rate, non-recourse financing from an institutional lender on behalf of Four Corners Properties and a West Coast-based institutional investor. “The combination of surging occupier demand and extremely limited supply positions Four Corners to create significant value at Forge North First,” said Zampa. Four Corners, an established local investor and developer founded in 2005, has invested in 50 buildings totaling 7.2 million square feet. In January 2026, Four Corners and its institutional partner acquired the existing 205,800-square-foot, five-building campus from BXP. The mixed-phase program includes comprehensive modernization of the existing campus and development of two advanced manufacturing buildings totaling approximately 239,000 square feet. Join the Executives Driving Western Industrial Real Estate | August 20Hear from senior leaders representing the industry’s most active firms as they discuss investment strategy, market fundamentals, leasing trends, and emerging opportunities across the West Coast. Connect Industrial West is where industry leaders come together to share insights, build relationships, and identify what’s next for the sector. Secure your spot: www.connectindustrialwest2026.com The post CBRE Arranges Debt on Advanced Manufacturing Campus in San Jose&#8217;s Golden Triangle appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-14T21:10:41+00:00",
-      "bullets": [
-        "CBRE arranged $67.4M bridge loan for Forge North First; San Jose Golden Triangle advanced manufacturing/R&D campus.",
-        "Four Corners Properties + institutional investor own; acquired 205,800 SF campus from BXP in Jan 2026.",
-        "Pipeline: modernization + 239K SF new advanced manufacturing buildings; surging occupier demand, limited supply."
-      ],
-      "summary": "CBRE arranged a $67.4 million five-year floating-rate, non-recourse bridge loan for Forge North First, an industrial/R&D campus in San Jose's Golden Triangle submarket. Four Corners Properties and a West Coast institutional investor acquired the existing 205,800-square-foot, five-building campus from Boston Properties in January 2026 and plan comprehensive modernization plus 239,000 SF of new advanced manufacturing buildings. The lender highlighted surging occupier demand and extremely limited supply as value drivers.",
-      "impact": "Advanced manufacturing/R&D demand in Silicon Valley (post-BXP exit) signals institutional conviction in industrial real estate fundamentals and persistent supply scarcity in core West Coast tech corridors. For multifamily developers: tight industrial supply and high capex modernization costs on existing stock may raise land/development costs in San Jose Golden Triangle; however, concentrated employment growth (advanced manufacturing, tech R&D) drives strong rental demand in adjacent residential submarkets. Early signal of potential underwriting upside for multifamily in South Bay if household in-migration accelerates."
-    },
-    {
-      "title": "Marcus & Millichap Closes Sale of Downtown Westfield Mixed-Use",
-      "link": "https://www.connectcre.com/stories/marcus-millichap-closes-sale-of-downtown-westfield-mixed-use/",
-      "excerpt": "Marcus &amp; Millichap arranged the sale of 251 North Ave. W., a mixed-use property in Westfield, NJ, for $5,260,000. Alan Cafiero, David Cafiero and Damien Rance of Marcus &amp; Millichap exclusively marketed the property on behalf of the seller and procured the private buyer. “Downtown&nbsp;Westfield&nbsp;continues to be one of the most desirable mixed-use investment markets in New Jersey,” said Alan Cafiero, senior managing director investments in Marcus &amp; Millichap’s New Jersey office. “The combination of a premier downtown location, immediate proximity to the train station and a strong, diverse tenant roster generated significant investor interest in this asset.” The property is a three-story, 17,831-square-foot building on a 0.18-acre lot with direct access to municipal commuter parking. It has nine suites and was renovated in 2014. The rent roll features a diverse mix of service-oriented tenants, including Columbia Bank, Edward Jones, the State of New Jersey, BAYADA Home Health Care and Rooster Spin. The post Marcus &amp; Millichap Closes Sale of Downtown Westfield Mixed-Use appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-14T20:59:56+00:00",
-      "bullets": [
-        "Marcus & Millichap sold 251 North Ave. W., Westfield, NJ mixed-use property for $5.26M.",
-        "17,831 SF, three-story, nine suites; direct access to commuter rail; diverse tenants.",
-        "Westfield downtown described as 'most desirable mixed-use investment markets in NJ'—strong fundamentals."
-      ],
-      "summary": "Marcus & Millichap closed the sale of 251 North Ave. W. in Downtown Westfield, New Jersey for $5.26 million. The 17,831-square-foot, three-story mixed-use property features nine suites with diverse tenants (Columbia Bank, Edward Jones, BAYADA Home Health Care, State of NJ, Rooster Spin) and direct access to commuter parking. The property benefits from proximity to the municipal train station.",
-      "impact": "Minimal direct impact on multifamily development; Downtown Westfield sale reflects stable mixed-use fundamentals in NJ suburban submarkets with strong transit connectivity. Indirect signal: commuter-rail-adjacent suburban real estate remains attractive to institutional investors; multifamily developers should monitor Westfield and similar NJ Gateway corridor communities for rental-demand tailwinds from Philadelphia and NYC in-migration."
-    },
-    {
-      "title": "Nuveen Green Capital Closes $281M Record C-PACE Loan for Boston Condos",
-      "link": "https://commercialobserver.com/2026/08/nuveen-green-capital-c-pace-loan-boston-condos-winthrop-center/",
-      "excerpt": "The steady climb of commercial property assessed clean energy (C-PACE) financing around the U.S. has made its way to one of Boston’s tallest buildings. Millennium Partners has secured a $281 million C-PACE loan to implement energy efficiency upgrades at the 62-story Winthrop Center in Downtown Boston, the developer announced Friday afternoon. Nuveen Green Capital originated the fixed-rate loan under the Property Assessed Clean Energy (PACE) Massachusetts program which marked the largest C-PACE financing to date in the New England region, according to the lender. The condo inventory of the roughly 800,000 square-foot mixed-use building completed in 2023 attracted strong lender competition with many debt funds chasing the loan, according to a source familiar with the transaction. The C-PACE debt closed concurrently with a $575 million commercial mortgage backed securities (CMBS) loan led by Morgan Stanley for the office and retail portion of the tower according to a presale report from Moody’s. CoStar first reported the MP Trust 2026-WTRP single-asset-single-borrower deal for Boston&#8217;s largest building in the city&#8217;s financial district. The combined $856 million debt package takes out a prior construction loan from Cale Street in October 2020 after the London firm stepped in following another bank who backed out during the height of the COVID-19 pandemic, according to sources. “We were honored to partner with MassDevelopment to recapitalize the largest C-PACE-financed project in New England, one that has helped reshape downtown Boston with state-of-the-art, energy-efficient residences,” Mike Doty, senior director of originations for NGC, said in a statement. Christopher Jeffries, founder of Millennium Partners, said in a statement that the C-PACE loan “recognizes the investments we have made in energy efficiency while providing long-term capital that supports the building&#8217;s enduring performance.” The PACE Massachusetts program was updated in June 2026 ",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-14T20:25:36+00:00",
-      "bullets": [
-        "Nuveen Green Capital closed $281M C-PACE loan for Millennium Partners' Winthrop Center (Boston); record New England.",
-        "62-story, ~800K SF mixed-use building (completed 2023); condo inventory + office/retail potion.",
-        "Fixed-rate PACE financing; strong lender competition; concurrent $575M CMBS loan (Morgan Stanley) for office/retail."
-      ],
-      "summary": "Nuveen Green Capital originated a $281 million C-PACE loan for Millennium Partners' Winthrop Center, a 62-story, 800,000-square-foot mixed-use building completed in 2023 in Downtown Boston. The fixed-rate PACE financing is the largest C-PACE deal to date in New England. Strong lender competition reflects the condo inventory appeal. A concurrent $575 million CMBS loan led by Morgan Stanley financed the office and retail portions.",
-      "impact": "C-PACE financing growth for mixed-use buildings (especially condos) signals expanded debt-sourcing options for capital-intensive urban development; lower cost of capital for energy-efficiency retrofits improves NOI stability. For multifamily developers: condo-heavy mixed-use buildings attracting strong PACE/CMBS lender appetite in gateway markets; consider hybrid condos + rental segments as blended-return strategy in Boston, NYC, other dense urban markets. Monitor PACE program expansion and regulatory tailwinds in Northeast—may unlock refinancing optionality and cap-rate compression for completed assets."
+      "summary": "PMB and Loma Linda University Health broke ground on a 99,000-square-foot, 80-bed inpatient rehabilitation hospital in Redlands (San Bernardino County), financed by Harrison Street Asset Management. The three-story standalone facility will be jointly operated by Loma Linda University Health and Lifepoint Rehabilitation and is expected to open in summer 2028. Upon completion, Loma Linda will transition its existing inpatient rehabilitation unit to the new facility.",
+      "impact": "This is healthcare real estate, not multifamily; limited direct relevance. However, institutional healthcare capital investment in the Inland Empire (San Bernardino County) signals population stability and institutional demand in markets that multifamily developers may target. Monitor whether healthcare facility anchors (hospitals, rehab centers) attract ancillary multifamily demand via employee in-migration and job clustering."
     }
   ]
 }
