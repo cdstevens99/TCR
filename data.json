@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-18T18:23:49.029770+00:00",
+  "fetchedAt": "2026-08-18T19:21:39.835715+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -10,7 +10,7 @@
     {
       "label": "10Y Treasury",
       "value": "4.71%",
-      "pct": -0.34
+      "pct": -0.38
     },
     {
       "label": "30Y Treasury",
@@ -19,11 +19,86 @@
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "98.11",
-      "pct": 0.13
+      "value": "97.92",
+      "pct": -0.06
     }
   ],
   "stories": [
+    {
+      "title": "Pinnacle Group Sells Rights to Upper West Side Apartment Tower for $88M",
+      "link": "https://commercialobserver.com/2026/08/pinnacle-group-323-west-96-street-sale-lightstone-group/",
+      "excerpt": "Pinnacle Group has offloaded another asset, this time on Manhattan’s Upper West Side. The prominent New York City landlord, which put a massive rent-stabilized portfolio into bankruptcy last year, sold its rights to an apartment building at 323 West 96th Street to private real estate company Lightstone Group for approximately $88 million, according to a source with knowledge of the deal. The Real Deal first reported the sale, citing filings by Pinnacle’s parent company, Zarasai Group, with the Tel Aviv Stock Exchange. The filings, dated Aug. 13, announced the successfully completed sale of Pinnacle’s 100 percent interest in the 15-story building’s lease rights and a 50 percent hold on the land rights. Daniel Parker, Gary Phillips and Will Silverman at Eastdil Secured Savills advised on the deal. An $11 million surplus from the sale is slated to be deposited into the account of Series C bondholders. A spokesperson for Pinnacle Group could not be reached for comment on the most recent sale. The property carried an existing loan balance of about $65 million as of late March, last transferred from Starwood Mortgage Capital to a Barclays-sponsored commercial mortgage-backed securities (CMBS) trust in 2023. Pinnacle secured the leasehold to 323 West 96th Street in 2007, according to city records, and paid another $27 million for its land rights stake in 2016. The 173-unit apartment building, built in 2001, sits at the corner of East 96th Street and First Avenue. The sale comes days after news that Pinnacle offloaded a $128 million condominium and commercial portfolio spanning 39 transactions across Queens, Brooklyn and Manhattan. The buyer was Friar Park JW, an entity with links to Tremada Holdings, an affiliate of London-based property company William Pears Group. Pinnacle, led by Joel Wiener, placed a portfolio of roughly 5,000 rent-stabilized apartments across New York City into bankruptcy in May 2025 after facing approximately $574.4 million in debt. Summit Properties",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-18T19:20:52+00:00",
+      "bullets": [
+        "Pinnacle Group sells 323 W 96th St Manhattan rights to Lightstone for $88M",
+        "Property carries $65M existing loan; $11M surplus to Series C bondholders",
+        "Pinnacle offloads rent-stabilized asset post-bankruptcy restructuring"
+      ],
+      "summary": "Pinnacle Group, the rent-stabilized landlord in bankruptcy reorganization, sold its leasehold and 50% land rights to the 15-story Upper West Side apartment building at 323 West 96th Street to Lightstone Group for approximately $88 million. The sale generated an $11 million surplus after satisfying the existing $65 million loan balance, with proceeds directed to Series C bondholders. This represents Pinnacle's continued liquidation of distressed assets.",
+      "impact": "Distressed multifamily asset sales in Manhattan signal portfolio stress among stabilized-housing operators but create acquisition opportunities for well-capitalized buyers like Lightstone. The $88M valuation on a 15-story rent-stabilized asset reflects compressed returns typical of NYC's regulatory environment; developers should monitor similar forced sales on the Upper West Side and across Manhattan as a potential source of off-market acquisition opportunities or land parcels."
+    },
+    {
+      "title": "At New York City Council Hearing on Pied-à-Terre Tax, Complaints of a Sloppy Rollout",
+      "link": "https://commercialobserver.com/2026/08/new-york-city-council-pied-a-terre-tax-rollout/",
+      "excerpt": "As a legal battle over New York’s pied-à-terre tax continues, the New York City Council held a hearing Tuesday evaluating the surcharge on second homes. Manhattan Councilmember Gale Brewer led the inquiry against what she saw as a dysfunctional rollout of the tax that included publishing up to 900,000 names and addresses of possible second homes in the five boroughs. The Mamdani administration did not send any representatives to the hearing at City Hall, including from the Department of Finance tasked with collecting the tax. The hearing was held by the Committee on Finance and the Committee on Governmental Operations, State and Federal Legislation. “No estimate of the number of pied-à-terres in the city comes even close to 900,000,” Brewer said. “Yet, the city still published the list with the small caveat that the properties on the list may be subject to the charge. The list published by the Department of Finance was so overbroad that it even included my name, and I don&#8217;t mind my name and my home address [being included], but I&#8217;ve been in that home 365 days a year since 1994. I don&#8217;t leave the city, and I don&#8217;t have a second home.” The committee hoped to get answers from the Mamdani administration on why — when it had credible information from the New York City Comptroller&#8216;s office about how many second homes there are — it still attempted to force thousands of property owners in the city to prove that the addresses are primary residences. Brewer stated that the “onus” should not have been on the homeowners, but on the city to determine whether the home is a primary residence. “Homeowners who believe that they received the letters in error initially had only a short window to contest the surcharge,” Brewer said. “ Although the deadline was ultimately extended by four weeks, this still puts the burden on property owners, which upset people tremendously.” About 17,000 homeowners received letters informing them that they are on the suppl",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-18T18:42:46+00:00",
+      "bullets": [
+        "NYC pied-à-terre tax rollout published ~900K property names; city council criticism intense",
+        "Mamdani administration absent from hearing; no DOF representatives attended",
+        "Tax implementation dysfunction creates legal and compliance uncertainty"
+      ],
+      "summary": "New York City Council held a hearing Tuesday examining the rollout of the city's pied-à-terre tax, with Councilmember Gale Brewer leading criticism of the Department of Finance's overbroad publication of approximately 900,000 property addresses and names as potential second homes. The administration sent no representatives to defend the implementation, and the council raised concerns that the published list vastly overstated actual second-home inventory. Legal battles over the tax's constitutionality remain ongoing.",
+      "impact": "The pied-à-terre tax's bungled rollout and ongoing legal challenges create pricing uncertainty in Manhattan's high-end residential market, potentially depressing investment demand and delaying capital deployment into luxury multifamily development. Developers should track tax litigation outcomes closely, as adverse rulings could shift investor appetite back toward Manhattan rental development, while sustained implementation could reduce investor competition for trophy assets and create valuation discounts."
+    },
+    {
+      "title": "Vivmark Residential Launches with $70B Enterprise Value",
+      "link": "https://www.connectcre.com/stories/vivmark-residential-launches-with-70b-enterprise-value/",
+      "excerpt": "Shares of Vivmark Residential were up Tuesday afternoon following the launch of trading on the New York Stock Exchange under the VMRK ticker. The merger of equals between Equity Residential and AvalonBay Communities, creating an apartment REIT with a market capitalization of $51 billion and an enterprise value of $70 billion, was finalized Monday. “Our vision is to be the most trusted and best-performing rental housing company in America and one that gets better as it grows,” said Benjamin Schall, CEO of Vivmark. “Our wider management team of Vivmark officers is now fully in place, and we are ready to deliver a seamless Day 1 experience for our residents.” In addition to Schall, the Vivmark executive team includes Michael Manelis as COO and Kevin O’Shea as CFO. The board includes seven trustees from each company and is led by chairman Stephen Sterrett. Vivmark is dual headquartered in Arlington, VA and Chicago. The post Vivmark Residential Launches with $70B Enterprise Value appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-18T18:21:43+00:00",
+      "bullets": [
+        "Equity Residential + AvalonBay merger closes; creates Vivmark with $70B enterprise value",
+        "Vivmark trades NYSE under VMRK; $51B market cap as of Day 1",
+        "Benjamin Schall CEO; dual HQ Arlington, VA and Chicago"
+      ],
+      "summary": "Equity Residential and AvalonBay Communities completed their merger of equals on Monday, creating Vivmark Residential, a new apartment REIT with a $51 billion market capitalization and $70 billion enterprise value. Trading began Tuesday on the NYSE under ticker VMRK. The combined company is led by CEO Benjamin Schall and COO Michael Manelis, with headquarters in Arlington, Virginia and Chicago.",
+      "impact": "The creation of a $70B-EV megaREIT consolidates significant multifamily development and management capacity, potentially accelerating land acquisition and capital deployment in key markets where both predecessors operated (especially Sunbelt, Midwest, and coastal metros). Watch for Vivmark's 2025 guidance on development starts, cap rates, and same-store NOI growth—signals that will shape debt availability, construction costs, and yield requirements across the multifamily sector."
+    },
+    {
+      "title": "Irvine Company’s Chicago Office Portfolio 87% Leased Amid Market Momentum",
+      "link": "https://www.connectcre.com/stories/irvine-companys-chicago-office-portfolio-87-leased-amid-market-momentum/",
+      "excerpt": "Irvine Company announced an increase in leasing activity, bringing its national office portfolio to 91% leased. Irvine Company closed its fiscal year with 11 million square feet of leasing activity, including 4.4 million square feet of new leasing and 6.7 million square feet of renewals. In its Chicago office portfolio, Irvine Company is 87% leased, including activity from financial services and legal services companies. “Our strong leasing activity reflects a clear market trend: companies are actively seeking high-quality environments that bring teams together,” said Roger DeWames, President of Irvine Company Office Properties. “We see continued strong demand for the value and scale we offer, driven by our commitment to continually investing in our premium workplaces and adapting alongside our customers as their business needs change.” Irvine Company completed a new full floor of flex suites at 300 North LaSalle this summer. The move-in-ready workspaces range from 4,500 to 10,000 square feet and offer access to the building’s enterprise amenities. The post Irvine Company’s Chicago Office Portfolio 87% Leased Amid Market Momentum appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-18T18:20:40+00:00",
+      "bullets": [
+        "Irvine Company's Chicago office portfolio 87% leased; national office 91% leased",
+        "11M SF leasing activity in fiscal year; 4.4M SF new, 6.7M SF renewals",
+        "Financial and legal services driving Chicago leasing; flex workspace demand strong"
+      ],
+      "summary": "Irvine Company reported strong office leasing momentum, bringing its national portfolio to 91% occupancy and its Chicago office portfolio to 87% leased, driven primarily by financial services and legal services firms. The company closed its fiscal year with 11 million square feet of leasing activity (4.4M new, 6.7M renewal) and recently completed a new flex-suite offering at 300 North LaSalle ranging from 4,500 to 10,000 SF.",
+      "impact": "Office market stabilization in Chicago does NOT directly benefit multifamily developers but signals selective corporate hiring and workplace consolidation among white-collar employers—a precursor to residential demand growth if legal and finance hiring continues. Monitor Chicago's downtown office recovery closely; sustained occupancy gains and flex-space growth could drive young professional in-migration and strengthen demand for Class A rental apartments in River North, West Loop, and South Loop submarkets."
+    },
+    {
+      "title": "Albany Road Snags Loan for Scottsdale MOB Acquisition",
+      "link": "https://www.connectcre.com/stories/albany-road-snags-loan-for-scottsdale-mob-acquisition/",
+      "excerpt": "Cushman &amp; Wakefield has arranged $19.9 million in acquisition financing for Edwards Professional Park I &amp; II in Scottsdale. Tyler Morss of Cushman &amp; Wakefield’s Healthcare Capital Markets team arranged the debt through an undisclosed regional bank on behalf of the borrower, Albany Road. Located at 10752 N. 89th Place and 8952 E. Desert Cove Ave., Edwards Professional Park I &amp; II features 91,469 square feet spread across two buildings. At the time of the loan closing, the buildings were currently 91% leased to 47 medical and healthcare-related tenants. Approximately 98.7% of the occupied space is dedicated to healthcare uses, including dentistry, orthopedics, gastroenterology, dermatology, behavioral health, physical medicine, infusion therapy and aesthetic medicine practices. Albany Road has made 110 investments since its inception in 2012 across a wide range of product types, geographies, and tenant profiles. The post Albany Road Snags Loan for Scottsdale MOB Acquisition appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-18T18:10:50+00:00",
+      "bullets": [
+        "Albany Road arranges $19.9M acquisition loan for Scottsdale medical office buildings",
+        "Edwards Professional Park I & II: 91,469 SF, 91% leased to 47 healthcare tenants",
+        "98.7% of occupied space dedicated to healthcare uses; regional bank lender"
+      ],
+      "summary": "Cushman & Wakefield arranged $19.9 million in acquisition financing through an undisclosed regional bank for Albany Road's purchase of Edwards Professional Park I & II in Scottsdale. The two-building medical office portfolio totals 91,469 square feet and is 91% leased to 47 healthcare-related tenants, with 98.7% of occupied space dedicated to healthcare services across diverse specialties.",
+      "impact": "Limited direct relevance to multifamily development. However, strong healthcare real estate fundamentals and regional bank lending appetite in Phoenix signal investor confidence in Scottsdale submarkets; this confidence may extend to mixed-use or transit-adjacent multifamily projects that capture healthcare-worker demand and downtown office clusters."
+    },
     {
       "title": "Betting on South Beach Luxury Shopping, Vivienne Westwood Plans to Open Store",
       "link": "https://commercialobserver.com/2026/08/miami-vivienne-westwood-736-collins-avenue/",
@@ -32,12 +107,27 @@
       "cat": "Commercial",
       "date": "2026-08-18T17:55:31+00:00",
       "bullets": [
-        "Vivienne Westwood activating 4,356 sq ft ground-floor retail at 736 Collins Avenue, South Beach Miami after 2-year vacancy",
-        "Luxury fashion flagship signals tenant demand recovery in Miami Beach retail corridor with high-end leasing activity",
-        "Art Deco mixed-use conversion (retail, offices, bridal showroom) targets affluent coastal demographic in high-barrier-to-entry submarket"
+        "Vivienne Westwood submits buildout plan for 4,356 SF flagship at 736 Collins Ave, South Beach",
+        "Property purchased vacant ~2 years ago; ground floor retail + offices + bridal showroom",
+        "Art Deco restoration + contemporary design; neon signage planned"
       ],
-      "summary": "Vivienne Westwood is moving forward with buildout of its South Beach Miami boutique at 736 Collins Avenue after purchasing the three-story 1921 Art Deco property nearly two years ago. The 4,356-square-foot ground-floor retail space will anchor the building alongside executive offices and a bridal showroom across upper floors. The project preserves historic character while introducing modern finishes including Florida limestone cladding and a signature neon sign.",
-      "impact": "Luxury brand activation signals stabilizing demand in Miami Beach retail after pandemic softness; relevant as a leading indicator of affluent-focused residential absorption in South Beach and surrounding neighborhoods. High-end retail expansion typically precedes or mirrors Class A multifamily rent growth in gateway coastal markets."
+      "summary": "Vivienne Westwood has submitted a buildout application for its three-story boutique flagship at 736 Collins Avenue in Miami's South Beach, nearly two years after acquiring the vacant 1921 Art Deco property. The 4,356-square-foot ground floor will house a retail store with fittings and storage; upper floors will include executive offices and a bridal showroom with rooftop deck. The design blends historic preservation with contemporary elements including Florida limestone cladding and a signature pink neon sign.",
+      "impact": "Minimal direct multifamily impact. However, Vivienne Westwood's long-delayed South Beach retail activation signals tentative retailer confidence in Collins Avenue's recovery post-pandemic; watch for similar luxury brand commitments as leading indicators of tourist and foot-traffic recovery, which can support ground-floor retail economics in mixed-use residential developments along South Beach corridors."
+    },
+    {
+      "title": "Northmarq Secures $51M Refinancing for Potomac Grocery-Anchored Property",
+      "link": "https://www.connectcre.com/stories/northmarq-secures-51m-refinancing-for-potomac-grocery-anchored-property/",
+      "excerpt": "Northmarq’s Washington, DC Debt + Equity team, led by Jason Smith and Kenneth Gentzel, arranged $50.75 million in permanent fixed-rate financing for Potomac Place Shopping Center. Potomac Place Shopping Center is an 80,040-square-foot grocery-anchored retail property located at 10100 River Road in Potomac, Maryland. Northmarq arranged financing on behalf of the borrower, Zuckerman Gravely, through its relationship with Nationwide Life Insurance Company. The permanent fixed-rate financing is structured on a seven-year term and will refinance existing debt on the property. Originally constructed in 1967, Potomac Place Shopping Center has served as an established neighborhood retail destination within the North Bethesda/Potomac submarket. The retail property is anchored by Safeway and features a mix of national and local tenants that provide a variety of shopping, dining and service offerings. Tenants include Safeway, Walgreens, Starbucks, Chipotle, Vie de France Bakery &amp; Café, Strosnider’s Hardware, M&amp;T Bank, PNC Bank, Maurizio’s, Duke’s Grocery, and The Market at River Falls. The post Northmarq Secures $51M Refinancing for Potomac Grocery-Anchored Property appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-18T17:46:15+00:00",
+      "bullets": [
+        "Northmarq arranges $50.75M permanent fixed-rate financing for Potomac Place Shopping Center",
+        "Potomac, Maryland grocery-anchored center; 80,040 SF, anchored by Safeway",
+        "7-year term through Nationwide Life Insurance; refinances existing debt"
+      ],
+      "summary": "Northmarq secured $50.75 million in permanent fixed-rate financing through Nationwide Life Insurance for Potomac Place Shopping Center, an 80,040-square-foot grocery-anchored retail property in Potomac, Maryland, on behalf of borrower Zuckerman Gravely. The seven-year fixed-rate term refinances existing debt on the 1967-built property, which is anchored by Safeway and serves the North Bethesda/Potomac submarket.",
+      "impact": "Minimal direct multifamily relevance. However, the willingness of institutional lenders (Nationwide Life) to refinance legacy suburban grocery-anchored centers at fixed rates suggests stable cap rates and property-level cash flow support in Washington DC suburbs; this lending appetite may extend to multifamily developments anchoring similar suburban mixed-use centers in the North Bethesda/Potomac corridor."
     },
     {
       "title": "Lathrop GPM LLP Completes Move to New DC Office",
@@ -47,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-08-18T17:37:54+00:00",
       "bullets": [
-        "Lathrop GPM downsized DC office from 16,000 to 7,000 sq ft, relocating from Watergate to downtown 1015 15th Street",
-        "Law firm joins trend of office rightsizing and centralization; firm relocated 10 regional offices in recent years for cost reduction",
-        "Move reflects structural office contraction and tenant flight from older trophy assets in Washington DC market"
+        "Lathrop GPM LLP downsizes DC office from 16K SF to 7K SF at 1015 15th St NW",
+        "Move part of firm-wide cost reduction; 10 regional offices relocated in recent years",
+        "Firm prioritizes flexible workspace and central business district location"
       ],
-      "summary": "Kansas City-based law firm Lathrop GPM relocated its Washington DC office to 7,000 square feet on the 10th floor of 1015 15th Street NW, downsizing from nearly 16,000 square feet at the Watergate. The move is part of a broader cost-reduction strategy that has seen the firm relocate 10 regional offices. The new space is positioned in DC's central business district near transit and government institutions.",
-      "impact": "Law firm downsizing reflects persistent office sector softness in DC; loss of large anchor tenant from Watergate property signals ongoing capital stack pressure on older office assets. Potential cascading refinance challenges and valuation compression in Washington DC Class B office, with knock-on effects on mixed-use development underwriting in the metro."
+      "summary": "Law firm Lathrop GPM LLP relocated its Washington, D.C. office to a new 7,000-square-foot space on the 10th floor of 1015 15th Street NW, downsizing from approximately 16,000 square feet at the Watergate. The move is part of a firm-wide cost-reduction strategy that has included relocation of 10 regional offices. The new space emphasizes modern, flexible work environments with proximity to transit, government institutions, and business corridors.",
+      "impact": "Office downsizing and flex-workspace adoption by major law firms signals post-pandemic occupancy normalization in DC's CBD and reduced large-floor-plate demand. This trend may free up Class A office space for adaptive conversion to residential or mixed-use; monitor DC's office pipeline for conversion candidates that could supply higher-density, transit-rich multifamily apartments in the central business district."
     },
     {
       "title": "Get to Know the Broker: Vickey Barron of Compass",
@@ -62,27 +152,12 @@
       "cat": "Commercial",
       "date": "2026-08-18T17:30:58+00:00",
       "bullets": [
-        "Profile of Compass residential broker Vickey Barron; 69-year-old with 600+ sales and REBNY awards",
-        "No concrete market data, transactions, or forward-looking signals presented in feature content",
-        "Article is purely biographical and does not address multifamily demand, supply, or capital flows"
+        "Vickey Barron (Compass) profile; 600+ sales, 23-year broker track record",
+        "2001 REBNY Rookie of Year; 2015 Eileen Spinola Distinguished Service Award",
+        "Focus on relationship-driven service vs. transaction volume and commission"
       ],
-      "summary": "Commercial Observer profiled Compass associate broker Vickey Barron, a 69-year-old veteran of over 600 residential sales transactions who has earned multiple REBNY awards including Rookie of the Year (2001) and the Eileen Spinola Distinguished Service Award (2015). The article focuses on her career philosophy and approach to client service rather than specific market activity.",
-      "impact": "No material relevance to multifamily development underwriting, capital markets, or market fundamentals. This is a personnel/lifestyle feature with no data on rents, supply, demand, or financing conditions."
-    },
-    {
-      "title": "Scottsdale Retail Center Inks $45.8M Refi",
-      "link": "https://www.connectcre.com/stories/scottsdale-retail-center-inks-45-8m-refi/",
-      "excerpt": "CBRE has arranged a $45.8 million refinancing for Scottsdale Towne Center, a 168,090-square-foot retail center located at 15444 North Frank Lloyd Wright Blvd., in Scottsdale, Arizona. Shaun Moothart, Bruce Francis, Doug Birrell, Bob Ybarra and Nick Santangelo with CBRE Capital Markets&#8217; Debt and Structured Finance practice secured a 5-year fixed, full-term interest-only loan on behalf of their client. Scottsdale Towne Center is nearly 100% leased. The center is anchored by TJ Maxx, Ross and Mountainside Fitness and shadow-anchored by Target. The sponsor acquired Scottsdale Towne Center in 2021 and subsequently leased a previously vacant 50,000-square-foot space to Mountainside Fitness&#8217;s flagship location, helping increase occupancy to nearly 100% and positioning the asset for refinancing. Vestar showcases Scottsdale Towne Center on its website. The center is located at the southeast corner of Loop 101 and Frank Lloyd Wright Boulevard within Scottsdale Airpark, Arizona&#8217;s second-largest employment corridor. The post Scottsdale Retail Center Inks $45.8M Refi appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-18T17:10:49+00:00",
-      "bullets": [
-        "CBRE arranged $45.8M refinance for 168,090 sq ft Scottsdale Towne Center; 5-year fixed interest-only structure",
-        "Asset nearly 100% leased with TJ Maxx, Ross, Mountainside Fitness, Target; occupancy driven by 50,000 sq ft Mountainside Fitness flagship lease (2021 onward)",
-        "Property in Scottsdale Airpark, second-largest employment corridor in Arizona; sponsor acquired 2021, positioned for refi"
-      ],
-      "summary": "CBRE Capital Markets secured a $45.8 million, 5-year fixed interest-only refinancing for Scottsdale Towne Center, a 168,090-square-foot retail center in Scottsdale, Arizona. The asset is nearly 100% leased with anchors including TJ Maxx, Ross, Mountainside Fitness, and shadow-anchor Target. The sponsor acquired the center in 2021 and subsequently leased a 50,000-square-foot space to Mountainside Fitness's flagship location, driving occupancy to nearly 100% and enabling the refinance.",
-      "impact": "Retail refinancing success in Scottsdale signals stabilization of non-grocery-anchored centers with fitness/wellness tenants; relevant to mixed-use developers considering retail integration in Phoenix-area multifamily projects. Fitness-anchored retail is outperforming category average and may justify retail buildout in larger residential developments; Scottsdale Airpark's employment concentration supports co-tenancy thesis for live-work mixed-use."
+      "summary": "Commercial Observer profiled Vickey Barron, an associate broker at Compass with a 23-year career spanning 600+ residential sales in New York. Barron won the Real Estate Board of New York's Rookie of the Year award in 2001 and the Eileen Spinola Distinguished Service Award in 2015. She emphasizes serving clients' life needs over maximizing transaction volume and commissions.",
+      "impact": "No material impact on multifamily development markets. This is a personality profile of a residential sales broker; it does not signal market trends, capital flows, or supply-demand shifts relevant to apartment development."
     },
     {
       "title": "Green Street Expands Student Housing Data Platform",
@@ -92,87 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-18T16:53:01+00:00",
       "bullets": [
-        "Green Street expanded College House student housing analytics platform; acquisition completed in 2025, integration launches 2026",
-        "Student housing cap rates rising, asset values declining; revenue growth expected 2% over next two years, below multifamily average",
-        "Capital returning to student housing but selective; activity remains below 2022 peaks; sector experiencing 'complicated cooling period'"
+        "Green Street expands College House platform with proprietary investment analytics",
+        "College House acquired by Green Street in 2025; platform launched Tuesday",
+        "Student housing market cooling: cap rates rising, 2-year revenue growth ~2% expected"
       ],
-      "summary": "Green Street Analytics formally expanded its College House student housing data platform, offering investors direct access to investment analytics more than a year after acquiring College House in 2025. The platform expansion launched as the U.S. student housing sector experiences a cooling period: asset values have declined due to rising cap rates, while revenue growth is projected to average just 2 percent over the next two years—below multifamily. Capital is returning but remains selective, with transaction activity still below 2022 peaks.",
-      "impact": "Student housing sector cooling and underperforming multifamily on revenue growth signals cap rate expansion and valuation pressure; underwriting of student housing development should assume tighter financing terms and higher discount rates. For multifamily developers with mixed student/workforce housing models, cap rate differential is widening against student segments, pushing capital allocation toward age-restricted and workforce-focused rental communities."
-    },
-    {
-      "title": "Developer Eyeing 143-Acre “Italian Village” in Prosper",
-      "link": "https://www.connectcre.com/stories/developer-eyeing-143-acre-italian-village-in-prosper/",
-      "excerpt": "BlackStone Communities is prodding the town of Prosper to adopt its plans to recreate an Italian Village. The Marco, a proposed 143-acre mixed-use development, is slated for the northeast corner of the Dallas North Tollway and US 380. Community Impact reports plans for the development include a public square, retail, single-family and multifamily housing, a performing arts venue and a hotel, all centered around a lagoon with canals big enough to navigate by boat. Marco’s defining feature is its lagoon and canals, which span over 15 acres. The Marco features a mix of housing options with the total number of residential units capped at 4,400. They include: Mid-rise apartments: maximum 2,500 units High-rise residential (condominiums or apartments): maximum 400 units Retirement community: maximum 500 units The Marco also includes a significant office, commercial and entertainment component. In addition to office condos for smaller companies, conceptual plans for The Marco show two larger campuses with separate parking designated for corporate headquarters. The post Developer Eyeing 143-Acre “Italian Village” in Prosper appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-18T16:33:33+00:00",
-      "bullets": [
-        "BlackStone Communities proposing 143-acre mixed-use 'Italian Village' called The Marco in Prosper, TX (Dallas North Tollway & US 380 NE corner)",
-        "Project capped at 4,400 residential units (single-family and multifamily) with 15-acre lagoon/canals, retail, hotel, performing arts venue, office campuses",
-        "Prosper location signals north Dallas suburban growth trajectory and developer confidence in corridor absorption; master-planned community scale de-risks unit delivery"
-      ],
-      "summary": "BlackStone Communities is proposing The Marco, a 143-acre mixed-use development in Prosper, Texas at the northeast corner of Dallas North Tollway and US 380. The project features a 15-acre lagoon and navigable canals as the centerpiece, with a capped 4,400 residential units (split between single-family and multifamily), retail, office campuses, a hotel, and performing arts venue surrounding a public square. The development is in conceptual/approval phase with the town of Prosper.",
-      "impact": "Large-scale master-planned community in high-growth Dallas exurb signals developer confidence in north Dallas population migration and long-cycle absorption. 4,400-unit cap implies strong pre-leasing/pre-sales demand; approval timeline will signal municipal capacity and entitlement velocity in Collin County. If entitled, project will pull forward multifamily supply pipeline in Prosper submarket and may accelerate rents in established northern Dallas submarkets as renters migrate further north."
-    },
-    {
-      "title": "Lone Star PACE Facilitates Nearly $65M in Loans for 6 Texas Projects",
-      "link": "https://www.connectcre.com/stories/lone-star-pace-facilitates-nearly-65m-in-loans-for-6-texas-projects/",
-      "excerpt": "Lone Star PACE closed on $64.8 million in Texas PACE Program financing during the first half of 2026, supporting approximately $279 million in commercial real estate investment while helping property owners significantly reduce energy and water consumption. The six closed transactions span a diverse mix of property types, including hospitality, retail, industrial, data centers and specialty development, demonstrating the growing role of Commercial Property Assessed Clean Energy (C-PACE) financing in helping developers strengthen project capital stacks while incorporating high-performance building systems. Projects financed during the first half of the year include the Holiday Inn Express in Pilot Point, MCM Elegante in Beaumont (shown), Ashford Yard in Houston, Cold Storage Seabrook, Vesgro Data Center in Irving and Maranello Luxury Garages in Plano. The Texas PACE Program enables property owners and developers to finance qualifying energy and water conservation improvements through a voluntary property assessment. C-PACE financing can fund up to 35% of a project’s capital stack and may be used for new construction, redevelopment and retrofit projects. The post Lone Star PACE Facilitates Nearly $65M in Loans for 6 Texas Projects appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-18T16:10:14+00:00",
-      "bullets": [
-        "Lone Star PACE closed $64.8M in C-PACE financing for 6 Texas projects (H1 2026), supporting ~$279M total CRE investment",
-        "Diverse property mix: hospitality, retail, industrial, data centers, specialty development; can fund up to 35% of capital stack for new construction and retrofit",
-        "Program demonstrates third-party capital availability for energy/water conservation improvements; strengthens project economics and developer capital stack flexibility"
-      ],
-      "summary": "Lone Star PACE closed $64.8 million in Commercial Property Assessed Clean Energy (C-PACE) financing during the first half of 2026 across six Texas projects, supporting approximately $279 million in total commercial real estate investment. The transactions spanned hospitality, retail, industrial, data centers, and specialty development. C-PACE financing can fund up to 35% of a project's capital stack and is applicable to new construction, redevelopment, and retrofit projects.",
-      "impact": "C-PACE availability and deployment in Texas signals third-party capital willing to fund energy/sustainability components, effectively expanding developer capital stacks and improving project IRRs. For multifamily developers, C-PACE can offset 25–35% of high-performance building system costs, allowing for green amenities (EV charging, solar, advanced HVAC) without equity dilution; particularly valuable in competitive Austin, Dallas, and Houston submarkets where sustainability amenities drive lease-up velocity and rent premiums."
-    },
-    {
-      "title": "Triten Snags Refi on 342-Unit Houston Rental Community",
-      "link": "https://www.connectcre.com/stories/triten-snags-refi-on-342-unit-houston-rental-community/",
-      "excerpt": "Triten Real Estate Partners obtained refinancing for The Mill Residences, a 342-unit mid-rise multifamily community located at 2315 Navigation Blvd. in the East End of Houston, Texas. Northmarq’s Warren Hitchcock and Taylor Phillips arranged the refinance loan on behalf of Triten. Northmarq’s Hitchcock added. “Northmarq secured a creative and flexible refinance prior to final stabilization which replaced the construction loan, provided additional capital for the retail buildout, and gave Triten the runway needed to complete the property’s business plan.” The Mills Residences offers a mix of class A studio, one-, two-bedroom apartments. Amenities such as a fitness center, yoga studio, poolside cabanas and a quiet lounge equipped with high-speed connectivity designed for remote workers. Built in 2025, the multifamily community places residents at the center of Houston’s East End, providing residents with convenient access to public transit, dining, live entertainment and the area’s growing arts district.&nbsp; The post Triten Snags Refi on 342-Unit Houston Rental Community appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-18T15:57:42+00:00",
-      "bullets": [
-        "Triten Real Estate refinanced The Mill Residences, 342-unit mid-rise in Houston East End, via Northmarq; replaced construction loan pre-stabilization",
-        "Asset delivered 2025; refi provided additional capital for retail buildout and runway to complete business plan; Class A studio/1-/2-bed product",
-        "East End location targets transit-adjacent workforce and creative professionals; includes amenities for remote work and arts district access"
-      ],
-      "summary": "Triten Real Estate Partners obtained refinancing for The Mill Residences, a 342-unit mid-rise multifamily community completed in 2025 and located at 2315 Navigation Boulevard in Houston's East End. Northmarq arranged a creative and flexible refinance that replaced the construction loan prior to final stabilization, providing additional capital for retail buildout and the runway needed to complete the property's business plan. The asset offers Class A studios and one- and two-bedroom apartments with fitness, yoga, pools, and remote-work amenities.",
-      "impact": "Early stabilization and pre-lease refinance of new Houston multifamily signals strong lender appetite and demonstrates proof of concept for East End submarket transit-oriented development. Refinance at sub-stabilization reflects strong unit absorption and rent achievement; signals that Houston East End is absorbing new supply at healthy velocities and rents, validating continued pipeline growth in the corridor for other developers."
-    },
-    {
-      "title": "Cybersecurity Tracker SecurityScorecard Renews 1140 Avenue of the Americas Lease",
-      "link": "https://commercialobserver.com/2026/08/securityscorecard-lease-renewal-1140-avenue-of-the-americas/",
-      "excerpt": "A cybersecurity risk management firm is renewing its Midtown office space, Commercial Observer has learned. SecurityScorecard signed a five-year renewal on its 8,475-square-foot space at 1140 Avenue of the Americas, owned by American Strategic Investment Company, where it has been since 2023, according to tenant broker JLL. The asking rent was not immediately disclosed, but the average office asking rent in Midtown in the second quarter of 2026 was $86.18 per square foot, according to a CBRE report. “SecurityScorecard is experiencing tremendous momentum as organizations around the world increasingly rely on our platform to manage cyber risk across their digital ecosystems,” Aleksandr Yampolskiy, CEO and founder of SecurityScorecard, said in a statement. “Renewing our headquarters at 1140 Avenue of the Americas reflects our long-term commitment to the city and provides our team with a workplace that supports continued growth, innovation and collaboration.” JLL’s Valentin Stobetsky negotiated on behalf of the tenant, while Josh Kuriloff, Matthias Li, Heather Thomas, Pierce Hance and Nicole Estevez of Cushman &amp; Wakefield handled the deal for the landlord. “It has a premier Midtown location, outstanding transit access, modern amenities and a unique full-floor office with an expansive private outdoor terrace that enhances the employee experience,” Stobetsky said in a statement. Li echoed the sentiment that the Midtown market and the building’s premium offerings would aid the company in its expansion. C&amp;W did not immediately respond to a request for additional comment. The landlord, which also goes by American Realty Capital New York City REIT or New York City REIT, arranged a lease at the same tower for Epic Insurance in February, when the company took 25,500 square feet. Mark Hallum can be reached at mhallum@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-18T15:51:40+00:00",
-      "bullets": [
-        "SecurityScorecard renewed 8,475 sq ft office at 1140 Avenue of the Americas (Midtown Manhattan) for 5 years; occupant since 2023",
-        "Cybersecurity firm citing 'tremendous momentum'; Midtown asking rent averaged $86.18/sq ft in Q2 2026 per CBRE; tenant renewal signals office stability",
-        "Class A trophy office in Midtown maintaining occupancy with high-growth tenant; renewal at market rates suggests selective flight-to-quality in NYC office"
-      ],
-      "summary": "Cybersecurity risk management firm SecurityScorecard renewed its 8,475-square-foot headquarters at 1140 Avenue of the Americas in Midtown Manhattan for five years, where it has been located since 2023. The average office asking rent in Midtown in Q2 2026 was $86.18 per square foot. SecurityScorecard's CEO cited the company's momentum and the renewal as a reflection of long-term commitment to NYC and support for growth and innovation.",
-      "impact": "Tech-sector office renewal in Midtown Manhattan at or near average asking rents signals flight-to-quality and selective space take-up in premium locations; reflects bifurcation of NYC office with trophy assets outperforming secondary stock. For multifamily developers, tech office tenancy renewal in Midtown reinforces high-wage job concentration and supports near-office residential demand in Hell's Kitchen, Midtown West, and Turtle Bay; indicates continued professional-class rent-paying capacity in Manhattan."
-    },
-    {
-      "title": "Arrow Adds Veteran Multifamily Lender Ari Mandelbaum to Grow Platform",
-      "link": "https://commercialobserver.com/2026/08/arrow-real-estate-advisors-ari-mandelbaum/",
-      "excerpt": "Arrow Real Estate Advisors continues to ramp up its roster nearly two years after its founding. The capital markets advisory firm founded by Morris Betesh in fall 2024 has added Ari Mandelbaum, a former lender at Greystone and Dwight Capital, as a director to help grow its multifamily debt placement business, Commercial Observer has learned. “Ari brings a highly valuable perspective to Arrow given his extensive experience on the lender side of the business,” Betesh said in a statement. “His understanding of underwriting, credit and execution allows him to approach financing assignments from both sides of the table and provide clients with a deeper level of insight throughout the capital-raising process.” Mandelbaum previously held senior roles at Greystone and Dwight Capital specializing in agency and bridge loans across multifamily and other property sectors. He was at Greystone from 2011 to 2014 before a decade-long run at Dwight, where he ascended to an executive vice president role. At Arrow, Mandelbaum will focus heavily on negotiating multifamily loans while helping borrowers navigate alternative strategies. Among the multifamily deals he originated at Dwight was a $36 million bridge loan in 2023 for Latco Enterprises to refinance its Villa Annette Apartments property in Moreno Valley, Calif., CO first reported at the time. “I’m excited to join Arrow and work alongside a team with a strong track record across the commercial real estate capital markets,” Mandelbaum said in a statement. “My experience on the credit side has given me a firsthand understanding of how transactions are evaluated, structured and executed, and I look forward to applying that perspective to help Arrow’s clients navigate increasingly structured financing environments.” The addition of Mandelbaum comes on the heels of Arrow hiring Jeff Weinberg from Meridian Capital Group as a managing director, CO previously reported. Andrew Coen can be reached at acoen@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-18T14:41:18+00:00",
-      "bullets": [
-        "Arrow Real Estate Advisors hired Ari Mandelbaum (ex-Greystone, ex-Dwight Capital EVP) as director for multifamily debt placement",
-        "Mandelbaum brings 15+ years lender-side multifamily debt experience (agency, bridge); Arrow founded fall 2024, now scaling team",
-        "Move signals competitive market for multifamily capital advisory and debt placement; lender-to-advisor transition reflects market depth and capital flexibility"
-      ],
-      "summary": "Arrow Real Estate Advisors, founded in fall 2024 by Morris Betesh, has hired Ari Mandelbaum as director to lead its multifamily debt placement business. Mandelbaum is a veteran multifamily lender with 15+ years of experience, including senior roles at Greystone (2011–2014) and a decade-long tenure at Dwight Capital, where he reached executive vice president level. At Arrow, Mandelbaum will negotiate multifamily loans and help borrowers navigate alternative financing strategies.",
-      "impact": "Formation and rapid scaling of independent multifamily debt advisory firm (Arrow) signals fragmentation of capital markets and borrower demand for lender-agnostic placement advice. Hiring of experienced lender-side operator indicates debt placement advisory is becoming a distinct and competitive vertical; suggests multifamily developers should expect more intermediaries and softer pricing/terms as capital advisors compete for deals. Broader trend of lender talent migrating to advisory/broker roles suggests financing market is normalizing post-crisis with more optionality and less bank monopoly power."
+      "summary": "College House, a specialized student housing data and analytics platform acquired by Green Street in 2025, officially launched expanded analytics tools on Tuesday offering direct access to Green Street's investment analytics. According to Green Street's 2026 student housing report, the U.S. student housing sector is experiencing a cooling period marked by rising cap rates and declining asset values, with revenue growth expected to average just 2 percent over the next two years—slightly below multifamily apartment trends.",
+      "impact": "Student housing investment cooling signals capital selectivity and rising development hurdle rates in campus-adjacent markets. Developers should monitor student housing cap rate divergence from core multifamily; if the spread widens beyond 100 bps, purpose-built student housing becomes a marginal product, potentially freeing land parcels for traditional multifamily development or pushing sponsors toward mixed-demographic hybrid products in college towns."
     }
   ]
 }
