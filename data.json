@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-18T12:26:13.087629+00:00",
+  "fetchedAt": "2026-08-18T13:35:47.612316+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -9,18 +9,18 @@
     },
     {
       "label": "10Y Treasury",
-      "value": "4.72%",
-      "pct": 1.19
+      "value": "4.74%",
+      "pct": 0.94
     },
     {
       "label": "30Y Treasury",
-      "value": "5.31%",
-      "pct": 1.0
+      "value": "5.32%",
+      "pct": 1.06
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "97.98",
-      "pct": 0.25
+      "value": "98.36",
+      "pct": -0.48
     }
   ],
   "stories": [
@@ -32,12 +32,27 @@
       "cat": "Commercial",
       "date": "2026-08-18T12:19:08+00:00",
       "bullets": [
-        "NYC multifamily transactions: 304 in Q2 2026, up 10.5% QoQ and 2.4% YoY.",
-        "Capital returning faster than quality free-market inventory coming to market.",
-        "Shortage of buyable buildings with minimal regulatory risk now emerging in NYC."
+        "NYC multifamily transactions up 10.5% Q1–Q2 2026, 304 deals in Q2.",
+        "Capital returning faster than quality free-market inventory reaching market.",
+        "Tight supply of buyable buildings with minimal regulatory hurdles emerging."
       ],
-      "summary": "New York City multifamily deal volume is accelerating—304 transactions in Q2 2026 versus 275 in Q1—signaling renewed investor appetite. However, the market is experiencing a reverse dynamic: capital is flowing back into the sector faster than quality, regulatory-light apartment buildings are being listed for sale. This inversion of supply and demand for assets is beginning to compress pricing and availability windows.",
-      "impact": "This signals a tightening acquisition window for NYC multifamily developers and investors. As capital returns and deals move faster, land and portfolio costs will likely rise before new supply can be built. Developers holding entitled sites or in predevelopment should prioritize financing and underwriting to move ahead of rising basis costs; conversely, those without land should expect competitive bidding and repricing upward across Manhattan, Queens, and the Bronx."
+      "summary": "New York City multifamily transaction volume rebounded in Q2 2026 to 304 deals, up 10.5% QoQ and 2.4% YoY, signaling a shift in market dynamics. However, the real constraint is no longer buyer appetite but scarcity of quality, free-market apartment buildings worth acquiring. Capital is flowing back into the market faster than premium inventory is being listed, creating a seller-favorable environment for owners of well-positioned assets.",
+      "impact": "In Manhattan and outer-borough submarkets, reduced inventory of tradeable multifamily buildings will compress cap rates and inflate basis for new acquisitions, making ground-up development or conversion more competitive relative to portfolio buys. Developers with entitled land pipelines have a structural advantage; opportunistic sellers should accelerate listings before buyer competition intensifies further. This tightness also signals strong underlying demand absorption and rent resilience supporting development feasibility."
+    },
+    {
+      "title": "Goldman Sachs to Acquire LCN Capital Partners, Expanding Sale-Leaseback Presence",
+      "link": "https://www.connectcre.com/stories/goldman-sachs-to-acquire-lcn-capital-partners-expanding-sale-leaseback-presence/",
+      "excerpt": "Goldman Sachs said Tuesday it has agreed to acquire LCN Capital Partners, a leading investment manager specializing in the sale-leaseback, build-to-suit, and triple-net lease sectors of the real estate market, in a deal valued at up to $410 million. LCN has approximately $3 billion in assets under supervision as of June 30, 2026, primarily from institutions, insurers, and high-net-worth individuals. “LCN’s differentiated platform is highly attractive for our Asset &amp; Wealth Management clients who want diversified sources of returns and offers corporate clients innovative capital solutions,” said David M. Solomon, chairman and CEO of Goldman Sachs. “Their focus complements our private real estate team’s broad 30-year track record and will expand our ability to serve our insurance, institutional, and wealth client segments.” LCN originates, negotiates, invests in and manages sale-leaseback, BTS and net lease investments across North America and Europe. Founded in 2011 by Edward V. LaPuma and Bryan York Colwell, New York-based LCN has raised 10 investment funds that aim to outperform credit and real estate alternatives. “Our team, our strategy, and our commitment to our partners, both capital and corporate, remain unchanged — what changes is the scale of our ambition,” said LaPuma. “By combining LCN’s origination network and investment discipline with Goldman Sachs’ unrivaled corporate relationships, global distribution, and client experience teams, we can better serve our investing and tenant partners at a scale no independent firm could match — and become an industry leading platform in triple net lease investing.” The acquisition occurs against a backdrop of significant global market opportunity for investment into sale-leasebacks, with an estimated $14 trillion of corporate-owned property on corporate balance sheets in North America and Europe alone. At the same time, investor demand for the NNN asset class is growing globally. The upfront transaction considerat",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-18T12:14:59+00:00",
+      "bullets": [
+        "Goldman Sachs acquires LCN Capital Partners for up to $410M.",
+        "LCN manages $3B AUM in sale-leaseback, build-to-suit, triple-net lease.",
+        "Deal expands GS institutional investor access to alternative real estate returns."
+      ],
+      "summary": "Goldman Sachs agreed to acquire LCN Capital Partners, a $3 billion asset manager specializing in sale-leaseback, build-to-suit, and net lease transactions across North America and Europe, for up to $410 million. The deal strengthens Goldman's private real estate platform and its ability to serve institutional, insurance, and wealth clients seeking diversified CRE returns. LCN's focus on origination and capital solutions complements Goldman's 30-year real estate track record.",
+      "impact": "Consolidation of sale-leaseback and BTS origination platforms under major investment banks increases institutional capital availability and pricing competition for corporate real estate solutions, potentially lowering execution costs for multifamily developers pursuing BTS structures with end-user tenants or build-to-suit arrangements. However, tighter underwriting and higher capital-provider expectations may raise feasibility hurdles on marginal deals."
     },
     {
       "title": "AI-Searched Public Records Alone Insufficient for Title Decision-Making: Study",
@@ -47,12 +62,12 @@
       "cat": "Commercial",
       "date": "2026-08-18T12:05:12+00:00",
       "bullets": [
-        "DataTrace study shows AI-only title searches insufficient for reliable insurance decisions.",
-        "AI performs best on structured, valid data; gaps remain when used alone.",
-        "Title plants (recorded legal indexes) still required to supplement AI for completeness."
+        "DataTrace study: AI-only title searches insufficient for reliable underwriting.",
+        "AI performs best on structured data; gaps emerge without title plant support.",
+        "Title insurance insurability at risk if AI-only results used for decision-making."
       ],
-      "summary": "A DataTrace analysis comparing AI-only versus title plant-supported searches found that artificial intelligence alone cannot reliably identify all recorded events and liens affecting a property. AI performs well on structured data but creates gaps in edge cases, creating potential title insurance exposure. The study underscores that AI title automation requires a human-curated, indexed foundation to be viable at scale.",
-      "impact": "For multifamily developers acquiring land or portfolios, this means due diligence timelines may not compress as much as proptech vendors promise. Relying on AI-only title searches risks uninsurable gaps that could delay closings or create post-acquisition liability. Budget for hybrid human-AI title review, especially in complex markets (NYC, DC) where recorded histories are deep and title defects more common."
+      "summary": "A DataTrace study comparing AI-only versus title plant-supported property searches found that artificial intelligence alone cannot reliably support title decisions at scale. AI performs best when operating on a foundation of structured, valid data; without traditional title plant indexing, gaps emerge that could render properties uninsurable or create title defects. The analysis flags specific risks if properties were insured based solely on AI-generated reports.",
+      "impact": "Multifamily developers and acquirers relying on automated title platforms for fast underwriting face hidden title and insurability risk; traditional title plants remain essential infrastructure. Delays and costs tied to remediation of AI-missed defects could slow closing timelines and increase holdback reserves, particularly for smaller or non-institutional acquisitions where title quality varies. This reinforces the value of hybrid human-AI title workflows."
     },
     {
       "title": "SFR Leasing Operating System Boom Secures $15M Series A Funding",
@@ -62,12 +77,27 @@
       "cat": "Commercial",
       "date": "2026-08-18T11:50:49+00:00",
       "bullets": [
-        "Boom (SFR leasing OS) raises $15M Series A led by S3 Ventures.",
-        "Company grown 8x before round; additional 3x growth post-Series A.",
-        "Platform serves SFR, scattered-site, and manufactured housing underwriting and collections."
+        "Boom SFR leasing OS raises $15M Series A led by S3 Ventures.",
+        "8x growth pre-Series A, 3x growth post-announcement; 3x expansion of user base.",
+        "BoomCRM agentic AI product targets leasing, touring, fraud reduction for SFR."
       ],
-      "summary": "Boom, an Austin-based leasing and financial services operating system for single-family rentals, secured $15 million in Series A funding to expand its underwriting, fraud-reduction, and CRM tools. The company has achieved strong product-market fit (8x pre-Series A growth, 3x post-Series A), positioning itself as infrastructure for fragmented SFR portfolios and scattered-site operators.",
-      "impact": "This reflects institutional capital's confidence in the SFR and scattered-site sectors as alternatives to traditional multifamily development. For multifamily operators considering SFR bolt-ons or alternative rental models, Boom's funding signals a maturing fintech ecosystem that can reduce friction in lease execution and collections, improving IRRs on smaller-unit portfolios. Monitor SFR-focused fintech vendors as potential acquisition targets or operational partners for portfolio scaling."
+      "summary": "Boom, an Austin-based leasing operating system for single-family rentals, closed a $15 million Series A funding round led by S3 Ventures with participation from Mischief VC and repeat backers. The company has grown 8x to Series A and tripled again since the announcement. Boom launched BoomCRM, an agentic AI CRM product layered on its existing underwriting engine to improve leasing, fraud reduction, and revenue across the renter lifecycle.",
+      "impact": "Venture capital momentum behind SFR tech platforms signals ongoing investor conviction in fragmented SFR asset classes as an alternative to institutional multifamily, particularly for single-operator and mid-sized portfolios. Proliferation of agentic AI leasing tools will compress operating margins and tenant acquisition costs across the SFR sector, not directly affecting multifamily but indicating competitive pressure on rent growth and pricing for small-unit, scattered-site portfolios."
+    },
+    {
+      "title": "Vantage Data Centers, Nebius Partner on AI Infrastructure at South Wales Campus",
+      "link": "https://www.connectcre.com/stories/vantage-data-centers-nebius-partner-on-ai-infrastructure-at-south-wales-campus/",
+      "excerpt": "Denver-based Vantage Data Centers and Amsterdam-based artificial intelligence infrastructure company Nebius announced an agreement to deploy high-density, NVIDIA-powered AI infrastructure at Vantage’s CWL1 campus in Newport, Wales, one of Europe’s largest data center campuses. The deployment represents the first announced commercial capacity commitment in the South Wales AI Growth Zone and will support growing UK demand for domestic AI compute capacity. Under the agreement, Nebius will lease high-density capacity at CWL1 to support AI training, inference, agentic AI and enterprise AI workloads, serving enterprises, researchers, startups and public sector organizations seeking access to advanced AI infrastructure. “This is an important milestone for South Wales and for the UK’s AI infrastructure ambitions,” said David Howson, president, EMEA, Vantage Data Centers. “Nebius is scaling AI cloud infrastructure in the UK at a time when demand for domestic compute capacity continues to accelerate. Vantage’s Newport campus provides the scale, connectivity and operational excellence needed to support that growth, and we’re proud to help establish South Wales as a leading destination for AI investment.” South Wales was designated as a UK AI Growth Zone in recognition of its concentration of digital infrastructure, fiber connectivity to London, high-capacity electricity grid infrastructure and strong industrial base. The region is also home to the UK’s largest cluster of semiconductor businesses. The post Vantage Data Centers, Nebius Partner on AI Infrastructure at South Wales Campus appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-18T11:47:39+00:00",
+      "bullets": [
+        "Vantage Data Centers, Nebius deploy NVIDIA AI infrastructure at CWL1, Wales.",
+        "First commercial capacity commitment in UK's South Wales AI Growth Zone.",
+        "Lease supports AI training, inference, enterprise workloads for UK/Europe demand."
+      ],
+      "summary": "Vantage Data Centers and Netherlands-based AI infrastructure company Nebius announced an agreement to deploy high-density NVIDIA AI compute capacity at Vantage's CWL1 data center campus in Newport, Wales. The lease represents the first announced commercial commitment in the UK's new South Wales AI Growth Zone and will serve UK and European enterprises, researchers, and public sector organizations seeking domestic AI infrastructure. The deployment supports growing demand for UK-based compute capacity.",
+      "impact": "Data center development, not multifamily. However, the UK AI Growth Zone designation and infrastructure investment signal policy-driven regional economic development that could spark downstream population and corporate migration into South Wales and surrounding areas, potentially creating future office and multifamily demand in the region if tech talent and services follow. Monitor for secondary effect on Welsh residential and office submarkets."
     },
     {
       "title": "Atrium Launches AI Platform, Tracking $1.3T of U.S. Data Center Development Credit",
@@ -77,12 +107,12 @@
       "cat": "Commercial",
       "date": "2026-08-18T10:30:38+00:00",
       "bullets": [
-        "Atrium launches AI platform tracking $1.3T in U.S. data center debt across 4,300 sites.",
-        "Platform covers 3,038 operational and 1,258 in-pipeline data center deals.",
-        "Debt sourced from local records, SEC filings, CMBS, bank syndications, and corporate issuance."
+        "Atrium launches AI platform tracking $1.3T U.S. data center development debt.",
+        "Covers 3,038 operational deals and 1,258 in-development data centers.",
+        "Platform aggregates CMBS, bank debt, syndications, property records, SEC filings."
       ],
-      "summary": "Atrium, a 2024-founded AI analytics startup, launched an interactive platform cataloging $1.3 trillion in identifiable debt financing nearly 4,300 U.S. data centers, including 3,038 operational and 1,258 in-development facilities. The tool aggregates data from property records, CMBS securitizations, bank loans, and corporate debt to track capital flow and financing patterns across the sector.",
-      "impact": "Data center development is consuming significant capital and land in major metros (Virginia, Northern California, Dallas, Phoenix). Multifamily developers should monitor data center concentration in target markets—these uses compete for land, drive up ground lease costs, and can depress or elevate residential demand depending on job creation and wage intensity. Understanding local data center pipelines helps inform whether a market faces residential supply headwinds (land scarcity) or tailwinds (job growth from cloud/AI tenants)."
+      "summary": "Atrium, a San Diego-based AI analytics startup founded in 2024, launched \"Who Finances America's Data Centers,\" an interactive platform tracking $1.3 trillion in identifiable debt financing 4,300+ U.S. data centers. The platform consolidates data from property records, SEC filings, CMBS securitizations, bank loans, and syndications to map capital flows behind 3,038 operational and 1,258 in-development data center deals. It offers a first-of-its-kind view of data center financing sources and destinations.",
+      "impact": "Data center financing, not multifamily. However, the massive debt concentration in data center development ($1.3T) signals continued capital reallocation away from traditional office and toward AI infrastructure, compressing CRE debt markets and raising borrowing costs for non-AI-adjacent assets. Multifamily developers competing for institutional debt in tight capital markets will face stiffer pricing as lenders chase higher-risk, higher-yield data center deals."
     },
     {
       "title": "Corpay’s Cross-Border Business Leases Prebuilt at Rudin’s 560 Lexington",
@@ -92,12 +122,12 @@
       "cat": "Commercial",
       "date": "2026-08-17T22:27:53+00:00",
       "bullets": [
-        "Corpay Cross-Border relocates NYC HQ to 560 Lexington Ave, Plaza District.",
-        "11-year lease for 17,778 sf on entire 17th floor; move-in fall 2025.",
-        "Rudin leveraged prebuilt floor to accelerate tenant move-in and close deal."
+        "Corpay Cross-Border leases 17,778 SF prebuilt at 560 Lexington Ave., NYC.",
+        "11-year lease; HQ relocation to Plaza District; full 17th floor.",
+        "Rudin's prebuilt floor strategy enabled accelerated occupancy and deal close."
       ],
-      "summary": "Corpay Cross-Border Solutions, a foreign exchange and global payments company, signed an 11-year lease to relocate its headquarters to a prebuilt 17,778-square-foot floor at Rudin's 560 Lexington Ave. in Manhattan's Plaza District. The deal validates Rudin's amenity and prebuild strategy in attracting quality tenants with accelerated timelines.",
-      "impact": "This is an office lease, not multifamily, but signals persistent Plaza District / Midtown Manhattan demand from financial services and payment tech firms. Such corporate relocations can anchor residential demand in nearby areas (Murray Hill, Kips Bay, Plaza) if the company brings 200+ employees. Monitor whether Corpay or similar fintech/payments firms expand headcount in NYC, as that drives ancillary demand for luxury rentals and could support nearby multifamily development or conversions."
+      "summary": "Rudin Management Company announced an 11-year office lease with Corpay, Inc.'s Cross-Border Solutions division for 17,778 square feet at 560 Lexington Avenue in the Plaza District. Corpay will relocate its foreign exchange and global payments headquarters to the entire 17th floor this fall. Rudin's prebuilt space and minor-modification approach allowed Corpay to meet an accelerated move-in timeline, citing the Plaza District's continuing appeal for corporate tenants.",
+      "impact": "Office leasing, not multifamily. However, the lease signals continued corporate confidence in Plaza District (Midtown Manhattan) as a premium office anchor, supporting ongoing employer presence and white-collar job stability in the submarket. This reinforces multifamily demand fundamentals in Midtown East and surrounding residential neighborhoods; sustained office occupancy supports proximate renter bases and stabilizes rental demand for luxury and class-A apartments near the Plaza District."
     },
     {
       "title": "Marcus & Millichap’s Azzi Group Closes Value-Add Sale of West Hollywood Multifamily",
@@ -107,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-08-17T22:24:34+00:00",
       "bullets": [
-        "West Hollywood 30-unit property sold for $7.98M ($266K/unit) via Marcus & Millichap.",
-        "Value-add play: vacant units + operational improvements driving returns.",
-        "Buyer attracted by limited supply, walkability, and strong rental demand in WeHo."
+        "Marcus & Millichap closes West Hollywood 30-unit sale at $266K per unit ($7.98M).",
+        "Value-add play with unit renovation and operational improvement upside.",
+        "West Hollywood supply-constrained; strong demand tied to walkability, employment access."
       ],
-      "summary": "The Azzi Group at Marcus & Millichap closed the sale of 1203 N. Kings Road, a 30-unit West Hollywood multifamily asset, for $7.98 million or $266,000 per unit. The buyer is executing a value-add strategy renovating vacant units and improving operations, capitalizing on West Hollywood's limited housing supply, walkability, and proximity to LA employment and lifestyle hubs.",
-      "impact": "West Hollywood multifamily valuations remain elevated on scarcity and quality-of-life factors. The $266K/unit basis signals a tight supply-demand dynamic in a submarket where new construction is heavily restricted. Developers with land or conversion opportunities in WeHo or adjacent LA submarkets (Beverly Hills, Hollywood, Los Feliz) should prioritize entitlements and financing, as the value-add buyer willingness and limited competing supply support strong IRRs."
+      "summary": "Marcus & Millichap's Azzi Group closed the sale of 1203 N. Kings Road, a 30-unit multifamily property in West Hollywood, for $7.98 million ($266,000 per unit). The buyer acquired the asset with significant value-add potential through unit renovations and operational improvements. Azzi Group cited West Hollywood's limited housing supply, walkability, and proximity to major employment and lifestyle centers as drivers of strong rental demand.",
+      "impact": "West Hollywood remains supply-constrained and rental-demand-resilient, supporting continued basis compression and valuation pressure on value-add acquisitions. Sub-$300K per-unit pricing for 30-unit, non-institutional assets reflects aggressive competition from value-add buyers; developers considering West Hollywood infill projects or conversions face higher residual land costs and tighter development feasibility, especially if renovation scope is large. Scarcity of tradeable supply continues to benefit existing owner-operators."
     },
     {
       "title": "Northmarq Arranges $75M Acquisition Loan for Grocery-Anchored Queens Center",
@@ -122,42 +152,12 @@
       "cat": "Commercial",
       "date": "2026-08-17T22:19:02+00:00",
       "bullets": [
-        "Northmarq arranges $75M acquisition/redevelopment loan for Whitestone Shopping Center, Queens.",
-        "119,584 sf grocery-anchored center; Acadia Realty Trust selected as lender.",
-        "Property overlooked for decades; new ownership plans significant transformation."
+        "Northmarq arranges $75M acquisition loan for Whitestone Shopping Center, Queens.",
+        "119,584 SF grocery-anchored center; Key Food anchor; Acadia Realty lender.",
+        "Loan funds acquisition and redevelopment of long-overlooked neighborhood retail asset."
       ],
-      "summary": "Northmarq's New York team arranged a $75 million acquisition and redevelopment loan for Whitestone Shopping Center, a 119,584-square-foot grocery-anchored retail property in Queens anchored by Key Food. Acadia Realty Trust provided the financing to BTF Whitestone LLC, which plans a significant repositioning of an underutilized asset.",
-      "impact": "Neighborhood retail redevelopments in outer-borough Queens (Whitestone) signal capital appetite for value-add retail with ancillary residential upside. Developers should assess whether Whitestone or similar Queens retail corridors (Astoria, Forest Hills, Rego Park) can support mixed-use or multifamily-anchored projects. Underperforming retail in residential neighborhoods often offers land/air-rights opportunities when redeveloped with apartments; monitor Acadia's Whitestone strategy for nearby multifamily development signals."
-    },
-    {
-      "title": "SRS Arranges Sale of Newly Built Caliber Collision Property",
-      "link": "https://www.connectcre.com/stories/srs-closes-sale-of-newly-built-caliber-collision-property/",
-      "excerpt": "SRS Real Estate Partners has completed the $5.24-million sale of a Caliber Collision property located at 742 Main Street in Chula Vista. The 16,832-square-foot property recently completed construction and has a 15-year corporate-guaranteed absolute triple net lease in place. SRS Capital Markets senior managing principals Matthew Mousavi and Patrick Luther and VP Greg Labarre represented the seller, a Southern California-based developer. The buyer was a family trust from Southern California. The property is part of a new development that will feature Starbucks, Quick Quack Car Wash, Taco Bell, Circle K and Chipotle, among other recognizable brands, all separately marketed and available for sale by SRS with a total value of approximately $30 million. It is less than a mile from Interstate 805 and Chula Vista Crossings, a Kohl’s-anchored retail center. “This property had a significant amount of investor interest and sold over the asking price, which was a 5.5% cap rate,” said Luther. “This long-term tenant is poised to do significant business as it is located near multiple auto dealerships and auto service retailers and is in a densely populated area with more than 348,200 residents, and 81,200 employees within a one-mile radius.” Mousavi added, “This was an ideal, fee-simple, low-maintenance opportunity for the new owner as it presents minimal property management responsibilities.” The post SRS Arranges Sale of Newly Built Caliber Collision Property appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-17T22:13:34+00:00",
-      "bullets": [
-        "SRS completes $5.24M sale of Caliber Collision property, Chula Vista, CA.",
-        "16,832 sf; 15-year corporate-guaranteed NNN lease at 5.5% cap rate.",
-        "New mixed-use development near I-805; $30M total project value with Starbucks, QQC, Taco Bell anchors."
-      ],
-      "summary": "SRS Real Estate Partners sold a newly built 16,832-square-foot Caliber Collision property in Chula Vista for $5.24 million on a 15-year corporate-guaranteed triple-net lease at a 5.5% cap rate. The property is part of a larger $30 million mixed-use development near Interstate 805, featuring multiple national retail anchors (Starbucks, Quick Quack, Taco Bell, Circle K, Chipotle).",
-      "impact": "Chula Vista's dense population (348K within 1 mile) and auto-centric retail development signal growing residential demand in San Diego's South County. Multifamily developers should monitor Chula Vista / South Bay San Diego for infill and mixed-use opportunities near retail nodes and transit; these mixed-use hubs often support adjacent apartment projects. The 5.5% cap rate on NNN retail reflects investor confidence in the submarket's fundamentals."
-    },
-    {
-      "title": "NAI Hanson Tapped to Lease Former Barnes & Noble Headquarters",
-      "link": "https://www.connectcre.com/stories/nai-hanson-tapped-to-lease-former-barnes-noble-headquarters/",
-      "excerpt": "NAI James E. Hanson announced that SVPs W. Joshua Levering, SIOR, and Charles Laginestra, and associate Chris D&#8217;Andrea, have been tapped by First National Realty Management, LLC, as the exclusive leasing team for 120 Mountainview Blvd. in Basking Ridge, NJ. The former world headquarters of Barnes &amp; Noble, 120 Mountainview features a two-story lobby, an onsite cafe, outdoor seating, a bocce court, over 500 on-site parking spaces, and more. The property also offers a location near Interstates 78 and 287, providing access to Newark Liberty International Airport, New York City and Somerset County&#8217;s corporate corridor. “This is a rare opportunity to secure a large block of Class-A space in one of the state’s most established corporate corridors,” said Levering. “With new ownership that is experienced and fully committed to reinvesting in the property, 120 Mountainview is perfectly suited for users seeking a striking headquarters that offers flexibility, connectivity, responsive ownership, and a full suite of premium amenities.” The post NAI Hanson Tapped to Lease Former Barnes &amp; Noble Headquarters appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-17T22:03:47+00:00",
-      "bullets": [
-        "NAI Hanson leasing former Barnes & Noble HQ at 120 Mountainview Blvd, Basking Ridge, NJ.",
-        "Class-A office in Somerset County corporate corridor near I-78, I-287, Newark airport.",
-        "Two-story lobby, onsite cafe, 500+ parking; rare large block of premium space."
-      ],
-      "summary": "NAI James E. Hanson was appointed exclusive leasing agent for 120 Mountainview Boulevard, the former Barnes & Noble world headquarters in Basking Ridge, New Jersey. The Class-A office property features premium amenities and connectivity to Interstate 78, 287, Newark Liberty airport, and the corporate corridor, positioning it for large-block tenants.",
-      "impact": "This is an office lease, not multifamily, but Basking Ridge and Somerset County corporate corridor are key employment hubs for North Jersey multifamily demand. If 120 Mountainview successfully leases to large tenants (tech, finance, pharma), it signals sustained job growth and could support new multifamily development in nearby areas (Bernardsville, Gladstone, Bedminster). Monitor Somerset County employment trends as a leading indicator for residential demand."
+      "summary": "Northmarq arranged a $75 million acquisition and redevelopment loan for Whitestone Shopping Center, a 119,584-square-foot grocery-anchored retail property in Queens, for developer BTF Whitestone LLC. The center is anchored by Key Food Supermarket with additional tenants including Webster Bank and JPMorgan Chase. Acadia Realty Trust provided the financing, which backs a significant redevelopment plan to revitalize a long-neglected neighborhood retail destination.",
+      "impact": "Retail redevelopment, not multifamily. However, Whitestone, Queens is a value market with emerging redevelopment activity; grocery-anchored centers undergoing capital-intensive repositioning signal neighborhood stabilization and rising consumer traffic. If the Whitestone Shopping Center project succeeds, proximate residential demand and rents could rise, creating a future acquisition or development window for nearby multifamily sites. Monitor Queens neighborhood-anchored retail projects as leading indicators of residential demand recovery in secondary submarkets."
     },
     {
       "title": "Starwood Lands $483M CMBS Loan to Refi Single-Family Rental Portfolio",
@@ -167,12 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-17T21:35:36+00:00",
       "bullets": [
-        "Starwood Asset Management secures $482.5M CMBS refi for 1,749-property SFR portfolio.",
-        "Portfolio: 96% leased, avg 1,812 sf, assembled 2021-22 at $674M cost.",
-        "Geographically: ~33% Georgia, ~24% Arizona, ~12% Florida; 27 in Palm Beach."
+        "Starwood Asset Management secures $482.5M CMBS refi for 1,749-unit SFR portfolio.",
+        "Portfolio across 10 states; 96%+ leased; Nomura originated floating-rate debt.",
+        "Maturity Aug 2028 with three 12-month extensions; homes span 1,800+ SF."
       ],
-      "summary": "Barry Sternlicht's Starwood Asset Management obtained a $482.5 million CMBS loan (originated by Nomura) to refinance a nearly fully leased single-family rental portfolio of 1,749 homes across 10 states. The homes, averaging 1,812 square feet and built around 1992, were assembled between 2021 and 2022 for $674 million, with concentrations in Georgia, Arizona, and Florida.",
-      "impact": "Starwood's SFR securitization signals strong CMBS appetite for stabilized, diversified SFR portfolios—a trend favoring larger operators and potentially raising exit multiples for smaller SFR portfolios. For multifamily developers, this underscores institutional capital's confidence in rental housing at scale. The Georgia, Arizona, and Florida concentrations mirror multifamily supply constraints in those Sunbelt markets; monitor whether SFR bulk acquisitions are outpacing multifamily land availability, as that signals continued scarcity and support for apartment development fundamentals."
+      "summary": "Barry Sternlicht's Starwood Asset Management secured a $482.5 million CMBS loan (originated by Nomura Securities) to refinance a nearly full 1,749-unit single-family rental portfolio spanning 10 states. The portfolio, assembled between 2021–2022 at a $674 million acquisition cost, was 96%+ leased as of April and comprises homes averaging 1,812 square feet. The floating-rate, interest-only debt matures in August 2028 with three 12-month extension options; 31% of units are in Georgia, 24% in Arizona, and 12% in Florida.",
+      "impact": "SFR refinancing activity signals continued institutional investor confidence in single-family rental yields and credit, but refinancing (not new acquisition) indicates SFR valuations and debt capacity are stable, not expanding aggressively. High leverage on 1,749 units tied to floating-rate CMBS debt exposes Starwood to rate reset risk and refinance timing risk in a potentially higher-rate environment by Aug 2028; if refi markets tighten, distressed SFR sales could depress rents across Georgia, Arizona, and Florida. Multifamily developers in these markets should monitor SFR distress as a leading indicator of rental market weakness."
     }
   ]
 }
