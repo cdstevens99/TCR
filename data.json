@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-19T16:20:33.204078+00:00",
+  "fetchedAt": "2026-08-19T17:18:59.342657+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -9,21 +9,96 @@
     },
     {
       "label": "10Y Treasury",
-      "value": "4.65%",
-      "pct": -1.1
+      "value": "4.66%",
+      "pct": -0.89
     },
     {
       "label": "30Y Treasury",
-      "value": "5.20%",
-      "pct": -1.61
+      "value": "5.21%",
+      "pct": -1.44
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "97.94",
-      "pct": 0.33
+      "value": "98.03",
+      "pct": 0.41
     }
   ],
   "stories": [
+    {
+      "title": "Burlington Takes 44K SF at Bay Ridge Retail Center Development",
+      "link": "https://commercialobserver.com/2026/08/burlington-lease-bay-ridge-retail-century-marketplace/",
+      "excerpt": "Off-price retailer Burlington has inked a 44,070-square-foot retail lease at Century Marketplace, a new retail development coming to 458 86th Street in Bay Ridge, Brooklyn, developer MCB Real Estate announced Tuesday. The site between Fourth and Fifth avenues is undergoing a $130 million mixed-use redevelopment to turn the former 14-lot Century 21 department store assemblage into a 95,000-square-foot retail center. MCB, which began the redevelopment last year, also signed a grocery story to 16,042 square feet of retail space at the property, but would not provide further details. The two leases bring the assemblage to 65 percent leased. The center is expected to open in 2028. &#8220;Century Marketplace is a huge win for Bay Ridge, breathing new life into a long-vacant site and boosting the foot traffic that keeps local small businesses thriving,” Kayla Santosuosso, who represents the area on the City Council, said in a statement. “By creating local jobs, supporting working families and energizing our streets, this project builds on our promise to make our neighborhood a safer, more affordable and lively place to live.&#8221; MCB and urban retail investment firm Osiris Ventures acquired the old Century 21 site in July 2025 for $47.5 million. The length of the Burlington lease and the asking rent were not disclosed. The average asking rent for retail space along 86th Street in Bay Ridge was $85 per square foot last year, according to the most recent Brooklyn retail report from the Real Estate Board of New York. MCB did not disclose the names of the brokers who represented the landlord and the tenant. “Century Marketplace demonstrates MCB Real Estate’s ability to execute complex structuring while delivering high-quality, attractive retail to dense markets,&#8221; Drew Gorman, a principal at MCB, said in a statement. &#8220;By bringing together a nationally recognized specialty grocery anchor, and top national retailers like Burlington, we are reigniting a well-known co",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-19T16:54:13+00:00",
+      "bullets": [
+        "Burlington leases 44,070 SF at Century Marketplace, Bay Ridge, Brooklyn.",
+        "MCB Real Estate $130M mixed-use redevelopment of 14-lot former Century 21 site.",
+        "Retail center 65% leased; opens 2028. Grocery anchor also signed."
+      ],
+      "summary": "MCB Real Estate has secured Burlington as anchor tenant for 44,070 SF at Century Marketplace, a $130 million redevelopment of a defunct Century 21 department store in Bay Ridge, Brooklyn. The project also signed a grocery tenant to 16,042 SF, bringing total occupancy to 65%. The 95,000-SF retail center is expected to open in 2028.",
+      "impact": "Limited direct multifamily relevance. Mixed-use redevelopment signals neighborhood revitalization and foot-traffic recovery in Bay Ridge, which could eventually support adjacent residential demand, but this phase is retail-focused. Watch for future residential components or pipeline projects in the submarket as retail anchors stabilize the neighborhood."
+    },
+    {
+      "title": "Creation, Crow Holdings Building 700K-SF Avondale Warehouse Facility",
+      "link": "https://www.connectcre.com/stories/creation-crow-holdings-building-700k-sf-avondale-warehouse-facility/",
+      "excerpt": "Creation in partnership with a real estate fund advised by Crow Holdings Capital, has begun construction on Avondale Tech Center, a three-building Class-A industrial campus spanning 38 acres and totaling approximately 700,000 square feet. The three buildings range from 212,184 to 254,264 square feet and feature 36-foot clear heights. The development will include tenant-focused outdoor amenities not typically found in industrial developments, such as dedicated gathering areas for each building, a walking path encircling the campus and shared pickleball courts. The campus is designed to serve advanced manufacturing, research and development and assembly operations, with target industries including pharmaceutical development, aerospace, semiconductor manufacturing and defense contracting. LGE Design Build is both the architect and general contractor for the project. Leading leasing efforts are Riley Gilbert along with John Lydon and Kelly Royle of JLL. Completion is targeted for Q3 2027. The post Creation, Crow Holdings Building 700K-SF Avondale Warehouse Facility appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-19T16:48:48+00:00",
+      "bullets": [
+        "Creation and Crow Holdings Capital building 700K SF Avondale Tech Center, 38 acres.",
+        "Three Class-A industrial buildings, 36-foot clear heights; targets pharma, aerospace, semiconductor.",
+        "Completion Q3 2027. Designed for R&D and advanced manufacturing clusters."
+      ],
+      "summary": "Creation, in partnership with Crow Holdings Capital, has begun construction on Avondale Tech Center, a 700,000-SF, three-building Class-A industrial campus on 38 acres. The development targets advanced manufacturing, R&D, pharma, aerospace, and semiconductor tenants with 36-foot clear heights and unusual campus amenities (pickleball courts, walking paths). Completion targeted for Q3 2027.",
+      "impact": "Industrial growth in Avondale signals strong demand for advanced-manufacturing and R&D employment hubs in the Phoenix metro. This type of specialized industrial cluster typically attracts high-wage technical talent, driving downstream multifamily demand in adjacent submarkets. Monitor absorption and tenant roster to identify which neighborhoods benefit from inbound worker migration and rental growth tailwinds."
+    },
+    {
+      "title": "CBRE: U.S. and Canadian AI Jobs Grow 45% Year-Over-Year",
+      "link": "https://www.connectcre.com/stories/cbre-u-s-and-canadian-ai-jobs-grow-45-year-over-year/",
+      "excerpt": "The ranks of U.S. and Canadian tech talent skilled in artificial intelligence grew by 45% in the past year, with AI-related roles now accounting for nearly a third of U.S. tech-talent job listings and boosting office-leasing activity in top tech hubs, CBRE reported. The firm’s 13th annual Scoring Tech Talent report highlights the clustering of AI jobs: 37% of AI jobs in the U.S. are found in the San Francisco Bay Area, New York City, Seattle and Washington, DC, while in Canada, the concentration is even greater as Toronto, Montreal and Vancouver claim 60% of AI jobs. CBRE expects the AI industry’s momentum to benefit office markets in key hubs. That’s especially true in San Francisco, where AI companies have accounted for 30% of leasing activity, roughly 10 million square feet, since 2023. “There’s no denying that AI is reshaping the tech industry and job growth in general,” said Colin Yasukochi, executive director of CBRE’s Tech Insights Center in San Francisco. “Growth of AI jobs in the U.S. far outpaced the broader tech-talent category, which expanded by 1.8% last year even as the tech industry cut some non-AI jobs. Markets adding AI jobs are further cementing their status as tech talent capitals.” The post CBRE: U.S. and Canadian AI Jobs Grow 45% Year-Over-Year appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-19T16:40:38+00:00",
+      "bullets": [
+        "U.S. and Canadian AI jobs grew 45% YoY; now ~33% of U.S. tech listings.",
+        "37% of U.S. AI jobs in SF Bay, NYC, Seattle, DC; 60% of Canadian jobs in Toronto, Montreal, Vancouver.",
+        "AI companies drove 10M SF office leasing in SF since 2023; 30% of Bay Area leasing activity."
+      ],
+      "summary": "CBRE reports AI-related jobs grew 45% in the past year across the U.S. and Canada, now representing nearly one-third of tech-talent job listings. AI employment is heavily concentrated in four U.S. metros (San Francisco, New York, Seattle, Washington DC) and three Canadian cities, with AI companies accounting for 30% of San Francisco office leasing and roughly 10 million SF since 2023.",
+      "impact": "AI job clustering in major tech hubs—especially SF, NYC, Seattle, DC—is driving office demand but NOT multifamily directly in the headline. However, the second-order effect is critical: rapid, high-wage AI talent inflow into these metros will fuel residential demand and rent growth, particularly in neighborhoods with proximity to tech clusters. Developers in these metros should front-load acquisition and underwriting in submarkets adjacent to AI company concentrations before land and construction costs reflect demand acceleration."
+    },
+    {
+      "title": "PCCP, RPM Pick Up 358-Unit Arlington Multifamily Community",
+      "link": "https://www.connectcre.com/stories/pccp-rpm-pick-up-358-unit-arlington-multifamily-community/",
+      "excerpt": "A joint venture between PCCP and RPM Living Investments has acquired Truman at Arlington Commons, a four-story multifamily community located at 505 E Lamar Boulevard in Arlington, TX. The property was developed and owned by The Nehemiah Company. Built in 2021, the property features 358 units with an average size of 807 square feet (sf), across floorplans ranging from 576 to 1,594 sf. The units feature 10-foot ceilings, with select units offering 14-foot ceiling heights. 4,900 square feet of ground-floor retail is occupied by Nehemiah Coffee Company. Truman at Arlington Commons is located in North Arlington, a centrally positioned pocket between Dallas and Fort Worth with direct access to Interstate 30. The location provides connectivity to Arlington’s primary employment and entertainment districts, including AT&amp;T Stadium, Globe Life Field, and Texas Live!, which together attract more than 50 million visitors annually. PCCP has approximately $29.3 billion in assets under management on behalf of institutional investors . The post PCCP, RPM Pick Up 358-Unit Arlington Multifamily Community appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-19T16:25:41+00:00",
+      "bullets": [
+        "PCCP and RPM Living acquired 358-unit Truman at Arlington Commons, Arlington, TX.",
+        "Built 2021, 807 SF average; near AT&T Stadium, Globe Life Field; 50M annual visitors.",
+        "North Arlington submarket between Dallas-Fort Worth; 4,900 SF ground-floor retail occupied."
+      ],
+      "summary": "A joint venture of PCCP and RPM Living Investments has acquired Truman at Arlington Commons, a 358-unit multifamily community in North Arlington, Texas, built in 2021 with an average unit size of 807 SF. The property is positioned between Dallas and Fort Worth with direct I-30 access and proximity to major entertainment and employment anchors (AT&T Stadium, Globe Life Field) that attract over 50 million annual visitors.",
+      "impact": "Institutional capital flows into Arlington mid-cycle assets signal continued confidence in the DFW corridor and its job-creation trajectory. This acquisition by established operators suggests stable rental fundamentals and lower basis in a central DFW submarket. For developers, Arlington's position as a geographic and employment middle ground between Dallas and Fort Worth makes it an attractive target for new supply if major employers continue to decentralize from downtown cores."
+    },
+    {
+      "title": "Urban Standard Capital Provides $27M Land Loan for 440-Unit Vail, Colo., Complex",
+      "link": "https://commercialobserver.com/2026/08/urban-standard-capital-27m-land-loan-vail-colo-complex/",
+      "excerpt": "Aptitude Development has secured $26.5 million in financing to acquire 53 acres of land that will be the site of Edwards River Park, a 440-unit residential community split between affordable apartments and for-sale townhouses and condominiums in Vail, Colo., Commercial Observer can first report. Seth Weissman’s Urban Standard Capital provided the financing, while BayBridge Real Estate Capital’s Jay Miller arranged the transaction. Jared Hutter, CEO of Aptitude Development, said in a statement that the financing deal with Urban Standard Capital required four years to complete and described the lender as “a truly nimble capital partner exactly when we needed it.” Located in Vail Valley 4 miles from the famous Beaver Creek Resort and 10 miles from the 5,300-acre Vail Ski Resort, the land for what will be Edwards River Park received entitlement approval for development from the Eagle County commissioners in July 2025, with the first phase of construction expected to begin within 12 to 18 months. The final asset will be split between 276 rental apartments, with some of these units price-capped, and 164 for-sale homes, sold as either townhouses or condominiums, with some resident-occupied, deed-restricted entities and others sold as market-rate. Charlie Brosens, partner at Urban Standard Capital, said in a statement that the new asset addresses “an acute need for workforce housing in supply-constrained mountain town economies.” Eagle County currently has a workforce housing gap that is expected to grow by 58 percent by 2035, according to the firm. In recent years, Urban Standard has financed residential developments in Aspen and Telluride, Colo.; Park City, Utah; Jackson, Calif.; Driggs, Idaho; and Lake Tahoe, Nev. “These are some of the most supply-constrained, capital-intensive housing markets in the country, and sponsors need a lending partner who understands the entitlement complexity and demand fundamentals unique to resort-adjacent communities,” said Jake Simpson, s",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-19T16:21:56+00:00",
+      "bullets": [
+        "Urban Standard Capital provided $26.5M land loan for Edwards River Park, Vail, CO.",
+        "Aptitude Development: 440 units (mix affordable apartments and for-sale condos/townhouses); 53 acres.",
+        "Entitlement approved July 2025; construction begins in 12–18 months. 4 miles from Beaver Creek, 10 miles from Vail Ski."
+      ],
+      "summary": "Aptitude Development secured $26.5 million in land financing from Urban Standard Capital to acquire 53 acres in Vail, Colorado for Edwards River Park, a 440-unit mixed-tenure development (affordable apartments, townhouses, condos). The project received entitlement approval in July 2025 and construction is expected to begin within 12–18 months, positioned 4 miles from Beaver Creek Resort and 10 miles from Vail Ski Resort.",
+      "impact": "Resort-proximate mixed-income residential development in Vail reflects continued confidence in mountain resort markets and signals demand for both workforce housing (affordability) and for-sale luxury product (high-end second homes, investment condos). For developers in ski-adjacent markets, the 440-unit scale and 12–18 month build timeline suggest strong presales/off-plan absorption. This also indicates lender comfort with entitlement-stage mountain projects, widening financing availability in resort submarkets."
+    },
     {
       "title": "Kidder Mathews Entering Dallas Market",
       "link": "https://www.connectcre.com/stories/kidder-mathews-entering-dallas-market/",
@@ -32,12 +107,12 @@
       "cat": "Commercial",
       "date": "2026-08-19T16:10:01+00:00",
       "bullets": [
-        "Kidder Mathews opens first Texas office in Dallas with 6 brokers, $3.5B transaction track record.",
-        "Team includes former Edge Capital Markets co-founders; healthcare tenant advisory specialist added.",
-        "Expands firm to 20 offices across six states; positions for DFW multifamily brokerage growth."
+        "Kidder Mathews entering Dallas market with six brokers; first Texas office.",
+        "Team led by Edge Capital Markets co-founders; $3.5B transaction history.",
+        "Expands firm footprint to 20 offices across six states; DFW-focused investment sales and healthcare advisory."
       ],
-      "summary": "Kidder Mathews, a major commercial real estate brokerage, is entering Dallas with a 6-person team led by former Edge Capital Markets co-founders Mart Martindale, Brandon Beeson, and Wilson Stafford. The new office will serve the Dallas-Fort Worth metroplex and includes a healthcare tenant advisory specialist. The team has completed over $3.5 billion in transactions and valued more than $20 billion in assets, with major institutional clients including KeyBank and EPR Properties Trust.",
-      "impact": "Brokerage expansion signals confidence in DFW market depth and transaction volume. Multifamily developers should expect increased competitive brokerage coverage, tighter bid-ask spreads on acquisitions, and more sophisticated capital sources entering the market—accelerating both deal velocity and pricing discipline in Dallas-Fort Worth submarkets."
+      "summary": "Kidder Mathews is opening its first Texas office in Dallas with six hires, including an investment sales team and healthcare tenant specialist. The office is led by former Edge Capital Markets co-founders and brings over $3.5 billion in completed transactions and $20 billion in asset valuations. The expansion marks the firm's entry into the DFW market and expands its footprint to 20 offices across six states.",
+      "impact": "Minimal direct multifamily impact. Broker expansion signals confidence in DFW market depth and capital availability, but does not directly affect supply, demand, or cost for apartment developers. Monitor: if Kidder Mathews' client roster (KeyBank, EPR Properties, CWCapital, etc.) increase multifamily acquisitions, it may signal institutional capital flows into DFW assets worth tracking."
     },
     {
       "title": "Knightvest Capital Acquires 1,027-Unit Round Rock Apartment Portfolio",
@@ -47,42 +122,12 @@
       "cat": "Commercial",
       "date": "2026-08-19T15:52:04+00:00",
       "bullets": [
-        "Knightvest acquires Silicon Hills portfolio: 1,027 units across three Round Rock communities.",
-        "Three stabilized assets (built 2001–2004) in La Frontera master-plan and Lakeline submarket.",
-        "Comprehensive renovation program planned; portfolio renamed to rebrand aging assets."
+        "Knightvest Capital acquired Silicon Hills portfolio: 1,027 units across three Round Rock, TX communities.",
+        "Enclave (411U, built 2004), Lakeside (366U, built 2001), Legends Lake Creek (250U, built 2001).",
+        "Comprehensive renovation program; rebranding to Brixton, Calder, Sutton. Properties in La Frontera and Lakeline submarkets."
       ],
-      "summary": "Knightvest Capital acquired the Silicon Hills portfolio—three stabilized apartment communities totaling 1,027 units in Round Rock, Texas from Lynd Living. The portfolio includes Enclave at La Frontera (411 units, 2004), Lakeside at La Frontera (366 units, 2001), and Legends Lake Creek (250 units, 2001). Knightvest plans exterior, amenity, and unit-level renovations, along with rebranding the properties as Brixton, Calder, and Sutton.",
-      "impact": "Value-add acquisition in Round Rock signals sustained demand for Class B/C asset renovation in the Austin metro periphery. Knightvest's rebranding and capex reinvestment suggests confidence in rent growth and NOI expansion; developers should monitor La Frontera master-plan and Lakeline submarkets for infill and ground-up opportunities, as stabilization-stage activity often precedes new supply."
-    },
-    {
-      "title": "Oxford Properties Pays $435M for Fan Pier Office Tower",
-      "link": "https://www.connectcre.com/stories/oxford-properties-pays-435m-for-fan-pier-office-tower/",
-      "excerpt": "Toronto-based Oxford Properties Group said Wednesday it had acquired One Marina Park Drive, an 18-story Class A office tower located on Fan Pier in Boston’s Seaport District, from Clarion Partners for US$435 million. The deal represents Oxford&#8217;s first acquisition of a core office asset in the U.S. in nearly a decade Oxford has spent the past decade diversifying its holdings across major asset classes and recycled approximately US$14 billion out of the office sector globally during the low-rate environment from 2018 to 2022, although it has continued to own high-profile properties in Boston. More recently, it has ramped up office investment, deploying approximately US$2 billion into the sector globally since the start of 2025. “We continue to see compelling opportunities to invest in premier office assets in gateway cities that are well-located, well-amenitized and positioned to benefit from the increasing focus on quality,” said Ankit Bhatt, head of US investments at Oxford Properties. “One Marina Park Drive exemplifies that opportunity. It combines a premier waterfront location, a diverse occupier ecosystem, and exceptional connectivity within one of Boston’s most desirable office districts.” The transaction is believed to represent the highest price paid for a Boston office property since One Lincoln sold in 2006 for $889 million, according to the Boston Business Journal. As a measure of what were then declining office values in Boston, One Lincoln sold at auction for $400 million in early 2025. The post Oxford Properties Pays $435M for Fan Pier Office Tower appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-19T15:48:52+00:00",
-      "bullets": [
-        "Oxford Properties acquires One Marina Park Drive (Class A office) in Boston Seaport for $435M.",
-        "First U.S. core office acquisition by Oxford in nearly a decade; globally deployed $2B into office since early 2025.",
-        "Asset located in premier waterfront district with diverse occupier base and strong connectivity."
-      ],
-      "summary": "Toronto-based Oxford Properties Group acquired One Marina Park Drive, an 18-story Class A office tower in Boston's Seaport District, from Clarion Partners for $435 million. This represents Oxford's first U.S. core office acquisition in nearly a decade and reflects a broader pivot: after recycling $14 billion out of office globally from 2018–2022, Oxford has deployed approximately $2 billion back into the sector globally since early 2025, targeting premier gateway assets.",
-      "impact": "Minimal direct impact to multifamily development. Oxford's renewed office appetite signals stabilizing cap rates and institutional confidence in Boston and other gateway markets, which can ease overall financing conditions and improve land acquisition climate. However, office capital returning to Boston does not directly compete with multifamily for land or labor in submarkets where multifamily is the primary development focus."
-    },
-    {
-      "title": "Trammell Crow Building Phase II of 2M-SF Houston Industrial Venture",
-      "link": "https://www.connectcre.com/stories/trammell-crow-building-phase-ii-of-2m-sf-houston-industrial-venture/",
-      "excerpt": "Trammell Crow Company and joint venture partner Daiwa House Texas have broken ground on Phase II of Blue Ridge Commerce Center in Houston, Texas. This latest phase, spanning 40.9 acres, will include three speculative buildings totaling 687,000 square feet, with buildings ranging from 182,000 to 303,000 square feet. Phase II is scheduled for a Spring 2027 delivery.The project is located at the northeast corner of Fort Bend Parkway and McHard Road in Fort Bend County, approximately two miles south of Beltway 8. Phase I was delivered last fall. It includes five buildings totaling 1,350,559 square feet. Since its delivery, three of the buildings have been sold to owner-occupants, while another was fully leased. Building 2, a 157,626 square-foot front-load building, remains available. Seeberger Architecture designed Blue Ridge Commerce Center Phase II. E.E. Reed Construction is the general contractor for all Phase II buildings. Sumitomo Mitsui Banking Corporation provided project financing. Cape Bell and Jason Dillee of CBRE are marketing and leasing both phases of the project. The post Trammell Crow Building Phase II of 2M-SF Houston Industrial Venture appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-19T15:38:38+00:00",
-      "bullets": [
-        "Trammell Crow and Daiwa House break ground on Phase II, Blue Ridge Commerce Center (Houston).",
-        "Phase II: 40.9 acres, three spec buildings, 687K SF; Spring 2027 delivery in Fort Bend County.",
-        "Phase I delivered fall 2025 (1.35M SF); total project on track for 2M SF industrial hub."
-      ],
-      "summary": "Trammell Crow Company and Daiwa House Texas broke ground on Phase II of Blue Ridge Commerce Center in Houston's Fort Bend County, near the northeast corner of Fort Bend Parkway and McHard Road. Phase II encompasses 40.9 acres with three speculative buildings totaling 687,000 square feet (ranging 182K–303K SF each), scheduled for Spring 2027 delivery. Phase I delivered in fall 2025 with five buildings totaling 1.35 million square feet.",
-      "impact": "Not applicable to multifamily. Trammell Crow's aggressive industrial spec pipeline in Fort Bend reflects strong logistics demand in the Houston metro and tight industrial supply. While not a direct multifamily play, large-scale industrial construction activity drives regional labor demand and population inflow—supporting underlying fundamentals for multifamily demand in southwest Houston and Fort Bend County submarkets."
+      "summary": "Knightvest Capital has acquired the Silicon Hills portfolio, comprising three communities totaling 1,027 units in Round Rock, Texas, all built between 2001–2004. Two properties (Enclave and Lakeside) are adjacent in the La Frontera mixed-use development; the third (Legends Lake Creek) is located six miles west in the Lakeline/Lake Creek submarket. Knightvest plans comprehensive renovations and rebranding.",
+      "impact": "Value-add acquisition of older garden-style stock in Round Rock signals strong rent growth fundamentals and investor confidence in the Austin-adjacent submarket. Large portfolio acquisition by institutional operator suggests high absorption of renovated units post-improvement. For developers, this validates Round Rock's appeal as a demographic and employment draw (proximity to tech firms, workforce housing demand) and suggests room for newer Class-A product if Knightvest's repositioning achieves premium rent spreads."
     },
     {
       "title": "New York’s 485-x Is Teaching Developers to Stay Below 100 Apartments at a Time",
@@ -92,27 +137,12 @@
       "cat": "Commercial",
       "date": "2026-08-19T15:24:48+00:00",
       "bullets": [
-        "NYC's 485-x program: 312 registrations analyzed; only 0.9% (3 projects) exceed 100 units.",
-        "99.1% of projects filed are sub-100 units; median project is 24 units; 31% have ≤10 units.",
-        "Developer behavior reveals 100-unit threshold acts as financing/feasibility cliff, not just policy threshold."
+        "NYC 485-x registrations: 312 filed through April 2026; 99.1% below 100 units.",
+        "Median project 24 units; nearly one-third have ≤10 units. Only 0.9% reached 100+ units.",
+        "Regulatory threshold at 100 units drives development fragmentation; feasibility framework, not scale-up program."
       ],
-      "summary": "An analysis of 312 registrations filed under New York City's 485-x tax incentive program through April 2026 reveals that only three projects (0.9%) contain 100 or more apartments. The other 99.1% remain below 100 units, with a median project size of just 24 apartments and nearly one-third containing 10 or fewer units. The consistent clustering below 100 units suggests the threshold functions as a hard feasibility constraint for developers, not merely a policy target.",
-      "impact": "485-x is fragmenting NYC's rental pipeline into micro-projects. Developers underwriting multifamily in Manhattan and outer boroughs should expect: (1) higher per-unit soft costs and financing friction on smaller deals; (2) delayed rent-up and slower absorption across dispersed properties; (3) reduced economies of scale and property management efficiency. The supply response will be slower and more diffuse than policymakers intended, prolonging NYC's rental shortage and supporting rent growth in the near to medium term."
-    },
-    {
-      "title": "Investment Team Inks $125M Construction Loan for Miami Design District Office/Retail Project",
-      "link": "https://www.connectcre.com/stories/investment-team-inks-125m-construction-loan-for-miami-design-district-office-retail-project/",
-      "excerpt": "Miami Design District Associates and Raycliff Capital broke ground on an office/retail project in the Miami Design District. The S. Florida Business Journal reports that the group began work on the project soon after securing a $125 million construction loan. Credit Agricole Corporate and Investment Bank, acting on behalf of a group of lenders, granted the mortgage. The eight-story building will feature 92,000 square feet of office space and 22,500 square feet of ground-floor retail. The neighboring Museum Garage will provide the parking spaces for the project. Norway-based Snøhetta is designing the project It’s work includes the Bibliotheca Alexandrina in Egypt, the Norwegian National Opera and Ballet, and the National September 11 Memorial Museum Pavilion in New York. Kast Construction is serving as the general contractor. The post Investment Team Inks $125M Construction Loan for Miami Design District Office/Retail Project appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-19T14:51:27+00:00",
-      "bullets": [
-        "Miami Design District: $125M construction loan from Credit Agricole for office/retail mixed-use.",
-        "Eight-story building: 92K SF office, 22.5K SF retail; parking via adjacent Museum Garage.",
-        "Designed by Snøhetta; Kast Construction is GC; project proceeding post-financing close."
-      ],
-      "summary": "Miami Design District Associates and Raycliff Capital secured a $125 million construction loan from Credit Agricole Corporate and Investment Bank to develop an office/retail mixed-use project in the Miami Design District. The eight-story building will include 92,000 square feet of office space and 22,500 square feet of ground-floor retail, designed by renowned firm Snøhetta and built by Kast Construction.",
-      "impact": "Limited direct relevance to multifamily. The $125M construction financing for a mixed-use office/retail project signals lender appetite for Miami Design District projects and prime Florida CRE. The success of this development could sustain or accelerate mixed-use and retail capex in Miami, but does not affect multifamily supply, demand, or financing fundamentals in South Florida."
+      "summary": "An analysis of 312 New York City 485-x registrations through April 2026 reveals that 99.1% of projects filed contain fewer than 100 units, with a median size of just 24 units and nearly one-third containing 10 or fewer units. Only three projects (0.9%) exceed 100 units. The pattern suggests that the 100-unit threshold functions as a hard feasibility breakpoint for developers, not merely an administrative checkpoint.",
+      "impact": "Critical for NYC multifamily developers: the 485-x program is enabling smaller, scattered-site projects but fragmenting supply into sub-100-unit parcels. This creates an arbitrage opportunity for developers able to assemble multiple small sites or propose phased development on larger land banks that clear the feasibility line. Conversely, it indicates financing and pro-forma feasibility challenges at scale in NYC, pushing capital toward neighborhood-focused micro-projects rather than large, integrated communities. Watch for aggregation plays or conversion of existing buildings."
     },
     {
       "title": "Investors Are Gaining More Confidence in Office: Survey",
@@ -122,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-08-19T14:44:34+00:00",
       "bullets": [
-        "SitusAMC ValTrends Q2 2026: Office investor preference reached 11%, up from 4% in early 2025.",
-        "Still below Q1 2026 level (16%); increased clarity on valuations and distressed debt pressure cited.",
-        "Represents reversal of years-long investor exodus from office sector."
+        "SitusAMC survey: office investment preference rose to 11% in Q2 2026 vs. 4% in early 2025.",
+        "First quarter 2026 saw 16% preference; upward trend despite sentiment still below historical norms.",
+        "Clearer valuations and distressed-debt pressure driving renewed institutional appetite for office assets."
       ],
-      "summary": "Investment appetite for office assets is reviving in 2026, according to SitusAMC's latest ValTrends quarterly research. Investor preference for office transactions reached 11 percent in Q2 2026, compared to just 4 percent in early 2025. While this trails the 16 percent recorded in Q1 2026, it marks a significant upswing from the low single-digit sentiment that prevailed for years. Increased clarity on office valuations and pressure on some distressed debt are driving renewed interest.",
-      "impact": "Office capital recovery has no direct impact on multifamily underwriting, but signals broader market stabilization and capital availability. Renewed office investor appetite may ease competition for development financing (capital flowing back to office pulls pressure off multifamily markets) and stabilize commercial real estate pricing. Multifamily developers should benefit from moderating cap rate compression and improved leverage terms as overall CRE sentiment strengthens across asset classes."
+      "summary": "Office investment appetite among institutional CRE investors is improving, with preference for office deals reaching 11% in Q2 2026, up from just 4% in early 2025 (and 16% in Q1 2026). Clearer valuations and increased pressure on distressed office debt are cited as drivers of the renewed interest, marking a significant shift after years of single-digit sentiment.",
+      "impact": "Modest relevance to multifamily developers. Office recovery signals general capital availability and institutional confidence in CRE, which can improve financing conditions for other asset classes. However, office-focused capital may crowd out multifamily capital if institutional investors allocate more dry powder to office acquisitions and conversions. Monitor: if office conversion pipelines accelerate in key multifamily metros (NYC, SF, DC), they may reduce available workforce housing supply and indirectly support rents in adjacent residential markets."
     },
     {
       "title": "Mexican Restaurant Santo Taco Subleases Former West Village Dig Inn Space",
@@ -137,42 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-19T13:34:52+00:00",
       "bullets": [
-        "Santo Taco subleases 2.8K SF at 232 Bleecker Street (West Village) from former Dig Inn space.",
-        "Sublease runs through 2041; nearby Meatpacking District retail asking at $252/SF in Q2 2026.",
-        "Represents third Santo Taco location; off-market deal, rent undisclosed."
+        "Santo Taco subleases 2,800 SF former Dig Inn space, 232 Bleecker Street, West Village, NYC.",
+        "Mexican restaurant startup; sublease runs to 2041. Nearby asking rent $252/SF (Meatpacking District Q2 2026).",
+        "Santo Taco already operates two NYC locations; third opening next month in retail sublease deal."
       ],
-      "summary": "Mexican restaurant Santo Taco is subleasing a 2,800-square-foot street-level and below-grade space at 232 Bleecker Street in Manhattan's West Village, taking over the former Dig Inn location. The sublease runs until 2041. The deal was brokered off-market by ManagRE's Navin Bhutani, and nearby Meatpacking District retail was asking $252 per square foot in Q2 2026. This is Santo Taco's third location in New York City.",
-      "impact": "Not relevant to multifamily development. Retail tenant activity in West Village signals ongoing demand for street-level food and beverage space but does not affect apartment supply, demand, or development feasibility in Manhattan or NYC."
-    },
-    {
-      "title": "Goodland Pickleball Takes 30K SF for New Indoor Clubs in Brooklyn, Queens",
-      "link": "https://commercialobserver.com/2026/08/goodland-pickleball-lease-williamsburg-rego-park-clubs/",
-      "excerpt": "Indoor pickleball club operator Goodland Pickleball has secured two new club locations in New York City, Commercial Observer has learned. The long-term leases span a total of 30,100 square feet within Class A buildings in Williamsburg, Brooklyn, and Rego Park, Queens. Goodland, which secured its first indoor New York City club in Brooklyn’s Greenpoint neighborhood in 2024, reports more than 11,000 members across the city. Goodland’s Williamsburg lease, located at Rabsky Group’s 105 North 13th Street, is slated to become its new flagship location. Spanning 14,600 square feet, the club will feature four courts across two floors with 20-foot ceilings, as well as a private fifth-floor court, an outdoor terrace and a sushi bar. The Williamsburg site attracted competition from multiple pickleball operators, Hemant Chavan, founder and CEO of Goodland Pickleball, told CO. Chavan called the site “a needle in a haystack,” estimating that fewer than two dozen indoor spaces suited to pickleball’s lofty space needs exist in the city. Goodland declined to provide the asking rent, but asking retail rents along Bedford Avenue’s nearby North Eighth and North 12th streets corridor averaged $245 per square foot in the latter half of 2025, according to the Real Estate Board of New York (the most recent data available). A rendering of Goodland Pickleball&#8217;s planned facility in Rego Park, Queens. RENDERING: Courtesy Goodland Pickleball Goodland represented itself in both lease deals, the second of which landed Goodland 15,500 square feet at RB Realty Capital’s 98-22 Queens Boulevard in Rego Park. The location will accommodate six courts, including a badminton court. Recent asking rents for Queens retail spaces averaged $42.47 per square foot, according to data from CommercialCafe. Both of Goodland’s new sites belong to Class A buildings. Chavan said Goodland is the first company in the city to operate indoor pickleball courts inside such assets. “Most indoor pickleball courts are in",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-19T13:00:34+00:00",
-      "bullets": [
-        "Goodland Pickleball secures 30.1K SF across two NYC club locations: Williamsburg and Rego Park.",
-        "Williamsburg flagship (14.6K SF) at 105 North 13th Street; Rego Park location undisclosed size.",
-        "Goodland reports 11K+ members across NYC; fewer than 24 Class A sites citywide suit pickleball specs."
-      ],
-      "summary": "Goodland Pickleball, an indoor pickleball operator, has secured two new club locations totaling 30,100 square feet in New York City—one in Williamsburg, Brooklyn (14,600 SF at 105 North 13th Street, a flagship location) and one in Rego Park, Queens. Goodland now operates multiple NYC clubs with over 11,000 members. Founder Hemant Chavan estimates fewer than two dozen Class A spaces in the city are suitable for pickleball's spatial requirements.",
-      "impact": "Not relevant to multifamily development. Goodland's expansion represents recreational amenity and entertainment demand in outer-borough neighborhoods, but does not affect apartment supply, construction costs, financing, or rental demand. The scarcity of suitable indoor venues may signal underutilized Class A real estate or non-traditional tenant absorption in Brooklyn and Queens, but neither supports nor constrains multifamily development."
-    },
-    {
-      "title": "National Resources Sells New York-Area Mixed-Asset Portfolio for $450M",
-      "link": "https://commercialobserver.com/2026/08/national-resources-450m-sale-lincoln-property-company-saber-hightower-waterfall-asset-management/",
-      "excerpt": "The wait was well worth it. A more than year-long process that began last summer when National Resources CEO Lynne Ward contacted Marty Berger, co-founder of Saber-Hightower, about selling a mixture of commercial real estate assets across the New York City region as part of an estate sale produced a winning result. A joint venture between Lincoln Property Company, Saber-Hightower and Waterfall Asset Management acquired four National Resources properties encompassing more than 4million square feet in New York, New Jersey and Connecticut, for $450 million, Commercial Observer has learned. The acquisition, which is anchored by iPark 84, a 270-acre business park in East Fishkill, N.Y., took longer than usual to close given the amount of acreage involving three states, according to Jared Toothman, executive vice president and New York City metro market leader at Lincoln. Toothman said Berger invited him to his golf club to discuss the deal and later added Waterfall to the partnership after pitching the opportunity to investors. “We shook hands on it over a card table at a golf club and then we were off to the races,” Berger told CO. “We took a very long time to really get our hands around a portfolio to be able to extract all the pieces.” The iPark 84 property 50 miles north of Manhattan consists of a 1.8 million-square-foot campus originally developed for IBM’s flagship semiconductor manufacturing plant. It has a diverse tenant mix that includes IBM, Samsung subsidiary eMagin and agricultural company Cal-Maine, and can accommodate 1.5 million square feet of additional development The sale also features a 29-acre, mixed-use center at 761 Main Street in Norwalk, Conn., anchored by a Northwell Health medical outpatient complex, The roughly 400,000 square-foot property includes the corporate headquarters of bicycle company Cannondale, a 70,000-square-foot gym and space for approved multifamily development. The transaction also consists of Edgewater Harbor, in Edgewater, N.J",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-19T12:00:32+00:00",
-      "bullets": [
-        "National Resources sells NY-area mixed-asset portfolio for $450M to JV: Lincoln Property, Saber-Hightower, Waterfall.",
-        "Portfolio: 4M+ SF across NY, NJ, CT; anchored by iPark 84 (270-acre business park in East Fishkill).",
-        "Estate sale closed after 1+ year; multi-state complexity extended timeline."
-      ],
-      "summary": "A joint venture between Lincoln Property Company, Saber-Hightower, and Waterfall Asset Management acquired National Resources' mixed-asset portfolio for $450 million. The transaction encompasses four properties totaling over 4 million square feet across New York, New Jersey, and Connecticut, anchored by iPark 84, a 270-acre business park in East Fishkill, New York. The estate sale took over a year to close due to the complexity of coordinating assets across three states.",
-      "impact": "Not relevant to multifamily development. The iPark 84 business park acquisition signals institutional appetite for industrial and flex real estate in the Hudson Valley and tri-state region, but does not affect multifamily fundamentals. However, large industrial park activity in East Fishkill may support population and wage growth that eventually benefits downstream multifamily demand in regional submarkets."
+      "summary": "Santo Taco, a Mexican food concept launched by Santiago Perez in 2025, has subleased a 2,800-SF street-level and below-grade space in Manhattan's West Village (232 Bleecker Street) formerly occupied by Dig Inn. The sublease extends to 2041; comparable retail rents in the nearby Meatpacking District averaged $252/SF in Q2 2026. This is the brand's third New York location.",
+      "impact": "No direct multifamily impact. Retail subleasing in West Village signals continued demand for food-service and hospitality tenants in high-barrier Manhattan neighborhoods, but does not affect residential supply, demand, or feasibility. Indirect signal only: strong retail leasing and new restaurant openings in premium Manhattan submarkets can support positive retail income in mixed-use multifamily developments but does not drive new residential construction decisions."
     }
   ]
 }
