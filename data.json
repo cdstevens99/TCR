@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-19T14:23:59.007036+00:00",
+  "fetchedAt": "2026-08-19T15:22:13.103860+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -10,20 +10,80 @@
     {
       "label": "10Y Treasury",
       "value": "4.65%",
-      "pct": -1.21
+      "pct": -1.13
     },
     {
       "label": "30Y Treasury",
-      "value": "5.20%",
-      "pct": -1.67
+      "value": "5.19%",
+      "pct": -1.82
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "98.56",
-      "pct": 0.96
+      "value": "98.19",
+      "pct": 0.58
     }
   ],
   "stories": [
+    {
+      "title": "Investment Team Inks $125M Construction Loan for Miami Design District Office/Retail Project",
+      "link": "https://www.connectcre.com/stories/investment-team-inks-125m-construction-loan-for-miami-design-district-office-retail-project/",
+      "excerpt": "Miami Design District Associates and Raycliff Capital broke ground on an office/retail project in the Miami Design District. The S. Florida Business Journal reports that the group began work on the project soon after securing a $125 million construction loan. Credit Agricole Corporate and Investment Bank, acting on behalf of a group of lenders, granted the mortgage. The eight-story building will feature 92,000 square feet of office space and 22,500 square feet of ground-floor retail. The neighboring Museum Garage will provide the parking spaces for the project. Norway-based Snøhetta is designing the project It’s work includes the Bibliotheca Alexandrina in Egypt, the Norwegian National Opera and Ballet, and the National September 11 Memorial Museum Pavilion in New York. Kast Construction is serving as the general contractor. The post Investment Team Inks $125M Construction Loan for Miami Design District Office/Retail Project appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-19T14:51:27+00:00",
+      "bullets": [
+        "Miami Design District: $125M construction loan from Credit Agricole for 92k SF office + 22.5k SF retail",
+        "8-story mixed-use project breaking ground with 22.5k SF ground-floor retail component",
+        "Office/retail development signals continued capital availability for Miami mixed-use projects"
+      ],
+      "summary": "Miami Design District Associates and Raycliff Capital secured a $125 million construction loan from Credit Agricole to begin an eight-story mixed-use project featuring 92,000 square feet of office and 22,500 square feet of ground-floor retail in the Miami Design District. The project is designed by Snøhetta and will rely on the adjacent Museum Garage for parking. The loan and groundbreaking signal renewed lender confidence in Miami's office and mixed-use development pipeline.",
+      "impact": "Limited direct impact to multifamily. The office/retail focus and financing availability signal capital is flowing to mixed-use in Miami, but this project displaces office and retail demand rather than creating residential demand signals. Monitor whether retail-focused mixed-use projects in Miami compress multifamily absorption by reducing the project pipeline diversity developers compete for."
+    },
+    {
+      "title": "Investors Are Gaining More Confidence in Office: Survey",
+      "link": "https://commercialobserver.com/2026/08/investors-confidence-office-situsamc-survey/",
+      "excerpt": "Investment appetite for office transactions is showing signs of a revival in 2026. Preference from commercial real estate investors for office transactions reached 11 percent in the second quarter. That compares to just 4 percent in early 2025 who listed the office sector as the one with the most opportunities, according to SitusAMC’s latest ValTrends quarterly research report shared exclusively with Commercial Observer ahead of its scheduled release later this week. While office sentiment in the survey was lower than the 16 percent registered in the first quarter, overall trends within the property sector are on the upswing following years of investor confidence in the asset class hovering in the low single digits, said Peter Muoio, head of SitusAMC Insights. Muoio said more clarity on valuations is driving the renewed interest. Increased pressure on some distressed debt may also be a contributing factor behind the numbers, Muoio added. “We&#8217;ve been seeing over the past year or year and a half the office investment conditions are improving,” Muoio said. “There is renewed interest.” Part of the increased bullishness toward office investments, according to Muoio, stems from “growing optimism” with the financial feasibility of executing office conversions. The report showed that office cap rates tightened by 10 basis points (bps) in the second quarter, but remained 80 bps above their long-term average. The increasing enthusiasm for office investments in the ValTrends report is part of a more evenly split preference for property types that has been developing over the past year, according to Muoio. Multifamily remained the top-ranked asset class in the second quarter, but optimism cooled in the survey from 60 percent to 36 percent compared to the previous quarter. Muoio said the drop was likely attributed to oversupply issues, particularly in the Sun Belt, taking longer to resolve than initially anticipated. Investor preference for industrial rose 16 percentage po",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-19T14:44:34+00:00",
+      "bullets": [
+        "SitusAMC survey: office investor preference rose to 11% in Q2 2026 vs. 4% in early 2025",
+        "Valuation clarity and distressed-debt pressure driving renewed office investment appetite",
+        "Office sentiment below Q1 peak of 16% but well above prior low single-digit baseline"
+      ],
+      "summary": "According to SitusAMC's ValTrends research, investor preference for office transactions reached 11 percent in Q2 2026, up from just 4 percent in early 2025, signaling a nascent revival in office investment. Clearer valuations and pressure on distressed office debt are cited as drivers. Despite being below Q1's 16 percent level, the trend represents a significant turnaround from years of investor disinterest in the office sector.",
+      "impact": "Office revival may redirect institutional capital away from multifamily value-add and development. Developers competing for mixed-use sites or Class A repositioning deals could face stiffer bidding from office-focused investors, tightening land and acquisition costs across major metros. Monitor whether cap-rate compression in office limits equity availability for multifamily development."
+    },
+    {
+      "title": "Bank Capital’s Riskiest Bonds Are Pricing Like the Safest",
+      "link": "https://www.connectcre.com/stories/bank-capitals-riskiest-bonds-are-pricing-like-the-safest/",
+      "excerpt": "Executive Summary Additional Tier 1, or AT1, bank bonds are trading at near-historic tight spreads despite their complex, loss-absorbing structures. With the ICE CoCo Index offering roughly 206 basis points over benchmark rates, well below its 385-basis-point historical median, investors may not be adequately compensated for coupon-cancellation, extension, and regulatory risks. As banks increasingly issue securities with 10-year rather than five-year initial call periods, AT1s are becoming more duration-sensitive and less of a straightforward credit investment. Yield Demand Drives Spreads Tighter AT1 bonds, commonly called CoCos, were created after the 2008 financial crisis to provide banks with loss-absorbing capital before taxpayer support would be needed. They sit above common equity but below most other bank debt in the capital structure. Their coupons are generally discretionary, perpetual, and issuers can write down principal or convert the instruments into equity if specified capital triggers are breached. The fundamental outlook for many global banks remains sound. Common Equity Tier 1 ratios are generally well above regulatory minimums, while earnings and loan-loss reserves have supported confidence in issuers’ ability to service their debt. That strength, combined with demand for yield, has helped drive AT1 valuations higher. But the ICE CoCo Index’s options-adjusted spread has compressed to roughly 206 basis points over benchmark rates, compared with a historical median of approximately 385 basis points. The narrowing spread leaves little room for deteriorating risk sentiment, volatility, a discretionary coupon cancellation or a reassessment of bank funding costs. The Credit Suisse Reminder The asset class carries a powerful reminder of its asymmetric risk. In March 2023, regulators wrote down approximately $17 billion of Credit Suisse AT1 bonds to zero as part of the bank’s emergency takeover by UBS. The loss represented roughly 10% of the global AT1 ind",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-19T14:29:48+00:00",
+      "bullets": [
+        "AT1 bank bonds trading at 206 bps vs. 385 bps historical median; investors undercompensated for risk",
+        "Banks extending call periods from 5 to 10 years, increasing duration risk on perpetual coupon instruments",
+        "Strong bank fundamentals (CET1 ratios above minimums, earnings solid) masking structural and regulatory tail risks"
+      ],
+      "summary": "Additional Tier 1 (AT1) bank bonds are trading at historically tight spreads (206 basis points vs. 385 bps median) despite their loss-absorbing structures and coupon-cancellation risks. Banks are increasingly issuing longer-duration (10-year call) AT1s rather than shorter 5-year initial calls, raising extension and regulatory risk. While bank fundamentals remain sound, investors may be underpricing the embedded risks in these complex securities.",
+      "impact": "If AT1 spreads blow out on a credit or regulatory shock, bank capital constraints could tighten construction loan availability and raise multifamily development financing costs. Monitor banking system stability; a flight to safety in bank capital could cascade to reduced mortgage lending and higher SOFR/construction loan spreads affecting pro forma returns across development pipelines."
+    },
+    {
+      "title": "Development Team Pursuing S. Nashville Hotel, Apartments",
+      "link": "https://www.connectcre.com/stories/development-team-pursuing-s-nashville-hotel-apartments/",
+      "excerpt": "The proposal, which is weaving its way through Nashville’s approval process, includes a hotel, apartments and an ice rink in the middle. The Nashville Business Journal reports the entities tied to Darshan Patel and Richard Epperson will go before the Metro Planning Department for approval on Sept. 24. The project, slated to rise at 4311 and 4319 Sidco Drive, will include two apartment buildings with ground-level retail and a 16-story hotel. (rendering courtesy Nashville Post) In the center of it all, a large plaza is planned, with renderings indicating that it will offer an outdoor ice rink. The properties currently house a La Quinta Inn and the Bedroom Nashville Event Venue, which would need to be demolished to make way for the new development. A Cracker Barrel and a Waffle House are located on either side of the project site. They’ll stay put. The post Development Team Pursuing S. Nashville Hotel, Apartments appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-19T14:27:55+00:00",
+      "bullets": [
+        "South Nashville development: 2 apartment buildings, 16-story hotel, ground-level retail + ice rink plaza; Sidco Drive site",
+        "Developers Darshan Patel and Richard Epperson seeking approval Sept. 24 from Metro Planning Department",
+        "Mixed-use project targets demolition of La Quinta Inn and Bedroom Nashville Event Venue; flanked by Cracker Barrel and Waffle House"
+      ],
+      "summary": "A mixed-use development team led by Darshan Patel and Richard Epperson is pursuing approval for a South Nashville project at 4311–4319 Sidco Drive that includes two apartment buildings with ground-floor retail, a 16-story hotel, and a central plaza with an outdoor ice rink. The project requires demolition of a La Quinta Inn and Bedroom Nashville Event Venue. Metro Planning Department approval is scheduled for September 24.",
+      "impact": "Nashville multifamily supply continues to grow with mixed-use delivery pipelines. This Sidco Drive project adds apartment units to a competitive South Nashville submarket where rent growth has moderated; monitor absorption pace and per-unit rents post-delivery to assess whether added supply pressures existing portfolio performance or achieves strong lease-up velocity. The hotel and experiential plaza suggest the developer is hedging multifamily-only risk, a rational approach in a maturing market."
+    },
     {
       "title": "JLL Arranges $34M Sale of Bridge Point Tacoma 210",
       "link": "https://www.connectcre.com/stories/jll-arranges-34m-sale-of-bridge-point-tacoma-210/",
@@ -32,12 +92,12 @@
       "cat": "Commercial",
       "date": "2026-08-19T14:19:43+00:00",
       "bullets": [
-        "JLL sold Bridge Point Tacoma 210, 205k SF industrial, $33.9M in 2024.",
-        "New construction distribution facility, 36-ft clear heights, 50 dock doors, 13.82 acres.",
-        "Location: 5 miles I-5, 9 miles Port of Tacoma; strong institutional buyer interest."
+        "Kurv Industrial sold Bridge Point Tacoma 210: 205k SF industrial facility, $33.9M, completed 2024",
+        "36-foot clear heights, 50 dock-high doors, 13.82 acres near Interstate 5 and Port of Tacoma",
+        "New industrial construction attracted institutional buyers; recent completion and premium specs supported valuation"
       ],
-      "summary": "JLL arranged the $33.9 million sale of Bridge Point Tacoma 210, a newly completed (2024) 205,413-square-foot industrial distribution facility in Pierce County. The single-story property features 36-foot clear heights, 50 dock-high doors, and 130-foot truck courts on 13.82 acres, positioned five miles from Interstate 5 and nine miles from the Port of Tacoma. Strong institutional interest cited the property's new-construction quality and strategic submarket confluence location.",
-      "impact": "Tacoma's industrial vacancy remains tight and investor appetite for newer spec warehouses near Port of Tacoma and I-5 remains strong. This signals continued absorption of new industrial supply in Pierce County; multifamily developers should monitor Tacoma-area job growth (port expansion, logistics sector) to identify residential demand tailwinds in submarkets near employment clusters."
+      "summary": "JLL arranged the $33.9 million sale of Bridge Point Tacoma 210, a 205,413-square-foot industrial distribution facility completed in 2024. The single-story property features 36-foot clear heights, 50 dock doors, and 13.82 acres, located five miles from Interstate 5 and nine miles from the Port of Tacoma. Strong institutional interest reflects demand for newly built, modern distribution space in Pierce County.",
+      "impact": "Limited direct multifamily impact. Tacoma industrial market remains active and well-capitalized, but this sale signals robust logistics/distribution demand tied to Port of Tacoma activity. Multifamily developers should monitor whether port-driven employment growth and warehouse job creation sustains Tacoma rental demand; if logistics employment stalls, multifamily absorption could weaken despite apparent industrial vigor."
     },
     {
       "title": "Investor Team Picks Up Walmart-Anchored Raleigh Retail Center",
@@ -47,27 +107,12 @@
       "cat": "Commercial",
       "date": "2026-08-19T14:04:12+00:00",
       "bullets": [
-        "Corebridge/Armstrong Capital acquired Townridge Shopping Center, Raleigh, $36M purchase.",
-        "273k SF Walmart-anchored retail center, 96% leased at sale; $26.5M financing secured.",
-        "High-growth retail acquisition debut for new Corebridge-Armstrong Capital joint venture."
+        "Corebridge and Armstrong Capital acquired Townridge Shopping Center, Raleigh: 273k SF Walmart-anchored retail, $36M sale price",
+        "Center was 96% leased at sale; $26.5M acquisition financing secured by JLL",
+        "Corebridge has $8B AUM and ~35M SF portfolio; inaugural acquisition for new retail venture"
       ],
-      "summary": "Corebridge Real Estate Investors and Armstrong Capital Development completed their inaugural acquisition as a joint venture, purchasing Townridge Shopping Center in Raleigh for $36 million with $26.5 million in acquisition financing. The 273,105-square-foot retail center was anchored by Walmart and 96 percent leased at the time of sale. The venture plans to target additional retail assets in select high-growth markets.",
-      "impact": "Raleigh's retail fundamentals remain strong enough to attract institutional equity and leverage. The tight occupancy and successful financing signal continued health in Raleigh's retail–and by extension, its broader economic health and in-migration. Multifamily developers should view this as validation of Raleigh's growth trajectory and a sign to acquire/develop residential ahead of retail-anchored mixed-use nodes in strong Raleigh submarkets."
-    },
-    {
-      "title": "Aventon Moving Ahead on 384-Unit Wesley Chapel Rental Community",
-      "link": "https://www.connectcre.com/stories/aventon-moving-ahead-on-384-unit-wesley-chapel-rental-community/",
-      "excerpt": "Aventon paid $16.25 million for nearly 20 acres in Wesley Chapel with plans to build a 384-unit apartment community. Clearwater Bay Associates was the seller of the parcel at State Road 56 and Meadow Pointe Boulevard. Steve Lannon and Lee Arnold of Colliers represented Clearwater Bay Associates in the transaction. Eric Joseph with Coldwell Banker NRT represented the buyer.Aventon Companies broke ground on Aventon Wesley Chapel in July. The community will include one-, two- and three-bedroom apartments across six garden-style residential buildings centered around a scenic pond. Leasing is anticipated to begin in early 2028.Planned amenities include a swimming pool, 24-hour fitness center, pet spa and resident clubhouse with dedicated coworking space and social gathering areas. Clearwater Bay previously sold Aventon land near State Road 54 and Meadow Pointe Boulevard for Aventon Meadows (shown), an apartment community that opened in 2024. Clearwater Bay Associates, Inc., is a privately held Florida corporation focused on land holdings, property management and farming. The post Aventon Moving Ahead on 384-Unit Wesley Chapel Rental Community appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-19T13:42:00+00:00",
-      "bullets": [
-        "Aventon paid $16.25M for 20 acres in Wesley Chapel, Florida; 384-unit community planned.",
-        "Broke ground July; leasing begins early 2028; garden-style, 1-3 bed units.",
-        "Amenities: pool, fitness, pet spa, coworking clubhouse; State Road 56 and Meadow Pointe."
-      ],
-      "summary": "Aventon Companies acquired nearly 20 acres in Wesley Chapel, Florida for $16.25 million and broke ground in July on Aventon Wesley Chapel, a 384-unit apartment community. The garden-style development across six buildings will include one-, two-, and three-bedroom units, with leasing anticipated to begin in early 2028. Planned amenities include a swimming pool, fitness center, pet spa, and a clubhouse with coworking and social spaces.",
-      "impact": "Wesley Chapel (Tampa metro, Pasco County) is a high-growth suburban corridor experiencing strong in-migration; Aventon's aggressive timeline (2028 delivery) and mid-market unit mix suggest confidence in rent growth and absorption. The coworking focus signals response to remote-work demand persistence in suburban Florida. This is a leading indicator of continued Tampa-area population influx and tight supply conditions favorable to new multifamily starts."
+      "summary": "Corebridge Real Estate Investors and Armstrong Capital Development partnered to acquire Townridge Shopping Center in Raleigh, a 273,105-square-foot Walmart-anchored retail center, for $36 million. The center was 96 percent leased at closing. JLL arranged $26.5 million in acquisition financing. This is the inaugural deal for the retail-focused venture targeting high-growth markets.",
+      "impact": "Limited direct multifamily relevance. Raleigh retail fundamentals appear stable (96% occupancy, strong anchor), but this transaction reflects capital flowing to retail stabilization rather than growth development. Monitor whether Corebridge's retail focus signals institutional preference for stabilized, lower-risk asset classes, which could reduce equity availability for higher-risk multifamily development in Raleigh and other Sunbelt markets."
     },
     {
       "title": "Mexican Restaurant Santo Taco Subleases Former West Village Dig Inn Space",
@@ -77,27 +122,27 @@
       "cat": "Commercial",
       "date": "2026-08-19T13:34:52+00:00",
       "bullets": [
-        "Santo Taco subleased Dig Inn's 2,800 SF space, West Village, Manhattan; through 2041.",
-        "Street-level and below-grade at 232 Bleecker Street (corner Bleecker/Carmine); opens next month.",
-        "Nearby Meatpacking District avg. asking rent: $252/SF (Q2 2026); no rent disclosed."
+        "Santo Taco subleases 2.8k SF former Dig Inn space, 232 Bleecker Street (West Village, Manhattan), through 2041",
+        "Meatpacking District nearby retail averaging $252/SF asking rent in Q2 2026",
+        "Dig Inn closure signals tenant turnover and sublease availability in prime Manhattan retail corridors"
       ],
-      "summary": "Santo Taco, a Mexican restaurant concept by Santiago Perez, subleased a 2,800-square-foot space formerly occupied by Dig Inn at 232 Bleecker Street in Manhattan's West Village, with the sublease running through 2041. The street-level and below-grade space is located at the corner of Bleecker and Carmine streets and is scheduled to open next month. The transaction was an off-market deal; comparable asking rents in the nearby Meatpacking District averaged $252 per square foot in Q2 2026.",
-      "impact": "Minimal direct relevance to multifamily development. However, the Dig Inn closure and Santo Taco expansion reflect West Village retail churn and dining-concept consolidation; elevated comps ($252 PSF) confirm West Village remains expensive and selective for tenants, suggesting underlying residential demand remains strong but retail/amenity space is competitive and fragmented."
+      "summary": "Santo Taco, a Mexican restaurant concept launched in 2025, subleased a 2,800-square-foot street-level and below-grade space formerly occupied by Dig Inn at 232 Bleecker Street in Manhattan's West Village. The long-term sublease runs through 2041. Nearby Meatpacking District retail averaged $252 per square foot in asking rent in Q2 2026. The deal signals ongoing turnover and sublease opportunities in prime Manhattan retail.",
+      "impact": "Minimal multifamily impact. Dig Inn's retreat from West Village reflects consumer preferences and restaurant operating challenges, not macro demand signals. However, sustained retail turnover and sublease leakage in prime Manhattan neighborhoods can depress ground-floor retail absorption in new multifamily developments, pressuring mixed-use project returns and reducing development feasibility in high-cost urban cores."
     },
     {
       "title": "Goodland Pickleball Takes 30K SF for New Indoor Clubs in Brooklyn, Queens",
       "link": "https://commercialobserver.com/2026/08/goodland-pickleball-lease-williamsburg-rego-park-clubs/",
-      "excerpt": "Indoor pickleball club operator Goodland Pickleball has secured two new club locations in New York City, Commercial Observer has learned. The long-term leases span a total of 30,100 square feet within Class A buildings in Williamsburg, Brooklyn, and Rego Park, Queens. Goodland, which secured its first indoor New York City club in Brooklyn’s Greenpoint neighborhood in 2024, reports more than 11,000 members across the city. Goodland’s Williamsburg lease, located at Rabsky Group’s 105 North 13th Street, is slated to become its new flagship location. Spanning 14,600 square feet, the club will feature four courts across two floors with 20-foot ceilings, as well as a private fifth-floor court, an outdoor terrace and a sushi bar. The Williamsburg site attracted competition from multiple pickleball operators, Hemant Chavan, founder and CEO of Goodland Pickleball, told CO. Chavan called the site “a needle in a haystack,” estimating that fewer than two dozen indoor spaces suited to pickleball’s lofty space needs exist in the city. Goodland declined to provide the asking rent, but asking retail rents along Bedford Avenue’s nearby North Eighth and North 12th streets corridor averaged $245 per square foot in the latter half of 2025, according to the Real Estate Board of New York (the most recent data available). Goodland represented itself in both lease deals, the second of which landed Goodland 15,500 square feet at RB Realty Capital’s 98-22 Queens Boulevard in Rego Park. The location will accommodate six courts, including a badminton court. Recent asking rents for Queens retail spaces averaged $42.47 per square foot, according to data from CommercialCafe. Both of Goodland’s new sites belong to Class A buildings. Chavan said Goodland is the first company in the city to operate indoor pickleball courts inside such assets. “Most indoor pickleball courts are in warehouses, and a lot of these warehouses are not prime locations,” Chavan told CO. Both locations are slated to open in ",
+      "excerpt": "Indoor pickleball club operator Goodland Pickleball has secured two new club locations in New York City, Commercial Observer has learned. The long-term leases span a total of 30,100 square feet within Class A buildings in Williamsburg, Brooklyn, and Rego Park, Queens. Goodland, which secured its first indoor New York City club in Brooklyn’s Greenpoint neighborhood in 2024, reports more than 11,000 members across the city. Goodland’s Williamsburg lease, located at Rabsky Group’s 105 North 13th Street, is slated to become its new flagship location. Spanning 14,600 square feet, the club will feature four courts across two floors with 20-foot ceilings, as well as a private fifth-floor court, an outdoor terrace and a sushi bar. The Williamsburg site attracted competition from multiple pickleball operators, Hemant Chavan, founder and CEO of Goodland Pickleball, told CO. Chavan called the site “a needle in a haystack,” estimating that fewer than two dozen indoor spaces suited to pickleball’s lofty space needs exist in the city. Goodland declined to provide the asking rent, but asking retail rents along Bedford Avenue’s nearby North Eighth and North 12th streets corridor averaged $245 per square foot in the latter half of 2025, according to the Real Estate Board of New York (the most recent data available). A rendering of Goodland Pickleball&#8217;s planned facility in Rego Park, Queens. RENDERING: Courtesy Goodland Pickleball Goodland represented itself in both lease deals, the second of which landed Goodland 15,500 square feet at RB Realty Capital’s 98-22 Queens Boulevard in Rego Park. The location will accommodate six courts, including a badminton court. Recent asking rents for Queens retail spaces averaged $42.47 per square foot, according to data from CommercialCafe. Both of Goodland’s new sites belong to Class A buildings. Chavan said Goodland is the first company in the city to operate indoor pickleball courts inside such assets. “Most indoor pickleball courts are in",
       "source": "Comm. Observer",
       "cat": "Commercial",
       "date": "2026-08-19T13:00:34+00:00",
       "bullets": [
-        "Goodland Pickleball leased 30.1k SF across Williamsburg, Brooklyn and Rego Park, Queens.",
-        "Williamsburg flagship: 14.6k SF, 4 courts, private court, outdoor terrace, sushi bar.",
-        "Goodland has 11k+ NYC members; reports <24 suitable indoor facilities exist citywide."
+        "Goodland Pickleball secured 30.1k SF across two Class A locations: 14.6k SF Williamsburg flagship, 15.5k SF Rego Park",
+        "Williamsburg site (105 North 13th St, Rabsky Group) features 4 courts, private 5th-floor court, outdoor terrace, sushi bar",
+        "Operator reports 11k+ members across NYC; high ceiling requirements limit available subleasing options"
       ],
-      "summary": "Goodland Pickleball secured two long-term leases spanning 30,100 square feet in Class A buildings in Williamsburg, Brooklyn (14,600 SF flagship) and Rego Park, Queens (15,500 SF implied). The Williamsburg location at 105 North 13th Street will feature four courts across two floors with 20-foot ceilings, a private fifth-floor court, outdoor terrace, and sushi bar. Goodland reports over 11,000 members across New York City and cites extreme scarcity of suitable indoor spaces for pickleball operations.",
-      "impact": "Limited direct multifamily relevance. However, Goodland's rapid NYC expansion (11k members, third location) signals emerging amenity demand in Williamsburg and Rego Park; developers competing in these tight residential markets should monitor and potentially integrate specialty fitness/social amenities (pickleball, paddleball, lifestyle clubs) as differentiators in new apartment communities, especially in Williamsburg where Class A rents support premium leasing."
+      "summary": "Goodland Pickleball signed two long-term leases totaling 30,100 square feet in Class A buildings in Williamsburg, Brooklyn, and Rego Park, Queens. The Williamsburg flagship at Rabsky Group's 105 North 13th Street spans 14,600 square feet with four courts, a private fifth-floor court, outdoor terrace, and sushi bar. Goodland now operates three NYC clubs with 11,000+ members and cited extreme scarcity of spaces meeting pickleball's 20-foot ceiling requirements.",
+      "impact": "Pickleball expansion signals strong amenity demand in Brooklyn and Queens residential markets. Mixed-use multifamily developers should consider pickleball facilities as tenant draw and rent-premium justification in Class A Brooklyn (Williamsburg, Greenpoint) and Queens (Rego Park) projects. Limited indoor pickleball supply (< 2 dozen suitable spaces in NYC per operator) suggests pre-leasing opportunities for new multifamily communities if space configuration allows."
     },
     {
       "title": "National Resources Sells New York-Area Mixed-Asset Portfolio for $450M",
@@ -107,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-08-19T12:00:32+00:00",
       "bullets": [
-        "Lincoln Property/Saber-Hightower/Waterfall JV acquired National Resources portfolio, $450M.",
-        "4 properties, 4M+ SF across NY/NJ/CT; anchored by iPark 84 (270 acres, East Fishkill, NY).",
-        "Year-long process; multi-state estate sale; complex acreage/title work extended closing."
+        "National Resources estate sale: Lincoln Property, Saber-Hightower, Waterfall AM acquired $450M multi-asset portfolio",
+        "Portfolio: 4M+ SF across NY, NJ, CT; anchored by iPark 84 (270-acre business park, East Fishkill, N.Y.)",
+        "Year-long process; multi-state complexity and acreage extended closing timeline; institutional joint-venture structure"
       ],
-      "summary": "A joint venture between Lincoln Property Company, Saber-Hightower, and Waterfall Asset Management acquired four National Resources properties totaling more than 4 million square feet across New York, New Jersey, and Connecticut for $450 million. The acquisition is anchored by iPark 84, a 270-acre business park in East Fishkill, New York. The transaction took longer than typical due to the complexity of multi-state acreage and title consolidation.",
-      "impact": "This large mixed-asset portfolio sale in the NY tri-state region signals institutional appetite for non-stabilized, complex commercial real estate in secondary markets. East Fishkill is a logistics/light industrial corridor; any development or repositioning of iPark 84 or adjacent land could drive job growth and in-migration. Multifamily developers should monitor potential industrial/office-to-residential conversion opportunities or greenfield apartment sites near East Fishkill as logistics employment grows in the Hudson Valley."
+      "summary": "A joint venture of Lincoln Property Company, Saber-Hightower, and Waterfall Asset Management acquired a $450 million portfolio from National Resources comprising four properties totaling over 4 million square feet across New York, New Jersey, and Connecticut. The anchor asset is iPark 84, a 270-acre business park in East Fishkill, New York. The transaction took over a year to close due to multi-state complexity and large acreage.",
+      "impact": "iPark 84 is a large office/industrial park; its acquisition by institutional capital signals continued flight-to-quality in suburban Hudson Valley markets. Multifamily developers in Westchester and Hudson Valley should monitor whether this large estate conversion and institutional repositioning creates spillover development activity (road improvements, infrastructure) or diverts capital from residential development. Estate sales of this magnitude can unlock land but also fragment ownership and may trigger extended holding periods before residential development becomes feasible."
     },
     {
       "title": "REITs Report Strong Q2 Results Even as Interest Rates Weigh on Investor Sentiment",
@@ -122,57 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-19T10:30:13+00:00",
       "bullets": [
-        "83% of REITs raised 2026 FFO guidance; only 4% lowered; Q2 2026 earnings strong.",
-        "Hospitality, industrial, office sectors led performance; national office leasing rose 16% YoY.",
-        "High interest rates and weak investor sentiment remain headwinds despite strong fundamentals."
+        "83% of REITs raised full-year FFO guidance in Q2 2026; only 4% lowered outlooks; strong earnings reported",
+        "Office leasing rose 16% YoY national; hospitality and industrial sectors led REIT performance",
+        "High interest rates and weak investor confidence persist despite strong Q2 property-level fundamentals"
       ],
-      "summary": "REITs reported strong second-quarter 2026 results across 200+ publicly traded entities, with 83 percent raising full-year FFO guidance while only 4 percent lowered outlooks. Hospitality, industrial, and office sectors led performance; national office leasing rose 16 percent year-over-year. However, elevated interest rates and low investor confidence continue to dampen overall market sentiment and capital availability.",
-      "impact": "Mixed signal for multifamily developers: strong operational fundamentals (occupancy, rent growth) support development thesis, but high rates and investor caution tighten construction financing and cap rates on acquisitions. Multifamily REITs not explicitly called out as leading; suggests residential is performing but not outpacing industrial/hospitality. Developers should expect continued tight leverage on deals and higher cost of capital; focus on strong submarket fundamentals and pre-leasing to de-risk financing."
-    },
-    {
-      "title": "AmTrustRE Brings Financial District Office Tower to 100% Occupancy",
-      "link": "https://www.connectcre.com/stories/amtrustre-brings-financial-district-office-tower-to-100-occupancy/",
-      "excerpt": "AmTrustRE, a national real estate owner-operator, said Tuesday that 59 Maiden Ln., its 1,043,670-square-foot office tower in Manhattan&#8217;s Financial District,&nbsp;has reached 100% occupancy. The leasing milestone occurs with a new, 14,807-square-foot lease with Blackstone-backed&nbsp;ANV Group Holdings Ltd.&nbsp;and a 58,164-square-foot renewal from&nbsp;London Fischer LLP. The full occupancy comes ahead of completion of the property’s repositioning, including its facade and lobby renovations expected in 2027, and a redesigned public plaza, slated for completion later this year. “Reaching full occupancy before completing the transformation of 59 Maiden Ln. is a meaningful validation of our long-term investment strategy,“ said Jonathan Bennett, president of AmTrustRE. “By thoughtfully repositioning an exceptionally well-located asset and reinvesting in the building and tenant experience, we’ve created a workplace that drives strong leasing outcomes and competes with the best assets in the market.” ANV and&nbsp;AmTrustRE were both self-represented in the new lease. Bud London, Managing Partner of London Fischer, represented the firm in the renewal, while&nbsp;AmTrustRE was self-represented by Anne Holker, Managing Director Leasing and Acquisitions of&nbsp;AmTrustRE.&nbsp; The post AmTrustRE Brings Financial District Office Tower to 100% Occupancy appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-18T22:07:09+00:00",
-      "bullets": [
-        "AmTrustRE's 59 Maiden Lane, NYC Financial District, reached 100% occupancy (1.04M SF).",
-        "Recent lease: 14.8k SF (ANV Group Holdings); renewal: 58.2k SF (London Fischer LLP).",
-        "Facade/lobby renovations, public plaza redesign underway; full repositioning completion 2027."
-      ],
-      "summary": "AmTrustRE announced that 59 Maiden Lane, its 1,043,670-square-foot office tower in Manhattan's Financial District, has achieved 100 percent occupancy. The milestone was achieved through a new 14,807-square-foot lease with Blackstone-backed ANV Group Holdings Ltd. and a 58,164-square-foot renewal from London Fischer LLP. The property's facade, lobby, and public plaza renovations are slated for completion in 2027.",
-      "impact": "Minimal direct relevance to multifamily development. However, 100% occupancy in Manhattan's Financial District before full repositioning completion signals strong post-pandemic office recovery in Manhattan's prime submarkets. This validates continued NYC vibrancy and white-collar job retention, supporting underlying residential demand in Manhattan and inner-ring residential markets that serve FiDi workers."
-    },
-    {
-      "title": "CBRE Arranges 118K-SF Price Zone Lease in Commerce",
-      "link": "https://www.connectcre.com/stories/cbre-arranges-118k-sf-price-zone-lease-in-commerce/",
-      "excerpt": "CBRE arranged a nearly 118,000-square-foot industrial lease at Harris Business Center in Commerce to Price Zone, a wholesale distributor and importer of consumer goods. The transaction allows Price Zone to consolidate operations previously spread among three separate facilities. CBRE&#8217;s&nbsp;Cameron Merrill&nbsp;and&nbsp;Jeff Stephens&nbsp;represented the landlord, DWS. The tenant was represented by John Lee of Curb Realty. “Price Zone&#8217;s primary objective was operational consolidation, and 6000 Rickenbacker Rd. provided an attractive opportunity to achieve that goal,” said Merrill. “The transaction delivered the efficiency and economics the tenant was seeking while helping ownership maximize occupancy within the business park. The result was a solution that closely aligned with each party&#8217;s long-term objectives.” The facility is located at 6000-6050 Rickenbacker Rd. and features a 24-foot clearance in the warehouse, along with 19 dock-high loading positions and three ground-level doors. It also has rail service provided by the Los&nbsp;Angeles&nbsp;Junction Railway. Hear from the West Coast’s Leading Industrial Real Estate Experts | August 20Gain firsthand insight from the executives, investors, and developers navigating today’s industrial market. From shifting capital flows and debt trends to evolving occupier demand and development strategies, take part in the conversations shaping the future of industrial real estate. Register now: www.connectindustrialwest2026.com The post CBRE Arranges 118K-SF Price Zone Lease in Commerce appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-18T21:56:40+00:00",
-      "bullets": [
-        "CBRE arranged 118k SF industrial lease, Price Zone at Harris Business Center, Commerce, CA.",
-        "Price Zone consolidating 3 separate facilities into 1; 24-ft clearance, 19 dock doors, rail access.",
-        "Tenant-favorable deal; helped landlord (DWS) maximize occupancy in business park."
-      ],
-      "summary": "CBRE arranged a 117,900-square-foot industrial lease for Price Zone, a wholesale distributor and importer of consumer goods, at Harris Business Center in Commerce, California. The transaction consolidates Price Zone's operations from three separate facilities into a single 24-foot clearance warehouse with 19 dock-high loading doors and rail service via the Los Angeles Junction Railway. The deal delivered operational efficiency and economics for the tenant while maximizing occupancy for landlord DWS.",
-      "impact": "Los Angeles-area industrial market remains tight and absorbing large blocks of warehouse space; tenant consolidation reflects healthy logistics/distribution activity and supply constraints in LA metro. Multifamily developers in LA-adjacent areas should monitor continued e-commerce and distribution employment growth, particularly in Commerce, Long Beach, and Vernon submarkets, as sustained logistics demand will drive regional job growth and housing demand."
-    },
-    {
-      "title": "OCVibe’s Scott Frick On Building a $5B District Around Anaheim’s Honda Center",
-      "link": "https://commercialobserver.com/2026/08/ocvibe-scott-frick-anaheim-housing-entertainment/",
-      "excerpt": "A 100-acre master-planned development is turning the sea of parking lots surrounding Anaheim’s Honda Center into a dense mixed-use district where people can live, work and eat whether or not the Ducks are playing. Henry and Susan Samueli, owners of the National Hockey League’s Anaheim Ducks, are privately financing the large development named OCVibe. Scott Frick, senior vice president of real estate and district operations at the Samueli’s Orange County Sports &amp; Entertainment, is managing the project, and described it as a $5 billion investment with 170,000 square feet of office space, more than 2,000 apartments, two hotels and more than 35 dining concepts. The broader plan also includes 20 acres of parks and plazas. The first major public-facing pieces are scheduled to arrive in 2027, including Katella Commons, a 50,000-square-foot market hall, along with a 5,000-capacity concert venue, and The Weave, a six-story mass-timber office building where flexible-office operator Kiln has committed to a full floor. Then the Honda Center will host indoor volleyball during the 2028 Olympics, when Frick expects roughly half a million people to pass through the arena in 11 days. Commercial Observer spoke with Frick about how the absence of outside investors changes the economics, OCVibe’s office and residential strategy, and how to keep restaurants busy when the arena goes dark. The conversation has been edited for length and clarity. Commercial Observer: Can you give an overview of where construction stands today? Scott Frick: We started construction about three years ago. We’ll be delivering phases through about 2030, 2031. The first phase was really building parking structures to free up the surface lots. Honda Center is a very typical suburban arena. It’s kind of in the middle of nowhere, surrounded by surface parking and industrial uses. Over the last eight years, we’ve assembled almost 10 different parcels to create the 100-acre footprint. Parking decks were delivered",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-18T20:45:27+00:00",
-      "bullets": [
-        "OCVibe: $5B mixed-use district, 100 acres around Anaheim Honda Center; privately financed.",
-        "2,000+ apartments, 170k SF office, 2 hotels, 35+ dining; 20 acres parks/plazas.",
-        "Phase 1 delivery 2027: 50k SF market hall, 5k-seat concert venue, mass-timber office."
-      ],
-      "summary": "Henry and Susan Samueli, owners of the NHL's Anaheim Ducks, are privately financing OCVibe, a $5 billion, 100-acre mixed-use district surrounding the Honda Center. The master plan includes over 2,000 apartments, 170,000 square feet of office space, two hotels, more than 35 dining concepts, and 20 acres of parks and plazas. First deliveries in 2027 include Katella Commons (50,000 SF market hall), a 5,000-capacity concert venue, and The Weave (six-story mass-timber office with Kiln flexible office operator).",
-      "impact": "OCVibe is a major supply event for Orange County residential and a major catalyst for Anaheim submarket densification and demand. The $5B private capital commitment and mixed-use scale (2,000+ units) signal confidence in Orange County's growth and affluent workforce. Multifamily developers competing in Orange County should expect significant supply influx and rental competition starting 2027; early-stage projects in surrounding Anaheim/Santa Ana submarkets should emphasize differentiation (amenities, finishes, coworking, lifestyle) and target pre-leasing to de-risk absorption risk from OCVibe ramp."
+      "summary": "Hoya Capital's analysis of 200+ U.S. REITs and homebuilders found that 83 percent raised full-year FFO guidance in Q2 2026, with just 4 percent lowering outlooks. Hospitality, industrial, and office sectors led REIT performance, while office leasing rose 16 percent nationally. Despite strong property-level fundamentals and earnings, the sector remains pressured by elevated interest rates and weak investor confidence.",
+      "impact": "Multifamily REITs likely contributed to strong earnings but face capital-markets headwinds. High interest rates continue to constrain multifamily development starts and refinancing yields; elevated cap rates and slowing rent growth in many markets offset operational strength. Developers should expect continued cost-of-capital pressure through 2026 unless Fed cuts rates materially. REIT strength suggests equity capital is available for acquisitions, but debt financing for new development remains constrained, favoring builds-to-suit, JV structures, and debt partnering over traditional leverage."
     }
   ]
 }
