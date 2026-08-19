@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-19T12:26:20.272692+00:00",
+  "fetchedAt": "2026-08-19T13:37:24.430451+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -9,21 +9,51 @@
     },
     {
       "label": "10Y Treasury",
-      "value": "4.71%",
-      "pct": -0.38
+      "value": "4.64%",
+      "pct": -1.38
     },
     {
       "label": "30Y Treasury",
-      "value": "5.29%",
-      "pct": -0.45
+      "value": "5.19%",
+      "pct": -1.72
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "97.62",
-      "pct": -0.37
+      "value": "98.43",
+      "pct": 0.83
     }
   ],
   "stories": [
+    {
+      "title": "Mexican Restaurant Santo Taco Subleases Former West Village Dig Inn Space",
+      "link": "https://commercialobserver.com/2026/08/santo-taco-sublease-dig-inn-232-bleecker-street/",
+      "excerpt": "Santo Taco is subleasing space formerly occupied by Dig Inn in Manhattan’s West Village, Commercial Observer has learned. The Mexican food concept launched by Santiago Perez in 2025 will take over the 2,800-square-foot, street-level and below-grade space at the Steven Fuchs-owned 232 Bleecker Street at the corner of Bleecker and Carmine streets, according to ManagRE. The sublease runs until 2041. ManagRE did not disclose the asking rent in the off-market deal, but the average asking rent in nearby retail corridors in the Meatpacking District was $252 per square foot in the second quarter of 2026, according to CBRE. Navin Bhutani of ManagRE was the sole broker in the deal, and Meerkat Development is managing the buildout of the space. Dig Inn did not immediately respond to a request for comment, while Fuchs, who owns a number of properties in the West Village, could not be reached for comment. Santo Taco already has two locations at 114 Kenmare Street and 94 University Place with the new location opening next month. Perez was the CEO of Mexico City-based firm Casamata Hospitality for 10 years, managing concepts like Enrique Olvera’s Pujol as well as Cosme in the Flatiron District and Damian in Los Angeles. Mark Hallum can be reached at mhallum@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-19T13:34:52+00:00",
+      "bullets": [
+        "Santo Taco subleases 2,800 SF at 232 Bleecker St., West Village, through 2041",
+        "Nearby Meatpacking District retail asking rents averaged $252/SF in Q2 2026",
+        "Dig Inn vacating reflects quick-service dining chain contraction in Manhattan"
+      ],
+      "summary": "Santo Taco, a Mexican food concept, is taking over a 2,800-square-foot West Village retail space formerly occupied by Dig Inn, with a sublease running until 2041. The deal occurs amid nearby retail rents averaging $252 per square foot in Q2 2026. Dig Inn's departure signals ongoing challenges for the fast-casual dining sector in Manhattan's premium retail corridors.",
+      "impact": "Minimal direct impact on multifamily development. Retail tenant churn in West Village reflects broader dining sector weakness, not residential demand signals. Monitor only if predicting neighborhood foot-traffic recovery or mixed-use development feasibility."
+    },
+    {
+      "title": "Goodland Pickleball Takes 30K SF for New Indoor Clubs in Brooklyn, Queens",
+      "link": "https://commercialobserver.com/2026/08/goodland-pickleball-lease-williamsburg-rego-park-clubs/",
+      "excerpt": "Indoor pickleball club operator Goodland Pickleball has secured two new club locations in New York City, Commercial Observer has learned. The long-term leases span a total of 30,100 square feet within Class A buildings in Williamsburg, Brooklyn, and Rego Park, Queens. Goodland, which secured its first indoor New York City club in Brooklyn’s Greenpoint neighborhood in 2024, reports more than 11,000 members across the city. Goodland’s Williamsburg lease, located at Rabsky Group’s 105 North 13th Street, is slated to become its new flagship location. Spanning 14,600 square feet, the club will feature four courts across two floors with 20-foot ceilings, as well as a private fifth-floor court, an outdoor terrace and a sushi bar. The Williamsburg site attracted competition from multiple pickleball operators, Hemant Chavan, founder and CEO of Goodland Pickleball, told CO. Chavan called the site “a needle in a haystack,” estimating that fewer than two dozen indoor spaces suited to pickleball’s lofty space needs exist in the city. Goodland declined to provide the asking rent, but asking retail rents along Bedford Avenue’s nearby North Eighth and North 12th streets corridor averaged $245 per square foot in the latter half of 2025, according to the Real Estate Board of New York (the most recent data available). Goodland represented itself in both lease deals, the second of which landed Goodland 15,500 square feet at RB Realty Capital’s 98-22 Queens Boulevard in Rego Park. The location will accommodate six courts, including a badminton court. Recent asking rents for Queens retail spaces averaged $42.47 per square foot, according to data from CommercialCafe. Both of Goodland’s new sites belong to Class A buildings. Chavan said Goodland is the first company in the city to operate indoor pickleball courts inside such assets. “Most indoor pickleball courts are in warehouses, and a lot of these warehouses are not prime locations,” Chavan told CO. Both locations are slated to open in ",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-19T13:00:34+00:00",
+      "bullets": [
+        "Goodland Pickleball leases 30,100 SF across Williamsburg and Rego Park, Queens",
+        "Flagship Williamsburg location spans 14,600 SF with 5 courts; 11,000+ NYC members",
+        "Operator notes fewer than 24 indoor pickleball-suitable spaces exist citywide"
+      ],
+      "summary": "Goodland Pickleball secured two long-term leases totaling 30,100 square feet in Class A buildings in Williamsburg, Brooklyn (14,600 SF flagship) and Rego Park, Queens (15,500 SF). The operator reports over 11,000 members across NYC and notes extreme scarcity of indoor facilities meeting the sport's 20-foot-ceiling requirements. Goodland's expansion signals strong demand for experiential/lifestyle amenities in outer-borough submarkets.",
+      "impact": "Signals strong demand for mixed-use and lifestyle-anchored development in Williamsburg and Rego Park. Goodland's rapid member growth (new Greenpoint location launched 2024) and willingness to commit long-term capital to premium space indicates renters in these submarkets value experiential amenities; developers should consider co-tenanting models with fitness/wellness operators as competitive differentiator in Brooklyn and Queens multifamily projects."
+    },
     {
       "title": "National Resources Sells New York-Area Mixed-Asset Portfolio for $450M",
       "link": "https://commercialobserver.com/2026/08/national-resources-450m-sale-lincoln-property-company-saber-hightower-waterfall-asset-management/",
@@ -32,12 +62,12 @@
       "cat": "Commercial",
       "date": "2026-08-19T12:00:32+00:00",
       "bullets": [
-        "National Resources sells $450M mixed-asset portfolio across NY/NJ/CT to Lincoln/Saber-Hightower/Waterfall JV.",
-        "iPark 84 (270-acre East Fishkill business park) anchors deal; 4M+ SF across three states.",
-        "Multi-state complexity extended closing timeline; signals continued investor appetite for stabilized commercial real estate."
+        "Lincoln/Saber-Hightower/Waterfall JV acquires National Resources portfolio for $450M",
+        "Portfolio spans 4M+ SF across NY, NJ, CT; anchored by 270-acre iPark 84 in East Fishkill",
+        "Year-long sale process reflects complexity of multi-state, mixed-asset estate transactions"
       ],
-      "summary": "A joint venture of Lincoln Property Company, Saber-Hightower, and Waterfall Asset Management acquired a $450 million portfolio of four National Resources properties totaling over 4 million square feet across New York, New Jersey, and Connecticut. The anchor asset is iPark 84, a 270-acre business park in East Fishkill, NY. The deal took longer than typical to close due to the complexity of coordinating assets across three states.",
-      "impact": "Minimal direct relevance to multifamily development. The deal is primarily office and industrial-focused. However, it signals capital availability and investor confidence in Northeast real estate despite rate headwinds, which could ease financing conditions for multifamily developers in NY/NJ markets if similar capital continues to deploy."
+      "summary": "A joint venture of Lincoln Property Company, Saber-Hightower, and Waterfall Asset Management acquired a four-property National Resources portfolio encompassing over 4 million square feet across New York, New Jersey, and Connecticut for $450 million. The deal is anchored by iPark 84, a 270-acre business park in East Fishkill, NY, and took over a year to close due to multi-state complexity. The sale is part of an estate liquidation.",
+      "impact": "Limited direct multifamily relevance. However, the $450M capital redeployment by major institutional players (Lincoln, Waterfall) into industrial/office assets signals current investor preference for non-residential sectors, potentially reducing capital competition for multifamily acquisitions in NYC metro. Monitor if Lincoln or Waterfall divest existing multifamily holdings to fund this acquisition."
     },
     {
       "title": "REITs Report Strong Q2 Results Even as Interest Rates Weigh on Investor Sentiment",
@@ -47,12 +77,12 @@
       "cat": "Commercial",
       "date": "2026-08-19T10:30:13+00:00",
       "bullets": [
-        "83% of 200+ U.S. REITs raised FFO guidance in Q2 2026; only 4% lowered outlooks.",
-        "National office leasing rose 16% YoY; hospitality, industrial, office sectors led strong performance.",
-        "High interest rates and investor confidence gaps persist despite strong earnings and improving property fundamentals."
+        "83% of 200+ U.S. REITs raised FY2026 FFO guidance in Q2; only 4% lowered",
+        "Hospitality, industrial, office sectors showed strongest Q2 2026 performance",
+        "High interest rates and weak investor sentiment persist despite strong earnings"
       ],
-      "summary": "REITs reported surprisingly strong Q2 2026 earnings, with 83% of 200+ publicly traded REITs raising full-year FFO (funds from operations) guidance and just 4% lowering it. National office leasing jumped 16% year-over-year, and hospitality and industrial sectors outperformed. However, the sector remains constrained by elevated interest rates and lingering investor hesitancy about future rate trajectories.",
-      "impact": "Rising FFO guidance and broad earnings beats improve REIT balance sheets and capital availability, but persistent rate concerns keep cap rates elevated and debt financing expensive. Multifamily developers should expect sustained pressure on underwriting yields and refinancing costs until rate clarity emerges; equity capital may flow toward REITs with strong cash flow, tightening competitive positioning for private developers seeking institutional capital."
+      "summary": "A Hoya Capital report analyzing over 200 U.S. REITs found that 83 percent raised full-year 2026 funds-from-operations guidance in Q2, while only 4 percent lowered outlooks. Hospitality, industrial, and office sectors led performance. Despite strong property-level fundamentals and broad guidance raises, the industry remains pressured by elevated interest rates and investor hesitancy. National office leasing rose 16 percent year-over-year.",
+      "impact": "Interest-rate environment remains a headwind for multifamily development underwriting and refinancing; cap rates reflect lingering REIT sector caution. However, strong FFO raises and property fundamentals suggest capital is flowing back into real estate. Multifamily developers should expect continued pressure on leverage and debt terms but may see improving acquisition competition if office-focused REITs consolidate portfolios to reduce exposure."
     },
     {
       "title": "AmTrustRE Brings Financial District Office Tower to 100% Occupancy",
@@ -62,12 +92,12 @@
       "cat": "Commercial",
       "date": "2026-08-18T22:07:09+00:00",
       "bullets": [
-        "AmTrustRE's 59 Maiden Lane (1.04M SF Manhattan office tower) reaches 100% occupancy.",
-        "Occupancy achieved before repositioning completion (facade/lobby/plaza work continues through 2027).",
-        "Leasing momentum validates long-term office repositioning strategy in Financial District market."
+        "AmTrustRE achieves 100% occupancy at 59 Maiden Ln., 1.04M SF Financial District tower",
+        "New 14,807 SF lease with ANV Group Holdings (Blackstone-backed); 58,164 SF renewal",
+        "Full occupancy achieved pre-completion of $40M+ facade/plaza renovation (completion 2027)"
       ],
-      "summary": "AmTrustRE reported that 59 Maiden Lane, a 1.04 million-square-foot office tower in Manhattan's Financial District, has reached full occupancy ahead of completion of its repositioning, which includes facade and lobby renovations and a redesigned public plaza slated for 2027. The final leases include a 14,800-SF new lease to ANV Group Holdings and a 58,100-SF renewal from London Fischer LLP.",
-      "impact": "Limited direct relevance to multifamily developers. However, office stabilization and pre-renovation leasing momentum in lower Manhattan signals improving demand in the Financial District, which could support multifamily absorption in nearby areas (Battery Park, Tribeca, Brooklyn bridge-adjacent) as office tenants and workers return; developers should monitor office recovery as a proxy for white-collar job density and upstream demand signals."
+      "summary": "AmTrustRE announced that 59 Maiden Lane, its 1,043,670-square-foot office tower in Manhattan's Financial District, reached 100 percent occupancy following a new 14,807-square-foot lease with Blackstone-backed ANV Group Holdings and a 58,164-square-foot renewal from London Fischer LLP. Full occupancy was achieved ahead of the property's planned facade and lobby renovation and public plaza redesign, both slated for 2027.",
+      "impact": "Minimal multifamily relevance. However, Financial District office recovery signals improving Manhattan commercial fundamentals, which historically correlates with white-collar in-migration and strengthened multifamily rental demand in downtown/Tribeca/East Side submarkets. Monitor whether AmTrustRE's success here encourages office-to-multifamily conversion pipeline in lower Manhattan."
     },
     {
       "title": "CBRE Arranges 118K-SF Price Zone Lease in Commerce",
@@ -77,12 +107,12 @@
       "cat": "Commercial",
       "date": "2026-08-18T21:56:40+00:00",
       "bullets": [
-        "Price Zone leases 118K SF at Harris Business Center in Commerce (Los Angeles).",
-        "Consolidates operations from three separate facilities into single 24-foot clearance warehouse location.",
-        "Demonstrates industrial demand for modern, efficient distribution facilities in LA market."
+        "Price Zone leases 118,000 SF at Harris Business Center, Commerce, CA (6000 Rickenbacker Rd.)",
+        "Tenant consolidating operations from three separate facilities into single location",
+        "Industrial space features 24-foot clearance, 19 dock positions, rail service"
       ],
-      "summary": "CBRE arranged a 118,000-square-foot industrial lease at Harris Business Center (6000 Rickenbacker Rd., Commerce, CA) for Price Zone, a wholesale distributor consolidating operations previously spread across three facilities. The property features 24-foot clearance, 19 dock-high positions, rail access via LA Junction Railway, and strong logistics infrastructure.",
-      "impact": "Minimal direct impact to multifamily. However, operational consolidation by distributors in LA industrial markets signals e-commerce/supply-chain strength and sustained logistics demand. Strong industrial leasing velocity can drive localized wage growth and job density in industrial submarkets (Long Beach, Commerce corridors), potentially supporting rental demand in nearby multifamily-accessible submarkets; developers should monitor LA industrial absorption as a leading indicator of warehouse-worker population inflows."
+      "summary": "CBRE arranged a 118,000-square-foot industrial lease at Harris Business Center in Commerce for Price Zone, a wholesale distributor and consumer goods importer. The transaction allows Price Zone to consolidate operations previously spread across three separate facilities. The space features 24-foot clearance, 19 dock-high loading positions, three ground-level doors, and rail service via the Los Angeles Junction Railway.",
+      "impact": "Minimal direct multifamily impact. However, industrial consolidation deals in Commerce indicate tight LA industrial market and strong tenant demand for efficiency; reflects broader supply-chain reshoring and last-mile logistics optimization that drives wage growth and job stability in blue-collar corridors, which can underpin workforce multifamily demand in surrounding areas (East LA, Long Beach submarket). Monitor for spillover housing demand."
     },
     {
       "title": "Terreno Adds to NYC Portfolio with Red Hook Acquisition",
@@ -92,12 +122,12 @@
       "cat": "Commercial",
       "date": "2026-08-18T21:43:24+00:00",
       "bullets": [
-        "Terreno acquires Red Hook, Brooklyn industrial property (28K SF) for $26.3M at 5.2% cap rate.",
-        "Asset 100% leased to maritime goods/services provider; includes riparian access.",
-        "Terreno NYC/NJ portfolio now 69 properties, 3.6M SF; largest by property count among six coastal markets."
+        "Terreno Realty acquires 28,000 SF Red Hook industrial property (659 Court St.) for $26.3M",
+        "Property 100% leased to maritime services provider; 5.2% stabilized cap rate",
+        "Transaction expands Terreno's NYC/NJ portfolio to 69 properties, 3.6M SF"
       ],
-      "summary": "Terreno Realty Corporation, a Bellevue-based industrial REIT, acquired a 28,000-square-foot industrial distribution building at 659 Court Street in Red Hook, Brooklyn, for approximately $26.3 million. The property is 100% leased to a maritime goods and services provider, carries a 5.2% stabilized cap rate, and includes riparian access. Terreno's NYC/NJ portfolio has grown to 69 properties totaling 3.6 million square feet.",
-      "impact": "Industrial asset acquisition in Red Hook signals continued investor appetite for last-mile and waterfront logistics in NYC. Strong occupancy (100%) and riparian access justify 5.2% cap rate in tight coastal industrial market. Multifamily developers should note: industrial growth and waterfront activation in Red Hook support demand drivers (jobs, foot traffic) for nearby residential; proximity to industrial/maritime jobs can support rental demand in Red Hook and adjacent Brooklyn neighborhoods (Carroll Gardens, Park Slope, Sunset Park submarkets)."
+      "summary": "Terreno Realty Corporation acquired a 28,000-square-foot industrial distribution building in Red Hook, Brooklyn, on 1.5 acres for approximately $26.3 million. The property is 100 percent leased to a maritime goods and services provider and features two grade-level loading positions, parking for 70 cars, and riparian access. The stabilized cap rate is 5.2%. The acquisition expands Terreno's NYC/NJ portfolio to 69 properties totaling nearly 3.6 million square feet.",
+      "impact": "Industrial investor confidence in Red Hook signals waterfront/logistics market strength in Brooklyn. However, limited direct multifamily signal unless Terreno's capital activity correlates with broader Brooklyn market-rate recovery. Red Hook's industrial consolidation may displace residential conversion opportunities; conversely, industrial stabilization can support housing demand for warehouse/logistics workers. Monitor Terreno's pipeline for industrial-to-multifamily conversion interest in Brooklyn submarkets."
     },
     {
       "title": "Building Block Foundation Fund: CRE Industry’s Way to Make a Difference",
@@ -107,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-08-18T21:36:13+00:00",
       "bullets": [
-        "Building Block Foundation Fund article is nonprofit industry networking/fundraising feature.",
-        "No market data, transactions, or development implications included.",
-        "Editorial/advocacy content unrelated to multifamily supply, demand, capital, or cost."
+        "Building Block Foundation Fund is nonprofit CRE industry fundraiser for Orange County charities",
+        "Event focuses on peer networking and industry-specific philanthropic engagement",
+        "No direct real estate market impact"
       ],
-      "summary": "Article profiles the Building Block Foundation Fund, a nonprofit organized by CRE industry volunteers focused on fundraising and community support in Orange County, California. No transaction data or market metrics included.",
-      "impact": "No relevance to multifamily development underwriting, market analysis, or capital deployment. Skip."
+      "summary": "Building Block Foundation Fund is a nonprofit charitable organization run by volunteer CRE professionals that fundraises for Orange County nonprofits. The article features commentary from CapRock Partners executive Bob O'Neill on the fund's networking and mission model.",
+      "impact": "No relevance to multifamily development, capital, supply, demand, or cost dynamics. Skip."
     },
     {
       "title": "Prism Partners Trades Two-Building Edison Lofts for $131M",
@@ -122,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-08-18T21:23:01+00:00",
       "bullets": [
-        "Prism Partners sells Edison Lofts (334 units, 19K SF retail) in West Orange, NJ for $131M.",
-        "Two-building luxury conversion; $91.7M acquisition loan from New York Life at full-term interest-only.",
-        "Strong occupancy, favorable tax PILOT, historic character drive buyer interest in NJ market."
+        "Prism Partners sells Edison Lofts (334 units, 19K SF retail) in West Orange, NJ for $131M",
+        "Buyer Sym Investments secured $91.7M acquisition loan (full-term IO) from New York Life",
+        "Historic conversion with strong occupancy and favorable tax PILOT"
       ],
-      "summary": "Cushman & Wakefield arranged the $131 million investment sale of Edison Lofts, a 334-unit luxury multifamily community with 19,000 square feet of retail at 33 Ashland Avenue in West Orange, NJ, from Prism Partners to Sym Investments. The buyer secured a $91.7 million acquisition loan from New York Life with a full-term interest-only structure. The property comprises two historic conversion buildings and benefits from strong occupancy and a favorable tax PILOT.",
-      "impact": "Direct relevance: Historic conversion multifamily in Northern NJ submarkets remains attractive to institutional buyers despite rate environment; interest-only financing for stabilized luxury asset signals lender appetite for well-leased, character-driven properties. The $131M valuation and PILOT support indicate that tax incentives (PILOT) and historic positioning can support underwriting in mature NJ markets. Developers should monitor: West Orange and similar NJ submarkets show resilience; interest-only debt structures may become more common for stabilized assets; historic-conversion playbook remains viable if occupancy strong."
+      "summary": "Cushman & Wakefield arranged the $131 million sale of Edison Lofts, a 334-unit luxury multifamily community with 19,000 square feet of retail, located at 33 Ashland Avenue in West Orange, NJ. Buyer Sym Investments financed the acquisition with a $91.7 million full-term interest-only loan from New York Life. The property comprises two historic conversion buildings and benefits from strong occupancy and a tax PILOT.",
+      "impact": "Indicates robust investor appetite for well-positioned historic multifamily conversions in Northern New Jersey submarkets, even at compressed cap rates (implied ~7-8% based on $131M sale price and IO debt structure). West Orange's tax PILOT and historic character are key value drivers; signals opportunity for Trammell Crow to source/develop similar products in NJ gateway markets (Jersey City, Hoboken, Newark) where tax incentives and transit access create defensibility against multifamily oversupply."
     },
     {
       "title": "OCVibe’s Scott Frick On Building a $5B District Around Anaheim’s Honda Center",
@@ -137,42 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-18T20:45:27+00:00",
       "bullets": [
-        "OCVibe master plan: $5B, 100 acres around Anaheim Honda Center; 2,000+ apartments, 170K SF office.",
-        "Privately financed by Samueli family (Ducks owners); 2027 first major openings (market hall, concert venue, office).",
-        "Mixed-use placemaking anchored by sports/entertainment venue; model for converting underutilized parking lots to dense residential."
+        "OCVibe master plan (100 acres, Anaheim, CA) targets $5B total investment by Samueli family",
+        "Project includes 2,000+ apartments, 170K SF office, 2 hotels, 35+ dining, 20 acres parks",
+        "Katella Commons (50K SF market hall), concert venue, and mass-timber office opening 2027"
       ],
-      "summary": "The Samueli family's OCVibe is a $5 billion, 100-acre master-planned development transforming parking lots around Anaheim's Honda Center into a dense mixed-use district. The project includes 2,000+ apartments, 170,000 square feet of office, two hotels, 35+ dining concepts, and 20 acres of parks. First major openings arrive in 2027, including a 50,000-SF market hall, 5,000-capacity concert venue, and a mass-timber office building.",
-      "impact": "Highly relevant: OCVibe demonstrates sustained capital availability for large-scale multifamily development (2,000+ units) when anchored by strong placemaking (sports, dining, culture). The $5B private equity commitment by an owner-operator shows confidence in live-work-play urbanism and mixed-use density in Orange County suburban markets. Implications: Anaheim submarket will absorb 2,000+ new apartments starting 2027, likely driving rental competition and potential price pressure in nearby Orange County multifamily markets (Santa Ana, Garden Grove); developers should monitor OCVibe delivery cadence and pre-leasing momentum as a leading indicator of demand absorption in OC. Also signals trend toward master-planned, amenity-dense communities over single-asset development."
-    },
-    {
-      "title": "Pinnacle Group Sells Rights to Upper West Side Apartment Tower for $88M",
-      "link": "https://commercialobserver.com/2026/08/pinnacle-group-323-west-96-street-sale-lightstone-group/",
-      "excerpt": "Pinnacle Group has offloaded another asset, this time on Manhattan’s Upper West Side. The prominent New York City landlord, which put a massive rent-stabilized portfolio into bankruptcy last year, sold its rights to an apartment building at 323 West 96th Street to private real estate company Lightstone Group for approximately $88 million, according to a source with knowledge of the deal. The Real Deal first reported the sale, citing filings by Pinnacle’s parent company, Zarasai Group, with the Tel Aviv Stock Exchange. The filings, dated Aug. 13, announced the successfully completed sale of Pinnacle’s 100 percent interest in the 15-story building’s lease rights and a 50 percent hold on the land rights. Daniel Parker, Gary Phillips and Will Silverman at Eastdil Secured Savills advised on the deal. An $11 million surplus from the sale is slated to be deposited into the account of Series C bondholders. A spokesperson for Pinnacle Group could not be reached for comment on the most recent sale. The property carried an existing loan balance of about $65 million as of late March, last transferred from Starwood Mortgage Capital to a Barclays-sponsored commercial mortgage-backed securities (CMBS) trust in 2023. Pinnacle secured the leasehold to 323 West 96th Street in 2007, according to city records, and paid another $27 million for its land rights stake in 2016. The 173-unit apartment building, built in 2001, sits at the corner of East 96th Street and First Avenue. The sale comes days after news that Pinnacle offloaded a $128 million condominium and commercial portfolio spanning 39 transactions across Queens, Brooklyn and Manhattan. The buyer was Friar Park JW, an entity with links to Tremada Holdings, an affiliate of London-based property company William Pears Group. Pinnacle, led by Joel Wiener, placed a portfolio of roughly 5,000 rent-stabilized apartments across New York City into bankruptcy in May 2025 after facing approximately $574.4 million in debt. Summit Properties",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-18T19:20:52+00:00",
-      "bullets": [
-        "Pinnacle Group sells 323 West 96th Street (Upper West Side Manhattan) lease/land rights to Lightstone for $88M.",
-        "Asset includes 15-story apartment building; Pinnacle retains 50% land interest, cedes 100% lease rights.",
-        "Sale part of Pinnacle portfolio liquidation following 2023 bankruptcy of rent-stabilized holdings."
-      ],
-      "summary": "Pinnacle Group sold its lease rights and 50% land rights interest in a 15-story apartment building at 323 West 96th Street on Manhattan's Upper West Side to Lightstone Group for approximately $88 million. The transaction is part of Pinnacle's broader asset liquidation following the 2023 bankruptcy filing of its rent-stabilized portfolio. An $11 million surplus from the sale goes to Series C bondholders.",
-      "impact": "Significant: Pinnacle's continued asset sales signal ongoing distress in rent-stabilized multifamily portfolios and the difficulty of refinancing/stabilizing legacy rent-controlled buildings in Manhattan. The $88M valuation for a single 15-story UWS building reflects acquisition by Lightstone likely for value-add or repositioning upside; implies rent-stabilized units remain difficult to finance and operate profitably under legacy regulatory constraints. For developers: rent-stabilized conversion/decontrol strategies and repositioning of older buildings are possible, but financing and equity underwriting remain challenging. UWS submarket may see continued ownership churn and conversion attempts; monitor regulatory changes around decontrol and rent regulation as a potential unlock for development upside."
-    },
-    {
-      "title": "At New York City Council Hearing on Pied-à-Terre Tax, Complaints of a Sloppy Rollout",
-      "link": "https://commercialobserver.com/2026/08/new-york-city-council-pied-a-terre-tax-rollout/",
-      "excerpt": "As a legal battle over New York’s pied-à-terre tax continues, the New York City Council held a hearing Tuesday evaluating the surcharge on second homes. Manhattan Councilmember Gale Brewer led the inquiry against what she saw as a dysfunctional rollout of the tax that included publishing up to 900,000 names and addresses of possible second homes in the five boroughs. The Mamdani administration did not send any representatives to the hearing at City Hall, including from the Department of Finance tasked with collecting the tax. The hearing was held by the Committee on Finance and the Committee on Governmental Operations, State and Federal Legislation. “No estimate of the number of pied-à-terres in the city comes even close to 900,000,” Brewer said. “Yet, the city still published the list with the small caveat that the properties on the list may be subject to the charge. The list published by the Department of Finance was so overbroad that it even included my name, and I don&#8217;t mind my name and my home address [being included], but I&#8217;ve been in that home 365 days a year since 1994. I don&#8217;t leave the city, and I don&#8217;t have a second home.” The committee hoped to get answers from the Mamdani administration on why — when it had credible information from the New York City Comptroller&#8216;s office about how many second homes there are — it still attempted to force thousands of property owners in the city to prove that the addresses are primary residences. Brewer stated that the “onus” should not have been on the homeowners, but on the city to determine whether the home is a primary residence. “Homeowners who believe that they received the letters in error initially had only a short window to contest the surcharge,” Brewer said. “ Although the deadline was ultimately extended by four weeks, this still puts the burden on property owners, which upset people tremendously.” About 17,000 homeowners received letters informing them that they are on the suppl",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-18T18:42:46+00:00",
-      "bullets": [
-        "NYC Council hearing on pied-à-terre tax criticizes 'sloppy rollout'; 900K names/addresses published.",
-        "Mamdani administration absent from hearing; Department of Finance did not defend implementation.",
-        "Legal challenges ongoing; list overbroad, includes properties not actually second homes."
-      ],
-      "summary": "The New York City Council held a hearing on the city's pied-à-terre tax, with Manhattan Councilmember Gale Brewer criticizing the rollout as dysfunctional. The Department of Finance published approximately 900,000 names and addresses of potential second homes, a list Brewer said was overly broad and included non-applicable properties. The Mamdani administration did not send representatives to defend the program, and legal challenges are ongoing.",
-      "impact": "Regulatory uncertainty weighing on Manhattan luxury/second-home market. If pied-à-terre tax is successfully implemented or upheld, it may reduce investor demand for high-end multifamily acquisitions (trophy assets) and limit pricing for luxury product in Manhattan. Conversely, legal challenges and admin dysfunction suggest tax may be vulnerable to being overturned or narrowed, delaying its revenue/demand impact. For multifamily developers: monitor pied-à-terre tax litigation closely; a successful tax could suppress pricing for ultra-luxury rentals and investor acquisition interest in Manhattan Class A assets, while an overturned tax could unlock investor capital that has been on sidelines. Regulatory uncertainty itself depresses capital deployment; clarity on tax status is needed before major Manhattan luxury development/acquisition moves."
+      "summary": "OCVibe, a privately financed 100-acre master-planned development by the Samueli family (owners of the Anaheim Ducks NHL team), is transforming parking lots surrounding the Honda Center into a mixed-use district. The $5 billion project includes over 2,000 apartments, 170,000 square feet of office, two hotels, 35+ dining concepts, and 20 acres of parks and plazas. First deliveries (Katella Commons market hall, 5,000-seat concert venue, six-story mass-timber Kiln office building) are slated for 2027.",
+      "impact": "Major signal of destination multifamily demand in Anaheim/Orange County. OCVibe's 2,000+ unit pipeline, private financing, and 2027 opening indicate large-scale residential absorption ahead in Orange County market; Trammell Crow should monitor Anaheim submarket rental rates and competitive supply to assess pricing power post-OCVibe delivery. Samueli family's long-term commitment (sports, hospitality, office co-tenancy) de-risks the multifamily play and creates density/walkability that commands premium rents. Consider acquisition of adjacent or infill sites in Anaheim now before OCVibe visibility drives land costs higher."
     }
   ]
 }
