@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-20T12:28:26.891301+00:00",
+  "fetchedAt": "2026-08-20T13:38:56.085959+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -9,18 +9,18 @@
     },
     {
       "label": "10Y Treasury",
-      "value": "4.65%",
-      "pct": -1.13
+      "value": "4.70%",
+      "pct": 1.01
     },
     {
       "label": "30Y Treasury",
-      "value": "5.19%",
-      "pct": -1.72
+      "value": "5.24%",
+      "pct": 0.92
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "98.61",
-      "pct": 1.01
+      "value": "98.72",
+      "pct": 0.11
     }
   ],
   "stories": [
@@ -32,12 +32,12 @@
       "cat": "Commercial",
       "date": "2026-08-20T11:15:37+00:00",
       "bullets": [
-        "Jonathan Stein team, Douglas Elliman, closed $26M SoHo penthouse sale",
-        "Broker brokerage deals range $1M–$15M+ across New York City",
-        "High-touch relationship-building and design expertise drive luxury residential brokerage"
+        "Douglas Elliman broker Jonathan Stein brokered $26M SoHo penthouse sale for MLB pitcher.",
+        "Stein's team manages $1M–$15M deal flow across NYC residential market.",
+        "Profile piece on broker career path; no market-moving data or transactions."
       ],
-      "summary": "Douglas Elliman broker Jonathan Stein and team closed a $26 million penthouse sale at 73 Wooster Street in SoHo for MLB pitcher Zack Wheeler, one of NYC's five largest residential sales in July. Stein's eight-person brokerage focuses on high-end residential deals ranging from $1 million to over $15 million. The article emphasizes relationship-building and cross-functional expertise (design, architecture, personality management) as drivers of success in luxury residential brokerage.",
-      "impact": "Minimal direct relevance to multifamily development. This is a luxury condo/individual property brokerage profile. However, broker networks and deal flow in high-barrier-to-entry markets like Manhattan signal tight supply and strong pricing power for residential product, which can inform competitive positioning and pricing strategy for luxury multifamily in gateway markets."
+      "summary": "Jonathan Stein, a Douglas Elliman residential broker, led the sale of a $26M SoHo penthouse for MLB player Zack Wheeler in July, one of NYC's five largest sales that month. Stein oversees an eight-person team handling deals from $1M to $15M. The article is a career profile with no bearing on development underwriting or market fundamentals.",
+      "impact": "No impact. This is a human-interest profile of a luxury residential broker, not a signal of supply, demand, capital availability, or construction feasibility in any metro."
     },
     {
       "title": "Rejection and Change Are Constants in Residential Brokerage. Adapt.",
@@ -47,12 +47,12 @@
       "cat": "Commercial",
       "date": "2026-08-20T11:00:15+00:00",
       "bullets": [
-        "Young residential broker built practice via organic lead generation and RentHop",
-        "Client accessibility, trust, transparency, and problem-solving drive deal velocity",
-        "Flexibility and adaptability essential to overcome limited initial industry connections"
+        "First-person essay by young residential broker on relationship-building and lead generation.",
+        "Agent describes sourcing clients organically via RentHop, focused on service and transparency.",
+        "No transaction data, market conditions, or development-relevant intelligence provided."
       ],
-      "summary": "A young residential broker describes the unglamorous reality of brokerage success: organic lead generation, extreme availability, transparency, and willingness to adapt. Early deals came from unexpected sources (a client's mother finding the broker on RentHop). The broker emphasizes that relationship trust and hands-on service matter more than capital or pre-existing network, and that rejection and change are constants requiring continuous adaptation.",
-      "impact": "No direct impact on multifamily development. This is a residential brokerage career narrative without market, supply, demand, or capital signals."
+      "summary": "A residential broker reflects on early-career challenges, emphasizing relationship-building, availability, and client-first problem-solving rather than commission-chasing. She generated leads organically through platforms like RentHop and by being responsive. No transaction volumes, market conditions, or data are disclosed.",
+      "impact": "No impact. Opinion piece on brokerage best practices; contains no data on rents, absorption, inventory, capital conditions, or demand signals relevant to development underwriting."
     },
     {
       "title": "The Broker’s Guide to Winning Certainty in Bridge Lending",
@@ -62,12 +62,12 @@
       "cat": "Commercial",
       "date": "2026-08-20T04:00:54+00:00",
       "bullets": [
-        "Atlas Invest offers bridge financing $200K–$7M, same-day term sheets, 7-day funding",
-        "Credit box targets multifamily, mixed-use, condo, co-op, single-family rentals",
-        "Lending speed and certainty differentiate bridge lenders in competitive market"
+        "Atlas Invest bridge lender publishes guide for commercial mortgage brokers.",
+        "Atlas underwrites $200K–$7M loans on multifamily, mixed-use, condo, co-op, single-family rental.",
+        "Same-day term sheets and seven-day funding claims; no deal data or market commentary."
       ],
-      "summary": "Atlas Invest has published a guide for commercial mortgage brokers on bridge lending, positioning itself as a fast underwriter and funder for residential real estate. The firm underwrites loans from $200,000 to $7 million (larger deals case-by-case) on multifamily, mixed-use, condo, co-op, and single-family rental properties. Key differentiators are same-day term sheets on complete, eligible submissions and funding in as few as seven days.",
-      "impact": "Signals healthy bridge debt competition and speed in the residential/multifamily market, reducing execution risk for acquisitions and value-add deals. Rapid certainty on non-permanent financing is critical for developers in competitive bid situations; this advertisement suggests lender capacity and appetite remain available even in a challenging capital environment, though no new market-specific deal flow is revealed."
+      "summary": "Atlas Invest, a bridge lender, released a guide for brokers and capital advisors highlighting its speed: same-day term sheets on eligible submissions and seven-day funding. The firm underwrites residential investment real estate deals from $200K to $7M across multifamily, mixed-use, condo, and single-family rental asset classes. No deal flow, loan performance, or underwriting trends are disclosed.",
+      "impact": "Modest signal of bridge lending capacity and appetite for residential investment real estate, but marketing material without evidence of deal volume or tightening/loosening of credit box. Not sufficient to inform acquisition or development strategy."
     },
     {
       "title": "Podcast: Using AI to Make Better CRE Acquisition & Underwriting Decisions",
@@ -77,12 +77,12 @@
       "cat": "Commercial",
       "date": "2026-08-19T23:56:18+00:00",
       "bullets": [
-        "Diald, AI platform for CRE underwriting, founded by Steven Song (CEO)",
-        "Song has experience across development, investment, architecture, urban planning",
-        "Podcast discusses AI decision intelligence for acquisition and underwriting efficiency"
+        "Diald CEO Steven Song founded AI platform for CRE acquisition and underwriting decisions.",
+        "Podcast discusses AI-driven underwriting, contextual risk, and role of human judgment.",
+        "No data on market conditions, deal flow, or empirical outcomes from AI tools."
       ],
-      "summary": "Steven Song, founder and CEO of Diald, an AI-powered decision intelligence platform for commercial real estate, appeared on a podcast discussing how AI can improve CRE acquisition and underwriting decisions. Song has worked on both investment and development sides, with training in architecture and urban planning (Carnegie Mellon, UPenn) and prior roles as founding principal at SCAAA and partner at Axle Companies (family office focused on real estate). The podcast covers topics including judgment-driven CRE decisions, contextual drift risk, AI token costs, and where human judgment still prevails.",
-      "impact": "Emerging AI tooling for underwriting may accelerate deal evaluation cycles and reduce analyst overhead, potentially compressing deal timelines and lowering cost of capital deployment for multifamily developers. However, no market signal, capital availability, or supply-demand data is present; this is primarily a vendor/thought-leadership story."
+      "summary": "Steven Song, founder and CEO of Diald, discusses how AI-powered decision intelligence is reshaping CRE acquisition and underwriting workflows. Topics include judgment-driven decisions, contextual drift risk, AI token costs, and the persistence of human judgment in complex real estate bets. No transaction data or evidence of outcomes is provided.",
+      "impact": "Soft signal of emerging tooling for development underwriting and diligence, but no evidence of adoption, efficacy, or competitive advantage. Too speculative to inform capital allocation or deal strategy at this time."
     },
     {
       "title": "Machine Investment Group Closes Second Fund at Hard Cap of $350M",
@@ -92,12 +92,12 @@
       "cat": "Commercial",
       "date": "2026-08-19T21:59:56+00:00",
       "bullets": [
-        "Machine Investment Group Fund II closed at $350M hard cap + $120M co-investment",
-        "Fund II exceeded Fund I ($246M primary + $208M co-invest, closed 2022)",
-        "NYC-based platform targeting opportunistic, distressed, special situations nationally"
+        "Machine Investment Group closes Fund II at $350M primary, $120M co-invest; hard cap reached.",
+        "Fund II exceeds Fund I ($246M primary, $208M co-invest closed 2022).",
+        "NYC-based opportunistic/distressed platform backed by pensions, endowments, family offices; middle-market manager in 'challenging fundraising' environment."
       ],
-      "summary": "Machine Investment Group, a New York City-based opportunistic and distressed real estate investment platform, reached the final close of Machine Real Estate Fund II at a hard cap of $350 million in primary commitments plus an additional $120 million in co-investments. Fund II exceeds the firm's debut fund (2022), which closed with $246 million primary and $208 million co-investments. Institutional backers include public and private pension funds, endowments, foundations, family offices, and private investors. Co-founder Eric Rosenthal cited the closed-end raise as a milestone in a challenging fundraising environment, especially for middle-market diversified platforms.",
-      "impact": "Indicates that institutional capital is still allocating to distressed and opportunistic strategies despite a tough fundraising environment. For multifamily developers, this signals lingering opportunity in off-market or complex deals (e.g., stabilization, repositioning, forced sales) where institutional capital is prepared to partner or acquire. Growth from Fund I to Fund II suggests appetite for scaled, diversified middle-market platforms—relevant for developers considering institutional JVs or partnerships on value-add transactions."
+      "summary": "Machine Investment Group, a NYC-based real estate platform focused on opportunistic and distressed deals, closed its second flagship fund at a $350M hard cap plus $120M in co-investments, exceeding the 2022 debut fund's $246M. The fund drew support from institutional investors including pension funds, endowments, and family offices, reaching its target despite a difficult fundraising landscape for middle-market managers pursuing diversified strategies.",
+      "impact": "Signals sustained institutional capital appetite for value-add and distressed multifamily and mixed-use plays across U.S. despite near-term rate uncertainty. Larger second close suggests confidence in deal flow and sponsor returns; competitive pressure likely for acquisition targets in secondary/tertiary markets where Machine typically operates, potentially pushing cap rates tighter or valuations higher in those segments."
     },
     {
       "title": "Jamison CEO Jaime Lee Joins Kennedy Wilson as Senior Managing Director",
@@ -107,12 +107,12 @@
       "cat": "Commercial",
       "date": "2026-08-19T21:48:24+00:00",
       "bullets": [
-        "Jaime Lee, former Jamison CEO, joins Kennedy Wilson as Senior Managing Director",
-        "Lee brings 20+ years development/investment ops experience, relationships across sectors",
-        "Role focuses capital formation, investor relations, deal sourcing across Kennedy Wilson platforms"
+        "Jaime Lee, ex-CEO of LA-based Jamison (20+ years tenure), joins Kennedy Wilson.",
+        "Lee hired as Senior Managing Director of capital markets and real estate investments.",
+        "Role focuses on capital formation, institutional relationships, investment sourcing across KW's global platform."
       ],
-      "summary": "Kennedy Wilson hired Jaime Lee, former CEO of Los Angeles-based Jamison (a multifamily/real estate operator), as Senior Managing Director of Capital Markets and Real Estate Investments. Lee spent over 20 years at Jamison, where she helped build the company into a major operator. Her new role emphasizes capital formation, institutional investor relations, and deal identification across Kennedy Wilson's global real estate platform. Kennedy Wilson CEO William McMorrow highlighted Lee's partnership-building, opportunity identification, and complex-transaction navigation skills.",
-      "impact": "Signals Kennedy Wilson's commitment to scaling its investment management and capital-raising platform, particularly around multifamily and development. Lee's operational and investor-relations background suggests Kennedy Wilson is positioning to compete for large institutional mandates and co-investment opportunities. For competitors and partners, this hire indicates Kennedy Wilson will likely increase acquisition velocity and capital deployment in multifamily, potentially increasing competition for deal flow in core markets."
+      "summary": "Jaime Lee, longtime CEO of Los Angeles-based Jamison, joined Kennedy Wilson as Senior Managing Director of Capital Markets and Real Estate Investments. Lee brings two decades of operational and investment experience and will lead capital formation initiatives and investor relations for Kennedy Wilson's global platform. No transaction data or deal specifics are disclosed.",
+      "impact": "Talent migration from established LA developer to larger institutional platform signals consolidation of deal-sourcing and capital-raising functions. Lee's LA and Jamison networks may accelerate KW's acquisition velocity and LP access in West Coast multifamily, potentially lifting competition for development-stage and value-add assets in SoCal and secondary Western markets."
     },
     {
       "title": "Developer Iadisernia Lands Mezz Loan to Finish Hallandale, Fla., Condo Tower",
@@ -122,12 +122,12 @@
       "cat": "Commercial",
       "date": "2026-08-19T21:45:27+00:00",
       "bullets": [
-        "Cottonwood Group provided $50M mezz loan on 250-unit condo tower, Hallandale Beach, Fla.",
-        "Oasis mixed-use project includes 10 acres; condo prices $580K–$3.5M; completion expected 2025",
-        "Prior construction loan: $112M (S3 Capital, 2023); first phase achieved partial TCO"
+        "Developer Iadisernia secures $50M mezzanine loan from Cottonwood Group for Hallandale condo tower.",
+        "250-unit, 25-story luxury condo project at Oasis mixed-use (10 acres); prices $580K–$3.5M.",
+        "Earlier $112M construction loan from S3 Capital (2023); first tower achieved partial TCO; completion expected 2025."
       ],
-      "summary": "Developer Giuseppe Iadisernia secured a $50 million mezzanine loan from Cottonwood Group for a 250-unit luxury condo tower at the Oasis mixed-use development (1000 East Hallandale Beach Boulevard, Hallandale Beach, Florida). The 10-acre project is in its final phase; the condo tower, a 25-story high-rise, is expected to complete construction in 2025 with unit prices ranging from $580,000 to $3.5 million. An earlier $112 million construction loan from S3 Capital funded the project; the first 250-unit phase recently secured a temporary certificate of occupancy to the 12th floor.",
-      "impact": "Mezz financing availability on nearly-completed residential projects signals lender appetite for South Florida residential and willingness to layer debt structures. However, the timing and size ($50M for a 250-unit tower near completion) suggests prior financing gaps and possible demand/sales challenges, requiring additional capital injection. For developers in South Florida, this signals that mezz debt remains available for value-add/completion scenarios, but conventional debt capacity may remain tighter than pre-2022; watch Oasis pre-sales absorption and pricing trends as a bellwether for luxury condo demand in Hallandale Beach/South Florida market."
+      "summary": "Developer Giuseppe Iadisernia obtained a $50M mezzanine loan from Cottonwood Group to complete a 250-unit luxury condo tower at the Oasis mixed-use development in Hallandale Beach, Florida. Unit prices range from $580K to $3.5M. The project follows an earlier $112M construction loan from S3 Capital; the first tower recently achieved a partial certificate of occupancy, with full completion targeted for 2025.",
+      "impact": "Indicates South Florida condo financing and market remain active despite 2023–2024 rate headwinds; mezzanine layer secured on top of construction debt suggests lender and sponsor confidence in pre-sales and exit. Hallandale beachfront demand and pricing power justify layered capital structure, signaling continued investor appetite for Florida luxury multifamily/mixed-use conversions. Watch condo pre-sales and absorption rates as proxy for South Florida rental demand in 2025."
     },
     {
       "title": "Century 21 Redevelopment Adds Burlington, National Grocer to Tenant Roster",
@@ -137,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-08-19T21:41:24+00:00",
       "bullets": [
-        "Century Marketplace (14-lot, $130M redevelopment) now 65% pre-leased, 120K sq ft retail",
-        "National grocer + Burlington signed leases totaling 60,112 sq ft (first national grocer in SW Brooklyn trade area)",
-        "MCB Real Estate + Osiris Ventures executing complex mixed-use retail repositioning, Bay Ridge, Brooklyn"
+        "MCB Real Estate and Osiris Ventures secure leases for Burlington and national grocer at Century Marketplace.",
+        "Brooklyn Bay Ridge mixed-use redevelopment (former Century 21 site); 120K SF, now 65% pre-leased.",
+        "Two tenants total 60K SF; anchor grocery first national grocer in Southwest Brooklyn trade area."
       ],
-      "summary": "MCB Real Estate and Osiris Ventures have leased 60,112 square feet at Century Marketplace, a $130 million redevelopment of the former Century 21 department store assembly (14-lot site at 458 86th Street, Bay Ridge, Brooklyn). A national grocery chain and Burlington (national discount retailer) signed leases; the grocer is the first national grocer to serve the Southwest Brooklyn trade area. The 120,000-square-foot mixed-use project is now 65% pre-leased.",
-      "impact": "Demonstrates successful repositioning of obsolete anchor retail into mixed-use with national grocery and discount retail anchors. For multifamily developers, this signals opportunity in adjacent/complementary residential development in revitalized retail corridors (e.g., Bay Ridge), where new grocery and retail infrastructure supports walkability and resident convenience. The grocery anchor's entry into an underserved trade area suggests demand-driven neighborhood upgrading and could justify new multifamily product in the immediate submarket; grocery and retail anchors are leading indicators of neighborhood-level investment and rental demand."
+      "summary": "MCB Real Estate and Osiris Ventures announced leases with national grocery and discount retailer Burlington at Century Marketplace, a $130M mixed-use redevelopment of the Century 21 department store site at 458 86th Street in Brooklyn's Bay Ridge neighborhood. The 120,000-square-foot project is now 65% pre-leased, with the two new tenants accounting for 60,112 square feet. The grocery anchor is the first national grocer to serve Southwest Brooklyn's immediate trade area.",
+      "impact": "Signals retail stabilization and foot-traffic recovery in secondary Brooklyn submarkets; grocery anchor fills void and anchors urban mixed-use development. Strong pre-lease velocity (65%) at $130M property suggests cap rates compressing on proven mixed-use/retail platforms; reduced downside risk attracts institutional capital. Grocery anchor in underserved Southwest Brooklyn may trigger residential demand lift if the property drives population concentration, though residential rents not discussed."
     },
     {
       "title": "Multi-Tenant Corona del Mar Retail Sells Above Asking Price",
@@ -152,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-08-19T21:34:26+00:00",
       "bullets": [
-        "Multi-tenant retail at 2515 E. Coast Hwy., Corona del Mar, sold for $13.7M (above asking)",
-        "Property attracted 10+ offers; sold $700K above ask; significant local buyer interest",
-        "Parking (20 spaces), oceanfront/highway frontage, and small commercial spaces high-value attributes"
+        "Multi-tenant retail property in Corona del Mar, CA sold for $13.7M, $700K above asking.",
+        "10+ offers and multiple bidding rounds from high-net-worth Orange County investors.",
+        "Strong demand for limited parking and prominent PCH frontage; small-format spaces support rent growth."
       ],
-      "summary": "A multi-tenant retail property at 2515 E. Coast Highway in Corona del Mar sold for $13.7 million, $700,000 above the asking price. Coastal Commercial and Marcus & Millichap arranged the sale, which generated more than 10 offers and multiple rounds of competitive bidding from high-net-worth local investors. Key attributes cited were oceanfront/highway frontage, approximately 20 onsite parking spaces (rare in Corona del Mar), and multiple smaller commercial spaces allowing rent upside.",
-      "impact": "Limited direct relevance to multifamily development. However, the competitive bidding and above-ask sale in Orange County signal strong demand for coastal retail real estate with unique attributes (parking, frontage). For multifamily developers, this underscores the scarcity value and pricing power of rare assets in supply-constrained coastal markets; parking and lifestyle amenities drive investment demand. May inform mixed-use development strategy in Orange County coastal submarkets."
+      "summary": "A multi-tenant retail property at 2515 E. Coast Highway in Corona del Mar sold for $13.7M, exceeding asking price by $700K. The sale attracted over 10 offers and competitive bidding from high-net-worth Orange County investors. The property features ~20 onsite parking spaces (scarce in Corona del Mar) and smaller commercial spaces conducive to rent upside.",
+      "impact": "Indicates strong Orange County retail investor appetite and scarce supply of waterfront commercial with parking; pricing power and scarcity premium for prime coastal CA retail. Not directly material to multifamily development but signals broader OC investor confidence and capital availability that could elevate mixed-use development competition and land values in premium coastal submarkets."
     },
     {
       "title": "Walker & Dunlop Arranges Financing for Stamford Residential Conversion",
@@ -167,12 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-19T21:28:24+00:00",
       "bullets": [
-        "Walker & Dunlop arranged $74.5M loan (Apollo affiliate) for Stamford residential conversion",
-        "The Caspian converts 241K sq ft, 7-story office tower into 63 luxury condos + marina",
-        "Fairfield/Westchester counties supply-constrained; waterfront supply extremely limited; 2025 completion expected"
+        "Walker & Dunlop arranges $74.5M loan (Apollo affiliate) for Stamford waterfront residential conversion.",
+        "The Caspian: 241K SF office-to-63-unit luxury condo; townhomes, marina, rooftop terraces.",
+        "Fairfield/Westchester supply-constrained; limited waterfront development; complex entitlements cited as barriers."
       ],
-      "summary": "Walker & Dunlop arranged a $74.5 million loan provided by an Apollo Global Management affiliate for Sun Homes and Hudson Bay Capital to acquire and redevelop The Caspian, a waterfront office-to-residential conversion in Stamford, Connecticut. The project converts a 241,000-square-foot, seven-story office building at 68-70 Seaview Avenue into 63 luxury condos (mix of one-, two-, three-bedroom units and townhomes) with amenities including grand lobby, rooftop terraces, a 57-slip marina, and parking. Walker & Dunlop noted that Fairfield and Westchester counties are highly supply-constrained for new residential, particularly waterfront product.",
-      "impact": "Strong signal of institutional capital appetite for office-to-residential conversion in supply-constrained coastal markets near NYC. Stamford's waterfront location, limited developable shoreline, and complex entitlements create natural scarcity, supporting conversion economics. For multifamily developers in Fairfield/Westchester/lower Fairfield County submarkets, this confirms robust demand for luxury residential and validates conversion/repositioning strategies as alternative to ground-up development. The $74.5M loan size on a 63-unit luxury project (~$1.18M per unit) reflects strong underwriting confidence; watch Stamford/Fairfield County for similar office conversion opportunities and expect competitive bidding for waterfront/coastal office assets."
+      "summary": "Walker & Dunlop arranged a $74.5M loan from an Apollo Global Management affiliate for The Caspian, a luxury conversion of a 241,000-square-foot waterfront office building into 63 condos in Stamford, Connecticut. The project includes one-, two-, and three-bedroom residences, townhomes, amenities, a 57-slip marina, and structured parking. Lender commentary emphasizes supply constraints in Fairfield/Westchester, particularly for waterfront product given entitlement complexity and limited shoreline.",
+      "impact": "Signals sustained capital availability for office-to-residential conversions in supply-constrained coastal Connecticut markets; waterfront product commands institutional debt at scale. Stamford's supply squeeze and entitlement barriers create opening for pre-entitled or entitled development; luxury pricing and mix support debt service on mid-size projects. Developer-friendly lending environment for conversion plays in Northeast submarkets; likely to accelerate office-to-resi conversions in Westchester, making ground-up development harder to underwrite vs. conversion arbitrage."
     }
   ]
 }
