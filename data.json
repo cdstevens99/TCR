@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-20T17:20:36.324919+00:00",
+  "fetchedAt": "2026-08-20T18:24:36.896385+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -10,7 +10,7 @@
     {
       "label": "10Y Treasury",
       "value": "4.70%",
-      "pct": 0.97
+      "pct": 1.01
     },
     {
       "label": "30Y Treasury",
@@ -19,11 +19,41 @@
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "98.82",
-      "pct": 0.21
+      "value": "98.97",
+      "pct": 0.36
     }
   ],
   "stories": [
+    {
+      "title": "Azora, Vizcaya Capital Flip Coconut Grove Office Building for $62M",
+      "link": "https://commercialobserver.com/2026/08/azora-vizcaya-miami-coconut-grove/",
+      "excerpt": "Just a year after buying a boutique office building in Miami’s coveted Coconut Grove neighborhood, Azora Private Solutions and Vizcaya Capital sold it for a nearly $15 million gain. The five-story property at 3250 Mary Street, called the Grove at 3250 Mary, sold for $62.3 million, according to the brokers who represented the sellers, Berkadia’s Omar Morales and Jaret Turkell. The joint venture had purchased the 80,000-square-foot building for $47.5 million last September. Records show the buyer is an entity tied to El-Ad National Properties, the Boca Raton-based division of Israeli billionaire Isaac Tshuva’s El-Ad Group. “Coconut Grove continues to distinguish itself as one of South Florida’s strongest real estate markets, driven by exceptional demand from luxury residential buyers and high-net-worth office users,” Morales said in a statement. “That demand, combined with limited supply, continues to attract remarkable investment to the neighborhood.” In recent years, Coconut Grove has attracted a slew of billionaires, including Google’s billionaire founder Larry Page, who spent about $170 million assembling a residential compound last year. The residential acquisitions have fueled demand for luxury office space nearby. The acquisition of the 1982-built, 1.3-acre site office building marks somewhat of a deviation for El-Ad National, which has typically focused on residential and mixed-use development. It also comes just four months after the developer purchased a nearby, low-rise condo building for $45.5 million, which will likely be redeveloped. Earlier this month, up north in Fort Lauderdale, the firm bought an oceanfront hotel for $60 million. A representative for El-Ad Group was not immediately available for comment. Julia Echikson can be reached at jechikson@commercialoserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-20T17:45:26+00:00",
+      "bullets": [
+        "Azora/Vizcaya flipped Coconut Grove office building for $62.3M, up $14.8M in one year.",
+        "Israeli billionaire El-Ad Group acquired five-story, 80K SF asset at 3250 Mary Street.",
+        "Coconut Grove office demand driven by luxury residential spillover and high-net-worth tenants."
+      ],
+      "summary": "Azora Private Solutions and Vizcaya Capital sold a 80,000-square-foot office building in Miami's Coconut Grove for $62.3 million, just one year after acquiring it for $47.5 million. El-Ad National Properties (Israeli billionaire Isaac Tshuva's firm) purchased the property. The rapid appreciation reflects strong investor demand in Coconut Grove, fueled by luxury residential growth and affluent office users seeking limited supply.",
+      "impact": "Office-to-residential conversion interest in Coconut Grove remains speculative, but the $15M gain in 12 months signals robust capital competition in the submarket. This inflates land and development costs for new multifamily projects in South Florida's highest-demand neighborhoods, tightening feasibility for ground-up residential development absent significant rent growth or density upside."
+    },
+    {
+      "title": "NAR: Utah City Ranks Highest in U.S. for Commercial Real Estate Demand",
+      "link": "https://www.connectcre.com/stories/nar-utah-city-ranks-highest-in-u-s-for-commercial-real-estate-demand/",
+      "excerpt": "St. George, UT ranks as the No.1 overall metro area for demand, according to the National Association of Realtors&#8217; (NAR) inaugural Commercial Real Estate (CRE) Demand Index. The Utah city posted an overall score of 128, with multifamily as the strongest driver. The newly introduced quarterly index of 306 U.S. metro areas measures where demand is building across office, industrial, retail and multifamily sectors. Rather than measuring current property-market conditions such as vacancy rates, rents or leasing activity, the index focuses on local economic conditions that can generate demand for commercial space and provides an early view of market trends before they are reflected in traditional commercial real estate indicators such as leasing activity and vacancy rates, according to NAR. &#8220;Commercial real estate demand begins with what&#8217;s happening in the local economy,&#8221; said Nadia Evangelou, principal economist &amp; director of real estate research at NAR. &#8220;Demand starts before a lease is signed. It starts with jobs and people. The CRE Demand Index helps identify those trends earlier, before they&#8217;re reflected in traditional market indicators.&#8221; According to the index, South Carolina ranks as the nation&#8217;s strongest state for CRE demand, reflecting continued momentum across the Carolinas. Accordingly, Raleigh, NC ranks highest among the 50 largest metro areas with a score of 121. The post NAR: Utah City Ranks Highest in U.S. for Commercial Real Estate Demand appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-20T17:20:59+00:00",
+      "bullets": [
+        "St. George, UT ranks No. 1 nationally on NAR's new CRE Demand Index with score of 128.",
+        "Multifamily is strongest demand driver in St. George; South Carolina also ranks top nationally.",
+        "Index measures local economic conditions (jobs, population) preceding traditional lease/vacancy metrics."
+      ],
+      "summary": "The National Association of Realtors introduced a Commercial Real Estate Demand Index tracking 306 U.S. metros across four sectors. St. George, Utah posted the highest overall score (128), with multifamily as its primary demand engine. The index prioritizes underlying economic drivers—job creation, population growth—over lagging indicators like vacancy rates and rents, providing early signals of market strength.",
+      "impact": "St. George's top ranking signals explosive demographic and job growth ahead of rent compression; developers should prioritize land acquisition and permitting in Utah's Wasatch Front now, before multifamily fundamentals tighten and land costs spike. The index itself validates leading-indicator discipline and may shift investor capital toward growing metros before traditional metrics warm, compressing development windows and cost advantages."
+    },
     {
       "title": "Florida People & Companies, August 21, 2026",
       "link": "https://www.connectcre.com/stories/florida-people-companies-august-21-2026/",
@@ -31,13 +61,9 @@
       "source": "Connect CRE",
       "cat": "Commercial",
       "date": "2026-08-20T17:19:47+00:00",
-      "bullets": [
-        "No substantive news content provided; masthead/bio only",
-        "Unable to extract market-relevant data or transactions",
-        "No impact on multifamily demand, supply, capital, or cost"
-      ],
-      "summary": "This appears to be a publication masthead and staff bio with no news article. No market data, transactions, or developments are reported.",
-      "impact": "No relevance to multifamily development."
+      "bullets": [],
+      "summary": "Article stub with no substantive content; only boilerplate publication information and author bio.",
+      "impact": "No relevance to multifamily development analysis."
     },
     {
       "title": "W. Valley Data Center Developer Building Massive Energy System",
@@ -47,12 +73,12 @@
       "cat": "Commercial",
       "date": "2026-08-20T17:13:54+00:00",
       "bullets": [
-        "Copia Power rezoning 3,100 acres near Tonopah, Arizona (60 miles west Phoenix) for Belmont Energy Center",
-        "$1.7B construction loan backing utility-scale solar, gas, BESS, and data center infrastructure; operational within 12 months",
-        "APS power purchase agreement eliminates grid strain; data centers attract tech talent and corporate demand to West Valley"
+        "Copia Power rezoning 3,100 acres near Tonopah, AZ (60 min west of Phoenix) for Belmont Energy Center.",
+        "Project: 2,860 acres solar, 320 acres gas/BESS/data centers; $1.7B construction loan, APS PPA.",
+        "Data center power constraints now require integrated renewable generation; operational in ~12 months."
       ],
-      "summary": "Copia Power is developing a $1.7 billion integrated energy and data center project on 3,100 acres near Tonopah in Phoenix's far West Valley, with 2,860 acres for solar, 320 acres for gas/BESS/data centers, backed by APS offtake and expected online within a year. The project solves permitting constraints by providing dedicated power infrastructure.",
-      "impact": "Major data center and power infrastructure draw will accelerate population and job migration to West Valley submarkets (Tonopah, Goodyear, Buckeye); multifamily developers should acquire land and begin underwriting renter-demographic projects in 10–20 mile radius now, ahead of corporate campus and tech worker influx over next 24–36 months. West Valley rents will compress near-term but rebound sharply once data center operations ramp and supply lags demand."
+      "summary": "Copia Power is rezoning 3,100 acres near Tonopah, Arizona (one hour west of Phoenix) for the Belmont Energy Center, combining 2,860 acres of utility-scale solar, 320 acres of gas generation, battery storage, and data centers. The project is backed by $1.7 billion in construction financing and a power purchase agreement with Arizona Public Service, with operations expected within the next year.",
+      "impact": "Data center proliferation in West Valley metro (driven by AI compute demand and Azure/AWS expansion in the Southwest) is creating a secondary demand wave for residential near Tonopah and broader Phoenix exurban markets. Developer teams should monitor Tonopah and surrounding unincorporated areas for inbound workforce demand; these tech-enabled energy hubs often precede multifamily need by 18–24 months, creating early-mover acquisition windows."
     },
     {
       "title": "Affinius Capital Lends $177M for Multifamily Asset Buy in New Jersey, Yonkers",
@@ -62,12 +88,12 @@
       "cat": "Commercial",
       "date": "2026-08-20T17:13:26+00:00",
       "bullets": [
-        "Lincoln/Saber-Hightower/Waterfall JV closed $177.25M debt for two NY metro multifamily properties via Affinius Capital",
-        "Edgewater Harbor (262 units, Edgewater, NJ): $124M; Trilogy Lofts (147 units, Yonkers, NY, near-completion): $53.4M",
-        "Part of larger $450M, 4-property tri-state acquisition; transit-oriented, supply-constrained submarkets confirm investor confidence in NY metro multifamily"
+        "Affinius Capital closed $177.25M acquisition debt for two tri-state multifamily properties via joint venture.",
+        "Edgewater Harbor (262 units, Edgewater NJ): $124M; Trilogy Lofts (147 units, Tuckahoe NY): $53.4M.",
+        "Part of $450M four-property, 4M+ SF acquisition from National Resources."
       ],
-      "summary": "A joint venture between Lincoln Property Company, Saber-Hightower, and Waterfall Asset Management secured $177.25 million in acquisition financing from Affinius Capital for two multifamily properties in the New York metro area: Edgewater Harbor (262 units in Edgewater, NJ) and the newly completed Trilogy Lofts (147 units in Yonkers, NY). The deal is part of a $450 million acquisition of four tri-state properties totaling over 4 million square feet.",
-      "impact": "Capital availability and investor appetite for well-located, transit-oriented NY metro multifamily remains strong despite broader credit stress; bridge financing at scale signals expected rents and NOI growth in Yonkers and Edgewater submarkets. Developers with shovel-ready, transit-proximate sites in supply-constrained NY submarkets should accelerate capital raises and pre-leasing, as institutional buyers are actively acquiring Class A assets."
+      "summary": "A joint venture of Lincoln Property Company, Saber-Hightower, and Waterfall Asset Management secured $177.25 million in acquisition financing from Affinius Capital for two multifamily assets: 262-unit Edgewater Harbor in Edgewater, New Jersey ($124M) and 147-unit Trilogy Lofts in Tuckahoe, New York ($53.4M). The financing is part of a $450 million portfolio acquisition of four tri-state properties totaling over 4 million square feet.",
+      "impact": "Active debt availability for core tri-state multifamily acquisitions signals lender appetite remains healthy despite office distress. However, the focus on transit-oriented, supply-constrained submarkets (Edgewater, Tuckahoe) indicates capital is concentrating in proven demand zones; development financing for secondary locations in NY metro remains difficult, compressing new supply in lower-barrier markets and supporting rent growth in constrained areas."
     },
     {
       "title": "Office CMBS Delinquencies Surpass September 2012’s All-Time High",
@@ -77,12 +103,12 @@
       "cat": "Commercial",
       "date": "2026-08-20T16:45:41+00:00",
       "bullets": [
-        "Office CMBS delinquency hit all-time high 8.89% in July 2026, surpassing Sept 2012 peak of 8.83%; up from 8.0% YoY",
-        "New 60+ delinquencies $2.82B in July vs. $2.09B in June; multifamily delinquencies $405M (14% of volume), up from prior month",
-        "Overall CMBS delinquency rate 3.49% in July; office crisis spreading to adjacent asset classes and debt markets"
+        "Office CMBS delinquencies hit 8.89% in July 2026, surpassing Sept 2012 peak of 8.83%.",
+        "New 60+ day delinquencies: $2.82B in July; multifamily accounted for $405M (14% of total).",
+        "Overall CMBS delinquency rose to 3.49%; term defaults drove 67% of new delinquencies."
       ],
-      "summary": "The office CMBS delinquency rate surged to an all-time high of 8.89% in July 2026, exceeding the September 2012 financial crisis peak of 8.83% and rising 89 basis points year-over-year. New 60+ day delinquencies totaled $2.82 billion in July, with office accounting for 40% ($1.12 billion), followed by mixed-use (26%), multifamily (14%, $405 million), and retail (10%). Overall U.S. CMBS delinquency rose to 3.49% in July from 3.33% in June.",
-      "impact": "Multifamily delinquency volume ($405M, 14% share) is growing; contagion risk from office/mixed-use distress into multifamily debt markets is real, especially for cross-collateralized portfolios and mixed-use developments. Spreads and pricing for multifamily CMBS/bridge financing will tighten further; developers seeking capital should expect higher coupons, tighter underwriting, and increased equity requirements through 2026–2027. Acquisition opportunities in distressed mixed-use and adaptive-use office-to-multifamily conversions will emerge as lenders liquidate and sponsor capital dries up."
+      "summary": "Office CMBS delinquencies reached an all-time high of 8.89% in July 2026, exceeding the previous peak from September 2012. New 60+ day delinquencies totaled $2.82 billion in July, with office accounting for 40% ($1.12B), mixed-use 26% ($728M), multifamily 14% ($405M), and retail 10% ($274M). The overall U.S. CMBS delinquency rate rose 16 basis points to 3.49%.",
+      "impact": "While office distress dominates headlines, multifamily delinquency uptick ($405M new 60+ day defaults) signals stress in value-add portfolios and refinancing pressure on 2021–2022 construction-loan cohorts. Developers with floating-rate bridge debt face maturity crunch; lenders are hardening underwriting and pushing longer rate-lock windows. Higher refinance spreads and stricter LTV/DSCR boxes will compress development feasibility across higher-cost metros (NY, SF, LA), particularly for non-trophy assets."
     },
     {
       "title": "Return to Lender: Week of August 20, 2026",
@@ -91,28 +117,9 @@
       "source": "Connect CRE",
       "cat": "Commercial",
       "date": "2026-08-20T16:45:15+00:00",
-      "bullets": [
-        "No substantive news content provided; section header/teaser only",
-        "Unable to extract specific transactions, markets, or data points",
-        "No impact on multifamily development activity or market conditions"
-      ],
-      "summary": "This is a content teaser for a 'Return to Lender' section with no actual news story or transaction details included.",
-      "impact": "No relevance to multifamily development."
-    },
-    {
-      "title": "H-E-B Scores Sizable Tax Break for SA Warehouse Expansion",
-      "link": "https://www.connectcre.com/stories/h-e-b-scores-sizable-tax-break-for-sa-warehouse-expansion/",
-      "excerpt": "H-E-B is planning a $635 million expansion to its Super Regional Center near Foster Road and East Houston Street in Bexar County. As part of the deal, Bexar County has voted to approve a deal that will reduce the company’s county property-tax bill by more than $15 million over the life of the ten-year agreement. The San Antonio Business Journal reports that county leaders who support the incentive said the agreement is meant to encourage long-term industrial investment and job growth on the East Side. H-E-B built a 1.6-million-square-foot regional warehouse at the site in 2018 and added another plant in 2024. H-E-B has suggested that the latest additions will include a bakery plant, a refrigerated warehouse and a returned-goods center at the campus. The company has said the facility already employs about 1,400 workers. The expansion could add 720 new jobs. The post H-E-B Scores Sizable Tax Break for SA Warehouse Expansion appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-20T16:42:03+00:00",
-      "bullets": [
-        "H-E-B $635M warehouse/logistics expansion at Foster Road/E. Houston, Bexar County (San Antonio area)",
-        "10-year tax break worth $15M+; bakery plant, refrigerated warehouse, returns center; 720 new jobs expected",
-        "Existing 1.6M SF facility (2018) + 2024 plant addition signals supply-chain consolidation and workforce concentration in East Side industrial corridor"
-      ],
-      "summary": "H-E-B is investing $635 million in an expansion of its regional hub near Foster Road and East Houston Street in Bexar County (San Antonio), including bakery, refrigerated warehouse, and returns processing facilities. Bexar County approved a 10-year tax incentive reducing H-E-B's property tax bill by over $15 million, supporting the company's plan to add 720 jobs to an existing workforce of 1,400 at the campus.",
-      "impact": "Major supply-chain employer consolidation and job growth on San Antonio's East Side; 720 new warehouse/logistics jobs will drive renter demand in East San Antonio and surrounding suburbs (New Braunfels, Cibolo, Seguin corridors). Developers should acquire multifamily land within 5–10 miles of the Foster/E. Houston cluster and underwrite workforce housing (market-rate and affordable) with expected absorption lag of 18–24 months post-hiring. Tax incentive signals municipal commitment to industrial growth, creating secondary opportunity for TIF/PILOT-enabled mixed-use development near logistics nodes."
+      "bullets": [],
+      "summary": "Article stub with no substantive content; headline references weekly distressed loan activity but no data provided.",
+      "impact": "Insufficient information to assess market impact."
     },
     {
       "title": "PGIM Loans $83M to Refi 325-Unit New Jersey Apartment Complex",
@@ -122,12 +129,12 @@
       "cat": "Commercial",
       "date": "2026-08-20T15:44:55+00:00",
       "bullets": [
-        "PGIM provided $82.6M bridge loan to refinance Meridia Roselle Park 10 (325 units, Roselle Park, NJ Class A)",
-        "Final closing of $369.5M cross-collateralized portfolio financing covering five Meridia Class A properties (1,340 units) across NJ through 2025",
-        "Bridge structure and scale ($287M in prior tranches) confirms institutional lenders remain active in NJ multifamily, despite credit stress elsewhere"
+        "PGIM refinanced 325-unit Meridia Roselle Park 10 (Roselle, NJ) with $82.6M bridge loan.",
+        "Part of 1,340-unit Meridia portfolio refi totaling $369.5M across five NJ multifamily assets.",
+        "PGIM provided $287M prior cross-collateralized bridge debt for four other Class A NJ assets in 2025."
       ],
-      "summary": "Capodagli Property Company closed a $82.6 million bridge loan from PGIM to refinance Meridia Roselle Park 10, a 325-unit Class A complex in Roselle Park, NJ. This completed a $369.5 million cross-collateralized portfolio financing spanning five Class A Meridia properties (1,340 units total) across New Jersey, with prior tranches of $287 million provided by PGIM throughout 2025.",
-      "impact": "Bridge financing availability for stabilized, Class A NJ multifamily assets remains robust, signaling strong sponsor conviction on rents and exit timing in the next 24–36 months. Developers with near-stabilization assets in high-barrier-to-entry NJ submarkets (South Orange, Pompton Lakes, Linden, Little Ferry, Roselle Park) have a refinancing/recapitalization window before rate volatility and cap-rate expansion narrow lender appetite. Rate locks and term certainty should be pursued immediately; anticipate 150–200 bps spread compression if Fed cuts materialize, creating 2027 refi opportunity for Class A product."
+      "summary": "Capodagli Property Company secured $82.6 million in bridge financing from PGIM to refinance Meridia Roselle Park 10, a 325-unit Class A complex in Roselle, New Jersey. The transaction completes a 1,340-unit portfolio refinancing, with PGIM having provided $369.5 million total debt across five New Jersey multifamily properties, following $287 million in cross-collateralized bridge financing in 2025.",
+      "impact": "Bridge lending remains available for stabilized, Class A multifamily portfolios in NJ; however, reliance on short-term debt signals owners are deferring permanent financing in hope of rate-cut tailwinds. When rates stabilize or hold, bridge maturities will force cap rate re-tests and potential distress. New development financing in NJ remains constrained; acquisition prices for stabilized assets will remain bid up by permanent-capital-constrained sponsors, crowding out ground-up development economics."
     },
     {
       "title": "Mamdani Wants to Add 18K New Homes on Staten Island",
@@ -137,12 +144,12 @@
       "cat": "Commercial",
       "date": "2026-08-20T15:32:09+00:00",
       "bullets": [
-        "NYC Mayor Zohran Mamdani targets 17,675 new homes on Staten Island (9.5% growth) over next 5 years via HPD Fair Housing Growth Strategy",
-        "Block by Block housing initiative and citywide Fair Housing Growth Strategy framework prioritize supply in underutilized boroughs",
-        "Staten Island supply constraint and affordability gap signal major entitlement and zoning reform ahead; developer opportunity window opening"
+        "NYC Mayor Zohran Mamdani targets 17,675 new homes (9.5% growth) on Staten Island over five years.",
+        "HPD released Fair Housing Growth Strategy as part of Block by Block citywide housing plan.",
+        "Staten Island identified as key growth borough under revised zoning and housing policy."
       ],
-      "summary": "NYC Mayor Zohran Mamdani released a Fair Housing Growth Strategy aiming to add approximately 17,675 new homes (9.5% growth) to Staten Island over the next five years as part of the city's broader Block by Block housing plan. The strategy positions Staten Island as a priority growth market under HPD's framework for measuring housing need and identifying optimal neighborhoods for development.",
-      "impact": "This is a clear citywide signal to accelerate multifamily development on Staten Island, which has historically underutilized zoning and lower density than other boroughs; expect rezoning, CEQR streamlining, and discretionary variance approvals to accelerate in 2026–2027. Developers with land banks or control positions in Staten Island neighborhoods (especially near transit: St. George, Tompkinsville, Stapleton) should fast-track entitlement and begin marketing to institutional capital and HNW sponsors. 17,675-unit target implies ~3,500 units/year; supply will lag demand, supporting rent growth and value-add acquisition opportunity through 2028–2030."
+      "summary": "New York City Mayor Zohran Mamdani has unveiled an ambitious housing growth plan for Staten Island, targeting 17,675 new homes (9.5% growth) over the next five years as part of the city's Block by Block initiative. The Department of Housing Preservation and Development released the Fair Housing Growth Strategy, positioning Staten Island as a key growth borough.",
+      "impact": "Staten Island zoning liberalization and explicit city housing targets signal major supply unlocking; developers should immediately acquire land and begin entitlement work on residential projects (especially transit-accessible sites near ferry terminals and planned transit upgrades). City backing ensures political runway and potential tax abatement/PILOT programs; the five-year timeline creates a narrow window before land costs reflect pent-up developer demand and density upside."
     },
     {
       "title": "Planet Fitness Takes 15K SF at Coney Island Residential Development",
@@ -152,27 +159,12 @@
       "cat": "Commercial",
       "date": "2026-08-20T14:28:47+00:00",
       "bullets": [
-        "Planet Fitness leased 14,500 SF at 532 Neptune Avenue, Coney Island (Brooklyn) on 10-year term at $65/SF",
-        "Cammeby's/Rybak completed 499-unit, three-tower residential complex (studios to 3BR) in Q4 2025; 30% unit affordability",
-        "Anchor retail tenant signals strong foot-traffic demand and developer confidence in mixed-use residential-retail absorption in Coney Island"
+        "Planet Fitness leased 14,500 SF at 532 Neptune Avenue (Coney Island, Brooklyn) on 10-year term.",
+        "Rent: $65/SF; developer Cammeby's/Rybak completed 499-unit mixed-use tower in late 2025.",
+        "30% of residential units are affordable; Planet Fitness moves in 2027."
       ],
-      "summary": "Planet Fitness signed a 14,500-square-foot lease at 532 Neptune Avenue in Coney Island, Brooklyn, in the base of a newly completed three-tower residential development by Cammeby's International Group and Rybak Development. The 10-year lease is at $65 per square foot, and Planet Fitness will open in 2027. The residential complex, completed in late 2025, contains 499 units (studios to three bedrooms) with 30% affordable units.",
-      "impact": "Strong anchor retail tenant (Planet Fitness) at $65/SF confirms robust foot-traffic and renter demand in Coney Island mixed-use product; availability of affordable units (30%) did not deter national brand from premium base rent, signaling mixed-income submarkets support higher retail rents. Developers evaluating mixed-use development in underutilized Brooklyn neighborhoods (Sunset Park, Astoria, Flatbush corridors) should prioritize retail anchors with broad appeal; retail spread compression in mixed-use reflects underpriced residential rental growth relative to retail opportunity. Coney Island's precedent validates 30% affordable + 70% market-rate rent mix as pro-forma friendly for institutional capital."
-    },
-    {
-      "title": "Get to Know the Broker: Jonathan Stein of Douglas Elliman",
-      "link": "https://commercialobserver.com/2026/08/jonathan-stein-douglas-elliman/",
-      "excerpt": "For Jonathan Stein, the best is yet to come. Stein, 43, joined the real estate game in 2015 after spending time in the private equity space and then going on the road with his best friend’s rock band, Phantogram, as the tour manager. Now, he runs the Jonathan Stein Team at Douglas Elliman. Stein oversees a group of eight brokers at the firm, which has worked on deals ranging from $1 million to over $45 million. When former New York Mets and current Philadelphia Phillies pitcher Zack Wheeler needed to sell his SoHo penthouse at 73 Wooster Street, Stein and team member Gavin Shiminski stepped in, helping the major leaguer sell the unit for $26 million. It was one of the five largest sales in New York City in July. The road to such a successful real estate career wasn’t easy, but Stein said real estate is an amalgamation of his favorite things: design, architecture, mixing different personalities, and working well with people. “I got into real estate the old fashioned way — my life blew up and I needed a new career,” he said. “I was waiting tables at a buddy’s restaurant looking for what was going to come next. A friend suggested real estate and I loved the idea.” Commercial Observer caught up with Stein in August for “Get to Know the Broker,” a series where we connect with residential brokers to learn more about what makes them tick. This conversation has been edited for length and clarity. Commercial Observer: What has been the biggest deal of your career? Jonathan Stein: I haven’t done it yet. Check back next year. What is your career Everest? Doing my own development project. What’s something you think people would be surprised to learn about you? I grew up on a farm in a town of 170 people. We raised cattle and pigs, and I showed pigs in 4-H as a kid to help earn money for college. What’s your go-to takeout order? Sushi from my neighborhood omakase spot. What TV show are you currently binging? “All Creatures Great and Small.” What is your silliest pet peeve? When ",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-20T11:15:37+00:00",
-      "bullets": [
-        "Broker profile feature on Jonathan Stein, Douglas Elliman; focus on personal background and sales history, not market trends",
-        "Recent notable transaction: Zack Wheeler penthouse sale ($26M, SoHo) among top-five NYC deals in July",
-        "No data on market conditions, demand patterns, or development implications"
-      ],
-      "summary": "This is a biographical profile of Jonathan Stein, a residential real estate broker at Douglas Elliman who joined the industry in 2015 after stints in private equity and as a tour manager. His team has executed deals ranging from $1 million to $45 million, with a notable recent transaction being the $26 million sale of a SoHo penthouse for Philadelphia Phillies pitcher Zack Wheeler.",
-      "impact": "No relevance to multifamily development. This is a people/culture story with no bearing on demand, supply, capital, or cost factors."
+      "summary": "Planet Fitness signed a 14,500-square-foot retail lease at 532 Neptune Avenue in Coney Island, Brooklyn, on a 10-year term at $65 per square foot. The space anchors a newly completed 499-unit residential tower developed by Cammeby's International Group and Rybak Development, with 30% affordable units. Planet Fitness will occupy the ground-floor retail beginning in 2027.",
+      "impact": "Grocery/fitness anchor tenancy at market-rate residential towers in outer-borough waterfront locations (Coney Island) validates mixed-use development model and supports absorption of new supply in historically lower-demand areas. Strong retail fundamentals suggest residential demand in Coney Island remains resilient; developers should prioritize similar mixed-use ground-floor activation in Kings County/Queens waterfront sites to unlock zoning density and support affordability mandates via market-rate rents and value capture."
     }
   ]
 }
