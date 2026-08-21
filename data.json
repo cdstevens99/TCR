@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-21T14:25:42.553474+00:00",
+  "fetchedAt": "2026-08-21T15:24:26.122041+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -9,21 +9,36 @@
     },
     {
       "label": "10Y Treasury",
-      "value": "4.72%",
-      "pct": 0.43
+      "value": "4.73%",
+      "pct": 0.68
     },
     {
       "label": "30Y Treasury",
       "value": "5.26%",
-      "pct": 0.4
+      "pct": 0.48
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "98.69",
-      "pct": 0.1
+      "value": "98.26",
+      "pct": -0.34
     }
   ],
   "stories": [
+    {
+      "title": "Medical Outpatient Building Sales Surge in H1 2026",
+      "link": "https://www.connectcre.com/stories/medical-outpatient-building-sales-surge-in-h1-2026/",
+      "excerpt": "Improving capital market conditions, expanding lender appetite and resilient operating fundamentals have driven a surge in medical outpatient building (MOB) investment sales activity, Cushman &amp; Wakefield reported. MOB transaction volume reached $6.7 billion in the first half of 2026, a 21% increase year-over-year. MOB cap rates, meanwhile, declined 35 basis points Y-O-Y to 6.8%, while average asset pricing reached $368 per square foot in Q2 2026. Portfolio transaction activity more than doubled relative to H1 2025, exceeding $2.6 billion, as the portfolio premium widened to 100 bps over single-asset cap rates. “Cap rate compression, renewed debt market liquidity, and rising portfolio demand all point to improving investor confidence, while steady rent growth and high occupancy levels reinforce the sector’s underlying fundamentals,” said Sandy Romero, head of office &amp; alternatives research at Cushman &amp; Wakefield. “With capital becoming more readily available, we expect MOBs to remain well-positioned to attract institutional investment through the balance of 2026.” The post Medical Outpatient Building Sales Surge in H1 2026 appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-21T15:07:35+00:00",
+      "bullets": [
+        "MOB transaction volume: $6.7B in H1 2026, +21% YoY; cap rates compressed 35 bps to 6.8%",
+        "Portfolio deal activity more than doubled to $2.6B; portfolio premium widened to 100 bps over single assets",
+        "Improving debt liquidity and institutional capital appetite signal sustained MOB investor confidence through 2026"
+      ],
+      "summary": "Medical outpatient building investment sales surged 21% year-over-year to $6.7 billion in H1 2026, with cap rates declining 35 basis points to 6.8% and average pricing reaching $368/sf in Q2. Portfolio transaction activity more than doubled to $2.6 billion, with the portfolio premium widening to 100 bps over single-asset deals. Strong fundamentals—steady rent growth and high occupancy—combined with renewed debt liquidity are expected to sustain institutional investor interest through the remainder of 2026.",
+      "impact": "Minimal relevance to multifamily development. MOB is a different asset class with separate financing, tenant profiles, and capital flows. The capital liquidity described benefits all real estate, but does not directly signal demand drivers (jobs, population, rent growth) affecting apartment markets."
+    },
     {
       "title": "Genentech Tops Out $2B Holly Springs Manufacturing Facility",
       "link": "https://www.connectcre.com/stories/genentech-tops-out-2b-holly-springs-manufacturing-facility/",
@@ -32,12 +47,12 @@
       "cat": "Commercial",
       "date": "2026-08-21T14:17:24+00:00",
       "bullets": [
-        "Genentech topping out $2B Holly Springs, NC biomanufacturing facility; completion 2029.",
-        "Project will create 2,000+ jobs including 500 high-wage manufacturing roles.",
-        "Part of Roche/Genentech's $50B U.S. R&D and manufacturing infrastructure commitment."
+        "Genentech topping out $2B manufacturing facility in Holly Springs, NC; completion 2029, 700k sf",
+        "Project expected to generate 2,000+ jobs: 500 high-wage manufacturing, 1,500 construction; supports Roche's $50B US infra commitment",
+        "First East Coast facility for Genentech; part of 25,000-employee US footprint across 24 locations in 8 states"
       ],
-      "summary": "Genentech reached topping-out on its first East Coast biomanufacturing facility in Holly Springs, North Carolina—a $2 billion investment announced in May 2025 and broken ground in August. The 700,000-square-foot facility will produce next-generation obesity treatments using advanced automation and robotics, and is expected to complete in 2029. The project will support more than 2,000 jobs, including over 500 high-wage manufacturing positions, and is part of a broader $50 billion capital commitment by Roche and Genentech to strengthen U.S.-based infrastructure across 24 locations in eight states.",
-      "impact": "Major employer investment signals sustained job growth and in-migration to Holly Springs and the Raleigh-Durham region through 2029 completion and beyond. The 2,000+ jobs—especially 500 high-wage manufacturing roles—will drive demand for workforce housing in surrounding submarkets; developers should begin acquiring and underwriting multifamily sites within 10-15 miles of the facility now to capture leasing velocity when operations begin. This is a rare, multi-year visibility window for demand in a secondary market."
+      "summary": "Genentech reached topping-out on a $2 billion, 700,000-sq-ft manufacturing facility in Holly Springs, North Carolina, announced May 2025 and broken ground August 2025, with completion expected in 2029. The facility will produce next-generation obesity treatments and support more than 2,000 jobs, including 500 high-wage manufacturing roles and 1,500 construction jobs. This is Genentech's first East Coast manufacturing site and part of Roche's broader $50 billion US R&D and manufacturing infrastructure commitment.",
+      "impact": "Strong demand signal for multifamily in Pasco County, NC (Holly Springs area). Influx of 500+ permanent high-wage biotech workers plus multi-year construction workforce will drive near-term and sustained rental demand; developers should underwrite apartments in accessible submarkets now—cap rates will compress and land will appreciate as job visibility increases. Window to acquire/entitle before 2028–2029 occupancy draws institutional capital to the market."
     },
     {
       "title": "Shifting Fortunes for L.A.’s Ports Boost Surrounding Industrial Real Estate",
@@ -47,12 +62,12 @@
       "cat": "Commercial",
       "date": "2026-08-21T14:10:36+00:00",
       "bullets": [
-        "L.A./Long Beach port volatility and tariff turbulence benefiting port-adjacent industrial real estate.",
-        "Shipping volume surges offsetting boom-bust cycles; Los Angeles industrial warehouse vacancy peaked 7% in 2025.",
-        "Trade policy uncertainty creating strong demand for port-dependent warehouse and logistics space."
+        "LA/Long Beach ports seeing shipping volume recovery amid Trump tariff volatility and geopolitical swings",
+        "Industrial warehouse vacancy peaked at 7% in 2026; port-adjacent and port-dependent submarkets benefiting from cargo throughput",
+        "Tariff turbulence creating boom-bust cycles but boosting near-term demand for port-proximate logistics and distribution real estate"
       ],
-      "summary": "Despite tariff chaos and trade policy uncertainty since April 2025's \"Liberation Day,\" industrial real estate near the Ports of Los Angeles and Long Beach has benefited from new shipping volume and port-dependent tenant demand. Los Angeles industrial vacancy recently peaked at 7 percent this year as the market cycles through boom-and-bust conditions tied to global trade flows. Port-adjacent and port-dependent submarkets are now poised for an upswing, with shipping volatility paradoxically driving increased logistics demand.",
-      "impact": "Port turbulence and rising shipping volume are fueling near-term industrial demand in L.A. County, but this is a logistics/industrial signal, not multifamily. However, logistics job concentration near the ports (truck drivers, warehouse workers, port staff) creates demand for affordable, transit-accessible multifamily in Long Beach, Carson, and other port-adjacent working-class submarkets—developers should monitor ramp-ups in logistics hiring and port worker wage trends to underpin lease-up assumptions in these corridors."
+      "summary": "Despite tariff uncertainty and Middle East geopolitical disruptions during Trump's second term, Los Angeles and Long Beach ports are experiencing a shipping volume uptick, benefiting port-adjacent and port-dependent industrial submarkets. LA industrial warehouse vacancy recently peaked at 7%, but port-proximate areas are seeing activity gains from the ebbs and flows of global trade routing and container volume shifts. The volatility creates headwinds but is supporting near-term demand for logistics and distribution facilities near the waterfront.",
+      "impact": "Minimal direct relevance to multifamily development. Industrial and port activity do not directly correlate with apartment demand unless coupled with permanent job growth. However, logistics sector expansion and wage growth among distribution/warehouse workers in port-adjacent submarkets (Long Beach, Carson, Vernon) could indirectly support demand for workforce housing; developers should monitor logistics employment trends in these specific areas for downstream rental demand signals."
     },
     {
       "title": "West Palm Beach Developer Buys Lot, Apartments on Way",
@@ -62,12 +77,12 @@
       "cat": "Commercial",
       "date": "2026-08-21T13:55:56+00:00",
       "bullets": [
-        "Estate Cos. bought 1.19-acre lot in West Palm Beach for $13M; phases II and I total 631 units.",
-        "Phase II: 310 apartments in 15 stories; Phase I (Soleste Palm Station) 321 units, 8 stories.",
-        "Banesco USA provided $8.45M mortgage for Phase II acquisition; total development in West Palm Beach submarket."
+        "Estate Cos. acquired 1.19-acre lot, West Palm Beach for $13M; Banesco USA financed $8.45M",
+        "Phase II: 310 units in 15 stories at 411 W. Railroad, adjacent to Phase I's 321-unit Soleste Palm Station (still under construction)",
+        "Two-phase, 631-unit mixed-density project signals developer confidence in West Palm Beach rental demand and entitlement speed"
       ],
-      "summary": "Estate Cos. purchased a 1.19-acre lot at 411 West Railroad in West Palm Beach for $13 million to develop Phase II of a two-phase apartment project. Phase I, the 321-unit eight-story Soleste Palm Station, is currently under construction. Phase II will add 310 apartments across 15 stories with 411 parking spaces and a pool deck. Banesco USA financed the acquisition with an $8.45 million construction loan.",
-      "impact": "West Palm Beach submarket showing strong multifamily development velocity—two consecutive phases by same developer signal confident underwriting and off-plan absorption; Phase I success is de-risking Phase II lease-up. Comparable South Florida markets (Boca Raton, Delray Beach) are likely seeing similar phase-based builds. Monitor Phase I pre-leasing, rents, and traffic for signals on submarket absorption pace and whether South Florida as a whole is still capturing in-migration strength."
+      "summary": "Estate Cos. purchased a 1.19-acre lot in West Palm Beach for $13 million and secured $8.45 million in financing from Banesco USA for Phase II development. The new site will accommodate 310 apartments across 15 stories adjacent to the Phase I project, Soleste Palm Station (321 units, eight stories, still under construction), creating a two-phase, 631-unit community. Phase II will include 411 parking spaces and pool deck amenities.",
+      "impact": "Estate Cos.' rapid consecutive-phase acquisition and financing in West Palm Beach confirms sustained rental demand and developer confidence in South Florida market fundamentals. The 631-unit pipeline signals no overbuilding concerns locally; Phase II underwriting likely reflects strong pre-leasing or absorption of Phase I, suggesting rents and occupancy remain resilient. Competitive position tightens for other developers—land availability and cap rates in the submarket will compress as institutional capital chases similar West Palm Beach opportunities."
     },
     {
       "title": "McDowell Starts Work on Hudson Age-Restricted, Affordable Apartments",
@@ -77,12 +92,12 @@
       "cat": "Commercial",
       "date": "2026-08-21T13:26:37+00:00",
       "bullets": [
-        "McDowell Housing Partners closed $38.9M construction loan; Phase II of 120 age-restricted apartments in Hudson, FL.",
-        "Financed via tax-exempt bonds, 4% housing tax credits, SAIL/ELI/HOME-ARP; Freddie Mac permanent financing.",
-        "Completion spring 2028; one block from HCA Florida Bayonet Point Hospital; rents restricted across three AMI tiers."
+        "McDowell Housing Partners closed $38.9M construction loan, started Phase II: 120 age-restricted apartments in Hudson, FL (Pasco County)",
+        "Financing: FHFC tax-exempt bonds, 4% housing tax credits, SAIL/ELI/HOME-ARP, Wells Fargo equity and senior construction; Freddie Mac permanent",
+        "Ekos at Bayonet Point II part of 360-unit, three-phase master-planned community; completion spring 2028; near HCA Florida hospital"
       ],
-      "summary": "McDowell Housing Partners closed a $38.9 million construction loan and began work on Ekos at Bayonet Point II, Phase II of a three-phase affordable master-planned community in Pasco County. The 120-unit, age-restricted development in Hudson will feature rent and income restrictions across three AMI tiers and is financed via Florida Housing Finance Corporation's tax-exempt bonds, 4% housing tax credits, and state HOME-ARP programs. Wells Fargo provided equity and senior construction financing; Freddie Mac will provide permanent financing. Expected completion is spring 2028.",
-      "impact": "Pasco County affordable, age-restricted supply is being absorbed via permanent debt and tax-credit equity; strong feasibility signals that baby-boomer workforce and seniors relocating to Tampa Bay region are generating sustainable demand. Proximity to HCA hospital adds employer stability. Monitor whether broader Pasco County (Wesley Chapel, New Tampa) is seeing similar age-restricted pipeline—this could signal underserved demographic wave and identify adjacency opportunities for market-rate seniors or caregiver workforce housing."
+      "summary": "McDowell Housing Partners closed a $38.9 million construction loan and commenced Phase II of Ekos at Bayonet Point, a three-phase master-planned community in Hudson, Florida (Pasco County) that will deliver 120 age-restricted affordable apartments across three tiers of Area Median Income. Financing included tax-exempt bonds, 4% housing tax credits, and subordinate programs (SAIL, ELI, HOME-ARP) from FHFC, with Wells Fargo providing equity and senior construction financing and Freddie Mac committed for permanent financing. Completion is expected spring 2028.",
+      "impact": "Limited direct relevance to for-profit multifamily development, but signals robust public-sector and institutional appetite for age-restricted affordable housing in Pasco County. Proximity to HCA hospital anchors workforce housing demand; the three-phase model and broad subsidy stack indicate strong local demographics (aging population, healthcare workers, limited income) and tax-credit arbitrage opportunity. Market may be less competitive for market-rate development if affordable supply absorbs rent-restricted demand, but age-restricted niche remains underserved—opportunity for market-rate 55+ communities in adjacent Pasco submarkets."
     },
     {
       "title": "Retail Landlords Need to Underwrite Their Tenants’ Customer Base, Too",
@@ -92,12 +107,12 @@
       "cat": "Commercial",
       "date": "2026-08-21T12:15:18+00:00",
       "bullets": [
-        "Article advises retail landlords to underwrite tenant customer base, not just tenant financials.",
-        "Proactive outreach to tenant candidates based on neighborhood demographics reduces vacancy and commissions.",
-        "Gap in standard underwriting (comparable rents → listing → operator vetting) ignores local demand dynamics."
+        "Article argues retail landlords underwrite tenant finances but ignore tenant customer base demographics and spending patterns",
+        "Gap in underwriting leads to tenant failure, prolonged vacancy, higher commissions and re-leasing costs",
+        "Proactive approach: map local household demographics and spending categories first, then target brands serving that customer base directly"
       ],
-      "summary": "A retail leasing best-practices article argues that landlords should proactively analyze the customer demographics living near a space before listing it, rather than waiting for operator applications and then vetting the tenant's financials. By studying local household spending patterns, categories that over-index, and defining which brands align with the neighborhood, landlords can reduce vacancy and negotiate from a position of strength. The standard reactive process—posting comparable rents, listing on Crexi/LoopNet, and vetting operator finances—fails to validate whether the retailer's customer base actually exists locally.",
-      "impact": "Not directly relevant to multifamily development, but the principle applies: multifamily developers must validate resident demand profiles (income, lifecycle stage, employment, transit needs) before underwriting site locations and unit mixes. A weak article for this audience; brief mention only."
+      "summary": "Retail landlords typically underwrite tenant operators' financial strength but fail to underwrite the customer base supporting those tenants, creating hidden vacancy and failure risk. The article argues that reversing the process—studying nearby households' demographics, spending patterns, and retail preferences before posting a space—enables landlords to identify compatible brands proactively and reduce days-on-market and re-leasing costs. Matching customer demand to tenant concept upfront is a fixable underwriting gap.",
+      "impact": "Minimal relevance to multifamily development. This is a retail-specific underwriting discipline and does not affect apartment supply, demand, capital, or cost. Multifamily developers may benefit indirectly if ground-floor retail in mixed-use projects is underwritten more rigorously, reducing retail vacancy and improving project stabilization, but the article provides no data or market signals applicable to apartment underwriting."
     },
     {
       "title": "Inflation Is Down. But Consumers Aren’t Out of the Woods Yet",
@@ -107,27 +122,12 @@
       "cat": "Commercial",
       "date": "2026-08-21T05:01:00+00:00",
       "bullets": [
-        "CPI 3.4% YoY July 2025; core CPI 2.5%; apartment rents +1.3% (down from +2.1% prior year).",
-        "Real average hourly earnings declined 0.1%; consumer purchasing power remains under pressure.",
-        "Housing (incl. OER and apartment rents) remains largest contributor to core CPI."
+        "CPI July 2026: +3.4% YoY; core CPI +2.5%; both fell slightly MoM and matched expectations",
+        "Apartment rents +1.3% YoY vs. +2.1% prior year; real average hourly earnings declined 0.1%, eroding purchasing power",
+        "Food/grocery/restaurant prices still climbing (+2.7% to +3.4% YoY); consumer resilience masks vulnerability if wage pressures persist"
       ],
-      "summary": "U.S. Consumer Price Index rose 3.4 percent year-over-year in July 2025, with core CPI at 2.5 percent—both matching expectations and suggesting inflation may be moderating. Apartment rents increased 1.3 percent compared to 2.1 percent the prior year, indicating rent growth is cooling. However, real average hourly earnings declined 0.1 percent, meaning consumers' purchasing power remains under pressure despite moderating inflation. Housing, including apartment rents and Owners' Equivalent Rent, continues to be the largest contributor to core CPI inflation.",
-      "impact": "Apartment rent growth decelerating (1.3% vs. 2.1% YoY) signals softer pricing power in rental markets; combined with declining real wages, resident rent-to-income ratios are tightening. Developers should lower rent growth assumptions in new underwritings and expect slower absorption in Class B/C markets where renters are most wage-sensitive. Markets with wage growth (tech hubs, high-skill job centers) will outperform those dependent on lower-wage service sectors."
-    },
-    {
-      "title": "Retail Regains Its Footing as Demand Returns and Supply Stays Soft",
-      "link": "https://www.connectcre.com/stories/retail-regains-its-footing-as-demand-returns-and-supply-stays-soft/",
-      "excerpt": "After a soft first quarter, the retail sector regained positive momentum in Q2 as tenant demand returned, vacancies remained stable and new construction stayed limited. According to second-quarter reports from CBRE, Colliers, Cushman &amp; Wakefield, JLL and Lee &amp; Associates, the combination is creating a favorable setup for landlords and investors, even as retailers contend with increasingly selective consumers. Absorption Retail demand returned in the second quarter, reversing the Q1 negative absorption created, in part, by multiple move-outs. Ongoing tenant demand and the backfilling of vacant space in Q2 helped overcome that first-quarter softness. Some retail categories also benefited from back-to-school spending, with clothing, sporting goods and school supplies among the areas reporting sales growth. Construction New retail supply remained limited, with higher construction costs and continued financing challenges discouraging speculative development. Most new projects are concentrated in build-to-suit and grocery-anchored developments, where tenant demand provides greater certainty. Sunbelt markets continue to account for the lion’s share of construction activity. The supply constraints are helping support modest rent growth nationwide. Investment Investors remain actively interested in retail, with first-half 2026 sales volume reaching $33 billion, a 14% increase from the same period last year. Stronger sales momentum is putting pressure on pricing and contributing to cap-rate compression. Outlook Retail construction is expected to remain sluggish and concentrated in select Sunbelt metros, keeping vacancies low into 2027. Consumers are likely to remain value-conscious, benefiting discount retailers as well as specialty and off-price centers. Well-capitalized retailers and those with strong value propositions should remain better positioned to handle potential headwinds. Limited new supply should continue to support rent growth, while landlords and tenant",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-21T05:01:00+00:00",
-      "bullets": [
-        "Retail sector momentum returned in Q2 2025 after soft Q1; vacancies stable, new construction limited.",
-        "Tenant demand recovering; combination favorable for landlords despite selective consumer behavior.",
-        "CBRE, Colliers, Cushman & Wakefield, JLL, Lee & Associates all reporting positive Q2 metrics."
-      ],
-      "summary": "After a weak first quarter, the retail sector regained momentum in Q2 2025 as tenant demand returned, vacancies stabilized, and new construction remained limited. According to reports from major brokers (CBRE, Colliers, Cushman & Wakefield, JLL, Lee & Associates), the combination of recovering demand and constrained supply is creating favorable conditions for landlords and investors, even as retailers contend with increasingly selective consumer spending.",
-      "impact": "Not directly relevant to multifamily development, but signals broader CRE capital deployment may favor retail over residential in H2 2025, potentially tightening equity and debt availability for multifamily development in some markets. Monitor cap rate spreads between retail and multifamily to determine if retail repricing is happening and pulling capital away from residential."
+      "summary": "The Consumer Price Index rose 3.4% year-over-year in July 2026, with core CPI at 2.5%, both slightly down month-over-month and matching expectations. Apartment rents increased 1.3% year-over-year, a slowdown from 2.1% the prior year, while real average hourly earnings declined 0.1%, signaling continued consumer purchasing-power pressure. Food prices remained elevated, with grocery prices up 2.7% and restaurant prices up 3.4% year-over-year, suggesting consumers may be vulnerable to further shocks despite moderated overall inflation.",
+      "impact": "Rent-growth deceleration (1.3% vs. 2.1% YoY) suggests moderating demand or increased supply absorption in some markets—developers should monitor local rent growth rates closely. Flat/negative real wage growth is a caution flag: if food and discretionary costs remain elevated, tenant ability to absorb further rent increases weakens. Underwriting should model conservative rent-growth assumptions and prioritize markets with job/wage growth above inflation. Lower Fed-rate expectations from moderating CPI may ease construction financing and refinancing costs, improving development feasibility."
     },
     {
       "title": "T&E Development Buys West Chelsea Site for $34M From PPHE Hotel Group",
@@ -137,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-08-20T23:29:17+00:00",
       "bullets": [
-        "T&E Development bought 538-542 West 29th St, Manhattan West Chelsea for $33.5M from PPHE Hotel Group.",
-        "Site originally planned as 98-key hotel + 55 condos in 2019; now pivoting to residential.",
-        "Property sale reflects shift from hospitality to residential in post-COVID Manhattan; PPHE abandoned hotel plans."
+        "T&E Development acquired West Chelsea development site, Manhattan (538-542 W. 29th St.) from PPHE Hotel Group for $33.5M",
+        "PPHE paid ~$42M in 2019 JV with Largo for hotel/condo concept (98 keys, 55 condos); now pivoting to residential",
+        "Asset repricing from hospitality to residential signals hotel-to-multifamily conversion thesis; West Chelsea market favors apartments over hotels post-pandemic"
       ],
-      "summary": "Brooklyn-based T&E Development acquired a development site at 538-542 West 29th Street in Manhattan's West Chelsea from Amsterdam-based PPHE Hotel Group for $33.5 million. PPHE had announced plans in March 2019 to build a 98-key hotel and 55 condos (as a joint venture with developer Largo), but the company shifted strategy and sold the vacant lot to T&E, signaling a pivot from hotel to residential development. The buyer's plans for the site were not disclosed.",
-      "impact": "Manhattan West Chelsea—a prime Hell's Kitchen/Hudson Yards-adjacent submarket—is showing continued conversion from hospitality to residential. The price paid (~$33.5M for a development site) and PPHE's retreat from hotel suggest continued weakness in NYC hotel underwriting post-2019, while residential remains investable. T&E likely planning market-rate apartments; monitor leasing velocity and rents once project is announced to gauge whether West Chelsea/Hudson Yards renters are stable post-remote-work transition."
+      "summary": "T&E Development purchased a Manhattan West Chelsea development site (538-542 West 29th Street) from Amsterdam-based PPHE Hotel Group for $33.5 million. PPHE had acquired the vacant lot in a 2019 joint venture with developer Largo for approximately $42 million, planning a 98-key hotel with 55 condominiums; the project was abandoned after late-2023 demolition permits were filed. T&E's acquisition signals a shift to residential-focused development in the Manhattan submarket.",
+      "impact": "Significant signal for Manhattan multifamily. Hotel-to-residential conversion thesis strengthens: PPHE's loss on the 2019 deal (paid ~$42M, sold at $33.5M) reflects sustained weakness in Manhattan hospitality development and rising relative value of residential. West Chelsea's proximity to Hudson Yards, high foot traffic, and transit access make it attractive for rentals rather than hotel keys or condos in current cycle. Developers should eye other Manhattan hotel sites and underperforming hotel assets for conversion or repurposing; cap rates and land costs may still be compressed vs. pre-pandemic, but conversion economics are improving as multifamily demand stabilizes and hotel capex burden deters new hotel development."
     },
     {
       "title": "L.A. County Investment Sales Jump 28% in July Thanks to Multifamily",
@@ -152,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-08-20T21:20:53+00:00",
       "bullets": [
-        "L.A. County investment sales jumped 28.5% YoY in July 2025 ($2.1B, 7.25M sq ft); multifamily drove gains.",
-        "Multifamily: 3.43M sq ft, $1.22B (58% of county sales); volume +55% YoY, pricing $376/sq ft (+28.7% YoY).",
-        "Sales volume up 75% compared to July 2024 despite elevated borrowing costs and near-multiyear-high Treasury yields."
+        "LA County investment sales: $2.1B (7.25M sf) in July 2026, +28.5% YoY, +75% vs. July 2024",
+        "Multifamily dominated: $1.22B (3.43M sf, 58% of county volume); +55% YoY, +166% vs. July 2024; avg. price $376/sf (+28.7%)",
+        "Elevated Treasury yields despite strong sales volume signal active investor appetite overriding borrowing-cost headwinds"
       ],
-      "summary": "Commercial real estate investment sales across Los Angeles County surged 28.5 percent in July 2025, reaching $2.1 billion for 7.25 million square feet, according to NAI Capital. Multifamily led the surge, with 3.43 million square feet trading for $1.22 billion—58 percent of all county investment volume. Multifamily sales volume climbed 55 percent year-over-year and 166 percent compared to July 2024, while average pricing rose 28.7 percent to $376 per square foot. Gains occurred despite elevated long-term Treasury yields near multiyear highs.",
-      "impact": "L.A. County multifamily experiencing strong investor demand and rising valuations (+28.7% pricing YoY) even with high rates—signals strong local demand fundamentals (in-migration, job growth, rent resilience) overriding cost-of-capital headwinds. Acquisition windows narrowing as comp pricing rises; developers should accelerate land optioning and site control in L.A. submarkets (Koreatown, Mid-City, Downtown, Westside infill) before pricing gaps close further. Investors repricing risk downward, suggesting cap rates may be tightening despite rate environment."
+      "summary": "Los Angeles County commercial real estate investment sales jumped to $2.1 billion (7.25 million sq ft) in July 2026, up 28.5% year-over-year and 75% compared to July 2024. Multifamily led the charge with $1.22 billion in transactions (3.43 million sq ft, 58% of county volume), up 55% year-over-year and 166% versus July 2024, with average pricing rising 28.7% to $376 per square foot. The surge occurred despite elevated long-term Treasury yields remaining near multiyear highs.",
+      "impact": "Strong confirmation that LA multifamily capital markets are heating fast—July 2026 multifamily volume up 166% in two years signals major institutional capital inflow and reduced distress selling. Price appreciation (+28.7% YoY per sf) and transaction velocity suggest cap rates have likely compressed further; developers must move quickly on LA-area land acquisitions and development approvals before values spike higher. Paradoxically, elevated Treasury yields typically depress cap-rate compression, yet sales volume surged—indicates supply scarcity and income-growth confidence overwhelming rate headwinds. Window to finance new development may be tightening; lock in construction debt and mezzanine capital now."
     },
     {
       "title": "New York City’s Technology Labor Market Has Surpassed San Francisco: Report",
@@ -167,12 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-20T19:40:03+00:00",
       "bullets": [
-        "NYC tech workforce 394,300 in 2025 (+8.4% since 2022, +30,640 jobs); exceeded San Francisco for first time.",
-        "San Francisco tech employment fell 6% over same period to 375,730 jobs; announced layoffs drove exodus.",
-        "NYC's diversified job market outpaced SF's concentration; first time in 13-year CBRE report history NYC leads."
+        "NYC metro tech employment: 394,300 in 2025, +8.4% vs. 2022 (+30,640 jobs); surpassed SF Bay Area (375,730, -6% vs. 2022)",
+        "First time in CBRE's 13-year report history that NYC tops SF; SF job losses from announced layoffs vs. NYC diversified growth",
+        "NYC remains #2 for overall tech talent pool quality across 13 metrics; diversification (non-tech jobs) drove NY's competitive advantage"
       ],
-      "summary": "New York City's technology labor market surpassed San Francisco's for the first time in 2025, with NYC's tech workforce reaching 394,300 (up 8.4 percent since 2022, adding 30,640 jobs). San Francisco's tech employment fell 6 percent over the same period, totaling 375,730 jobs. According to CBRE's annual North American tech talent report, NYC's diversified job market and continued growth outpaced San Francisco's tech concentration and announced layoffs. San Francisco remains ranked first in overall tech talent pool across 13 metrics.",
-      "impact": "NYC's tech employment overtaking San Francisco signals sustained in-migration of higher-wage tech workers to Manhattan and Brooklyn through at least 2025. This supports continued rent growth and Class A multifamily absorption in Manhattan (Midtown South, Flatiron, Williamsburg) and emerging Brooklyn corridors (DUMBO, Brooklyn Heights, Park Slope). Developers should model stronger absorption and rent assumptions in Manhattan submarkets competing for tech talent (finance, media tech, advertising) and prioritize transit-accessible sites near tech clusters (Hudson Yards, Flatiron, Tribeca). West Coast developers should monitor whether SF's tech job losses are stabilizing or accelerating, and whether Austin, Denver, Seattle are capturing displaced SF talent instead."
+      "summary": "New York City's metropolitan area tech workforce reached 394,300 in 2025, a gain of 30,640 jobs (+8.4%) since 2022 and surpassing the San Francisco Bay Area's 375,730 tech workers (down 6% over the same period). This is the first time in CBRE's 13-year annual report history that NYC has led. NYC's diversified job market and continued growth, contrasted with San Francisco's announced tech layoffs, drove the crossover. San Francisco remains ranked #2 in overall tech talent pool quality across 13 metrics.",
+      "impact": "Major demand catalyst for NYC multifamily, especially in Manhattan core and outer-borough tech hubs (Brooklyn, Long Island City). 30,640 net tech jobs added since 2022 represent high-wage in-migration; developers should underwrite luxury and upper-mid-market rental demand in proximity to major tech clusters (Flatiron, Hudson Yards, SoHo, Brooklyn Tech Triangle). Conversely, SF Bay Area weakness signals potential weakening rental demand in San Francisco and adjacent markets—exercise caution on new Bay Area starts unless tied to specific growth corridors. NYC's diversification advantage suggests resilience in rents even if tech growth moderates; mixed-income underwriting in secondary NYC markets may outperform single-industry-dependent SF submarkets."
     }
   ]
 }
