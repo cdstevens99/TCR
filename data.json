@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-08-20T23:17:27.953373+00:00",
+  "fetchedAt": "2026-08-21T12:27:56.261903+00:00",
   "rates": [
     {
       "label": "SOFR",
-      "value": "3.62%",
-      "pct": -0.03,
+      "value": "3.63%",
+      "pct": 0.01,
       "isBps": true
     },
     {
@@ -25,19 +25,94 @@
   ],
   "stories": [
     {
+      "title": "Retail Landlords Need to Underwrite Their Tenants’ Customer Base, Too",
+      "link": "https://commercialobserver.com/2026/08/retail-landlords-tenant-customer-base/",
+      "excerpt": "Landlords underwrite the retail tenant. But they almost never underwrite the tenant&#8217;s customer. They should. That gap costs landlords money, and it is fixable before a listing goes live. The standard leasing process is too reactive: Review comparable rents, post the space on Crexi and LoopNet, wait for responses, and then vet an operator&#8217;s finances. Mark Kvetkovskiy. None of that tells you whether enough of that retailer&#8217;s customers live near the space. If they do not, the risk rises of tenant failure, months of vacancy, and another round of commissions and negotiations. The better approach is to flip the process. Instead of waiting to see who shows up, start by studying who lives near the space. How do nearby households spend? Which categories over-index locally? Does the neighborhood support an everyday concept, a destination brand, or something in between? Answer those questions first, and you can define the customer already walking the neighborhood&#8217;s streets. Then, identify the brands that serve that customer and approach them directly about the vacancy. Proactive outreach can reduce days on market and the vacancy costs that come with them. Consider a hypothetical vacant restaurant at Rivington and Ludlow streets on Manhattan’s Lower East Side. I analyzed the 2026 Esri Consumer Spending Survey and Esri Market Potential data for the area within a five-minute walk. Esri&#8217;s modeled data draws on consumer surveys, demographic segmentation and household spending patterns. It is directional, not a record of observed transactions. Esri estimates that households in that walking area spend $50,243,250 annually on food and beverages away from home, or about $5,043 per household. The market-potential data then sharpens the picture. Some 20.4 percent of adults in the area visited a fine-dining restaurant in the previous six months, an index of 124, or 24 percent above the U.S. average. Among fine-dining consumers, 29.01 percent spend more than $",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-21T12:15:18+00:00",
+      "bullets": [
+        "Retail landlords underwrite tenant finances but rarely analyze customer demographics.",
+        "Proactive neighborhood customer profiling reduces vacancy and leasing costs.",
+        "Gap between tenant underwriting and customer demand creates avoidable tenant failures."
+      ],
+      "summary": "Retail landlords follow reactive leasing: post space, wait for offers, then vet tenants. The better approach flips the process—study neighborhood demographics and spending patterns first, then recruit brands that serve that customer base directly. This proactive strategy reduces days on market, vacancy costs, and commissions, because it ensures tenant-customer alignment before lease signing.",
+      "impact": "Minimal direct impact to multifamily development. However, retail health affects mixed-use and ground-floor demand in multifamily projects; developers should apply similar customer-demand analysis to retail components of residential buildings to ensure anchor tenancy strength and resident amenity quality."
+    },
+    {
+      "title": "Inflation Is Down. But Consumers Aren’t Out of the Woods Yet",
+      "link": "https://www.connectcre.com/stories/inflation-is-down-but-consumers-arent-out-of-the-woods-yet/",
+      "excerpt": "The Consumer Price Index (CPI) increased 3.4% year over year in July. Meanwhile, the core CPI, which excludes food and energy costs, rose 2.5%. Both measures fell slightly month over month. They also matched market expectations and suggested that inflationary pressures could be moderating. A recent Marcus &amp; Millichap report supported that possibility, noting that despite continued turmoil in the Middle East and its potential impact on supply chains, the latest readings could “modestly ease immediate pressure on the Federal Reserve to raise interest rates.” Rent Growth Continues Muted Housing remains one of the largest contributors to the core CPI, with the Owners’ Equivalent Rent (OER) accounting for much of the metric. Also counted are apartment rents. These increased by 1.3%, compared with the 2.1% increase the year before. At the same time, real average hourly earnings declined 0.1%. This suggests that consumers&#8217; purchasing power remains under pressure even as inflation moderates. Consumer Spending Faces Headwinds Food prices continued to climb in July, with year-over-year grocery and restaurant prices increasing by 2.7% and 3.4%, respectively. “Although this divergence may suggest consumers remain willing to spend on discretionary dining, it may also signal vulnerability if household purchasing power weakens further,” Marcus &amp; Millichap said. Retail property fundamentals were mixed. Vacancy remains 60 basis points below its historical average, as space demand remains volatile. Net space relinquishment occurred in three of the past six quarters. The report suggested that retailers are working in a resilient consumer environment but are selective about spending. Hospitality Could Feel the Pressure Leisure spending is under pressure, too. The Leisure and Hospitality sector lost 40,000 jobs nationally in July, while hotel occupancy declined 20 basis points in June despite World Cup travel demand. “With transportation costs still elevated and travel dem",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-21T05:01:00+00:00",
+      "bullets": [
+        "CPI at 3.4% year-over-year in July; core CPI 2.5%—both moderating.",
+        "Apartment rents rose 1.3% year-over-year (vs. 2.1% prior year); real wage growth declined 0.1%.",
+        "Housing remains largest core CPI contributor; consumer purchasing power under pressure despite inflation moderation."
+      ],
+      "summary": "July inflation data shows headline CPI at 3.4% and core at 2.5%, both slightly easing monthly. Apartment rents decelerated to 1.3% year-over-year growth versus 2.1% the prior year. Real average hourly earnings declined 0.1%, signaling squeezed household purchasing power even as inflation moderates. Consumers may remain cautious on discretionary spending.",
+      "impact": "Rent growth deceleration signals softening demand tailwinds in multifamily; combined with declining real wages, renter affordability pressures persist, potentially limiting ability to push rents in secondary/tertiary markets. Developers should stress-test underwriting for flatter rent escalators and reconsider value-add repositioning assumptions."
+    },
+    {
+      "title": "Retail Regains Its Footing as Demand Returns and Supply Stays Soft",
+      "link": "https://www.connectcre.com/stories/retail-regains-its-footing-as-demand-returns-and-supply-stays-soft/",
+      "excerpt": "After a soft first quarter, the retail sector regained positive momentum in Q2 as tenant demand returned, vacancies remained stable and new construction stayed limited. According to second-quarter reports from CBRE, Colliers, Cushman &amp; Wakefield, JLL and Lee &amp; Associates, the combination is creating a favorable setup for landlords and investors, even as retailers contend with increasingly selective consumers. Absorption Retail demand returned in the second quarter, reversing the Q1 negative absorption created, in part, by multiple move-outs. Ongoing tenant demand and the backfilling of vacant space in Q2 helped overcome that first-quarter softness. Some retail categories also benefited from back-to-school spending, with clothing, sporting goods and school supplies among the areas reporting sales growth. Construction New retail supply remained limited, with higher construction costs and continued financing challenges discouraging speculative development. Most new projects are concentrated in build-to-suit and grocery-anchored developments, where tenant demand provides greater certainty. Sunbelt markets continue to account for the lion’s share of construction activity. The supply constraints are helping support modest rent growth nationwide. Investment Investors remain actively interested in retail, with first-half 2026 sales volume reaching $33 billion, a 14% increase from the same period last year. Stronger sales momentum is putting pressure on pricing and contributing to cap-rate compression. Outlook Retail construction is expected to remain sluggish and concentrated in select Sunbelt metros, keeping vacancies low into 2027. Consumers are likely to remain value-conscious, benefiting discount retailers as well as specialty and off-price centers. Well-capitalized retailers and those with strong value propositions should remain better positioned to handle potential headwinds. Limited new supply should continue to support rent growth, while landlords and tenant",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-21T05:01:00+00:00",
+      "bullets": [
+        "Retail vacancy stable in Q2; tenant demand returned after soft Q1.",
+        "New construction remains limited; favorable landlord/investor setup emerging.",
+        "Retailers contend with increasingly selective consumers despite sector momentum."
+      ],
+      "summary": "According to Q2 reports from CBRE, Colliers, Cushman & Wakefield, JLL, and Lee & Associates, the retail sector regained momentum after a weak first quarter. Tenant demand rebounded, vacancy stayed flat, and new construction stayed restrained—a combination favoring landlords and investors. Retailers, however, face more discriminating consumers.",
+      "impact": "Minimal direct impact to multifamily. Healthy retail—particularly limited new supply—may support co-tenancy value and foot traffic for mixed-use multifamily developments, but core residential demand drivers (jobs, in-migration) remain the primary lever."
+    },
+    {
+      "title": "How the “Vanity Economy” Is Impacting Retail",
+      "link": "https://www.connectcre.com/stories/how-the-vanity-economy-is-impacting-retail/",
+      "excerpt": "Social media and its influencers have turned appearance into a powerful consumer category, and shopping centers offering such services are the beneficiaries, according to a recent CBRE report. Influencer marketing, celebrity beauty partnerships and growing interest in health and wellness have fueled what CBRE calls the “vanity economy,” which encompasses beauty services, cosmetics and specialty fitness retailers. Consumers spent about $132 billion on appearance-enhancing products in 2025, up from $86 billion in 2020. Those categories also accounted for 37.5% of total leased space as of Q2 2026, according to CoStar data cited by CBRE. Where the Numbers Are The global beauty market is now valued at approximately $450 billion, according to McKinsey data included the CBRE report. That market is expected to grow at an annual rate of about 5% through 2030. Cosmetics are one major contributor, as consumer spending on these products increased 38% over the past five years to $25.4 billion. Furthermore, brick-and-mortar stores remain the primary channel for consumers to buy their beauty products, accounting for 74% of sales. Physical stores also give consumers a place to discover new products and replenish products they already use. Services are another vanity economy component, consisting of beauty and nail salons and barbershops, is expected to grow by 10% annually, according to Kentley Insights, as introduced in the CBRE report. Additionally, consumers spent $45.7 billion on fitness centers in 2025. CBRE said these centers can generate regular visits that benefit other shopping-center tenants. What It Means for Retail For shopping-center owners and operators, beauty and wellness tenants can help generate traffic and increase dwell time, creating what CBRE describes as a complementary retail ecosystem. Beauty services and boutique fitness can also be concentrated in markets with favorable demographics. That makes these operators more than just another tenant category: Their",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-21T05:01:00+00:00",
+      "bullets": [
+        "Vanity economy (beauty, cosmetics, wellness) reached $132B in 2025, up from $86B in 2020.",
+        "Beauty and fitness now account for 37.5% of leased retail space (Q2 2026); global beauty market valued at $450B.",
+        "Brick-and-mortar stores drive 74% of beauty product sales; expected 5% annual growth through 2030."
+      ],
+      "summary": "Social media and influencer marketing have fueled a 'vanity economy' in retail. Consumers spent $132 billion on appearance-enhancing products in 2025 (up 53% from 2020), with cosmetics spending up 38% over five years to $25.4 billion. Beauty, cosmetics, and specialty fitness account for 37.5% of all leased retail space. Physical retail remains the dominant sales channel (74%), and the global beauty market is forecast to grow 5% annually through 2030.",
+      "impact": "Minimal direct impact to multifamily development alone. However, the strength and durability of beauty/wellness retail creates a tenant stabilizer and drives foot traffic in mixed-use urban multifamily projects, especially in walkable neighborhoods with affluent renters (NYC, LA, Miami submarkets). Developers should actively court beauty/wellness anchors and retailers for ground-floor retail components."
+    },
+    {
+      "title": "T&E Development Buys West Chelsea Site for $34M From PPHE Hotel Group",
+      "link": "https://commercialobserver.com/2026/08/te-development-buys-west-chelsea-site-for-34m-from-pphe-hotel-group/",
+      "excerpt": "A development site in Manhattan&#8217;s West Chelsea area previously conceived for hotel and luxury residences in 2019 by an international hospitality firm is now poised for a new residential journey. Amsterdam-based PPHE Hotel Group sold the property at 538-542 West 29th Street to Brooklyn-based T&amp;E Development for $33.5 million in a deal that closed late Thursday afternoon, Commercial Observer has learned. Colliers represented the seller with a team led by Zach Redding, Dylan Kane and Jared King. Sporn Group’s Lenny Sporn arranged the sale on behalf of the buyer. Crain’s New York Business first reported that the deal was set to close this summer. PPHE Hotel Group announced in March 2019 it had formed a joint venture with developer Largo to acquire the vacant lot for around $42 million, with plans to build a 98-key hotel and 55 condos. An entity connected to PPHE field demolition permits for the project in late 2023, Crain’s reported at the time. Greg Hegarty, co-CEO of PPHE, said in a February statement on the pending sale that “significant changes to the regulatory landscape” for ground-up development of hotel projects in New York following its 2019 acquisition contributed to the decision to part ways with the property. The 9,875-square-foot vacant lot between 10th and 11th avenues has 74,063 square feet of development potential under New York City’s C6-3 zoning within the Special West Chelsea District and will not require an affordable housing component, according to Colliers. T&amp;E recently completed a 54-unit condo development called the Florian at 350 East 18th Street in Manhattan’s Gramercy Park. Redding said the property is one of the few remaining unconstrained development sites in West Chelsea and would be well positioned as a residential project given there is only one condo building currently under construction between West 20th and West 30th streets. He noted that nearby condo developments have netted average sales of roughly $2,884 per square fo",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-20T23:29:17+00:00",
+      "bullets": [
+        "T&E Development acquired West Chelsea site (Manhattan) from PPHE Hotel Group for $33.5M.",
+        "Property at 538–542 West 29th Street was originally conceived as 98-key hotel + 55 condos in 2019.",
+        "Shift from hotel/condo to pure residential signals changed market demand and capital allocation in Chelsea."
+      ],
+      "summary": "T&E Development bought a 538–542 West 29th Street development site in Manhattan's West Chelsea from PPHE Hotel Group for $33.5 million, closing late July. PPHE had initially acquired the vacant lot in 2019 with Largo for ~$42 million, planning a 98-key hotel and 55 condos. After filing demolition permits in late 2023, PPHE pivoted to a sale, signaling a strategic shift away from hotel development.",
+      "impact": "Signals retreat from hotel development in West Chelsea and renewed focus on residential-only strategies, likely due to softer hotel market dynamics and stronger multifamily capital flows. Developer should monitor whether T&E builds pure multifamily or mixed-use; if pure multifamily, it confirms West Chelsea rental demand strength and potential upside for comparable projects in Chelsea, Meatpacking District, and Hudson Yards subareas."
+    },
+    {
       "title": "Cyber Risk Management Firm Signs Five-Year Renewal of Midtown Offices",
       "link": "https://www.connectcre.com/stories/cyber-risk-management-firm-signs-five-year-renewal-of-midtown-offices/",
-      "excerpt": "JLL arepresented SecurityScorecard, a global leader in cyber risk intelligence, in a five-year renewal of its full-floor headquarters at 1140 Ave. of the Americas in Midtown Manhattan. A tenant since 2023, the company occupies 8,475 square feet across a full floor featuring a large private outdoor terrace and collaborative workspace. The Cushman &amp; Wakefield team of Josh Kuriloff, Matthias Li, Heather Thomas, Pierce Hance and Nicole Estevez represented the landlord in leasing negotiations. JLL Managing Director Valentin Stobetsky represented SecurityScorecard. “1140 Avenue of the Americas offers everything a fast-growing technology company like SecurityScorecard is looking for,” said Stobetsky. “It has a premier Midtown location, outstanding transit access, modern amenities and a unique full-floor office with an expansive private outdoor terrace that enhances the employee experience. It’s an ideal environment for attracting top talent and supporting the company’s next phase of growth.” The post Cyber Risk Management Firm Signs Five-Year Renewal of Midtown Offices appeared first on Connect CRE.",
+      "excerpt": "JLL represented SecurityScorecard, a global leader in cyber risk intelligence, in a five-year renewal of its full-floor headquarters at 1140 Ave. of the Americas in Midtown Manhattan. A tenant since 2023, the company occupies 8,475 square feet across a full floor featuring a large private outdoor terrace and collaborative workspace. The Cushman &amp; Wakefield team of Josh Kuriloff, Matthias Li, Heather Thomas, Pierce Hance and Nicole Estevez represented the landlord in leasing negotiations. JLL managing director Valentin Stobetsky represented SecurityScorecard. “1140 Ave. of the Americas offers everything a fast-growing technology company like SecurityScorecard is looking for,” said Stobetsky. “It has a premier Midtown location, outstanding transit access, modern amenities and a unique full-floor office with an expansive private outdoor terrace that enhances the employee experience. It’s an ideal environment for attracting top talent and supporting the company’s next phase of growth.” The post Cyber Risk Management Firm Signs Five-Year Renewal of Midtown Offices appeared first on Connect CRE.",
       "source": "Connect CRE",
       "cat": "Commercial",
       "date": "2026-08-20T22:11:00+00:00",
       "bullets": [
-        "SecurityScorecard renews 8,475 sq ft full-floor HQ at 1140 Ave Americas, Midtown Manhattan, five years",
-        "Tech tenant since 2023; values premier location, transit, modern amenities, outdoor terrace for talent attraction",
-        "Class A Midtown office leasing signals continued tech/growth company demand in Manhattan CBD"
+        "SecurityScorecard (cyber risk firm) renewed five-year lease at 1140 Ave. of Americas, Midtown Manhattan.",
+        "Tenant occupies full floor, 8,475 sq. ft., with private outdoor terrace; tenant since 2023.",
+        "Tech company renewal signals office occupancy stability in Midtown among fast-growing tech firms."
       ],
-      "summary": "SecurityScorecard, a cyber risk intelligence firm, renewed its full-floor headquarters at 1140 Avenue of the Americas in Midtown Manhattan for five years. The company occupies 8,475 square feet featuring a private outdoor terrace and collaborative workspace. The renewal reflects strong tenant confidence in premium Midtown office space and the property's appeal to fast-growing tech companies.",
-      "impact": "Minimal direct impact to multifamily development. However, sustained tech employer presence and expansion in Manhattan CBD reinforces office-to-residential intra-city migration patterns; signals continued professional-class job concentration in Manhattan that underpins demand for luxury/Class A rental housing in adjacent residential submarkets (TriBeCa, Nolita, Upper West Side)."
+      "summary": "SecurityScorecard, a cyber risk intelligence firm, renewed its full-floor headquarters at 1140 Avenue of the Americas in Midtown Manhattan for five years. The company occupies 8,475 square feet and has been a tenant since 2023. The landlord (represented by Cushman & Wakefield) and the tenant (represented by JLL) emphasized the location's premium transit access, amenities, and outdoor space as key to talent retention.",
+      "impact": "Minimal direct impact to multifamily. Tech company office renewals in Midtown indicate sustained corporate presence and job stability in Manhattan's tech corridor, which supports baseline rental demand for multifamily in outer boroughs (Long Island City, Astoria) and Downtown Brooklyn where tech workers increasingly locate for affordability and commute."
     },
     {
       "title": "Data Centers Push Into Frontier Markets",
@@ -47,57 +122,12 @@
       "cat": "Commercial",
       "date": "2026-08-20T22:00:00+00:00",
       "bullets": [
-        "Power constraints in established data center hubs pushing developers toward secondary markets and alternative energy solutions",
-        "Chicago Commonwealth Edison projects face 4–5 year interconnection timelines; $46K/MW annual letter-of-credit commitments over 10 years",
-        "Columbus OH and other secondary markets gaining developer interest due to grid availability; microgrids and on-site generation emerging solutions"
+        "Data center developers hitting 'power wall'; grid constraints pushing projects to secondary markets.",
+        "Chicago Commonwealth Edison new projects face 4–5 year interconnection timelines; Columbus, OH utilities directing users to secondaries.",
+        "Alternative solutions (co-gen, battery storage, microgrids) and direct utility partnerships emerging; microgrids face regulatory scrutiny."
       ],
-      "summary": "Data center developers are hitting power supply constraints in established hubs like Chicago, prompting exploration of frontier markets and alternative energy solutions including on-site generation, battery storage, and microgrids. ComEd projects in Chicago face 4–5 year delivery timelines with substantial annual LC commitments. Developers are increasingly examining secondary markets with greater grid capacity.",
-      "impact": "Secondary market data center development signals upstream demand for workforce housing in markets like Columbus, Raleigh, Phoenix, and Dallas that offer power availability. Multifamily developers should monitor data center pipeline announcements in secondary metros—they often precede or coincide with employment growth and inbound migration, creating lead-time arbitrage opportunities for acquisition and development in those submarkets."
-    },
-    {
-      "title": "Lincoln Property, SVP Complete Redevelopment of Playa Vista Creative Campus",
-      "link": "https://www.connectcre.com/stories/lincoln-property-svp-complete-redevelopment-of-playa-vista-creative-campus/",
-      "excerpt": "Lincoln Property Company and Strategic Value Partners, LLC, have completed the redevelopment of The Bluffs at Playa Vista, a 500,000-square-foot Class A office campus in the heart of Playa Vista’s live-work-play community. More than 57,000 square feet in new leases were recently signed at The Bluffs ahead of the repositioning’s completion, including The Honest Company&#8217;s 38,240-square-foot headquarters relocation and Thrive Causemetics&#8217; 19,076-square-foot office lease. “As one of the largest contiguous Class A offering in West Los Angeles, The Bluffs presented a compelling opportunity to reimagine a large-scale asset in a best-in-class Playa Vista location with strong fundamentals already in place,” said Rob Kane, senior EVP at Lincoln. “Through comprehensive capital improvements, we transformed the campus with a more hospitality-inspired approach centered on quality shared spaces, stronger indoor-outdoor connectivity, and a workplace experience authentic to Playa Vista’s innovation-driven identity.” Located at 12121 and 12181 Bluff Creek Dr., The Bluffs is a two-building creative campus offering flexible, dual-core floor plates up to 50,000 square feet. The post Lincoln Property, SVP Complete Redevelopment of Playa Vista Creative Campus appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-20T21:57:30+00:00",
-      "bullets": [
-        "Lincoln Property, SVP complete 500,000 sq ft Bluffs redevelopment in Playa Vista, West LA creative campus",
-        "57,000+ sq ft new leases signed pre-delivery: Honest Company HQ relocation (38,240 sq ft), Thrive Causemetics (19,076 sq ft)",
-        "Repositioning emphasizes hospitality-inspired workplace, shared spaces, indoor-outdoor connectivity targeting innovation-driven tenant base"
-      ],
-      "summary": "Lincoln Property Company and Strategic Value Partners completed redevelopment of The Bluffs at Playa Vista, a 500,000-square-foot Class A office campus. More than 57,000 square feet of new leases were signed ahead of completion, including The Honest Company's headquarters relocation and Thrive Causemetics' office lease. The repositioning centered on enhanced shared spaces and workplace experience aligned with Playa Vista's innovation culture.",
-      "impact": "Limited direct multifamily relevance, but office consolidation in Playa Vista (and Honest Company HQ relocation from elsewhere) signals localized job agglomeration in West LA submarket. Strong office absorption in lifestyle-driven mixed-use district reinforces adjacent residential demand; multifamily developers should monitor other large employer relocations to West LA nodes (Marina, Brentwood) for signs of sustained office-driven housing demand growth."
-    },
-    {
-      "title": "New York People and Company News, Week of August 21, 2026",
-      "link": "https://www.connectcre.com/stories/new-york-people-and-company-news-week-of-august-21-2026/",
-      "excerpt": "Veteran dealmaker Lisa A. Lim has returned to Akerman LLP&#8217;s Real Estate Practice Group as a partner in New York City, where she will serve as Chair of Affordable Housing Transactions. Lim has previously served as general counsel of the New York City Public Housing Preservation Trust, and earlier in her career held positions at Empire State Development, the New York State Housing Finance Agency, the New York State Office of the Attorney General, and the New York City Housing Authority. She focuses her practice on real estate finance and development, economic development, and affordable housing. Ted Moudis Associates (TMA), a leading workplace architecture and interior design firm, announced that Arjav Shah has joined the firm as Senior Studio Design Principal. Bringing more than 18 years of design and leadership experience, Shah will help advance TMA’s creative practice and bring new perspectives to the firm’s work as organizations continue to rethink the role and potential of the workplace. NAI James E. Hanson, the largest New Jersey-based full-service independent commercial real estate firm, announces that Associate Ayush Patel, MSRE, is now a licensed real estate salesperson in New Jersey, New York, and Pennsylvania. Patel is the only associate at the firm currently licensed across all three states, positioning him to better serve clients with holdings throughout the Tri-State area and manage transactions across state lines. Larken Associates, a full-service commercial and residential real estate firm, announces the hiring of Michael Leibowitz as Leasing Manager. He will oversee leasing strategy across the firm’s approximately 3,000-unit, 20-community Larken Living residential portfolio. AVAIO Digital, a next-generation developer and operator of sustainable data centers, has appointed Matt Cox, CPA, as Vice President of Construction Accounting. Cox brings ten years of experience in real estate development, project accounting, FP&amp;A, and capital management",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-20T21:48:52+00:00",
-      "bullets": [
-        "New York people and company news roundup, week of August 21, 2026—content unavailable/incomplete",
-        "No specific transaction or market data provided in excerpt",
-        "Article stub does not contain actionable intelligence"
-      ],
-      "summary": "This article excerpt is incomplete and contains only boilerplate editorial information about the Connect CRE publication and its managing editor. No specific market data, transactions, or news content is provided.",
-      "impact": "No multifamily development impact—insufficient content."
-    },
-    {
-      "title": "California People and Company News, Week of August 21, 2026",
-      "link": "https://www.connectcre.com/stories/california-people-and-company-news-week-of-august-21-2026/",
-      "excerpt": "Institutional Property Advisors (IPA), a division of Marcus &amp; Millichap (NYSE: MMI) dedicated to serving the company’s institutional clients, announced that Max Unger, a retail real estate investment advisor with more than 20 years of institutional experience has joined IPA as a managing director in Los Angeles. Unger will advise institutional and major private clients on retail investment transactions in partnership with IPA’s Tom Lagos and Patrick Toomey. Previously, Unger was with Unibail-Rodamco-Westfield for 14 years where, as senior vice president and director of U.S. tax and investments, he helped lead mergers and acquisitions valued at over $60 billion, closed $3.6 billion in divestments, and reduced a 70-property portfolio to 15 properties. Great American Holdings, LLC, a provider of financial advisory, valuation, asset disposition, investment banking, and lending services and majority-owned by funds managed by Oaktree Capital Management, L.P. , has appointed Joseph Malfitano as president &amp; head of its Retail, Merchant &amp; Industrial Solutions business lines. Maltifano brings more than 25 years of experience advising companies in the retail, industrial, and commercial sectors through complex restructurings, turnarounds, and high-profile transactions. ICO Development, a 35+ year privately held CRE investment/operating firm with ~$500MM AUM, has hired Daysi Warren as Chief Operating &amp; Financial Officer in Los Angeles. She will partner closely with executive leadership to drive business planning, oversee financial performance, and support growth through strategic financing, reporting, and operational oversight. Daysi was previously CFO with Redcar Properties. Executive search firm RETS Associates handled the search. Cushman &amp; Wakefield announced that Jamie K. Brooks has joined as a managing director in its Retail Leasing practice, based in the firm’s El Segundo office. Brooks brings more than 21 years of retail real estate experience and has ",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-20T21:40:55+00:00",
-      "bullets": [
-        "ICO Development ($500MM AUM) hires Daysi Warren as COO/CFO in Los Angeles; strengthens operational capacity",
-        "Hire signals growth trajectory and renewed capital deployment appetite among mid-market CRE operator",
-        "No transaction or market data; personnel move only"
-      ],
-      "summary": "ICO Development, a $500 million AUM privately held CRE firm, appointed Daysi Warren as Chief Operating & Financial Officer in Los Angeles. Warren previously served as CFO at Redcar Properties and will oversee financial performance, strategic financing, and growth initiatives.",
-      "impact": "Signals operational scaling at mid-market LA CRE operator; C-suite upgrade often precedes increased asset acquisition and development activity. Monitor ICO's LA deal pipeline—CFO hire may indicate imminent capital deployment in multifamily or mixed-use development."
+      "summary": "According to JLL's Midyear North America Data Center Report, data center developers are constrained by limited grid capacity in established hubs (Chicago, Columbus), pushing them toward frontier and secondary markets. Chicago Commonwealth Edison projects face 4–5 year delivery timelines with $46,000/MW/year letter-of-credit commitments. Developers are exploring co-generation, on-site battery storage, and microgrids to bypass grid constraints, though regulatory hurdles remain.",
+      "impact": "Data center migration to secondary markets may signal infrastructure investment and job growth in those regions (e.g., Columbus, Indianapolis, Raleigh), indirectly strengthening demand for workforce housing. Multifamily developers in secondary markets should monitor data center project pipelines and partner with utility/infrastructure announcements to identify emerging employment hubs and early-stage demand windows before land appreciates significantly."
     },
     {
       "title": "L.A. County Investment Sales Jump 28% in July Thanks to Multifamily",
@@ -107,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-08-20T21:20:53+00:00",
       "bullets": [
-        "L.A. County investment sales $2.1B in July 2026 (+28.5% YoY); 7.25M sq ft traded (+22% volume YoY)",
-        "Multifamily dominated: 3.43M sq ft, $1.22B (58% of total); +55% YoY volume, +166% vs. July 2024; $376/sq ft avg pricing (+28.7% YoY)",
-        "Elevated borrowing costs persisted; long-term Treasury yields remained near multiyear highs"
+        "L.A. County CRE investment sales jumped 28.5% to $2.1B in July; 75% gain vs. July 2024.",
+        "Multifamily dominated with 3.43M sq. ft. for $1.22B (58% of all capital); sales up 55% YoY and 166% vs. July 2024.",
+        "Multifamily average pricing rose 28.7% to $376/sq. ft.; gains despite elevated borrowing costs."
       ],
-      "summary": "Los Angeles County commercial investment sales jumped to $2.1 billion in July 2026, up 28.5% year-over-year, with multifamily accounting for 58% of capital deployed ($1.22 billion across 3.43 million square feet). Multifamily sales volume surged 55% year-over-year and 166% compared to July 2024, with average pricing rising 28.7% to $376 per square foot. The acceleration occurred despite elevated borrowing costs.",
-      "impact": "Strong LA County multifamily transaction activity and 28.7% YoY price appreciation signal investor confidence and capital availability despite rate environment. Market fundamentals (pricing, volume, buyer appetite) support development feasibility; multifamily developers should expedite underwriting and financing for LA County projects to capitalize on investor competition and pricing momentum before cap rate compression moderates. Monitor whether pricing gains are driven by coastal/primary submarkets (Santa Monica, Playa Vista, Downtown) or spreading to secondary markets."
+      "summary": "Commercial real estate investment sales in Los Angeles County surged 28.5% in July to $2.1 billion, with multifamily accounting for 58% of capital deployed. Multifamily sales volume jumped 55% year-over-year and 166% versus July 2024, with average pricing climbing 28.7% to $376 per square foot. This acceleration occurred despite elevated Treasury yields and high borrowing costs.",
+      "impact": "Strong L.A. County multifamily capital flows and pricing momentum signal sustained investor appetite and rent fundamentals in LA metros (West LA, Santa Monica, Downtown, Mid-City). Developers should accelerate land acquisition and entitlement timelines in LA primary markets before pricing accelerates further; secondary LA submarkets (San Fernando Valley, Long Beach, Inland Empire) may offer better entry points with similar demand tailwinds."
     },
     {
       "title": "New York City’s Technology Labor Market Has Surpassed San Francisco: Report",
@@ -122,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-08-20T19:40:03+00:00",
       "bullets": [
-        "NYC metro tech workforce reached 394,300 in 2025 (+8.4% since 2022); surpassed San Francisco for first time",
-        "San Francisco tech employment fell 6% since 2022 to 375,730; job reductions and layoffs cited as driver",
-        "NYC's diversified job market and continued growth enabled overtaking of Bay Area tech employment"
+        "NYC metro tech workforce reached 394,300 in 2025; +8.4% since 2022 (+30,640 jobs).",
+        "San Francisco Bay Area tech employment fell 6% over same period to 375,730 in 2025—first time NYC ahead in 13-year report.",
+        "NYC's diversified job market offset SF's announced layoffs; SF still ranks #1 on talent pool quality across 13 metrics."
       ],
-      "summary": "New York City's metropolitan tech workforce reached 394,300 in 2025, marking an 8.4% gain since 2022 and surpassing San Francisco Bay Area's 375,730 tech workers (down 6% over the same period) for the first time in 13 years. NYC's diversified economy and sustained job growth, contrasted with San Francisco's announced layoffs and reductions, drove the milestone.",
-      "impact": "Significant demand signal for multifamily in NYC: tech employment growth (+30,640 net jobs since 2022) adds high-earning renter cohort and strengthens rental demand across Manhattan (Flatiron, Midtown South, Lower East Side) and waterfront/emerging tech nodes (Long Island City, Williamsburg, Brooklyn Tech Triangle). Conversely, Bay Area tech contraction may soften rental demand in San Francisco, Oakland, and Peninsula submarkets; multifamily developers should redirect acquisition focus toward NYC-area sites and recalibrate San Francisco development underwriting downward."
+      "summary": "New York City's tech workforce (394,300 jobs in 2025) has surpassed San Francisco's (375,730 jobs) for the first time in a 13-year CBRE report. NYC added 30,640 tech jobs since 2022 (+8.4%), while SF declined 6% over the same period due to announced layoffs. NYC's diversified job market drove the milestone, though SF remains ranked first overall on talent metrics.",
+      "impact": "NYC's tech employment lead signals sustained in-migration of young, high-earning workers to the metro, strengthening rental demand in tech-heavy submarkets (Long Island City, Astoria, Downtown Brooklyn, Williamsburg) and Manhattan (Flatiron, Murray Hill, LES). Developers should prioritize apartments near transit/tech clusters and target millennial/Gen-Z renters; expect continued rent growth and lower vacancy in NYC tech-corridor neighborhoods through 2025–2026."
     },
     {
       "title": "Principal Financial Group Loans $32M to Refi Queens Shopping Center",
@@ -137,42 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-20T18:53:50+00:00",
       "bullets": [
-        "Mattone Investors secures $32M refi from Principal Financial for Springnex Plaza, Queens (96,028 sq ft, 100% occupied)",
-        "Stop & Shop-anchored shopping center; 5.58 acres, Springfield Gardens; six-year hold, strong tenant retention",
-        "Supermarket-anchored retail continues to attract strong lender appetite in competitive refinance market"
+        "Principal Financial Group loaned $32M to refinance Springnex Plaza, 96,028 sq. ft. shopping center, Queens.",
+        "Stop & Shop–anchored, 100% occupied, 5.58 acres in Springfield Gardens; developed by Mattone Investors six years ago.",
+        "Lender interest in supermarket-anchored centers remains strong despite elevated rates; debt availability supportive."
       ],
-      "summary": "An affiliate of Mattone Investors obtained a $32 million refinance from Principal Financial Group for Springnex Plaza, a 96,028-square-foot shopping center in Queens' Springfield Gardens neighborhood anchored by Stop & Shop. The property is 100% occupied and includes IHOP, Ashley Stewart, and Northwell Health GoHealth Urgent Care. The refinance affirms supermarket-anchored retail's resilience and lender support.",
-      "impact": "Minimal direct multifamily impact. However, strong occupancy and financing availability in Queens retail signals economic health and foot-traffic vitality in outer-borough neighborhoods; retail stability supports adjacent residential demand. Multifamily developers should monitor retail fundamentals in Queens markets (Springfield Gardens, Jamaica, Elmhurst) as complementary amenity and anchor demand signal for nearby apartment developments."
-    },
-    {
-      "title": "Data Center Development Has Domestic Materials Manufacturers Working Overtime",
-      "link": "https://commercialobserver.com/2026/08/us-data-center-development-trends-h1-skanska/",
-      "excerpt": "Development in the U.S. saw spotty progress in the first half of 2026 with costs of materials continuing to climb and asset classes with only the highest returns being built. That means data centers, power infrastructure, advanced manufacturing and pharmaceutical production are taking off, while office, retail and higher education on a national level lag way behind, due, in large part, to President Donald Trump’s ongoing tariff policies, according to a Skanska report. But just because there is a lull in some sectors does not mean supply chains for materials aren’t working at full capacity, Tom Park, vice president of national strategic supply chain at Skanska, told Commercial Observer. “The market is hot and cold right now — hot and warm may be a better way to say it — so what stands out is that we’re seeing a lot of project activity around data centers, semiconductor, life sciences,” Park said in an interview. “There’s really a lot of unprecedented demand in the mechanical, electrical, plumbing and steel space driving up lead times and cost.” Some factors causing these supply chain hemorrhages are Section 338 tariffs on Canada, delays on petrochemical import ships through the Strait of Hormuz, and domestic materials priced higher simply because of the supply and demand constraints. Tariffs on steel, aluminum and copper in particular are driving prices up. “What happens with tariffs is that it really raises the opportunity for domestic producers to raise their prices,” Park said. “For steel, aluminum and copper, the tariffs really have increased pricing on all those materials and derivative products because the foreign competition obviously has that tariff to overcome.” Lead times for material deliveries have increased from 24 to 36 weeks to 40 to 50 weeks, indicating to Park that metal mills and fabricators are running at full capacity. The trend is likely to continue throughout the next six to 12 months as investors put cash where it will multiply the most, possib",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-20T18:49:25+00:00",
-      "bullets": [
-        "H1 2026 U.S. development uneven; data centers, advanced manufacturing, pharma accelerating; office, retail, higher ed lagging due to Trump tariffs",
-        "Mechanical, electrical, plumbing, and steel lead times and costs climbing; unprecedented demand from data center and semiconductor projects",
-        "Material suppliers at full capacity; cost inflation spreading across all asset classes"
-      ],
-      "summary": "U.S. development in the first half of 2026 showed uneven progress, with data centers, advanced manufacturing, and pharmaceutical production surging while office, retail, and higher education lag due to tariff policies. Data center and semiconductor projects are driving unprecedented demand for MEP and steel, extending lead times and inflating material costs across the supply chain.",
-      "impact": "Rising material and labor costs directly compress multifamily development feasibility and underwriting returns in H2 2026 and 2027. Developers should lock in MEP and steel pricing now; expect 10–15% cost inflation on construction. Tariff-driven cost escalation may push multifamily starts into infill/redevelopment categories with lower material intensity (adaptive reuse, modular construction) and force geographic shift toward markets with favorable zoning and lower land costs to absorb cost deltas."
-    },
-    {
-      "title": "Azora, Vizcaya Capital Flip Coconut Grove Office Building for $62M",
-      "link": "https://commercialobserver.com/2026/08/azora-vizcaya-miami-coconut-grove/",
-      "excerpt": "Just a year after buying a boutique office building in Miami’s coveted Coconut Grove neighborhood, Azora Private Solutions and Vizcaya Capital sold it for a nearly $15 million gain. The five-story property at 3250 Mary Street, called the Grove at 3250 Mary, sold for $62.3 million, according to the brokers who represented the sellers, Berkadia’s Omar Morales and Jaret Turkell. The joint venture had purchased the 80,000-square-foot building for $47.5 million last September. Records show the buyer is an entity tied to El-Ad National Properties, the Boca Raton-based division of Israeli billionaire Isaac Tshuva’s El-Ad Group. “Coconut Grove continues to distinguish itself as one of South Florida’s strongest real estate markets, driven by exceptional demand from luxury residential buyers and high-net-worth office users,” Morales said in a statement. “That demand, combined with limited supply, continues to attract remarkable investment to the neighborhood.” In recent years, Coconut Grove has attracted a slew of billionaires, including Google’s billionaire founder Larry Page, who spent about $170 million assembling a residential compound last year. The residential acquisitions have fueled demand for luxury office space nearby. The acquisition of the 1982-built, 1.3-acre site office building marks somewhat of a deviation for El-Ad National, which has typically focused on residential and mixed-use development. It also comes just four months after the developer purchased a nearby, low-rise condo building for $45.5 million, which will likely be redeveloped. Earlier this month, up north in Fort Lauderdale, the firm bought an oceanfront hotel for $60 million. A representative for El-Ad Group was not immediately available for comment. Julia Echikson can be reached at jechikson@commercialoserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-20T17:45:26+00:00",
-      "bullets": [
-        "Azora, Vizcaya sell Grove at 3250 Mary (80,000 sq ft, Coconut Grove office) for $62.3M; $14.8M gain in one year",
-        "Purchased $47.5M September 2025; sold to El-Ad National Properties (Israeli billionaire Tshuva's firm); strong office user demand",
-        "Coconut Grove office market tight supply, luxury residential demand, and high-net-worth user appeal driving investment activity"
-      ],
-      "summary": "Azora Private Solutions and Vizcaya Capital sold the Grove at 3250 Mary, an 80,000-square-foot office building in Coconut Grove, for $62.3 million—a $14.8 million gain just one year after purchase at $47.5 million. The buyer is an entity tied to El-Ad National Properties. The quick flip reflects strong demand from luxury residential buyers and high-net-worth office tenants in Coconut Grove.",
-      "impact": "Coconut Grove office-to-mixed-use conversion signal: tight office supply and investor competition for renovated creative office in Miami's lifestyle district suggests underlying thesis that Coconut Grove office will convert to residential or mixed-use within 3–5 years. Multifamily developers should identify Coconut Grove office buildings with expiring leases or below-market tenancy as conversion candidates; comparable sales growth ($15M gain in 12 months) implies strong investor appetite for repositioned residential product in the submarket."
+      "summary": "Mattone Investors secured a $32 million refinance from Principal Financial Group for Springnex Plaza, a 96,028-square-foot supermarket-anchored shopping center in Springfield Gardens, Queens. The center is 100% leased, features a Stop & Shop anchor plus IHOP, Ashley Stewart, and Northwell Health GoHealth Urgent Care, and sits on 5.58 acres. Northmarq arranged the transaction, noting strong lender appetite for well-maintained supermarket-anchored assets.",
+      "impact": "Strong debt availability for supermarket-anchored retail in outer-borough Queens signals lender confidence in recession-resistant, essential-service-anchored properties. Developers planning mixed-use or multifamily-retail projects in Queens/outer boroughs should prioritize grocery anchors to secure favorable financing terms and lower cap rates; supermarket co-tenancy also drives foot traffic and supports residential rents in ground-floor retail communities."
     }
   ]
 }
