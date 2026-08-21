@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-21T16:22:07.855524+00:00",
+  "fetchedAt": "2026-08-21T17:20:42.000209+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -9,13 +9,13 @@
     },
     {
       "label": "10Y Treasury",
-      "value": "4.74%",
-      "pct": 0.85
+      "value": "4.73%",
+      "pct": 0.81
     },
     {
       "label": "30Y Treasury",
-      "value": "5.28%",
-      "pct": 0.73
+      "value": "5.27%",
+      "pct": 0.71
     },
     {
       "label": "REIT Index (VNQ)",
@@ -25,6 +25,51 @@
   ],
   "stories": [
     {
+      "title": "Northmarq Closes Sale of $23M Multifamily Community in Spokane",
+      "link": "https://www.connectcre.com/stories/northmarq-closes-sale-of-23m-multifamily-community-in-spokane/",
+      "excerpt": "Northmarq’s Seattle Investment Sales team, led by Tyler Smith, Steve Fischer, Joe Kinkopf and Brendan Greenheck, brokered the $22.5 million sale of Go Go Heights Apartments, a 178-unit garden-style multifamily community located at 7024 N. Colton St. in Spokane, Washington. Northmarq represented the seller, LC Gogo Heights LLC, in the transaction. The buyer was c702 LLC, a Washington-based private investment firm. ”There were a lot of market headwinds in getting this transaction to the finish line,” Kinkopf said. “The buyer was able to leverage their local team in order to execute on this deal quickly and successfully.” The transaction reflects continued investor interest in well-located multifamily assets throughout the Pacific Northwest, particularly properties that offer scale and long-term value in growing regional markets. Constructed in 1989, Go Go Heights Apartments offer residents a mix of two- and three-bedroom units featuring hardwood laminate flooring, walk-in closets, in-unit fireplaces, vaulted ceilings and private balconies. If you&#8217;re reading about the multifamily industry, you should be in the room with its leaders. Connect Apartments brings together the executives featured in Connect CRE&#8217;s coverage for an afternoon of high-level insights and unmatched networking on September 22 at The Biltmore in LA. The post Northmarq Closes Sale of $23M Multifamily Community in Spokane appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-21T17:09:17+00:00",
+      "bullets": [
+        "Northmarq brokered $22.5M sale of 178-unit Go Go Heights Apartments in Spokane, WA.",
+        "Buyer c702 LLC, local Washington firm; seller LC Gogo Heights LLC; 1989 garden-style property.",
+        "Broker cited market headwinds but closed deal; signals continued PNW multifamily investor appetite."
+      ],
+      "summary": "Northmarq's Seattle team sold Go Go Heights Apartments, a 178-unit garden-style community in Spokane, for $22.5 million to c702 LLC. The 1989-built property offers two- and three-bedroom units. Despite market headwinds, the transaction closed, reflecting persistent investor interest in well-located, scaled multifamily assets in growing Pacific Northwest regional markets.",
+      "impact": "Deal closure signals that despite financing friction, institutional and local investors remain active acquirers of stabilized, secondary-market multifamily. Spokane's appeal as a value-add acquisition market remains intact; implies demand for below-replacement-cost assets in mid-tier Western metros persists into 2026."
+    },
+    {
+      "title": "JBL Asset Management Buys Retail Condo Near Miami Design District",
+      "link": "https://commercialobserver.com/2026/08/jbl-miami-design-district-quadro-alta/",
+      "excerpt": "Alta Developers sold off a retail condo near the Miami Design District for $17.3 million, property records show. JBL Asset Management purchased the 25,504-square-foot asset on the ground floor of the Quadro condo building. The property at 3900 Biscayne Boulevard faces train tracks, just east of the Miami Design District, an open-air, luxury mall. Quadro’s retail tenants include The Shade Store, 7th Avenue furniture store and Waterworks plumbing supply store. Hollywood, Fla.-based JBL is marketing a 2,358-square-foot suite as the last remaining retail space at the 407,498-square-foot condo building. Alta Developers completed the 200-unit building in 2019. The purchase comes as the 18-block Design District, one of the country’s highest-grossing upscale malls, is undergoing a major expansion. Earlier this week, its owners, entities tied to Miami-based Craig Robins and LVMH billionaire Bernard Arnault, scored a $125 million construction loan to build a Snøhetta-designed, mixed-use building. The joint venture also launched sales for Fouquet’s condo and hotel development, designed by Pritzker Prize winner David Chipperfield. Representatives for Alta Developers and JBL Asset Management did not immediately respond to requests for comment. Julia Echikson can be reached at jechikson@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-21T17:00:32+00:00",
+      "bullets": [
+        "JBL Asset Management acquired 25,504-sf retail condo ground floor, 3900 Biscayne Boulevard, Miami for $17.3M.",
+        "Alta Developers sold property; Design District undergoing major expansion with $125M construction loan approved.",
+        "Quadro building retail tenants include The Shade Store, furniture, plumbing; last 2,358-sf suite being marketed."
+      ],
+      "summary": "Alta Developers sold a 25,504-square-foot retail condo on the ground floor of the Quadro building near Miami's Design District to JBL Asset Management for $17.3 million. The property faces train tracks on Biscayne Boulevard. The Design District, a luxury open-air mall, is undergoing major expansion, with ownership securing a $125 million construction loan for new mixed-use development.",
+      "impact": "Design District expansion (hotel/condo tower, Fouquet's by Chipperfield, $125M loan close) signals accelerating foot traffic and real estate investment velocity in the submarket. Multifamily developers should monitor Edgewater/Biscayne corridor and nearby residential submarkets for emerging demand from affluent Design District workers, residents, and visitors; proximity to luxury retail/dining/hospitality supports premium rents."
+    },
+    {
+      "title": "Williamson County Greenlights $674M Blue Origin Development Deal",
+      "link": "https://www.connectcre.com/stories/williamson-county-greenlights-674m-blue-origin-development-deal/",
+      "excerpt": "Two weeks ago, Connect reported that the Williamson County economic development board had agreed to terms with Jeff Bezos’ space technology company, Blue Origin. Yesterday, the full board of commissioners approved the item, and it raises the odds that the company will build a $674 million facility in Hutto, within Williamson County. There is still one more approval required. The State of Texas needs to okay the deal. The approval would facilitate Blue Origin’s construction of approximately one million square-feet of industrial research space related to the aerospace and defense industry, located in Hutto Crossing industrial park. The facility would create as many as 2,000 jobs in 10 years. That 10-year deal includes a county abatement of 100% of real property and 50% of personal property taxes in the first five years, and 50% on real property in the last five years.&nbsp; Founded in 2000, Blue Origin aims to develop reusable rocket technology to lower the cost of space travel and make it more accessible. The post Williamson County Greenlights $674M Blue Origin Development Deal appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-21T16:25:24+00:00",
+      "bullets": [
+        "Williamson County commissioners approved $674M Blue Origin aerospace/defense facility in Hutto, Texas.",
+        "Project: ~1M sf industrial R&D; 2,000 jobs over 10 years; 100% property tax abatement 5 years, 50% remaining 5.",
+        "State of Texas must approve final; Hutto Crossing industrial park location; deal enables major employer anchor."
+      ],
+      "summary": "Williamson County approved a $674 million Blue Origin facility in Hutto, Texas comprising approximately one million square feet of aerospace and defense research space. The project is expected to create as many as 2,000 jobs over ten years. The deal includes 100% real property tax abatement for five years and 50% for the final five, pending state-level approval.",
+      "impact": "Blue Origin's 2,000-job, decade-long ramp in Hutto is a major employer anchor that will drive population in-migration and household formation in the Austin metro's northern corridor. Multifamily developers should acquire/entitle residential across Williamson County (Hutto, Pflugerville, Round Rock submarket) ahead of job and wage growth; the aerospace/defense sector attracts higher-income workers, supporting class A/B product. Tax abatement signals pro-growth incentives; timing window to break ground before supply tightens."
+    },
+    {
       "title": "Now Is the Time to Buy in Commercial Real Estate: Morgan Stanley",
       "link": "https://commercialobserver.com/2026/08/morgan-stanley-real-estate-investment-strategy-2026/",
       "excerpt": "Despite a bumpy economy and increasingly high Treasury yields, one global investment firm believes now is the time to pounce on U.S. commercial real estate. Commercial Observer spoke with Tony Charles, global head of research and strategy at Morgan Stanley Real Estate Investing, who outlined the main takeaways from Morgan Stanley Investment Management’s mid-year 2026 real estate outlook. After a four-year recession, commercial real estate is now being repriced, giving investors a chance to acquire prime assets at low prices; supply is down across the board; and megatrends in AI, global supply chains, and aging demographics have opened up attractive entry points into infrastructure, retail and senior housing. “We certainly believe we&#8217;re entering the next up-cycle for real estate. It&#8217;s an attractive entry point,” Charles told CO in a Thursday interview. “And, given the repricing that&#8217;s now below replacement costs, we&#8217;re pretty confident in the next vintage of real estate investing.” Charles argued that the recent U.S. real estate downturn — which began in mid-2022 amid the Federal Reserve’s policy U-turn to hike interest rates coming out of COVID-19 — created “the longest downturn for real estate since the 1980s and early 1990s,” and that four years later, pricing is still down an average of 20 percent across the board. But he noted that “supply is down dramatically, so that&#8217;s obviously very helpful for real estate,” and that a strong structural macroeconomic backdrop — U.S. GDP grew 2.1 percent year-over-year in the second quarter of 2026 — has provided “a lot of green shoots that are beginning to show through.” He pointed out that CRE transaction activity increased 23 percent year-over-year in the U.S., institutional capital raising is up nearly 40 percent on the year, and that CRE debt originations are up around 20 percent year-over-year. Counterintuitively, Charles and Morgan Stanley Investment Management argued that there is a misper",
@@ -32,12 +77,12 @@
       "cat": "Commercial",
       "date": "2026-08-21T16:17:12+00:00",
       "bullets": [
-        "Morgan Stanley: U.S. CRE entering next up-cycle after four-year recession, pricing now below replacement cost.",
-        "Supply down across board; megatrends in AI, supply chains, aging demographics opening entry points.",
-        "Repricing creates attractive acquisition window for institutional investors across multiple asset classes."
+        "Morgan Stanley REIM: U.S. CRE repricing below replacement cost; entering next up-cycle; supply down board.",
+        "Megatrends (AI, supply chains, aging demographics) opening attractive entry points in infrastructure, retail, senior housing.",
+        "Four-year CRE recession ending; improved capital conditions and cap rate stability signal investor confidence return."
       ],
-      "summary": "Morgan Stanley Investment Management's mid-year 2026 outlook signals inflection: after a four-year CRE downturn that began mid-2022, assets are now repriced below replacement costs with constrained supply across sectors. The firm identifies AI, global supply-chain reshoring, and demographic aging as structural tailwinds supporting the next investment vintage. Charles positioned current conditions as an optimal entry point for prime assets given renewed capital availability.",
-      "impact": "Signals broader capital market thaw and investor appetite recovery across geographies and asset types. For multifamily developers, this means easier financing terms, lower equity hurdle rates, and validation to underwrite new starts in core markets—particularly in metros benefiting from AI job clusters, supply-chain nearshoring (Texas, Southeast), and senior housing demand (Sun Belt, high cost-of-living metros). Expect cap rates to remain compressed and more institutional equity chasing deals through 2026."
+      "summary": "Morgan Stanley Real Estate Investing's mid-year 2026 outlook argues the U.S. is entering the next real estate up-cycle, with assets repricing below replacement cost and supply constraints across property types. Megatrends in AI, global supply chains, and aging demographics are creating attractive entry points. The firm expects renewed institutional capital deployment through the remainder of 2026.",
+      "impact": "Morgan Stanley's bullish stance on next-cycle entry points signals institutional capital appetite is returning to CRE. For multifamily developers: cap rates and financing conditions are stabilizing, replacement-cost underwriting supports new development feasibility. Focus on high-growth metros (Sunbelt, tech hubs) and demographic tailwinds (aging, younger renter cohorts) to attract capital; thesis validates value-creation through new supply in supply-constrained markets."
     },
     {
       "title": "Lincoln, ACORE Converting Historic SLC Foundry",
@@ -47,12 +92,12 @@
       "cat": "Commercial",
       "date": "2026-08-21T15:57:47+00:00",
       "bullets": [
-        "Lincoln Property / ACORE: reposition historic SLC foundry into Foundry43 mixed-use campus with 230k SF office base.",
-        "Phase II adds 64k SF creative office, 34k SF fitness center, 12k SF retail, 1,000-stall parking garage.",
-        "Adaptive reuse in Granary neighborhood; JLL leading leasing for office and creative space."
+        "Lincoln Property Company and ACORE Capital repositioning historic Industry SLC foundry as Foundry43 mixed-use.",
+        "Completed parking structure (1,000 stalls), retail (12,000 sf); delivering 64,000 sf office, 34,000 sf fitness, 12,000 sf retail.",
+        "230,000 sf existing office campus expanded; JLL retained for leasing; Granary Neighborhood location, Salt Lake City."
       ],
-      "summary": "Lincoln Property Company and ACORE Capital completed parking and retail phases of Foundry43, a major adaptive reuse of an industrial landmark in Salt Lake City's Granary neighborhood. The repositioned 230,000-square-foot office campus will expand by 64,000 SF of creative office, a 34,000-SF fitness center, 12,000 SF of retail, and a 1,000-stall parking structure. JLL is managing leasing efforts.",
-      "impact": "Minimal direct impact on multifamily. However, signals market validation for Salt Lake City's urban infill: office-led mixed-use redevelopment and amenity density (fitness, parking, retail) in historic neighborhoods suggest landlord confidence in downtown worker/resident attraction. Indirectly supports multifamily case for building near creative office clusters and transit-oriented adaptive reuse zones in SLC's core—i.e., if Class A creative office thrives at Granary, nearby residential will follow."
+      "summary": "Lincoln Property Company and ACORE Capital launched Foundry43, an adaptive reuse of a historic steel foundry in Salt Lake City's Granary Neighborhood. The partners have restarted construction, completing parking and retail infrastructure. The project will deliver 64,000 square feet of creative office space, a 34,000-square-foot fitness center, 12,000 square feet of retail, and a 1,000-stall garage alongside the existing 230,000-square-foot office campus.",
+      "impact": "Adaptive reuse mixed-use repositioning in Salt Lake's Granary (walkable, trendy urban neighborhood) signals strong demand for live-work-play urban infill, particularly among younger professionals. Neighboring multifamily developers should note strong co-tenancy drivers (office, fitness, retail, parking); proximity to Foundry43 supports market-rate and premium apartment development; SLC's tech/finance growth and amenity clustering make adjacent residential sites highly desirable."
     },
     {
       "title": "RangeWater Spends $55M on Atlanta Rental Community",
@@ -62,12 +107,12 @@
       "cat": "Commercial",
       "date": "2026-08-21T15:35:47+00:00",
       "bullets": [
-        "RangeWater acquired 280-unit Bell Buckhead West for $54.9M; Bell Partners paid $62M in 2017 (8-year loss).",
-        "Rents $1,399–$2,345; 2015-built; Sun Life Financial recently acquired Bell Partners for $350M platform.",
-        "Market signal: distressed-asset trading in Atlanta Buckhead; below-replacement acquisitions driving mark-to-market resets."
+        "RangeWater acquired Bell Buckhead West (280 units) from Bell Partners for $54.9M; renamed Blaine Buckhead West.",
+        "Bell Partners paid $62M in 2017; built 2015; rents $1,399–$2,345; unit mix studio (676 sf) to 2-bed (1,189 sf).",
+        "Sun Life Financial acquired Bell Partners for $350M; Bell Partners now part of Sun Life's multifamily operating platform."
       ],
-      "summary": "RangeWater Residential purchased the 280-unit Bell Buckhead West in Atlanta for $54.9 million, down from the $62 million Bell Partners paid in 2017—an 11% loss over eight years. The 2015-built community offers studios to two-bedrooms at rents ranging $1,399–$2,345. The sale follows Sun Life Financial's $350 million acquisition of Bell Partners, integrating it into Sun Life's multifamily operating platform.",
-      "impact": "Reinforces Atlanta's repricing cycle: investors marking down older, non-premium Class B assets (pre-2016 vintage, standard amenities) as Class A supply absorbs quality renters and rate-growth stalls. RangeWater's acquisition suggests value-add play via amenity refresh and operational tightening. For developers in Atlanta metro, this signals cap-rate floor compression—new construction must justify higher basis via superior location, finishes, and amenities, or face legacy-asset competition in the $1.4k–$2.3k rent band."
+      "summary": "RangeWater Residential purchased Bell Buckhead West, a 280-unit garden-style community in Atlanta, for $54.9 million. Bell Partners, the prior owner, had acquired the asset in 2017 for $62 million. Rents range from $1,399 to $2,345. Bell Partners is now part of Sun Life Financial's multifamily operating platform after a $350 million acquisition.",
+      "impact": "Sale at $54.9M (vs. $62M 2017 acquisition price) reflects valuation compression but RangeWater's entry signals confidence in Atlanta's rental market fundamentals and operator upside. Sun Life's $350M Bell Partners acquisition and platform build-out indicate institutional insurance-linked capital is deploying into multifamily operations; expect Sun Life to be an active acquirer and developer in Sunbelt markets. Buckhead West submarket remains sought-after; recovery from pandemic-era pricing lows underway."
     },
     {
       "title": "Whole Foods to Open Daily Shop at Murray Hill’s 509 Third Avenue",
@@ -77,12 +122,12 @@
       "cat": "Commercial",
       "date": "2026-08-21T15:24:50+00:00",
       "bullets": [
-        "Whole Foods leased 9k SF ground floor + terrace at 509 Third Ave, Murray Hill, Manhattan; 15-year deal.",
-        "Daily Shop format (quick-trip, grab-and-go); second Manhattan location after Lenox Hill (2024).",
-        "229-unit Murray tower (Kahen/Lalezarian); grocery tenant anchors residential value in dense Manhattan neighborhood."
+        "Whole Foods Market leased 9,000 sf ground floor + terraces at 509 Third Avenue, Murray Hill, Manhattan (15-year deal).",
+        "Store format: Whole Foods Market Daily Shop (grab-and-go, fresh produce, meat, bakery, local specialty foods).",
+        "Murray building: 35-story, 229-unit apartment tower by Kahen Properties and Lalezarian Properties; first Daily Shop in Lenox Hill rolled out 2024."
       ],
-      "summary": "Whole Foods Market signed a 15-year ground-floor lease for 9,000 SF at 509 Third Avenue in Manhattan's Murray Hill, occupying space within the 229-unit residential tower 'the Murray.' The grocer will operate a Whole Foods Daily Shop, a smaller-format quick-trip model first rolled out in nearby Lenox Hill in 2024. Additional locations are planned for Brooklyn and Hoboken.",
-      "impact": "Critical signal for Manhattan multifamily: Amazon-owned Whole Foods' expansion of Daily Shop format validates dense, walkable residential neighborhoods (Murray Hill, Lenox Hill) as anchor-tenant markets. Grocery tenancy reduces resident friction (walkable food access) and supports higher rents and retention in Class A multifamily. For developers in Manhattan and urban-density markets (Boston, D.C., SF), grocer presence is material amenity—signals demand for convenience retail and supports mixed-use ground-floor pro formas. The Daily Shop rollout suggests national urban-multifamily play; developers should anticipate grocery-anchored retail at their ground floors in high-density infill."
+      "summary": "Whole Foods Market leased a 9,000-square-foot ground-floor retail space with outdoor terraces at 509 Third Avenue in Manhattan's Murray Hill neighborhood for 15 years. The store will operate as a Whole Foods Market Daily Shop, a smaller format offering grab-and-go meals and fresh grocery items. The space is located in the Murray, a 35-story, 229-unit apartment tower developed by Kahen and Lalezarian Properties.",
+      "impact": "Whole Foods Daily Shop anchor in Murray Hill (Upper East Side's younger, less-expensive submarket) signals Amazon's retail expansion into accessible price points and urban convenience formats. For multifamily: quality ground-floor food retail (especially premium grocery) is a strong co-tenancy driver for rents and lease-up velocity in Manhattan rental buildings. Murray's 229-unit apartment tower benefits directly from foot traffic and retail amenity; developers in emerging Manhattan submarkets should prioritize grocery/food tenants to enhance unit positioning and achievable rents."
     },
     {
       "title": "Medical Outpatient Building Sales Surge in H1 2026",
@@ -92,27 +137,12 @@
       "cat": "Commercial",
       "date": "2026-08-21T15:07:35+00:00",
       "bullets": [
-        "Medical outpatient building (MOB) sales: $6.7B in H1 2026, +21% YoY; cap rates 6.8%, down 35 bps.",
-        "Portfolio premiums widened to 100 bps; avg pricing $368/SF; portfolio volume doubled to $2.6B+ versus H1 2025.",
-        "Renewed debt liquidity, resilient operating fundamentals, rent growth and high occupancy driving institutional capital."
+        "MOB transaction volume: $6.7B in H1 2026, +21% YoY; cap rates compressed 35 bps to 6.8%; average pricing $368/sf Q2 2026.",
+        "Portfolio transaction activity more than doubled vs. H1 2025, exceeding $2.6B; portfolio premium widened to 100 bps.",
+        "Cushman & Wakefield: capital availability, rent growth, high occupancy reinforce MOB fundamentals; expects sustained institutional investment through 2026."
       ],
-      "summary": "Medical outpatient building investment sales surged to $6.7 billion in H1 2026, up 21% year-over-year, with cap rates compressing 35 basis points to 6.8%. Portfolio transaction volume more than doubled to $2.6 billion, and portfolio premiums widened to 100 bps over single-asset cap rates. Improving lender appetite, steady rent growth, and high occupancy sustained investor confidence across the sector.",
-      "impact": "Minimal direct impact on multifamily; this is a healthcare CRE story. However, capital rotation signal: as MOB cap rates compress toward multifamily levels (6.8% vs. ~5.5–6.0% for Class A multifamily in major metros), institutional mega-funds are increasingly competitive across asset types. For multifamily developers, this means equity and debt competition will remain tight—healthcare and industrial have proven cash-on-cash resilience, so multifamily basis will need to prove superior rent growth or demographic tailwinds to justify higher leverage or lower equity returns."
-    },
-    {
-      "title": "Genentech Tops Out $2B Holly Springs Manufacturing Facility",
-      "link": "https://www.connectcre.com/stories/genentech-tops-out-2b-holly-springs-manufacturing-facility/",
-      "excerpt": "Genentech raised the final beam of its new manufacturing facility in Holly Springs, North Carolina, during a topping-out ceremony. The milestone reflects continued progress on Genentech’s approximately $2 billion investment in its first-ever East Coast manufacturing facility. The project, announced in May of 2025, broke ground in August of 2025. Completion is expected in 2029. Once operational, the 700,000-square-foot facility will produce next-generation treatments for metabolic conditions, such as obesity. It will incorporate advanced biomanufacturing, automation, robotics and the latest digital manufacturing technologies designed to increase production efficiency, support sustainability, and strengthen Genentech’s U.S.-based supply chain. The project is expected to support more than 2,000 jobs, including more than 500 high-wage manufacturing roles and more than 1,500 construction jobs. The facility is part of Roche and Genentech’s broader $50 billion commitment to R&amp;D and manufacturing infrastructure in the U.S. Roche and Genentech’s current U.S. footprint includes 13 manufacturing sites, 15 research and development sites and approximately 25,000 employees across 24 locations in eight states. The post Genentech Tops Out $2B Holly Springs Manufacturing Facility appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-21T14:17:24+00:00",
-      "bullets": [
-        "Genentech topped out $2B manufacturing facility in Holly Springs, North Carolina; 700k SF; completion 2029.",
-        "Project supports 2k+ jobs: 500+ high-wage manufacturing roles, 1.5k construction jobs; part of $50B Roche/Genentech U.S. commitment.",
-        "Biopharmaceutical/advanced manufacturing anchors regional employment and signals supply-chain reshoring to Southeast."
-      ],
-      "summary": "Genentech held a topping-out ceremony for its $2 billion, 700,000-square-foot manufacturing facility in Holly Springs, North Carolina, the company's first East Coast plant. Project began August 2025 with completion targeted 2029, supporting 2,000+ jobs including 500+ high-wage manufacturing roles. The facility will produce next-generation obesity treatments using advanced biomanufacturing, automation, and digital technologies, and is part of Roche and Genentech's broader $50 billion U.S. R&D and manufacturing infrastructure commitment.",
-      "impact": "Significant indirect multifamily demand driver for Holly Springs, NC, and greater Raleigh-Research Triangle region. Genentech's $2B facility and 2,000+ permanent jobs (with construction employment through 2029) will draw technical, engineering, and administrative talent to an already-growth market. This signals an opportunity for multifamily developers to acquire or entitle land in Research Triangle (Raleigh, Durham, Chapel Hill) residential submarkets now, before employer-driven migration inflates land values and construction costs. The $50B Roche/Genentech commitment flags sustained biotech/pharma clustering in the Southeast; developers should prioritize Chapel Hill and RTP-adjacent multifamily plays targeting 25–45-year-old STEM professionals with high-income-per-unit economics."
+      "summary": "Medical outpatient building (MOB) investment sales surged to $6.7 billion in H1 2026, a 21% year-over-year increase, driven by improving capital markets, lender appetite, and strong operating fundamentals. MOB cap rates declined 35 basis points to 6.8%, while average pricing reached $368 per square foot in Q2. Portfolio transaction activity more than doubled, exceeding $2.6 billion, with portfolio premiums widening to 100 basis points over single-asset cap rates.",
+      "impact": "MOB strength (cap rate compression, portfolio demand, +$2.6B portfolio activity) reflects institutional capital rotation into healthcare real estate amid demographic aging and outpatient care shift. For multifamily developers: healthtech/medical office co-tenancy in mixed-use or nearby residential projects enhances NOI and marketing (affluent patient/staff base). MOB capital strength also indicates available institutional debt capital; multifamily developers should expect competitive financing conditions and potential cross-collateralization opportunities in healthcare-anchored markets."
     },
     {
       "title": "Shifting Fortunes for L.A.’s Ports Boost Surrounding Industrial Real Estate",
@@ -122,27 +152,12 @@
       "cat": "Commercial",
       "date": "2026-08-21T14:10:36+00:00",
       "bullets": [
-        "Port of LA/Long Beach: tariff volatility and trade disruption benefit adjacent industrial real estate despite warehouse vacancy at 7%.",
-        "Shipping volume fluctuations (Liberation Day tariffs, Iran tensions, Trump trade war) creating boom-bust cycle but new port volume.",
-        "Port-adjacent and port-dependent submarkets poised for upswing; industrial fundamentals volatile but supply-constrained."
+        "L.A./Long Beach port volumes volatile amid Trump tariff cycles (April 2025 Liberation Day through Iran conflict).",
+        "Port-adjacent and port-dependent industrial submarkets benefiting from tariff flux, shipping volume surges.",
+        "Los Angeles warehouse vacancy peaked at ~7% this year; industrial side poised for upswing amid boom-bust cycle."
       ],
-      "summary": "Despite Trump administration tariff turbulence beginning April 2025 (Liberation Day) and ongoing geopolitical disruption (Iran tensions), Los Angeles and Long Beach ports are seeing renewed shipping volume that is unexpectedly benefiting port-adjacent industrial real estate. While general LA warehouse vacancy peaked at 7% amid boom-bust cycles over the past few years, port-dependent and waterfront-tied submarkets are experiencing incremental strength as trade flows fluctuate with policy.",
-      "impact": "Mixed signal for LA multifamily developers. The tariff/trade volatility creates uncertainty for industrial tenants and supply-chain logistics jobs, which are key demand drivers in LA's inland Empire and port-adjacent submarkets. However, renewed port activity and the structural advantage of Southern California's entrepôt position suggest sustained middle-wage logistics and warehouse employment—which historically supports multifamily demand in Inland Empire, Long Beach, and Vernon corridors. Developers should remain cautious on industrial-job-dependent markets (Victorville, San Bernardino) given tariff swings, but port-adjacent multifamily near LA/Long Beach may see steady demand as supply-chain nearshoring and tariff-driven re-routing of goods reinforce dwell time at West Coast ports. Monitor policy shifts quarterly; tariff reversals or trade deals could rapidly shift this calculus."
-    },
-    {
-      "title": "West Palm Beach Developer Buys Lot, Apartments on Way",
-      "link": "https://www.connectcre.com/stories/west-palm-beach-developer-buys-lot-apartments-on-way/",
-      "excerpt": "Estate Cos. bought a lot in West Palm Beach and plans to build the second phase of a two-phase apartment project. The S. Floirda Business Journal reports the company paid $13 million for a 1.19-acre lot at 411 West Railroad. The seller was Sunview Cos. Banesco USA provided an $8.45 million mortgage to the buyer. For the first phase, the 321-unit, eight-story Soleste Palm Station, just west of this site, is still under construction. For Phase II, The Estate Cos. plans to develop the new site with 310 apartments in 15 stories. For Soleste Palm Station Two, the multifamily community will include 411 parking spaces and a pool deck. Estate Companies says it identifies and coordinates investment opportunities for both private and institutional investors. It’s focus, since 2012, is on high-yielding, risk-adjusted, development and investment opportunities (land and residential projects) in the South Florida region. The post West Palm Beach Developer Buys Lot, Apartments on Way appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-21T13:55:56+00:00",
-      "bullets": [
-        "Estate Cos. acquired 1.19-acre lot, West Palm Beach for $13M; plans Phase II: 310 units, 15 stories.",
-        "Phase I: 321-unit Soleste Palm Station (8 stories) under construction nearby; Phase II adds parking, pool deck.",
-        "Banesco USA financed Phase II with $8.45M mortgage; two-phase development signals strong South Florida apartment demand."
-      ],
-      "summary": "Estate Companies purchased a 1.19-acre infill lot at 411 West Railroad in West Palm Beach for $13 million and plans to develop Phase II of a two-phase multifamily project. Phase I, the 321-unit Soleste Palm Station, is currently under construction nearby. Phase II will deliver 310 apartments over 15 stories with 411 parking spaces and a pool deck. Banesco USA provided an $8.45 million construction mortgage.",
-      "impact": "Confirms South Florida multifamily demand resilience and developer confidence in West Palm Beach. Estate Companies' two-phase strategy—Phase I near completion, Phase II entitlement and financing in place—signals strong absorption and rent growth sufficient to justify 631-unit combined supply in a single submarket. For multifamily developers, West Palm Beach (beyond Miami/FLL core) represents emerging infill opportunity as Miami-proper faces supply saturation and rent moderation. The rapid Phase II finance (Banesco mortgage) suggests strong lender confidence in WPB market fundamentals. Developers should prioritize in-fill sites and adaptive reuse opportunities in West Palm's emerging downtown/transit corridors to capture migration from Miami before that market cools further."
+      "summary": "Trade policy uncertainty under President Trump's second term has created volatility at the Ports of Los Angeles and Long Beach, but port-adjacent and port-dependent industrial real estate has benefited from shifting shipping volumes. Despite a recent warehouse vacancy peak near 7%, new shipping activity is driving demand in port-tied submarkets. Analysts expect continued turbulence but near-term upside for industrial real estate near the waterfront.",
+      "impact": "Tariff volatility is creating short-term shipping volume swings that benefit port-adjacent industrial; however, sustained policy uncertainty may dampen long-term logistics real estate investment. Multifamily developers should avoid over-relying on port-adjacent job growth; instead, monitor broad Southland employment trends. If tariff cycles stabilize in favor of U.S. nearshoring/reshoring, logistics hub strength (inland Empire, Long Beach submarket) could drive wage/job growth supporting regional multifamily demand. Track tariff policy shifts as a market timing signal."
     },
     {
       "title": "Retail Landlords Need to Underwrite Their Tenants’ Customer Base, Too",
@@ -152,27 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-21T12:15:18+00:00",
       "bullets": [
-        "Opinion piece: retail landlords underwrite tenant finances but rarely underwrite tenant customer base; misses demand risk.",
-        "Gap analysis: if retailer's customers don't live/work near space, tenant failure risk rises; reactive leasing delays discovery.",
-        "Solution: proactive demand analysis—study neighborhood demographics, spending patterns, category over-indexing—before marketing vacancy."
+        "Retail landlords underwrite tenant finances but rarely underwrite tenant's customer base and local household spending.",
+        "Gap creates tenant failure risk, vacancy, and commission costs; proactive customer profiling before listing reduces days-on-market.",
+        "Better approach: study nearby household demographics, spending patterns, brand alignment before leasing outreach; direct landlord-to-brand negotiation faster than reactive posting."
       ],
-      "summary": "A CRE industry perspective argues that retail landlords have long underwritten tenant operators' financial credentials but neglect underwriting the tenant's customer base—a blind spot that increases vacancy and failure risk. Reactive leasing (post to LoopNet, wait for offers, vet later) obscures whether neighborhood demographics support the retailer's concept. The better approach flips process: analyze who lives/works nearby, how they spend, which categories over-index, then proactively approach brands serving that neighborhood's customer profile.",
-      "impact": "Tangential to multifamily development but strategically important for mixed-use and ground-floor retail strategy in residential projects. Multifamily developers and joint-venture retail partners should adopt demand-first leasing: analyze residential community's demographic profile, household income, age, and consumer behavior BEFORE designing ground-floor retail or entering LOIs with anchor tenants. This directly impacts residential unit valuations—weak retail tenancy or high turnover erodes street activation, perceived safety, and NOI. For mixed-use projects in secondary markets or new neighborhoods (e.g., West Palm Beach, emerging Texas suburbs), pre-lease ground floor to a retailer whose customer profile matches your resident demographic, or accept higher tenant concessions/lower rents. Reverse: if multifamily tenant income/age misaligns with typical grocer/restaurant customer, expect higher retail vacancy and longer recapture periods."
-    },
-    {
-      "title": "T&E Development Buys West Chelsea Site for $34M From PPHE Hotel Group",
-      "link": "https://commercialobserver.com/2026/08/te-development-buys-west-chelsea-site-for-34m-from-pphe-hotel-group/",
-      "excerpt": "A development site in Manhattan&#8217;s West Chelsea area previously conceived for hotel and luxury residences in 2019 by an international hospitality firm is now poised for a new residential journey. Amsterdam-based PPHE Hotel Group sold the property at 538-542 West 29th Street to Brooklyn-based T&amp;E Development for $33.5 million in a deal that closed late Thursday afternoon, Commercial Observer has learned. Colliers represented the seller with a team led by Zach Redding, Dylan Kane and Jared King. Sporn Group’s Lenny Sporn arranged the sale on behalf of the buyer. Crain’s New York Business first reported that the deal was set to close this summer. PPHE Hotel Group announced in March 2019 it had formed a joint venture with developer Largo to acquire the vacant lot for around $42 million, with plans to build a 98-key hotel and 55 condos. An entity connected to PPHE field demolition permits for the project in late 2023, Crain’s reported at the time. Greg Hegarty, co-CEO of PPHE, said in a February statement on the pending sale that “significant changes to the regulatory landscape” for ground-up development of hotel projects in New York following its 2019 acquisition contributed to the decision to part ways with the property. The 9,875-square-foot vacant lot between 10th and 11th avenues has 74,063 square feet of development potential under New York City’s C6-3 zoning within the Special West Chelsea District and will not require an affordable housing component, according to Colliers. T&amp;E recently completed a 54-unit condo development called the Florian at 350 East 18th Street in Manhattan’s Gramercy Park. Redding said the property is one of the few remaining unconstrained development sites in West Chelsea and would be well positioned as a residential project given there is only one condo building currently under construction between West 20th and West 30th streets. He noted that nearby condo developments have netted average sales of roughly $2,884 per square fo",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-20T23:29:17+00:00",
-      "bullets": [
-        "T&E Development acquired West Chelsea site (538-542 West 29th St, Manhattan) from PPHE Hotel Group for $33.5M.",
-        "Property was planned as 98-key hotel + 55 condos by PPHE/Largo JV (acquired 2019 for ~$42M); site vacant.",
-        "Shift from hotel to residential reflects Manhattan market dynamic; soft hotel demand, strong residential pricing."
-      ],
-      "summary": "Brooklyn-based T&E Development purchased the West Chelsea site at 538-542 West 29th Street from Amsterdam-based PPHE Hotel Group for $33.5 million in a deal that closed late last week. PPHE and developer Largo had acquired the vacant lot in March 2019 for approximately $42 million with plans to build a 98-room hotel and 55 condos. PPHE filed demolition permits in late 2023 but pivoted to sale, signaling strategy shift away from hotel in favor of capital redeployment.",
-      "impact": "Critical market signal: Hotel-to-residential conversion (or purpose-shift) in Manhattan prime real estate (West Chelsea, Chelsea Market proximity) reflects persistent soft hotel demand post-pandemic and superior residential valuations in core Manhattan. PPHE's $42M acquisition (2019) to $33.5M sale (2026) signals capital loss on hotel-condo project, but T&E's residential-only rebrand validates residential-as-safer asset class in Manhattan. For developers: prime Manhattan sites are reverting from mixed-use hotel/condo to pure residential or rental. This signals opportunity for developers with pure-residential expertise and capital discipline to acquire entitlement-stage Manhattan sites from hospitality operators at distressed prices. Conversely, hotel-condo hybrid deals in NYC face financing and absorption headwinds—pure rental or pure-for-sale residential commands cleaner underwriting and lender support. Expect more hotel->residential asset transitions in secondary Manhattan CBDs (Chelsea, Hells Kitchen, LES) as hotel demand remains weak relative to pre-pandemic."
+      "summary": "Retail landlords typically underwrite tenant creditworthiness but fail to validate whether the tenant's customer base lives in proximity to the space. This gap increases risk of tenant failure and extended vacancy. A more proactive approach involves analyzing local household demographics and spending patterns first, then directly recruiting aligned retail brands, rather than posting and waiting for responses.",
+      "impact": "Insight applies indirectly to multifamily: strong retail tenants (grocery, dining, fitness) drive footfall and renter willingness-to-pay. Multifamily developers should adopt same \"customer-first\" lens when planning ground-floor retail in new buildings—profile the renter demographic first, then recruit tenants serving that demographic directly. Avoiding misaligned retail (which cannibalizes foot traffic and resident satisfaction) is critical to lease-up and NOI. Co-tenant quality compounds unit rent potential more than unit quality alone."
     }
   ]
 }
