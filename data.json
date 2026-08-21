@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-21T12:27:56.261903+00:00",
+  "fetchedAt": "2026-08-21T13:38:36.369075+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -9,18 +9,18 @@
     },
     {
       "label": "10Y Treasury",
-      "value": "4.70%",
-      "pct": 0.92
+      "value": "4.71%",
+      "pct": 0.34
     },
     {
       "label": "30Y Treasury",
-      "value": "5.24%",
-      "pct": 0.83
+      "value": "5.26%",
+      "pct": 0.4
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "98.60",
-      "pct": -0.01
+      "value": "98.79",
+      "pct": 0.19
     }
   ],
   "stories": [
@@ -32,12 +32,12 @@
       "cat": "Commercial",
       "date": "2026-08-21T12:15:18+00:00",
       "bullets": [
-        "Retail landlords underwrite tenant finances but rarely analyze customer demographics.",
-        "Proactive neighborhood customer profiling reduces vacancy and leasing costs.",
-        "Gap between tenant underwriting and customer demand creates avoidable tenant failures."
+        "Retail landlords typically underwrite tenant finances only, ignoring customer demographics.",
+        "Gap in analysis increases vacancy risk, re-lease costs, and extended holding periods.",
+        "Proactive demand-side underwriting of neighborhood spending patterns reduces days-on-market."
       ],
-      "summary": "Retail landlords follow reactive leasing: post space, wait for offers, then vet tenants. The better approach flips the process—study neighborhood demographics and spending patterns first, then recruit brands that serve that customer base directly. This proactive strategy reduces days on market, vacancy costs, and commissions, because it ensures tenant-customer alignment before lease signing.",
-      "impact": "Minimal direct impact to multifamily development. However, retail health affects mixed-use and ground-floor demand in multifamily projects; developers should apply similar customer-demand analysis to retail components of residential buildings to ensure anchor tenancy strength and resident amenity quality."
+      "summary": "Retail landlord underwriting focuses on tenant operator financials but ignores whether enough target customers live nearby, creating material risk of tenant failure and prolonged vacancy. A better approach starts by analyzing nearby household spending patterns and demographic fit before identifying potential tenants. This shift from reactive to proactive leasing reduces vacancy costs and market time.",
+      "impact": "Indirect but relevant: multifamily developers in mixed-use or ground-floor retail contexts should validate retail tenant viability the same way to protect long-term property NOI. Weak retail fundamentals depress foot traffic and mixed-use property valuations."
     },
     {
       "title": "Inflation Is Down. But Consumers Aren’t Out of the Woods Yet",
@@ -47,12 +47,12 @@
       "cat": "Commercial",
       "date": "2026-08-21T05:01:00+00:00",
       "bullets": [
-        "CPI at 3.4% year-over-year in July; core CPI 2.5%—both moderating.",
-        "Apartment rents rose 1.3% year-over-year (vs. 2.1% prior year); real wage growth declined 0.1%.",
-        "Housing remains largest core CPI contributor; consumer purchasing power under pressure despite inflation moderation."
+        "July CPI at 3.4% YoY; core CPI 2.5%, both meeting expectations; Fed rate-hike pressure easing.",
+        "Apartment rents rose only 1.3% YoY (vs. 2.1% prior year); real hourly earnings declined 0.1%.",
+        "Consumer purchasing power remains under pressure despite moderating headline inflation."
       ],
-      "summary": "July inflation data shows headline CPI at 3.4% and core at 2.5%, both slightly easing monthly. Apartment rents decelerated to 1.3% year-over-year growth versus 2.1% the prior year. Real average hourly earnings declined 0.1%, signaling squeezed household purchasing power even as inflation moderates. Consumers may remain cautious on discretionary spending.",
-      "impact": "Rent growth deceleration signals softening demand tailwinds in multifamily; combined with declining real wages, renter affordability pressures persist, potentially limiting ability to push rents in secondary/tertiary markets. Developers should stress-test underwriting for flatter rent escalators and reconsider value-add repositioning assumptions."
+      "summary": "July inflation cooled to 3.4% YoY, with core CPI at 2.5%, easing immediate Federal Reserve rate-hike pressure. Apartment rents decelerated to 1.3% YoY growth compared to 2.1% the prior year. However, real average hourly earnings fell 0.1%, indicating households face persistent purchasing power constraints even as inflation moderates.",
+      "impact": "Moderating inflation and potential Fed pivot lower could improve development financing conditions (cap rates, cost of capital) in Q4 and 2025. However, slowing rent growth (1.3% YoY) and negative real wage growth signal tenant demand is weakening; rents may plateau or fall in select overbuilt markets. Developers should scrutinize absorption, concessions, and NOI stability before underwriting new starts."
     },
     {
       "title": "Retail Regains Its Footing as Demand Returns and Supply Stays Soft",
@@ -62,12 +62,12 @@
       "cat": "Commercial",
       "date": "2026-08-21T05:01:00+00:00",
       "bullets": [
-        "Retail vacancy stable in Q2; tenant demand returned after soft Q1.",
-        "New construction remains limited; favorable landlord/investor setup emerging.",
-        "Retailers contend with increasingly selective consumers despite sector momentum."
+        "Q2 retail: tenant demand returned, vacancies stable, new construction stayed limited.",
+        "CBRE, Colliers, Cushman & Wakefield, JLL, Lee & Associates all reported positive momentum.",
+        "Tight supply and restored demand creating favorable landlord and investor environment."
       ],
-      "summary": "According to Q2 reports from CBRE, Colliers, Cushman & Wakefield, JLL, and Lee & Associates, the retail sector regained momentum after a weak first quarter. Tenant demand rebounded, vacancy stayed flat, and new construction stayed restrained—a combination favoring landlords and investors. Retailers, however, face more discriminating consumers.",
-      "impact": "Minimal direct impact to multifamily. Healthy retail—particularly limited new supply—may support co-tenancy value and foot traffic for mixed-use multifamily developments, but core residential demand drivers (jobs, in-migration) remain the primary lever."
+      "summary": "After a weak Q1, retail regained momentum in Q2 as tenant demand rebounded, vacancy remained stable, and new construction stayed constrained. According to reports from major brokers (CBRE, Colliers, Cushman & Wakefield, JLL, Lee & Associates), the supply-demand balance favors landlords and investors.",
+      "impact": "Limited multifamily relevance. However, if retail supply tightness persists, it may constrain ground-floor or integrated retail in mixed-use developments, increasing hold-up risk on certificate of occupancy. Watch retail vacancy trends by metro to gauge retail competitiveness and mixed-use feasibility."
     },
     {
       "title": "How the “Vanity Economy” Is Impacting Retail",
@@ -77,12 +77,12 @@
       "cat": "Commercial",
       "date": "2026-08-21T05:01:00+00:00",
       "bullets": [
-        "Vanity economy (beauty, cosmetics, wellness) reached $132B in 2025, up from $86B in 2020.",
-        "Beauty and fitness now account for 37.5% of leased retail space (Q2 2026); global beauty market valued at $450B.",
-        "Brick-and-mortar stores drive 74% of beauty product sales; expected 5% annual growth through 2030."
+        "Beauty, cosmetics, wellness spending hit $132B in 2025, up 54% from $86B in 2020.",
+        "Vanity economy tenants (beauty, specialty fitness) claimed 37.5% of Q2 retail leased space.",
+        "Global beauty market ~$450B, expected to grow 5% annually through 2030; 74% of sales via brick-and-mortar."
       ],
-      "summary": "Social media and influencer marketing have fueled a 'vanity economy' in retail. Consumers spent $132 billion on appearance-enhancing products in 2025 (up 53% from 2020), with cosmetics spending up 38% over five years to $25.4 billion. Beauty, cosmetics, and specialty fitness account for 37.5% of all leased retail space. Physical retail remains the dominant sales channel (74%), and the global beauty market is forecast to grow 5% annually through 2030.",
-      "impact": "Minimal direct impact to multifamily development alone. However, the strength and durability of beauty/wellness retail creates a tenant stabilizer and drives foot traffic in mixed-use urban multifamily projects, especially in walkable neighborhoods with affluent renters (NYC, LA, Miami submarkets). Developers should actively court beauty/wellness anchors and retailers for ground-floor retail components."
+      "summary": "Consumer spending on appearance-enhancing products (beauty, cosmetics, wellness) surged 54% in five years to $132B in 2025. These \"vanity economy\" categories now account for 37.5% of all retail leased space as of Q2 2026. The $450B global beauty market is forecast to expand 5% annually through 2030, with physical retail remaining the dominant sales channel (74%).",
+      "impact": "Strong signal for retail-anchored mixed-use development: beauty, cosmetics, and specialty fitness tenants are driving retail demand and offer stable, high-margin leases. Developers should prioritize these categories in retail programming for multifamily-with-retail projects in urban and suburban submarkets with affluent, younger, social-media-engaged demographics."
     },
     {
       "title": "T&E Development Buys West Chelsea Site for $34M From PPHE Hotel Group",
@@ -92,12 +92,12 @@
       "cat": "Commercial",
       "date": "2026-08-20T23:29:17+00:00",
       "bullets": [
-        "T&E Development acquired West Chelsea site (Manhattan) from PPHE Hotel Group for $33.5M.",
-        "Property at 538–542 West 29th Street was originally conceived as 98-key hotel + 55 condos in 2019.",
-        "Shift from hotel/condo to pure residential signals changed market demand and capital allocation in Chelsea."
+        "T&E Development (Brooklyn) bought 538-542 West 29th St, Manhattan, for $33.5M from PPHE Hotel Group.",
+        "PPHE originally planned 98-key hotel + 55 condos (2019 JV with Largo); abandoned 2023 after demolition permits.",
+        "Site now repositioned from hospitality to residential development; 45% discount from original $42M acquisition price in 2019."
       ],
-      "summary": "T&E Development bought a 538–542 West 29th Street development site in Manhattan's West Chelsea from PPHE Hotel Group for $33.5 million, closing late July. PPHE had initially acquired the vacant lot in 2019 with Largo for ~$42 million, planning a 98-key hotel and 55 condos. After filing demolition permits in late 2023, PPHE pivoted to a sale, signaling a strategic shift away from hotel development.",
-      "impact": "Signals retreat from hotel development in West Chelsea and renewed focus on residential-only strategies, likely due to softer hotel market dynamics and stronger multifamily capital flows. Developer should monitor whether T&E builds pure multifamily or mixed-use; if pure multifamily, it confirms West Chelsea rental demand strength and potential upside for comparable projects in Chelsea, Meatpacking District, and Hudson Yards subareas."
+      "summary": "Amsterdam-based PPHE Hotel Group sold a West Chelsea development site at 538-542 West 29th Street to T&E Development for $33.5M, down sharply from the ~$42M paid in a 2019 joint venture with Largo. PPHE had originally planned a 98-key hotel and 55 luxury condos but abandoned the project after filing demolition permits in late 2023. The property is now repositioned for residential development.",
+      "impact": "Manhattan market signal: hospitality-centric development has lost favor; residential (likely rental apartments or condos) is more viable. The discount and pivot reflect softening Manhattan hotel demand and stronger multifamily investment appetite. West Chelsea's strong renter and condo demographics support a pure-play residential play. Watch for similar hotel-to-multifamily conversions in prime Manhattan submarkets."
     },
     {
       "title": "Cyber Risk Management Firm Signs Five-Year Renewal of Midtown Offices",
@@ -107,12 +107,12 @@
       "cat": "Commercial",
       "date": "2026-08-20T22:11:00+00:00",
       "bullets": [
-        "SecurityScorecard (cyber risk firm) renewed five-year lease at 1140 Ave. of Americas, Midtown Manhattan.",
-        "Tenant occupies full floor, 8,475 sq. ft., with private outdoor terrace; tenant since 2023.",
-        "Tech company renewal signals office occupancy stability in Midtown among fast-growing tech firms."
+        "SecurityScorecard (cyber risk firm) renewed full-floor HQ at 1140 Ave. of the Americas, Midtown, 5 years.",
+        "Tenant occupied 8,475 SF since 2023; lease praised for transit, amenities, private terrace, talent attraction.",
+        "Repeat lease by fast-growing tech company signals sustained demand for Midtown class-A office."
       ],
-      "summary": "SecurityScorecard, a cyber risk intelligence firm, renewed its full-floor headquarters at 1140 Avenue of the Americas in Midtown Manhattan for five years. The company occupies 8,475 square feet and has been a tenant since 2023. The landlord (represented by Cushman & Wakefield) and the tenant (represented by JLL) emphasized the location's premium transit access, amenities, and outdoor space as key to talent retention.",
-      "impact": "Minimal direct impact to multifamily. Tech company office renewals in Midtown indicate sustained corporate presence and job stability in Manhattan's tech corridor, which supports baseline rental demand for multifamily in outer boroughs (Long Island City, Astoria) and Downtown Brooklyn where tech workers increasingly locate for affordability and commute."
+      "summary": "Cyber risk intelligence firm SecurityScorecard renewed its full-floor headquarters lease for five years at 1140 Avenue of the Americas in Midtown Manhattan. The company occupies 8,475 SF and has been a tenant since 2023. The renewal highlights the property's appeal to growth-stage tech tenants seeking premier location, transit access, and employee experience amenities.",
+      "impact": "Weak multifamily signal: office leasing activity exists in prime Midtown, but as a developer, focus on whether office tenants' headcount and wage profile drive demand for nearby multifamily in Murray Hill, Kips Bay, or Astoria. SecurityScorecard's growth and renewal suggest Manhattan tech hiring remains, which supports renter demand. However, office oversupply in outer markets may dampen multifamily demand in secondary NYC corridors."
     },
     {
       "title": "Data Centers Push Into Frontier Markets",
@@ -122,12 +122,12 @@
       "cat": "Commercial",
       "date": "2026-08-20T22:00:00+00:00",
       "bullets": [
-        "Data center developers hitting 'power wall'; grid constraints pushing projects to secondary markets.",
-        "Chicago Commonwealth Edison new projects face 4–5 year interconnection timelines; Columbus, OH utilities directing users to secondaries.",
-        "Alternative solutions (co-gen, battery storage, microgrids) and direct utility partnerships emerging; microgrids face regulatory scrutiny."
+        "Data centers hit power wall in established hubs; developers expanding to secondary, less-constrained markets.",
+        "Chicago Commonwealth Edison projects face 4–5-year interconnection timelines; $46K/MW/year LC for 10 years.",
+        "Utilities pushing co-gen, on-site battery storage, microgrids; regulatory uncertainty slowing adoption."
       ],
-      "summary": "According to JLL's Midyear North America Data Center Report, data center developers are constrained by limited grid capacity in established hubs (Chicago, Columbus), pushing them toward frontier and secondary markets. Chicago Commonwealth Edison projects face 4–5 year delivery timelines with $46,000/MW/year letter-of-credit commitments. Developers are exploring co-generation, on-site battery storage, and microgrids to bypass grid constraints, though regulatory hurdles remain.",
-      "impact": "Data center migration to secondary markets may signal infrastructure investment and job growth in those regions (e.g., Columbus, Indianapolis, Raleigh), indirectly strengthening demand for workforce housing. Multifamily developers in secondary markets should monitor data center project pipelines and partner with utility/infrastructure announcements to identify emerging employment hubs and early-stage demand windows before land appreciates significantly."
+      "summary": "JLL's Midyear North America Data Center Report reveals data center developers are constrained by grid power limitations in established hubs, prompting expansion into frontier and secondary markets. Chicago data center projects face 4–5-year interconnection timelines and significant letter-of-credit commitments (~$46K/MW/year for 10 years). Developers are exploring alternative power solutions (on-site generation, battery storage, microgrids), but regulatory barriers persist.",
+      "impact": "Significant secondary-market opportunity: data center expansion into Tier 2/3 metros (Columbus, secondary Midwest, secondary Texas markets) will drive new job creation and population inflow ahead of major corporate/tech relocations. Developers should scout land and multifamily sites near emerging data center clusters to pre-position for wage-earner and service-worker housing demand 18–24 months ahead of data center stabilization."
     },
     {
       "title": "L.A. County Investment Sales Jump 28% in July Thanks to Multifamily",
@@ -137,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-08-20T21:20:53+00:00",
       "bullets": [
-        "L.A. County CRE investment sales jumped 28.5% to $2.1B in July; 75% gain vs. July 2024.",
-        "Multifamily dominated with 3.43M sq. ft. for $1.22B (58% of all capital); sales up 55% YoY and 166% vs. July 2024.",
-        "Multifamily average pricing rose 28.7% to $376/sq. ft.; gains despite elevated borrowing costs."
+        "L.A. County investment sales jumped 28.5% YoY to $2.1B in July; 75% vs. July 2024.",
+        "Multifamily led: 3.43M SF for $1.22B (58% of volume); sales up 55% YoY, 166% vs. July 2024.",
+        "Multifamily pricing rose 28.7% YoY to $376/SF despite elevated borrowing costs and high Treasury yields."
       ],
-      "summary": "Commercial real estate investment sales in Los Angeles County surged 28.5% in July to $2.1 billion, with multifamily accounting for 58% of capital deployed. Multifamily sales volume jumped 55% year-over-year and 166% versus July 2024, with average pricing climbing 28.7% to $376 per square foot. This acceleration occurred despite elevated Treasury yields and high borrowing costs.",
-      "impact": "Strong L.A. County multifamily capital flows and pricing momentum signal sustained investor appetite and rent fundamentals in LA metros (West LA, Santa Monica, Downtown, Mid-City). Developers should accelerate land acquisition and entitlement timelines in LA primary markets before pricing accelerates further; secondary LA submarkets (San Fernando Valley, Long Beach, Inland Empire) may offer better entry points with similar demand tailwinds."
+      "summary": "L.A. County investment sales accelerated 28.5% YoY in July to $2.1B, with multifamily dominating at 3.43M SF and $1.22B (58% of capital). Multifamily sales volume climbed 55% YoY and 166% versus July 2024. Average multifamily pricing jumped 28.7% YoY to $376/SF, despite elevated interest rates and long-term Treasury yields near multiyear highs.",
+      "impact": "Strong capital velocity and pricing appreciation in L.A. multifamily signals investor confidence in absorption, rent growth, and long-term value. However, elevated cap rates and recent rate environment suggest any further Fed cuts could unlock pent-up transaction appetite. Developers should lock land positions and pre-underwrite pipeline projects now; pricing may compress if capital availability improves, eroding acquisition advantages."
     },
     {
       "title": "New York City’s Technology Labor Market Has Surpassed San Francisco: Report",
@@ -152,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-08-20T19:40:03+00:00",
       "bullets": [
-        "NYC metro tech workforce reached 394,300 in 2025; +8.4% since 2022 (+30,640 jobs).",
-        "San Francisco Bay Area tech employment fell 6% over same period to 375,730 in 2025—first time NYC ahead in 13-year report.",
-        "NYC's diversified job market offset SF's announced layoffs; SF still ranks #1 on talent pool quality across 13 metrics."
+        "NYC tech workforce reached 394,300 in 2025, up 8.4% since 2022 (+30,640 jobs).",
+        "San Francisco tech employment fell 6% to 375,730; first time NYC tops SF in 13-year report history.",
+        "NYC's diversified job market and San Francisco layoffs drove the reversal."
       ],
-      "summary": "New York City's tech workforce (394,300 jobs in 2025) has surpassed San Francisco's (375,730 jobs) for the first time in a 13-year CBRE report. NYC added 30,640 tech jobs since 2022 (+8.4%), while SF declined 6% over the same period due to announced layoffs. NYC's diversified job market drove the milestone, though SF remains ranked first overall on talent metrics.",
-      "impact": "NYC's tech employment lead signals sustained in-migration of young, high-earning workers to the metro, strengthening rental demand in tech-heavy submarkets (Long Island City, Astoria, Downtown Brooklyn, Williamsburg) and Manhattan (Flatiron, Murray Hill, LES). Developers should prioritize apartments near transit/tech clusters and target millennial/Gen-Z renters; expect continued rent growth and lower vacancy in NYC tech-corridor neighborhoods through 2025–2026."
+      "summary": "New York City's technology workforce has surpassed San Francisco for the first time in CBRE's 13-year report history, reaching 394,300 in 2025—an 8.4% increase since 2022. San Francisco's tech employment declined 6% to 375,730 over the same period, driven by announced layoffs. New York's diversified economy and continued growth outpaced the Bay Area's concentration and job losses.",
+      "impact": "Major demand driver for NYC multifamily: sustained tech job growth (+30,640 in 3 years) supports young-professional renter demand in Manhattan, Brooklyn, and Long Island City. While San Francisco's tech decline doesn't directly affect NYC supply, it signals that tech workers may relocate to NYC, supporting premium rents for modern apartment stock. Developers should prioritize product in prime tech hubs: DUMBO, Long Island City, Williamsburg, and Midtown South."
     },
     {
       "title": "Principal Financial Group Loans $32M to Refi Queens Shopping Center",
@@ -167,12 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-20T18:53:50+00:00",
       "bullets": [
-        "Principal Financial Group loaned $32M to refinance Springnex Plaza, 96,028 sq. ft. shopping center, Queens.",
-        "Stop & Shop–anchored, 100% occupied, 5.58 acres in Springfield Gardens; developed by Mattone Investors six years ago.",
-        "Lender interest in supermarket-anchored centers remains strong despite elevated rates; debt availability supportive."
+        "Principal Financial loaned $32M to refinance Springnex Plaza, 96,028 SF supermarket-anchored center, Queens.",
+        "100% occupied; Stop & Shop anchor + IHOP, Ashley Stewart, Northwell Health GoHealth; 5.58 acres.",
+        "Mattone Investors developed 6 years ago; strong occupancy attracted lender interest in recession-resistant asset class."
       ],
-      "summary": "Mattone Investors secured a $32 million refinance from Principal Financial Group for Springnex Plaza, a 96,028-square-foot supermarket-anchored shopping center in Springfield Gardens, Queens. The center is 100% leased, features a Stop & Shop anchor plus IHOP, Ashley Stewart, and Northwell Health GoHealth Urgent Care, and sits on 5.58 acres. Northmarq arranged the transaction, noting strong lender appetite for well-maintained supermarket-anchored assets.",
-      "impact": "Strong debt availability for supermarket-anchored retail in outer-borough Queens signals lender confidence in recession-resistant, essential-service-anchored properties. Developers planning mixed-use or multifamily-retail projects in Queens/outer boroughs should prioritize grocery anchors to secure favorable financing terms and lower cap rates; supermarket co-tenancy also drives foot traffic and supports residential rents in ground-floor retail communities."
+      "summary": "Mattone Investors secured a $32M refinance from Principal Financial Group for Springnex Plaza, a fully occupied 96,028-SF supermarket-anchored shopping center in Springfield Gardens, Queens. The center is 100% leased with tenants including Stop & Shop, IHOP, Ashley Stewart, and Northwell Health GoHealth Urgent Care. The successful refi at full occupancy demonstrates lender appetite for recession-resistant, essential-retail properties.",
+      "impact": "Indirect but relevant: fully occupied, supermarket-anchored neighborhood retail with stable tenancy attracts institutional capital. Developers should consider ground-floor or adjacent multifamily placement near similar essential-retail anchors (grocery, urgent care, pharma) in outer-borough neighborhoods to stabilize retail income and support higher multifamily cap-rate compression through mixed-use economics."
     }
   ]
 }
