@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-24T18:27:06.967715+00:00",
+  "fetchedAt": "2026-08-24T19:22:21.565285+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -10,20 +10,35 @@
     {
       "label": "10Y Treasury",
       "value": "4.70%",
-      "pct": -0.84
+      "pct": -0.72
     },
     {
       "label": "30Y Treasury",
       "value": "5.23%",
-      "pct": -0.91
+      "pct": -0.85
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "98.77",
-      "pct": 0.27
+      "value": "98.88",
+      "pct": 0.38
     }
   ],
   "stories": [
+    {
+      "title": "Indian Restaurant Samudhra Takes 10K SF at 312 West 43rd Street",
+      "link": "https://commercialobserver.com/2026/08/samudhra-restaurant-lease-312-west-43rd-street/",
+      "excerpt": "New Jersey-based Indian restaurant Samudhra is establishing a presence across the Hudson River in Hell’s Kitchen. The eatery signed a 10,000-square-foot lease on the ground level of the Ellery at 312 West 43rd Street, owned by Taconic Partners and National Real Estate Advisors, for its second location in the U.S. following its first restaurant in Franklin Park, N.J., according to the landlords. Taconic did not disclose the asking rent or the length of the lease, but asking rent for prime retail space in the nearby Times Square retail corridor of Broadway and Seventh Avenue from 42nd to 47th streets was $1,400 per square foot in the second quarter of 2026, according to a report from CBRE. “Samudhra brings a premium new dining and social experience that will serve both our residents and the broader neighborhood,” George Tsapelas, senior vice president of Taconic, said in a statement. “From the outset, our vision for the Ellery has been to create a dynamic mixed-use destination that contributes to the energy of the area, and Samudhra further strengthens the retail and dining mix we’ve curated at the property.” CBRE’s Lon Rubackin, Michael Kadosh and Bevan Cohen negotiated on behalf of the landlord while Brad Schwarz from Lee &amp; Associates handled the deal for the tenant. CBRE and Lee &amp; Associates did not immediately respond to requests for comment. “The Ellery provides an exceptional setting for our New York City location and gives us the opportunity to introduce our distinctive premium Indian dining and lounge experience to a much broader audience,” Mangesh Chinthamaneni, founder and CEO at Samudhra, said in a statement. The announcement comes almost exactly a year after German grocery chain Aldi signed a lease spanning 25,000 square feet on the ground floor of the building in late August 2025 as part of Aldi’s broader rollout across the U.S. The New York Post first reported Samudhra’s lease deal. Mark Hallum can be reached at mhallum@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-24T18:47:08+00:00",
+      "bullets": [
+        "Samudhra Indian restaurant leases 10K SF ground floor at 312 West 43rd Street, Hell's Kitchen.",
+        "Prime Times Square retail asking rents at $1,400/SF in Q2 2026; mixed-use Ellery anchored by restaurant tenant.",
+        "Retail activation signals continued Hell's Kitchen demand but limited direct multifamily development signal."
+      ],
+      "summary": "New Jersey-based Samudhra restaurant signed a 10,000-square-foot ground-floor lease at the Ellery (312 West 43rd Street) in Hell's Kitchen, Manhattan, marking its second U.S. location. The deal anchors a mixed-use building owned by Taconic Partners and National Real Estate Advisors. Prime retail rents in the nearby Times Square corridor (Broadway/Seventh Avenue, 42nd–47th Street) stood at $1,400/SF in Q2 2026.",
+      "impact": "Ground-floor retail activation at mixed-use developments reinforces foot traffic and resident amenity value in Hell's Kitchen, but this lease alone carries limited forward demand signal for multifamily developers; the real signal is sustained retail momentum and neighborhood vibrancy underpinning existing and future residential inventory in Midtown West."
+    },
     {
       "title": "East Harlem Housing Proposal on City-Owned Lot Expands to 762 Units",
       "link": "https://commercialobserver.com/2026/08/housing-22-east-119th-street-harlem/",
@@ -32,12 +47,12 @@
       "cat": "Commercial",
       "date": "2026-08-24T18:17:32+00:00",
       "bullets": [
-        "NYC HPD rezones East Harlem block for 762-unit affordable/supportive housing at 22 E. 119th St.",
-        "Project replaces 174-unit SRO; expands by 62 units via city block rezoning to avoid spot-zoning.",
-        "Affordable + supportive mix targets formerly homeless adults; preserves existing resident base."
+        "HPD expands East Harlem 22 East 119th Street project to 762 units across three buildings (+62 units).",
+        "City-owned site rezoning affects entire block (E. 118th–119th, Madison–Fifth Ave); mixed affordable/supportive housing.",
+        "Urban renewal area and public disposition reduce private capital requirement; supply addition in high-demand East Harlem submarket."
       ],
-      "summary": "New York City's Department of Housing Preservation and Development filed plans to rezone an East Harlem block bounded by East 118th–119th Streets and Madison–Fifth Avenues to enable a 762-unit affordable and supportive housing complex at 22 East 119th Street. The project will demolish the existing 174-unit SRO and replace it with three buildings. The rezoning strategy applies to the entire block to comply with city policy against spot-zoning individual tax lots.",
-      "impact": "Limited relevance to private multifamily development. This is public/non-profit affordable housing on city-owned land, competing for subsidy and financing outside market-rate underwriting. However, it signals sustained government commitment to affordable supply in Manhattan, which may pressure private developers in East Harlem to include affordability components or face entitlement friction. Watch for inclusionary zoning tightening in the submarket."
+      "summary": "The NYC Department of Housing Preservation and Development filed a rezoning request for the block surrounding 22 East 119th Street in East Harlem to facilitate a 762-unit affordable and supportive housing complex spanning three buildings. The site currently holds a 174-unit single-room occupancy building operated by Volunteers of America for formerly homeless single adults. The rezoning affects the entire block bounded by East 118th and 119th streets between Madison and Fifth avenues to avoid spot-zoning.",
+      "impact": "Public sector supply of 762 units in East Harlem (a high-demand, gentrifying submarket) will absorb considerable affordable-housing demand, potentially constraining market-rate rental pricing power and reducing absorption velocity for nearby private multifamily developments in Manhattan's East Harlem and Upper East Side submarkets over the next 3–5 years."
     },
     {
       "title": "Green Point Building 754K-SF Georgetown Spec Warehouse",
@@ -47,12 +62,12 @@
       "cat": "Commercial",
       "date": "2026-08-24T17:34:56+00:00",
       "bullets": [
-        "Green Point Property breaks ground Oct. 2024 on 754K-SF spec warehouse in Georgetown, TX (near Austin).",
-        "Building cost $42M; part of 180-acre GTX Logistics Park with 2.6M SF remaining available.",
-        "Georgetown (30 mi. N of Austin) population 107K; Green Point targets high-growth TX & SE markets."
+        "Green Point builds 754K-SF spec warehouse in Georgetown, Texas (30 miles north of Austin); $42M estimated cost.",
+        "GTX Logistics Park (180 acres) has 2.6M SF available; construction starts Oct 2026, completes Nov 2027.",
+        "Industrial supply addition signals strong Austin-area logistics demand but does not directly impact multifamily."
       ],
-      "summary": "Green Point Property is constructing a 754,000-square-foot spec industrial warehouse at GTX Logistics Park in Georgetown, Texas, with an estimated cost of $42 million and completion slated for November 2027. The broader park spans 180 acres with 2.6 million square feet of leasing opportunity remaining. Green Point, which has acquired and developed over $3 billion in real estate assets, focuses on high-growth markets across Texas and the Southeast.",
-      "impact": "Minimal relevance to multifamily. Industrial spec development in Austin exurbs reflects logistics demand but does not directly affect apartment supply, demand, or capital allocation. However, continued industrial/logistics growth in Georgetown may support population and wage growth in outlying TX markets, potentially feeding demand for workforce housing in secondary submarkets; monitor for spillover demand into Fort Worth and surrounding rental markets."
+      "summary": "Green Point Property is developing a 754,000-square-foot spec warehouse at GTX Logistics Park (1000 FM 972) in Georgetown, Texas, north of Austin, with an estimated cost of $42 million. Construction is scheduled to begin in October 2026 and complete in November 2027. The 180-acre park still has 2.6 million square feet available for lease, and Green Point focuses on high-growth Texas and Southeast markets.",
+      "impact": "No direct multifamily impact; this is industrial supply. However, logistics infrastructure expansion in Georgetown/Austin corridor supports job growth and inbound migration that will eventually drive multifamily demand; developers should monitor GTX Logistics Park tenant announcements and tenant workforce composition for secondary demand signals in greater Austin metro."
     },
     {
       "title": "Truist Lends $277M on Jersey City Multifamily Tower Build",
@@ -62,12 +77,12 @@
       "cat": "Commercial",
       "date": "2026-08-24T17:25:03+00:00",
       "bullets": [
-        "Truist funds $277M construction loan for Rockpoint/Urby 201 Hudson — 748-unit waterfront tower, Jersey City.",
-        "Joint venture acquired land July; Truist syndicated debt through Walt Reece (Truist Securities).",
-        "Urban waterfront multifamily in Gateway market signals capital appetite for Northeast high-density development."
+        "Truist funds $277M construction loan for Rockpoint–Urby 748-unit tower at 201 Hudson, Jersey City waterfront.",
+        "Joint venture acquired land July 2025; financing reflects strong capital availability for premier urban multifamily.",
+        "High-growth urban coastal market (Jersey City) continues to attract major sponsor equity and institutional debt."
       ],
-      "summary": "Rockpoint and Urby secured $277 million of construction financing from Truist for 201 Hudson—a 748-unit multifamily tower in Jersey City's waterfront district. The joint venture acquired the land in July and is now moving into construction. Truist's Katie Kennedy led the deal, with syndication managed by Truist Securities, signaling strong lender confidence in the sponsor team and the project location.",
-      "impact": "Confirms robust capital availability for waterfront multifamily in Jersey City, a high-demand Gateway submarket with constrained land supply and strong renter migration from NYC. $277M construction debt on 748 units (~$370K per unit) reflects disciplined underwriting and active conduit lending. This reinforces Jersey City's status as a magnet for institutional capital and suggests developers should accelerate land acquisition in remaining waterfront and near-water parcels before cap rates compress further."
+      "summary": "Rockpoint and Urby secured $277 million in construction financing from Truist for the second phase of 201 Hudson—a 748-unit multifamily tower in Jersey City. The joint venture acquired the waterfront land in July 2025. Truist emphasized continued commitment to premier sponsors pursuing transformative developments in high-growth urban markets. Newmark negotiated the debt transaction.",
+      "impact": "Strong construction financing availability and lender appetite for institutional multifamily in Jersey City waterfront signals sustained investor confidence in Northeast urban rental markets; for developers, this validates competitive acquisition and underwriting timelines in Jersey City submarket and suggests debt terms remain favorable for transit-adjacent, mixed-use urban projects through 2027."
     },
     {
       "title": "Houston Office Building Owners Ink $250M Refi",
@@ -77,12 +92,12 @@
       "cat": "Commercial",
       "date": "2026-08-24T17:18:47+00:00",
       "bullets": [
-        "PRP Real Assets & Riyad Capital refinance 1.1M-SF Irving office tower (777 Hidden Ridge) with $250M CMBS.",
-        "Bank of America originated 2-yr IO note; Pioneer Natural Resources tenant departed but remains liable on 20-yr lease through 2039.",
-        "Pioneer actively subletting; demonstrates office distress & sponsor leverage in energy-tenant dominated Irving market."
+        "PRP Real Assets and Riyad Capital refinance 777 Hidden Ridge (Irving, TX; 1.1M SF office) with $250M CMBS loan.",
+        "Pioneer Natural Resources vacated but remains obligated on 20-year NNN lease (expires 2039); sublease underway.",
+        "Office refinancing amid tenant departure indicates asset-level stress, not multifamily-relevant; provides no demand signal."
       ],
-      "summary": "PRP Real Assets and Riyad Capital secured a $250 million CMBS refinance for 777 Hidden Ridge, a 1.1 million-square-foot office building in Irving, Texas. Bank of America provided a two-year interest-only note with three one-year extension options, replacing a 2019 Citizens Financial loan. The asset was developed in 2019 as a build-to-suit for Pioneer Natural Resources USA under a 20-year triple-net lease; Pioneer has since vacated but remains obligated through 2039 and is attempting to sublease the space.",
-      "impact": "Illustrates office sector stress in Texas energy hubs and refinancing pressure as triple-net anchors default on occupancy. However, not directly material to multifamily development. Monitor Irving/Dallas office weakness as signal of regional employment volatility—energy sector layoffs could suppress wage growth and renter creditworthiness in DFW metro, pressuring rent growth even in healthy apartment corridors."
+      "summary": "PRP Real Assets and Riyad Capital secured a $250 million CMBS loan to refinance 777 Hidden Ridge, a 1.1 million-square-foot office building in Irving, Texas, developed in 2019 on a build-to-suit for Pioneer Natural Resources. The two-year interest-only note includes three one-year extension options and refinances $253.8 million of prior debt from Citizens Financial Group. Pioneer has vacated but remains liable on the 20-year triple-net lease through 2039 and is seeking sublease tenants.",
+      "impact": "Not relevant to multifamily development; this is distressed office asset management. The article signals office oversupply and tenant mobility in Irving/DFW, which indirectly supports multifamily demand if displaced office workers seek alternative work-from-home or flexible workspace, but this is speculative and sector-agnostic."
     },
     {
       "title": "VIC Partners Obtains Construction Loan for 268-Unit FW Workforce Rental Community",
@@ -92,12 +107,12 @@
       "cat": "Commercial",
       "date": "2026-08-24T16:28:17+00:00",
       "bullets": [
-        "VIC Partners finances 268-unit Vic Centre (Fort Worth Loop 820 corridor) with $36.5M + $48M joint construction loan.",
-        "OakNorth Bank & Hickory CRE Capital fund $41.7M project cost; M-13 Construction develops nine 3-story buildings.",
-        "Workforce-housing targeting outside Loop 820 indicates supply pressure in core FW and developer pivot to secondary corridors."
+        "VIC Partners secures $36.5M primary credit line (+ $48M joint facility with Hickory CRE) for Vic Centre, Fort Worth.",
+        "268-unit workforce-housing development at 7120 Anderson Blvd (north of I-30, outside Loop 820); $41.7M hard costs.",
+        "OakNorth and Hickory CRE provide construction debt; development by Vic Partners and M-13 Construction."
       ],
-      "summary": "VIC Partners and M-13 Construction secured $48 million in construction financing (OakNorth Bank and Hickory CRE Capital) for Vic Centre, a 268-unit workforce-housing development at 7120 Anderson Boulevard in Fort Worth outside Loop 820. The project cost is estimated at $41.7 million and will comprise nine three-story residential buildings with amenities including clubhouse, fitness center, and pickleball court.",
-      "impact": "Workforce housing construction in Fort Worth exurban/secondary locations signals reduced appetite for urban-core development—likely due to supply saturation in core FW submarkets and rent concessions. The 268-unit garden-style format outside Loop 820 suggests developers are targeting affordability-constrained renters in peripheral areas. This trend weakens urban submarket fundamentals and may extend absorption timelines; institutional capital flowing to secondary sites could reduce land values in prime FW corridors in the medium term."
+      "summary": "VIC Partners obtained a $36.5 million primary line of credit from OakNorth Bank as part of a $48 million joint financing facility (with Hickory CRE Capital) for Vic Centre, a 268-unit workforce-housing development in Fort Worth. The project, located at 7120 Anderson Boulevard north of I-30 and outside Loop 820, will feature nine three-story residential buildings with amenities and 402 parking spaces. Construction cost is estimated at $41.7 million.",
+      "impact": "Workforce-housing construction financing in Fortworth demonstrates lender appetite for affordable/workforce multifamily in secondary Texas metros; the project's location (outer Loop 820) signals developers' focus on expanding supply in suburban growth corridors where land and construction costs support workforce rents—expect continued supply concentration in north Fort Worth submarkets."
     },
     {
       "title": "W Properties Mixing BTR and Garden-Style Apartments in Melissa",
@@ -107,12 +122,12 @@
       "cat": "Commercial",
       "date": "2026-08-24T16:14:51+00:00",
       "bullets": [
-        "W Properties plans 252-unit garden-style community in Melissa (DFW suburbs), adjacent to existing 343-unit BTR.",
-        "Vertical start target: mid-2027; lease-up: early 2029 (18-month delay). TX permitting fell 50%+ from 2023 peak.",
-        "Developer explicitly timing garden-style for market normalization, expects 'materially different' supply environment by 2029."
+        "W Properties plans 252-unit garden-style community on 12 acres in Melissa, Texas adjacent to 343-unit BTR Everbloom.",
+        "Texas multifamily permitting down >50% from 2023 peak; DFW absorbing heavy pipeline; vertical start mid-2027.",
+        "Delayed timing (early 2029 lease-up) reflects developer conviction that supply pressure will ease; compressed permitting supports future rents."
       ],
-      "summary": "W Properties is developing a 252-unit garden-style multifamily community on 12 acres in Melissa, Texas, adjacent to its existing 343-unit build-to-rent community Everbloom. The developer plans to begin vertical construction in mid-2027 with leasing commencing in early 2029. W Properties acknowledged that Texas multifamily permitting across its five major metros has fallen more than 50% from its 2023 peak, and the company is intentionally timing the garden-style delivery for when supply pressure is expected to ease.",
-      "impact": "Critical signal: developer deliberately delaying lease-up to early 2029 to avoid today's concession environment and position for healthier absorption. Texas multifamily permitting collapse (down >50% YoY) confirms supply normalization is underway, but pipeline absorption will take 18–24 months. This suggests DFW rents will remain under pressure through 2027, cap rates may stay elevated, and only projects with strong equity cushions or long hold periods will pencil. Developers should prioritize land control in Melissa/North Dallas corridor ahead of 2027 construction starts, when demand recovery becomes visible."
+      "summary": "W Properties plans to develop a 252-unit garden-style multifamily community on approximately 12 acres in Melissa, Texas, adjacent to its 343-unit Everbloom build-to-rent community. The developer stated it would not have started a garden-style project in the current oversupplied environment and plans to break ground mid-2027, targeting early 2029 leasing. Texas multifamily permitting across its five major metros has fallen more than 50% from its 2023 peak, while Dallas–Fort Worth continues absorbing a substantial pipeline of apartments already under construction.",
+      "impact": "Sharp permitting decline (>50% year-over-year) and developer decision to delay garden-style starts until 2029 signal market inflection: elevated concessions and supply pressure are expected to clear by early 2029, suggesting DFW rents will recover and new starts will accelerate once existing pipeline stabilizes; developers should monitor Dallas–Fort Worth absorption metrics and concession trends closely through 2028 to time ground breaks for 2030+ leasing seasons."
     },
     {
       "title": "REITs Post Record High FFO in Q2 2026: Nareit",
@@ -122,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-08-24T16:12:20+00:00",
       "bullets": [
-        "Nareit: REITs posted record FFO ($22.4B, +12.4% YoY) and NOI ($32.7B, +6.8% YoY) in Q2 2026.",
-        "70%+ of REITs reported FFO gains; 80%+ reported NOI gains; same-store NOI +4.1% YoY, outpaced 3.5% inflation.",
-        "Strong occupancy & balance sheets amid 'ongoing economic uncertainty'; broad-based sector strength."
+        "Nareit reports REITs hit record FFO ($22.4B, +12.4% YoY) and NOI ($32.7B, +6.8% YoY) in Q2 2026.",
+        ">70% REITs posted FFO gains; ~80% posted NOI gains; same-store NOI +4.1% YoY (outpaced 3.5% inflation).",
+        "Strong balance sheets and occupancy gains underscore sector resilience; no sector-specific multifamily detail provided."
       ],
-      "summary": "REITs reported record-high funds from operations and net operating income in the second quarter of 2026, according to Nareit's Industry Tracker. FFO reached $22.4 billion, up 12.4% year-over-year, while NOI hit $32.7 billion, up 6.8%. More than 70% of REITs posted FFO increases and nearly 80% reported NOI gains. Same-store NOI grew 4.1% year-over-year, outpacing the 3.5% inflation rate, demonstrating operational resilience.",
-      "impact": "Macro validation of strong REIT fundamentals in 2026, signaling investor confidence and capital availability for multifamily operators and development. Record FFO/NOI and improving same-store metrics suggest rents are recovering, occupancy is climbing, and debt refinancing conditions are normalizing. This supports development underwriting assumptions in gateway/tier-1 markets and validates 2027–2028 lease-up timing for projects in healthy submarkets (e.g., Jersey City, Austin, DFW). However, broad gains mask regional variation; developers must stress-test against DFW concession environment and watch for slowdown in oversupplied markets."
+      "summary": "REITs posted record FFO of $22.4 billion (up 12.4% year-over-year) and NOI of $32.7 billion (up 6.8%) in Q2 2026, according to Nareit's Industry Tracker. Over 70% of REITs reported year-over-year FFO increases, while nearly 80% reported NOI gains. Same-store NOI grew 4.1% year-over-year, outpacing the 2.5% inflation rate and reflecting rising occupancy and strong operational performance.",
+      "impact": "Record REIT FFO and NOI growth, combined with robust balance sheets and occupancy gains, signals strong institutional capital availability and investor appetite for multifamily acquisitions and refinancings; for developers, this validates favorable debt and equity markets through 2027, supporting aggressive underwriting and acquisition timelines for development platforms seeking JV or equity partnerships with REIT sponsors."
     },
     {
       "title": "Mamdani Sets Sights on Fixing — Not Replacing — Deteriorating Section of BQE",
@@ -137,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-08-24T14:54:25+00:00",
       "bullets": [
-        "NYC DOT & Mayor Mamdani plan $4B BQE repair (not replacement) starting 2030; 10-year timeline.",
-        "Two-level bypass above Furman St. (Atlantic to Columbia Heights); second elevated bypass Columbia Heights to Manhattan Bridge.",
-        "Repair extends BQE life 40 years; represents major infrastructure commitment to Brooklyn waterfront access & viability."
+        "NYC DOT plans $4B BQE repair project (not replacement) starting 2030; estimated 10-year timeline.",
+        "Two-level bypass above Furman Street (Atlantic to Columbia Heights); second elevated bypass to Manhattan Bridge.",
+        "Infrastructure project carries indirect benefit to Brooklyn waterfront and heights multifamily via improved access/vitality."
       ],
-      "summary": "New York City Mayor Zohran Mamdani announced that the Department of Transportation will repair (rather than replace) the deteriorating cantilever section of the Brooklyn-Queens Expressway, with construction beginning in 2030 and expected to take 10 years at an estimated cost of $4 billion. The plan includes two-level bypasses above Furman Street and a second elevated section from Columbia Heights to the Manhattan Bridge, designed to extend the highway's life another 40 years.",
-      "impact": "Indirect but important for Brooklyn waterfront multifamily development. A decade-long BQE reconstruction starting 2030 will create construction chaos, noise, and access friction for Brooklyn Heights, Dumbo, and waterfront residential assets. Developers should avoid major lease-ups or Phase II projects directly adjacent to the BQE corridor during 2030–2040. However, the city's commitment to long-term BQE viability validates waterfront residential fundamentals and suggests Brooklyn will remain a desirable rental market; frontload construction now (2026–2029) to avoid 2030+ disruption."
+      "summary": "NYC Mayor Zohran Mamdani announced a $4 billion Department of Transportation plan to repair (rather than fully replace) the deteriorating cantilever section of the Brooklyn–Queens Expressway (BQE). The project includes two elevated bypasses to maintain neighborhood access and local attraction connectivity while rebuilding the freeway structure. Construction is estimated to begin in 2030 and take approximately 10 years, with the city projecting the repairs will extend the BQE's life another 40 years.",
+      "impact": "BQE infrastructure investment improves long-term accessibility and neighborhood vitality in Brooklyn Heights, DUMBO, and surrounding waterfront submarkets; however, the 2030–2040 construction timeline and extended project duration may create near-term traffic disruption and noise, potentially dampening multifamily leasing and rent growth in adjacent Brooklyn Heights and DUMBO through 2032, offsetting long-term infrastructure upside."
     },
     {
       "title": "Kinsmen Property Group Plans to Bring 322 New Homes to 156-166 Bowery",
@@ -152,27 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-24T14:47:22+00:00",
       "bullets": [
-        "Kinsmen Property Group plans 322 homes across 3 mixed-use towers at 156–166 Bowery (Nolita), Manhattan.",
-        "29-story building: 124 affordable senior units; two 26-story towers: 99 mixed-income units each + ground retail.",
-        "Land use app filed; ULURP review expected by end of year. Architects: Kohn Pedersen Fox, Beyer Blinder Belle."
+        "Kinsmen Property Group plans 322-unit mixed-income complex at 156–166 Bowery, Nolita (Manhattan); three towers.",
+        "29-story building (124 affordable senior units) + two 26-story buildings (99 mixed-income units each + retail); ULURP by EOY.",
+        "Manhattan Nolita micromarket adding significant supply; architects KPF and Beyer Blinder Belle; design/entitlement phase."
       ],
-      "summary": "Kinsmen Property Group filed a land use application to develop 322 homes across three mixed-use buildings on the Bowery in Manhattan's Nolita neighborhood, replacing 15,000 square feet of vacant structures. The project comprises a 29-story building with 124 affordable apartments for seniors, and two 26-story buildings with 99 mixed-income units each and ground-floor retail (3,260 and 4,391 square feet respectively). The project, designed by KPF and Beyer Blinder Belle, is expected to enter Uniform Land Use Review Procedure (ULURP) by year-end.",
-      "impact": "Signals continued institutional appetite for mixed-income, mixed-use multifamily in Manhattan's secondary neighborhoods (Nolita). The inclusion of 124 senior affordable units suggests affordability pressure or inclusionary zoning leverage in the application. Developers should monitor ULURP timing and approval contingencies; if approved, it validates Bowery/Nolita as developable corridor and may trigger land assemblies nearby. Affordable senior component may require LIHTC or HUD financing, adding complexity and timeline; not a pure market-rate play."
-    },
-    {
-      "title": "Circle Realty Secures 38K SF of New Leases at 14 Penn Plaza",
-      "link": "https://commercialobserver.com/2026/08/circle-realty-leases-14-penn-plaza-bohler-engineering/",
-      "excerpt": "Circle Realty Group has closed on 37,600 square feet of new leases in Midtown, Commercial Observer has learned. The two largest deals at 225 West 34th Street, also known as 14 Penn Plaza, were for civil engineering company Bohler Engineering, which expanded from 8,000 square feet to 14,000 square feet, and cybersecurity firm T&amp;M USA, which took 14,000 square feet, according to Circle Realty. Bohler signed a 10-year lease and asking rent in the building was $67 per square foot. The length of T&amp;M’s lease was unclear. “These tenants came to me because we’re at the center of transportation and we have a first-class property,” Circle Realty President Jay Futersak told CO. “Tenants know that what we promised is what we deliver.” Futersak represented his own firm in-house and both tenants in the deals. Smaller recent deals in the building were for accounting and advisory firm Calibre CPA Group, which signed a 10-year, 6,100-square-foot lease and is relocating from 462 Seventh Avenue. Mark Furst and Benjamin Saftler of Kaufman Leasing, the brokerage arm of the Kaufman Organization, handled the deal for the Washington, D.C.-based accounting firm and did not immediately comment. Meanwhile, discrimination law firm Fitapelli &amp; Schaffer is also relocating from 20 Liberty Street to 14 Penn with a new 3,514-square-foot lease. Robert Gallucci of Colliers negotiated on behalf of the law firm and did not immediately respond to a request for comment. Futersak repped ownership in-house in the Calibre and Fitapelli deals. Mark Hallum can be reached at mhallum@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-24T10:00:14+00:00",
-      "bullets": [
-        "Circle Realty leases 37.6K SF at 14 Penn Plaza (225 W 34th, Midtown) to Bohler Engineering & T&M USA.",
-        "Bohler expanded 8K to 14K SF (10-yr lease, $67/SF asking); T&M USA took 14K SF; Calibre CPA 6.1K SF.",
-        "Office leasing activity in Midtown reflects selective tenant demand for transit-accessible, Class-A assets."
-      ],
-      "summary": "Circle Realty Group closed 37,600 square feet of new leases at 14 Penn Plaza (225 West 34th Street) in Midtown Manhattan. Civil engineering firm Bohler Engineering expanded from 8,000 to 14,000 square feet on a 10-year lease at $67 per square foot, while cybersecurity firm T&M USA leased 14,000 square feet. Accounting firm Calibre CPA Group signed a 10-year, 6,100-square-foot lease. Circle Realty President Jay Futersak cited the building's transit access and first-class quality as drivers of tenant demand.",
-      "impact": "Minimal relevance to multifamily development. However, office leasing momentum at Midtown Class-A, transit-rich buildings signals selective recovery in NYC office—tech and professional services tenants remain viable. This may support residential demand from young professional renters in Manhattan and Gateway; conversely, if office continues to normalize, it could reduce local job density and rent growth in Midtown-adjacent residential markets. Multifamily developers should monitor office absorption trends in Midtown/Hudson Yards as leading indicators of wage/employment stability in NYC."
+      "summary": "Kinsmen Property Group filed a land use application with NYC Department of City Planning to develop 322 residential units across three mixed-use, mixed-income buildings at 156–166 Bowery in Manhattan's Nolita neighborhood. The project includes a 29-story building with 124 affordable apartments for seniors, a 26-story mixed-income tower with 99 units and 3,260 SF of retail, and another 26-story mixed-income building with 99 units and 4,391 SF of retail. The project, designed by Kohn Pedersen Fox and Beyer Blinder Belle, is expected to enter Uniform Land Use Review Procedure (ULURP) by year-end.",
+      "impact": "Nolita (lower Manhattan mixed-income/retail-heavy neighborhood) is absorbing 322 units of new supply spanning affordable-senior and market-rate segments; early-stage ULURP process (EOY entry, 2027+ delivery likely) means this supply will not compete for absorption until 2028–2029; monitor Nolita absorption and rental rate trends in comparable buildings to assess impact on nearby SoHo, Chinatown, and LES multifamily submarkets."
     }
   ]
 }
