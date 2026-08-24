@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-24T17:23:14.258172+00:00",
+  "fetchedAt": "2026-08-24T18:27:06.967715+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -9,21 +9,81 @@
     },
     {
       "label": "10Y Treasury",
-      "value": "4.69%",
-      "pct": -0.93
+      "value": "4.70%",
+      "pct": -0.84
     },
     {
       "label": "30Y Treasury",
-      "value": "5.22%",
-      "pct": -1.1
+      "value": "5.23%",
+      "pct": -0.91
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "98.75",
-      "pct": 0.25
+      "value": "98.77",
+      "pct": 0.27
     }
   ],
   "stories": [
+    {
+      "title": "East Harlem Housing Proposal on City-Owned Lot Expands to 762 Units",
+      "link": "https://commercialobserver.com/2026/08/housing-22-east-119th-street-harlem/",
+      "excerpt": "An affordable and supportive housing complex slated for a city-owned site in Manhattan’s East Harlem neighborhood just got 62 units larger. The New York City Department of Housing Preservation and Development (HPD) submitted plans on Friday to rezone the city block surrounding 22 East 119th Street. The requested amendments will facilitate a housing project spanning three buildings with a total of 762 units. PincusCo first reported on the filing. The site is currently occupied by a six-story, 174-unit single room occupancy building where Volunteers of America–Greater New York hosts supportive housing for formerly homeless, single adults, many of whom are veterans. In accordance with a city policy that avoids “spot zoning” individual tax lots, the rezoning proposal would impact the entire East Harlem block, bounded by East 118th and East 119th streets, between Madison and Fifth avenues. In addition to the site’s designation as an urban renewal area and the disposition of city-owned property, HPD’s requested amendments would label the block as a Mandatory Inclusionary Housing area, ensuring affordable housing will be a part of any future redevelopments of the block’s privately owned buildings. A prior iteration of the project, sponsored by nonprofit Volunteers of America–Greater New York, planned 700 units across two buildings. Those included a 23-story supportive housing tower and a 25-story affordable housing tower. Plans also incorporated community space and commercial facilities for the nonprofit, with funding sought through HPD and the New York City Housing Development Corporation. Land use documents accompanying the newest proposal at 22 East 119th Street are not currently available. The change in site plans, and how surrounding buildings or project timelines will be impacted, is unclear. Spokespeople for HPD and Volunteers of America–Greater New York did not immediately respond to requests for comment on the new filing. The 762-unit project is a short walk from ",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-24T18:17:32+00:00",
+      "bullets": [
+        "NYC HPD rezones East Harlem block for 762-unit affordable/supportive housing at 22 E. 119th St.",
+        "Project replaces 174-unit SRO; expands by 62 units via city block rezoning to avoid spot-zoning.",
+        "Affordable + supportive mix targets formerly homeless adults; preserves existing resident base."
+      ],
+      "summary": "New York City's Department of Housing Preservation and Development filed plans to rezone an East Harlem block bounded by East 118th–119th Streets and Madison–Fifth Avenues to enable a 762-unit affordable and supportive housing complex at 22 East 119th Street. The project will demolish the existing 174-unit SRO and replace it with three buildings. The rezoning strategy applies to the entire block to comply with city policy against spot-zoning individual tax lots.",
+      "impact": "Limited relevance to private multifamily development. This is public/non-profit affordable housing on city-owned land, competing for subsidy and financing outside market-rate underwriting. However, it signals sustained government commitment to affordable supply in Manhattan, which may pressure private developers in East Harlem to include affordability components or face entitlement friction. Watch for inclusionary zoning tightening in the submarket."
+    },
+    {
+      "title": "Green Point Building 754K-SF Georgetown Spec Warehouse",
+      "link": "https://www.connectcre.com/stories/green-point-building-754k-sf-georgetown-spec-warehouse/",
+      "excerpt": "Green Point Property plans to build a 754,000-square-foot spec building in Georgetown that could eventually have 3 million square feet of industrial space. It’s in the GTX Logistics Park at 1000 FM 972 The building costs are estimated at $42 million for the concrete tilt-wall warehouse shell that is scheduled to begin construction in October and be completed in November 2027. The Austin Business Journal reports the GTX Logistics Park is marketing 2.6 million square feet left on the 180 acres it still owns. Colliers International Group Inc.&#8217;s Travis Hicks and Chase Clancy handle leasing at the site. Georgetown is about 30 miles north of Austin with a population of nearly 107,000 people. Gree Point says its focus is on high-growth markets throughout Texas and the Southeastern US to acquire and develop industrial properties. Green Point’s team has 40 years of combined real estate investment experience and collectively has acquired, developed and managed real estate assets exceeding $3 billion across the United States. The post Green Point Building 754K-SF Georgetown Spec Warehouse appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-24T17:34:56+00:00",
+      "bullets": [
+        "Green Point Property breaks ground Oct. 2024 on 754K-SF spec warehouse in Georgetown, TX (near Austin).",
+        "Building cost $42M; part of 180-acre GTX Logistics Park with 2.6M SF remaining available.",
+        "Georgetown (30 mi. N of Austin) population 107K; Green Point targets high-growth TX & SE markets."
+      ],
+      "summary": "Green Point Property is constructing a 754,000-square-foot spec industrial warehouse at GTX Logistics Park in Georgetown, Texas, with an estimated cost of $42 million and completion slated for November 2027. The broader park spans 180 acres with 2.6 million square feet of leasing opportunity remaining. Green Point, which has acquired and developed over $3 billion in real estate assets, focuses on high-growth markets across Texas and the Southeast.",
+      "impact": "Minimal relevance to multifamily. Industrial spec development in Austin exurbs reflects logistics demand but does not directly affect apartment supply, demand, or capital allocation. However, continued industrial/logistics growth in Georgetown may support population and wage growth in outlying TX markets, potentially feeding demand for workforce housing in secondary submarkets; monitor for spillover demand into Fort Worth and surrounding rental markets."
+    },
+    {
+      "title": "Truist Lends $277M on Jersey City Multifamily Tower Build",
+      "link": "https://commercialobserver.com/2026/08/truist-jersey-city-apartments/",
+      "excerpt": "A joint venture between Rockpoint and Urby has secured $277 million of construction financing to develop the second phase of a multifamily tower in Jersey City, Commercial Observer has learned. Truist provided the loan for the sponsorship&#8217;s 748-unit 201 Hudson – by Urby project along the Jersey City waterfront. Rockpoint and Ubry joined forces to acquire land at 201 Hudson Street for the project in July, CO first reported at the time. “This financing reflects Truist’s continued commitment to supporting premier sponsors pursuing transformative multifamily developments in high-growth urban markets,” said Rebecca M. Cox, senior vice president and market manager at Truist National Real Estate. The transaction was led by Katie Kennedy, Northeast market leader at Truist, with Walt Reece, a director of real estate syndicated finance at Truist Securities, leading the syndication, according to the firm. Newmark negotiated the debt with a team consisting of Jordan Roeschlaub, Chris Kramer, Holden Witkoff and Jack Fenton. The brokerage firm also advised the joint venture partners on the joint venture capitalization with a team composed of Adam Spies, Adam Doneger and Michael Collins. Located in Jersey City&#8217;s Paulus Hook neighborhood, 201 Hudson – by Urby marks the second phase of a 69-story tower that will include 528,000 rentable square feet and 10,000 square feet of ground-floor retail space. Community amenities will include a pool, a fitness center and coworking spaces. Rockpoint, Urby and Newmark did not immediately return requests for comment. Andrew Coen can be reached at acoen@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-24T17:25:03+00:00",
+      "bullets": [
+        "Truist funds $277M construction loan for Rockpoint/Urby 201 Hudson — 748-unit waterfront tower, Jersey City.",
+        "Joint venture acquired land July; Truist syndicated debt through Walt Reece (Truist Securities).",
+        "Urban waterfront multifamily in Gateway market signals capital appetite for Northeast high-density development."
+      ],
+      "summary": "Rockpoint and Urby secured $277 million of construction financing from Truist for 201 Hudson—a 748-unit multifamily tower in Jersey City's waterfront district. The joint venture acquired the land in July and is now moving into construction. Truist's Katie Kennedy led the deal, with syndication managed by Truist Securities, signaling strong lender confidence in the sponsor team and the project location.",
+      "impact": "Confirms robust capital availability for waterfront multifamily in Jersey City, a high-demand Gateway submarket with constrained land supply and strong renter migration from NYC. $277M construction debt on 748 units (~$370K per unit) reflects disciplined underwriting and active conduit lending. This reinforces Jersey City's status as a magnet for institutional capital and suggests developers should accelerate land acquisition in remaining waterfront and near-water parcels before cap rates compress further."
+    },
+    {
+      "title": "Houston Office Building Owners Ink $250M Refi",
+      "link": "https://www.connectcre.com/stories/houston-office-building-owners-ink-250m-refi/",
+      "excerpt": "PRP Real Assets and Riyad Capital secured a $250 million CMBS loan to refinance 777 Hidden Ridge, a 1.1 million-square-foot office property in Irving, Texas. Commercial Search reports that Bank of America originated the two-year, interest-only note with three one-year extension options. Previous debt includes a $253.8 million note issued by Citizens Financial Group in 2019, set to mature in 2029. KDC and Verizon completed the building in 2019, developed on a build-to-suit basis for Pioneer Natural Resources USA Inc. That same year, PRP and Riyad acquired the asset. Pioneer had inked a 20-year, triple-net lease set to run until 2039. The agreement has no early termination and no contractual rights for the remainder of the term. Pioneer has since left the building, but must fulfill the lease obligations. Pioneer is looking to sublease the space. The 10-story building has amenities such as a conference center, gym, coffee shop, on-site childcare, medical clinic and six-story parking garage with 2,569 spaces. The post Houston Office Building Owners Ink $250M Refi appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-24T17:18:47+00:00",
+      "bullets": [
+        "PRP Real Assets & Riyad Capital refinance 1.1M-SF Irving office tower (777 Hidden Ridge) with $250M CMBS.",
+        "Bank of America originated 2-yr IO note; Pioneer Natural Resources tenant departed but remains liable on 20-yr lease through 2039.",
+        "Pioneer actively subletting; demonstrates office distress & sponsor leverage in energy-tenant dominated Irving market."
+      ],
+      "summary": "PRP Real Assets and Riyad Capital secured a $250 million CMBS refinance for 777 Hidden Ridge, a 1.1 million-square-foot office building in Irving, Texas. Bank of America provided a two-year interest-only note with three one-year extension options, replacing a 2019 Citizens Financial loan. The asset was developed in 2019 as a build-to-suit for Pioneer Natural Resources USA under a 20-year triple-net lease; Pioneer has since vacated but remains obligated through 2039 and is attempting to sublease the space.",
+      "impact": "Illustrates office sector stress in Texas energy hubs and refinancing pressure as triple-net anchors default on occupancy. However, not directly material to multifamily development. Monitor Irving/Dallas office weakness as signal of regional employment volatility—energy sector layoffs could suppress wage growth and renter creditworthiness in DFW metro, pressuring rent growth even in healthy apartment corridors."
+    },
     {
       "title": "VIC Partners Obtains Construction Loan for 268-Unit FW Workforce Rental Community",
       "link": "https://www.connectcre.com/stories/vic-partners-obtains-construction-loan-for-268-unit-fw-workforce-rental-community/",
@@ -32,12 +92,12 @@
       "cat": "Commercial",
       "date": "2026-08-24T16:28:17+00:00",
       "bullets": [
-        "VIC Partners closes $48M construction financing (OakNorth + Hickory CRE) for 268-unit workforce rental in Fort Worth",
-        "Vic Centre at 7120 Anderson Blvd; $41.7M total development cost; nine 3-story buildings north of I-30",
-        "Workforce housing focus signals continued demand for affordable multifamily outside Loop 820 corridor"
+        "VIC Partners finances 268-unit Vic Centre (Fort Worth Loop 820 corridor) with $36.5M + $48M joint construction loan.",
+        "OakNorth Bank & Hickory CRE Capital fund $41.7M project cost; M-13 Construction develops nine 3-story buildings.",
+        "Workforce-housing targeting outside Loop 820 indicates supply pressure in core FW and developer pivot to secondary corridors."
       ],
-      "summary": "VIC Partners and M-13 Construction obtained a $48 million joint construction loan from OakNorth Bank and Hickory CRE Capital (arranged by Concord Summit Capital) for Vic Centre, a 268-unit workforce-housing community on Anderson Boulevard in Fort Worth north of I-30. Total development cost is $41.7 million. The project includes nine three-story residential buildings, amenities (clubhouse, fitness center, pickleball court, business center), and 402 parking spaces.",
-      "impact": "Workforce housing at moderately elevated rents remains financeable and attractive to institutional lenders in Fort Worth's suburban rings, where land and labor costs support value-add underwriting. This signals sustained demand for B/B+ product outside prime corridors as workforce migration to DFW continues to outpace high-amenity core supply absorption."
+      "summary": "VIC Partners and M-13 Construction secured $48 million in construction financing (OakNorth Bank and Hickory CRE Capital) for Vic Centre, a 268-unit workforce-housing development at 7120 Anderson Boulevard in Fort Worth outside Loop 820. The project cost is estimated at $41.7 million and will comprise nine three-story residential buildings with amenities including clubhouse, fitness center, and pickleball court.",
+      "impact": "Workforce housing construction in Fort Worth exurban/secondary locations signals reduced appetite for urban-core development—likely due to supply saturation in core FW submarkets and rent concessions. The 268-unit garden-style format outside Loop 820 suggests developers are targeting affordability-constrained renters in peripheral areas. This trend weakens urban submarket fundamentals and may extend absorption timelines; institutional capital flowing to secondary sites could reduce land values in prime FW corridors in the medium term."
     },
     {
       "title": "W Properties Mixing BTR and Garden-Style Apartments in Melissa",
@@ -47,12 +107,12 @@
       "cat": "Commercial",
       "date": "2026-08-24T16:14:51+00:00",
       "bullets": [
-        "W Properties begins garden-style 252-unit project adjacent to 343-unit BTR community in Melissa, Texas",
-        "DFW multifamily permitting down >50% from 2023 peak; developer deliberately delays leasing to early 2029",
-        "Acknowledges current elevated supply/concessions in North Texas; expects material market reset by project delivery"
+        "W Properties plans 252-unit garden-style community in Melissa (DFW suburbs), adjacent to existing 343-unit BTR.",
+        "Vertical start target: mid-2027; lease-up: early 2029 (18-month delay). TX permitting fell 50%+ from 2023 peak.",
+        "Developer explicitly timing garden-style for market normalization, expects 'materially different' supply environment by 2029."
       ],
-      "summary": "W Properties is planning a 252-unit garden-style multifamily community on approximately 12 acres in Melissa, Texas, adjacent to its existing 343-unit build-to-rent (BTR) community Everbloom. The developer explicitly stated it would not have started the garden-style project in the current environment and is timing vertical construction for mid-2027 to position the community for a leasing season in early 2029, betting that supply pressures will have materially diminished by then. Texas multifamily permitting has fallen more than 50% from its 2023 peak.",
-      "impact": "DFW's supply correction is real but incomplete: even aggressive, well-capitalized developers are explicitly timing delivery 2–3 years out to avoid today's concession environment. This signals that despite declining permits, near-term absorption will remain challenged in Dallas-Fort Worth. Underwriting windows for garden-style (vs. BTR) will remain compressed through 2027–28 unless significant job growth or population migration accelerates demand."
+      "summary": "W Properties is developing a 252-unit garden-style multifamily community on 12 acres in Melissa, Texas, adjacent to its existing 343-unit build-to-rent community Everbloom. The developer plans to begin vertical construction in mid-2027 with leasing commencing in early 2029. W Properties acknowledged that Texas multifamily permitting across its five major metros has fallen more than 50% from its 2023 peak, and the company is intentionally timing the garden-style delivery for when supply pressure is expected to ease.",
+      "impact": "Critical signal: developer deliberately delaying lease-up to early 2029 to avoid today's concession environment and position for healthier absorption. Texas multifamily permitting collapse (down >50% YoY) confirms supply normalization is underway, but pipeline absorption will take 18–24 months. This suggests DFW rents will remain under pressure through 2027, cap rates may stay elevated, and only projects with strong equity cushions or long hold periods will pencil. Developers should prioritize land control in Melissa/North Dallas corridor ahead of 2027 construction starts, when demand recovery becomes visible."
     },
     {
       "title": "REITs Post Record High FFO in Q2 2026: Nareit",
@@ -62,42 +122,12 @@
       "cat": "Commercial",
       "date": "2026-08-24T16:12:20+00:00",
       "bullets": [
-        "REITs posted Q2 2026 FFO of $22.4B (+12.4% Y-O-Y); NOI reached $32.7B (+6.8% Y-O-Y)",
-        ">70% of REITs increased FFO Y-O-Y; ~80% increased NOI; same-store NOI +4.1% Y-O-Y vs. 3.5% inflation",
-        "Strong occupancy and balance sheets driving sector resilience despite broader economic uncertainty"
+        "Nareit: REITs posted record FFO ($22.4B, +12.4% YoY) and NOI ($32.7B, +6.8% YoY) in Q2 2026.",
+        "70%+ of REITs reported FFO gains; 80%+ reported NOI gains; same-store NOI +4.1% YoY, outpaced 3.5% inflation.",
+        "Strong occupancy & balance sheets amid 'ongoing economic uncertainty'; broad-based sector strength."
       ],
-      "summary": "The REIT industry posted record highs for funds from operations and net operating income in Q2 2026. FFO reached $22.4 billion, up 12.4% year-over-year, while NOI hit $32.7 billion, up 6.8%. More than 70% of REITs reported Y-O-Y FFO growth and nearly 80% reported Y-O-Y NOI growth. Same-store NOI grew 4.1% Y-O-Y, outpacing inflation (3.5%), driven by rising occupancy and robust balance sheets.",
-      "impact": "Strong REIT earnings and balance sheets support continued capital availability for multifamily development and acquisition, but the 4.1% same-store NOI growth suggests sector-wide rent growth is moderating toward single digits. This limits return expectations for new development unless located in high-demand submarkets with structural supply constraints or strong in-migration tailwinds."
-    },
-    {
-      "title": "Downtown Phoenix Luxury Hotel to Debut September 16",
-      "link": "https://www.connectcre.com/stories/downtown-phoenix-luxury-hotel-to-debut-september-16/",
-      "excerpt": "Pacific Hospitality Group (PHG) is taking reservations for its latest hotel, the Denu Hotel &amp; Spa in downtown Phoenix. The 236-room hotel is at 1 E. Adams Street in downtown Phoenix in a newly constructed 17-story building. Features include the Hammam-inspired spa, the Solstone Holistic Spa offers thermal rituals and immersive treatments; a fitness and wellbeing program; a rooftop pool with sweeping city views; and versatile meeting and event spaces designed to accommodate everything from corporate gatherings to celebratory social occasions. Denū is located steps from major transportation hubs, the convention center and the city’s arts, culture, sports and entertainment venues. A lobby-level restaurant and lounge, café and rooftop bar complete the experience. PHG operates both branded and independent resort properties. The company manages, develops, finances, and owns hotels and resorts in California, Hawaii, Arizona and Texas. PHG currently owns and manages 11 hotels and resorts, representing over 2,463 rooms and 185,791 square feet of indoor meeting and event space. The post Downtown Phoenix Luxury Hotel to Debut September 16 appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-24T15:30:42+00:00",
-      "bullets": [
-        "Pacific Hospitality Group opens 236-room Denū Hotel & Spa in downtown Phoenix (September 16, 2026)",
-        "17-story building at 1 E. Adams Street; spa, rooftop pool, meeting space, restaurant/lounge/café/bar",
-        "Hospitality rebound in Phoenix core; likely signals confidence in convention/leisure travel demand recovery"
-      ],
-      "summary": "Pacific Hospitality Group is opening Denū Hotel & Spa, a 236-room luxury hotel in a newly constructed 17-story building at 1 E. Adams Street in downtown Phoenix, opening September 16, 2026. The hotel features a Hammam-inspired spa, rooftop pool, fitness programs, and flexible meeting and event spaces, positioned near the convention center and entertainment districts. PHG operates 11 properties across the Southwest.",
-      "impact": "Limited direct impact to multifamily development. However, downtown Phoenix hospitality investment signals confidence in the core's recovery and visitor demand, which can drive ancillary multifamily demand from hospitality workers and service-sector job growth in the urban center—particularly relevant if PHG's expansion correlates with broader corporate/tourism migration to Phoenix."
-    },
-    {
-      "title": "ALDI Reveals Westward Expansion",
-      "link": "https://www.connectcre.com/stories/aldi-reveals-westward-expansion/",
-      "excerpt": "As ALDI enters its 50th year in the United States, the low-price grocer is doubling down on its nationwide expansion, announcing plans to open more than 180 stores by the end of 2026. ALDI is announcing expansion plans into the state of Colorado within the next five years, with more than 50 stores planned for Denver and Colorado Springs. As ALDI continues its westward expansion, the grocer will open 10 new stores in the Phoenix market in 2026 and plans to add a total of 40 new stores by the end of 2030. After debuting four stores in 2025, the grocer will continue to deepen its presence in the growing market with plans to double its current store count by 2030. Additionally, the chain will open two distribution centers in the SW, one in Goodyear, Arizona (projected 2028)and the other in Aurora, Colorado (projected 2029) The post ALDI Reveals Westward Expansion appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-24T15:05:08+00:00",
-      "bullets": [
-        "ALDI announces westward expansion: 180+ stores by end of 2026; 50+ in Denver/Colorado Springs by 2031",
-        "Phoenix: 10 new stores in 2026, 40 total by 2030; two distribution centers (Goodyear 2028, Aurora 2029)",
-        "Major grocer footprint expansion signals population/household growth and retail-anchored development opportunities"
-      ],
-      "summary": "ALDI announced plans to open more than 180 stores by the end of 2026, including expansion into Colorado (50+ stores in Denver and Colorado Springs within five years) and significant growth in the Phoenix market (10 new stores in 2026, 40 by 2030). The grocer will also build two distribution centers: one in Goodyear, Arizona (2028) and one in Aurora, Colorado (2029).",
-      "impact": "Grocery-anchored mixed-use and suburban multifamily development in Phoenix and Denver metros will see accelerated retail density and neighborhood formation, supporting both renter demand and asset velocity. ALDI's distribution center buildout in Goodyear and Aurora signals inbound logistics job creation, which drives workforce housing demand in those submarkets. This de facto confirms sustained Western population and household formation, validating long-cycle multifamily underwriting in these markets through 2028–2030."
+      "summary": "REITs reported record-high funds from operations and net operating income in the second quarter of 2026, according to Nareit's Industry Tracker. FFO reached $22.4 billion, up 12.4% year-over-year, while NOI hit $32.7 billion, up 6.8%. More than 70% of REITs posted FFO increases and nearly 80% reported NOI gains. Same-store NOI grew 4.1% year-over-year, outpacing the 3.5% inflation rate, demonstrating operational resilience.",
+      "impact": "Macro validation of strong REIT fundamentals in 2026, signaling investor confidence and capital availability for multifamily operators and development. Record FFO/NOI and improving same-store metrics suggest rents are recovering, occupancy is climbing, and debt refinancing conditions are normalizing. This supports development underwriting assumptions in gateway/tier-1 markets and validates 2027–2028 lease-up timing for projects in healthy submarkets (e.g., Jersey City, Austin, DFW). However, broad gains mask regional variation; developers must stress-test against DFW concession environment and watch for slowdown in oversupplied markets."
     },
     {
       "title": "Mamdani Sets Sights on Fixing — Not Replacing — Deteriorating Section of BQE",
@@ -107,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-08-24T14:54:25+00:00",
       "bullets": [
-        "NYC DOT plans $4B repair (not replacement) of Brooklyn-Queens Expressway cantilever; construction starts 2030, 10-year timeline",
-        "Proposed two-level bypass above Furman Street; project extends BQE life another 40 years",
-        "Long-term infrastructure commitment reduces near-term neighborhood disruption risk for Brooklyn Heights/Nolita multifamily development"
+        "NYC DOT & Mayor Mamdani plan $4B BQE repair (not replacement) starting 2030; 10-year timeline.",
+        "Two-level bypass above Furman St. (Atlantic to Columbia Heights); second elevated bypass Columbia Heights to Manhattan Bridge.",
+        "Repair extends BQE life 40 years; represents major infrastructure commitment to Brooklyn waterfront access & viability."
       ],
-      "summary": "Mayor Zohran Mamdani's administration announced Monday that the NYC Department of Transportation would repair (rather than replace) the deteriorating cantilever section of the Brooklyn-Queens Expressway along Brooklyn Heights. The estimated $4 billion project will build two-level bypasses above Furman Street from Atlantic Avenue to Columbia Heights and a second elevated bypass to the Manhattan Bridge. Construction is slated to begin in 2030 with a 10-year timeline, extending the BQE's life another 40 years.",
-      "impact": "This is primarily a transportation/infrastructure story. However, for Brooklyn Heights and DUMBO-adjacent multifamily developers, the 2030 start date and 10-year construction timeline significantly reduce near-term neighborhood disruption risk (noise, air quality, construction traffic) compared to the sword-of-Damocles of accelerated BQE failure. Developers can proceed with moderate confidence in the stability of the Brooklyn waterfront submarket through 2027–2029 lease-ups."
+      "summary": "New York City Mayor Zohran Mamdani announced that the Department of Transportation will repair (rather than replace) the deteriorating cantilever section of the Brooklyn-Queens Expressway, with construction beginning in 2030 and expected to take 10 years at an estimated cost of $4 billion. The plan includes two-level bypasses above Furman Street and a second elevated section from Columbia Heights to the Manhattan Bridge, designed to extend the highway's life another 40 years.",
+      "impact": "Indirect but important for Brooklyn waterfront multifamily development. A decade-long BQE reconstruction starting 2030 will create construction chaos, noise, and access friction for Brooklyn Heights, Dumbo, and waterfront residential assets. Developers should avoid major lease-ups or Phase II projects directly adjacent to the BQE corridor during 2030–2040. However, the city's commitment to long-term BQE viability validates waterfront residential fundamentals and suggests Brooklyn will remain a desirable rental market; frontload construction now (2026–2029) to avoid 2030+ disruption."
     },
     {
       "title": "Kinsmen Property Group Plans to Bring 322 New Homes to 156-166 Bowery",
@@ -122,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-08-24T14:47:22+00:00",
       "bullets": [
-        "Kinsmen Property Group plans 322-unit mixed-use, mixed-income project at 156-166 Bowery (Nolita, Manhattan)",
-        "Three buildings: 29-story (124 senior affordable), 26-story + 26-story (99 units each); ground-floor retail; ULURP by year-end",
-        "High-density infill development with 40% of units as senior affordable reflects NYC zoning/subsidy alignment"
+        "Kinsmen Property Group plans 322 homes across 3 mixed-use towers at 156–166 Bowery (Nolita), Manhattan.",
+        "29-story building: 124 affordable senior units; two 26-story towers: 99 mixed-income units each + ground retail.",
+        "Land use app filed; ULURP review expected by end of year. Architects: Kohn Pedersen Fox, Beyer Blinder Belle."
       ],
-      "summary": "Kinsmen Property Group filed a land use application to develop 322 homes across three mixed-use buildings at 156-166 Bowery in Manhattan's Nolita neighborhood. The project includes a 29-story building with 124 affordable apartments for seniors; two 26-story buildings with 99 mixed-income units each and 3,260 and 4,391 square feet of ground-floor retail, respectively. Designed by Kohn Pedersen Fox and Beyer Blinder Belle, the project is expected to enter ULURP (Uniform Land Use Review Procedure) by year-end 2026.",
-      "impact": "Heavy skew toward senior affordable housing (38% of units) indicates developer reliance on NYC subsidy programs (likely 421-a or similar) to underwrite Nolita's elevated land costs. This signals continued density/entitlement competition in lower Manhattan and reliance on affordable housing mandates to close economics. Market-rate developers should anticipate further affordability requirements and longer entitlement timelines in Manhattan core submarkets."
+      "summary": "Kinsmen Property Group filed a land use application to develop 322 homes across three mixed-use buildings on the Bowery in Manhattan's Nolita neighborhood, replacing 15,000 square feet of vacant structures. The project comprises a 29-story building with 124 affordable apartments for seniors, and two 26-story buildings with 99 mixed-income units each and ground-floor retail (3,260 and 4,391 square feet respectively). The project, designed by KPF and Beyer Blinder Belle, is expected to enter Uniform Land Use Review Procedure (ULURP) by year-end.",
+      "impact": "Signals continued institutional appetite for mixed-income, mixed-use multifamily in Manhattan's secondary neighborhoods (Nolita). The inclusion of 124 senior affordable units suggests affordability pressure or inclusionary zoning leverage in the application. Developers should monitor ULURP timing and approval contingencies; if approved, it validates Bowery/Nolita as developable corridor and may trigger land assemblies nearby. Affordable senior component may require LIHTC or HUD financing, adding complexity and timeline; not a pure market-rate play."
     },
     {
       "title": "Circle Realty Secures 38K SF of New Leases at 14 Penn Plaza",
@@ -137,42 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-24T10:00:14+00:00",
       "bullets": [
-        "Circle Realty closes 37,600 SF office leases at 14 Penn Plaza (225 W 34th St) in Midtown Manhattan",
-        "Bohler Engineering expanded 8K to 14K SF (10-yr, $67/SF); T&M USA took 14K SF; other smaller tenants",
-        "Midtown office leasing resumes despite broader NYC office headwinds; transit-proximate property remains competitive"
+        "Circle Realty leases 37.6K SF at 14 Penn Plaza (225 W 34th, Midtown) to Bohler Engineering & T&M USA.",
+        "Bohler expanded 8K to 14K SF (10-yr lease, $67/SF asking); T&M USA took 14K SF; Calibre CPA 6.1K SF.",
+        "Office leasing activity in Midtown reflects selective tenant demand for transit-accessible, Class-A assets."
       ],
-      "summary": "Circle Realty Group closed 37,600 square feet of new leases at 14 Penn Plaza (225 West 34th Street) in Midtown Manhattan. Major tenants included civil engineering firm Bohler Engineering, which expanded from 8,000 to 14,000 square feet on a 10-year lease at $67 per square foot, and cybersecurity firm T&M USA, which leased 14,000 square feet. Smaller tenants included accounting firm Calibre CPA Group.",
-      "impact": "Minimal direct impact to multifamily. However, leasing activity at transit-proximate Midtown office buildings signals selective tenant demand recovery in New York, which supports white-collar job retention and confidence in the Manhattan market. This indirectly validates near-term demand for Midtown-adjacent and East Side multifamily product targeting office workers."
-    },
-    {
-      "title": "Sunday Summary: Who’s Funding $1.3 Trillion in Data Center Spending?",
-      "link": "https://commercialobserver.com/2026/08/sunday-summary-whos-funding-1-3-trillion-in-data-center-spending/",
-      "excerpt": "Pluck your average Commercial Observer journalist off the street, shove them in a van, shine a flashlight in their eyes, and say, “Quick — what’s the biggest story in commercial real estate?” nine reporters out of 10 will answer: “Data centers.” At least that’s the case in 2026 after the billions and billions of dollars in investment that have been lavished on the sector. Actually, make that trillion — with a “t.” It’s still a sector that’s largely mysterious and unknown (even the vocabulary of the asset class is new!) so CO was excited last week when San Diego-based Atrium, an AI analytics firm, launched an interactive data platform called “Who Finances America’s Data Centers,” which tracks the money behind the $1.3 trillion (and counting) data center bonanza. What makes Atrium’s platform so fascinating is that it delves into the nitty gritty of individual deals like Coreweave’s $23 billion debt facility from 38 different lenders, and the 24 lenders financing DigitalBridge and IFM’s $20 billion debt facility — but at the same time it examines the breadth of activity of non-bank lenders like PIMCO (which has done $23 billion in originations), or borrowers like Amazon, Microsoft, Google, Meta and Oracle (five firms that alone account for $223 billion in long-term debt and credit facilities). All this data center activity comes as construction costs have been on the rise. Construction might have slowed down in other sectors, but the explosive growth of data centers has seemingly made up for it, at least according to a recent report from Skanska. “The market is hot and cold right now — hot and warm may be a better way to say it — so what stands out is that we’re seeing a lot of project activity around data centers, semiconductor, life sciences,” said Skanska’s Tom Park. “There’s really a lot of unprecedented demand in the mechanical, electrical, plumbing and steel space driving up lead times and cost.” Moreover, the companies that rely on the proliferation of data cent",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-23T13:00:21+00:00",
-      "bullets": [
-        "Atrium launches data platform tracking $1.3T in U.S. data center investments; reveals 38+ lenders in Coreweave's $23B deal",
-        "PIMCO, DigitalBridge, Amazon, Microsoft, Google, Meta, Oracle dominate origination and borrowing",
-        "Non-bank lenders pivoting aggressively to data center debt; capital formation increasingly fragmented and specialized"
-      ],
-      "summary": "San Diego-based Atrium, an AI analytics firm, launched an interactive data platform called \"Who Finances America's Data Centers\" that tracks funding behind the $1.3 trillion data center boom. The platform reveals granular deal-level structures, including Coreweave's $23 billion debt facility from 38 different lenders and DigitalBridge and IFM's $20 billion facility from 24 lenders, while documenting non-bank lenders like PIMCO ($23 billion in originations) and major borrowers including Amazon, Microsoft, Google, Meta, and Oracle.",
-      "impact": "Tangential to multifamily but signals massive capital reallocation away from traditional real estate into AI/compute infrastructure. Elevated data center financing costs and non-bank lender specialization may reduce available capital and increase cost of capital for other property types, including multifamily. Developers competing for leverage should monitor data center debt appetite as a leading indicator of broader credit market tightness."
-    },
-    {
-      "title": "CoStar Closes $800M Cash Acquisition of New-Home Platform Zonda",
-      "link": "https://commercialobserver.com/2026/08/costar-zonda/",
-      "excerpt": "CoStar Group, a leading provider of online real estate marketplaces, information, analytics and 3D digital twin technology, announced that it has completed its acquisition of Zonda, a new home-construction data, homebuilder software and residential real estate marketplace platform, for $800 million in cash. Zonda’s platform of proprietary lot-level construction and development data, which serves more than 3,000 homebuilders, developers, lenders and suppliers, gives CoStar a foothold in the $400 billion annual U.S. new-home sales market, according to the CoStar announcement. Based in Washington, D.C., Zonda generated approximately $170 million in revenue in 2025. CoStar’s acquisition of the platform was first announced in May. “Zonda has built an exceptional business around information the homebuilding industry relies on every day,” Andy Florance, founder and CEO of CoStar, said in announcing the deal’s closing. “This is a massive market with a sophisticated group of builders, developers, lenders, investors and suppliers that need purpose-built information, analytics and marketing solutions. With the acquisition now complete, we have the opportunity to bring together Zonda’s proprietary new construction data, software and builder relationships with CoStar Group’s technology, analytics and marketplace capabilities.” The deal provides Arlington, Va.-based CoStar with new-home data and analytics from Zonda, which tracks new-home communities, land development, construction activity, home sales and builder operations at the lot level. In addition, Zonda-owned residential marketplaces NewHomeSource.com and Livabl join CoStar’s portfolio, expanding its consumer marketplace business specifically into new construction. CoStar also said it plans to explore combining Zonda’s Envision visualization platform with CoStar’s Matterport’s spatial technology to create richer digital home-shopping experiences. &#8220;For decades, Zonda has earned the trust of the homebuilding industry ",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-21T17:47:49+00:00",
-      "bullets": [
-        "CoStar closes $800M cash acquisition of Zonda; gains access to 3,000+ homebuilders and lot-level development data",
-        "Zonda 2025 revenue ~$170M; Zonda addresses $400B annual U.S. new-home sales market",
-        "Data consolidation in homebuilding/new construction signals strategic shift toward integrated real estate platforms"
-      ],
-      "summary": "CoStar Group completed its $800 million cash acquisition of Zonda, a new home-construction data and homebuilder software platform. Zonda's lot-level construction and development database serves more than 3,000 homebuilders, developers, lenders, and suppliers and generated approximately $170 million in revenue in 2025. The acquisition gives CoStar a foothold in the $400 billion annual U.S. new-home sales market.",
-      "impact": "CoStar's acquisition of Zonda indicates consolidation of real estate data and intelligence platforms. For multifamily developers, this means fewer independent data providers and likely upward pressure on subscription/analytics costs. More significantly, the merger reinforces that data on land availability, entitlements, and pipeline (core inputs to multifamily site selection and competitive positioning) will increasingly reside within vertically integrated platforms controlled by single vendors, reducing developer negotiating leverage on pricing and data access."
+      "summary": "Circle Realty Group closed 37,600 square feet of new leases at 14 Penn Plaza (225 West 34th Street) in Midtown Manhattan. Civil engineering firm Bohler Engineering expanded from 8,000 to 14,000 square feet on a 10-year lease at $67 per square foot, while cybersecurity firm T&M USA leased 14,000 square feet. Accounting firm Calibre CPA Group signed a 10-year, 6,100-square-foot lease. Circle Realty President Jay Futersak cited the building's transit access and first-class quality as drivers of tenant demand.",
+      "impact": "Minimal relevance to multifamily development. However, office leasing momentum at Midtown Class-A, transit-rich buildings signals selective recovery in NYC office—tech and professional services tenants remain viable. This may support residential demand from young professional renters in Manhattan and Gateway; conversely, if office continues to normalize, it could reduce local job density and rent growth in Midtown-adjacent residential markets. Multifamily developers should monitor office absorption trends in Midtown/Hudson Yards as leading indicators of wage/employment stability in NYC."
     }
   ]
 }
