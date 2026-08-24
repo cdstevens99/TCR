@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-08-21T23:15:10.394556+00:00",
+  "fetchedAt": "2026-08-24T12:29:13.432201+00:00",
   "rates": [
     {
       "label": "SOFR",
-      "value": "3.63%",
-      "pct": 0.01,
+      "value": "3.65%",
+      "pct": 0.02,
       "isBps": true
     },
     {
@@ -25,6 +25,36 @@
   ],
   "stories": [
     {
+      "title": "Circle Realty Secures 38K SF of New Leases at 14 Penn Plaza",
+      "link": "https://commercialobserver.com/2026/08/circle-realty-leases-14-penn-plaza-bohler-engineering/",
+      "excerpt": "Circle Realty Group has closed on 37,600 square feet of new leases in Midtown, Commercial Observer has learned. The two largest deals at 225 West 34th Street, also known as 14 Penn Plaza, were for civil engineering company Bohler Engineering, which expanded from 8,000 square feet to 14,000 square feet, and cybersecurity firm T&amp;M USA, which took 14,000 square feet, according to Circle Realty. Bohler signed a 10-year lease and asking rent in the building was $67 per square foot. The length of T&amp;M’s lease was unclear. “These tenants came to me because we’re at the center of transportation and we have a first-class property,” Circle Realty President Jay Futersak told CO. “Tenants know that what we promised is what we deliver.” Futersak represented his own firm in-house and both tenants in the deals. Smaller recent deals in the building were for accounting and advisory firm Calibre CPA Group, which signed a 10-year, 6,100-square-foot lease and is relocating from 462 Seventh Avenue. Mark Furst and Benjamin Saftler of Kaufman Leasing, the brokerage arm of the Kaufman Organization, handled the deal for the Washington, D.C.-based accounting firm and did not immediately comment. Meanwhile, discrimination law firm Fitapelli &amp; Schaffer is also relocating from 20 Liberty Street to 14 Penn with a new 3,514-square-foot lease. Robert Gallucci of Colliers negotiated on behalf of the law firm and did not immediately respond to a request for comment. Futersak repped ownership in-house in the Calibre and Fitapelli deals. Mark Hallum can be reached at mhallum@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-24T10:00:14+00:00",
+      "bullets": [
+        "Circle Realty leased 37,600 SF at 14 Penn Plaza, Midtown Manhattan; $67/SF asking rent.",
+        "Bohler Engineering expanded 8K to 14K SF (10-yr); T&M USA took 14K SF.",
+        "Professional services firms (Calibre CPA, accounting) relocating within Midtown Manhattan."
+      ],
+      "summary": "Circle Realty closed 37,600 SF of new leases at 225 West 34th Street (14 Penn Plaza) in Midtown Manhattan. Major tenants included civil engineering firm Bohler Engineering (expanding to 14,000 SF on a 10-year lease at $67/SF) and cybersecurity firm T&M USA (14,000 SF). Smaller deals included Calibre CPA Group, a 6,100-SF relocation from nearby 462 Seventh Avenue.",
+      "impact": "Minimal direct impact to multifamily development. Office leasing activity signals sustained demand for Midtown professional services space, but does not indicate residential in-migration, population growth, or new job categories that would drive apartment demand in Manhattan or surrounding submarkets."
+    },
+    {
+      "title": "Sunday Summary: Who’s Funding $1.3 Trillion in Data Center Spending?",
+      "link": "https://commercialobserver.com/2026/08/sunday-summary-whos-funding-1-3-trillion-in-data-center-spending/",
+      "excerpt": "Pluck your average Commercial Observer journalist off the street, shove them in a van, shine a flashlight in their eyes, and say, “Quick — what’s the biggest story in commercial real estate?” nine reporters out of 10 will answer: “Data centers.” At least that’s the case in 2026 after the billions and billions of dollars in investment that have been lavished on the sector. Actually, make that trillion — with a “t.” It’s still a sector that’s largely mysterious and unknown (even the vocabulary of the asset class is new!) so CO was excited last week when San Diego-based Atrium, an AI analytics firm, launched an interactive data platform called “Who Finances America’s Data Centers,” which tracks the money behind the $1.3 trillion (and counting) data center bonanza. What makes Atrium’s platform so fascinating is that it delves into the nitty gritty of individual deals like Coreweave’s $23 billion debt facility from 38 different lenders, and the 24 lenders financing DigitalBridge and IFM’s $20 billion debt facility — but at the same time it examines the breadth of activity of non-bank lenders like PIMCO (which has done $23 billion in originations), or borrowers like Amazon, Microsoft, Google, Meta and Oracle (five firms that alone account for $223 billion in long-term debt and credit facilities). All this data center activity comes as construction costs have been on the rise. Construction might have slowed down in other sectors, but the explosive growth of data centers has seemingly made up for it, at least according to a recent report from Skanska. “The market is hot and cold right now — hot and warm may be a better way to say it — so what stands out is that we’re seeing a lot of project activity around data centers, semiconductor, life sciences,” said Skanska’s Tom Park. “There’s really a lot of unprecedented demand in the mechanical, electrical, plumbing and steel space driving up lead times and cost.” Moreover, the companies that rely on the proliferation of data cent",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-23T13:00:21+00:00",
+      "bullets": [
+        "$1.3 trillion in data center investment pipeline being financed by 60+ lenders nationwide.",
+        "Coreweave raised $23B debt from 38 lenders; DigitalBridge/IFM $20B from 24 lenders.",
+        "PIMCO, non-bank lenders dominating originations; Amazon, Microsoft, Google, Meta, Oracle major borrowers."
+      ],
+      "summary": "Data center financing has become a major capital market story, with $1.3 trillion in spending being funded through diverse lender pools. Coreweave secured a $23 billion debt facility from 38 lenders, while DigitalBridge and IFM arranged $20 billion across 24 lenders. Non-bank lenders like PIMCO have originated $23 billion, and tech giants (Amazon, Microsoft, Google, Meta, Oracle) are the primary borrowers driving AI and cloud infrastructure expansion.",
+      "impact": "Data center mega-projects, particularly in Tier 1 metros (Dallas, Phoenix, Northern Virginia, Austin) and secondary tech hubs, will concentrate high-wage tech and operations jobs in specific corridors. This drives in-migration of tech workers and supporting service labor into these metros, creating strong multifamily demand in submarkets near major data center campuses. Developers should monitor site acquisition and build-to-suit opportunities in data center adjacencies where residential supply remains constrained."
+    },
+    {
       "title": "Zimmet Law Group Signs 10-Year Lease for 515 Madison Ave.",
       "link": "https://www.connectcre.com/stories/zimmet-law-group-signs-10-year-lease-for-515-madison-ave/",
       "excerpt": "GFP Real Estate announced that Zimmet Law Group P.C. has signed a new office lease for 5,476 square feet at 515 Madison Ave. in Manhattan’s Plaza District. Zimmet Law Group will occupy Suite 603 on the sixth floor of the building under a new 10-year lease, relocating its Manhattan office from 477 Madison Ave. The firm is expected to take occupancy following completion of its new space later this year. Martin McGrath and Kephra Stone of GFP Real Estate represented the landlord in-house. Elliot Zelinger of Savitt Partners represented Zimmet Law Group. “Zimmet Law Group’s decision to make a long-term commitment to 515 Madison Avenue speaks to the continued appeal of the building and the strength of the Plaza District,” said McGrath. “Professional services firms continue to prioritize high-quality, well-located office space, and we’re pleased to welcome Zimmet Law Group to the building.” The post Zimmet Law Group Signs 10-Year Lease for 515 Madison Ave. appeared first on Connect CRE.",
@@ -32,12 +62,12 @@
       "cat": "Commercial",
       "date": "2026-08-21T21:47:50+00:00",
       "bullets": [
-        "Zimmet Law Group leases 5,476 sq ft at 515 Madison Ave, Manhattan Plaza District.",
-        "10-year commitment signals professional services demand in high-quality Manhattan office space.",
-        "Firm relocates from 477 Madison Ave, indicating tenant retention in premium Plaza District."
+        "Zimmet Law Group signed 10-year lease for 5,476 SF at 515 Madison Ave, Manhattan.",
+        "Relocation from 477 Madison Ave; Plaza District, professional services commitment.",
+        "Occupancy expected end-2026 following tenant build-out."
       ],
-      "summary": "Zimmet Law Group P.C. signed a 10-year lease for 5,476 square feet at 515 Madison Avenue in Manhattan's Plaza District, relocating from nearby 477 Madison Ave. The deal reflects continued appetite among professional services firms for long-term, well-located office space. Landlord representatives highlighted the transaction as evidence of sustained Plaza District appeal.",
-      "impact": "Minor relevance to multifamily development. Office leasing strength in Manhattan Plaza District does not directly affect apartment demand, supply, or feasibility, though robust white-collar employment and professional services concentration in this submarket supports nearby residential renter bases."
+      "summary": "Zimmet Law Group P.C. executed a new 10-year lease for 5,476 SF at 515 Madison Avenue in Manhattan's Plaza District (Suite 603, sixth floor), relocating from 477 Madison Avenue. The lease represents a professional services firm making a long-term commitment to the building, with occupancy expected later in 2026 following tenant improvements.",
+      "impact": "Minimal direct impact to multifamily development. Office lease activity in Plaza District does not signal material population in-migration or job creation that would move apartment demand metrics in Manhattan or surrounding markets."
     },
     {
       "title": "Avison Young Recapitalization Provides “War Chest” for Further Growth",
@@ -47,57 +77,57 @@
       "cat": "Commercial",
       "date": "2026-08-21T21:40:45+00:00",
       "bullets": [
-        "Avison Young recapitalization reduces debt-to-EBITDA below 3x, cuts debt 70%, closing October.",
-        "Company gains 'war chest' for strategic acquisitions and talent expansion across platform.",
-        "Move signals CRE services sector consolidation and M&A acceleration in multifamily brokerage."
+        "Avison Young recapitalization reduces debt-to-EBITDA to <3x; cuts debt/preferred equity 70%.",
+        "Closing expected October 2026; follows successful 2024 recapitalization transaction.",
+        "Provides 'war chest' for strategic acquisitions, platform expansion, talent acquisition."
       ],
-      "summary": "Avison Young completed a recapitalization that reduces debt-to-EBITDA to below 3x and cuts debt and preferred equity by nearly 70%, expected to close in October. The transaction gives the firm capital for strategic acquisitions, capability expansion, and talent recruitment. CEO Mark Rose framed the move as converting shareholder returns into multiples through reinvestment rather than immediate payouts.",
-      "impact": "Signals increased M&A and consolidation activity in CRE services. Better-capitalized brokerage platforms accelerate acquisitions of smaller brokerages and teams, increasing competition for deals and data in multifamily markets—expect tighter bid processes and faster market intelligence among major brokers underwriting development sites."
+      "summary": "Avison Young announced a recapitalization that deleverages its balance sheet to a debt-to-EBITDA ratio below 3x while reducing debt and preferred equity by nearly 70%. The transaction, expected to close in October, converts financial partners to common equity holders and positions the brokerage firm to make strategic acquisitions, broaden service capabilities, and expand talent. CEO Mark Rose stated the move enables the company to do \"the things we're known for.\"",
+      "impact": "Signal of increased M&A and platform consolidation activity in the CRE brokerage and advisory space. This does not directly affect multifamily supply, demand, or financing, but indicates capital is flowing toward service providers and intermediaries in the space. Developers may see Avison Young as a more aggressive player in land and development deal sourcing as it expands its platform."
     },
     {
       "title": "Local Owner-Operator Snags Pico-Robertson Apartment Property",
       "link": "https://www.connectcre.com/stories/495721-2/",
-      "excerpt": "Marcus &amp; Millichap closed the sale of 1476 S Shenandoah St., a 16-unit multifamily property in Los Angeles. The property sold for $5.3 million, or $334,937 per unit. “Properties like this rarely become available in Pico-Robertson, especially those that have been held by the same ownership for more than two decades,” said Sam Liberow, senior managing&nbsp;director&nbsp;investments. “After 23 years of ownership, the offering generated six competitive offers, reflecting continued demand for well-located multifamily assets with large floor plans. The buyer plans to renovate units through natural tenant turnover while holding the property as a long-term investment.” Liberow, in Marcus &amp; Millichap’s Encino office, marketed the property on behalf of the seller, 1476 Shenandoah Street LLC. He also procured the buyer, a local owner and operator. Built in 1966, the 17,653-square-foot property is situated on a 0.30-acre parcel in Los Angeles&#8217; Pico-Robertson neighborhood. The post Local Owner-Operator Snags Pico-Robertson Apartment Property appeared first on Connect CRE.",
+      "excerpt": "Marcus &amp; Millichap closed the sale of&nbsp;1476 S Shenandoah St., a&nbsp;16-unit&nbsp;multifamily&nbsp;property in&nbsp;Los&nbsp;Angeles.&nbsp;The property&nbsp;sold&nbsp;for $5.3&nbsp;million,&nbsp;or $334,937&nbsp;per unit.&nbsp; “Properties like this rarely become available in Pico-Robertson, especially those that have been held by the same ownership for more than two decades,” said Sam Liberow, senior managing&nbsp;director&nbsp;investments. “After 23 years of ownership, the offering generated six competitive offers, reflecting continued demand for well-located multifamily assets with large floor plans. The buyer plans to renovate units through natural tenant turnover while holding the property as a long-term investment.” Liberow, in Marcus &amp; Millichap’s Encino office, marketed&nbsp;the property&nbsp;on behalf of the seller, 1476 Shenandoah Street LLC. He also&nbsp;procured&nbsp;the buyer, a local owner and operator. Built in 1966, the 17,653-square-foot property is situated on a 0.30-acre parcel in Los&nbsp;Angeles&#8217; Pico-Robertson neighborhood. The conversations behind tomorrow’s apartment deals happen at Connect Apartments on September 22 in LA. Connect with the capital sources, owners, developers, and brokers driving multifamily investment. Learn more and reserve your seat at www.connectapts2026.com. The post Local Owner-Operator Snags Pico-Robertson Apartment Property appeared first on Connect CRE.",
       "source": "Connect CRE",
       "cat": "Commercial",
       "date": "2026-08-21T21:32:09+00:00",
       "bullets": [
-        "Marcus & Millichap closed sale of 16-unit Pico-Robertson property for $5.3M ($334,937/unit).",
-        "Property held 23 years generated six competitive offers; buyer plans hold-and-renovate strategy.",
-        "Large floor plans and scarcity of offerings in submarket drove competitive bid environment."
+        "16-unit multifamily at 1476 S Shenandoah St, Los Angeles sold for $5.3M; $334,937/unit.",
+        "Pico-Robertson neighborhood; 1966-built, 17,653 SF on 0.30-acre lot; held 23 years.",
+        "Local owner-operator buyer; six competitive offers; plans unit renovation through turnover."
       ],
-      "summary": "A 16-unit multifamily property at 1476 S Shenandoah Street in Los Angeles's Pico-Robertson neighborhood sold for $5.3 million ($334,937 per unit) to a local owner-operator. Built in 1966 on 0.30 acres, the property generated six competitive bids after 23 years of single ownership. The buyer plans long-term ownership with unit renovations through natural turnover.",
-      "impact": "Pico-Robertson's scarcity of well-located small multifamily assets driving cap-rate compression and owner-operator competition in Los Angeles. Limited supply of underutilized legacy buildings with large floor plans in established neighborhoods signals opportunity for development sites or value-add conversions—demand for product exceeds available inventory, supporting rents and reducing development risk for similar-profile new construction."
+      "summary": "Marcus & Millichap closed the sale of 1476 South Shenandoah Street, a 16-unit multifamily property in Los Angeles's Pico-Robertson neighborhood, for $5.3 million ($334,937/unit). The 1966-built, 17,653-SF property was held by the same owner for 23 years and generated six competitive offers. The new buyer, a local owner-operator, plans to renovate units through natural tenant turnover while holding as a long-term investment.",
+      "impact": "Pico-Robertson multifamily assets remain highly competitive and expensive at $335K/unit despite vintage construction. Six bids indicate persistent investor demand for well-located LA multifamily in established neighborhoods, even at high per-unit prices. Developers seeking entry into Pico-Robertson or similarly infill-constrained LA submarkets face significant land cost barriers; attention should shift to land acquisition in adjacent, less-saturated areas or consider development in secondary LA submarkets with better ROI fundamentals."
     },
     {
       "title": "Grocery-Anchored Queens Retail Secures $32M Financing",
       "link": "https://www.connectcre.com/stories/grocery-anchored-queens-retail-secures-32m-financng/",
-      "excerpt": "Northmarq’s New York Metro Debt + Equity team, led by Robert Delitsky and Charles Cotsalas, arranged $32 million in financing for Springnex Plaza, a 96,028-square-foot retail property located in the Springfield Gardens neighborhood of Queens. Delitsky and Cotsalas arranged financing on behalf of the owner, Mattone Group Springnex LLC, through Principal Financial Group. “Ownership developed Springnex Plaza in 2000 and they have done a fabulous job maintaining very strong occupancy,” Delitsky said. “Supermarket-anchored shopping centers like Springnex Plaza will continue to attract very strong lender interest in today’s market,” added Cotsalas. Springnex Plaza is a 100% occupied, multi-tenant, grocery-anchored retail center situated on approximately 5.58 acres. Serving the Springfield Gardens community for more than two decades, Springnex Plaza offers a complementary mix of grocery, dining, healthcare and service-oriented tenants. Anchored by Stop &amp; Shop, It is home to a diverse roster of local and national retailers, including Ashley Stewart, IHOP Restaurant, and Northwell Health. The post Grocery-Anchored Queens Retail Secures $32M Financing appeared first on Connect CRE.",
+      "excerpt": "Northmarq’s New York Metro Debt + Equity team, led by&nbsp;Robert Delitsky&nbsp;and&nbsp;Charles Cotsalas, arranged $32 million in financing for Springnex Plaza, a 96,028-square-foot retail property located in the Springfield Gardens neighborhood of Queens. Delitsky and Cotsalas arranged financing on behalf of the owner, Mattone Group Springnex LLC, through Principal Financial Group. “Ownership developed Springnex Plaza in 2000 and they have done a fabulous job maintaining very strong occupancy,” Delitsky said. “Supermarket-anchored shopping centers like Springnex Plaza will continue to attract very strong lender interest in today’s market,” added Cotsalas. Springnex Plaza is a 100% occupied, multi-tenant, grocery-anchored retail center situated on approximately 5.58 acres. Serving the Springfield Gardens community for more than two decades, Springnex Plaza offers a complementary mix of grocery, dining, healthcare and service-oriented tenants. Anchored by Stop &amp; Shop, it&#8217;s home to a diverse roster of local and national retailers, including Ashley Stewart, IHOP and Northwell Health. The post Grocery-Anchored Queens Retail Secures $32M Financing appeared first on Connect CRE.",
       "source": "Connect CRE",
       "cat": "Commercial",
       "date": "2026-08-21T21:27:44+00:00",
       "bullets": [
-        "Northmarq arranged $32M financing for Springnex Plaza grocery-anchored retail in Queens Springfield Gardens.",
-        "100% occupied 96,028 sq ft center anchored by Stop & Shop; lender confidence high.",
-        "Supermarket-anchored centers attracting strong institutional capital in today's market environment."
+        "Springnex Plaza, Queens, secured $32M financing through Principal Financial Group.",
+        "96,028 SF grocery-anchored retail in Springfield Gardens; 100% occupied; built 2000.",
+        "Anchored by Stop & Shop; Northmarq arranged deal; 5.58-acre parcel."
       ],
-      "summary": "Northmarq's New York Metro team arranged $32 million in financing for Springnex Plaza, a 96,028-square-foot grocery-anchored retail center in Springfield Gardens, Queens, through Principal Financial Group. The property is 100% occupied and anchored by Stop & Shop with complementary grocery, dining, healthcare and service tenants. The deal reflects strong lender appetite for well-maintained, essential-use retail assets.",
-      "impact": "Limited relevance to multifamily development. Grocery-anchored retail financing strength indicates healthy neighborhood foot traffic and tenant resilience in outer-borough Queens, which can support residential development rents in adjacent areas, but capital availability is concentrated in retail, not apartments."
+      "summary": "Northmarq's New York Metro Debt + Equity team, led by Robert Delitsky and Charles Cotsalas, arranged $32 million in financing for Springnex Plaza, a 96,028-SF, grocery-anchored retail property in the Springfield Gardens neighborhood of Queens. The fully occupied, multi-tenant center (built 2000) is anchored by Stop & Shop and includes IHOP, Northwell Health, and local retailers on 5.58 acres. Principal Financial Group provided the debt.",
+      "impact": "Grocery-anchored retail in Queens continues to attract strong lender interest and refinancing activity, indicating stable cash flow and resilience in outer-borough, necessity-driven retail. Queens remains undersupplied for multifamily, and this asset's stability signals healthy demographic fundamentals and foot traffic in Springfield Gardens. Developers should assess multifamily development opportunities in Queens submarkets proximate to well-performing, well-capitalized retail anchors, as these signal reliable population density and consumer spending."
     },
     {
       "title": "Brixton Capital Launches Multifamily Investment-Management Platform",
       "link": "https://www.connectcre.com/stories/brixton-capital-launches-multifamily-investment-management-platform/",
-      "excerpt": "Brixton Capital’s Residential division has launched an integrated multifamily investment-management initiative designed to help institutional investors, family offices, lenders, joint venture partners and other owners improve the performance and value of complex multifamily assets. The initiative combines Brixton’s institutional investment and asset management capabilities with the operating expertise of its affiliate, United Apartment Group. “We see a meaningful opportunity to partner with owners and investment groups that have good real estate but need a different investment-management solution,” said Brixton VP of residential acquisitions Mark Mandala. “There are many multifamily assets where the underlying property remains fundamentally attractive, but the existing sponsor may not have the capital, operating infrastructure or institutional asset-management capabilities required for the next phase of ownership. We believe this is a particularly compelling opportunity because we are not simply offering another property management solution—we can bring together the investment strategy and the execution platform under one roof.” Brixton’s Residential division is particularly focused on multifamily assets where ownership is seeking a new investment-management or operating partner, or where the property requires a broader restructuring of its business plan. The post Brixton Capital Launches Multifamily Investment-Management Platform appeared first on Connect CRE.",
+      "excerpt": "Brixton Capital’s Residential division has launched an integrated multifamily investment-management initiative designed to help institutional investors, family offices, lenders, joint venture partners and other owners improve the performance and value of complex multifamily assets. The initiative combines Brixton’s institutional investment and asset management capabilities with the operating expertise of its affiliate, United Apartment Group. “We see a meaningful opportunity to partner with owners and investment groups that have good real estate but need a different investment-management solution,” said Brixton VP of residential acquisitions Mark Mandala. “There are many multifamily assets where the underlying property remains fundamentally attractive, but the existing sponsor may not have the capital, operating infrastructure or institutional asset-management capabilities required for the next phase of ownership. We believe this is a particularly compelling opportunity because we are not simply offering another property management solution—we can bring together the investment strategy and the execution platform under one roof.” Brixton’s Residential division is particularly focused on multifamily assets where ownership is seeking a new investment-management or operating partner, or where the property requires a broader restructuring of its business plan. Stay ahead of the multifamily market at Connect Apartments. Gain firsthand insights from industry leaders on capital markets, development, operations, financing, and investment trends while expanding your network with the people making deals happen. See you on September 22! The post Brixton Capital Launches Multifamily Investment-Management Platform appeared first on Connect CRE.",
       "source": "Connect CRE",
       "cat": "Commercial",
       "date": "2026-08-21T21:20:31+00:00",
       "bullets": [
-        "Brixton Capital launches integrated multifamily investment-management platform combining acquisition and asset management.",
-        "Targets sponsor changes and asset restructuring opportunities; partners with affiliate United Apartment Group.",
-        "Platform aims to address capital, infrastructure, and operating gaps in complex multifamily assets."
+        "Brixton Capital launched integrated multifamily investment-management platform for institutional investors.",
+        "Partners with United Apartment Group operating affiliate; targets underperforming complex assets.",
+        "Focuses on owners seeking new sponsors, capital, or restructuring solutions."
       ],
-      "summary": "Brixton Capital's Residential division launched an integrated investment-management platform designed to help institutional investors, family offices, lenders, and owners improve performance and value of complex multifamily assets. The initiative combines Brixton's institutional investment and asset management with the operating expertise of affiliate United Apartment Group. It targets assets where underlying property fundamentals are sound but sponsorship or capital structure requires overhaul.",
-      "impact": "Signals flight-to-quality and sponsor consolidation in multifamily. Brixton's focus on sponsor transitions and asset restructuring indicates a wave of underperforming or undercapitalized multifamily properties cycling to stronger operators. Developers facing debt maturity or capital calls should expect increased acquisition competition from well-funded platforms; opportune moment to sell stabilized assets or refinance before sponsor replacement becomes forced."
+      "summary": "Brixton Capital's Residential division launched an integrated multifamily investment-management platform combining institutional investment and asset management capabilities with the operating expertise of affiliate United Apartment Group. The platform targets institutional investors, family offices, lenders, and owners seeking improved performance on complex multifamily assets where sponsors lack capital, operating infrastructure, or institutional asset-management capabilities. Brixton VP Mark Mandala emphasized opportunities to partner with owners who have \"good real estate but need a different investment-management solution.\"",
+      "impact": "Rising availability of professional asset-management and restructuring platforms signals consolidation and upgrade activity in multifamily. Developers building value-add properties should recognize that third-party operators and institutional sponsors will increasingly seek to partner with or acquire performing assets. This creates an exit pathway for development-stage sponsors but also competitive pressure on hold times and return thresholds; development timelines and IRR assumptions should reflect the likelihood of third-party management take-over post-stabilization."
     },
     {
       "title": "CoStar Closes $800M Cash Acquisition of New-Home Platform Zonda",
@@ -107,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-08-21T17:47:49+00:00",
       "bullets": [
-        "CoStar completes $800M cash acquisition of Zonda, new-home construction data and developer platform.",
-        "Zonda serves 3,000+ homebuilders; generated ~$170M revenue in 2025; taps $400B new-home market.",
-        "CoStar gains lot-level construction and development data; signals data-driven real estate consolidation."
+        "CoStar closed $800M cash acquisition of Zonda; homebuilder software and lot-level data.",
+        "Zonda serves 3,000+ homebuilders, developers, lenders, suppliers; $170M 2025 revenue.",
+        "Targets $400B annual U.S. new-home sales market; lot-level construction and development data."
       ],
-      "summary": "CoStar Group closed its $800 million cash acquisition of Zonda, a new-home construction data and homebuilder software platform. Zonda serves over 3,000 homebuilders, developers, lenders, and suppliers with proprietary lot-level construction and development intelligence, generating approximately $170 million in revenue in 2025. The deal gives CoStar a direct foothold in the $400 billion annual U.S. new-home sales market.",
-      "impact": "CoStar's acquisition consolidates market intelligence and data advantage in land and new-home development. Multifamily developers lose granular lot-level and competing-project visibility to a single dominant data provider; expect pricing pressure on data subscriptions and faster market saturation signals. For site selection and competitive positioning in core markets, developers should lock in long-term data partnerships or invest in proprietary land-pipeline intelligence before CoStar/Zonda integrate and raise barriers to entry."
+      "summary": "CoStar Group completed its $800 million cash acquisition of Zonda, a new home-construction data, homebuilder software, and residential real estate marketplace platform. Zonda serves more than 3,000 homebuilders, developers, lenders, and suppliers and generated approximately $170 million in revenue in 2025. The platform provides proprietary lot-level construction and development data that serves the $400 billion annual U.S. new-home sales market.",
+      "impact": "CoStar's acquisition of Zonda consolidates critical lot-level and new-construction data visibility under one platform, strengthening CoStar's foothold in residential development ecosystems. Multifamily developers using CoStar's existing platforms will see expanded access to lot-level inventory, pricing, and competitive pipeline data. This could lower information asymmetries for land acquisition and enable faster market-entry decisions, particularly in high-growth metros and secondary markets where lot supply and homebuilder activity signals future apartment demand. Monitor integration of Zonda data into CoStar's core products for development site-selection advantages."
     },
     {
       "title": "Michael Troyanovsky of Regency Development Group: 5 Questions",
@@ -122,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-08-21T17:45:51+00:00",
       "bullets": [
-        "Regency Development Group building four active projects in Bay Harbor Islands, Florida (pop. <6K).",
-        "Projects include 33-unit La Maré Regency, 9-unit La Maré Signature, 20-unit Bay Harbor Villas.",
-        "Developer targets overlooked luxury coastal submarket near Surfside, Indian Creek, Bal Harbour since 2020."
+        "Regency Development Group operating 4 active projects in Bay Harbor Islands, Florida.",
+        "33-unit La Maré Regency, 9-unit La Maré Signature, 20-unit Bay Harbor Villas.",
+        "Population <6,000; overlooked coastal submarket near Surfside, Bal Harbour; acquisitions since 2020."
       ],
-      "summary": "Regency Development Group has been actively building residential projects in Bay Harbor Islands, Florida, a coastal community of fewer than 6,000 residents near Surfside and Bal Harbour, since 2020. The developer currently operates four active projects, including a 33-unit and a 9-unit luxury property under the La Maré brand and a 20-unit Bay Harbor Villas. Managing partner Michael Troyanovsky cited the submarket's overlooked status and proximity to premium coastal amenities as driving appeal.",
-      "impact": "Signals luxury multifamily density migration in South Florida. Developer focus on small-scale, high-end residential in overlooked but affluent micro-submarkets near established luxury hubs (Bal Harbour, Surfside) indicates value-add opportunity via density and brand lift. Bay Harbor Islands' limited supply and constrained buildable land support premium rents; developers should monitor exclusionary zoning and local approval timelines as tighter approval processes may create barriers to entry and protect existing operators."
+      "summary": "Regency Development Group, a family-owned developer, is pursuing a concentrated strategy in Bay Harbor Islands, Florida (population <6,000), a coastal community near Surfside and Bal Harbour. Since 2020, Regency has acquired land and is developing four active residential projects: the 33-unit La Maré Regency, 9-unit La Maré Signature, and 20-unit Bay Harbor Villas. Managing partner Michael Troyanovsky characterized Bay Harbor Islands as an overlooked \"hidden gem\" with significant untapped potential.",
+      "impact": "Micro-market concentration strategy by experienced South Florida developer signals undersupply and pent-up demand in exclusive, low-density coastal submarkets near Bal Harbour/Surfside premium corridors. Bay Harbor Islands' constrained zoning (population <6K suggests minimal remaining land) and proximity to ultra-high-net-worth communities create favorable rental demand and pricing power. Developers should assess similarly overlooked, low-density, coastal-adjacent Florida submarkets (Miami-Dade, Broward micro-communities) where land constraints and proximity to strong-performing tourist/luxury retail anchors can support niche, boutique multifamily development with premium economics."
     },
     {
       "title": "JBL Asset Management Buys Retail Condo Near Miami Design District",
@@ -137,42 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-21T17:00:32+00:00",
       "bullets": [
-        "JBL Asset Management acquires retail condo near Miami Design District for $17.3M.",
-        "25,504 sq ft ground-floor retail at Quadro building; Design District expanding $125M mixed-use.",
-        "Retail condo sale adjacent to luxury district expansion signals capital deployment near mixed-use anchor."
+        "JBL Asset Management purchased 25,504 SF retail condo near Miami Design District for $17.3M.",
+        "Ground floor at Quadro condo (407,498 SF building), 3900 Biscayne Boulevard; 2,358 SF suite available.",
+        "Tenants: The Shade Store, 7th Avenue furniture, Waterworks plumbing; Design District expansion underway."
       ],
-      "summary": "JBL Asset Management purchased a 25,504-square-foot ground-floor retail condo at the Quadro building near Miami's Design District for $17.3 million. The property is anchored by tenants including The Shade Store, 7th Avenue furniture, and Waterworks. The purchase occurs as the Design District—a high-grossing luxury mall—begins a $125 million mixed-use expansion financed through a joint venture involving Craig Robins and LVMH's Bernard Arnault.",
-      "impact": "Miami Design District's mixed-use and hospitality expansion (Fouquet's condo/hotel by Chipperfield) signals strong residential demand and foot traffic near the anchor. Ground-floor retail acquisition and construction loans indicate capital confidence in supporting mixed-use density; developers should evaluate residential components in nearby corridors along Biscayne Boulevard—proximity to luxury retail and hospitality drives renter demographics and command premium rents."
-    },
-    {
-      "title": "Now Is the Time to Buy in Commercial Real Estate: Morgan Stanley",
-      "link": "https://commercialobserver.com/2026/08/morgan-stanley-real-estate-investment-strategy-2026/",
-      "excerpt": "Despite a bumpy economy and increasingly high Treasury yields, one global investment firm believes now is the time to pounce on U.S. commercial real estate. Commercial Observer spoke with Tony Charles, global head of research and strategy at Morgan Stanley Real Estate Investing, who outlined the main takeaways from Morgan Stanley Investment Management’s mid-year 2026 real estate outlook. After a four-year recession, commercial real estate is now being repriced, giving investors a chance to acquire prime assets at low prices; supply is down across the board; and megatrends in AI, global supply chains, and aging demographics have opened up attractive entry points into infrastructure, retail and senior housing. “We certainly believe we&#8217;re entering the next up-cycle for real estate. It&#8217;s an attractive entry point,” Charles told CO in a Thursday interview. “And, given the repricing that&#8217;s now below replacement costs, we&#8217;re pretty confident in the next vintage of real estate investing.” Charles argued that the recent U.S. real estate downturn — which began in mid-2022 amid the Federal Reserve’s policy U-turn to hike interest rates coming out of COVID-19 — created “the longest downturn for real estate since the 1980s and early 1990s,” and that four years later, pricing is still down an average of 20 percent across the board. But he noted that “supply is down dramatically, so that&#8217;s obviously very helpful for real estate,” and that a strong structural macroeconomic backdrop — U.S. GDP grew 2.1 percent year-over-year in the second quarter of 2026 — has provided “a lot of green shoots that are beginning to show through.” He pointed out that CRE transaction activity increased 23 percent year-over-year in the U.S., institutional capital raising is up nearly 40 percent on the year, and that CRE debt originations are up around 20 percent year-over-year. Counterintuitively, Charles and Morgan Stanley Investment Management argued that there is a misper",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-21T16:17:12+00:00",
-      "bullets": [
-        "Morgan Stanley: U.S. commercial real estate repriced below replacement cost; entering next up-cycle.",
-        "Supply down across board; AI, supply-chain, aging-demographics megatrends open infrastructure, retail, senior housing.",
-        "Firm cites attractive entry point after four-year CRE downturn and Fed policy normalization."
-      ],
-      "summary": "Morgan Stanley Real Estate Investing outlined its mid-year 2026 outlook, arguing the U.S. is entering the next commercial real estate up-cycle with assets repriced below replacement cost. Tony Charles, global head of research at MSRIM, highlighted reduced supply across all asset classes and identified megatrends in AI, supply-chain reconfiguration, and aging demographics as creating attractive entry points in infrastructure, retail, and senior housing after a four-year downturn beginning in mid-2022.",
-      "impact": "Signals institutional capital readiness for multifamily acquisitions and new development. Below-replacement-cost repricing reduces hurdle rates and improves underwriting for new supply; however, senior housing emphasis indicates capital concentration in higher-barrier aging-demographic plays. Multifamily developers in secondary/tertiary markets should expect increased competition from institutional capital; advantage tilts to operators with existing land pipelines, entitlements, and operational scale to deploy capital faster than new entrants."
-    },
-    {
-      "title": "Whole Foods to Open Daily Shop at Murray Hill’s 509 Third Avenue",
-      "link": "https://commercialobserver.com/2026/08/whole-foods-509-third-avenue-lease/",
-      "excerpt": "Whole Foods Market has leased a 9,000-square-foot retail space in Manhattan’s Murray Hill neighborhood. The 15-year deal occupies a ground-floor space and outdoor terraces at 509 Third Avenue, according to a memorandum of lease filed in city records Friday morning. The 35-story, 229-unit apartment tower, known as the Murray, was developed by Kahen Properties with Lalezarian Properties. A spokesperson for Whole Foods confirmed the lease in an email to Commercial Observer, but declined to share further details. Whole Foods’ newest Manhattan location will be on the smaller side. The store will follow the Amazon-owned grocer’s new Whole Foods Market Daily Shop format. The quick-trip urban shops sell grab-and-go meals alongside fresh produce, meat, bakery items and local specialty foods, according to the company’s website. The format was first rolled out in nearby Lenox Hill in 2024, and has since arrived in cities nationwide. Additional locations in Brooklyn and Hoboken, N.J., were announced late last year. Most recently, the grocer signed a lease for 8,121 square feet to open a daily shop at 1524 Second Avenue on the Upper East Side. Kahen Properties’ Majid Kahen signed the lease memorandum for the landlord, while Paul Hilliard, vice president of real estate at Whole Foods, signed for the grocer. It is unclear whether either party worked with an outside brokerage. The asking rent for the ground-floor space was not disclosed in the memorandum, but retail space in the nearby Herald Square area was $394 per square foot during the second quarter of 2026, according to CBRE data. Spokespeople for Kahen and Lalezarian Properties did not immediately respond to requests for comment. Emily Davis can be reached at edavis@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-21T15:24:50+00:00",
-      "bullets": [
-        "Whole Foods Market leases 9,000 sq ft at 509 Third Avenue, Murray Hill, Manhattan.",
-        "15-year deal for ground floor + terraces; Whole Foods Daily Shop format (quick-trip urban).",
-        "Store supports 229-unit Murray apartment tower; Daily Shop model expanded from Lenox Hill 2024."
-      ],
-      "summary": "Whole Foods Market leased 9,000 square feet at 509 Third Avenue in Manhattan's Murray Hill neighborhood for 15 years. The ground-floor space with outdoor terraces is in the Murray, a 229-unit apartment tower developed by Kahen Properties and Lalezarian Properties. Whole Foods will operate in its newer Daily Shop format—a quick-trip, grab-and-go model—first launched in nearby Lenox Hill in 2024 and now expanding to Brooklyn, Hoboken, and other cities.",
-      "impact": "Whole Foods Daily Shop proliferation strengthens neighborhood retail and pedestrian activation in Murray Hill and surrounding Manhattan East Side submarkets. Grocery tenant lock-in at a stabilized 229-unit building signals cross-asset validation: grocery anchors drive residential rent growth and resident retention. Developers underwriting residential near mass transit in Manhattan should prioritize ground-floor retail, especially fresh grocery and quick-service; Daily Shop model aligns with smaller urban footprints and higher sales per square foot, signaling rent-growth potential for nearby apartments."
+      "summary": "JBL Asset Management purchased a 25,504-SF retail condo on the ground floor of the Quadro building near Miami's Design District for $17.3 million. Located at 3900 Biscayne Boulevard (east of the Design District, facing train tracks), the property includes The Shade Store, 7th Avenue furniture, and Waterworks plumbing as tenants, with one remaining 2,358-SF retail suite being marketed. The Design District (18 blocks, one of the country's highest-grossing upscale malls) is undergoing major expansion with a $125M construction loan funding a mixed-use building and Fouquet's condo/hotel by Chipperfield and Snøhetta.",
+      "impact": "Design District expansion (mixed-use tower, Fouquet's luxury hotel/condo, $125M construction financing) will drive pedestrian traffic, luxury retail demand, and residential in-migration into Edgewater and adjacent Miami neighborhoods. Developers should acquire multifamily land in Edgewater and Little Haiti (Wynwood corridor access) proximate to Design District as expansion anchors strong rental demand growth. Retail properties near Design District will see value uplift and lease rate expansion; multifamily positioned 0.5–1.5 miles north/northwest will capture overflow demand at lower land and construction costs than premium districts."
     }
   ]
 }
