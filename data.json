@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-25T14:35:41.261198+00:00",
+  "fetchedAt": "2026-08-25T15:34:17.355416+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -9,21 +9,36 @@
     },
     {
       "label": "10Y Treasury",
-      "value": "4.66%",
-      "pct": -0.94
+      "value": "4.65%",
+      "pct": -1.17
     },
     {
       "label": "30Y Treasury",
-      "value": "5.19%",
-      "pct": -0.75
+      "value": "5.18%",
+      "pct": -0.94
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "99.00",
-      "pct": -0.11
+      "value": "99.19",
+      "pct": 0.09
     }
   ],
   "stories": [
+    {
+      "title": "Atlanta Church Buys 94K-SF Buckhead Office Building",
+      "link": "https://www.connectcre.com/stories/atlanta-church-buys-94k-sf-buckhead-office-building/",
+      "excerpt": "Transwestern brokered the acquisition of Piedmont Place, a 94,000-square-foot, four-story office building at 3520 Piedmont Road Northeast in Atlanta. Transwestern’s Bradley Fulkerson and Austin Hibbard represented Christ Covenant Church, which acquired the property from Hall Capital for $16.9 million, or $179 a square foot. Transwestern has also been retained to provide Agency Leasing and Asset Services for the Class A Buckhead property. “Since 2017, Christ Covenant Church has grown to more than 2,000 members and three campuses in metro Atlanta. At Piedmont Place, the Church has an opportunity to build a central gathering place to serve its membership today and reach the City of Atlanta well into the future,” said Jason Dees, Senior Pastor at Christ Covenant.&nbsp; Built in 1983, Christ Covenant plans to operate the property as a multi-tenant office building in the short term and develop a long-term campus, including the addition of a 2,500-seat sanctuary. The post Atlanta Church Buys 94K-SF Buckhead Office Building appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-25T14:01:45+00:00",
+      "bullets": [
+        "Christ Covenant Church bought Piedmont Place office building, Atlanta Buckhead, $16.9M ($179/SF)",
+        "Church plans multi-tenant leasing near-term, long-term 2,500-seat sanctuary development on site",
+        "Church membership grew to 2,000+ across three metro Atlanta campuses since 2017"
+      ],
+      "summary": "Christ Covenant Church acquired the 94,000-SF Piedmont Place office building in Atlanta's Buckhead submarket for $16.9 million ($179/SF) from Hall Capital. The church, which has grown to 2,000+ members across three metro campuses, plans to operate it as multi-tenant office space initially while developing a long-term campus with a 2,500-seat sanctuary. Transwestern brokered the transaction and retained asset management.",
+      "impact": "Minimal direct multifamily relevance. However, institutional use conversions (office-to-other) signal softening Buckhead office absorption and may indicate secular office decline in that submarket, which could create future conversion opportunities or suppress near-term multifamily demand if office workers are displaced rather than relocated."
+    },
     {
       "title": "Cellular Provider InfiniG Secures $5M Seed Funding",
       "link": "https://commercialobserver.com/2026/08/cellular-provider-infinig-seed-round/",
@@ -32,12 +47,12 @@
       "cat": "Commercial",
       "date": "2026-08-25T14:00:11+00:00",
       "bullets": [
-        "InfiniG raises $5.2M seed funding led by J2 Ventures, Stormbreaker Ventures",
-        "Platform deploys neutral-host cellular coverage without traditional DAS complexity/cost",
-        "Automation targets mobile-operator integration, 5G readiness, physical AI buildout"
+        "InfiniG raised $5.2M seed funding led by J2 Ventures and Stormbreaker Ventures",
+        "Enterprise cellular platform (MCaaS) for indoor coverage in commercial real estate buildings",
+        "Funding to expand 5G, private wireless networks, and physical AI for connected buildings"
       ],
-      "summary": "InfiniG, a Los Gatos-based proptech firm, closed a $5.2M seed round to scale its Mobile Coverage as a Service (MCaaS) platform, which simplifies indoor 5G and private wireless deployment for commercial real estate owners. The platform eliminates traditional distributed antenna system (DAS) friction and enables multicarrier coverage via software-driven automation. InfiniG plans to expand rollouts, automate carrier onboarding, and advance physical AI capabilities.",
-      "impact": "Minimal direct impact on multifamily development demand/supply/capital/cost. Tangentially relevant: if MCaaS gains adoption in new apartment communities, it could become a low-cost amenity differentiator for leasing and resident connectivity, but this is upstream infrastructure—not a market signal for unit demand or construction feasibility."
+      "summary": "InfiniG, a Los Gatos-based enterprise cellular platform, raised $5.2 million in seed funding to expand its mobile coverage-as-a-service (MCaaS) product. The platform enables building owners to deploy neutral-host, multicarrier indoor cellular coverage and builds a foundation for 5G, private wireless networks, and connected-building applications. Funding will accelerate product rollout, automate mobile-operator integration, and advance automation and physical AI.",
+      "impact": "Not directly relevant to multifamily development feasibility or demand. Tangentially supportive: improving in-building cellular and smart-building tech (connectivity, physical AI) could become a competitive amenity driver for new multifamily assets and potentially support higher rents, but the value is indirect and long-tail."
     },
     {
       "title": "Benderson Picks Up 3 Florida Retail Assets for Nearly $37M",
@@ -47,12 +62,12 @@
       "cat": "Commercial",
       "date": "2026-08-25T13:48:27+00:00",
       "bullets": [
-        "Benderson Development acquires 3 Gulf Coast retail assets for $36.91M total",
-        "Tampa-area (Dunedin, Venice, Estero FL) anchored by Publix, Lowe's operators",
-        "Venice property last sold $10M; Estero Lowe's rose from $4.38M (2005) to $9.5M"
+        "Benderson Development acquired three Gulf Coast Florida retail assets totaling 400K SF for $36.91M",
+        "Properties: Granada Plaza (Dunedin), Venice Market Place (Venice), Lowe's (Estero)",
+        "Benderson portfolio now exceeds 1,000 properties, 58M SF; Estero property appreciates since 2005 sale at $4.38M"
       ],
-      "summary": "Benderson Development, a Sarasota-based retailer with 58M SF nationally, bought three Florida Gulf Coast retail properties totaling 400K SF for $36.91M. Assets include Granada Plaza (Publix anchor, Dunedin), Venice Market Place ($10M), and an Estero Lowe's box ($9.5M, resale of $4.38M 2005 purchase). Portfolio consolidation suggests ongoing landlord confidence in essential-anchored retail in Tampa Bay and Southwest Florida submarkets.",
-      "impact": "Moderate relevance to multifamily: Benderson's acquisition signal in Tampa Bay (Dunedin, Estero) reflects continued retail fundamentals and foot traffic in these high-growth submarkets. Strong retail anchors near multifamily sites can drive mixed-use development feasibility and co-tenancy quality. Monitor Tampa Bay rent growth and population influx—retail stabilization supports residential upside."
+      "summary": "Benderson Development purchased three retail properties on Florida's Gulf Coast totaling 400,000 SF for $36.91 million: Granada Plaza (Publix-anchored, Dunedin), Venice Market Place (Venice), and a Lowe's-leased building in Estero ($9.5M). The Estero asset, acquired in June, has more than doubled in value since its 2005 sale at $4.38 million, reflecting strong Gulf Coast retail appreciation. Benderson's portfolio now exceeds 1,000 properties and 58 million SF nationally.",
+      "impact": "Not relevant to multifamily. Retail consolidation and price appreciation in Dunedin, Venice, and Estero submarkets signal strong consumer demand and property value growth in those Florida coastal communities, which may also support nearby multifamily rent growth and suggest healthy in-migration/affluence in those areas—useful as contextual demand signals for multifamily development in adjacent submarkets."
     },
     {
       "title": "Baptist Health Acquires 493K-SF Jax Medical Office Complex",
@@ -62,12 +77,12 @@
       "cat": "Commercial",
       "date": "2026-08-25T13:27:45+00:00",
       "bullets": [
-        "Baptist Health acquires 493K-SF Southbank Medical Pavilion, Jacksonville for $65M",
-        "22-story tower 94% leased, adjacent to flagship hospital campus, 7.9 acres",
-        "Portfolio includes 1,124-space parking garage, two development outparcels"
+        "Baptist Health purchased Southbank Medical Pavilion, Jacksonville, $65M for 493K SF",
+        "22-story medical office tower 94% leased; 7.9 acres with parking garage, development outparcels",
+        "Property adjacent to Baptist's flagship campus and major pediatric/oncology facilities"
       ],
-      "summary": "Baptist Health paid $65M for the Southbank Medical Pavilion, a 493K-SF medical office tower in downtown Jacksonville with 94% occupancy, parking, and two outparcels. The 22-story asset sits on 7.9 riverfront acres directly adjacent to Baptist Health's flagship campus, children's hospital, and cancer center. Share MD was the seller; Transwestern brokered the transaction.",
-      "impact": "Limited direct multifamily impact. However, Baptist Health's major capital deployment on Southbank (downtown Jacksonville riverfront) signals institutional healthcare expansion in JAX and long-term anchor-tenant stability. This reduces downside risk for mixed-use residential redevelopment near the riverfront and supports downtown Jacksonville's urban multifamily pipeline by validating medical employment and walkable density."
+      "summary": "Baptist Health acquired the 493,000-SF Southbank Medical Pavilion in downtown Jacksonville for $65 million, a 22-story medical office tower at 94% occupancy situated on 7.9 acres along the St. Johns River. The property includes a 1,124-space parking garage and two development outparcels, positioned directly adjacent to Baptist Health's flagship campus, Wolfson Children's Hospital, and Baptist MD Anderson Cancer Center. Transwestern's healthcare team represented seller ShareMD.",
+      "impact": "Moderate multifamily relevance to Jacksonville metro. Healthcare employer vertical integration and consolidation (Baptist's in-market acquisition of adjacent medical office) signals anchored, stable healthcare job base and institutional commitment to the Southbank/downtown corridor. This strengthens confidence in downtown Jacksonville multifamily fundamentals by reducing tenant base volatility, though it does not directly generate new rental demand."
     },
     {
       "title": "Samantha Atlas of Ash Staging: 5 Questions",
@@ -77,12 +92,12 @@
       "cat": "Commercial",
       "date": "2026-08-25T12:00:55+00:00",
       "bullets": [
-        "Ash Staging has staged 15+ years of projects, $50B+ real estate represented",
-        "Founder Samantha Atlas runs LA office, splits time between LA and NYC",
-        "Staging critical for model units, leasing velocity, and luxury renter perception"
+        "Ash Staging: luxury staging and model residence design, 15+ years, $50B+ real estate impact",
+        "Samantha Atlas leads L.A. office; firm operates Los Angeles and New York City",
+        "Services residential, commercial, hospitality; thousands of projects completed"
       ],
-      "summary": "Ash Staging, a luxury staging and model-residence design firm, has completed thousands of projects representing $50B+ in real estate over 15 years. Senior Director Samantha Atlas splits time between Los Angeles and New York City offices, directing project execution across commercial, hospitality, and residential sectors. The firm emphasizes design-driven leasing narratives for new multifamily and mixed-use developments.",
-      "impact": "Ash Staging's prominence and client base (developers, large portfolios) indicate elevated importance of model unit design in competitive multifamily markets. For developers: strong staging drives leasing velocity and achieves higher ASP—especially critical in NYC and LA where luxury units demand design storytelling. Consider staging ROI in pro formas for ground-up and conversion projects."
+      "summary": "Ash Staging, a luxury staging and model residence design firm, has completed thousands of projects representing over $50 billion in real estate value over 15 years. Samantha Atlas, senior director of projects, splits time between Los Angeles and New York City and helped launch the firm's West Coast office. The company serves residential, commercial, and hospitality clients and specializes in helping buyers and renters visualize future homes.",
+      "impact": "Indirect but relevant to multifamily development execution and lease-up strategy. Model unit staging and professional design improve perception, shorten lease-up timelines, and support achievable rent targets at new multifamily properties. Ash's growth and dual-coast footprint reflect robust developer demand for these services—a proxy for active multifamily development and competitive pressures to differentiate at lease-up."
     },
     {
       "title": "Proptech Seed Rounds This Year Are in Full Bloom",
@@ -92,12 +107,12 @@
       "cat": "Commercial",
       "date": "2026-08-25T10:40:38+00:00",
       "bullets": [
-        "Proptech seed rounds $5M–$10M largest in any industry vertical in 2026",
-        "15+ deals in $5M–$10M range: Breezy (LA, AI OS), Grotto (NYC, leasing AI), Hint (Charlotte, home mgmt)",
-        "CRETI reports 30 deals in range, $207.3M total, 4.6% of all proptech funding"
+        "Proptech seed rounds: largest number in $5M–$10M band across all industries in 2026",
+        "AI-driven platforms: Breezy (L.A.), Grotto (Manhattan), Hint (Charlotte) top $10M seed rounds",
+        "30 deals $5M–$10M in H1 2026 = $207.3M; proptech overall reached $4.53B funding YTD"
       ],
-      "summary": "Proptech companies attracted the largest number of $5M–$10M seed rounds across all industries in 2026, with AI-driven platforms leading. Notable funded companies include Breezy (LA-based AI operating system for residential pros), Grotto AI (NYC-based leasing/renewal automation), and Hint (Charlotte-based AI home management). At least 15 deals closed in this range in 2026 alone, representing $207.3M and 4.6% of total proptech funding year-to-date.",
-      "impact": "Strategic signal for multifamily operators: venture capital is flooding residential and leasing tech, particularly AI-driven tools. This signals market belief in efficiency gains for leasing, resident engagement, and operations. Developers should audit current tech stack—underinvestment in leasing automation, tenant experience, and asset management software may become competitive liability as best-in-class competitors adopt AI-powered tools. Consider acquisition or partnership risks from well-funded proptech entrants."
+      "summary": "Proptech companies drew the largest number of $5–$10 million seed rounds across all industries in 2026, driven largely by AI innovation. Top $10 million seed rounds include Breezy (AI OS for residential real estate pros, L.A.), Grotto AI (AI leasing/renewal tools, Manhattan), and Hint (AI home-management platform, Charlotte). H1 2026 saw 30 deals in the $5–$10M band totaling $207.3 million (4.6% of all funding), with overall proptech funding reaching $4.53 billion year-to-date.",
+      "impact": "High relevance to multifamily development and operations. Surge in AI-driven proptech funding signals investor conviction in technology solutions for leasing efficiency, tenant retention, and asset management—areas where multifamily operators have struggled with margin compression and resident churn. Breezy and Grotto target multifamily professionals directly; expect faster adoption of AI leasing and renewal automation, tightening competitive dynamics on lease-up speed and pricing power across major metros."
     },
     {
       "title": "How Landlords Are Cutting Their Eviction Costs",
@@ -107,12 +122,12 @@
       "cat": "Commercial",
       "date": "2026-08-25T04:00:02+00:00",
       "bullets": [
-        "NYC contested evictions cost $15K–$50K; missed rent is largest cost component",
-        "PandaGuarantee founder: six-month+ rent loss (non-payment) exceeds legal/court fees",
-        "Rent guarantee platform automates applicant approvals, lowers operational friction, prevents vacancy"
+        "NYC contested evictions cost $15K–$50K; largest expense is missed rent, not legal fees",
+        "PandaGuarantee: rent guarantee platform offering fast approvals, low cost, streamlined UX",
+        "Nonpayment cases extend 6+ months without collection, creating opportunity cost for landlords"
       ],
-      "summary": "PandaGuarantee, founded by Tom DeRose, addresses the economic burden of evictions in NYC, where contested cases cost $15K–$50K each. The largest cost driver is missed rent during multi-month non-payment proceedings—not attorney fees. PandaGuarantee automates rent guarantor services with minute-level applicant approvals, affordable pricing, and user-friendly underwriting to prevent extended vacancies and operational drag.",
-      "impact": "Significant for NYC multifamily operators: missed rent (opportunity cost of 6+ months vacancy/non-payment) dwarfs legal costs. Adoption of fast, automated guarantor vetting reduces underwriting friction, improves lease-up speed, and minimizes rent-loss exposure—directly improving asset-level IRRs and stabilization timelines. For developers financing construction: this operational efficiency can improve debt service coverage and lender confidence in pro formas."
+      "summary": "NYC contested evictions run $15,000–$50,000, with missed rent—not legal fees—representing the largest cost driver. PandaGuarantee, co-founded by Tom DeRose, is a rent guarantee platform offering rapid applicant approvals, economical pricing, and user-friendly tech to reduce the opportunity cost of vacant or non-paying units. Nonpayment cases often drag 6+ months, during which landlords collect nothing.",
+      "impact": "Significant operational relevance to multifamily developers/operators in high-regulation markets, particularly NYC. Fast, efficient rent guarantees reduce cash-flow volatility and vacancy risk—critical underwriting variables. Broader implication: proptech solutions targeting tenant financial risk will gain adoption as interest rates remain elevated and resident default risk persists, improving operator IRR and asset valuations in supply-constrained, high-rent metros like NYC."
     },
     {
       "title": "Tavaco Properties Buys DMV Office for $29M",
@@ -122,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-08-24T23:35:50+00:00",
       "bullets": [
-        "Tavaco Properties buys Falls Church office building, 272K SF, for $28.5M",
-        "Seller James Campbell acquired 2016 for $43.7M; third DMV acquisition in 12 months, ~$65M total",
-        "Prior deals: Twinbrook Plaza (Rockville, $8.2M vs. $15.5M 2016); Ballston Station (Arlington, $28M vs. $58.2M)"
+        "Tavaco Properties bought Falls Church office building (272K SF) for $28.5M; paid $43.7M in 2016",
+        "Third D.C.-area office acquisition since late 2025; total ~$65M across three deals",
+        "James Campbell Company sold at 34.8% loss; Tavaco specializes in distressed office optims"
       ],
-      "summary": "Tavaco Properties, an LA-based opportunistic investor, paid $28.5M for a 272.3K-SF, 14-story office building in Falls Church, Va., representing a 35% discount from James Campbell Company's 2016 purchase price of $43.7M. This is Tavaco's third D.C.-area office acquisition in 12 months, totaling ~$65M, including Rockville's Twinbrook Plaza ($8.2M, down 47% from 2016) and Arlington's Ballston Station ($28M, down 52% from 30-year-old value).",
-      "impact": "DMV office-to-residential conversion opportunity signal: chronic DMV office underperformance (50%+ price declines over 5–8 years) creates conditions for value-add conversions to multifamily. Tavaco's repeated acquisition suggests it sees conversion arbitrage potential. However, check Falls Church zoning and entitlements—conversion feasibility and market demand for new units will determine whether this signals emerging supply opportunity or simply capital seeking yield in stabilized office. Monitor DMV office cap-rate compression and conversion costs."
+      "summary": "Tavaco Properties, a Los Angeles-based firm specializing in underperforming assets, purchased a 272,300-SF, 14-story office building in Falls Church, Va. (3110 Fairview Park Drive) for $28.5 million. Seller James Campbell Company bought the property in 2016 for $43.7 million, representing a 34.8% loss. This is Tavaco's third D.C.-area office acquisition since late 2025, totaling ~$65 million, including Twinbrook Plaza (Rockville) and Ballston Station (Arlington).",
+      "impact": "Moderate relevance to multifamily in D.C. metro. Sustained office distress and acquisition by specialist value-adds suggest secular D.C. office oversupply and tenant softness, which may signal worker outmigration or remote-work persistence. However, Tavaco's repeated D.C. buys indicate belief in long-term office-to-other conversion potential. Multifamily developers should monitor: if office-to-multifamily conversions accelerate in Arlington, Falls Church, or Rockville, supply could spike; conversely, if conversions stall, underutilized office footprint may depress labor-market confidence and dampen multifamily demand in those submarkets."
     },
     {
       "title": "Taconic, NREA Add Premium Indian Restaurant to Hell’s Kitchen Mixed-Use",
@@ -137,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-08-24T22:01:40+00:00",
       "bullets": [
-        "Taconic Partners, NREA sign Samudhra (premium Indian restaurant/lounge) at The Ellery, Hell's Kitchen",
-        "10K SF space, 43rd St retail frontage; Samudhra's first NYC location (second overall)",
-        "Mixed-use development curated retail/dining to drive resident and neighborhood foot traffic"
+        "Samudhra (premium Indian restaurant/lounge) signed 10K SF lease at The Ellery, Hell's Kitchen, NYC",
+        "Mixed-use residential development (Taconic Partners, NREA); Samudhra's first NYC location, second overall",
+        "Full-service dining, bar, lounge on West 43rd Street to serve residents and neighborhood"
       ],
-      "summary": "Taconic Partners and National Real Estate Advisors leased 10K SF of retail space at The Ellery, a luxury mixed-use residential development at 312 W. 43rd St. in Hell's Kitchen, to Samudhra, a New Jersey-based premium Indian restaurant and lounge. This marks Samudhra's first NYC location and second overall. The space includes full dining, bar, and lounge, positioned to serve residents and the broader neighborhood.",
-      "impact": "Moderate; primarily indicates successful mixed-use retail/dining leasing at high-barrier Hell's Kitchen. The Ellery's ability to attract a premium, non-chain restaurant operator signals strong residential demand in the area and validates Taconic's mixed-use programming strategy. For developers: premium first-location restaurant commitments at lease-up demonstrate traffic confidence and brand aspiration—useful comp for underwriting retail NOI in Manhattan mixed-use projects. Monitor Hell's Kitchen rent growth and renter demographics for multifamily fundamentals."
+      "summary": "Taconic Partners and National Real Estate Advisors signed a lease with Samudhra, a premium Indian restaurant and lounge, for approximately 10,000 SF at The Ellery, a luxury mixed-use residential development at 312 W. 43rd Street in Hell's Kitchen. The space includes dining area, bar, and lounge, and represents Samudhra's first New York City location and second overall. The addition enhances The Ellery's retail and dining mix to serve both residents and the broader neighborhood.",
+      "impact": "Minor but supportive relevance to Hell's Kitchen multifamily. Premium restaurant tenancy signals developer confidence in The Ellery's residential absorption and resident spending power, which validates the submarket's appeal to affluent renters. Strong retail/dining mix enhances resident experience and supports pricing power for the residential component; however, single-tenant lease does not change neighborhood fundamentals. Watch for: if high-end dining continues to anchor Hell's Kitchen mixed-use projects, it signals sustained demand for luxury multifamily in the area and may support new development feasibility."
     },
     {
       "title": "Transwestern Signs New Grocer Lease at 680 North Lake Shore Drive",
@@ -152,27 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-24T22:00:04+00:00",
       "bullets": [
-        "680 Lakeside Market (5.5K SF grocer) leases space at 680 N. Lake Shore Drive, Chicago",
-        "Golub & Company, TopMed Realty ownership; property dubbed 'Medical Research District' hub",
-        "Grocer positioned as wellness/convenience amenity for residents, workers, medical professionals"
+        "680 Lakeside Market (5.5K SF grocer) signed lease at 680 North Lake Shore Drive, Chicago Streeterville",
+        "Ownership: Golub & Company and TopMed Realty; property marketed as wellness/convenience hub",
+        "Grocer fills ground-floor retail, enhances day-to-day experience for building residents/users"
       ],
-      "summary": "Golub & Company and TopMed Realty leased 5.5K SF of retail space at 680 N. Lake Shore Drive in Chicago's Streeterville Medical Research District to 680 Lakeside Market, a specialty grocer. Transwestern represented ownership. The property is positioned as a vibrant wellness hub with day-to-day convenience amenities for residents and medical professionals in the high-density urban district.",
-      "impact": "Minimal direct impact on multifamily development. However, Streeterville/Medical Research District is a high-barrier, employment-dense submarket anchored by hospitals and research institutions. Grocery-anchored retail at Class A residential towers signals tenant stability and renter retention through convenience amenities. For Chicago developers: Streeterville's continued retail activation and institutional anchor strength support multifamily rent resilience and premium positioning near medical employment clusters."
-    },
-    {
-      "title": "Landmark Properties Delivers 1,261-Bed Student Housing Near USC Campus",
-      "link": "https://www.connectcre.com/stories/landmark-properties-delivers-1261-bed-student-housing-near-usc-campus/",
-      "excerpt": "Landmark Properties has delivered The Standard at Los Angeles, a 429-unit, 1,261-bed student housing community at 3900 South Figueroa St., 0.3 miles from the University of Southern California in Los Angeles. It represents Landmark&#8217;s second ground-up development in LA. Rising eight stories, the project was designed by HED, with Landmark Construction, the in-house construction arm of Landmark Properties, serving as general contractor. &#8220;We&#8217;re excited to open doors at The Standard at Los Angeles and welcome our first residents to our community – just steps from USC&#8217;s campus, BMO Stadium and Memorial Coliseum,&#8221; said Jason Doornbos, chief development officer at Landmark Properties. &#8220;The Standard&#8217;s market-leading amenities, design, and luxury unit finishes set a new benchmark for student housing near USC, and this delivery reflects the caliber our team consistently delivers at Landmark.&#8221; In 2025, Landmark delivered its first development in the area, The Mark Los Angeles near UCLA, and also acquired Icon Plaza and West 27th Place, which serve students attending USC. Stay ahead of the multifamily market at Connect Apartments. Gain firsthand insights from industry leaders on capital markets, development, operations, financing, and investment trends while expanding your network with the people making deals happen. See you on September 22! The post Landmark Properties Delivers 1,261-Bed Student Housing Near USC Campus appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-24T21:54:00+00:00",
-      "bullets": [
-        "Landmark Properties delivers 1,261-bed, 429-unit student housing near USC, Los Angeles",
-        "The Standard at Los Angeles 8-story, 0.3 miles from USC campus, second LA ground-up",
-        "Landmark's second LA delivery (prior: The Mark near UCLA); also acquired Icon Plaza, West 27th Place"
-      ],
-      "summary": "Landmark Properties delivered The Standard at Los Angeles, an 8-story, 429-unit, 1,261-bed student housing community at 3900 South Figueroa St., 0.3 miles from USC's main campus. Designed by HED and built by Landmark Construction, it is Landmark's second ground-up development in LA. In 2025, Landmark also delivered The Mark Los Angeles near UCLA and acquired Icon Plaza and West 27th Place for USC-area students.",
-      "impact": "Strong demand signal for LA multifamily: Landmark's repeat ground-ups and acquisitions in USC and UCLA submarkets, plus expansion of portfolio around major universities, indicates sustained rental demand from student and young-professional populations in LA. The Standard's position directly adjacent to USC campus and sports venues (BMO Stadium, Memorial Coliseum) signals confidence in dense, walk-able student housing. For developers: university adjacency and lifestyle amenities continue to command premium rents and strong absorption in LA. Monitor USC/Figueroa corridor for additional multifamily and mixed-use competition and rent bifurcation by proximity to campus."
+      "summary": "Golub & Company and TopMed Realty, owners of 680 N. Lake Shore Drive in Chicago's Streeterville Medical Research District, signed a lease with 680 Lakeside Market, a 5,512-SF grocer. Transwestern represented ownership. The grocer fills ground-floor retail and is positioned as enhancing the building's reputation as a wellness and convenience hub serving the building and medical district.",
+      "impact": "Minor relevance. If 680 North Lake Shore Drive is residential or mixed-use with a residential component, grocery tenancy improves walkability and resident satisfaction in Streeterville, supporting rent growth. However, the article does not specify whether the building contains apartments. As a standalone transaction, it signals healthy Chicago Streeterville retail demand and confidence in the medical district's vitality, which broadly supports multifamily demand in that submarket—but the effect is contextual, not direct."
     }
   ]
 }
