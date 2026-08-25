@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-25T13:41:28.404778+00:00",
+  "fetchedAt": "2026-08-25T14:35:41.261198+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -15,15 +15,60 @@
     {
       "label": "30Y Treasury",
       "value": "5.19%",
-      "pct": -0.78
+      "pct": -0.75
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "99.17",
-      "pct": 0.07
+      "value": "99.00",
+      "pct": -0.11
     }
   ],
   "stories": [
+    {
+      "title": "Cellular Provider InfiniG Secures $5M Seed Funding",
+      "link": "https://commercialobserver.com/2026/08/cellular-provider-infinig-seed-round/",
+      "excerpt": "InfiniG, an enterprise cellular platform for commercial real estate, announced Tuesday that it has raised a $5.2 million seed round. Early-stage venture capital firms J2 Ventures and Stormbreaker Ventures led the round. Los Gatos, Calif.-based InfiniG said it will use the funding to expand its mobile coverage as a service (MCaaS) product rollouts, automate mobile-operator integration, scale its InfiniG Insights, and advance the platform&#8217;s automation and physical artificial intelligence. InfiniG’s MCaaS platform enables building owners to deploy neutral-host, multicarrier indoor cellular coverage without the complexity and cost of traditional distributed antenna systems, according to the company. The platform also creates an upgradeable foundation for future 5G services, private wireless networks, physical AI and connected-building applications. “The mobile operators — the AT&amp;T, Verizon and T-Mobiles of the world — have traditionally provided coverage,” said Joel Lindholm, co-founder and CEO at InfiniG. “The processes that have been used for the last 10 to 20 years really require people to come into each building using those processes and their own technologies, and that&#8217;s been very limiting. That&#8217;s why only the biggest buildings or biggest venues have coverage. That&#8217;s also why you see most buildings in the United States do not have coverage, whether they be hospitals or hotels, offices, warehouses or manufacturing floors.” Lindholm’s firm stepped into the gap. “Our solution is focused on being able to cover those thousands of buildings instead of the hundreds of buildings from the legacy model. Fundamentally, we have to look at the world in a new way for the next decade. The 10- to 20-year-old technologies are just no longer satisfactory.” InfiniG uses Citizens Broadband Radio Service (CBRS), a non-carrier spectrum, to provide a single radio infrastructure in a building that is shared equally across all the mobile operators. The property ",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-25T14:00:11+00:00",
+      "bullets": [
+        "InfiniG raises $5.2M seed funding led by J2 Ventures, Stormbreaker Ventures",
+        "Platform deploys neutral-host cellular coverage without traditional DAS complexity/cost",
+        "Automation targets mobile-operator integration, 5G readiness, physical AI buildout"
+      ],
+      "summary": "InfiniG, a Los Gatos-based proptech firm, closed a $5.2M seed round to scale its Mobile Coverage as a Service (MCaaS) platform, which simplifies indoor 5G and private wireless deployment for commercial real estate owners. The platform eliminates traditional distributed antenna system (DAS) friction and enables multicarrier coverage via software-driven automation. InfiniG plans to expand rollouts, automate carrier onboarding, and advance physical AI capabilities.",
+      "impact": "Minimal direct impact on multifamily development demand/supply/capital/cost. Tangentially relevant: if MCaaS gains adoption in new apartment communities, it could become a low-cost amenity differentiator for leasing and resident connectivity, but this is upstream infrastructure—not a market signal for unit demand or construction feasibility."
+    },
+    {
+      "title": "Benderson Picks Up 3 Florida Retail Assets for Nearly $37M",
+      "link": "https://www.connectcre.com/stories/benderson-picks-up-3-florida-retail-assets-for-nearly-37m/",
+      "excerpt": "Benderson Development acquired three retail properties on the Gulf Coast, totaling 400,000 square feet. The company paid $36.91 million for the three properties. The first acquisition is Granada Plaza, a Publix-anchored retail center located in the Tampa suburb of Dunedin at the intersection of Main Street and Keene Road. The second acquisition is Venice Market Place, a shopping center at the intersection of Tamiami Trail and Center Road in Venice. It sold for nearly $10 million last month. Selig Enterprises was the seller. Benderson also purchased a retail building leased to Lowe’s Home Improvement at 10070 Estero Town Commons Place in Estero. Benderson bought the store for $9.5 million in June. It last sold in 2005 for $4.38 million. The property is located at 10070 Estero Town Commons Place Benderson is based in University Park and has more than 1,000 properties totaling 58 million square feet of retail space in its national portfolio. The post Benderson Picks Up 3 Florida Retail Assets for Nearly $37M appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-25T13:48:27+00:00",
+      "bullets": [
+        "Benderson Development acquires 3 Gulf Coast retail assets for $36.91M total",
+        "Tampa-area (Dunedin, Venice, Estero FL) anchored by Publix, Lowe's operators",
+        "Venice property last sold $10M; Estero Lowe's rose from $4.38M (2005) to $9.5M"
+      ],
+      "summary": "Benderson Development, a Sarasota-based retailer with 58M SF nationally, bought three Florida Gulf Coast retail properties totaling 400K SF for $36.91M. Assets include Granada Plaza (Publix anchor, Dunedin), Venice Market Place ($10M), and an Estero Lowe's box ($9.5M, resale of $4.38M 2005 purchase). Portfolio consolidation suggests ongoing landlord confidence in essential-anchored retail in Tampa Bay and Southwest Florida submarkets.",
+      "impact": "Moderate relevance to multifamily: Benderson's acquisition signal in Tampa Bay (Dunedin, Estero) reflects continued retail fundamentals and foot traffic in these high-growth submarkets. Strong retail anchors near multifamily sites can drive mixed-use development feasibility and co-tenancy quality. Monitor Tampa Bay rent growth and population influx—retail stabilization supports residential upside."
+    },
+    {
+      "title": "Baptist Health Acquires 493K-SF Jax Medical Office Complex",
+      "link": "https://www.connectcre.com/stories/baptist-health-acquires-493k-sf-jax-medical-office-complex/",
+      "excerpt": "Baptist Health paid $65 million for the Southbank Medical Pavilion, a 493,000-square-foot healthcare asset at 841 Prudential Drive in downtown Jacksonville. ShareMD was the seller. Transwestern represented ShareMD in the disposition to Baptist Health. The 22-story Southbank Medical Pavilion is 94% leased and situated on 7.9 acres along the Southbank of the St. Johns River. The property is directly adjacent to Baptist Health’s flagship campus and near Wolfson Children’s Hospital, Baptist MD Anderson Cancer Center and Nemours Children’s Health.&nbsp; In addition to the medical tower, the property includes a six-story, 1,124-space parking garage totaling 324,212 square feet and two development outparcels. Transwestern’s Healthcare Capital Markets team of Steve Leathers, Bill Boyd, Seth Gilford, Jake Jordan, Angela Heidman, and Max Hastings represented ShareMD. The Transwestern Group led the marketing and sale process, generating offers from healthcare-focused investors, Jacksonville office investors and healthcare providers. The post Baptist Health Acquires 493K-SF Jax Medical Office Complex appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-25T13:27:45+00:00",
+      "bullets": [
+        "Baptist Health acquires 493K-SF Southbank Medical Pavilion, Jacksonville for $65M",
+        "22-story tower 94% leased, adjacent to flagship hospital campus, 7.9 acres",
+        "Portfolio includes 1,124-space parking garage, two development outparcels"
+      ],
+      "summary": "Baptist Health paid $65M for the Southbank Medical Pavilion, a 493K-SF medical office tower in downtown Jacksonville with 94% occupancy, parking, and two outparcels. The 22-story asset sits on 7.9 riverfront acres directly adjacent to Baptist Health's flagship campus, children's hospital, and cancer center. Share MD was the seller; Transwestern brokered the transaction.",
+      "impact": "Limited direct multifamily impact. However, Baptist Health's major capital deployment on Southbank (downtown Jacksonville riverfront) signals institutional healthcare expansion in JAX and long-term anchor-tenant stability. This reduces downside risk for mixed-use residential redevelopment near the riverfront and supports downtown Jacksonville's urban multifamily pipeline by validating medical employment and walkable density."
+    },
     {
       "title": "Samantha Atlas of Ash Staging: 5 Questions",
       "link": "https://commercialobserver.com/2026/08/samantha-atlas-ash-staging-5-questions/",
@@ -32,27 +77,27 @@
       "cat": "Commercial",
       "date": "2026-08-25T12:00:55+00:00",
       "bullets": [
-        "Ash Staging completed thousands of projects worth $50B+ across residential, commercial, hospitality over 15 years.",
-        "Senior director Samantha Atlas leads Los Angeles office, splits time between LA and NYC markets.",
-        "Model unit staging influences renter/buyer perception and decision-making at lease-up and sales phases."
+        "Ash Staging has staged 15+ years of projects, $50B+ real estate represented",
+        "Founder Samantha Atlas runs LA office, splits time between LA and NYC",
+        "Staging critical for model units, leasing velocity, and luxury renter perception"
       ],
-      "summary": "Ash Staging, a luxury staging and model residence design firm, has completed thousands of projects representing over $50 billion in real estate value across residential, commercial, and hospitality sectors over 15 years. Samantha Atlas, senior director of projects, has been with the company for nine years and leads its Los Angeles office. The article focuses on the role of professional staging in helping prospective renters and buyers visualize future homes and make leasing/purchase decisions.",
-      "impact": "Limited direct relevance to multifamily development strategy. Professional staging is a lease-up and marketing tool that enhances absorption velocity and pricing, but does not affect supply, capital availability, construction costs, or demand fundamentals. Worth considering as a soft cost in pro formas and pre-opening strategy, but not a primary driver of development feasibility or market conditions."
+      "summary": "Ash Staging, a luxury staging and model-residence design firm, has completed thousands of projects representing $50B+ in real estate over 15 years. Senior Director Samantha Atlas splits time between Los Angeles and New York City offices, directing project execution across commercial, hospitality, and residential sectors. The firm emphasizes design-driven leasing narratives for new multifamily and mixed-use developments.",
+      "impact": "Ash Staging's prominence and client base (developers, large portfolios) indicate elevated importance of model unit design in competitive multifamily markets. For developers: strong staging drives leasing velocity and achieves higher ASP—especially critical in NYC and LA where luxury units demand design storytelling. Consider staging ROI in pro formas for ground-up and conversion projects."
     },
     {
       "title": "Proptech Seed Rounds This Year Are in Full Bloom",
       "link": "https://commercialobserver.com/2026/08/proptech-seed-rounds-2026-amounts/",
-      "excerpt": "To the surprise of some, or perhaps many, proptech has reportedly drawn the largest number of $5 million to $10 million seed rounds across industries in 2026. To the surprise of no one, artificial intelligence has a lot to do with those seed rounds. According to a Crunchbase report published July 31, at the top of the scale with $10 million seed rounds are proptech companies such as Breezy, a Los Angeles-based startup offering an AI operating system for residential real estate professionals; Grotto AI, a Manhattan-based IT and Internet firm offering AI-based tools for leasing and renewals; and Hint, a Charlotte, N.C.-based AI‑powered home‑management platform for homeowners. There have been at least 15 proptech seed rounds in the $5 million to $10 million scale so far in 2026, according to Crunchbase, which did not provide an overall number of deals in the category. A Center for Real Estate Technology and Innovation (CRETI) report found 30 deals in the $5 million to $10 million range in the first half of 2026 totaling $207.3 million and representing 4.6 percent of funding across all rounds. Overall proptech venture funding reached $4.53 billion across 231 disclosed funding rounds in the first half of 2026, with a median funding round of $6.75 million. Compared with the prior year, the market was broadly stable. First-half 2026 funding was down 0.6 percent from the first half of 2025 and up 2.6 percent from the first half of 2024, CRETI reported. The total number of seed fundings industry-by-industry is an elusive number. However, according to Seedtable, a global intelligence platform for startups, a typical seed round across industries is $2 million (median), stepping up to $9 million at Series A and $20 million at Series B. Seed is the most common stage by deal count, accounting for 29,708 tracked rounds in 2026. Caren Maio, CEO and co-founder of Manhattan-based 100, a platform that helps multifamily operators to take fraud and friction out of renting, said AI has m",
+      "excerpt": "To the surprise of some, or perhaps many, proptech has reportedly drawn the largest number of $5 million to $10 million seed rounds across industries in 2026. To the surprise of no one, artificial intelligence has a lot to do with those seed rounds. According to a Crunchbase report published July 31, at the top of the scale with $10 million seed rounds are proptech companies such as Breezy, a Los Angeles-based startup offering an AI operating system for residential real estate professionals; Grotto AI, a Manhattan-based IT and Internet firm offering AI-based tools for leasing and renewals; and Hint, a Charlotte, N.C.-based AI‑powered home‑management platform for homeowners. There have been at least 15 proptech seed rounds in the $5 million to $10 million scale so far in 2026, according to Crunchbase, which did not provide an overall number of deals in the category. A Center for Real Estate Technology and Innovation (CRETI) report found 30 deals in the $5 million to $10 million range in the first half of 2026 totaling $207.3 million and representing 4.6 percent of funding across all rounds. Overall proptech venture funding reached $4.53 billion across 231 disclosed funding rounds in the first half of 2026, with a median funding round of $6.75 million. Compared with the prior year, the market was broadly stable. First-half 2026 funding was down 0.6 percent from the first half of 2025 and up 2.6 percent from the first half of 2024, CRETI reported. The total number of seed fundings industry-by-industry is an elusive number. However, according to Seedtable, a global intelligence platform for startups, a typical seed round across industries is $2 million (median), stepping up to $9 million at Series A and $20 million at Series B. Seed is the most common stage by deal count, accounting for 29,708 tracked rounds in 2026. 100 CEO Caren Maio. Photo: Moved Caren Maio, CEO and co-founder of Manhattan-based 100, a platform that helps multifamily operators to take fraud and frict",
       "source": "Comm. Observer",
       "cat": "Commercial",
       "date": "2026-08-25T10:40:38+00:00",
       "bullets": [
-        "Proptech seed rounds reach $5M–$10M range, with 15+ deals in H1 2026 totaling $207.3M.",
-        "AI-driven platforms: Breezy (LA), Grotto AI (Manhattan), Hint (Charlotte) each raised $10M seeds.",
-        "Proptech represents 4.6% of all venture funding; AI tools target leasing, renewals, and property management."
+        "Proptech seed rounds $5M–$10M largest in any industry vertical in 2026",
+        "15+ deals in $5M–$10M range: Breezy (LA, AI OS), Grotto (NYC, leasing AI), Hint (Charlotte, home mgmt)",
+        "CRETI reports 30 deals in range, $207.3M total, 4.6% of all proptech funding"
       ],
-      "summary": "Proptech companies have drawn the largest number of $5 million to $10 million seed rounds across industries in 2026, with at least 15 deals in that range totaling $207.3 million. AI-powered platforms dominate, including Breezy (Los Angeles), Grotto AI (Manhattan), and Hint (Charlotte), each raising $10 million seeds. These tools focus on leasing, renewals, and resident management, with proptech representing 4.6 percent of overall venture funding in the first half of 2026.",
-      "impact": "AI-driven leasing and property management tools may reduce operational costs and accelerate unit turnover, improving NOI and cap rates. However, widespread adoption could compress leasing spreads and reduce pricing power if competitors gain equal access. Watch for tools that improve tenant retention (reducing vacancy) and streamline renewal cycles—these directly affect asset value in multifamily underwriting. Monitor adoption rates by third-party managers to assess competitive pressure on your asset management advantage."
+      "summary": "Proptech companies attracted the largest number of $5M–$10M seed rounds across all industries in 2026, with AI-driven platforms leading. Notable funded companies include Breezy (LA-based AI operating system for residential pros), Grotto AI (NYC-based leasing/renewal automation), and Hint (Charlotte-based AI home management). At least 15 deals closed in this range in 2026 alone, representing $207.3M and 4.6% of total proptech funding year-to-date.",
+      "impact": "Strategic signal for multifamily operators: venture capital is flooding residential and leasing tech, particularly AI-driven tools. This signals market belief in efficiency gains for leasing, resident engagement, and operations. Developers should audit current tech stack—underinvestment in leasing automation, tenant experience, and asset management software may become competitive liability as best-in-class competitors adopt AI-powered tools. Consider acquisition or partnership risks from well-funded proptech entrants."
     },
     {
       "title": "How Landlords Are Cutting Their Eviction Costs",
@@ -62,12 +107,12 @@
       "cat": "Commercial",
       "date": "2026-08-25T04:00:02+00:00",
       "bullets": [
-        "NYC evictions cost $15K–$50K; missed rent is largest expense, not legal/court fees.",
-        "PandaGuarantee offers rent guarantee service with minute-level approvals to reduce landlord vacancy losses.",
-        "Nonpayment proceedings in NY can last 6+ months without rent collection, creating major cash-flow drag."
+        "NYC contested evictions cost $15K–$50K; missed rent is largest cost component",
+        "PandaGuarantee founder: six-month+ rent loss (non-payment) exceeds legal/court fees",
+        "Rent guarantee platform automates applicant approvals, lowers operational friction, prevents vacancy"
       ],
-      "summary": "Contested evictions in New York City cost $15,000 to $50,000 each, with missed rent—not legal fees—accounting for the majority of losses. Eviction timelines can stretch six months or longer, leaving landlords without income while cases proceed. PandaGuarantee offers a faster, cheaper rent guarantee and applicant approval service designed to reduce nonpayment risk and vacancy losses.",
-      "impact": "NYC multifamily developers and operators face significant cash-flow volatility from protracted eviction timelines. Rent guarantee products like PandaGuarantee reduce collection risk and improve underwriting stability, but adoption signals landlord concern over tenant credit quality and payment reliability in the market. If rent guarantees become standard, assume higher lease-up costs and lower effective rents net of guarantor fees. Flag early if NYC protections tighten further—this could erode property-level cash flows and cap-rate assumptions in New York City."
+      "summary": "PandaGuarantee, founded by Tom DeRose, addresses the economic burden of evictions in NYC, where contested cases cost $15K–$50K each. The largest cost driver is missed rent during multi-month non-payment proceedings—not attorney fees. PandaGuarantee automates rent guarantor services with minute-level applicant approvals, affordable pricing, and user-friendly underwriting to prevent extended vacancies and operational drag.",
+      "impact": "Significant for NYC multifamily operators: missed rent (opportunity cost of 6+ months vacancy/non-payment) dwarfs legal costs. Adoption of fast, automated guarantor vetting reduces underwriting friction, improves lease-up speed, and minimizes rent-loss exposure—directly improving asset-level IRRs and stabilization timelines. For developers financing construction: this operational efficiency can improve debt service coverage and lender confidence in pro formas."
     },
     {
       "title": "Tavaco Properties Buys DMV Office for $29M",
@@ -77,12 +122,12 @@
       "cat": "Commercial",
       "date": "2026-08-24T23:35:50+00:00",
       "bullets": [
-        "Tavaco paid $28.5M for 272K SF office building in Falls Church; seller took 35% loss since 2016.",
-        "Tavaco completed 3 DMV-area office acquisitions since late 2024 for ~$65M total; specializes in distressed assets.",
-        "Prior sales in region: Twinbrook Plaza 50% below 2016 value; Ballston Station 52% below 30-year-ago price."
+        "Tavaco Properties buys Falls Church office building, 272K SF, for $28.5M",
+        "Seller James Campbell acquired 2016 for $43.7M; third DMV acquisition in 12 months, ~$65M total",
+        "Prior deals: Twinbrook Plaza (Rockville, $8.2M vs. $15.5M 2016); Ballston Station (Arlington, $28M vs. $58.2M)"
       ],
-      "summary": "Tavaco Properties acquired a 272,300-square-foot office building in Falls Church, Virginia, for $28.5 million, representing a 35 percent loss for the seller (James Campbell Company) since its 2016 purchase at $43.7 million. This is Tavaco's third Greater Washington-area office acquisition since late 2024, totaling approximately $65 million. Prior purchases (Twinbrook Plaza and Ballston Station) also show significant depreciation, indicating severe office market distress in the DMV.",
-      "impact": "Sustained office distress in Greater Washington reflects structural demand collapse and limited conversion-to-multifamily economics for older office stock. The 35–52 percent haircuts across recent sales suggest cap rates have repriced materially higher, but also signal that ground-up multifamily development may face competition from adaptive-reuse projects at distressed prices. For greenfield multifamily developers, monitor office conversion velocity and pricing in Ballston, Arlington, and Rockville—if landlords can't fill office, they will pivot to residential, potentially depressing new-project land values and rents in those submarkets."
+      "summary": "Tavaco Properties, an LA-based opportunistic investor, paid $28.5M for a 272.3K-SF, 14-story office building in Falls Church, Va., representing a 35% discount from James Campbell Company's 2016 purchase price of $43.7M. This is Tavaco's third D.C.-area office acquisition in 12 months, totaling ~$65M, including Rockville's Twinbrook Plaza ($8.2M, down 47% from 2016) and Arlington's Ballston Station ($28M, down 52% from 30-year-old value).",
+      "impact": "DMV office-to-residential conversion opportunity signal: chronic DMV office underperformance (50%+ price declines over 5–8 years) creates conditions for value-add conversions to multifamily. Tavaco's repeated acquisition suggests it sees conversion arbitrage potential. However, check Falls Church zoning and entitlements—conversion feasibility and market demand for new units will determine whether this signals emerging supply opportunity or simply capital seeking yield in stabilized office. Monitor DMV office cap-rate compression and conversion costs."
     },
     {
       "title": "Taconic, NREA Add Premium Indian Restaurant to Hell’s Kitchen Mixed-Use",
@@ -92,27 +137,12 @@
       "cat": "Commercial",
       "date": "2026-08-24T22:01:40+00:00",
       "bullets": [
-        "Taconic/NREA signed Samudhra (premium Indian restaurant/lounge) at The Ellery mixed-use in Hell's Kitchen.",
-        "Samudhra occupies 10K SF along West 43rd Street; marks NYC debut and second location overall.",
-        "Full-service dining and bar amenities support mixed-use strategy for Hell's Kitchen residential tower."
+        "Taconic Partners, NREA sign Samudhra (premium Indian restaurant/lounge) at The Ellery, Hell's Kitchen",
+        "10K SF space, 43rd St retail frontage; Samudhra's first NYC location (second overall)",
+        "Mixed-use development curated retail/dining to drive resident and neighborhood foot traffic"
       ],
-      "summary": "Taconic Partners and National Real Estate Advisors signed a lease with Samudhra, a premium Indian restaurant and lounge, at The Ellery, a mixed-use residential development at 312 W. 43rd Street in Hell's Kitchen. Samudhra will occupy approximately 10,000 square feet with dedicated dining, bar, and lounge areas, marking its first New York City location and second overall.",
-      "impact": "Premium restaurant tenancy at street level strengthens The Ellery's mixed-use proposition and resident/neighborhood amenity profile, likely supporting higher residential rents and occupancy. However, this is a single-tenant activation and does not signal broader Hell's Kitchen retail health. Verify ground-floor absorption trends across the submarket; if Samudhra is one of few quality tenants leasing, ground-floor economics may remain challenged for new residential projects, compressing mixed-use development IRRs and extending stabilization timelines."
-    },
-    {
-      "title": "For Southern California, Defense Tech Is the Best Real Estate Offense",
-      "link": "https://commercialobserver.com/2026/08/california-advanced-manufacturing-tech-defense-aerospace/",
-      "excerpt": "It’s easy to assume Los Angeles’ biggest contribution to the defense industry and any war effort has been the production of movies and films that celebrate the heroism of combat. But, due to persistent geopolitical instability, combat that’s draining crucial weapon stockpiles, and ongoing efforts to adapt the United States military to the modern demands of high-tech warfare, defense spending is skyrocketing. And no place is benefiting from that more than Southern California, especially the South Bay, a grouping of small cities adjacent to Los Angeles, including Torrance, Hawthorne, Long Beach and El Segundo, that have seen their port-adjacent warehouse spaces transformed into hubs of military manufacturing activity. “The growth curve we’re seeing for the South Bay right now is unprecedented,” said Mac Burridge, a managing director at JLL who leads the advanced manufacturing team. “It&#8217;s very akin to the Inland Empire during COVID, where there was just a frenzy for space and only a finite amount available.” Historically, the South Bay has been a hotbed of aeronautics and space technology. Many of the largest traditional defense contractors, known as the primes, operate out of Greater L.A., and SpaceX, which held its blockbuster initial public offering earlier this year, was incubated in the small city of El Segundo, a nexus of startups and innovation just south of Los Angeles International Airport. That tech activity has recently gone into overdrive, a mobilization that has become one of the bright spots of the Southern California economy. A record $366 billion was invested last year in California startups, driven by the AI boom. But the defense tech boom might be even more pronounced. Last summer’s One Big Beautiful Bill Act appropriated $153 billion in defense spending on top of record Pentagon budgets, with a proposed $1.5 trillion of spending for next year. National venture capital investment in U.S. defense tech hit roughly $70 billion over the last four qu",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-24T22:00:35+00:00",
-      "bullets": [
-        "Defense spending surge benefiting Southern California, especially South Bay (Torrance, Hawthorne, Long Beach, El Segundo).",
-        "Port-adjacent warehouse spaces converting to military manufacturing hubs amid geopolitical instability and weapon stockpile depletion.",
-        "JLL notes South Bay growth 'unprecedented,' comparable to Inland Empire COVID frenzy; finite space available."
-      ],
-      "summary": "Defense spending is skyrocketing due to geopolitical instability, combat draining weapon stockpiles, and modernization efforts. Southern California's South Bay—including Torrance, Hawthorne, Long Beach, and El Segundo—is experiencing unprecedented growth as port-adjacent warehouse spaces transform into military manufacturing hubs. JLL's advanced manufacturing team notes the growth curve rivals the Inland Empire's COVID-era demand frenzy, with limited space available.",
-      "impact": "Defense manufacturing expansion in South Bay drives inbound employment and population growth, strengthening rental demand for workforce housing in Long Beach, Torrance, Hawthorne, and El Segundo submarkets. Developers should target Class-B/C multifamily infill near manufacturing clusters and transit. However, industrial land and warehouse space constraints may push developers to adaptive reuse or higher-density residential near ports. Monitor defense contractor hiring announcements (e.g., General Dynamics, Northrop Grumman, Raytheon expansions) to time land acquisition and underwriting windows before rents capitalize gains. Incumbent supply in South Bay is likely tight; new-build projects may command premium rents if delivered before supply influx."
+      "summary": "Taconic Partners and National Real Estate Advisors leased 10K SF of retail space at The Ellery, a luxury mixed-use residential development at 312 W. 43rd St. in Hell's Kitchen, to Samudhra, a New Jersey-based premium Indian restaurant and lounge. This marks Samudhra's first NYC location and second overall. The space includes full dining, bar, and lounge, positioned to serve residents and the broader neighborhood.",
+      "impact": "Moderate; primarily indicates successful mixed-use retail/dining leasing at high-barrier Hell's Kitchen. The Ellery's ability to attract a premium, non-chain restaurant operator signals strong residential demand in the area and validates Taconic's mixed-use programming strategy. For developers: premium first-location restaurant commitments at lease-up demonstrate traffic confidence and brand aspiration—useful comp for underwriting retail NOI in Manhattan mixed-use projects. Monitor Hell's Kitchen rent growth and renter demographics for multifamily fundamentals."
     },
     {
       "title": "Transwestern Signs New Grocer Lease at 680 North Lake Shore Drive",
@@ -122,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-08-24T22:00:04+00:00",
       "bullets": [
-        "680 N. Lake Shore Drive signs 680 Lakeside Market, a 5,512 SF grocer in Streeterville medical district.",
-        "Owners Golub & Company and TopMed Realty add retail amenity to residential/wellness hub property.",
-        "Grocer tenant enhances day-to-day convenience and occupant experience in high-rise."
+        "680 Lakeside Market (5.5K SF grocer) leases space at 680 N. Lake Shore Drive, Chicago",
+        "Golub & Company, TopMed Realty ownership; property dubbed 'Medical Research District' hub",
+        "Grocer positioned as wellness/convenience amenity for residents, workers, medical professionals"
       ],
-      "summary": "Transwestern announced a lease signing between 680 N. Lake Shore Drive owners (Golub & Company and TopMed Realty) and 680 Lakeside Market, a 5,512-square-foot grocer. The property, located in Streeterville's Medical Research District, positions the grocer as a convenience amenity that enhances the daily experience for residents and tenants.",
-      "impact": "Limited direct relevance. Ground-floor retail activation at a single Chicago lakefront property signals healthy leasing momentum in Streeterville but does not indicate broader market supply, demand, or capital dynamics. Note grocery retail as a stable, high-occupancy ground-floor tenant in mixed-use residential buildings, but this deal alone does not shift neighborhood rental demand or development strategy."
+      "summary": "Golub & Company and TopMed Realty leased 5.5K SF of retail space at 680 N. Lake Shore Drive in Chicago's Streeterville Medical Research District to 680 Lakeside Market, a specialty grocer. Transwestern represented ownership. The property is positioned as a vibrant wellness hub with day-to-day convenience amenities for residents and medical professionals in the high-density urban district.",
+      "impact": "Minimal direct impact on multifamily development. However, Streeterville/Medical Research District is a high-barrier, employment-dense submarket anchored by hospitals and research institutions. Grocery-anchored retail at Class A residential towers signals tenant stability and renter retention through convenience amenities. For Chicago developers: Streeterville's continued retail activation and institutional anchor strength support multifamily rent resilience and premium positioning near medical employment clusters."
     },
     {
       "title": "Landmark Properties Delivers 1,261-Bed Student Housing Near USC Campus",
@@ -137,42 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-24T21:54:00+00:00",
       "bullets": [
-        "Landmark Properties delivered The Standard at Los Angeles: 429 units, 1,261 beds, 0.3 miles from USC campus.",
-        "Eight-story student housing community designed by HED; Landmark's second ground-up LA development.",
-        "Project follows Landmark's 2025 LA expansion: The Mark (UCLA), Icon Plaza, West 27th Place acquisitions."
+        "Landmark Properties delivers 1,261-bed, 429-unit student housing near USC, Los Angeles",
+        "The Standard at Los Angeles 8-story, 0.3 miles from USC campus, second LA ground-up",
+        "Landmark's second LA delivery (prior: The Mark near UCLA); also acquired Icon Plaza, West 27th Place"
       ],
-      "summary": "Landmark Properties delivered The Standard at Los Angeles, a 429-unit, 1,261-bed student housing community located 0.3 miles from the University of Southern California. The eight-story project was designed by HED with Landmark's in-house construction arm as general contractor. This represents Landmark's second ground-up development in Los Angeles, following The Mark near UCLA in 2025 and additional acquisitions serving USC students.",
-      "impact": "Landmark's rapid USC-area deployment (two ground-ups plus acquisitions in 12 months) signals strong student housing demand and absorption near top-tier universities. For multifamily developers in college towns, track Landmark's stabilization timelines and unit pricing at The Standard to validate student housing economics. However, student housing is a specialized asset class with different demand drivers (enrollment, on-campus housing capacity, institutional policies). General-purpose multifamily developers should monitor if proximity to USC generates spillover demand for workforce/graduate housing and whether supply saturation in student housing depresses nearby conventional rental rates."
-    },
-    {
-      "title": "Inland Completes Equity Raise for St. Paul Opportunity Zone MF Project",
-      "link": "https://www.connectcre.com/stories/inland-completes-equity-raise-for-st-paul-opportunity-zone-mf-project/",
-      "excerpt": "Inland Real Estate Investment Corporation announced the completion of the approximately $28 million equity raise for Office Conversion Opportunity Zone, LLC, a private real estate investment vehicle structured to qualify as a Qualified Opportunity Fund and sponsored by an affiliate of Inland Investments. The offering has been fully subscribed and is now closed. The fund maintains an approximately 89 percent ownership interest in a 16-story building located at 386 Wabasha Street North in downtown St. Paul, Minnesota. The property is being redeveloped from an underutilized office building into a multifamily residential community featuring 178 apartment units and approximately 2,338 square feet of street-level retail space. The redevelopment is being executed in partnership with Kaeding Development Group LLC as development partner, R.E.C., Inc. d/b/a Ron Clark Construction &amp; Design as general contractor, and Bader Management, Inc. as property manager. If you&#8217;re reading about the multifamily industry, you should be in the room with its leaders. Connect Apartments brings together the executives featured in Connect CRE&#8217;s coverage for an afternoon of high-level insights and unmatched networking on September 22 at The Biltmore in LA. The post Inland Completes Equity Raise for St. Paul Opportunity Zone MF Project appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-24T21:48:19+00:00",
-      "bullets": [
-        "Inland completed $28M equity raise for Office Conversion Opportunity Zone project in downtown St. Paul.",
-        "16-story building at 386 Wabasha Street North converting to 178 multifamily units + 2,338 SF retail.",
-        "Qualified Opportunity Fund structure; partners include Kaeding Development, Ron Clark Construction, Bader Management."
-      ],
-      "summary": "Inland Real Estate Investment Corporation closed a $28 million equity raise for a Qualified Opportunity Fund structured to redevelop a 16-story underutilized office building in downtown St. Paul into 178 multifamily units and 2,338 square feet of street-level retail. The property at 386 Wabasha Street North is being developed in partnership with Kaeding Development Group, Ron Clark Construction, and Bader Management.",
-      "impact": "QOF structure with full equity subscription signals investor appetite for office-to-multifamily conversions in secondary markets (St. Paul) and confidence in tax-deferred capital recycling. Watch for: (1) stabilized rent and occupancy metrics at this asset to validate conversion economics; (2) whether other St. Paul downtown office will follow similar conversion pathways; (3) whether tax incentives are becoming a margin-compressing tool (i.e., developers forced to offer QOF slots to raise equity, signaling weaker fundamentals). If St. Paul multifamily rents soften due to conversion influx, new-build greenfield projects nearby may face headwinds. Track Bader Management's stabilization timeline and unit pricing."
-    },
-    {
-      "title": "Classical Christian School Acquires Permanent Upper West Side Home",
-      "link": "https://www.connectcre.com/stories/classical-christian-school-acquires-permanent-upper-west-side-home/",
-      "excerpt": "Denham Wolf Real Estate Services represented The Geneva School of Manhattan in acquiring a permanent Upper West Side campus, securing a long-term home for the independent Classical Christian school. Approved by the United States Bankruptcy Court in July, the acquisition establishes a long-term home for the school. The six-story, 38,838-square-foot educational facility was acquired for $33.2 million and will provide The Geneva School with a permanent campus to support its continued growth and long-term educational mission. The acquisition also represents an exceptional value, with the purchase price significantly below the cost of developing a comparable educational facility in&nbsp;Manhattan&nbsp;today, according to Denham Wolf. Led by Kate Hrobsky and Christopher D. Turner, Denham Wolf served as strategic real estate advisor throughout the acquisition process, providing search strategy, property identification, financial analysis, due diligence, negotiations, and bankruptcy sale advisory. Denham Wolf worked closely with&nbsp;BKREA’s Tom Brady, Ana Barrie, Ryan Candel, and Bob Knakal, who represented the bankruptcy trustees. The post Classical Christian School Acquires Permanent Upper West Side Home appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-24T21:42:31+00:00",
-      "bullets": [
-        "Geneva School of Manhattan acquired 38,838 SF, six-story Upper West Side campus for $33.2M.",
-        "Purchase approved by U.S. Bankruptcy Court; represents 'exceptional value' below new-build cost.",
-        "Denham Wolf provided search, financial analysis, due diligence, and bankruptcy advisory; Hrobsky and Turner led team."
-      ],
-      "summary": "The Geneva School of Manhattan, an independent classical Christian school, acquired a permanent Upper West Side campus at 38,838 square feet across six stories for $33.2 million. The acquisition, approved by U.S. Bankruptcy Court in July, provides a long-term educational home at a price significantly below the cost of comparable new construction in Manhattan.",
-      "impact": "Minimal relevance to multifamily development. Educational facility acquisition from bankruptcy is a distressed-asset transaction and does not reflect residential real estate demand, supply, or capital conditions. However, note that bankruptcy-exit deals signal liquidity stress in Manhattan commercial real estate; if institutional owners are exiting educational properties at steep discounts, broader NYC office/mixed-use markets may face similar pressure. Monitor whether school acquisition signals demand shift away from office/toward alternative uses, which could accelerate office-to-residential conversion activity and compete with greenfield multifamily development on pricing and capital availability."
+      "summary": "Landmark Properties delivered The Standard at Los Angeles, an 8-story, 429-unit, 1,261-bed student housing community at 3900 South Figueroa St., 0.3 miles from USC's main campus. Designed by HED and built by Landmark Construction, it is Landmark's second ground-up development in LA. In 2025, Landmark also delivered The Mark Los Angeles near UCLA and acquired Icon Plaza and West 27th Place for USC-area students.",
+      "impact": "Strong demand signal for LA multifamily: Landmark's repeat ground-ups and acquisitions in USC and UCLA submarkets, plus expansion of portfolio around major universities, indicates sustained rental demand from student and young-professional populations in LA. The Standard's position directly adjacent to USC campus and sports venues (BMO Stadium, Memorial Coliseum) signals confidence in dense, walk-able student housing. For developers: university adjacency and lifestyle amenities continue to command premium rents and strong absorption in LA. Monitor USC/Figueroa corridor for additional multifamily and mixed-use competition and rent bifurcation by proximity to campus."
     }
   ]
 }
