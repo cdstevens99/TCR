@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-25T17:23:30.575181+00:00",
+  "fetchedAt": "2026-08-25T18:25:40.217491+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -10,34 +10,64 @@
     {
       "label": "10Y Treasury",
       "value": "4.64%",
-      "pct": -1.34
+      "pct": -1.3
     },
     {
       "label": "30Y Treasury",
       "value": "5.17%",
-      "pct": -1.11
+      "pct": -1.07
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "99.24",
-      "pct": 0.14
+      "value": "99.25",
+      "pct": 0.15
     }
   ],
   "stories": [
     {
+      "title": "Sports Tech Firm Genius Sports Moves U.S. HQ to Vornado’s 1290 Avenue of the Americas",
+      "link": "https://commercialobserver.com/2026/08/genius-sports-vornado-1290-avenue-of-the-americas-lease/",
+      "excerpt": "Sports analytics and technology company Genius Sports is relocating its U.S. headquarters to 1290 Avenue of the Americas. The London-based company’s new 10-year lease with landlord Vornado Realty Trust spans 53,000 square feet across part of the tower’s sixth floor. Asking rent was $99 per square foot, according to The Real Deal, which first reported on the lease. Newmark’s Josh Berg and A.J. Dorn negotiated the deal on behalf of Genius Sports, while Vornado was represented in-house by Ryan Levy and Edward Riguardi. A spokesperson for the landlord declined to comment on the transaction. The deal offers Genius Sports a marked expansion from its 28,000-square-foot West Chelsea offices at 512 West 22nd Street. That building changed hands last year from Vornado and the Albanese Organization to Raghsa Real Estate for $205 million. Genius Sports’ arrival brings 1290 Avenue of the Americas to 95 percent occupancy. The 43-story, full-block building between 51st and 52nd streets is anchored by investment management firm Neuberger Berman, and recently underwent a $45 million renovation that updated lobby and building amenities. Vornado owns 70 percent of the building, while the Trump Organization holds a passive 30 percent stake. Other recent arrivals at the tower include business consulting firms Portage Point Partners and Protiviti, which CO reported leased a total of 93,000 square feet late last year. In January, investment manager Oaktree leased the building’s entire 12th floor, just a few stories below law firm Selendy Gay’s 101,000-square-foot offices. Spokespeople for Genius Sports and Newmark did not immediately respond to requests for comment. Emily Davis can be reached at edavis@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-25T18:19:04+00:00",
+      "bullets": [
+        "Genius Sports relocates U.S. HQ to 1290 Avenue of the Americas, 53K SF, $99/SF asking rent",
+        "Lease brings building to 95% occupancy; tenant doubles from 28K SF West Chelsea office",
+        "London-based sports tech firm signals Manhattan office market demand from growth-stage tech employers"
+      ],
+      "summary": "Genius Sports, a London-based sports analytics firm, signed a 10-year lease for 53,000 square feet at Vornado's 1290 Avenue of the Americas in Midtown Manhattan at $99/SF asking rent. The move represents a near-doubling of the company's NYC footprint from its previous 28K SF West Chelsea location. The lease brings the 43-story tower to 95% occupancy.",
+      "impact": "Tech and financial services tenant demand remains robust in Midtown Manhattan despite office sector headwinds, underpinning trophy-asset rents and occupancy. However, this signals continued flight to quality Class A office—not broad sector recovery—and reinforces that multifamily developers should monitor Midtown/Plaza District job growth (finance, tech, professional services) as a leading indicator of residential demand in nearby submarkets like Hell's Kitchen, Tribeca, and Upper East Side."
+    },
+    {
+      "title": "SJC Ventures Sells Whole Foods-Anchored Center in South Florida for $83M",
+      "link": "https://commercialobserver.com/2026/08/sjc-whole-foods-doral-miami-traditions/",
+      "excerpt": "SJC Ventures has sold a newly completed Whole Foods-anchored retail center in Doral, Fla., for $83 million, property records show. Called Doral Marketplace, the property spans 89,000 square feet at 10800 Northwest 41st Street, about a mile east of the Florida Turnpike and 14 miles west of Downtown Miami. Atlanta-based SJC Ventures completed the 10-acre strip mall last quarter. The sale excluded a 1.8-acre portion of the property leased to Chick-fil-A. Records list the buyer as Traditions Management, a Dallas-based developer and operator of senior living communities. The buyer assumed a loan with $50 million in outstanding debt, which has now been assigned to the Bank of Texas. Whole Foods is Doral Marketplace’s biggest tenant with a 43,000-square-foot location. Other tentants include J. Crew Factory, Ulta Beauty, Shake Shack, First Watch, GoodVets, The Spot Barbershop, Encore Nails, VIO MedSpa and Apizza Brooklyn Resto + Vino. The sale comes as Miami-Dade County retail leasing remains strong. During the second quarter of 2026, average asking rents jumped to $42.50 per square foot, up 2.6 percent quarter-over-quarter, while the vacancy rate fell to 3 percent. More than 1.3 million square feet of retail space remains under construction, including another Whole Foods location in South Beach, for which developer Russell Galbut nabbed a $54 million construction loan last year. Representatives for SJC Ventures and Traditions Management did not immediately respond to requests for comment. Julia Echikson can be reached at jechikson@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-25T17:45:56+00:00",
+      "bullets": [
+        "SJC Ventures sells Whole Foods-anchored Doral Marketplace to Traditions Management for $83M",
+        "Retail center spans 89K SF; buyer assumes $50M loan, paid $33M equity",
+        "Miami-Dade County Q2 2026 retail asking rents hit $42.50/SF, +2.6% YoY growth"
+      ],
+      "summary": "SJC Ventures sold Doral Marketplace, a newly completed 89,000-square-foot Whole Foods-anchored retail center in Doral, Florida, for $83 million to Traditions Management, a Dallas-based senior living developer. The buyer assumed $50 million in debt; the sale excluded an adjacent 1.8-acre Chick-fil-A pad. Miami-Dade County retail rents accelerated to $42.50/SF in Q2 2026, up 2.6% year-over-year.",
+      "impact": "Strong retail leasing momentum and rent growth in West Dade/Doral signals robust local consumer demand and population health in the corridor. For multifamily developers, this validates growing residential demand in outer-ring Dade County suburbs (Doral, Medley, Tamarac areas) as white-collar and service workers seek affordability near job clusters; pipeline of new retail and entertainment anchors supports case for apartment construction in these submarkets."
+    },
+    {
       "title": "KeyBank Expands to 113K SF at Elecor’s 1301 Avenue of the Americas",
       "link": "https://commercialobserver.com/2026/08/keybank-lease-expansion-elecor-1301-avenue-of-the-americas/",
-      "excerpt": "A major banking institution has added 15,292 square feet to its Manhattan office footprint, Commercial Observer has learned. Keybank signed a 15-year deal to renew its existing space and expand to 112,924 square feet at Elecor Properties’ 1301 Avenue of the Americas across the entire 35th, 36th and 37th floors, as well as portions of the 28th and 38th floors, according to the landlord. Asking rent for the Plaza District office tower was not disclosed, but the average asking rent for office space in Midtown in the second quarter of 2026 was $86.18 per square foot, according to a report from CBRE. &#8220;As KeyBank continues to grow and adapt to the evolving needs of our business, we remain focused on providing our employees with an environment that fosters collaboration and connection,&#8221; John Manginelli, Hudson Valley and metro New York market president at KeyBank, said in a statement. &#8220;Expanding our footprint at 1301 Avenue of the Americas enables us to support that vision while positioning us for continued growth and enhanced service to our clients across the region.&#8221; JLL’s Matthew Astrachan, Justin Haber, Kyle Riker, Adam Hill and Bob Beckstedt represented KeyBank in the transaction, while Peter Brindley, Douglas Neye and Sean Kirk handled negotiations in-house for Elecor Properties. “This was a highly strategic transaction that addressed several priorities at once: securing more space for KeyBank’s growing businesses, keeping its teams together within one elevator bank, creating the opportunity to upgrade the existing workplace, and establishing a true New York City headquarters with prominent signage,” Astrachan said in a statement. Other tenants in the building between West 52nd and West 53rd streets include investment bank Piper Sandler, which signed a lease for 140,000 square feet in August 2025, back when Elecor was still Paramount Group. Michael Nierenberg’s Rithm Capital acquired Paramount Group’s 16-building portfolio and rebranded the fo",
+      "excerpt": "A major banking institution has added 15,292 square feet to its Manhattan office footprint, Commercial Observer has learned. Keybank signed a 15-year deal to renew its existing space and expand to 112,924 square feet at Elecor Properties’ 1301 Avenue of the Americas across the entire 35th, 36th and 37th floors, as well as portions of the 28th and 38th floors, according to the landlord. Asking rent for the Plaza District office tower was not disclosed, but the average asking rent for office space in Midtown in the second quarter of 2026 was $86.18 per square foot, according to a report from CBRE. &#8220;As KeyBank continues to grow and adapt to the evolving needs of our business, we remain focused on providing our employees with an environment that fosters collaboration and connection,&#8221; John Manginelli, Hudson Valley and metro New York market president at KeyBank, said in a statement. &#8220;Expanding our footprint at 1301 Avenue of the Americas enables us to support that vision while positioning us for continued growth and enhanced service to our clients across the region.&#8221; JLL’s Matthew Astrachan, Justin Haber, Kyle Riker, Adam Hill and Bob Beckstedt represented KeyBank in the transaction, while Peter Brindley, Douglas Neye and Sean Kirk handled negotiations in-house for Elecor Properties. “This was a highly strategic transaction that addressed several priorities at once: securing more space for KeyBank’s growing businesses, keeping its teams together within one elevator bank, creating the opportunity to upgrade the existing workplace, and establishing a true New York City headquarters with prominent signage,” Astrachan said in a statement. Other tenants in the building between West 52nd and West 53rd streets include investment bank Piper Sandler, which signed a lease for 140,000 square feet in August 2025, back when Elecor was still Paramount Group. Michael Nierenberg’s Rithm Capital acquired Paramount Group’s 16-building portfolio and in April 2026 re",
       "source": "Comm. Observer",
       "cat": "Commercial",
       "date": "2026-08-25T17:16:54+00:00",
       "bullets": [
-        "KeyBank expands to 112,924 SF at 1301 Avenue of the Americas, Manhattan, 15-year renewal.",
-        "Midtown office asking rent $86.18/SF in Q2 2026; major tenant commitment signals demand.",
-        "Occupies entire 35th, 36th, 37th floors plus portions of 28th, 38th in Plaza District."
+        "KeyBank expands to 112.9K SF at Elecor's 1301 Avenue of the Americas, 15-year renewal",
+        "Occupies entire 35th, 36th, 37th floors plus portions of 28th and 38th",
+        "Midtown office asking rent averaged $86.18/SF in Q2 2026; bank grows NYC footprint"
       ],
-      "summary": "KeyBank signed a 15-year lease expanding its Manhattan footprint to 112,924 square feet at Elecor Properties' 1301 Avenue of the Americas in Midtown, adding 15,292 SF to existing space across multiple full and partial floors. The deal reflects continued institutional demand for premium office despite sector headwinds. Midtown office asking rents averaged $86.18/SF in Q2 2026, underscoring the Plaza District's resilience.",
-      "impact": "Large financial-services tenant commitment to expanded Midtown footprint signals institutional confidence in Manhattan's office market and workplace strategy despite elevated cap rates and financing constraints. This demand supports land and development economics for office-to-residential conversion plays and mixed-use projects in Manhattan's core, though the broader office sector remains in recovery-recession bifurcation."
+      "summary": "KeyBank signed a 15-year lease to renew and expand to 112,924 square feet at 1301 Avenue of the Americas in Manhattan's Plaza District, occupying the entire 35th, 36th, and 37th floors plus portions of the 28th and 38th. Midtown office asking rents averaged $86.18/SF in Q2 2026. KeyBank's statement emphasized employee collaboration and growth positioning.",
+      "impact": "Major regional bank expansion in Midtown signals sustained financial services employment growth in Manhattan, supporting baseline office demand and indirectly apartment demand among white-collar workers in surrounding residential markets (Midtown South, Turtle Bay, Roosevelt Island). However, this is a renewal with modest net-new space; true multifamily signal would emerge if KeyBank expands headcount materially or if competing banks similarly backfill leased space, confirming finance sector stabilization post-rates."
     },
     {
       "title": "League City Developer Pursuing Nearly 300K-SF of Retail, Industrial Space",
@@ -47,12 +77,12 @@
       "cat": "Commercial",
       "date": "2026-08-25T16:55:02+00:00",
       "bullets": [
-        "Alexander Grene Development breaks ground on $78M Lilac Field mixed-use park in League City, Texas.",
-        "290,000 SF total: 220,000 SF flexible warehouse, 70,000 SF retail/restaurant on 24.5 acres.",
-        "First two industrial buildings complete early 2027; targets aerospace, marine, tech, advanced manufacturing tenants."
+        "Alexander Grene Development breaks ground on $78M mixed-use Lilac Field in League City, TX",
+        "Project includes 70K SF retail/restaurant and 220K SF flexible warehouse on 24.5 acres",
+        "First two industrial buildings due early 2027; targets aerospace, aviation, tech, marine tenants"
       ],
-      "summary": "Alexander Grene Development has broken ground on Lilac Field, a $78 million, 24.5-acre mixed-use business park in League City between League City Parkway and SH 146. The development will deliver 220,000 square feet of warehouse, 70,000 square feet of retail and restaurant space, and 16 small warehouse units across seven retail/restaurant buildings. First industrial buildings are expected to complete in early 2027.",
-      "impact": "Speculative industrial and flex-warehouse development in League City signals strong regional demand for last-mile logistics and advanced manufacturing space tied to Houston's broader industrial and energy-services corridor. The developer's targeting of aerospace, marine, tech, and specialty distributors reflects in-migration of skilled manufacturing and supply-chain diversification away from coastal hubs—a demand catalyst for multifamily in the League City submarket as workforce follows job creation."
+      "summary": "Alexander Grene Development broke ground on Lilac Field, a $78 million mixed-use business park in League City, Texas spanning 24.5 acres with 70,000 square feet of retail/restaurant space and 220,000 square feet of flexible warehouse. The development includes 16 small warehouse units and seven retail buildings; first industrial deliveries expected early 2027. Target tenants include aerospace/aviation suppliers, marine service groups, and advanced manufacturing.",
+      "impact": "League City's diversification into light industrial, entertainment, and tech-adjacent uses reflects strong population and employment growth in the Houston-Galveston corridor, driving secondary market demand for workforce housing. Multifamily developers should monitor Lilac Field and similar industrial-retail mixed-use projects in League City/Pearland as leading indicators of near-term demand for Class B/C apartments for warehouse and service workers; proximity to SH 146 and League City Parkway increases commute accessibility."
     },
     {
       "title": "Prosper Developer Planning $240M Mixed-Use Project",
@@ -62,12 +92,12 @@
       "cat": "Commercial",
       "date": "2026-08-25T16:31:10+00:00",
       "bullets": [
-        "Naseem Shaik planning $240M Bella Prosper mixed-use project on 61 acres in Prosper, Texas.",
-        "Mix: 139-key hotel, office, 60,950 SF retail, restaurants, parking deck; no multifamily currently planned.",
-        "Expected to generate $88.3M net benefits over 25 years; Phase 1 construction originally slated late 2027."
+        "Naseem Shaik plans $240M Bella Prosper mixed-use project on 61 acres in Prosper, TX",
+        "Includes 139-key hotel, office, 60.9K SF retail, no multifamily; Phase 1 target late 2027",
+        "Project estimated to generate $88.3M net benefits to town over 25 years"
       ],
-      "summary": "Developer Naseem Shaik is advancing a $240 million Bella Prosper project on 61 acres in Prosper, Texas, featuring a 139-key business-traveler hotel, office space (including ground-floor and upper-level configurations), 60,950 square feet of retail, restaurants, public parking, and a waterfront park. The development is projected to generate $59.8 million in annual taxable sales and $88.3 million in net municipal benefits over 25 years. Phase 1 construction was originally scheduled to begin in late 2027.",
-      "impact": "Absence of multifamily in Bella Prosper despite large-scale development in fast-growing Prosper (north Dallas exurb) suggests either development economics disfavor residential at this site, or pipeline saturation in Prosper already underway. Developers should monitor whether office-and-hotel-anchored projects are cannibalizing multifamily demand in this submarket, or if Prosper's growth trajectory supports both; mixed-use without residential is a red flag for apartment feasibility."
+      "summary": "Developer Naseem Shaik is advancing Bella Prosper, a $240 million mixed-use development on 61 acres in Prosper, Texas, featuring a 139-key business hotel, office space, 60,950 square feet of retail, restaurants, and a public park with water feature. No multifamily component is currently planned. Phase 1 construction was originally slated for late 2027; the project is projected to generate $88.3 million in net town benefits over 25 years.",
+      "impact": "Prosper's mixed-use office-hotel-retail growth signals Dallas North employment hub maturation and attractions for business travelers and office workers, likely increasing residential demand nearby. However, the developer's deliberate exclusion of multifamily is notable—it suggests either land constraints, zoning limitations, or a competitive multifamily market in Prosper already well-served by nearby supply, indicating a saturated submarket; multifamily developers should validate absorption and rent trends in Prosper before entering."
     },
     {
       "title": "Retail Leads as CRE Recovery Diverges Across Sectors, Markets",
@@ -77,12 +107,12 @@
       "cat": "Commercial",
       "date": "2026-08-25T16:23:51+00:00",
       "bullets": [
-        "IRR 2026 Mid-Year Report: >90% of retail markets in recovery/expansion; office split evenly recovery/recession.",
-        "Multifamily performance driven by local supply cycles; industrial concentrated in expansion and hypersupply phases.",
-        "Flight-to-quality and modern/specialized assets outperforming; speculative construction slowed sharply across sectors."
+        "Integra Realty Resources 2026 mid-year report: 90% of retail markets in recovery/expansion",
+        "Office markets split evenly between recovery and recession; multifamily shaped by local supply cycles",
+        "Across all sectors, flight to quality persists; speculative construction slowed sharply"
       ],
-      "summary": "Integra Realty Resources' 2026 Mid-Year Viewpoint Report finds divergent sector recovery: retail leads with over 90% of markets in recovery or expansion, office remains split between recovery and recession, multifamily is shaped by local supply cycles, and industrial is concentrated in expansion and hypersupply. Across all sectors, flight-to-quality persists, with modern, specialized, and well-located properties outperforming commodity assets. Speculative construction has slowed significantly, and elevated long-term borrowing costs and equity return requirements are limiting transaction economics.",
-      "impact": "Multifamily developers face headwinds from elevated equity return requirements and constrained speculative construction pipeline, but local supply cycles present market-specific entry windows. The flight-to-quality trend underscores imperative for new, modern product in strong-demand submarkets; older stock and commodity assets will face pricing pressure. Industrial hypersupply signals competitive pressure on logistics-anchored mixed-use deals and potential softness in retail-warehouse conversions."
+      "summary": "Integra Realty Resources' 2026 Mid-Year Viewpoint Report shows marked divergence across CRE sectors: over 90% of retail markets are in recovery or expansion, while office markets remain evenly split between recovery and recession. Multifamily performance is driven primarily by local supply cycles and industrial is concentrated in expansion/hypersupply. All sectors exhibit a flight to quality, with modern, well-located, and specialized assets outperforming commodities. Speculative construction has slowed sharply.",
+      "impact": "This macro snapshot confirms that multifamily success depends entirely on local market supply-demand dynamics, not national trends—underwriting rigor on site-specific absorption, competing pipeline, and demographic inflows is non-negotiable. The pullback in speculative construction suggests rising cost of capital and lender caution; developers with strong capital access and basis can acquire distressed/shovel-ready deals from forced sellers or underwriters. Flight to quality also signals that Class A/trophy multifamily with modern amenities and premier locations will outperform B/C; consider repositioning or value-add strategies in secondary markets with supply constraints."
     },
     {
       "title": "Mac Cosmetics’ SoHo Flagship Relocates to 5K SF at 579 Broadway",
@@ -92,12 +122,12 @@
       "cat": "Commercial",
       "date": "2026-08-25T16:22:03+00:00",
       "bullets": [
-        "Mac Cosmetics relocates SoHo flagship 2 blocks to 5,325 SF at 579 Broadway, Manhattan.",
-        "Ground floor 3,825 SF plus 1,500 SF lower-level space; neighbors Pandora, Free People Movement.",
-        "Move from 506 Broadway alongside Bloomingdale's; lease terms and rent not disclosed."
+        "Mac Cosmetics relocates SoHo flagship to 5.3K SF at 579 Broadway, two blocks east",
+        "Lease includes 3.8K SF ground floor and 1.5K SF lower level; neighbors Pandora, Free People",
+        "Move reflects continued retail vitality in SoHo corridor despite broader urban retail consolidation"
       ],
-      "summary": "Mac Cosmetics has signed a lease for its next SoHo flagship at 579 Broadway (between Prince and East Houston Streets), totaling 5,325 square feet across ground floor (3,825 SF) and lower-level (1,500 SF) space in a five-story building. The move relocates the brand two blocks from its current location at 506 Broadway alongside Bloomingdale's. The relocation places Mac alongside premium retail anchors including Pandora and Free People Movement.",
-      "impact": "Minimal direct impact on multifamily development. Retail migration within SoHo reflects continued strength in luxury consumer spending and foot traffic in Manhattan's premier shopping corridor, but the 2-block relocation signals retail densification rather than new demand generation. Relevant only if developers are evaluating retail-anchored mixed-use projects in SoHo, where competition from established flagships may compress retail margins."
+      "summary": "Mac Cosmetics signed a lease for 5,325 square feet at 579 Broadway in Manhattan's SoHo neighborhood, relocating its flagship approximately two blocks from its current location at 506 Broadway alongside Bloomingdale's. The space includes 3,825 SF ground floor and 1,500 SF lower-level retail within a five-story building. The brand joins nearby tenants Pandora and Free People Movement in the trendy shopping corridor.",
+      "impact": "Continued flagship retail consolidation and relocation within SoHo indicates landlord competition for premium tenants and tenant optimization of customer traffic corridors; rents and occupancy remain resilient in trophy shopping districts. Multifamily developers should note that SoHo's retail-dining-entertainment ecosystem continues to anchor high rents and desirability for surrounding residential, supporting case for luxury/Class A apartment development in nearby Hudson Square, NoLita, and lower Manhattan if zoning and land availability permit; this micro-market remains demand-insulated vs. broader Manhattan softness."
     },
     {
       "title": "Vintage Phoenix Midrise Office Building Slated for Hotel Rooms",
@@ -107,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-08-25T16:10:00+00:00",
       "bullets": [
-        "CivicGroup and Sunflower Development converting 1928 Security Building Phoenix into 255-hotel-room property.",
-        "$135M renovation; building currently owned/leased by Maricopa County for 20+ years.",
-        "Includes 15,000 SF meeting space, five F&B outlets; Phase 1 starts Q1 2027, opens Q4 2028."
+        "CivicGroup and Sunflower Development convert 1928 Security Building to 255-room hotel, $135M reno",
+        "Building owned by Maricopa County; 20+ year lease-to-own by developers starting Q1 2027",
+        "Historic office-to-hospitality conversion reflects Phoenix downtown revitalization and visitor demand"
       ],
-      "summary": "Developers CivicGroup and Sunflower Development are converting the 1928 Security Building, a historic Phoenix office tower, into a 255-room hotel through a $135 million renovation. The project includes 15,000 square feet of meeting space (incorporating a historic 5,500-SF ballroom), five food-and-beverage outlets, and a 20-plus-year lease agreement with current owner Maricopa County. Construction is targeted to begin in Q1 2027 with opening in Q4 2028.",
-      "impact": "Office-to-hotel conversion in Phoenix's downtown core signals weakness in legacy office demand and highlights adaptive reuse as an alternative to multifamily conversion. The long-term county lease provides stable anchor tenant, reducing execution risk. This signals that Phoenix's downtown office market remains challenged; multifamily developers should assess whether downtown Phoenix still supports new residential or if demand is shifting to suburban, employment-proximate markets (Tempe, Chandler, Scottsdale)."
+      "summary": "Phoenix-based developers CivicGroup and Sunflower Development are converting the historic 1928 Security Building into a 255-room hotel with $135 million in renovation. The project includes 15,000 SF of meeting space, a 5,500 SF historic ballroom, and five F&B outlets. The building is owned by Maricopa County; developers will operate under a long-term lease starting Q1 2027, targeting opening in Q4 2028.",
+      "impact": "Downtown Phoenix office-to-hotel conversion signals weak office occupancy fundamentals and developer confidence in tourism/hospitality recovery over traditional office demand. For multifamily developers, this underscores that Phoenix's CBD is shifting toward hospitality and mixed-use entertainment rather than office density, tilting residential demand toward suburban/fringe markets (Scottsdale, Tempe, Gilbert) where renters seek walkable, amenity-rich neighborhoods near employment centers outside downtown. Avoid competing for downtown office-conversion residential plays; focus on transit-oriented or suburban mixed-use projects instead."
     },
     {
       "title": "Law Firm DLA Piper, Insurance Group Ascot Ink Deals at 1251 Avenue of the Americas",
@@ -122,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-08-25T15:47:44+00:00",
       "bullets": [
-        "DLA Piper expands 41,600 SF at 1251 Avenue of the Americas to total 210,000 SF, 8.5-year term.",
-        "Ascot Group extends 44,100 SF on 43rd floor, 12-year term, at $150/SF asking rent.",
-        "DLA Piper at $140/SF; both deals signal institutional tenant stability in Midtown office."
+        "DLA Piper expands 41.6K SF to 210K SF total at 1251 Avenue of the Americas, $140/SF",
+        "Ascot Group extends 44.1K SF insurance offices 12-year term at $150/SF on entire 43rd floor",
+        "Both deals signal sustained Midtown Plaza District demand from corporate tenants; asking rents remain elevated"
       ],
-      "summary": "At Mitsui Fudosan America's 1251 Avenue of the Americas (West 49th–50th Streets), law firm DLA Piper expanded by 41,600 square feet (29th floor, entire) on an 8.5-year term, bringing its total footprint to 210,000 square feet. Insurance group Ascot Group extended a 12-year lease for its 44,100-square-foot offices (43rd floor) at $150/SF asking rent after previously subleasing. DLA Piper's expansion was negotiated at $140/SF.",
-      "impact": "Back-to-back large institutional-tenant expansions and long-term commitments at a trophy Midtown office building demonstrate selective resilience in premium Manhattan office, supporting leasing economics and valuations for Class-A properties. However, the flight-to-quality dynamic suggests older, secondary office assets face continued pressure; multifamily conversion or repositioning of lower-tier office stock in Midtown remains a viable alternative strategy."
+      "summary": "Law firm DLA Piper expanded by 41,600 square feet on the entire 29th floor of Mitsui Fudosan America's 1251 Avenue of the Americas under an 8.5-year lease at $140/SF, bringing its total occupancy to 210,000 square feet. Insurance company Ascot Group concurrently signed a 12-year extension for 44,100 square feet on the entire 43rd floor at $150/SF, converting from a prior sublease arrangement.",
+      "impact": "Back-to-back expansions by major corporate tenants (law firm and insurance) in Plaza District Midtown validate sustained demand from anchor service-sector employers, underpinning office fundamentals and indirectly supporting nearby residential. However, both deals involve existing tenants rather than new-to-market entrants; true demand signal would be new corporate HQ relocations or openings. For multifamily: continued Midtown white-collar employment justifies continued investment in class-A residential near transit (Hudson Yards, Midtown South); monitor if current $140–150/SF office rents decline—a trigger for office-to-residential conversions."
     },
     {
       "title": "Value Defines Success for Dining Industry in 2026",
@@ -137,42 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-25T15:41:27+00:00",
       "bullets": [
-        "Placer.ai: Dining value-perception redefined in 2026 to include experience, quality, convenience, affordability.",
-        "Fast casual and fine dining outperforming; fast casual maintains positive traffic via loyalty and novelty.",
-        "Overall dining traffic trails 2025 in most months; Chipotle succeeds pairing menu novelty with value."
+        "Placer.ai white paper: 2026 dining traffic trails 2025 in most months; value perception broadening",
+        "Fast casual and fine dining outperform; Chipotle sustains momentum via novelty and loyalty perks",
+        "Consumers now evaluate value via experience, quality, convenience, affordability—not price alone"
       ],
-      "summary": "Placer.ai's white paper 'Dining In 2026: All Roads Lead To Value' finds that consumers are evaluating dining through a broader lens encompassing experience, quality, convenience, and affordability amid ongoing economic pressure. While overall dining traffic has trailed 2025 in most months, fast casual and fine dining are outperforming. Fast-casual chains like Chipotle are maintaining positive traffic momentum by pairing everyday value, menu novelty, and loyalty programs with quality and experience positioning.",
-      "impact": "Weak relevance to multifamily development. Dining-traffic trends inform retail-tenancy strategy and F&B anchor feasibility in mixed-use projects, but do not directly signal residential demand, job growth, or population migration. Relevant only if evaluating food-hall or restaurant-anchored mixed-use development; consumer pullback in casual dining suggests retail margins are compressed and food-service anchors require strong brand positioning."
-    },
-    {
-      "title": "Cellular Provider InfiniG Secures $5M Seed Funding",
-      "link": "https://commercialobserver.com/2026/08/cellular-provider-infinig-seed-round/",
-      "excerpt": "InfiniG, an enterprise cellular platform for commercial real estate, announced Tuesday that it has raised a $5.2 million seed round. Early-stage venture capital firms J2 Ventures and Stormbreaker Ventures led the round. Los Gatos, Calif.-based InfiniG said it will use the funding to expand its mobile coverage as a service (MCaaS) product rollouts, automate mobile-operator integration, scale its InfiniG Insights, and advance the platform&#8217;s automation and physical artificial intelligence. InfiniG’s MCaaS platform enables building owners to deploy neutral-host, multicarrier indoor cellular coverage without the complexity and cost of traditional distributed antenna systems, according to the company. The platform also creates an upgradeable foundation for future 5G services, private wireless networks, physical AI and connected-building applications. “The mobile operators — the AT&amp;T, Verizon and T-Mobiles of the world — have traditionally provided coverage,” said Joel Lindholm, co-founder and CEO at InfiniG. “The processes that have been used for the last 10 to 20 years really require people to come into each building using those processes and their own technologies, and that&#8217;s been very limiting. That&#8217;s why only the biggest buildings or biggest venues have coverage. That&#8217;s also why you see most buildings in the United States do not have coverage, whether they be hospitals or hotels, offices, warehouses or manufacturing floors.” Lindholm’s firm stepped into the gap. “Our solution is focused on being able to cover those thousands of buildings instead of the hundreds of buildings from the legacy model. Fundamentally, we have to look at the world in a new way for the next decade. The 10- to 20-year-old technologies are just no longer satisfactory.” InfiniG uses Citizens Broadband Radio Service (CBRS), a non-carrier spectrum, to provide a single radio infrastructure in a building that is shared equally across all the mobile operators. The property ",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-25T14:00:11+00:00",
-      "bullets": [
-        "InfiniG raises $5.2M seed funding from J2 Ventures and Stormbreaker Ventures.",
-        "Mobile coverage-as-a-service platform enables neutral-host, multicarrier indoor 5G without traditional DAS complexity.",
-        "Funding to scale MCaaS rollouts, automate operator integration, advance physical AI and connected-building apps."
-      ],
-      "summary": "InfiniG, a Los Gatos-based enterprise cellular platform, has closed a $5.2 million seed round led by J2 Ventures and Stormbreaker Ventures. The company's mobile-coverage-as-a-service (MCaaS) platform allows building owners to deploy neutral-host, multicarrier indoor cellular coverage without the cost and complexity of traditional distributed antenna systems (DAS), while creating an upgradeable foundation for 5G, private wireless networks, physical AI, and connected-building applications. Funding will accelerate MCaaS rollouts, automate mobile-operator integration, and scale automation and physical AI capabilities.",
-      "impact": "InfiniG's MCaaS platform reduces capital and operational barriers to on-site cellular and 5G deployment in commercial and multifamily buildings, potentially improving amenity value and tenant retention. For multifamily developers, this signals a market opportunity to differentiate new buildings through seamless indoor coverage without heavy infrastructure; reduces capex relative to traditional DAS and positions buildings for future connectivity-dependent uses. Relevant for Class-A multifamily targeting tech-forward tenants and connected-home features."
-    },
-    {
-      "title": "Samantha Atlas of Ash Staging: 5 Questions",
-      "link": "https://commercialobserver.com/2026/08/samantha-atlas-ash-staging-5-questions/",
-      "excerpt": "Staging can play a critical role in residential real estate. It helps to bring a model unit to life, and it provides potential renters and buyers with a glimpse of what their future home could look like. Successfully staging requires more than a properly positioned couch and some art on the walls. Enter Ash Staging, a luxury staging and model residence design business that has completed thousands of projects — including commercial and hospitality spaces — over the last 15 years, representing over $50 billion in real estate. Samantha Atlas, senior director of projects at Ash Staging, has been with the firm for nine years. She splits her time between Los Angeles and New York City, and helped to launch the company’s West Coast office. Commercial Observer caught up with Atlas in mid-August to discuss her time with Ash Staging and the value of her work in real estate. This interview has been edited for length and clarity. Commercial Observer: What is the mission of Ash Staging? Samantha Atlas: I&#8217;ve been with Ash for a little over nine years now, and really seen it grow. I run the L.A. office, and I joined the company at a time of growth. Since I joined, the story has been, “How do we continue to grow and change the narrative of what staging can be?” Generally speaking, for a long time the idea around staging has been neutrality — nothing with a serious point of view. I came to work at Ash because we sort of eschewed that. We want to imbue personality. We want our clients and our potential buyers of these homes to have an emotional response — it’s what drives us. We believe in the power of paint and will really push our clients to invest outside of the staging into the property to get it sold. What we really believe in, and how we position ourselves as a brand, is being a partner alongside our real estate agents, clients and developers. What are some of the projects that Ash has staged? We just finished staging the 100 Barclay penthouses. These are two gorgeous pent",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-25T12:00:55+00:00",
-      "bullets": [
-        "Ash Staging is luxury model-residence design and staging firm; 15-year track record across $50B+ real estate.",
-        "Staging supports model units and property marketing; Samantha Atlas runs L.A. office, based NYC/LA.",
-        "Completed thousands of commercial, hospitality, and residential projects; article profiles senior director."
-      ],
-      "summary": "Ash Staging is a luxury staging and model-residence design firm that has completed over $50 billion in real estate projects across residential, commercial, and hospitality sectors over 15 years. Samantha Atlas, senior director of projects, has been with the firm for nine years and runs its West Coast office while based between Los Angeles and New York City. The article profiles Atlas and the value of professional staging in residential real estate marketing and unit positioning.",
-      "impact": "Minimal direct impact on multifamily development strategy or market signals. Staging is a back-end execution and marketing tool for lease-up and sales. Relevant only if evaluating model-unit design budgets and pre-opening marketing spend for new multifamily communities; the article provides no data on market trends, demand, or capital availability affecting development feasibility."
+      "summary": "Placer.ai's 2026 white paper, 'Dining In 2026: All Roads Lead To Value,' finds that overall dining traffic has trailed 2025 in most months, yet value perceptions are evolving beyond pure affordability to include experience, quality, and convenience. Fast casual and fine dining segments are outperforming; Chipotle, for example, has maintained positive traffic by pairing menu innovation with loyalty programs.",
+      "impact": "Dining traffic weakness and bifurcation between fast casual/fine dining suggests middle-market casual dining is under pressure while price-value and premium experience categories thrive. For multifamily developers, this informs amenity and retail ground-floor strategy: include fast casual (Chipotle, Sweetgreen) and high-end dining/bars in mixed-use projects to drive leasing and NOI; avoid mid-tier sit-down casual concepts. Additionally, softening overall dining traffic may signal cautious consumer sentiment on discretionary spending, which could temper rent growth assumptions in new markets; validate local employment and wage trends before underwriting aggressive rent escalation."
     }
   ]
 }
