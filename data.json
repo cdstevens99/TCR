@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-25T15:34:17.355416+00:00",
+  "fetchedAt": "2026-08-25T16:25:47.237074+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -10,34 +10,75 @@
     {
       "label": "10Y Treasury",
       "value": "4.65%",
-      "pct": -1.17
+      "pct": -1.21
     },
     {
       "label": "30Y Treasury",
       "value": "5.18%",
-      "pct": -0.94
+      "pct": -1.05
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "99.19",
-      "pct": 0.09
+      "value": "99.20",
+      "pct": 0.1
     }
   ],
   "stories": [
+    {
+      "title": "Mac Cosmetics’ SoHo Flagship Relocates to 5K SF at 579 Broadway",
+      "link": "https://commercialobserver.com/2026/08/mac-cosmetics-579-broadway-lease-relocation/",
+      "excerpt": "Mac Cosmetics has selected a new foundation in Manhattan’s SoHo neighborhood. The global makeup brand signed a 5,325-square-foot lease at 579 Broadway between Prince and East Houston streets to host its next flagship location in the trendy shopping corridor, according to an announcement from landlord broker Newmark. The deal represents a relocation of just two blocks from Mac’s current perch alongside Bloomingdale’s at 506 Broadway. The landlord at 579 Broadway, Lord Shivas Properties, was represented by Newmark’s Ariel Schuster, Michael Paster and Logan Ryan. Paster said in a statement that the location, neighbored by brands like jewelry brand Pandora and bohemian clothing store Free People Movement, was a “natural fit for Mac Cosmetics.” The brand plans to occupy approximately 3,825 square feet on the ground floor and 1,500 square feet of lower-level space within the five-story building. The length of Mac’s lease and the asking rent were unclear, but a report from CBRE found retail rents near SoHo’s Prince Street averaged $1,408 per square foot during the second quarter of 2026. Mac will take possession of the storefront in January, according to Newmark. Its current occupant, British fashion retailer AllSaints, will occupy the space through the end of the year. A spokesperson for AllSaints did not immediately respond to a request for comment on its future plans in the neighborhood. Cushman &amp; Wakefield’s Mike O’Neill, Jason Greenstone and Taylor Reynolds negotiated the lease on behalf of Mac Cosmetics. The lease offered Mac the opportunity to secure a highly visible location in the corridor, O&#8217;Neill told CO in a statement. “We&#8217;re pleased to have helped facilitate a transaction that aligns Mac with a location well positioned to support its long-term retail objectives,” O&#8217;Neill said. Lord Shivas Properties also owns the lot’s adjacent storefront at 152 Mercer Street, the site of luxury knitwear brand Extreme Cashmere&#8216;s U.S. flagship. Emily",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-25T16:22:03+00:00"
+    },
+    {
+      "title": "Law Firm DLA Piper, Insurance Group Ascot Ink Deals at 1251 Avenue of the Americas",
+      "link": "https://commercialobserver.com/2026/08/dla-piper-ascot-group-leases-1251-avenue-of-the-americas/",
+      "excerpt": "Two office tenants at Mitsui Fudosan America’s 1251 Avenue of the Americas are extending or expanding their footprints, Commercial Observer has learned. Law firm DLA Piper expanded by 41,600 square feet on the entire 29th floor of the Midtown building with an 8.5-year term, bringing the law firm to a total of 210,000 square feet at the property between West 49th and West 50th streets. Meanwhile, insurance company Ascot Group signed a 12-year extension for its 44,100-square-foot offices on the entire 43rd floor, according to sources familiar with the deal. Ascot was previously subleasing the space. Asking rent for Ascot’s space was $150 per square foot, while the asking rent for DLA Piper’s deal was $140 per square foot, according to the source. Newmark&#8216;s David Falk, Pete Shimkin, Eric Cagner and Claire Koeppel are exclusive leasing agents for the 54-story office tower, but declined to comment. CBRE&#8216;s John Nugent and Alexander Golod negotiated on behalf of Ascot, while a separate CBRE team of Mike Wellen and Ken Rapp handled the deal for DLA Piper. CBRE did not immediately respond to a request for comment on the DLA Piper deal and declined to comment on Ascot. Other recent deals at 1251 Avenue of the Americas include a 41,600-square-foot lease for alternative investing firm LGT Capital Partners in May and an expansion to 80,200 square feet for Trust Company of the West in November 2025. Mark Hallum can be reached at mhallum@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-08-25T15:47:44+00:00"
+    },
+    {
+      "title": "Value Defines Success for Dining Industry in 2026",
+      "link": "https://www.connectcre.com/stories/value-defines-success-for-dining-industry-in-2026/",
+      "excerpt": "Value has become a defining theme across the dining industry, the definition of value can vary across the sector&#8217;s diverse restaurant categories and for individual brands, Placer.ai says in a new white paper. A closer look at chains across the industry suggests that, amid ongoing economic pressure, perceptions of value are evolving. Titled Dining In 2026: All Roads Lead To Value, the white paper says that consumers in 2026 appear to be evaluating value through a broader lens that includes experience, quality, convenience and affordability. While overall dining traffic this year has trailed 2025 in most months, some segments are doing better than others, such as fast casual and fine dining. Fast casual in particular has seen a number of dining chains maintaining positive traffic momentum by pairing everyday value with the benefits of full-service dining, reports Placer.ai. Chipotle, for example, has achieved success by pairing menu novelty with loyalty perks to reinforce a value proposition anchored by quality and experience The post Value Defines Success for Dining Industry in 2026 appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-25T15:41:27+00:00"
+    },
+    {
+      "title": "TCC Puts Wrap on Phoenix Sprouts Market, HQ",
+      "link": "https://www.connectcre.com/stories/tcc-puts-wrap-on-phoenix-sprouts-market-hq/",
+      "excerpt": "Trammell Crow Company completed a new development anchored by Sprouts Farmers Market in Phoenix. The 8-acre mixed-use development includes a 145,000-square-foot Class A office building serving as Sprouts Farmers Market&#8217;s new corporate headquarters, a 25,000-square-foot flagship grocery store, and approximately 11,000 square feet of retail space. The grocery store opened to the public last month, and the headquarters office building is now complete and ready for occupancy. Located within the CityNorth development near 56th Street and Loop 101, the headquarters was designed to support collaboration, innovation, and team member wellness. The office provides a variety of modern workplace amenities tailored to the needs of Sprouts’ growing workforce, including a community garden, rooftop deck, fitness center, and culinary kitchens. Project partners on the Sprouts Farmers Market headquarters development include U.S. Realty Advisors, RSP Architects, Wespac Construction, Inc., Keyser, and JLL. The post TCC Puts Wrap on Phoenix Sprouts Market, HQ appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-25T15:12:16+00:00"
+    },
+    {
+      "title": "Cross Ocean, Fuller Pick Up Massive Houston Office Campus",
+      "link": "https://www.connectcre.com/stories/cross-ocean-fuller-pick-up-massive-houston-office-campus/",
+      "excerpt": "Cross Ocean Partners and Fuller Realty have acquired Eldridge Place, a three-building, 828,784-square-foot office campus in Houston’s Energy Corridor. Commercial Search reports the last time the asset traded hands, in 2019, Granite Properties paid $78.4 million to the seller, TIER REIT. Eldridge Place consists of the 245,315-square-foot One Eldridge Place, the 275,283-square-foot Two Eldridge Place, and the 308,186-square-foot Three Eldridge Place. One and Two were developed in 1986, while Three came online in 2008. Located at 737, 757 and 777 N. Eldridge Parkway, the buildings were 94 percent leased all together at the time of sale. The property’s anchor tenant is Fluor Corp., which occupies about 413,000 square feet, including the entirety of Three Eldridge Place. The buildings have seen more than $20 million of capital improvements since 2019, including renovated lobbies and common areas, elevator modernization and upgraded building systems. Enhanced common-area amenities include a resort-style fitness center, pickleball courts, a full-service deli and a conference facility. The post Cross Ocean, Fuller Pick Up Massive Houston Office Campus appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-25T15:01:16+00:00"
+    },
+    {
+      "title": "Former Burned Out Charlotte Apartments Trade for Nearly $500K/Unit",
+      "link": "https://www.connectcre.com/stories/former-burned-out-charlotte-apartments-trade-for-nearly-500k-unit/",
+      "excerpt": "Mid-America Apartment Communities acquired Modera Liberty Row from Mill Creek Residential for $116.3 million. That works out to nearly $500,000 a unit. Mill Creek developed Modera Liberty Row in partnership with Hawthorne Residential Partners. It has 239 units across two buildings at 7740 and 7741 Liberty Row Drive. The development has been renamed MAA Liberty Row. Amenities include a pool, fitness center with yoga studio, multiple clubrooms, elevated courtyards, golf simulator lounge, bocce ball courts, coworking spaces, private offices, pet spa and bike storage. The Charlotte Business Observer reports the project was expected to be delivered in spring 2024 before a massive fire destroyed the nearly completed development in May 2023. The building that caught fire was demolished to the concrete slab, and workers removed the wood frame from the second building because of severe charring on the sides facing the fire. Reconstruction began in January 2024, and residents began moving in last summer. The post Former Burned Out Charlotte Apartments Trade for Nearly $500K/Unit appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-08-25T14:48:02+00:00"
+    },
     {
       "title": "Atlanta Church Buys 94K-SF Buckhead Office Building",
       "link": "https://www.connectcre.com/stories/atlanta-church-buys-94k-sf-buckhead-office-building/",
       "excerpt": "Transwestern brokered the acquisition of Piedmont Place, a 94,000-square-foot, four-story office building at 3520 Piedmont Road Northeast in Atlanta. Transwestern’s Bradley Fulkerson and Austin Hibbard represented Christ Covenant Church, which acquired the property from Hall Capital for $16.9 million, or $179 a square foot. Transwestern has also been retained to provide Agency Leasing and Asset Services for the Class A Buckhead property. “Since 2017, Christ Covenant Church has grown to more than 2,000 members and three campuses in metro Atlanta. At Piedmont Place, the Church has an opportunity to build a central gathering place to serve its membership today and reach the City of Atlanta well into the future,” said Jason Dees, Senior Pastor at Christ Covenant.&nbsp; Built in 1983, Christ Covenant plans to operate the property as a multi-tenant office building in the short term and develop a long-term campus, including the addition of a 2,500-seat sanctuary. The post Atlanta Church Buys 94K-SF Buckhead Office Building appeared first on Connect CRE.",
       "source": "Connect CRE",
       "cat": "Commercial",
-      "date": "2026-08-25T14:01:45+00:00",
-      "bullets": [
-        "Christ Covenant Church bought Piedmont Place office building, Atlanta Buckhead, $16.9M ($179/SF)",
-        "Church plans multi-tenant leasing near-term, long-term 2,500-seat sanctuary development on site",
-        "Church membership grew to 2,000+ across three metro Atlanta campuses since 2017"
-      ],
-      "summary": "Christ Covenant Church acquired the 94,000-SF Piedmont Place office building in Atlanta's Buckhead submarket for $16.9 million ($179/SF) from Hall Capital. The church, which has grown to 2,000+ members across three metro campuses, plans to operate it as multi-tenant office space initially while developing a long-term campus with a 2,500-seat sanctuary. Transwestern brokered the transaction and retained asset management.",
-      "impact": "Minimal direct multifamily relevance. However, institutional use conversions (office-to-other) signal softening Buckhead office absorption and may indicate secular office decline in that submarket, which could create future conversion opportunities or suppress near-term multifamily demand if office workers are displaced rather than relocated."
+      "date": "2026-08-25T14:01:45+00:00"
     },
     {
       "title": "Cellular Provider InfiniG Secures $5M Seed Funding",
@@ -45,44 +86,7 @@
       "excerpt": "InfiniG, an enterprise cellular platform for commercial real estate, announced Tuesday that it has raised a $5.2 million seed round. Early-stage venture capital firms J2 Ventures and Stormbreaker Ventures led the round. Los Gatos, Calif.-based InfiniG said it will use the funding to expand its mobile coverage as a service (MCaaS) product rollouts, automate mobile-operator integration, scale its InfiniG Insights, and advance the platform&#8217;s automation and physical artificial intelligence. InfiniG’s MCaaS platform enables building owners to deploy neutral-host, multicarrier indoor cellular coverage without the complexity and cost of traditional distributed antenna systems, according to the company. The platform also creates an upgradeable foundation for future 5G services, private wireless networks, physical AI and connected-building applications. “The mobile operators — the AT&amp;T, Verizon and T-Mobiles of the world — have traditionally provided coverage,” said Joel Lindholm, co-founder and CEO at InfiniG. “The processes that have been used for the last 10 to 20 years really require people to come into each building using those processes and their own technologies, and that&#8217;s been very limiting. That&#8217;s why only the biggest buildings or biggest venues have coverage. That&#8217;s also why you see most buildings in the United States do not have coverage, whether they be hospitals or hotels, offices, warehouses or manufacturing floors.” Lindholm’s firm stepped into the gap. “Our solution is focused on being able to cover those thousands of buildings instead of the hundreds of buildings from the legacy model. Fundamentally, we have to look at the world in a new way for the next decade. The 10- to 20-year-old technologies are just no longer satisfactory.” InfiniG uses Citizens Broadband Radio Service (CBRS), a non-carrier spectrum, to provide a single radio infrastructure in a building that is shared equally across all the mobile operators. The property ",
       "source": "Comm. Observer",
       "cat": "Commercial",
-      "date": "2026-08-25T14:00:11+00:00",
-      "bullets": [
-        "InfiniG raised $5.2M seed funding led by J2 Ventures and Stormbreaker Ventures",
-        "Enterprise cellular platform (MCaaS) for indoor coverage in commercial real estate buildings",
-        "Funding to expand 5G, private wireless networks, and physical AI for connected buildings"
-      ],
-      "summary": "InfiniG, a Los Gatos-based enterprise cellular platform, raised $5.2 million in seed funding to expand its mobile coverage-as-a-service (MCaaS) product. The platform enables building owners to deploy neutral-host, multicarrier indoor cellular coverage and builds a foundation for 5G, private wireless networks, and connected-building applications. Funding will accelerate product rollout, automate mobile-operator integration, and advance automation and physical AI.",
-      "impact": "Not directly relevant to multifamily development feasibility or demand. Tangentially supportive: improving in-building cellular and smart-building tech (connectivity, physical AI) could become a competitive amenity driver for new multifamily assets and potentially support higher rents, but the value is indirect and long-tail."
-    },
-    {
-      "title": "Benderson Picks Up 3 Florida Retail Assets for Nearly $37M",
-      "link": "https://www.connectcre.com/stories/benderson-picks-up-3-florida-retail-assets-for-nearly-37m/",
-      "excerpt": "Benderson Development acquired three retail properties on the Gulf Coast, totaling 400,000 square feet. The company paid $36.91 million for the three properties. The first acquisition is Granada Plaza, a Publix-anchored retail center located in the Tampa suburb of Dunedin at the intersection of Main Street and Keene Road. The second acquisition is Venice Market Place, a shopping center at the intersection of Tamiami Trail and Center Road in Venice. It sold for nearly $10 million last month. Selig Enterprises was the seller. Benderson also purchased a retail building leased to Lowe’s Home Improvement at 10070 Estero Town Commons Place in Estero. Benderson bought the store for $9.5 million in June. It last sold in 2005 for $4.38 million. The property is located at 10070 Estero Town Commons Place Benderson is based in University Park and has more than 1,000 properties totaling 58 million square feet of retail space in its national portfolio. The post Benderson Picks Up 3 Florida Retail Assets for Nearly $37M appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-25T13:48:27+00:00",
-      "bullets": [
-        "Benderson Development acquired three Gulf Coast Florida retail assets totaling 400K SF for $36.91M",
-        "Properties: Granada Plaza (Dunedin), Venice Market Place (Venice), Lowe's (Estero)",
-        "Benderson portfolio now exceeds 1,000 properties, 58M SF; Estero property appreciates since 2005 sale at $4.38M"
-      ],
-      "summary": "Benderson Development purchased three retail properties on Florida's Gulf Coast totaling 400,000 SF for $36.91 million: Granada Plaza (Publix-anchored, Dunedin), Venice Market Place (Venice), and a Lowe's-leased building in Estero ($9.5M). The Estero asset, acquired in June, has more than doubled in value since its 2005 sale at $4.38 million, reflecting strong Gulf Coast retail appreciation. Benderson's portfolio now exceeds 1,000 properties and 58 million SF nationally.",
-      "impact": "Not relevant to multifamily. Retail consolidation and price appreciation in Dunedin, Venice, and Estero submarkets signal strong consumer demand and property value growth in those Florida coastal communities, which may also support nearby multifamily rent growth and suggest healthy in-migration/affluence in those areas—useful as contextual demand signals for multifamily development in adjacent submarkets."
-    },
-    {
-      "title": "Baptist Health Acquires 493K-SF Jax Medical Office Complex",
-      "link": "https://www.connectcre.com/stories/baptist-health-acquires-493k-sf-jax-medical-office-complex/",
-      "excerpt": "Baptist Health paid $65 million for the Southbank Medical Pavilion, a 493,000-square-foot healthcare asset at 841 Prudential Drive in downtown Jacksonville. ShareMD was the seller. Transwestern represented ShareMD in the disposition to Baptist Health. The 22-story Southbank Medical Pavilion is 94% leased and situated on 7.9 acres along the Southbank of the St. Johns River. The property is directly adjacent to Baptist Health’s flagship campus and near Wolfson Children’s Hospital, Baptist MD Anderson Cancer Center and Nemours Children’s Health.&nbsp; In addition to the medical tower, the property includes a six-story, 1,124-space parking garage totaling 324,212 square feet and two development outparcels. Transwestern’s Healthcare Capital Markets team of Steve Leathers, Bill Boyd, Seth Gilford, Jake Jordan, Angela Heidman, and Max Hastings represented ShareMD. The Transwestern Group led the marketing and sale process, generating offers from healthcare-focused investors, Jacksonville office investors and healthcare providers. The post Baptist Health Acquires 493K-SF Jax Medical Office Complex appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-25T13:27:45+00:00",
-      "bullets": [
-        "Baptist Health purchased Southbank Medical Pavilion, Jacksonville, $65M for 493K SF",
-        "22-story medical office tower 94% leased; 7.9 acres with parking garage, development outparcels",
-        "Property adjacent to Baptist's flagship campus and major pediatric/oncology facilities"
-      ],
-      "summary": "Baptist Health acquired the 493,000-SF Southbank Medical Pavilion in downtown Jacksonville for $65 million, a 22-story medical office tower at 94% occupancy situated on 7.9 acres along the St. Johns River. The property includes a 1,124-space parking garage and two development outparcels, positioned directly adjacent to Baptist Health's flagship campus, Wolfson Children's Hospital, and Baptist MD Anderson Cancer Center. Transwestern's healthcare team represented seller ShareMD.",
-      "impact": "Moderate multifamily relevance to Jacksonville metro. Healthcare employer vertical integration and consolidation (Baptist's in-market acquisition of adjacent medical office) signals anchored, stable healthcare job base and institutional commitment to the Southbank/downtown corridor. This strengthens confidence in downtown Jacksonville multifamily fundamentals by reducing tenant base volatility, though it does not directly generate new rental demand."
+      "date": "2026-08-25T14:00:11+00:00"
     },
     {
       "title": "Samantha Atlas of Ash Staging: 5 Questions",
@@ -90,14 +94,7 @@
       "excerpt": "Staging can play a critical role in residential real estate. It helps to bring a model unit to life, and it provides potential renters and buyers with a glimpse of what their future home could look like. Successfully staging requires more than a properly positioned couch and some art on the walls. Enter Ash Staging, a luxury staging and model residence design business that has completed thousands of projects — including commercial and hospitality spaces — over the last 15 years, representing over $50 billion in real estate. Samantha Atlas, senior director of projects at Ash Staging, has been with the firm for nine years. She splits her time between Los Angeles and New York City, and helped to launch the company’s West Coast office. Commercial Observer caught up with Atlas in mid-August to discuss her time with Ash Staging and the value of her work in real estate. This interview has been edited for length and clarity. Commercial Observer: What is the mission of Ash Staging? Samantha Atlas: I&#8217;ve been with Ash for a little over nine years now, and really seen it grow. I run the L.A. office, and I joined the company at a time of growth. Since I joined, the story has been, “How do we continue to grow and change the narrative of what staging can be?” Generally speaking, for a long time the idea around staging has been neutrality — nothing with a serious point of view. I came to work at Ash because we sort of eschewed that. We want to imbue personality. We want our clients and our potential buyers of these homes to have an emotional response — it’s what drives us. We believe in the power of paint and will really push our clients to invest outside of the staging into the property to get it sold. What we really believe in, and how we position ourselves as a brand, is being a partner alongside our real estate agents, clients and developers. What are some of the projects that Ash has staged? We just finished staging the 100 Barclay penthouses. These are two gorgeous pent",
       "source": "Comm. Observer",
       "cat": "Commercial",
-      "date": "2026-08-25T12:00:55+00:00",
-      "bullets": [
-        "Ash Staging: luxury staging and model residence design, 15+ years, $50B+ real estate impact",
-        "Samantha Atlas leads L.A. office; firm operates Los Angeles and New York City",
-        "Services residential, commercial, hospitality; thousands of projects completed"
-      ],
-      "summary": "Ash Staging, a luxury staging and model residence design firm, has completed thousands of projects representing over $50 billion in real estate value over 15 years. Samantha Atlas, senior director of projects, splits time between Los Angeles and New York City and helped launch the firm's West Coast office. The company serves residential, commercial, and hospitality clients and specializes in helping buyers and renters visualize future homes.",
-      "impact": "Indirect but relevant to multifamily development execution and lease-up strategy. Model unit staging and professional design improve perception, shorten lease-up timelines, and support achievable rent targets at new multifamily properties. Ash's growth and dual-coast footprint reflect robust developer demand for these services—a proxy for active multifamily development and competitive pressures to differentiate at lease-up."
+      "date": "2026-08-25T12:00:55+00:00"
     },
     {
       "title": "Proptech Seed Rounds This Year Are in Full Bloom",
@@ -105,74 +102,7 @@
       "excerpt": "To the surprise of some, or perhaps many, proptech has reportedly drawn the largest number of $5 million to $10 million seed rounds across industries in 2026. To the surprise of no one, artificial intelligence has a lot to do with those seed rounds. According to a Crunchbase report published July 31, at the top of the scale with $10 million seed rounds are proptech companies such as Breezy, a Los Angeles-based startup offering an AI operating system for residential real estate professionals; Grotto AI, a Manhattan-based IT and Internet firm offering AI-based tools for leasing and renewals; and Hint, a Charlotte, N.C.-based AI‑powered home‑management platform for homeowners. There have been at least 15 proptech seed rounds in the $5 million to $10 million scale so far in 2026, according to Crunchbase, which did not provide an overall number of deals in the category. A Center for Real Estate Technology and Innovation (CRETI) report found 30 deals in the $5 million to $10 million range in the first half of 2026 totaling $207.3 million and representing 4.6 percent of funding across all rounds. Overall proptech venture funding reached $4.53 billion across 231 disclosed funding rounds in the first half of 2026, with a median funding round of $6.75 million. Compared with the prior year, the market was broadly stable. First-half 2026 funding was down 0.6 percent from the first half of 2025 and up 2.6 percent from the first half of 2024, CRETI reported. The total number of seed fundings industry-by-industry is an elusive number. However, according to Seedtable, a global intelligence platform for startups, a typical seed round across industries is $2 million (median), stepping up to $9 million at Series A and $20 million at Series B. Seed is the most common stage by deal count, accounting for 29,708 tracked rounds in 2026. 100 CEO Caren Maio. Photo: Moved Caren Maio, CEO and co-founder of Manhattan-based 100, a platform that helps multifamily operators to take fraud and frict",
       "source": "Comm. Observer",
       "cat": "Commercial",
-      "date": "2026-08-25T10:40:38+00:00",
-      "bullets": [
-        "Proptech seed rounds: largest number in $5M–$10M band across all industries in 2026",
-        "AI-driven platforms: Breezy (L.A.), Grotto (Manhattan), Hint (Charlotte) top $10M seed rounds",
-        "30 deals $5M–$10M in H1 2026 = $207.3M; proptech overall reached $4.53B funding YTD"
-      ],
-      "summary": "Proptech companies drew the largest number of $5–$10 million seed rounds across all industries in 2026, driven largely by AI innovation. Top $10 million seed rounds include Breezy (AI OS for residential real estate pros, L.A.), Grotto AI (AI leasing/renewal tools, Manhattan), and Hint (AI home-management platform, Charlotte). H1 2026 saw 30 deals in the $5–$10M band totaling $207.3 million (4.6% of all funding), with overall proptech funding reaching $4.53 billion year-to-date.",
-      "impact": "High relevance to multifamily development and operations. Surge in AI-driven proptech funding signals investor conviction in technology solutions for leasing efficiency, tenant retention, and asset management—areas where multifamily operators have struggled with margin compression and resident churn. Breezy and Grotto target multifamily professionals directly; expect faster adoption of AI leasing and renewal automation, tightening competitive dynamics on lease-up speed and pricing power across major metros."
-    },
-    {
-      "title": "How Landlords Are Cutting Their Eviction Costs",
-      "link": "https://commercialobserver.com/2026/08/how-landlords-are-cutting-their-eviction-costs/",
-      "excerpt": "By Tom DeRose, co-founder and CEO at PandaGuarantee ___________________________________________________________________________________________ Contested evictions in New York City are the most expensive in the world, running $15,000 to $50,000 each. But the single largest piece of that cost is missed rent, and missed rent is preventable. I started PandaGuarantee because the existing guarantor services were either too slow, too expensive or too confusing to applicants. The customer experience, both of the property owner and their tenants, seemed to be an afterthought. The thesis is simple: The rent guarantee process needs to be as efficient and affordable as possible. Applicant approvals in minutes, economical prices, and an easy to use platform that ties it all together. The $21,000 Problem When landlords think about evictions, they think about lawyers’ fees and court filings. That&#8217;s real money, but not where most of the damage is. The majority of the cost is rent — the opportunity cost of having an empty apartment or a squatter not paying for months. In a New York nonpayment proceeding, a landlord can easily go six months (or longer) without collecting while the case sits on the court&#8217;s docket. At $3,500 a month — roughly the median for a Manhattan one-bedroom — that&#8217;s $21,000 in lost income before you&#8217;ve paid a single attorney. Cover the missed rent, and you&#8217;ve cut the financial damage roughly in half. That&#8217;s the math behind rent guarantee insurance, and it’s why I started PandaGuarantee as a fast, easy, economical option for property owners to protect themselves from tenant default. 2019 Changed the Math Before the Housing Stability and Tenant Protection Act (HSTPA), landlords could ask borderline approvable applicants for larger security deposits. That&#8217;s no longer an option. The 2019 HSTPA legislation capped security deposits at one month&#8217;s rent, and although the legislation was meant to protect renters, the secur",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-25T04:00:02+00:00",
-      "bullets": [
-        "NYC contested evictions cost $15K–$50K; largest expense is missed rent, not legal fees",
-        "PandaGuarantee: rent guarantee platform offering fast approvals, low cost, streamlined UX",
-        "Nonpayment cases extend 6+ months without collection, creating opportunity cost for landlords"
-      ],
-      "summary": "NYC contested evictions run $15,000–$50,000, with missed rent—not legal fees—representing the largest cost driver. PandaGuarantee, co-founded by Tom DeRose, is a rent guarantee platform offering rapid applicant approvals, economical pricing, and user-friendly tech to reduce the opportunity cost of vacant or non-paying units. Nonpayment cases often drag 6+ months, during which landlords collect nothing.",
-      "impact": "Significant operational relevance to multifamily developers/operators in high-regulation markets, particularly NYC. Fast, efficient rent guarantees reduce cash-flow volatility and vacancy risk—critical underwriting variables. Broader implication: proptech solutions targeting tenant financial risk will gain adoption as interest rates remain elevated and resident default risk persists, improving operator IRR and asset valuations in supply-constrained, high-rent metros like NYC."
-    },
-    {
-      "title": "Tavaco Properties Buys DMV Office for $29M",
-      "link": "https://commercialobserver.com/2026/08/tavaco-office-james-campbell-dmv/",
-      "excerpt": "Tavaco Properties has added another discounted office property to its growing Greater Washington portfolio. The Los Angeles-based firm paid $28.5 million for a 272,300-square-foot building in Falls Church, Va., Business Journals first reported. Hawaii-based James Campbell Company sold the 14-story property at 3110 Fairview Park Drive after acquiring it for $43.7 million in 2016. Tavaco specializes in acquiring and optimizing underperforming assets, and the deal is its third D.C.-area office acquisition since late last year, totaling nearly $65 million. In March, a Tavaco affiliate paid $8.2 million for the 100,900-square-foot Twinbrook Plaza in Rockville, Md., which is about half the $15.5 million that an MRP Realty affiliate paid in 2016. Tavaco also acquired the eight-story, 275,480-square-foot Ballston Station in Arlington for $28 million in late 2025. The State Teachers Retirement System of Ohio had acquired that property for $58.2 million about 30 years ago. “We view Fairview, Ballston Station and Twinbrook Plaza as long-term additions to Tavaco’s portfolio,” Managing Director Sam Tavakoli told the Business Journals in a statement. He also added that the firm expects continued return-to-office trends to support demand for well-operated buildings. Indeed, U.S. office visits rose 6 percent in the first half of the year, although on-site attendance remained 31 percent below 2019 levels. James Campbell Company, meanwhile, has been reducing its national office exposure and concentrating more heavily on industrial assets. Gregory Cornfield can be reached at gcornfield@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-08-24T23:35:50+00:00",
-      "bullets": [
-        "Tavaco Properties bought Falls Church office building (272K SF) for $28.5M; paid $43.7M in 2016",
-        "Third D.C.-area office acquisition since late 2025; total ~$65M across three deals",
-        "James Campbell Company sold at 34.8% loss; Tavaco specializes in distressed office optims"
-      ],
-      "summary": "Tavaco Properties, a Los Angeles-based firm specializing in underperforming assets, purchased a 272,300-SF, 14-story office building in Falls Church, Va. (3110 Fairview Park Drive) for $28.5 million. Seller James Campbell Company bought the property in 2016 for $43.7 million, representing a 34.8% loss. This is Tavaco's third D.C.-area office acquisition since late 2025, totaling ~$65 million, including Twinbrook Plaza (Rockville) and Ballston Station (Arlington).",
-      "impact": "Moderate relevance to multifamily in D.C. metro. Sustained office distress and acquisition by specialist value-adds suggest secular D.C. office oversupply and tenant softness, which may signal worker outmigration or remote-work persistence. However, Tavaco's repeated D.C. buys indicate belief in long-term office-to-other conversion potential. Multifamily developers should monitor: if office-to-multifamily conversions accelerate in Arlington, Falls Church, or Rockville, supply could spike; conversely, if conversions stall, underutilized office footprint may depress labor-market confidence and dampen multifamily demand in those submarkets."
-    },
-    {
-      "title": "Taconic, NREA Add Premium Indian Restaurant to Hell’s Kitchen Mixed-Use",
-      "link": "https://www.connectcre.com/stories/taconic-nrea-add-premium-indian-restaurant-to-hells-kitchen-mixed-use/",
-      "excerpt": "Taconic Partners and National Real Estate Advisors have signed a lease with Samudhra at The Ellery, a luxury mixed-use residential development at 312 W. 43rd St. in Hell’s Kitchen. The addition of the New Jersey-based premium Indian restaurant and lounge brings a new full-service dining destination to The Ellery. Samudhra will occupy approximately 10,000 square feet along West 43rd Street. The space will include a dedicated dining area, bar and lounge. The new location will mark Samudhra’s first outpost in New York City and second location overall. “Samudhra brings a premium new dining and social experience that will serve both our residents and the broader neighborhood,” George Tsapelas, SVP with&nbsp;Taconic&nbsp;Partners&nbsp;“From the outset, our vision for The Ellery has been to create a dynamic mixed-use destination that contributes to the energy of the area, and Samudhra further strengthens the retail and dining mix we’ve curated at the property.” Taconic and NREA were represented by Lon Rubackin, Michael Kadosh and Bevan Cohen from CBRE. Samudhra was represented by Brad Schwarz from Lee &amp; Associates. The post Taconic, NREA Add Premium Indian Restaurant to Hell&#8217;s Kitchen Mixed-Use appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-24T22:01:40+00:00",
-      "bullets": [
-        "Samudhra (premium Indian restaurant/lounge) signed 10K SF lease at The Ellery, Hell's Kitchen, NYC",
-        "Mixed-use residential development (Taconic Partners, NREA); Samudhra's first NYC location, second overall",
-        "Full-service dining, bar, lounge on West 43rd Street to serve residents and neighborhood"
-      ],
-      "summary": "Taconic Partners and National Real Estate Advisors signed a lease with Samudhra, a premium Indian restaurant and lounge, for approximately 10,000 SF at The Ellery, a luxury mixed-use residential development at 312 W. 43rd Street in Hell's Kitchen. The space includes dining area, bar, and lounge, and represents Samudhra's first New York City location and second overall. The addition enhances The Ellery's retail and dining mix to serve both residents and the broader neighborhood.",
-      "impact": "Minor but supportive relevance to Hell's Kitchen multifamily. Premium restaurant tenancy signals developer confidence in The Ellery's residential absorption and resident spending power, which validates the submarket's appeal to affluent renters. Strong retail/dining mix enhances resident experience and supports pricing power for the residential component; however, single-tenant lease does not change neighborhood fundamentals. Watch for: if high-end dining continues to anchor Hell's Kitchen mixed-use projects, it signals sustained demand for luxury multifamily in the area and may support new development feasibility."
-    },
-    {
-      "title": "Transwestern Signs New Grocer Lease at 680 North Lake Shore Drive",
-      "link": "https://www.connectcre.com/stories/transwestern-signs-new-grocer-lease-at-680-north-lake-shore-drive/",
-      "excerpt": "Transwestern announced that the owners of 680 N. Lake Shore Drive, Golub &amp; Company and TopMed Realty, signed a lease with 680 Lakeside Market, a 5,512-square-foot grocer.Transwestern Senior Vice President Katie Steele represented ownership in the transaction. “680 N. Lake Shore Drive continues to build upon its reputation as a vibrant hub of wellness and convenience in the heart of Streeterville&#8217;s Medical Research District,” said Steele. “The addition of 680 Lakeside Market enhances the day-to-day experience for everyone in the building.”680 Lakeside Market is owned by the same operators of Lakeside Foods in Winnetka, Illinois, a full-service supermarket. The new grocer offers a selection of fresh produce, grab-and-go items, sandwiches, salads and other prepared meals.In addition to 680 Lakeside Market, Pinnacle Fertility Illinois has completed construction of its ambulatory surgery center inside the property. 680 N. Lake Shore Drive’s medical and retail offerings serve a growing population in Streeterville. The post Transwestern Signs New Grocer Lease at 680 North Lake Shore Drive appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-08-24T22:00:04+00:00",
-      "bullets": [
-        "680 Lakeside Market (5.5K SF grocer) signed lease at 680 North Lake Shore Drive, Chicago Streeterville",
-        "Ownership: Golub & Company and TopMed Realty; property marketed as wellness/convenience hub",
-        "Grocer fills ground-floor retail, enhances day-to-day experience for building residents/users"
-      ],
-      "summary": "Golub & Company and TopMed Realty, owners of 680 N. Lake Shore Drive in Chicago's Streeterville Medical Research District, signed a lease with 680 Lakeside Market, a 5,512-SF grocer. Transwestern represented ownership. The grocer fills ground-floor retail and is positioned as enhancing the building's reputation as a wellness and convenience hub serving the building and medical district.",
-      "impact": "Minor relevance. If 680 North Lake Shore Drive is residential or mixed-use with a residential component, grocery tenancy improves walkability and resident satisfaction in Streeterville, supporting rent growth. However, the article does not specify whether the building contains apartments. As a standalone transaction, it signals healthy Chicago Streeterville retail demand and confidence in the medical district's vitality, which broadly supports multifamily demand in that submarket—but the effect is contextual, not direct."
+      "date": "2026-08-25T10:40:38+00:00"
     }
   ]
 }
