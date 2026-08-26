@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-26T12:32:50.838619+00:00",
+  "fetchedAt": "2026-08-26T13:46:07.673259+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -9,18 +9,18 @@
     },
     {
       "label": "10Y Treasury",
-      "value": "4.64%",
-      "pct": -1.38
+      "value": "4.65%",
+      "pct": 0.3
     },
     {
       "label": "30Y Treasury",
-      "value": "5.17%",
-      "pct": -1.09
+      "value": "5.18%",
+      "pct": 0.04
     },
     {
       "label": "REIT Index (VNQ)",
       "value": "99.25",
-      "pct": 0.15
+      "pct": 0.01
     }
   ],
   "stories": [
@@ -32,12 +32,12 @@
       "cat": "Commercial",
       "date": "2026-08-26T11:00:45+00:00",
       "bullets": [
-        "Nutter law firm expands 11.4K SF at Durst's 5 Grand Central East, Manhattan.",
-        "Class A Midtown office asking rent $80/SF; landlord cites transit-access desirability.",
-        "Manhattan office leasing market described as 'surging' by major landlord."
+        "Nutter law firm expands to 11.4K SF at Durst's 5 Grand Central East, Manhattan.",
+        "Asking rent $80/SF reflects strong Class A office demand in transit-accessible Midtown.",
+        "Tenant renewal + expansion signals confidence in Grand Central submarket despite broader office headwinds."
       ],
-      "summary": "Boston-based law firm Nutter renewed and doubled its footprint at Durst's 5 Grand Central East (655 Third Avenue) to 11,438 SF total, with the expansion taking an entire 25th floor at $80/SF asking rent. Durst highlighted strong demand for Class A space near Grand Central Terminal. The deal signals continued institutional confidence in Midtown's transit-anchored office stock.",
-      "impact": "Office leasing strength in transit-rich Midtown Manhattan does not directly compete for multifamily capital but signals robust white-collar employment and professional services demand in Manhattan. This supports underlying multifamily fundamentals—high-income renter base with stable job anchors—and validates continued investment in Midtown residential adjacent to job centers like Grand Central East."
+      "summary": "Boston-based Nutter has renewed and expanded its footprint at 5 Grand Central East (655 Third Avenue) by doubling from 5.7K to 11.4K SF on floors 25–27, at $80/SF asking. Durst Organization highlighted the deal as evidence of surging Manhattan office leasing, especially for Class A transit-proximate space. The expansion signals tenant stickiness and willingness to grow in trophy locations despite sector-wide office challenges.",
+      "impact": "Strong Class A office fundamentals in Midtown Manhattan—particularly around Grand Central—can drive ancillary multifamily demand (executive relocations, young professional talent retention). However, this is office-focused; minimal direct bearing on multifamily supply or rent unless the market signals broad corporate stability and HQ growth in Manhattan proper."
     },
     {
       "title": "Koeppel Rosen Arranges Three Office Leases in Midtown, Midtown South",
@@ -47,12 +47,12 @@
       "cat": "Commercial",
       "date": "2026-08-25T22:00:46+00:00",
       "bullets": [
-        "Koeppel Rosen arranges 18K SF office leases across three Midtown/Midtown South properties.",
-        "Transaction details and specific rents not disclosed in press release.",
-        "Portfolio activity reflects continued leasing activity in core Manhattan office submarkets."
+        "Koeppel Rosen arranged ~18K SF across three office leases in Midtown/Midtown South.",
+        "Portfolio-level activity suggests stable tenant demand and recurring leasing velocity in central Manhattan.",
+        "Limited transaction detail; insufficient to assess market-level demand or rent trajectory."
       ],
-      "summary": "Koeppel Rosen announced three separate office leases totaling nearly 18,000 SF in Midtown and Midtown South, with Max Koeppel representing the Rosen family portfolio in-house on all transactions. Specific lease terms, rents, and tenant names were not provided.",
-      "impact": "Minimal direct signal. Aggregate office leasing activity in Midtown suggests steady occupancy but lack of disclosed terms, rents, or submarkets prevents assessment of market momentum or tenant quality shifts that would inform adjacent multifamily demand."
+      "summary": "Koeppel Rosen LLC, leasing agent for the Rosen family office portfolio, closed three separate office leases totaling nearly 18,000 SF across Midtown and Midtown South Manhattan properties. Max Koeppel represented the landlord on all transactions. No rent, tenant names, or lease terms disclosed.",
+      "impact": "Minimal direct multifamily signal. Portfolio-level leasing activity in core Midtown suggests steady office demand, but lack of specificity (rents, submarkets, tenant profiles) limits ability to infer broader Manhattan market health or spillover effects on residential demand."
     },
     {
       "title": "Marcus & Millichap Brokers Sale of 490-Unit Multifamily in St. Louis",
@@ -62,12 +62,12 @@
       "cat": "Commercial",
       "date": "2026-08-25T21:54:08+00:00",
       "bullets": [
-        "Trinity Park Apartments, 490 units, North St. Louis sold via Marcus & Millichap auction.",
-        "Property had below-market occupancy; described as value-add lease-up opportunity.",
-        "24-acre site on Dunklin Drive: 285 one-bed, 205 two-bed units across 34 buildings."
+        "Trinity Park Apartments, 490 units in North St. Louis, sold via auction with below-market occupancy.",
+        "Asset marketed as value-add opportunity with significant lease-up potential for new owner.",
+        "St. Louis multifamily continues to attract acquisition interest despite occupancy challenges."
       ],
-      "summary": "Marcus & Millichap brokered the sale of Trinity Park Apartments, a 490-unit property in North St. Louis, via online live auction. The property was marketed as a significant value-add opportunity with below-market occupancy, indicating the new owner has a lease-up mandate. The site spans 24 acres with mixed one- and two-bedroom floor plans.",
-      "impact": "Below-market occupancy at a 490-unit asset in North St. Louis suggests North County St. Louis multifamily market faces absorption headwinds or supply oversupply. New ownership's value-add focus implies rent growth opportunity, but the initial distress signals competitive supply pressure in the submarket. For developers, this reflects a buyer's market for repositioning, not new supply momentum."
+      "summary": "Marcus & Millichap brokered the auction sale of Trinity Park Apartments (490 units, 34 buildings, 24.08 acres at 11065 Dunklin Drive, North St. Louis). The property was underoccupied at sale, presenting a lease-up value-add for the new owner. The deal closed via online live-bid auction conducted by Marcus & Millichap's Chicago, Indianapolis, and St. Louis offices.",
+      "impact": "Below-market occupancy and distressed auction pricing in North St. Louis signal softer demand or previous operator underperformance in the submarket. New ownership's lease-up play suggests confidence in achievable stabilized rents and demographic fundamentals, but caution warranted on St. Louis's regional job/population trends. Worth monitoring whether lease-up succeeds and at what rent levels—can inform forward development feasibility in the St. Louis market."
     },
     {
       "title": "Hanover Company Launches Construction on Its First SoCal Industrial",
@@ -77,12 +77,12 @@
       "cat": "Commercial",
       "date": "2026-08-25T21:52:16+00:00",
       "bullets": [
-        "Hanover Company breaks ground, 200K SF industrial in Simi Valley with Crow Holdings Capital.",
-        "First Southern California industrial project; 13-acre site, 36' clear heights, CA-118 access.",
-        "Target users: corporate HQ, packaging, assembly, distribution; strong logistics corridor positioning."
+        "Hanover Company and Crow Holdings Capital breaking ground on 200K SF industrial in Simi Valley, CA.",
+        "First SoCal project for Hanover; speculative industrial development with 36' heights, flexible user accommodates logistics/assembly/HQ.",
+        "Capital partnership with Crow Holdings signals institutional backing and confidence in Southern California industrial fundamentals."
       ],
-      "summary": "Hanover Company and Crow Holdings Capital have begun construction on a 200,000 SF ground-up industrial development in Simi Valley, CA (903 Quimisa Dr.), marking Hanover's regional debut. The project sits on 13 acres with 36' clear heights, an 8.5\" slab, and immediate CA-118 freeway access, designed to serve corporate, packaging, assembly, and distribution users.",
-      "impact": "Hanover's entry into Simi Valley industrial with Crow Holdings Capital partnership signals confidence in Southern California logistics and manufacturing tenant demand. While not multifamily, this reflects capital reallocation and regional growth expectations in SoCal; robust industrial absorption can indicate labor in-migration and wage growth that supports downstream multifamily rental demand across greater Los Angeles metro. Monitor Simi Valley and surrounding submarkets for renter population inflows."
+      "summary": "Hanover Company, partnered with Crow Holdings Capital, has started construction on a ground-up 200,000 SF industrial building on 13 acres in Simi Valley, CA (903 Quimisa Dr., near CA 118). The property features 36-foot clear heights, 8.5-inch slab, skylights, and parking; designed for distribution, assembly, packaging, or corporate HQ tenants. This marks Hanover's debut in Southern California.",
+      "impact": "Industrial growth in Simi Valley (Ventura County) suggests strong logistics/fulfillment demand in the Los Angeles region. Successful lease-up attracts downstream job creation and worker migration into the area, which would support multifamily demand in Ventura County and surrounding submarkets. Monitor tenant profile and absorption timeline; if major e-commerce or last-mile operator leases this space, signals potential residential upside in proximity and feeder markets (e.g., Moorpark, Ojai corridors)."
     },
     {
       "title": "Associated Bank Finalizes Loan for Twelve-Acre Retail Project in OH",
@@ -92,12 +92,12 @@
       "cat": "Commercial",
       "date": "2026-08-25T21:48:26+00:00",
       "bullets": [
-        "Associated Bank funds $9M loan for Trailhead Crossing retail, Delaware, Ohio (Columbus suburb).",
-        "Multi-building development: Chick-fil-A, Chipotle, Take 5; Dunkin, Nothng Bundt Cakes, Pacific Dental.",
-        "One pad-ready site pending daycare company sale; later phase anchored by big-box retailer."
+        "Associated Bank closed $9M loan for Trailhead Crossing retail project in Delaware, Ohio (Columbus suburb).",
+        "Multi-phase development: initial three buildings (Chick-fil-A, Chipotle, Take 5), second strip (Dunkin, Nothing Bundt Cakes, Pacific Dental), plus daycare and future big-box anchor.",
+        "Retail fundamentals in Columbus-area suburbs support national tenant anchors and mixed-use positioning."
       ],
-      "summary": "Associated Bank closed a $9 million construction loan for GTZ Properties' Trailhead Crossing, a 12-acre retail project in Delaware, Ohio (Columbus suburb) comprising freestanding buildings and a multi-tenant strip with major QSR and service tenants. One pad-ready parcel is pending sale to a national daycare operator, with a later phase anchored by a big-box national retailer. This is Associated Bank's 18th deal with GTZ Properties principal Mitch Goltz.",
-      "impact": "Minimal direct relevance to multifamily. Retail development activity in Delaware, Ohio (US-36 corridor) signals local commercial growth and service-sector investment in a Columbus suburb, which may support underlying demographic stability and consumer income in the area, but does not directly inform apartment supply, demand, or capital dynamics."
+      "summary": "Associated Bank finalized a $9 million construction loan to GTZ Properties for Trailhead Crossing, a 12-acre retail project at 1135–1131 US-36 in Delaware, Ohio (Columbus suburb). Phase 1 includes six tenants (Chick-fil-A, Chipotle, Take 5, Dunkin, Nothing Bundt Cakes, Pacific Dental Services); a pad-ready site is pending sale to a national daycare; Phase 2 will feature a big-box anchor. This is Associated Bank's 18th loan to GTZ Properties principal Mitch Goltz.",
+      "impact": "Retail and daycare expansion in Columbus suburbs signal job creation and residential demographic influx. Multifamily developers should monitor Delaware, Ohio and adjacent submarkets (Westerville, New Albany, Powell corridors) for emerging residential demand. Daycare facility especially signals young-family migration; pairs with retail gravity to support Class B/C multifamily infill or new development in the submarket."
     },
     {
       "title": "Planet Fitness to Open at Sky Three Residences in West Brighton Beach",
@@ -107,12 +107,12 @@
       "cat": "Commercial",
       "date": "2026-08-25T21:45:10+00:00",
       "bullets": [
-        "Planet Fitness signs 14.5K SF ground-floor lease at Sky Three Residences, Brooklyn.",
-        "Tower 3 base; Neptune Avenue corridor, West Brighton Beach; opening early 2027.",
-        "Retail mix includes CVS, NetCost, Starbucks, specialty dining; builds community amenity ecosystem."
+        "Planet Fitness signed 14.5K SF lease at Sky Three Residences, West Brighton Beach, Brooklyn; opens early 2027.",
+        "Mixed-use residential tower anchoring ground-floor retail (gym, pharmacy, grocer, coffee, specialty) to capture resident and neighborhood traffic.",
+        "Retail amenitization at multifamily base signals strong unit economics and resident retention at Sky Three."
       ],
-      "summary": "Planet Fitness has leased 14,520 SF of ground-floor retail space at Tower 3 of Sky Three Residences (532 Neptune Ave., Brooklyn's West Brighton Beach) with an expected opening in early 2027. The gym will join an existing retail lineup including CVS, NetCost Market, Starbucks, and specialty dining and beverage concepts, many offering resident incentives.",
-      "impact": "Sky Three Residences is a multifamily-anchored mixed-use development; Planet Fitness addition strengthens ground-floor activation and resident amenity value, improving leasing velocity and retention. The presence of an anchor fitness brand, combined with food and pharmacy tenants, increases competitive appeal against other West Brighton Beach and Coney Island/Brooklyn waterfront rental properties. This benefits operator economics but does not alter neighborhood supply or demand fundamentals—it optimizes existing asset performance."
+      "summary": "Planet Fitness leased 14,520 SF at the base of Tower 3 at Sky Three Residences (532 Neptune Ave., West Brighton Beach, Brooklyn). The gym opening early 2027 joins existing tenants CVS, NetCost Market, Starbucks, Flower Heaven, Sky Mocha, and Kings Barbershop. CBRE represented Planet Fitness; Commercial Acquisitions represented the landlord.",
+      "impact": "Multifamily-anchored retail at scale (fitness, grocery, pharmacy, dining) indicates strong resident demand and developer confidence in Brooklyn waterfront submarkets. Sky Three's retail mix (especially food/beverage bundled with branded fitness) demonstrates premium amenitization strategy to justify rents and support absorption. West Brighton Beach densification and retail maturity signal continued residential desirability; worth tracking for nearby multifamily infill or redevelopment opportunities as neighborhood gentrifies."
     },
     {
       "title": "Sheppard Takes 107K SF at In-Rel’s D.C. Redevelopment",
@@ -122,12 +122,12 @@
       "cat": "Commercial",
       "date": "2026-08-25T21:25:00+00:00",
       "bullets": [
-        "Sheppard law firm signs 107.2K SF anchor lease at In-Rel's 2033 K Street NW, D.C.",
-        "Building completion July 2029; firm occupies major trophy office pre-completion three years out.",
-        "In-Rel expanding/renovating: adding 3 floors + penthouse; K Street near West End/Dupont Circle."
+        "Law firm Sheppard (50 top-50 U.S. firms, 1,200+ attorneys) pre-leases 107.2K SF at In-Rel's 2033 K Street NW, D.C.",
+        "Trophy office redevelopment: add 3 floors, penthouse; concrete structure retained; completion July 2029.",
+        "Major anchor tenant 3+ years pre-lease signals confidence in D.C. office recovery and Class A demand near Central Business District."
       ],
-      "summary": "Sheppard, a top-50 U.S. law firm (1,200+ attorneys, 16 offices), signed an anchor lease for 107,224 SF at In-Rel Properties' planned redevelopment of 2033 K Street NW in Washington, D.C., with occupancy planned for July 2029. The developer is expanding and renovating the existing structure by adding three floors and a penthouse. The lease underscores developer confidence in demand for new trophy office in D.C.'s central business district.",
-      "impact": "Major law firm anchor lease three years pre-completion signals strong D.C. office market bifurcation—distressed obsolete stock alongside shortage of large, modern trophy spaces. This validates In-Rel's capital commitment and de-risks the redevelopment. For multifamily: sustained demand for prime downtown office space reinforces professional-services employment concentration and high-income renter base in D.C. central markets (West End, Dupont Circle), supporting premium apartment demand in adjacent neighborhoods and future residential development upside along K Street corridor."
+      "summary": "Sheppard, a top-50 law firm with 1,200+ attorneys across 16 offices, signed an anchor lease for 107,224 SF at In-Rel Properties' planned 2033 K Street NW redevelopment in Washington, D.C., scheduled to complete July 2029. In-Rel is expanding the existing structure with three additional floors, a penthouse, and comprehensive renovations while retaining the concrete core. No rent disclosed. The lease reflects in-Rel's bet on D.C.'s bifurcated office market where trophy space is scarce despite pockets of distress.",
+      "impact": "Major legal firm pre-leasing trophy office in D.C. CBD/West End signals institutional confidence in office market recovery and high-end tenant stickiness. D.C. job markets (government, law, finance, tech) remain resilient. Downstream multifamily opportunity: law-firm employment anchors upscale residential demand in walkable D.C. submarkets (Dupont Circle, Logan Circle, NoMa). Monitor In-Rel's delivery timeline and post-completion absorption to gauge broader office-to-residential spillover in D.C. corridor."
     },
     {
       "title": "Eliot Spitzer Gains State Approval to Redevelop 985 Fifth Avenue After Legal Bout",
@@ -137,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-08-25T21:23:47+00:00",
       "bullets": [
-        "Eliot Spitzer wins state court approval to deconvert 985 Fifth Avenue rent-stabilized building.",
-        "NYC Landmarks Preservation Commission approved demolition in 2023; HCR lease non-renewal delayed 2 years.",
-        "Plans: demolish 25-story rental, build luxury condos; SLCE Architects designs released November 2024."
+        "Eliot Spitzer wins state approval to demolish 985 Fifth Avenue and redevelop into luxury condos.",
+        "Two-year battle to end rent-stabilized leases resolved; NYC Landmarks Preservation Commission approved wrecking in 2023.",
+        "Demonstrates regulatory path for Manhattan luxury residential redevelopment from class rental stock."
       ],
-      "summary": "Former Gov. Eliot Spitzer obtained state approval to end rent-stabilized leases at 985 Fifth Avenue and proceed with demolition, following a lawsuit against the state's Division of Homes and Community Renewal (HCR) over delayed approval. The NYC Landmarks Preservation Commission had already approved demolition in 2023. Spitzer plans to demolish the 25-story building and replace it with luxury condominiums designed by SLCE Architects.",
-      "impact": "This high-profile Fifth Avenue conversion removes a multifamily rental asset from Manhattan's stock and converts it to for-sale condominiums, reducing rental supply in one of Manhattan's most exclusive neighborhoods. While the departure of rent-stabilized units may reduce regulatory friction, the net effect is a loss of 985 Fifth Avenue as a rental product. The precedent of successful deconversion after regulatory battle (and Landmarks approval already in hand) may embolden other condo conversions in prime Manhattan locations, tightening rental supply and supporting elevated rents in competing premium multifamily assets nearby (Upper East Side, Central Park South adjacent). Monitor for follow-on conversions."
+      "summary": "Former New York Gov. Eliot Spitzer obtained state approval from New York's Division of Homes and Community Renewal (HCR) to demolish the 25-story rent-stabilized rental building at 985 Fifth Avenue and redevelop it as luxury condominiums. The approval followed a two-year legal battle over lease-non-renewal and NYC Landmarks Preservation Commission approval (2023). Spitzer Enterprises has already commissioned designs by SLCE Architects and advanced other project phases.",
+      "impact": "Marginal impact on multifamily development (luxury condo conversion is outside core multifamily). However, this signals regulatory willingness to permit rent-stabilized-to-luxury conversions on the Upper East Side, which could signal shifting political/regulatory appetite for destabilization. Multifamily developers should note the precedent: successful legal challenge and long timeline (2+ years) required; NYC rent-regulation reform remains a hostile environment for new multifamily supply on prime Manhattan sites."
     },
     {
       "title": "OCVibe Adds Five Dining Concepts to $5B SoCal District",
@@ -152,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-08-25T21:15:15+00:00",
       "bullets": [
-        "OCVibe adds five dining concepts to $5B Samueli mixed-use district, Anaheim, near Honda Center.",
-        "50K SF Katella Commons market hall opening 2025; 21 kitchens total; OCVibe fronting ~$300K per stall.",
-        "Concepts: Don Churros Gomez, MFK, Mojo, Pull & Roll, Gelato Paradiso; Roy Choi's Best Friend added."
+        "OCVibe (Samueli family, $5B mixed-use, Anaheim) adds five dining concepts to 50K SF market hall (Katella Commons).",
+        "Anchor: Honda Center; market hall opening 2025; OCVibe fronting ~$300K/stall capex plus operational support.",
+        "Large mixed-use district attracts national chef talent and experiential retail; signals strong demographic/spending power in Orange County."
       ],
-      "summary": "The Samueli family's OCVibe development in Anaheim announced five additional dining concepts for the 50,000 SF Katella Commons market hall opening in 2025, bringing total kitchens to 21. Tenants include Don Churros Gomez, MFK | Modern Filipino Kitchen, Mojo, Pull & Roll, and Gelato Paradiso, complementing earlier leases with Roy Choi's Best Friend restaurant and other chefs. OCVibe is funding approximately $300K initial investment per stall plus ongoing operational support.",
-      "impact": "OCVibe is a $5B mixed-use district anchored by Honda Center (sports/entertainment); robust food-hall and dining activation signals strong regional draw and foot traffic, which supports multifamily renter base retention and attraction. Heavy developer subsidy of food-hall tenants ($300K per stall) indicates below-market initial economics but a bet on long-term district density and captive renter/visitor population. For multifamily developers in Anaheim and greater Orange County, OCVibe's maturation as a live-work-play destination increases competitive pressure to build adjacent or integrated residential, signaling future apartment supply opportunities in the Honda Center trade area."
+      "summary": "The Samueli family's OCVibe, a $5 billion mixed-use district around the Honda Center in Anaheim, CA, is adding five dining concepts (Don Churros Gomez, MFK Modern Filipino Kitchen, Mojo, Pull & Roll, Gelato Paradiso) to its 50,000 SF market hall, Katella Commons, opening next year. OCVibe is funding ~$300K capex per stall and providing operational support. Chef Roy Choi's Best Friend restaurant and other acclaimed concepts are also joining the lineup.",
+      "impact": "Large mixed-use development in Anaheim signals strong Orange County growth trajectory and spending power. Experiential retail and dining (market hall model) attracts younger, affluent demographics and leisure traffic. Multifamily developers should monitor OCVibe's phasing and execution; successful activation near Honda Center could drive residential demand in central/northern Orange County (Anaheim, Santa Ana, Garden Grove submarkets) for both Class A (near retail/entertainment) and Class B workforce housing (service workers)."
     },
     {
       "title": "The New School Sells Loeb Hall Residence to Hawkins Way Capital for $52M",
@@ -167,12 +167,12 @@
       "cat": "Commercial",
       "date": "2026-08-25T19:45:52+00:00",
       "bullets": [
-        "Hawkins Way Capital purchases Loeb Hall, 268-bed student housing, Union Square for $51.5M.",
-        "The New School direct sale; Hawkins' third Manhattan student housing acquisition this summer.",
-        "131–135 East 12th Street; described as strong urban student housing market with flex potential."
+        "Hawkins Way Capital acquired Loeb Hall, 268-bed student residence, from New School for $51.5M in Manhattan.",
+        "Third student housing acquisition by Hawkins in Manhattan this summer; location near Union Square.",
+        "Institutional investor capital flowing into Manhattan student housing; New School divesting residential assets."
       ],
-      "summary": "Hawkins Way Capital acquired Loeb Hall, a 268-bed student residence hall at 131–135 East 12th Street near Union Square, from The New School for $51.5 million. This marks Hawkins Way's third Manhattan student housing purchase in summer 2024. The buyer cited the property's location, existing dormitory infrastructure, and operational flexibility as drivers of the acquisition in what it described as one of the country's strongest urban student housing markets.",
-      "impact": "Repeat institutional buying of Manhattan student housing (three acquisitions in one summer) signals strong capital conviction and pricing discipline in the sector. The New School's sale of Loeb Hall suggests universities are increasingly willing to monetize student housing assets rather than operate in-house, opening the market to professional operators. For multifamily developers, this reflects capital competing in the student housing niche; however, student housing and traditional multifamily are distinct products. Monitor NYC's student housing market for operator professionalization and for potential downstream conversion to conventional rental if student enrollment softens—a tail risk that could flood supply into the broader Manhattan rental market."
+      "summary": "Hawkins Way Capital purchased Loeb Hall (268 beds) at 131–135 East 12th Street (near Union Square) from The New School for $51.5 million, using entity 135 E 12th Owner. This is Hawkins' third Manhattan student housing acquisition in summer 2024. The deal indicates institutional appetite for student housing in high-demand urban markets despite broader market headwinds.",
+      "impact": "Minimal direct multifamily impact; student housing is a distinct asset class. However, The New School's divestiture of residential real estate suggests universities are exiting real estate ownership and management—potential opportunity for third-party operators to acquire/manage other campus-proximate housing in NYC. Monitor if other NYC universities follow suit. Hawkins' aggressive acquisition pace signals strong student housing returns in Manhattan near major universities (NYU, Cooper Union, The New School cluster), which may crowd out or elevate land/acquisition costs in East Village/Gramercy submarkets for standard multifamily development."
     }
   ]
 }
