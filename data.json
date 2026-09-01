@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-01T19:01:29.242095+00:00",
+  "fetchedAt": "2026-09-01T22:12:50.393907+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -10,20 +10,125 @@
     {
       "label": "10Y Treasury",
       "value": "4.80%",
-      "pct": 0.88
+      "pct": 0.8
     },
     {
       "label": "30Y Treasury",
       "value": "5.27%",
-      "pct": 0.4
+      "pct": 0.36
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "96.17",
-      "pct": -0.29
+      "value": "96.30",
+      "pct": -0.15
     }
   ],
   "stories": [
+    {
+      "title": "Former Factory to Receive New Life as Affordable Homes in Upstate NY",
+      "link": "https://www.connectcre.com/stories/former-factory-to-receive-new-life-as-affordable-homes-in-upstate-ny/",
+      "excerpt": "Developers have begun work on a new 80-unit affordable housing property on the site of a former factory in the Adirondack village of Tupper Lake, NY. The $46 million project will transform the long-vacant Oval Wood Dish Factory into modern apartments and more than 25,000 feet of commercial space, with residences affordable to households earning up to 90% of the Area Median Income. Housing Visions, Lahinch Group and Braxton Capital are developing the project, which will be all-electric, utilizing cold-climate heat pump technology for heating and cooling as well as a whole-building ventilation system. The Oval Wood Dish Factory development forms part of Governor Hochul’s $25 billion Housing Plan, which aims to create or preserve 100,000 affordable homes in New York over a five-year period. Oval Wood Dish Factory enjoys a mix of public and private financing, including Federal and State Low-Income Housing Tax Credits (LIHTC) from New York State Homes and Community Renewal (HCR) that are expected to generate more than $17 million in equity. “Under Governor Hochul’s leadership, New York State is making the targeted investments needed to tackle our regional housing shortages head-on,” said Empire State Development President, CEO, &amp; Commissioner Hope Knight in a statement. “The start of construction on the Oval Wood Dish development marks a transformative moment for Tupper Lake and the entire North Country.” The post Former Factory to Receive New Life as Affordable Homes in Upstate NY appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-09-01T21:52:20+00:00",
+      "bullets": [
+        "80-unit affordable project, Tupper Lake NY, $46M funded by LIHTC equity ($17M+)",
+        "Part of NY State $25B Housing Plan targeting 100K affordable homes in 5 years",
+        "All-electric cold-climate heat pump design; mixed public/private financing structure"
+      ],
+      "summary": "Housing Visions, Lahinch Group, and Braxton Capital are converting the Oval Wood Dish Factory in Tupper Lake, NY into an 80-unit affordable community with 25,000 sq ft of commercial space targeting households at 90% AMI. The $46M project leverages Low-Income Housing Tax Credits generating $17M+ in equity and is part of Governor Hochul's broader $25B affordable housing initiative. The all-electric development uses cold-climate heat pump technology and represents an adaptive reuse of a long-vacant industrial site.",
+      "impact": "This signals strong state-level capital commitment to affordable housing in upstate NY markets where demand outpaces supply. The availability of LIHTC equity and mixed financing structures lowers cost of capital for developers, making previously uneconomical projects feasible. However, this capital is constrained to affordable/workforce segments; market-rate development in smaller metros like Tupper Lake remains challenging, limiting total pipeline growth and suggesting selective market focus by institutional developers."
+    },
+    {
+      "title": "Colliers Completes Sale of Healthcare Center in Twin Cities Metro",
+      "link": "https://www.connectcre.com/stories/colliers-completes-sale-of-healthcare-center-in-twin-cities-metro/",
+      "excerpt": "Colliers completed the sale of Eagan Medical Center, an outpatient facility located at 1185 Town Centre Drive in Eagan, Minnesota. The sale was led by the Colliers team of Tom O&#8217;Brien, Louis Suarez, Jordan Selbiger and Misty Bowe, who represented the seller, Tareen Development Partners (TDP), a Twin Cities-based real estate development firm focused on multifamily, mixed-use and community-driven projects across the Midwest. &#8220;TDP&#8217;s acquisition of the property in December 2024 marked the beginning of a value-add initiative,&#8221; said O’Brien. &#8220;By rebranding the former Town Centre Plaza as Eagan Medical Center, completing targeted improvements and driving leasing activity, TDP created a specialty healthcare destination that attracted strong investor interest.&#8221; The 43,419-square-foot medical office property is anchored by MNGI Digestive Health, Minnesota Urology and Tareen Dermatology, along with a complementary mix of specialty healthcare providers. Conveniently located near Interstates 35E and 494, the facility offers ample surface and underground parking. The post Colliers Completes Sale of Healthcare Center in Twin Cities Metro appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-09-01T21:33:04+00:00",
+      "bullets": [
+        "Tareen Development Partners (TDP) sold Eagan Medical Center, Twin Cities, specialty healthcare anchored",
+        "Value-add medical office conversion created 'specialty healthcare destination' for rapid exit",
+        "TDP remains active multifamily/mixed-use developer across Midwest with portfolio approach"
+      ],
+      "summary": "Tareen Development Partners (TDP), a Twin Cities-based multifamily and mixed-use developer, acquired and repositioned the former Town Centre Plaza as Eagan Medical Center (43,419 sq ft) and sold it at profit. The property is anchored by MNGI Digestive Health, Minnesota Urology, and Tareen Dermatology with complementary specialty healthcare tenants and benefits from proximity to I-35E and I-494. Colliers brokered the sale, which demonstrated TDP's value-add execution and investor appetite for healthcare real estate.",
+      "impact": "This is a non-core transaction for a multifamily-focused developer—TDP's medical office flip demonstrates opportunistic capital allocation but signals no direct multifamily supply, demand, or cost implications for the Twin Cities metro. The exit velocity and buyer appetite for specialty healthcare indicate strong capital competition outside residential, which may reduce multifamily investor pool depth in the Twin Cities."
+    },
+    {
+      "title": "Essex Realty Group Brokers Sale of 12-Unit MF in Tinley Park",
+      "link": "https://www.connectcre.com/stories/essex-realty-group-brokers-sale-of-12-unit-mf-in-tinley-park/",
+      "excerpt": "Essex Realty Group completed the sale of 17114 71st Avenue, a 12-unit multifamily property in Tinley Park, Illinois, for $1.51 million.The property consists of ten two-bedroom, one-bathroom units and two one-bedroom, one-bathroom units. Two units have been fully renovated, while the remaining ten are in standard condition. The property had been owned by the same seller since 2001 and was acquired by an out-of-state investor with a growing portfolio in the Chicago area. With in-place rents substantially below market, the new owner plans to renovate the remaining units and push rents toward market levels.&#8220;This transaction highlights the strong investor appetite we&#8217;re seeing for value-add multifamily assets in Chicago&#8217;s suburban markets,&#8221; said Jimmy Donahue, Director at Essex Realty Group. &#8220;With rents well below market, this property gave the buyer a clear roadmap to drive returns, and we were glad to help facilitate a smooth transaction for both parties.&#8221; Stay ahead of the multifamily market at Connect Apartments. Gain firsthand insights from industry leaders on capital markets, development, operations, financing, and investment trends while expanding your network with the people making deals happen. See you on September 22! The post Essex Realty Group Brokers Sale of 12-Unit MF in Tinley Park appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-09-01T21:22:47+00:00",
+      "bullets": [
+        "12-unit property, Tinley Park IL, sold for $1.51M by 23-year incumbent owner",
+        "Rents substantially below market; new out-of-state owner plans unit renovation & rent push",
+        "2 of 12 units already renovated; remaining 10 in standard condition"
+      ],
+      "summary": "Essex Realty Group brokered the sale of a 12-unit multifamily property at 17114 71st Avenue in Tinley Park, Illinois for $1.51M. The property comprised ten 2-bed/1-bath and two 1-bed/1-bath units with only two fully renovated; the remainder in standard condition. The property had been owned by the same entity since 2001 and was acquired by an out-of-state investor planning value-add renovation and rent growth to market.",
+      "impact": "This signals market-rate rental opportunity in Tinley Park (southwest Chicago suburbs) where below-market in-place rents create arbitrage for value-add investors. The out-of-state buyer's interest and renovation plan indicate growing investor confidence in Chicago suburban multifamily, particularly in underserved small portfolios. However, the modest deal size ($1.51M, 12 units) reflects fragmented ownership and suggests limited institutional development appetite for suburban infill; consolidation and new supply remain constrained in this submarket."
+    },
+    {
+      "title": "Ridge Capital Offloads Two Ukiah Apartment Complexes",
+      "link": "https://www.connectcre.com/stories/ridge-capital-offloads-two-ukiah-apartment-complexes/",
+      "excerpt": "Ridge Capital sold a two-apartment Northern California portfolio for $23.5 million. No buyer was disclosed. The apartment portfolio includes Sierra Sunset Village, a 68-unit development at 531 Capps Land and the Alderwood Apartments, a 53-unit venture at 1450 S. State Street in Ukiah. Sierra Sunset Village features mostly two-bedroom apartments with open floor plans, stainless steel appliances, hardwood-style flooring and central air conditioning. Community amenities include a pool, fitness center and an outdoor picnic area. Alderwood Apartments offers a mix of two- and three-bedroom floor plans onsite amenities that include a pool, covered garage parking and outdoor grilling areas. Zach LeBeouf and Anthony Pappageorge of Northmarq’s Walnut Creek, Calif., Investment Sales team represented the seller in the deal. The post Ridge Capital Offloads Two Ukiah Apartment Complexes appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-09-01T21:12:44+00:00",
+      "bullets": [
+        "Ridge Capital sold 121-unit Ukiah CA portfolio (Sierra Sunset 68-unit, Alderwood 53-unit) for $23.5M",
+        "Buyer undisclosed; properties feature standard amenities (pools, fitness, parking) and mixed unit mix",
+        "Northmarq brokered sale; transaction reflects Northern California secondary market liquidity"
+      ],
+      "summary": "Ridge Capital sold a two-property apartment portfolio in Ukiah, California for $23.5M comprising Sierra Sunset Village (68 units, mostly 2-bed) and Alderwood Apartments (53 units, 2- and 3-bed mix). Both properties feature standard community amenities including pools, fitness centers, and covered parking. Northmarq's Walnut Creek office brokered the transaction; the buyer was not disclosed.",
+      "impact": "This signals liquidity and capital activity in Northern California secondary markets (Ukiah is rural inland), but lacks sufficient detail on market conditions, exit multiples, or buyer type to assess broader demand/supply dynamics. The sale itself suggests existing stabilized supply is trading, not new demand drivers or pipeline changes for the market. Without rent, occupancy, or buyer strategy data, the transaction's second-order effect is unclear."
+    },
+    {
+      "title": "Advanced Materials Firm Nearly Doubles MA Footprint",
+      "link": "https://www.connectcre.com/stories/advanced-materials-firm-nearly-doubles-ma-footprint/",
+      "excerpt": "CPS Technologies Corp., a NASDAQ-listed advanced materials company based in Massachusetts, is moving its headquarters and nearly doubling its footprint in the process. The company has signed an 80,000-square-foot lease for its new home in Attleboro, MA, less than 10 minutes from its current facility in Norton. CPS will move its operations including its corporate offices, manufacturing operations, and product development activities to the new address at 523 Pleasant St. The additional space will allow for increased production capacity and faster commercialization of new product lines, enabling CPS to tap increasing demand from industries such as defense, energy infrastructure, and artificial intelligence. Located near Providence, RI, the facility also provides room for future expansion. Colliers represented CPS in the lease, and Dacon Corporation is overseeing architectural and engineering design at the new facility. Image courtesy of Colliers. The post Advanced Materials Firm Nearly Doubles MA Footprint appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-09-01T20:59:44+00:00",
+      "bullets": [
+        "CPS Technologies Corp. leased 80K SF in Attleboro MA, nearly doubling footprint from Norton",
+        "Expansion driven by defense, energy infrastructure, AI demand; room for future growth",
+        "Colliers represented; Dacon handling design; facility near Providence RI enables future expansion"
+      ],
+      "summary": "NASDAQ-listed CPS Technologies Corp., an advanced materials manufacturer based in Massachusetts, signed an 80,000-square-foot lease at 523 Pleasant Street in Attleboro, MA (less than 10 minutes from its current Norton facility). The expansion consolidates corporate offices, manufacturing, and product development and is driven by rising demand from defense, energy infrastructure, and AI sectors. The location near Providence, RI provides room for future expansion.",
+      "impact": "This is a corporate headquarters and manufacturing expansion in the Boston/Providence corridor, signaling strong employment growth in advanced materials/defense/AI sectors. In-migration of skilled workers and increased payroll for CPS and supply-chain vendors will strengthen rental demand in Attleboro and nearby Providence/Boston suburbs over the next 12–24 months. Multifamily developers should monitor Attleboro/North Attleboro submarkets for workforce housing demand; the AM-I-driven expansion cycle favors Class B/C apartments near manufacturing hubs within 20 miles of Boston."
+    },
+    {
+      "title": "Tax-Exempt Commercial Mortgage-Backed Securities Are Having a Moment",
+      "link": "https://commercialobserver.com/2026/09/tax-exempt-cmbs-affordable-housing/",
+      "excerpt": "As the need for affordable housing in the U.S. grows, the tax-exempt commercial mortgage-backed securities (CMBS) market is emerging as a potential financing tool to deliver more homes. New federal rules and greater attention from ratings agencies and top-tier banks are helping the growth of the burgeoning structure. Tax-exempt affordable housing securitizations have taken flight of late after years of largely flying under the radar, according to Ryan Paszczykowski, head of structured investing at Systima Capital Management. Tax-exempt CMBS deals occurred on an occasional basis back in the 2000s, but the structure began to develop consistently in the late 2010s when Citigroup and Freddie Mac rolled out programs offering credit risk transfer securities backed by tax-exempt loans issued by state or local housing agencies. The tax-exempt structures of these deals offer lower costs of capital than standard taxable CMBS or traditional affordable housing loans backed by Fannie Mae or Freddie Mac. Freddie Mac then launched a multifamily loan program in 2017 securitized by tax-exempt loans tied to properties receiving new-issue 4 percent Low-Income Housing Tax Credits (LIHTCs) and expanded its outreach of the offering in late 2024 through a new registration system. Now, the product is starting to take hold as a securitized offering in the municipal debt space at a time when there is increased support nationally to find financial solutions for America’s housing challenges. The deals have become more attractive to investors in a higher interest rate climate since the value of tax-exempt debt stays higher as rates remain elevated while also serving as an attractive option for high-yield investors who are drawn to collateral protections like the federally backed LIHTCs. A recent deal that Systima itself was involved in underscores the increased demand. In July, the company closed a $153 million tax-exempt affordable housing bond deal through the Public Finance Authority, a cond",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-09-01T20:00:08+00:00",
+      "bullets": [
+        "Tax-exempt CMBS emerging as financing tool for affordable multifamily; consistent growth since late 2010s",
+        "Freddie Mac 2017 multifamily program ties tax-exempt loans to new-issue 4% LIHTC properties",
+        "Structures offer lower cost of capital than taxable CMBS or traditional Fannie Mae/Freddie Mac loans"
+      ],
+      "summary": "Tax-exempt commercial mortgage-backed securities (CMBS) are emerging as a financing tool for affordable housing development following new federal rules and increased attention from ratings agencies and top-tier banks. The structure grew consistently in the late 2010s after Citigroup and Freddie Mac rolled out credit risk transfer programs backed by state/local housing agency loans. Freddie Mac launched a dedicated multifamily securitization program in 2017 for properties receiving 4% Low-Income Housing Tax Credits, offering lower capital costs than taxable alternatives.",
+      "impact": "Tax-exempt CMBS reduces the cost of capital for affordable multifamily development, expanding the addressable market for LIHTC projects that were previously constrained by financing costs. This lowers hurdle rates and increases feasibility for new construction and adaptive reuse of affordable units in secondary/tertiary markets. Multifamily developers should monitor Freddie Mac's tax-exempt program expansion and state housing agency partnership opportunities to lock in lower rates; this is a structural tailwind for affordable product and may reduce competitive pressure on market-rate development in strong-demand metros as capital redirects to LIHTC-eligible deals."
+    },
+    {
+      "title": "Dermatology Chain LaserAway Adds 15th NYC Location on the Upper East Side",
+      "link": "https://commercialobserver.com/2026/09/dermatology-laseraway-lease-upper-east-side/",
+      "excerpt": "Skin care, hair removal and body wellness services provider LaserAway is getting ready to open its 15th New York City location on Manhattan’s Upper East Side, Commercial Observer has learned. LaserAway signed a 10-year lease for 1,800 square feet on the ground floor of a mixed-use property at 242 East 86th Street, according to a source close to the deal. Asking rent was $165 per square foot. The Yorkville property is owned by the LLC 244 East 86th Street, which is linked to Shore Assets, according to property records. Michael Miller from The Shopping Center Group represented LaserAway in this deal, while Darrell Rubens and Richard Gelber from Newmark represented the landlord. Rubens and Gelber declined to comment, while Miller did not immediately respond to a request for comment. LaserAway offers clients several services including laser hair removal, Botox injections, cool sculpting, facials, tattoo removal and micro-needling. The company already has an East Side location at 1430 Second Avenue, according to its website. LaserAway’s other New York City locations include 118 Court Street in Brooklyn Heights, 35 East 19th Street in the Flatiron District, and 36-07 30th Avenue in Astoria, Queens. Other outposts are in Morningside Heights, the Meatpacking District, Tribeca and near Lincoln Center. Located on East 86th Street between Second and Third avenues, 242 East 86th Street is a 55,158-square-foot, mid-rise mixed-use property. The building was constructed in 1920 and renovated in 2003, according to Loopnet.com. Amanda Schiavo can be reached at aschiavo@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-09-01T19:37:26+00:00",
+      "bullets": [
+        "LaserAway opened 15th NYC location, Upper East Side, 1,800 SF ground floor, $165/SF asking rent",
+        "10-year lease at 242 East 86th Street; Yorkville market shows service/retail demand density",
+        "LaserAway expanding rapidly; already operates second East Side location at 1430 Second Avenue"
+      ],
+      "summary": "Skin care and wellness services provider LaserAway signed a 10-year lease for 1,800 square feet on the ground floor of 242 East 86th Street on Manhattan's Upper East Side. The asking rent was $165 per square foot. This is LaserAway's 15th NYC location and second on the Upper East Side (a second location operates at 1430 Second Avenue), reflecting the company's rapid expansion and market confidence in the Yorkville neighborhood.",
+      "impact": "LaserAway's rapid retail expansion in high-rent Manhattan submarkets (15 locations citywide, multiple Upper East Side outposts) signals strong consumer services demand and lease-signing velocity in premium retail corridors. This indicates stable or growing foot traffic and spending power in Manhattan neighborhoods, a secondary-order signal of strong residential demand and population retention in these areas. However, this is primarily a retail/ground-floor signal, not a multifamily supply or demand driver; it does not directly affect apartment development feasibility or pipeline in NYC."
+    },
     {
       "title": "Nuveen Green Capital Closes $173M C-PACE Loan on Miami-Area Condos Project",
       "link": "https://commercialobserver.com/2026/09/nuveen-green-capital-c-pace-miami-condos/",
@@ -32,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-09-01T19:00:38+00:00",
       "bullets": [
-        "Nuveen Green Capital closes $172.5M C-PACE construction loan for Shoma Group's Miami condo project",
-        "Shoma Bay mixed-use waterfront development in North Bay Village, among top 5 C-PACE deals in Florida",
-        "C-PACE proves viable as sole capital source for large-scale residential mixed-use projects in South Florida"
+        "Nuveen Green Capital closed $172.5M C-PACE loan for Shoma Bay mixed-use condo project, North Bay Village FL",
+        "Sole capital provider; ranks among 5 largest C-PACE deals in Florida; construction financing model",
+        "C-PACE emerges as primary construction debt tool for large South Florida residential/mixed-use projects"
       ],
-      "summary": "Nuveen Green Capital provided a $172.5 million C-PACE (Commercial Property Assessed Clean Energy) construction loan to Miami developer Shoma Group for Shoma Bay, a mixed-use waterfront condominium project in North Bay Village. This marks one of the five largest C-PACE-financed projects in Florida, with Nuveen serving as the sole capital provider. C-PACE continues to demonstrate strength as a construction financing tool for large-scale residential assets in South Florida.",
-      "impact": "C-PACE availability as a construction financing tool directly reduces reliance on traditional construction debt in South Florida, expanding feasibility for large mixed-use residential developments. This capital alternative may enable developers to pursue projects at lower all-in costs or with more favorable terms, pressuring traditional lenders' pricing and increasing competitive supply of rental units in the Miami/South Florida market."
+      "summary": "Nuveen Green Capital closed a $172.5M C-PACE (Commercial Property Assessed Clean Energy) loan with Shoma Group for the Shoma Bay mixed-use waterfront condominium project in North Bay Village, Florida. Nuveen served as sole capital provider, making this one of the five largest C-PACE-financed projects in Florida. The transaction demonstrates C-PACE's power as a primary construction financing mechanism for large-scale residential mixed-use assets in South Florida.",
+      "impact": "C-PACE is filling a construction financing gap in South Florida, enabling mega-scale residential/mixed-use development that traditional construction lenders or agency financing may not fully underwrite. This expands the feasible pipeline for large-format developments and lowers cost of capital relative to taxable construction debt. Multifamily developers in South Florida should incorporate C-PACE structuring into underwriting for new construction with green/efficiency components; the availability of large, sole-capital providers like Nuveen lowers deal risk and accelerates feasibility for projects in Miami, Broward, and Palm Beach counties. This is a structural tailwind for South Florida residential pipeline."
     },
     {
       "title": "Related Ross Buys Land for Major Mixed-Use Dev in Florida",
@@ -47,27 +152,12 @@
       "cat": "Commercial",
       "date": "2026-09-01T18:50:00+00:00",
       "bullets": [
-        "Related Ross acquires 32-acre site in Wellington, Palm Beach County for $28.3 million",
-        "Village Landing mixed-use: 180-room hotel, 300K+ SF retail/office/restaurant across six plazas; construction Q4 2024",
-        "Starwood Property Trust finances deal with $29.1M construction loan; targets western Palm Beach County communities"
+        "Related Ross acquired 32-acre land parcel, Wellington FL (Palm Beach County), $28.3M for Village Landing",
+        "Mixed-use development: 180-room hotel, 300K+ SF retail/office/restaurant, 6 plazas; fall construction start",
+        "Starwood Property Trust provided $29.1M loan; site has expansion capacity east of SR-7"
       ],
-      "summary": "Related Ross closed a $28.3 million land acquisition for a 32-acre site in Wellington, Palm Beach County, Florida, to develop Village Landing, a major mixed-use project. The planned development includes a 180-room hotel, over 300,000 square feet of retail, office, and restaurant space, and six plazas designed to serve western Palm Beach County communities. Starwood Property Trust provided a $29.1 million construction loan, with groundbreaking expected in fall 2024.",
-      "impact": "Related's $28.3M land deal in the equestrian-focused Wellington submarket signals confidence in western Palm Beach County demand for mixed-use retail/hospitality anchors, implying population density and affluent household migration supporting future multifamily development in adjacent areas. Development of convenience/lifestyle amenities typically precedes or accompanies multifamily infill in secondary submarkets."
-    },
-    {
-      "title": "Tucson Walmart SuperCenter Opens September 2",
-      "link": "https://www.connectcre.com/stories/tucson-walmart-supercenter-opens-september-2/",
-      "excerpt": "Out with the old, in with the new. Walmart will celebrate the conversion of its East Wetmore Road store into a full-service Supercenter on Wednesday, Sept. 2,. The store will be about 180,000 square feet. The store at 455 E. Wetmore Road was Tucson’s last remaining Walmart general merchandise location. Following the conversion, customers can now purchase fresh groceries, fill prescriptions and complete a full weekly shopping trip at the property. The upgraded Supercenter includes an expanded fresh grocery department with produce, meat, dairy and frozen foods, along with a new deli and bakery. Walmart also updated the pharmacy with an additional private consultation room and expanded merchandise selections in automotive, fashion, consumables and health and wellness. The post Tucson Walmart SuperCenter Opens September 2 appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-09-01T18:34:21+00:00",
-      "bullets": [
-        "Walmart converts Tucson East Wetmore Road store to 180K-SF SuperCenter on September 2",
-        "Upgrade adds fresh grocery, deli, bakery, pharmacy, expanded retail; last Walmart general merchandise location in Tucson",
-        "Retail anchor activation in Tucson signals neighborhood investment and potential demand driver for nearby residential"
-      ],
-      "summary": "Walmart is converting its East Wetmore Road location in Tucson into a full-service 180,000-square-foot SuperCenter on September 2, adding fresh groceries, deli, bakery, and pharmacy services. This was Tucson's last remaining Walmart general merchandise location, making this conversion a significant retail upgrade for the area.",
-      "impact": "Limited relevance to multifamily development strategy. Retail anchors can signal neighborhood stability and foot traffic in secondary markets, but a single conversion does not materially shift demand or supply signals for apartment development in Tucson."
+      "summary": "Related Ross closed a $28.3M land acquisition for 32 acres at 10400 Stribling Way in Wellington, Florida (Palm Beach County) to develop Village Landing, a major open-air mixed-use project. The planned development includes a 180-room hotel and over 300,000 square feet of retail, office, and restaurant space connected by six plazas, with construction expected to commence in fall. Starwood Property Trust provided a $29.1M construction loan; the site has room for future expansion.",
+      "impact": "Related's $28.3M land acquisition and immediate construction financing in Wellington (western Palm Beach County, equestrian-focused affluent community) signals strong developer confidence in western Palm Beach County's growth trajectory and experiential retail/hospitality demand. This is primarily mixed-use retail/hotel, not multifamily, but it indicates capital flow and infrastructure investment in a secondary Palm Beach County submarket. This could signal indirect multifamily opportunity—residential demand typically follows mixed-use/retail anchors in affluent suburban markets. Developers should monitor Wellington/western Palm Beach County for residential land parcels and Class A multifamily development opportunities as Village Landing construction advances and retail/hospitality anchors mature."
     },
     {
       "title": "Investor General Atlantic to Anchor Related’s 625 Madison Avenue in 150K-SF Deal",
@@ -77,102 +167,12 @@
       "cat": "Commercial",
       "date": "2026-09-01T18:29:27+00:00",
       "bullets": [
-        "General Atlantic leases 150K+ SF across five floors at Related's 625 Madison Avenue, Manhattan Plaza District",
-        "Long-term lease for investment firm's 330+ NY employees (one-third of global workforce); tower opens 2029",
-        "Class A Plaza District average asking rent: $97.23/SF; major corporate anchor pre-lease signals strong office demand recovery"
+        "General Atlantic leased 150K+ SF across 5 floors at Related's 625 Madison Avenue, opening 2029",
+        "Anchor tenant represents 330+ NYC employees (~1/3 of firm's global workforce); 53-story office tower",
+        "Long-term lease; Plaza District average Class A asking rent $97.23/SF; no rent/length terms disclosed"
       ],
-      "summary": "Related Companies secured General Atlantic, a global investment firm, as an anchor tenant for its under-construction 53-story office tower at 625 Madison Avenue in Manhattan's Plaza District. General Atlantic will occupy over 150,000 square feet across five floors on a long-term lease for its 330+ New York-based employees, representing approximately one-third of the firm's global workforce. The tower is slated to open in 2029.",
-      "impact": "General Atlantic's long-term, pre-lease commitment to 625 Madison signals sustained demand for Class A office space and executive presence in Manhattan, supporting office-to-residential conversion potential and cross-asset demand for luxury multifamily near the Plaza District. Employer stability and headcount expansion in Manhattan support rental demand in nearby residential markets."
-    },
-    {
-      "title": "Work Wraps Up on 74-Story Austin Mixed-Use Tower",
-      "link": "https://www.connectcre.com/stories/work-wraps-up-on-74-story-austin-mixed-use-tower/",
-      "excerpt": "Lincoln Property Co. and Kairoi Residential wrapped up construction on Waterline, the Lone Star State’s tallest tower, rising 74 stories in downtown Austin, Texas. The mixed-use property features 352 multifamily units across 33 levels, 703,000 square feet of office space spanning 24 floors and 252 hotel keys taking up 13 stories. Multihousing New reports Waterline is subject to a $742.5 million self-financed construction loan originated in June 2022, one year before work began. The development team included general contractor DPR Construction and designer KPF. HKS served as the architect of record. The team delivered the project two months ahead of schedule. Bosque Residences represents Waterline’s multifamily portion, encompassing one- to three-bedroom units, including penthouse layouts, that range between 701 and 2,803 square feet. Select apartments include waterfall islands, free-standing tubs, as well as wet and dry bars, among other features. Community amenities include a coworking lounge, conference rooms, a podcast space, a poker venue, a golf simulator, in addition to several swimming pools. The post Work Wraps Up on 74-Story Austin Mixed-Use Tower appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-09-01T18:15:48+00:00",
-      "bullets": [
-        "Lincoln Property/Kairoi complete 74-story Waterline tower in downtown Austin; Texas's tallest building",
-        "352 multifamily units, 703K SF office, 252 hotel keys; $742.5M self-financed construction loan from June 2022",
-        "Bosque Residences apartments (701–2,803 SF) delivered two months ahead of schedule; mixed-use anchors coworking, pools, dining"
-      ],
-      "summary": "Lincoln Property Company and Kairoi Residential completed Waterline, a 74-story mixed-use tower in downtown Austin and Texas's tallest building. The project includes 352 multifamily units across 33 levels, 703,000 square feet of office space, and 252 hotel keys. Financed by a $742.5 million self-financed construction loan from June 2022, Waterline was delivered two months ahead of schedule and features luxury unit sizes (701–2,803 SF) and premium amenities.",
-      "impact": "Waterline's successful completion and on-time delivery of 352 units in downtown Austin demonstrates sustained multifamily development appetite and execution capability in a high-growth, office-anchor market. The mixed-use, self-financed structure with office and hotel reduces financing risk; early delivery signals strong absorption and rental demand in downtown Austin, supporting pipeline confidence for competing and adjacent multifamily projects."
-    },
-    {
-      "title": "Trump Pushes Federal Film Tax Incentive as Hollywood Crisis Deepens",
-      "link": "https://commercialobserver.com/2026/09/trump-federal-film-tax-hollywood-studios/",
-      "excerpt": "President Donald Trump is calling on Congress to create a federal tax incentive for film and television production in what could be a major boost to Hollywood and the other drowning studio and soundstage markets in the U.S. Trump said he is arranging meetings with leaders of both parties to start forming legislation. The president did not specify the size or structure, but a proposal backed by industry heads calls for a 20 percent credit on U.S. production labor costs. While 39 states offer production incentives, the U.S. has no nationwide program comparable to incentives available in several competing countries. “Congress should approve, immediately, a Federal Production Incentive to create Entertainment Jobs in America,” Trump wrote, arguing that film production has migrated to Canada and other countries. The push comes amid an increasingly dire environment for production space and for the entertainment industry that has defined Los Angeles and driven its economy. L.A. County shooting days fell 42 percent between their 2022 peak and 2024, while Southern California production was estimated last year to be 50 to 70 percent below its peak. At the time, roughly half of L.A.’s film and television stages were reportedly empty. Conditions quickly translated into significant distress for studio landlords. Hackman Capital Partners defaulted on $1.1 billion in financing tied to the 1.2 million-square-foot Radford Studio Center, which Goldman Sachs subsequently took control of. Hackman and Affinius Capital had paid $1.85 billion for the property in 2021 and envisioned a $1 billion expansion. Prominent studio complex Television City, where Hackman planned a roughly $1 billion redevelopment, has also fallen into distress, with lenders alleging the landlord owes more than $357 million on the 25-acre property. Hudson Pacific Properties is also grappling with the production downturn and faces a $1.1 billion Hollywood studio loan maturity while its star tenant Netflix pursues Hack",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-09-01T18:05:47+00:00",
-      "bullets": [
-        "Trump pushes federal film tax incentive for U.S. production as Hollywood crisis deepens",
-        "L.A. County shooting days fell 42% between 2022 peak and 2024; 39 states offer production incentives, U.S. lacks federal program",
-        "Proposed 20% credit on U.S. production labor costs would compete with Canada and other countries offering subsidies"
-      ],
-      "summary": "President Trump is calling on Congress to create a federal tax incentive for film and television production to address declining Hollywood production activity. L.A. County shooting days dropped 42 percent between 2022 and 2024, and film production has migrated to Canada and other countries offering incentives. A proposed 20 percent credit on U.S. production labor costs is being discussed, though no specific structure or size has been announced.",
-      "impact": "Limited direct relevance to multifamily development. A federal film incentive could stabilize Los Angeles entertainment employment and reverse population/talent out-migration, indirectly supporting longer-term rental demand in LA submarkets. However, the near-term outlook for Hollywood employment remains uncertain, and any benefit to multifamily demand would lag incentive implementation by years."
-    },
-    {
-      "title": "Walton Street Capital Refis Tampa-Area Apartments With $44M Loan",
-      "link": "https://commercialobserver.com/2026/09/walton-street-capital-tampa-florida-apartments/",
-      "excerpt": "A joint venture between Mast Capital and Rockpoint has sealed a $44 million loan to refinance a newly completed garden-style apartment community in a suburb north of Tampa, Fla., Commercial Observer has learned. Walton Street Capital supplied the three-year, floating-rate loan on the sponsorship’s248-unit the Harlow property in Wesley Chapel, Fla. The refi retired a past construction loan obtained for the property while providing the borrower flexibility to pursue a sale or permanent financing in the next few years, according to Berkadia, which arranged the transaction. Berkadia negotiated the debt with a team consisting of Mitch Sinberg, Scott Wadler, Matthew Robbins, Brad Williamson and Bryan Brown. &#8220;The Harlow presented a compelling financing opportunity given the strength of the sponsorship, quality of the newly built asset and its strong operating performance,” Wadler, managing director at Berkadia, said in a statement. Robbins added the Wesley Chapel submarket benefits from “strong population growth” along with the community’s “significant investment” in retail, health care and infrastructure projects. The property is half a mile north of the $250 million BayCare Hospital Wesley Chapel that opened in 2023. Located at 5301 Bruce B Downs Boulevard 23 miles north of Downtown Tampa, the 2024-built Harlow was 98 percent occupied at the time of the loan with a mix of one-, two- and three-bedroom units. Community amenities include a pool, a sundeck, a fitness center, a walking trail, electronic vehicle charging stations and coworking spaces. “The Harlow’s strong leasing performance reflects the quality of the community and the continued demand we see across the Wesley Chapel market,” Camilo Miguel Jr., founder and CEO of Mast Capital, said in a statement. “This refinancing positions the asset well for its next phase and underscores our conviction in the long-term fundamentals of the Tampa region.” Walton Street Capital did not immediately return a request for c",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-09-01T17:38:14+00:00",
-      "bullets": [
-        "Walton Street Capital refinances 248-unit Harlow garden-style apartments in Wesley Chapel, Tampa-area with $44M floating-rate loan",
-        "Three-year refi on newly completed Mast Capital/Rockpoint JV property; retires construction loan, enables future sale/permanent refinancing",
-        "Wesley Chapel submarket benefits from strong population growth; new asset demonstrates strong operating performance post-delivery"
-      ],
-      "summary": "A joint venture between Mast Capital and Rockpoint refinanced the newly completed 248-unit Harlow apartment community in Wesley Chapel, a Tampa-area suburb, with a $44 million three-year floating-rate loan from Walton Street Capital. The refi retired construction debt and provides flexibility for a potential sale or permanent financing within three years. Berkadia arranged the transaction.",
-      "impact": "Walton Street's willingness to refinance garden-style product in Wesley Chapel at completion signals confidence in Tampa-area suburban demand and operating performance. The three-year floating-rate structure indicates lenders expect rate stability and/or strong market fundamentals; successful placement supports continued multifamily development feasibility in Tampa's outer suburbs, particularly in high-growth corridors like Wesley Chapel."
-    },
-    {
-      "title": "17-Story Denver Office Tower Trades for $3.6M",
-      "link": "https://www.connectcre.com/stories/17-story-denver-office-tower-trades-for-3-6m/",
-      "excerpt": "A number of Denver office towers continue to suffer profitability issues. The 17-story tower, once known as Columbine Place, has been bought for $3.63 million. The Denver Business Journal reports building values in downtown Denver have dropped significantly since then. Adio Palace is the buyer. The building will also be called Adio Palace. The 149,222-square-foot skyscraper previously served as collateral for a $15.5 million loan in 2015. The new owner plans to continue to use the property as is and attract more tenants to the building. The building is 69% vacant. A Denver District Court judge placed the tower into receivership in 2023. The University of Hawaii Foundation held a ground lease on the land while an investor group called Columbine West 2 owned the building. Court documents in 2023 showed Columbine West 2 owed $17.7 million on the building. A foreclosure began after Columbine West 2 had failed to make principal and interest payments since October 2022. The post 17-Story Denver Office Tower Trades for $3.6M appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-09-01T16:22:35+00:00",
-      "bullets": [
-        "17-story Columbine Place office tower in downtown Denver trades for $3.63 million; 69% vacant",
-        "Prior $15.5M loan (2015) written down sharply; foreclosure after owner defaulted since October 2022; court receivership in 2023",
-        "New owner Adio Palace plans to continue office use and attract tenants; downtown Denver values dropped significantly"
-      ],
-      "summary": "A 17-story Denver office tower, formerly known as Columbine Place, sold for $3.63 million after foreclosure and court receivership. The 149,222-square-foot building is currently 69 percent vacant and was previously collateral for a $15.5 million loan in 2015. Court documents showed the owner owed $17.7 million before default began in October 2022. The new owner, Adio Palace, plans to continue operating it as office space.",
-      "impact": "Downtown Denver's office distress (69% vacancy, sharp valuation decline) signals weak office demand and persistent capitalization headwinds in the metro. Multifamily developers should view downtown Denver office collapse as a risk factor for near-term office-to-residential conversion economics and as evidence of weak white-collar employment/migration in the core, though suburban Denver submarkets may offer stronger demand fundamentals."
-    },
-    {
-      "title": "Broadstone Inks Hobby Lobby, Academy Sports as Manor Tenants",
-      "link": "https://www.connectcre.com/stories/broadstone-inks-hobby-lobby-academy-sports-as-manor-tenants/",
-      "excerpt": "Broadstone Net Lease (BNL) secured land in Manor and started construction on build-to-suit developments for Hobby Lobby and Academy Sports, both of which were directly sourced, off-market transactions, and are expected to deliver in the second quarter of 2027. Hobby Lobby and Academy will be 55,000 square feet, and each is on a 15-year lease. Hobby Lobby’s lease has annual rent escalations of 0.5%, and Academy’s lease has 0.4% annual rent escalations. Broadstone is targeting the second quarter of 2027 to deliver the projects. BNL is an industrial-focused, diversified net lease REIT that invests primarily in single-tenant commercial real estate properties net leased on a long-term basis. BNL’s diversified portfolio consisted of 766 individual net-leased commercial properties with 759 properties located in 44 U.S. states and seven properties located in four Canadian provinces across the industrial, retail, and other property types. Academy plans to open 20 to 25 new stores in fiscal year 2026. The post Broadstone Inks Hobby Lobby, Academy Sports as Manor Tenants appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-09-01T15:46:53+00:00",
-      "bullets": [
-        "Broadstone Net Lease (BNL) secures land in Manor, Texas; build-to-suit for Hobby Lobby (55K SF) and Academy Sports (55K SF)",
-        "Both 15-year leases with low annual escalations (0.5% and 0.4%); delivery Q2 2027; off-market, direct-sourced transactions",
-        "Academy Sports plans 20–25 new store openings in fiscal 2026; signals retail expansion driving industrial demand in Texas"
-      ],
-      "summary": "Broadstone Net Lease secured land in Manor, Texas, and commenced construction on two build-to-suit projects: a 55,000-square-foot Hobby Lobby and a 55,000-square-foot Academy Sports. Both tenants signed 15-year leases with minimal annual rent escalations (0.5% and 0.4% respectively) and are expected to deliver in Q2 2027. Academy Sports has announced plans for 20–25 new store openings in fiscal 2026.",
-      "impact": "Academy Sports expansion (20–25 new stores in FY2026) and Hobby Lobby new-market entry signal retail growth and consumer spending activity in Texas, particularly in secondary/tertiary markets like Manor. This retail/logistics activity typically precedes or co-occurs with population migration and multifamily demand; developers should monitor Academy Sports store rollout corridors for future multifamily opportunity sites."
-    },
-    {
-      "title": "Logistics Property Lands Tenant for 217K-SF Houston-Area Warehouse",
-      "link": "https://www.connectcre.com/stories/logistics-property-lands-tenant-for-217k-sf-houston-area-warehouse/",
-      "excerpt": "Logistics Property Company leased 217,758 square feet of build-to-suit warehouse space at CityPark Logistics Center, Building 7 in Missouri City, Texas, with Standex GRID / Amran Instrument Transformers (Standex GRID / Amran). Standex GRID / Amran will use the space as both a warehouse and manufacturing facility. CityPark Logistics Center is a 98-acre industrial park that includes five fully leased buildings totaling more than one million square feet. Construction on the new facility is underway, with an anticipated completion in Q2 2027. This new building will be Standex GRID / Amran’s largest North American location. CityPark Logistics Center was selected for its Southwest Houston location and its ability to accommodate a layout that meets Standex GRID/Amran’s office, production, and manufacturing needs. Cushman &amp; Wakefield’s Beau Kaleel and Brooke Swerdlow assisted in the transaction. Standex GRID / Amran was represented by Steve King and Wesley King of CBRE. The general contractor is Burton Construction, with Powers Brown as the architect and Pape Dawson as the civil engineer.&nbsp; The post Logistics Property Lands Tenant for 217K-SF Houston-Area Warehouse appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-09-01T14:44:30+00:00",
-      "bullets": [
-        "Logistics Property Company leases 217,758 SF build-to-suit warehouse to Standex GRID/Amran in Missouri City, Houston-area",
-        "Facility serves as warehouse and manufacturing; Standex GRID/Amran's largest North American location; completion Q2 2027",
-        "CityPark Logistics Center: 98-acre industrial park, 5 fully leased buildings, 1M+ SF; Southwest Houston location selected for logistics corridor strength"
-      ],
-      "summary": "Logistics Property Company leased 217,758 square feet of build-to-suit warehouse and manufacturing space at CityPark Logistics Center, Building 7 in Missouri City, Texas, to Standex GRID/Amran. This will be Standex GRID/Amran's largest North American facility. CityPark Logistics Center is a fully leased 98-acre industrial park with over one million square feet across five buildings. Construction is underway with expected completion in Q2 2027.",
-      "impact": "Southwest Houston industrial park strength (CityPark fully leased, new major tenant commitment) indicates sustained logistics and manufacturing employment growth, supporting working-class and middle-income multifamily demand in surrounding corridors. High industrial absorption in Missouri City/Southwest Houston submarkets suggests population inflow and wage-earning households, creating tailwinds for workforce and market-rate multifamily development in adjacent residential areas."
+      "summary": "Related Companies announced that global investment firm General Atlantic has signed a long-term lease to occupy more than 150,000 square feet across five floors at the company's under-construction 53-story office tower at 625 Madison Avenue in Manhattan's Plaza District. The space will house General Atlantic's 330+ New York-based employees (approximately one-third of the firm's global workforce). The tower is slated to open in 2029; exact lease length and rental rate were not disclosed.",
+      "impact": "General Atlantic's 150K+ SF office anchor at 625 Madison Avenue signals strong institutional investor commitment to Manhattan office post-COVID and confidence in Plaza District (Midtown East) recovery. However, this is a back-office/corporate HQ lease, not a direct multifamily demand driver. The broader implication: if Plaza District office recovers and attracts major relocations, workforce in-migration could support residential demand in Upper East Side and Midtown East apartment markets in 2027–2030. Multifamily developers should monitor office anchor activity in Manhattan CBD submarkets as a leading indicator of residential demand inflection; Plaza District office recovery would justify new luxury/Class A multifamily supply in adjacent residential neighborhoods."
     }
   ]
 }
