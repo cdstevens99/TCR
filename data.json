@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-01T15:47:48.831695+00:00",
+  "fetchedAt": "2026-09-01T19:01:29.242095+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -9,35 +9,155 @@
     },
     {
       "label": "10Y Treasury",
-      "value": "4.77%",
-      "pct": 0.21
+      "value": "4.80%",
+      "pct": 0.88
     },
     {
       "label": "30Y Treasury",
-      "value": "5.25%",
-      "pct": -0.06
+      "value": "5.27%",
+      "pct": 0.4
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "96.75",
-      "pct": 0.33
+      "value": "96.17",
+      "pct": -0.29
     }
   ],
   "stories": [
     {
-      "title": "Scion Group, Ares Acquire U.S. Student Housing Portfolio for $435M",
-      "link": "https://commercialobserver.com/2026/09/scion-group-ares-acquire-student-housing-portfolio/",
-      "excerpt": "In their second major acquisition this year, student housing owner and operator the Scion Group and private equity giant Ares Management have purchased a four-community student housing portfolio in Texas, Tennessee and Georgia for approximately $435 million. Scion and Ares bought the 2,316-bed portfolio from Schenk+, a real estate development and investment company led by Jared Schenk that specializes in off-campus student housing. Three of the communities that are part of the purchase were developed by Schenk+, while the fourth was acquired and repositioned by the firm, according to a Tuesday announcement from the buyers. The portfolio includes properties at the University of Georgia in Athens, the University of Tennessee in Knoxville and Texas State University in San Marcos. “Jared Schenk is one of the true pioneers of off-campus student housing, and he has built an incredible portfolio of high-quality communities,” Robert Bronstein, CEO of Scion, said in a statement. “This transaction provides a comprehensive exit for him and his investors. Scion is pleased to add another successful portfolio execution to our track record, and we are even more excited to welcome these communities to our portfolio.” Inland Real Estate Investment’s Nati Kiferbaum represented Schenk+ in the deal, while it was unclear whether Scion and Ares had any representation. Kiferbaum could not be reached for comment, while a spokesperson for Schenk+ did not immediately respond to a request for comment. News of the deal comes roughly three months after Scion and Ares completed the largest student housing portfolio deal so far in 2026. In late May, the joint venture acquired a 12-property student housing portfolio in the U.S. for $910 million from Harrison Street Asset Management (HSAM), as Commercial Observer previously reported. The portfolio included 7,578 beds across 10 states and 12 universities, including Arizona State University, Auburn University in Alabama and the University of Florida.",
+      "title": "Nuveen Green Capital Closes $173M C-PACE Loan on Miami-Area Condos Project",
+      "link": "https://commercialobserver.com/2026/09/nuveen-green-capital-c-pace-miami-condos/",
+      "excerpt": "The continued strength of Commercial Property Assessed Clean Energy (C-PACE) debt as a construction financing tool has made a big splash in South Florida. Miami developer Shoma Group has landed a $172.5 million C-PACE loan from Nuveen Green Capital to develop its Shoma Bay mixed-use condominium waterfront project in North Bay Village, Fla., Commercial Observer can first report. This transaction provides further evidence of the power of C-PACE to provide accretive financing for large-scale assets such as Shoma Bay,” Ryan Doyle, senior director of originations, at Nuveen Green Capital, said in a statement. “The project is particularly impactful, as Nuveen Green Capital served as the sole capital provider for this development, which ranks among the five largest C-PACE-financed projects in the state of Florida.” Doyle originated the loan with a Nuveen Green Capital team that also featured Christopher Lawton, head of originations, along with Brendan Moore, director, and Tyler Amano, associate director. One source familiar with the transaction said it’s notable because there’s no other debt provider in the capital stack — just the C-PACE loan, condo sales deposits and equity. Located at 1850 John F. Kennedy Causeway 10 miles northeast of Downtown Miami, the 24-story Shoma Bay development will comprise 333 condo units and retail space anchored by a 36,000-square-foot Publix supermarket. Community amenities will include a rooftop pool deck, a wellness spa, a two-story fitness center, a padel court and coworking spaces. Newmark negotiated the debt with a team consisting of Anthony Orso, Clifford Welden, Daniel Matz and Henry Stimler. “Shoma Bay is an exceptional project that reflects the continued evolution of North Bay Village into one of South Florida’s most dynamic waterfront communities,” Orso said in a statement. Shoma Group did not immediately return a request for comment. Andrew Coen can be reached at acoen@commercialobserver.com.",
       "source": "Comm. Observer",
       "cat": "Commercial",
-      "date": "2026-09-01T15:39:57+00:00",
+      "date": "2026-09-01T19:00:38+00:00",
       "bullets": [
-        "Scion Group + Ares acquire 2,316-bed student housing portfolio for $435M across Texas, Tennessee, Georgia",
-        "Properties at University of Georgia, University of Tennessee, Texas State University; second major deal for Scion/Ares in 2026",
-        "Off-campus student housing consolidation signals PE confidence in sector fundamentals and operator scale"
+        "Nuveen Green Capital closes $172.5M C-PACE construction loan for Shoma Group's Miami condo project",
+        "Shoma Bay mixed-use waterfront development in North Bay Village, among top 5 C-PACE deals in Florida",
+        "C-PACE proves viable as sole capital source for large-scale residential mixed-use projects in South Florida"
       ],
-      "summary": "Scion Group and Ares Management purchased a four-community, 2,316-bed student housing portfolio for approximately $435 million from Schenk+, acquiring properties near University of Georgia (Athens), University of Tennessee (Knoxville), and Texas State University (San Marcos). This marks the second major acquisition this year for the partnership. The deal reflects continued institutional investor appetite for off-campus student housing despite higher education headwinds.",
-      "impact": "Consolidation of student housing by well-capitalized PE players pressures smaller developers and operators in college towns. Limited supply elasticity around major state universities means Scion/Ares can raise rents and optimize NOI; signals confidence in student enrollment stability in these markets despite national demographic shifts. Worth monitoring occupancy and rate trends at comparable univ-adjacent properties in these three metros for demand signal confirmation."
+      "summary": "Nuveen Green Capital provided a $172.5 million C-PACE (Commercial Property Assessed Clean Energy) construction loan to Miami developer Shoma Group for Shoma Bay, a mixed-use waterfront condominium project in North Bay Village. This marks one of the five largest C-PACE-financed projects in Florida, with Nuveen serving as the sole capital provider. C-PACE continues to demonstrate strength as a construction financing tool for large-scale residential assets in South Florida.",
+      "impact": "C-PACE availability as a construction financing tool directly reduces reliance on traditional construction debt in South Florida, expanding feasibility for large mixed-use residential developments. This capital alternative may enable developers to pursue projects at lower all-in costs or with more favorable terms, pressuring traditional lenders' pricing and increasing competitive supply of rental units in the Miami/South Florida market."
+    },
+    {
+      "title": "Related Ross Buys Land for Major Mixed-Use Dev in Florida",
+      "link": "https://commercialobserver.com/2026/09/stephen-ross-related-village-landing-wellington/",
+      "excerpt": "Billionaire Stephen Ross has closed on a land acquisition to build a major, open-air mixed-use development in Wellington, a village in Palm Beach County, Fla., renowned for its equestrian scene. Related Ross, the developer’s namesake firm, paid $28.3 million for a 32-acre site at 10400 Stribling Way, just east of State Road 7, property records show. The planned development, called Village Landing, is set to include a 180-room hotel and over 300,000 square feet of retail, office and restaurant space, all connected by six plazas. “Our goal is to create a village center that complements what is already special about Wellington while adding the everyday amenities, restaurants, experiences and connections that are designed to serve the western communities of Palm Beach County,” Kevin Ryan, executive vice president of Related Ross, said in a statement. Starwood Property Trust supplied a $29.1 million loan. Construction is expected to commence in the fall. The western portion of the site, spanning about 44 acres, will be turned into a private grade school, operated by ElevateED. The land sale is expected to close in October, per a representative for Related Ross. The combined 71-acre parcel is part of the Acme Improvement District, which was controlled by the Village of Wellington. In 1953, the Florida Legislature created the special district to manage water drainage and infrastructure development. Village Landing marks Related Ross’ first ground-up development outside of West Palm Beach since launching in 2024 and becoming the city&#8217;s biggest office owner. Ross’s goal is to turn West Palm Beach into a leading business hub and attract high-profile tech and finance companies. The West Palm Beach-based firm is building two more office buildings after securing a $772 million construction loan package last year. Two luxury condo developments are under construction. Julia Echikson can be reached at jechikson@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-09-01T18:50:00+00:00",
+      "bullets": [
+        "Related Ross acquires 32-acre site in Wellington, Palm Beach County for $28.3 million",
+        "Village Landing mixed-use: 180-room hotel, 300K+ SF retail/office/restaurant across six plazas; construction Q4 2024",
+        "Starwood Property Trust finances deal with $29.1M construction loan; targets western Palm Beach County communities"
+      ],
+      "summary": "Related Ross closed a $28.3 million land acquisition for a 32-acre site in Wellington, Palm Beach County, Florida, to develop Village Landing, a major mixed-use project. The planned development includes a 180-room hotel, over 300,000 square feet of retail, office, and restaurant space, and six plazas designed to serve western Palm Beach County communities. Starwood Property Trust provided a $29.1 million construction loan, with groundbreaking expected in fall 2024.",
+      "impact": "Related's $28.3M land deal in the equestrian-focused Wellington submarket signals confidence in western Palm Beach County demand for mixed-use retail/hospitality anchors, implying population density and affluent household migration supporting future multifamily development in adjacent areas. Development of convenience/lifestyle amenities typically precedes or accompanies multifamily infill in secondary submarkets."
+    },
+    {
+      "title": "Tucson Walmart SuperCenter Opens September 2",
+      "link": "https://www.connectcre.com/stories/tucson-walmart-supercenter-opens-september-2/",
+      "excerpt": "Out with the old, in with the new. Walmart will celebrate the conversion of its East Wetmore Road store into a full-service Supercenter on Wednesday, Sept. 2,. The store will be about 180,000 square feet. The store at 455 E. Wetmore Road was Tucson’s last remaining Walmart general merchandise location. Following the conversion, customers can now purchase fresh groceries, fill prescriptions and complete a full weekly shopping trip at the property. The upgraded Supercenter includes an expanded fresh grocery department with produce, meat, dairy and frozen foods, along with a new deli and bakery. Walmart also updated the pharmacy with an additional private consultation room and expanded merchandise selections in automotive, fashion, consumables and health and wellness. The post Tucson Walmart SuperCenter Opens September 2 appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-09-01T18:34:21+00:00",
+      "bullets": [
+        "Walmart converts Tucson East Wetmore Road store to 180K-SF SuperCenter on September 2",
+        "Upgrade adds fresh grocery, deli, bakery, pharmacy, expanded retail; last Walmart general merchandise location in Tucson",
+        "Retail anchor activation in Tucson signals neighborhood investment and potential demand driver for nearby residential"
+      ],
+      "summary": "Walmart is converting its East Wetmore Road location in Tucson into a full-service 180,000-square-foot SuperCenter on September 2, adding fresh groceries, deli, bakery, and pharmacy services. This was Tucson's last remaining Walmart general merchandise location, making this conversion a significant retail upgrade for the area.",
+      "impact": "Limited relevance to multifamily development strategy. Retail anchors can signal neighborhood stability and foot traffic in secondary markets, but a single conversion does not materially shift demand or supply signals for apartment development in Tucson."
+    },
+    {
+      "title": "Investor General Atlantic to Anchor Related’s 625 Madison Avenue in 150K-SF Deal",
+      "link": "https://commercialobserver.com/2026/09/general-atlantic-anchor-lease-related-625-madison-avenue/",
+      "excerpt": "Related Companies just nabbed an anchor tenant for its under-construction office tower at 625 Madison Avenue in Manhattan’s Plaza District, the developer announced Tuesday. General Atlantic, a global investment firm, has inked a long-term lease to occupy more than 150,000 square feet across five floors at the planned 53-story office tower, which is slated to open in 2029. The firm will use the space for its more than 330 New York-based employees, who represent about one-third of the company’s global workforce. “General Atlantic has always taken a long-term view, and our new headquarters is an investment in the firm’s future,” Bill Ford, chairman and CEO of General Atlantic, said in a statement. “It will be a place that brings our people and global community together, strengthens the connections that are central to who we are, and gives us room to grow for many decades to come.” The exact length of the lease and the asking rent were not disclosed. The average asking rent for Class A office space in the Plaza District was $97.23 per square foot in the second quarter of 2026, according to Colliers data. Related did not disclose the names of the brokers who worked on this deal. “When we began designing 625 Madison, General Atlantic was exactly the kind of prestigious and ambitious firm we had in mind as an anchor tenant because of the value they place on investment and operational excellence, collaboration and long-term relationships,” Jeff Blau, CEO of Related, said in a statement. “This will be a building of industry leaders, and we are thrilled to have General Atlantic on board and look forward to delivering an exceptional new headquarters for their team.” In tandem with General Atlantic’s lease, private equity firm Veritas Capital has also seemed to secure new office space at 625 Madison Avenue. In August, Veritas signed a lease for 92,743 square feet at the office development, according to Colliers’ August Manhattan office snapshot report. Spokespeople for Veritas ",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-09-01T18:29:27+00:00",
+      "bullets": [
+        "General Atlantic leases 150K+ SF across five floors at Related's 625 Madison Avenue, Manhattan Plaza District",
+        "Long-term lease for investment firm's 330+ NY employees (one-third of global workforce); tower opens 2029",
+        "Class A Plaza District average asking rent: $97.23/SF; major corporate anchor pre-lease signals strong office demand recovery"
+      ],
+      "summary": "Related Companies secured General Atlantic, a global investment firm, as an anchor tenant for its under-construction 53-story office tower at 625 Madison Avenue in Manhattan's Plaza District. General Atlantic will occupy over 150,000 square feet across five floors on a long-term lease for its 330+ New York-based employees, representing approximately one-third of the firm's global workforce. The tower is slated to open in 2029.",
+      "impact": "General Atlantic's long-term, pre-lease commitment to 625 Madison signals sustained demand for Class A office space and executive presence in Manhattan, supporting office-to-residential conversion potential and cross-asset demand for luxury multifamily near the Plaza District. Employer stability and headcount expansion in Manhattan support rental demand in nearby residential markets."
+    },
+    {
+      "title": "Work Wraps Up on 74-Story Austin Mixed-Use Tower",
+      "link": "https://www.connectcre.com/stories/work-wraps-up-on-74-story-austin-mixed-use-tower/",
+      "excerpt": "Lincoln Property Co. and Kairoi Residential wrapped up construction on Waterline, the Lone Star State’s tallest tower, rising 74 stories in downtown Austin, Texas. The mixed-use property features 352 multifamily units across 33 levels, 703,000 square feet of office space spanning 24 floors and 252 hotel keys taking up 13 stories. Multihousing New reports Waterline is subject to a $742.5 million self-financed construction loan originated in June 2022, one year before work began. The development team included general contractor DPR Construction and designer KPF. HKS served as the architect of record. The team delivered the project two months ahead of schedule. Bosque Residences represents Waterline’s multifamily portion, encompassing one- to three-bedroom units, including penthouse layouts, that range between 701 and 2,803 square feet. Select apartments include waterfall islands, free-standing tubs, as well as wet and dry bars, among other features. Community amenities include a coworking lounge, conference rooms, a podcast space, a poker venue, a golf simulator, in addition to several swimming pools. The post Work Wraps Up on 74-Story Austin Mixed-Use Tower appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-09-01T18:15:48+00:00",
+      "bullets": [
+        "Lincoln Property/Kairoi complete 74-story Waterline tower in downtown Austin; Texas's tallest building",
+        "352 multifamily units, 703K SF office, 252 hotel keys; $742.5M self-financed construction loan from June 2022",
+        "Bosque Residences apartments (701–2,803 SF) delivered two months ahead of schedule; mixed-use anchors coworking, pools, dining"
+      ],
+      "summary": "Lincoln Property Company and Kairoi Residential completed Waterline, a 74-story mixed-use tower in downtown Austin and Texas's tallest building. The project includes 352 multifamily units across 33 levels, 703,000 square feet of office space, and 252 hotel keys. Financed by a $742.5 million self-financed construction loan from June 2022, Waterline was delivered two months ahead of schedule and features luxury unit sizes (701–2,803 SF) and premium amenities.",
+      "impact": "Waterline's successful completion and on-time delivery of 352 units in downtown Austin demonstrates sustained multifamily development appetite and execution capability in a high-growth, office-anchor market. The mixed-use, self-financed structure with office and hotel reduces financing risk; early delivery signals strong absorption and rental demand in downtown Austin, supporting pipeline confidence for competing and adjacent multifamily projects."
+    },
+    {
+      "title": "Trump Pushes Federal Film Tax Incentive as Hollywood Crisis Deepens",
+      "link": "https://commercialobserver.com/2026/09/trump-federal-film-tax-hollywood-studios/",
+      "excerpt": "President Donald Trump is calling on Congress to create a federal tax incentive for film and television production in what could be a major boost to Hollywood and the other drowning studio and soundstage markets in the U.S. Trump said he is arranging meetings with leaders of both parties to start forming legislation. The president did not specify the size or structure, but a proposal backed by industry heads calls for a 20 percent credit on U.S. production labor costs. While 39 states offer production incentives, the U.S. has no nationwide program comparable to incentives available in several competing countries. “Congress should approve, immediately, a Federal Production Incentive to create Entertainment Jobs in America,” Trump wrote, arguing that film production has migrated to Canada and other countries. The push comes amid an increasingly dire environment for production space and for the entertainment industry that has defined Los Angeles and driven its economy. L.A. County shooting days fell 42 percent between their 2022 peak and 2024, while Southern California production was estimated last year to be 50 to 70 percent below its peak. At the time, roughly half of L.A.’s film and television stages were reportedly empty. Conditions quickly translated into significant distress for studio landlords. Hackman Capital Partners defaulted on $1.1 billion in financing tied to the 1.2 million-square-foot Radford Studio Center, which Goldman Sachs subsequently took control of. Hackman and Affinius Capital had paid $1.85 billion for the property in 2021 and envisioned a $1 billion expansion. Prominent studio complex Television City, where Hackman planned a roughly $1 billion redevelopment, has also fallen into distress, with lenders alleging the landlord owes more than $357 million on the 25-acre property. Hudson Pacific Properties is also grappling with the production downturn and faces a $1.1 billion Hollywood studio loan maturity while its star tenant Netflix pursues Hack",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-09-01T18:05:47+00:00",
+      "bullets": [
+        "Trump pushes federal film tax incentive for U.S. production as Hollywood crisis deepens",
+        "L.A. County shooting days fell 42% between 2022 peak and 2024; 39 states offer production incentives, U.S. lacks federal program",
+        "Proposed 20% credit on U.S. production labor costs would compete with Canada and other countries offering subsidies"
+      ],
+      "summary": "President Trump is calling on Congress to create a federal tax incentive for film and television production to address declining Hollywood production activity. L.A. County shooting days dropped 42 percent between 2022 and 2024, and film production has migrated to Canada and other countries offering incentives. A proposed 20 percent credit on U.S. production labor costs is being discussed, though no specific structure or size has been announced.",
+      "impact": "Limited direct relevance to multifamily development. A federal film incentive could stabilize Los Angeles entertainment employment and reverse population/talent out-migration, indirectly supporting longer-term rental demand in LA submarkets. However, the near-term outlook for Hollywood employment remains uncertain, and any benefit to multifamily demand would lag incentive implementation by years."
+    },
+    {
+      "title": "Walton Street Capital Refis Tampa-Area Apartments With $44M Loan",
+      "link": "https://commercialobserver.com/2026/09/walton-street-capital-tampa-florida-apartments/",
+      "excerpt": "A joint venture between Mast Capital and Rockpoint has sealed a $44 million loan to refinance a newly completed garden-style apartment community in a suburb north of Tampa, Fla., Commercial Observer has learned. Walton Street Capital supplied the three-year, floating-rate loan on the sponsorship’s248-unit the Harlow property in Wesley Chapel, Fla. The refi retired a past construction loan obtained for the property while providing the borrower flexibility to pursue a sale or permanent financing in the next few years, according to Berkadia, which arranged the transaction. Berkadia negotiated the debt with a team consisting of Mitch Sinberg, Scott Wadler, Matthew Robbins, Brad Williamson and Bryan Brown. &#8220;The Harlow presented a compelling financing opportunity given the strength of the sponsorship, quality of the newly built asset and its strong operating performance,” Wadler, managing director at Berkadia, said in a statement. Robbins added the Wesley Chapel submarket benefits from “strong population growth” along with the community’s “significant investment” in retail, health care and infrastructure projects. The property is half a mile north of the $250 million BayCare Hospital Wesley Chapel that opened in 2023. Located at 5301 Bruce B Downs Boulevard 23 miles north of Downtown Tampa, the 2024-built Harlow was 98 percent occupied at the time of the loan with a mix of one-, two- and three-bedroom units. Community amenities include a pool, a sundeck, a fitness center, a walking trail, electronic vehicle charging stations and coworking spaces. “The Harlow’s strong leasing performance reflects the quality of the community and the continued demand we see across the Wesley Chapel market,” Camilo Miguel Jr., founder and CEO of Mast Capital, said in a statement. “This refinancing positions the asset well for its next phase and underscores our conviction in the long-term fundamentals of the Tampa region.” Walton Street Capital did not immediately return a request for c",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-09-01T17:38:14+00:00",
+      "bullets": [
+        "Walton Street Capital refinances 248-unit Harlow garden-style apartments in Wesley Chapel, Tampa-area with $44M floating-rate loan",
+        "Three-year refi on newly completed Mast Capital/Rockpoint JV property; retires construction loan, enables future sale/permanent refinancing",
+        "Wesley Chapel submarket benefits from strong population growth; new asset demonstrates strong operating performance post-delivery"
+      ],
+      "summary": "A joint venture between Mast Capital and Rockpoint refinanced the newly completed 248-unit Harlow apartment community in Wesley Chapel, a Tampa-area suburb, with a $44 million three-year floating-rate loan from Walton Street Capital. The refi retired construction debt and provides flexibility for a potential sale or permanent financing within three years. Berkadia arranged the transaction.",
+      "impact": "Walton Street's willingness to refinance garden-style product in Wesley Chapel at completion signals confidence in Tampa-area suburban demand and operating performance. The three-year floating-rate structure indicates lenders expect rate stability and/or strong market fundamentals; successful placement supports continued multifamily development feasibility in Tampa's outer suburbs, particularly in high-growth corridors like Wesley Chapel."
+    },
+    {
+      "title": "17-Story Denver Office Tower Trades for $3.6M",
+      "link": "https://www.connectcre.com/stories/17-story-denver-office-tower-trades-for-3-6m/",
+      "excerpt": "A number of Denver office towers continue to suffer profitability issues. The 17-story tower, once known as Columbine Place, has been bought for $3.63 million. The Denver Business Journal reports building values in downtown Denver have dropped significantly since then. Adio Palace is the buyer. The building will also be called Adio Palace. The 149,222-square-foot skyscraper previously served as collateral for a $15.5 million loan in 2015. The new owner plans to continue to use the property as is and attract more tenants to the building. The building is 69% vacant. A Denver District Court judge placed the tower into receivership in 2023. The University of Hawaii Foundation held a ground lease on the land while an investor group called Columbine West 2 owned the building. Court documents in 2023 showed Columbine West 2 owed $17.7 million on the building. A foreclosure began after Columbine West 2 had failed to make principal and interest payments since October 2022. The post 17-Story Denver Office Tower Trades for $3.6M appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-09-01T16:22:35+00:00",
+      "bullets": [
+        "17-story Columbine Place office tower in downtown Denver trades for $3.63 million; 69% vacant",
+        "Prior $15.5M loan (2015) written down sharply; foreclosure after owner defaulted since October 2022; court receivership in 2023",
+        "New owner Adio Palace plans to continue office use and attract tenants; downtown Denver values dropped significantly"
+      ],
+      "summary": "A 17-story Denver office tower, formerly known as Columbine Place, sold for $3.63 million after foreclosure and court receivership. The 149,222-square-foot building is currently 69 percent vacant and was previously collateral for a $15.5 million loan in 2015. Court documents showed the owner owed $17.7 million before default began in October 2022. The new owner, Adio Palace, plans to continue operating it as office space.",
+      "impact": "Downtown Denver's office distress (69% vacancy, sharp valuation decline) signals weak office demand and persistent capitalization headwinds in the metro. Multifamily developers should view downtown Denver office collapse as a risk factor for near-term office-to-residential conversion economics and as evidence of weak white-collar employment/migration in the core, though suburban Denver submarkets may offer stronger demand fundamentals."
+    },
+    {
+      "title": "Broadstone Inks Hobby Lobby, Academy Sports as Manor Tenants",
+      "link": "https://www.connectcre.com/stories/broadstone-inks-hobby-lobby-academy-sports-as-manor-tenants/",
+      "excerpt": "Broadstone Net Lease (BNL) secured land in Manor and started construction on build-to-suit developments for Hobby Lobby and Academy Sports, both of which were directly sourced, off-market transactions, and are expected to deliver in the second quarter of 2027. Hobby Lobby and Academy will be 55,000 square feet, and each is on a 15-year lease. Hobby Lobby’s lease has annual rent escalations of 0.5%, and Academy’s lease has 0.4% annual rent escalations. Broadstone is targeting the second quarter of 2027 to deliver the projects. BNL is an industrial-focused, diversified net lease REIT that invests primarily in single-tenant commercial real estate properties net leased on a long-term basis. BNL’s diversified portfolio consisted of 766 individual net-leased commercial properties with 759 properties located in 44 U.S. states and seven properties located in four Canadian provinces across the industrial, retail, and other property types. Academy plans to open 20 to 25 new stores in fiscal year 2026. The post Broadstone Inks Hobby Lobby, Academy Sports as Manor Tenants appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-09-01T15:46:53+00:00",
+      "bullets": [
+        "Broadstone Net Lease (BNL) secures land in Manor, Texas; build-to-suit for Hobby Lobby (55K SF) and Academy Sports (55K SF)",
+        "Both 15-year leases with low annual escalations (0.5% and 0.4%); delivery Q2 2027; off-market, direct-sourced transactions",
+        "Academy Sports plans 20–25 new store openings in fiscal 2026; signals retail expansion driving industrial demand in Texas"
+      ],
+      "summary": "Broadstone Net Lease secured land in Manor, Texas, and commenced construction on two build-to-suit projects: a 55,000-square-foot Hobby Lobby and a 55,000-square-foot Academy Sports. Both tenants signed 15-year leases with minimal annual rent escalations (0.5% and 0.4% respectively) and are expected to deliver in Q2 2027. Academy Sports has announced plans for 20–25 new store openings in fiscal 2026.",
+      "impact": "Academy Sports expansion (20–25 new stores in FY2026) and Hobby Lobby new-market entry signal retail growth and consumer spending activity in Texas, particularly in secondary/tertiary markets like Manor. This retail/logistics activity typically precedes or co-occurs with population migration and multifamily demand; developers should monitor Academy Sports store rollout corridors for future multifamily opportunity sites."
     },
     {
       "title": "Logistics Property Lands Tenant for 217K-SF Houston-Area Warehouse",
@@ -47,132 +167,12 @@
       "cat": "Commercial",
       "date": "2026-09-01T14:44:30+00:00",
       "bullets": [
-        "Standex GRID/Amran leases 217,758-sf build-to-suit warehouse at CityPark Logistics Center, Missouri City, Houston",
-        "Completion Q2 2027; largest North American facility for Standex; 98-acre park now >1M sf across five buildings",
-        "Manufacturing + warehouse demand in Southwest Houston industrial corridor signals supply-chain nearshoring or capacity expansion"
+        "Logistics Property Company leases 217,758 SF build-to-suit warehouse to Standex GRID/Amran in Missouri City, Houston-area",
+        "Facility serves as warehouse and manufacturing; Standex GRID/Amran's largest North American location; completion Q2 2027",
+        "CityPark Logistics Center: 98-acre industrial park, 5 fully leased buildings, 1M+ SF; Southwest Houston location selected for logistics corridor strength"
       ],
-      "summary": "Logistics Property Company leased 217,758 square feet of build-to-suit warehouse and manufacturing space at CityPark Logistics Center in Missouri City (Southwest Houston) to Standex GRID/Amran Instrument Transformers. The facility, expected to complete in Q2 2027, will serve as Standex's largest North American location and support both warehouse and manufacturing operations. CityPark's 98-acre industrial park now totals over 1 million square feet across five fully leased buildings.",
-      "impact": "Minimal direct impact to multifamily. However, Standex's expansion into Southwest Houston (largest North American facility) suggests regional manufacturing/supply-chain activity; could drive downstream worker in-migration and rental demand if Standex hires significantly. Monitor labor demand and wage trends in Southwest Houston industrial corridor as leading indicator for multifamily renter job growth."
-    },
-    {
-      "title": "2026 World Cup Made Localized Impact on Retail, Dining in Host Cities",
-      "link": "https://www.connectcre.com/stories/2026-world-cup-made-localized-impact-on-retail-dining-in-host-cities/",
-      "excerpt": "The bump in retail and dining visitations for the 11 U.S. host cities of the 2026&nbsp;FIFA&nbsp;World Cup was localized, Colliers and Placer.ai say in a new report. Near the match venues, dining visits rose 53.7% and retail traffic rose 22% year-over&#8211;year, while gains across the larger metro areas were minimal. Sporting goods stores were the most consistent winner among retail categories during the 39-day tournament, according to 7 World Cup Lessons for Retail, Dining &amp; Real Estate. Conversely, apparel stores and superstores experienced mixed results. Meanwhile, bars and pubs averaged a 9% increase in visits on match days. “Mega-events create enormous consumer demand, but proximity alone does not guarantee that businesses will capture it,” said Anjee Solanki, national director of retail services &amp; practice groups | U.S. at Colliers. “The properties that performed best became part of the fan experience through the right tenant mix, gathering spaces, or activations. For landlords and retailers, the opportunity is to move beyond simply being near an event and create destinations that consumers actively choose to visit.” Pictured: MetLife Stadium in East Rutherford, NJ, one of 11 U.S. venues for the 2026 FIFA World Cup. The post 2026 World Cup Made Localized Impact on Retail, Dining in Host Cities appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-09-01T14:35:09+00:00",
-      "bullets": [
-        "2026 World Cup retail/dining traffic up 53.7% near venues, only 22% retail traffic, minimal metro-wide gains",
-        "Sporting goods stores strongest performers; apparel stores, superstores mixed results; bars/pubs +9% on match days",
-        "Colliers/Placer.ai study: proximity alone insufficient; destination-quality tenant mix, activations, gathering spaces drove performance"
-      ],
-      "summary": "Colliers and Placer.ai analysis of 2026 FIFA World Cup impact across 11 U.S. host cities found dining visits near match venues rose 53.7% year-over-year, while retail traffic rose 22%, but gains across broader metros were minimal. Sporting goods stores performed most consistently; bars/pubs averaged 9% gains on match days. Properties that succeeded created fan destination experiences through curated tenant mix, gathering spaces, and activations rather than relying on venue proximity alone.",
-      "impact": "Limited relevance to multifamily development fundamentals. Brief event-driven retail/hospitality uplift in host metros does not materially shift residential demand or supply. However, the insight that destination-quality mixed-use activation drives traffic is relevant for developers planning live/work/retail communities (e.g., Woodrow House, Article 4): tenant curation and placemaking amenities outweigh raw location proximity for lease-up velocity and NOI."
-    },
-    {
-      "title": "Woodfield Starts Deliveries of 325 Beltline Rental Units",
-      "link": "https://www.connectcre.com/stories/woodfield-starts-deliveries-of-325-beltline-rental-units/",
-      "excerpt": "Woodfield Development has begun residential deliveries at Woodrow House as the community’s first build-to-rent townhomes are completed along the Atlanta Beltline’s Westside Trail. It marks the opening phase of the 325-home mixed-income community and the beginning of residential occupancy. The venture will include apartments, build-to-rent units and live/work residences. The initial delivery includes 25 townhomes, representing the first homes available within Woodrow House. Additional townhomes and multifamily residences will continue delivering throughout the coming months, with the full community expected to open later this year. Located at 840 Woodrow St. SW, the development will include 12,000 square feet of neighborhood-serving retail. Amenities include a pool, fitness center, coworking spaces, pet amenities and landscaped gathering areas. Additional amenities, including the property’s podcast studio, club lounge and sky deck, will open as future phases of the community are completed. The post Woodfield Starts Deliveries of 325 Beltline Rental Units appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-09-01T14:31:05+00:00",
-      "bullets": [
-        "Woodfield Development opens first 25 build-to-rent townhomes at Woodrow House, Atlanta Beltline Westside Trail",
-        "Full 325-unit mixed-income community (apartments, BTR, live/work) with 12,000 sf retail; phased delivery through 2026",
-        "Amenities include pool, fitness, coworking, podcast studio, sky deck; Beltline location signals demand for walkable mixed-use near urban trail"
-      ],
-      "summary": "Woodfield Development has begun initial deliveries at Woodrow House, a 325-unit mixed-income residential community along Atlanta's Beltline Westside Trail. The first phase includes 25 build-to-rent townhomes; additional townhomes and multifamily units will deliver throughout the year. The project includes 12,000 square feet of neighborhood-serving retail and amenities including a pool, fitness center, coworking spaces, a podcast studio, and a sky deck, with full opening targeted for late 2026.",
-      "impact": "Demonstrates strong Atlanta Beltline demand for mixed-income, experiential multifamily with retail/amenity activation. Early absorption signals and lease-up pace should be monitored; Beltline corridor is becoming a premium urban village pipeline. For TCR: indicator that Beltline submarkets (Westside, Eastside) can support higher-density, higher-amenity product with commanding rents; worth evaluating remaining Beltline developable sites for similar trophy mixed-use development in Atlanta."
-    },
-    {
-      "title": "Jamestown Closes on Refis for Two Sandy Springs Retail Centers",
-      "link": "https://www.connectcre.com/stories/jamestown-closes-on-refis-for-two-sandy-springs-retail-centers/",
-      "excerpt": "Jamestown received a $72 million floating-rate loan from accounts managed by KKR to refinance Parkside Shops and Hammond Exchange in Sandy Springs. Cushman &amp; Wakefield arranged the loan. The properties, which include more than more than 340,000 square feet of space, are on the corner of Roswell Road and Hammond Drive south of City Springs. Whole Foods anchors a long list of tenants, including Marshalls, HomeGoods, Petco, and The Springs Cinema &amp; Taphouse. Jamestown paid a total of $93.85 million for the properties in 2018. The Atlanta Business Chronicle reports Jamestown has positioned the property for future mixed-use redevelopment opportunities. Cushman &amp; Wakefield’s John Alascio was joined by Alex Hernandez, Alex Lapidus, Mitch Rothstein, Nick Scibelli and Mark Gilbert in representing Jamestown in the refinancing. The post Jamestown Closes on Refis for Two Sandy Springs Retail Centers appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-09-01T14:13:58+00:00",
-      "bullets": [
-        "Jamestown refinances Parkside Shops + Hammond Exchange (340,000+ sf) with $72M floating-rate KKR loan in Sandy Springs",
-        "Properties anchored by Whole Foods, Marshalls, HomeGoods, Petco, The Springs Cinema; purchased 2018 for $93.85M",
-        "Jamestown positioned for future mixed-use redevelopment; floating-rate refi signals optionality, not distress"
-      ],
-      "summary": "Jamestown closed a $72 million floating-rate refinancing from KKR accounts for Parkside Shops and Hammond Exchange in Sandy Springs, Georgia, two retail centers totaling over 340,000 square feet. Anchored by Whole Foods, Marshalls, HomeGoods, Petco, and The Springs Cinema & Taphouse, the properties were acquired by Jamestown in 2018 for $93.85 million. Jamestown has positioned the assets for future mixed-use redevelopment opportunities.",
-      "impact": "Floating-rate refi at quality Sandy Springs retail assets signals stabilized, re-lendable cash flows and landlord optionality for conversion. If Jamestown pursues mixed-use redevelopment (likely residential + retail), Sandy Springs (Atlanta submarket) could see repricing of land values and competitive multifamily development activity. Monitor for entitlement/redevelopment announcements; could signal nearby development opportunities and land value benchmarks for TCR Atlanta market analysis."
-    },
-    {
-      "title": "Retail Location Intelligence Grows in Sophistication and Usage",
-      "link": "https://commercialobserver.com/2026/09/retail-location-intelligence-ai-technology/",
-      "excerpt": "In the late 1960s, science fiction writer Arthur C. Clarke posited a now-famous law of the universe: “Any sufficiently advanced technology is indistinguishable from magic.” As the rapid advancement of technology, especially given the ongoing progress of artificial intelligence, often makes this seem truer by the day, its implications in commercial real estate are often of a type that would have seemed like pure voodoo to CRE professionals when Clarke put forth this statement. Here’s one example: A restaurant chain with over 3,500 locations in the U.S. is researching potential sites for additional stores in a certain part of Los Angeles. The chain has very specific parameters in mind, including a cash-on-cash return of at least 20 percent, at least $1.5 million in annual revenue, and a maximum cannibalization factor of the company’s other area stores of 10 percent. Punch this information into a computer program, press a button, and moments later the computer produces a detailed map of the neighborhood with a series of misshapen blobs representing the exact areas — down to specific streets and even addresses — where a new store would produce these results or better. In an ever-evolving boon for retailers, location intelligence has ascended to a level where platforms can predict retail success, including revenue and investment return figures, down to a specific site. These predictions are based on hundreds of demographic and psychographic factors as well as information such as competitive intelligence, complementary local businesses, local crime patterns, and the retailer in question’s own history. As one example, consultancy Bain &amp; Company markets a location intelligence program called Vantage that evaluates current and prospective physical sites for retailers, driven by global data sets and machine learning analytics that translate its findings into a user-friendly location visualization dashboard. Bain, in a demonstration of the platform for Commercial Observer,",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-09-01T14:00:35+00:00",
-      "bullets": [
-        "Location intelligence tools now use AI to identify micro-markets meeting specific tenant criteria (ROI, revenue, cannibalization)",
-        "Restaurant chain example: AI maps exact neighborhoods/addresses for 20% cash-on-cash, $1.5M revenue, 10% cannibalization max",
-        "Technology enables data-driven site selection at scale, reducing manual underwriting, accelerating deployment"
-      ],
-      "summary": "Advanced location intelligence platforms now combine AI, real-time data, and machine learning to enable hyper-granular site selection. A restaurant chain with 3,500+ U.S. locations can input specific parameters—20% cash-on-cash return, $1.5 million annual revenue, 10% maximum cannibalization—and receive maps pinpointing exact neighborhoods and addresses that meet criteria within moments, a process that would have taken weeks manually.",
-      "impact": "Indirect but significant for multifamily: competing retail/restaurant operators will deploy multifamily-adjacent sites more efficiently, reducing available corner/mixed-use parcels and raising land competition in high-velocity metros. Developers using similar tools for site selection can stay ahead. More important: retail co-tenants and site selection quality improve when anchors use AI; mixed-use projects with algorithmically-optimized retail tenants will lease faster and stabilize quicker, improving project IRR and refinance value."
-    },
-    {
-      "title": "GreenBarn’s David Welsh and David Schonbraun Aren’t Afraid of a Little Complexity",
-      "link": "https://commercialobserver.com/2026/09/greenbarn-david-welsh-david-schonbraun-financing-investing/",
-      "excerpt": "A lot happened in the world in 2020: some bad, some ugly but also some good. Amid the tumult and upheaval came some new shoots — “green” ones, so to speak — and, a few years after that, a pairing of two industry veterans. David Welsh co-founded Normandy Real Estate Partners, an investment firm primarily focused on the Northeast, in 2002. After selling Normandy to Columbia Property Trust in 2019, he co-founded a new company, Senlac Ridge, with two of his Normandy partners in January 2020. David Schonbraun spent almost two decades at SL Green Realty as the office ownership giant’s chief investment officer, departing in 2021, before becoming Carlyle Group’s U.S. head of real estate credit. By 2023, Schonbraun opted for a different shade of green. Welsh bought out his two Senlac partners and rebranded the company to GreenBarn Investment Group, bringing in Schonbraun as his partner at the firm and Rithm Capital as a partner in its business. Three years later, GreenBarn has roughly $3.5 billion in investments under its belt and is carving out a niche for itself in a crowded market, one led by experience and the ability to tackle complex deals across sectors, as well as up and down the capital stack. If the GreenBarn name sounds familiar, you’ve likely heard about the firm’s myriad deals, from the restructuring of the $1.84 billion in debt on a Columbia Property Trust (CXP) office portfolio; to the recapitalization of 817 Broadway; to the $77 million mezzanine loan for Grubb Properties’ development at Manhattan’s 8 Carlisle Street; to the $112 million retail loan on Kushner Companies’ Monmouth Mall in New Jersey; to being awarded asset management duties at 20 Times Square. In short, its portfolio is anything but vanilla. “The hairier the deals, the better for us, because we feel very comfortable with complexity,” Schonbraun said during a July interview. “We’re happy operating where others shy away. We look at these deals from an owners and operators perspective, and our co",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-09-01T14:00:31+00:00",
-      "bullets": [
-        "GreenBarn Investment Group (Welsh + Schonbraun partnership) manages ~$3.5B under management, carved niche in complex deals",
-        "Welsh co-founded Normandy RE (sold to Columbia 2019), Schonbraun ex-SL Green CIO, ex-Carlyle real estate credit",
-        "GreenBarn + Rithm Capital partnership signals alternative capital structures, credit flexibility in competitive market"
-      ],
-      "summary": "GreenBarn Investment Group, co-founded by David Welsh (formerly Normandy Real Estate Partners) and David Schonbraun (formerly SL Green CIO and Carlyle real estate credit head), has accumulated roughly $3.5 billion in investments and is carving out a market niche focused on complex transactions. Welsh rebranded his 2020 Senlac Ridge platform to GreenBarn in 2023, adding Schonbraun as partner and Rithm Capital as a business partner, combining operational real estate expertise with credit structuring.",
-      "impact": "Limited direct relevance to multifamily development. However, GreenBarn's focus on complex deal structures and credit partnerships signals ongoing capital availability for unconventional transactions (recapitalizations, preferred equity, mixed-use bridge financing). For TCR: if considering complex joint ventures, credit stacks, or preferred equity structures, GreenBarn's willingness to underwrite complexity and Rithm's balance sheet backing represent viable capital partners—especially for development-stage or value-add projects in secondary markets."
-    },
-    {
-      "title": "Butlr’s New Thermal Sensor Products Aim at Occupancy and Restrooms",
-      "link": "https://commercialobserver.com/2026/09/butlr-new-thermal-sensor-products/",
-      "excerpt": "Physical artificial intelligence technology company Butlr has launched two products — Ask Butlr and its Smart Cleaning module — for building operators. A Massachusetts Institute of Technology spinout, Butlr combines thermal body heat sensing technology and machine learning to infer human behavior without the use of cameras or other methods that compromise anonymity. Ask Butlr, an analyst AI tool that allows building operators to ask about occupancy and usage and get data-backed insights, is the Burlingham, Calif.-based company’s latest product. The Ask Butlr dashboard uses anonymized thermal sensor data that integrates with AI to provide insights on building occupancy, dwell time, foot traffic and energy consumption in the built environment. It also supports strategic space planning, operations and capital real estate investments with granular data gathered anonymously based on human behavior. That allows its physical AI and spatial intelligence platform to address current and future building needs. “We built Ask Butlr in response to the growing need among our customers for accurate first-party data and insights on buildings without compromising the privacy and anonymity of occupants,” Honghao Deng, CEO and co-founder of Butlr, said in an email. “This new offering quickly analyzes and presents information in an easy-to-understand format that empowers facilities managers, workplace decision-makers, and CRE professionals to optimize spaces while realizing stronger return on investment on their buildings.” The Smart Cleaning module, part of Butlr’s spatial intelligence platform, uses granular, anonymized usage data to reduce restroom cleaning costs. Butlr’s wall- or ceiling-mounted thermal sensors are placed outside a restroom to capture foot traffic and occupancy data. The Smart Cleaning module provides a deeper level of insight based on bathroom door swings. Inside the restroom, an optional touch module enables facilities staff to confirm cleanings are complete. The ",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-09-01T14:00:11+00:00",
-      "bullets": [
-        "Butlr (MIT spinout) launches Ask Butlr AI + Smart Cleaning module for building operators using thermal sensors",
-        "Anonymized thermal data provides occupancy, dwell time, foot traffic, energy insights without cameras; supports space planning, ops, capex",
-        "Physical AI + spatial intelligence platform aims to optimize building operations and strategic real estate decisions"
-      ],
-      "summary": "Butlr, an MIT spinout focused on physical AI and thermal body-heat sensing, has launched Ask Butlr, an AI analytics tool, and Smart Cleaning module for building operators. Ask Butlr ingests anonymized thermal sensor data to provide granular insights on occupancy, dwell time, foot traffic, and energy consumption, enabling data-backed strategic space planning, operations optimization, and capital real estate investment decisions without compromising privacy.",
-      "impact": "Emerging operational technology for existing assets, not directly relevant to development site selection or underwriting. However, as Butlr's thermal occupancy and behavioral data become standard in managed buildings, TCR could gain competitive advantage by integrating similar sensors and dashboards into newly developed assets, improving resident experience, operations efficiency, and capital deployment data post-stabilization. Worth monitoring as emerging tech moat for premium product positioning."
-    },
-    {
-      "title": "Forbearances, Modifications Carry Weight in Latest Data",
-      "link": "https://commercialobserver.com/2026/09/forbearances-modifications-cmbs-cred-iq/",
-      "excerpt": "CRED iQ tracked 82 modified commercial mortgage-backed securities (CMBS) and commercial real estate collateralized loan obligation (CRE CLO) loans with a combined $2.36 billion in outstanding balance from May through July 2026. The mix looks different than it did a few quarters ago as “extend and pretend” hasn’t disappeared, but it’s no longer the whole story. Forbearances and combination modifications are now carrying meaningful weight alongside straight maturity extensions, and the balance is concentrated in midsize loans rather than mega-loans. The property type with the most modifying isn’t hotels or office anymore — it’s multifamily. Of the $2.36 billion modified during the period, maturity date extensions remained the single largest category: 21 loans totaling $802.5 million, or 34 percent of modified balance (25.6 percent of the loan count). Forbearances followed at 15 loans and $514 million (21.8 percent of balance), while combination modifications — deals pairing an extension with other relief, such as a paydown, rate adjustment or reserve requirement — accounted for 10 loans and $345.6 million (14.7 percent of balance). Of the remaining 36 loans, $695.4 million (29.5 percent of balance) fell into other or miscellaneous modification categories. Taken together, extensions, forbearances and combination mods — the categories most closely associated with lenders buying time on distressed collateral — made up 70.5 percent of modified balance this period, down from the near-universal “extend and pretend” theme of recent reports. Lenders appear to be reaching for a broader tool kit than a simple maturity push. Multifamily loans led modification activity by a wide margin, a shift from the hotel- and office-driven distress of previous quarters: Multifamily: 35 loans totaling $1.14 billion (48.4 percent of modified balance) Hotel: 15 loans totaling $493.8 million (20.9 percent) Retail: Six loans totaling $236.7 million (10 percent) Office: 17 loans totaling $226.2 mi",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-09-01T13:57:56+00:00",
-      "bullets": [
-        "CRED iQ tracks $2.36B modified CMBS/CRE CLO loans (May–July 2026); multifamily now leading property type for modifications",
-        "34% maturity extensions ($802.5M, 21 loans), 21.8% forbearances ($514M, 15 loans), 14.7% combo mods ($345.6M, 10 loans)",
-        "Shift from 'extend and pretend' mega-loans to meaningful forbearances + combo mods in midsize deals; indicates refinance stress in sector"
-      ],
-      "summary": "CRED iQ data from May–July 2026 tracks $2.36 billion in modified CMBS and CRE CLO loans. Multifamily has become the property type with the highest modification volume, surpassing hotels and office. Modifications break down as: 34% maturity extensions ($802.5M), 21.8% forbearances ($514M), and 14.7% combination modifications ($345.6M), concentrated in midsize loans. The balance reflects a shift from simple 'extend and pretend' strategies to more diverse relief structures.",
-      "impact": "Critical signal for multifamily underwriting and capital strategy: multifamily loan modifications exceeding office/hotel signals sector-wide refinance stress, likely driven by higher cap rate assumptions, higher leverage expectations, and rate-lock pressure on 2020–2021 vintage deals. For TCR acquisitions: tightened debt structures, higher equity equity requirements, and longer stabilization timelines are now standard. Conversely, distressed multifamily asset sales (from modification defaults) may create opportunistic acquisition windows in select metros; monitor CRED iQ and RealPage data for cap rate compression and spread widening."
-    },
-    {
-      "title": "Terra Lands $245M Financing for Newly Completed Upland Park Development",
-      "link": "https://www.connectcre.com/stories/terra-lands-245m-financing-for-newly-completed-upland-park-development/",
-      "excerpt": "Terra secured $245 million in permanent financing for the newly completed first phase of Upland Park, a $1 billion, 47-acre mixed-use transit-oriented development in West Miami-Dade County. Slate Property Group provided the financing following the completion of the 578-unit multifamily community, which is already more than 60% leased in less than 90 days since opening earlier this summer. Construction of the project’s second residential phase, which will add another 484 multifamily apartments, is expected to begin later this year. Located at 1455 NW 121st Avenue, Upland Park’s first residential phase features a mix of studio, one-, two- and three-bedroom residences with select den layouts, ranging from approximately 700 to 1,528 square feet. Monthly rental rates start in the $2,000s. The project is designed by PPK Architects, in collaboration with master plan architect Arquitectonica. Community amenities include a pool and separate children’s pool, clubhouse, pickleball courts, outdoor grilling and gathering areas, playground, dog park, game lawn and landscaped green spaces overlooking the community lake. The post Terra Lands $245M Financing for Newly Completed Upland Park Development appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-09-01T13:50:57+00:00",
-      "bullets": [
-        "Terra secures $245M permanent financing (Slate Property Group) for 578-unit first phase, Upland Park, West Miami-Dade",
-        "60%+ leased in <90 days; rents from $2K+; second phase (484 units) construction begins late 2026; $1B, 47-acre TOD",
-        "Miami-Dade transit-oriented multifamily showing strong absorption, high lease-up velocity, sustained rent trajectory"
-      ],
-      "summary": "Terra closed $245 million in permanent financing from Slate Property Group for the newly completed first phase of Upland Park, a 578-unit multifamily community in West Miami-Dade County. The property has achieved over 60% occupancy in less than 90 days since opening, with rents starting at $2,000 and ranging to $1,500+ for mixed unit types. Upland Park is a $1 billion, 47-acre transit-oriented development; construction of a second 484-unit residential phase is expected to begin later in 2026.",
-      "impact": "Strong demand signal for West Miami-Dade TOD multifamily: 60%+ pre-lease and rapid lease-up post-opening indicate sustained rental demand and rent growth potential in Miami submarket despite Florida's competitive multifamily supply pipeline. For TCR: validates premium pricing and amenity investment strategy in transit-accessible, mixed-use Miami submarkets (Wynwood, Allapattah, Little Haiti corridors). Rents at $2K+ suggest renter willingness to pay for location + experience; monitor Upland Park stabilized occupancy and year-2 rent growth as comp for similar West/Central Miami projects in underwriting."
+      "summary": "Logistics Property Company leased 217,758 square feet of build-to-suit warehouse and manufacturing space at CityPark Logistics Center, Building 7 in Missouri City, Texas, to Standex GRID/Amran. This will be Standex GRID/Amran's largest North American facility. CityPark Logistics Center is a fully leased 98-acre industrial park with over one million square feet across five buildings. Construction is underway with expected completion in Q2 2027.",
+      "impact": "Southwest Houston industrial park strength (CityPark fully leased, new major tenant commitment) indicates sustained logistics and manufacturing employment growth, supporting working-class and middle-income multifamily demand in surrounding corridors. High industrial absorption in Missouri City/Southwest Houston submarkets suggests population inflow and wage-earning households, creating tailwinds for workforce and market-rate multifamily development in adjacent residential areas."
     }
   ]
 }
