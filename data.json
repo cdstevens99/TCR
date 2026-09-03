@@ -1,29 +1,149 @@
 {
-  "fetchedAt": "2026-09-03T00:53:09.448455+00:00",
+  "fetchedAt": "2026-09-03T15:30:40.982797+00:00",
   "rates": [
     {
       "label": "SOFR",
-      "value": "3.66%",
-      "pct": -0.02,
+      "value": "3.65%",
+      "pct": -0.01,
       "isBps": true
     },
     {
       "label": "10Y Treasury",
-      "value": "4.80%",
-      "pct": 0.0
+      "value": "4.75%",
+      "pct": -1.04
     },
     {
       "label": "30Y Treasury",
-      "value": "5.27%",
-      "pct": -0.02
+      "value": "5.23%",
+      "pct": -0.68
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "95.78",
-      "pct": -0.15
+      "value": "96.56",
+      "pct": 0.81
     }
   ],
   "stories": [
+    {
+      "title": "HMF Americana Developing Charlotte Mixed-Use Community",
+      "link": "https://www.connectcre.com/stories/hmf-americana-developing-charlotte-mixed-use-community/",
+      "excerpt": "HMF Americana acquired a development site from Harris Teeter near the border of Stallings and Weddington in Charlotte to build a mixed-use community. The planned development will include 221 rental homes, dedicated 55+ residences, and approximately 10,000 square feet of multi-tenant commercial space. Site work is expected to begin in October, followed by vertical construction in the first quarter of 2027 and initial resident move-ins beginning in the third quarter of 2027. The project combines elements of build-to-rent and multifamily living to create rental communities with the feel of traditional neighborhoods. HMF’s communities feature a mix of cottage-style residences and shared spaces designed around neighborhood connection while providing residents with the convenience of renting. A dedicated portion of the 221-home community will be designed for residents 55 and older. The development will initially feature approximately 10,000 square feet of multi-tenant commercial space, with additional land available for future expansion. The post HMF Americana Developing Charlotte Mixed-Use Community appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-09-03T14:22:55+00:00",
+      "bullets": [
+        "HMF Americana acquiring Harris Teeter site near Charlotte (Stallings/Weddington border) for 221 rental homes.",
+        "Mixed-use project includes 55+ senior housing, 10k SF retail, vertical construction Q1 2027, move-ins Q3 2027.",
+        "Build-to-rent cottage-style model with shared spaces; additional commercial land available for expansion."
+      ],
+      "summary": "HMF Americana is developing a 221-unit rental community on a former Harris Teeter site in the Stallings/Weddington submarket south of Charlotte, with 55+ dedicated units and 10,000 SF of commercial space. Site work begins October 2026; vertical construction starts Q1 2027 with initial move-ins in Q3 2027. The project blends cottage-style BTR with traditional neighborhood amenities and mixed-use retail.",
+      "impact": "This signals strong demand absorption in Charlotte's southern submarkets and confidence in the local rental market. The 55+ component and future commercial expansion potential indicate developers see demographic and mixed-use optionality in secondary Charlotte corridors, suggesting steady rent growth and occupancy tailwinds in that ring despite new supply pipeline."
+    },
+    {
+      "title": "Reforming Pilates to Open New Studio at 233 East 34th Street in Murray Hill",
+      "link": "https://commercialobserver.com/2026/09/reforming-pilates-lease-studio-233-east-34th-street-murray-hill/",
+      "excerpt": "Almost started this story with a workout pun, but that would have been too much of a stretch. Fitness brand Reforming Pilates, which offers reformer equipment classes and heated mat workouts, has signed a 10-year, 2,500-square-foot lease to open a new location at 233 East 34th Street, according to landlord broker Meridian Capital Group. “Murray Hill is the heartbeat of Manhattan,” Genevieve Ross, founder of Reforming Pilates, said in a statement. “It’s where you move after college, where you find your people, and where New York really starts to feel like home. It’s young, it’s fun, and it was once my own playground. For me, opening here feels full circle — and I truly believe it’s one of the hottest places to be a brand in the city right now.” The deal represents the studio’s third Manhattan location, following spots at 109 West 17th Street in the Flatiron District and at 1305 Second Avenue on the Upper East Side. The asking rent for this deal was not disclosed, but the average asking rent for retail space in Manhattan’s nearby Herald Square neighborhood was $394 per square foot during the second quarter of 2026, according to CBRE data. The landlord was represented in the deal by Meridian&#8217;s Noam Aziz, Carson Shahrabani and Max Freudenberger. “Murray Hill is evolving into a much more health-conscious and wellness-driven customer base,” Freudenberger said in a statement. “There is a growing demand for Pilates, fitness, wellness and health-focused concepts, and we believe this shift is creating a strong opportunity for operators that cater to today’s increasingly health-conscious consumer.” The South Florida-based Reforming Pilates was represented by Jeff Jacobson from Masonre. &#8220;We were not looking for another box,” Jacobson said in a statement. “Reforming Pilates needed a ground-floor studio in Murray Hill that could sit next to the Upper East Side and the Flatiron townhouse without dropping the standard — visible, purpose-built, 10 years.” Reforming Pilat",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-09-03T14:21:14+00:00",
+      "bullets": [
+        "Reforming Pilates signing 10-year, 2,500 SF lease at 233 East 34th Street, Murray Hill Manhattan.",
+        "Third Manhattan location; prior spaces in Flatiron and Upper East Side; brand characterizes Murray Hill as 'hottest places.'",
+        "No lease rate disclosed; reflects retail leasing activity in secondary Manhattan submarkets."
+      ],
+      "summary": "Fitness brand Reforming Pilates has leased 2,500 SF for 10 years at 233 East 34th Street in Murray Hill, marking its third Manhattan location. Founder Genevieve Ross cited Murray Hill as a young, vital neighborhood attracting post-college talent and new residents. The deal underscores continued leasing velocity in Manhattan's non-prime retail corridors.",
+      "impact": "Minimal direct impact to multifamily development. However, Reforming Pilates' expansion into Murray Hill reflects operator confidence in the neighborhood's younger demographic concentration and rental population stability—a trailing indicator of sustained demand for entry-level and mid-market multifamily in that submarket."
+    },
+    {
+      "title": "Walmart to Build $1.3B Franklin County Fulfillment Center",
+      "link": "https://www.connectcre.com/stories/walmart-to-build-1-3b-franklin-county-fulfillment-center/",
+      "excerpt": "Walmart plans to build a high-tech fulfillment center in Carnesville, creating 1,000 new jobs and bringing $1.3 billion in investment to Franklin County. Carnesville is approximately 85 miles northeast of Atlanta. The new 1.5 million-square-foot automated facility will be located at the Franklin 85 Logistics Center in Carnesville. Walmart’s fulfillment centers are located in strategic markets to expand same-day and next-day shipping capabilities across the United States. Construction is expected to begin in late 2026. From a production standpoint, Walmart operates its new 300,000-square-foot dairy processing facility in Valdosta, Ga., which officially opened late last year. Walmart’s presence in Georgia includes 209 Walmart stores and Sam’s Clubs, as well as 11 supply chain facilities, employing more than 65,300 associates across the state. The retailer also supports local businesses in Georgia, spending more than $26.2 billion with Georgia suppliers and supporting more than 167,600 supplier jobs in fiscal year 2025, alone. The post Walmart to Build $1.3B Franklin County Fulfillment Center appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-09-03T14:09:18+00:00",
+      "bullets": [
+        "Walmart investing $1.3B in 1.5M SF fulfillment center in Carnesville, Franklin County, Georgia (85 miles NE Atlanta).",
+        "Project creates 1,000 jobs; construction begins late 2026; augments Walmart's Georgia footprint (209 stores, 11 supply chain facilities, 65k+ employees).",
+        "Strategic expansion of same-day/next-day logistics capability; facility complements new Valdosta dairy processing plant."
+      ],
+      "summary": "Walmart is committing $1.3 billion to a 1.5 million-square-foot automated fulfillment center in Carnesville, Franklin County, GA, creating 1,000 jobs with construction beginning late 2026. The investment expands Walmart's logistics network across Georgia and enhances same-day and next-day shipping capabilities. Walmart already operates 209 stores and 11 supply chain facilities in Georgia, employing over 65,300.",
+      "impact": "Significant demand driver for multifamily development in Franklin County and greater Atlanta exurban markets. The 1,000 direct jobs plus multiplier effect (construction, supporting services, contractors) will attract working-age in-migration to a historically less-dense area, creating a multi-year window for rental housing development ahead of the 2026-2027 absorption wave. Developers should evaluate land/entitlements in Carnesville, Madison, and I-85 corridor submarkets."
+    },
+    {
+      "title": "Tishman Speyer Completes $340M Refinancing of West Loop Office Complex",
+      "link": "https://www.connectcre.com/stories/tishman-speyer-completes-340m-refinancing-of-west-loop-office-complex/",
+      "excerpt": "Tishman Speyer has refinanced The Franklin, a two-tower office complex in Chicago’s West Loop, with a $340 million CMBS loan. The loan was led by JPMorgan with Bank of America and Deutsche Bank serving as co-lenders. Proceeds from the five-year floating rate loan, structured with a two-year initial term and three 12-month extension options, will be used to pay off The Franklin’s existing loan and fund ongoing leasing efforts. Tishman Speyer has secured 460,000 square feet of new leases and extensions at The Franklin since June 2025, bringing the property to 84 percent leased. The Franklin encompasses a 60-story tower at 227 West Monroe Street and a 34-story tower at 222 West Adams Street. The property&#8217;s mix of retailers includes Amazon Go, Citibank and Soprafinna Market. “This successful refinancing reflects the strength of The Franklin and the continued demand for premier, amenity-rich workplaces in prime locations,” said Tishman Speyer&#8217;s Managing Director Nooshin Felsenthal. The post Tishman Speyer Completes $340M Refinancing of West Loop Office Complex appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-09-03T13:59:31+00:00",
+      "bullets": [
+        "Tishman Speyer refinancing The Franklin (two towers, West Loop Chicago) with $340M CMBS loan led by JPMorgan.",
+        "Five-year floating-rate loan (2-yr initial + three 1-yr extensions); property now 84% leased after 460k SF new leases since June 2025.",
+        "Amazon Go, Citibank, Soprafinna tenants; refinance funds leasing efforts and payoff of existing debt."
+      ],
+      "summary": "Tishman Speyer has secured a $340 million CMBS refinancing for The Franklin, a two-tower office complex in Chicago's West Loop, led by JPMorgan with BofA and Deutsche Bank as co-lenders. The floating-rate loan has a five-year term (2-year initial plus three 12-month extension options) and will pay off existing debt and fund leasing initiatives. The property has achieved 84% occupancy after securing 460,000 SF of new leases and extensions since June 2025.",
+      "impact": "Limited direct relevance to multifamily development. However, refinancing success at 84% occupancy signals modest stabilization in Chicago office, which could reduce conversion-to-residential urgency in the West Loop and slow adaptive-reuse transaction activity—a minor headwind for multifamily developers betting on office-to-residential conversion opportunities in that submarket."
+    },
+    {
+      "title": "Newmark Arranges $215.8M Loan for 5-Property Florida Multifamily Portfolio",
+      "link": "https://www.connectcre.com/stories/newmark-arranges-215-8m-loan-for-5-property-florida-multifamily-portfolio/",
+      "excerpt": "Newmark arranged $215.8 million in bridge refinancing for Waypoint Residential’s five-property, 1,274-unit multifamily portfolio spanning key markets throughout Florida. Newmark’s Matthew Williams and Rob Wright secured the construction takeout bridge financing through Benefit Street Partners, with support from James Maynard and Kyle Schlitt. The portfolio comprises five newly constructed, luxury garden-style multifamily communities in Vero Beach, Port St. Lucie, Palm Bay, Davenport and Gainesville. Three properties are located along Florida’s Treasure Coast and Space Coast and were completed in 2024, benefiting from continued population and employment growth, a moderating new supply pipeline and proximity to major healthcare, aerospace, advanced manufacturing and logistics employers.&nbsp; The remaining two properties include The Bradley at Lake Wilson in Davenport (shown), which benefits from access to Orlando’s employment centers, tourism corridor and major transportation infrastructure and The Marlow Gainesville, located near the University of Florida and UF Health, two of the area’s largest economic drivers. The post Newmark Arranges $215.8M Loan for 5-Property Florida Multifamily Portfolio appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-09-03T13:41:34+00:00",
+      "bullets": [
+        "Newmark arranging $215.8M bridge refinancing for Waypoint Residential's five-property, 1,274-unit Florida portfolio.",
+        "Properties in Vero Beach, Port St. Lucie, Palm Bay, Davenport, Gainesville; three on Treasure/Space Coast completed 2024; two near Orlando employment and UF.",
+        "Financing driven by population growth, moderating new supply, proximity to healthcare, aerospace, logistics employers."
+      ],
+      "summary": "Newmark arranged $215.8 million in bridge refinancing for Waypoint Residential's five-property, 1,274-unit luxury garden-style multifamily portfolio across key Florida markets. Three newly completed properties (2024) along the Treasure and Space Coasts benefit from population and employment growth and a moderating supply pipeline. The remaining two properties, located in Davenport and Gainesville, provide access to Orlando employment centers and the University of Florida/UF Health ecosystem.",
+      "impact": "Demonstrates strong capital availability and lender confidence in Florida's multifamily fundamentals, particularly in secondary markets (Vero, Port St. Lucie, Davenport, Gainesville) with secular in-migration and employer anchors. Bridge financing at this scale signals stabilized 2024-built assets command takeout debt, validating development feasibility and rents in Florida's tier-2 markets—a green light for similar projects in healthcare, aerospace, and logistics-adjacent submarkets."
+    },
+    {
+      "title": "Proptech Unicorn EliseAI Launches AI Agent Apollo",
+      "link": "https://commercialobserver.com/2026/09/eliseai-ai-agent-apollo/",
+      "excerpt": "EliseAI, a leading artificial intelligence company automating housing and health care facilities and one of the first proptech firms to be valued at $1 billion, announced Thursday that it has launched Apollo, its first cross-platform agentic AI tool. A single AI agent capable of performing any task on the Elise platform, Apollo is designed as a new user interface for leasing agents, executives and others in property operations, according to the company. “Apollo is native to our platform, so anything you can do on the Elise AI platform, you can do with Apollo,” said Francesca Loftus, chief experience officer at Manhattan-based EliseAI. “It can execute requests as well as give you access to data across the entire system. A leasing agent would be able to say, ‘Send an updated message for everybody who toured yesterday,’ and be able to provide a message that gets sent out automatically through Apollo across everybody who fits those requirements.” Apollo can also provide next steps based on users’ questions “in plain language, both text and verbal,” Loftus added. Among Apollo’s functions are knowing a customer’s setup, as it understands every setting, permission and data definition specific to a team&#8217;s properties. EliseAI said Apollo acts at scale and has been tested against real operations, having run through thousands of tests covering everyday scenarios, from onboarding a new team member to first leasing inquiries, maintenance emergencies, and renewal conversations. It also inherits each user&#8217;s existing permissions, so it sees and does only what that person is already cleared for. &#8220;Every property team already has a dozen dashboards and reports telling them what happened,&#8221; Minna Song, co-founder and CEO of EliseAI, said in a statement. &#8220;[Apollo] already knows a team&#8217;s data, permissions and priorities well enough that people can ask it a question in plain English, get a real answer back, and see something actually happen because of it",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-09-03T13:00:44+00:00",
+      "bullets": [
+        "EliseAI (proptech unicorn, $1B+ valuation) launching Apollo, cross-platform agentic AI tool for property operations.",
+        "Apollo enables leasing agents, executives to execute tasks via plain-language voice/text commands across Elise platform.",
+        "Automates tenant follow-up, data access, messaging; designed for user interface simplification and operational efficiency."
+      ],
+      "summary": "EliseAI, a proptech unicorn valued at $1 billion-plus, has launched Apollo, an agentic AI tool enabling leasing agents, executives, and property operations staff to execute tasks via plain-language voice or text commands. Apollo integrates natively with the Elise platform and can automate tenant follow-up, provide data access across systems, and trigger workflows such as sending updated messages to recent property tours.",
+      "impact": "Indirect but meaningful: Apollo's automation of leasing, follow-up, and tenant communication workflows reduces per-unit leasing cost and accelerates lease conversion, improving NOI on stabilized assets. For new developments, faster leasing cycles reduce time-to-stabilization, improve pro forma returns, and free capital for next deals. Wider adoption of such tools will set efficiency benchmarks across the industry, pressuring operators using legacy systems."
+    },
+    {
+      "title": "Get to Know the Broker: Libby McKinney Tritschler of William Raveis Real Estate",
+      "link": "https://commercialobserver.com/2026/09/get-to-know-the-broker-libby-mckinney-tritschler-william-raveis-real-estate/",
+      "excerpt": "Community connection plays a huge part in Libby McKinney Tritschler’s approach to clients. McKinney Tritschler, 65, is the executive vice president of sales and the founder of the On The Harbor real estate team at William Raveis Real Estate. She has more than 20 years of experience at the firm and is an expert in Connecticut’s Southport, Fairfield and Westport markets, where she has closed over $800 million in sales. Having grown up in Fairfield County, McKinney Tritschler is involved in many community initiatives in the area, including serving on the board of the Pequot Library, the Westport/Weston YMCA, and the Shepherds Mentors program. Commercial Observer caught up with McKinney Tritschler at the end of August for a series called “Get to Know the Broker,” where we connect with residential brokers to learn more about what makes them tick. This conversation has been edited for length and clarity. Commercial Observer: What has been the biggest deal of your career so far? Libby McKinney Tritschler: I’ve had two that really stand out, for very different reasons. The first was 66 Beachside Avenue, a 7-acre parcel on Long Island Sound. The property had been in my family since the mid-1800s and was the last of our family’s waterfront land that had once been part of the Bedford estates. It was an incredibly emotional sale for me because there was so much family history tied to that property. The land traded for $16 million. The other was 260 Willow Street, which I sold at the beginning of 2026 for $12 million. I represented both the seller and the buyer. The seller had moved to Italy, and I was honored to be the person they trusted to oversee everything here, from preparing and managing the property through the entire marketing and sale process. It was an extraordinary responsibility and one I was very proud to have been given. What is your career Everest? Of course, I have financial and sales goals. I’m competitive, and I always want to perform at the highest level. My ",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-09-03T11:15:45+00:00",
+      "bullets": [
+        "Profile of Libby McKinney Tritschler, 65, EVP sales at William Raveis (Fairfield County, CT specialist).",
+        "Over $800M in closed sales across Southport, Fairfield, Westport markets; 20+ years tenure at firm.",
+        "Community involvement on Pequot Library, YMCA, mentors boards; focus on Fairfield County residential brokerage."
+      ],
+      "summary": "Libby McKinney Tritschler is executive vice president of sales at William Raveis Real Estate and founder of the On The Harbor team, specializing in Fairfield County, Connecticut submarkets (Southport, Fairfield, Westport). She has closed over $800 million in sales over 20+ years and is deeply embedded in local community governance (Pequot Library, YMCA, Shepherds Mentors).",
+      "impact": "No direct impact to multifamily development. This is a residential brokerage profile focused on single-family and small-sale activity in an affluent Connecticut coastal market outside core multifamily development geographies."
+    },
+    {
+      "title": "Liability Litigation Is Choking Multifamily Housing",
+      "link": "https://commercialobserver.com/2026/09/liability-litigation-multifamily-housing/",
+      "excerpt": "Across the U.S., owners of multifamily properties are confronting a growing problem that threatens the health of our housing: The cost and availability of liability insurance is making it increasingly difficult to operate a building. The strain, which threatens to stall much-needed housing development, hits smaller landlords hardest, undercutting cash flow, jeopardizing maintenance budgets, and in some cases putting loans and transactions at risk. While property owners are struggling with cost increases for labor, energy, taxes and financing, liability coverage is the fastest-rising expense. “Nuclear verdicts” (jury awards exceeding $10 million) are a major source of this problem. In 2023, there were 89 nuclear verdicts totaling roughly $14.5 billion in awards. In 2024, those numbers surged to 135 such verdicts, with awards ballooning into the tens of billions. Danielle Lombardo. PHOTO: COurtesy Howden U.S. Real Estate Carriers, reacting to what the market calls “social inflation,” have tightened terms, raised prices, narrowed capacity and, increasingly, carved out or reduced limits for certain high-severity exposures. When payouts become larger and less foreseeable, insurers are compelled to protect capital by withdrawing or constraining coverage. The knock-on effect plays out most directly in lending. Agency guidance, including from major mortgage buyers such as Fannie Mae and Freddie Mac, now expects general liability and umbrella policies to cover, without exclusion or crippling sublimits, several serious exposures, including assault and battery, firearms, sexual abuse and molestation, and habitability failures. Where those coverages aren’t available, lenders are requiring large escrow accounts or reserves to bridge the gap. Owners have reported that lenders are, in some cases, asking for reserves of $250,000 or more for each excluded exposure. Combined with higher premiums, these demands erode net operating income and, in many deals, push projected returns into",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-09-03T11:00:34+00:00",
+      "bullets": [
+        "Multifamily owners facing soaring liability insurance costs and limited availability; fastest-rising expense after labor, energy, taxes.",
+        "'Nuclear verdicts' ($10M+) surged from 89 in 2023 ($14.5B total) to 135 in 2024 (tens of billions total awards).",
+        "Carriers tightening terms, raising prices, narrowing capacity, reducing limits on high-severity exposures; hits smaller landlords hardest."
+      ],
+      "summary": "U.S. multifamily owners are confronting escalating liability insurance costs and reduced availability, driven by a surge in 'nuclear verdicts' (jury awards exceeding $10 million). Nuclear verdicts jumped from 89 in 2023 ($14.5 billion total) to 135 in 2024 with awards in the tens of billions. Carriers are tightening terms, raising premiums, reducing capacity, and narrowing coverage, creating a severe cash flow and operational headwind particularly for smaller operators and threatening housing development pipelines.",
+      "impact": "Significant cost headwind to multifamily development and operations. Rising liability insurance premiums and narrowed coverage reduce operating margins and jeopardize refinance/sale valuations, slowing new construction underwriting. Smaller, undercapitalized developers face reduced feasibility; larger operators with scale and risk management infrastructure gain competitive advantage. Developers should factor 15-25% year-over-year insurance cost escalation into 5-year proformas and consider self-insurance strategies or bundled captive programs."
+    },
     {
       "title": "Albany Plans $25M Makeover for Government Complex",
       "link": "https://www.connectcre.com/stories/albany-plans-25m-makeover-for-government-complex/",
@@ -32,72 +152,12 @@
       "cat": "Commercial",
       "date": "2026-09-02T22:51:28+00:00",
       "bullets": [
-        "NY OGS allocating $25M to Empire State Plaza improvements in Albany",
-        "Part of $400M Championing Albany's Potential Initiative targeting housing growth",
-        "Revitalization effort aims to attract new residents to state capital"
+        "New York OGS planning $25M investment in Empire State Plaza renovation (98-acre Albany government complex).",
+        "Initiative includes green space, wayfinding, Concourse/Plaza upgrades, Swan/Madison Avenue gateway improvements.",
+        "Part of broader $400M Championing Albany's Potential initiative (Gov. Hochul) aimed at housing growth and new resident attraction."
       ],
-      "summary": "New York's Office of General Services plans a $25 million makeover of the 98-acre Empire State Plaza in Albany, including green space, wayfinding, and gateway improvements. The project is embedded within Gov. Hochul's $400 million Championing Albany's Potential Initiative launched to spur housing growth and attract residents to the capital. The improvements target the Plaza's civic activation and visitor experience.",
-      "impact": "MINIMAL DIRECT RELEVANCE TO MULTIFAMILY DEVELOPMENT. While the initiative signals state support for Albany population growth, the $25M is for civic infrastructure, not housing supply or zoning reform. Watch for complementary housing policy changes or land disposition that would create actual multifamily development opportunity in Albany."
-    },
-    {
-      "title": "New Apartment Building in Berkeley Heights Live-Work Campus Opens Doors",
-      "link": "https://www.connectcre.com/stories/new-apartment-building-in-berkeley-heights-live-work-campus-opens-doors/",
-      "excerpt": "Move-ins are officially underway at RT500, a new 179-unit luxury community developed by The Connell Company in Berkeley Heights, NJ. The 11-story property is located within The Park, a 185-acre mixed-use campus about 30 minutes from downtown New York City. Greystar is managing leasing and in-person tours at RT500, which offers a mix of studio, one-, two-, and three-bedroom apartments. The Connell Company is touting the high-end amenities at the property, including a gym, co-working space, and dedicated game room. RT500 forms part of a $500 million redevelopment of a former office campus off Routes 78 and 22. In addition to the residential property, The Park also features a 176-room Embassy Suites Hotel, 1.5 million square feet of offices, and 160,000 square feet of dining, entertainment, wellness and lifestyle concepts. “From the moment residents walk through the doors, we want them to feel RT500 offers a place where their home, work, wellness, and social life can all come together,” said Shane Connell, executive vice president of The Connell Company in a statement. The post New Apartment Building in Berkeley Heights Live-Work Campus Opens Doors appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-09-02T22:02:12+00:00",
-      "bullets": [
-        "The Connell Company delivered 179-unit RT500 in Berkeley Heights, NJ near NYC",
-        "Part of $500M mixed-use redevelopment (hotel, office, retail on 185 acres)",
-        "Live-work campus model with co-working, gym, positioning for white-collar proximity"
-      ],
-      "summary": "RT500, a 179-unit luxury apartment community developed by The Connell Company, opened in Berkeley Heights, New Jersey, within The Park—a 185-acre mixed-use campus approximately 30 minutes from Manhattan. The 11-story property is part of a $500 million redevelopment of a former office park and includes co-working, gym, and lifestyle amenities. The property is managed by Greystar and offers studio through three-bedroom floor plans.",
-      "impact": "CONFIRMS SUBURBAN MULTIFAMILY DEMAND NORTH OF NYC DRIVEN BY LIVE-WORK MIGRATION. The live-work amenity package and near-completion timing signal sustained appetite for workforce housing within commuting distance of Manhattan, especially as hybrid work normalizes. Developers should track similar office-to-residential conversion opportunities on underutilized suburban campuses within 30–45 minutes of major metros."
-    },
-    {
-      "title": "LaSalle IM, Camber Pick Up Long Island Industrial Portfolio",
-      "link": "https://www.connectcre.com/stories/lasalle-im-camber-pick-up-long-island-industrial-portfolio/",
-      "excerpt": "A joint venture of LaSalle Investment Management and Camber Real Estate Partners has acquired a three-property industrial portfolio spanning more than 270,000 square feet on Long Island for an undisclosed price. The 100% leased portfolio includes a 46,000-square-foot facility in the JFK Airport area as well as two separate buildings measuring 100,230 square feet and 124,500 square feet in the South Shore area of Suffolk County, NY. “The portfolio provides a rare balance of credit-backed income stability and long-term asset strength,” noted Christopher Bellapianta, managing principal at Camber in a statement. “Its functional layout and prime infill locations position the portfolio to perform exceptionally well over time within a highly supply-constrained market.” The off-market transaction was arranged by a JLL Capital Markets Investment Sales team. LaSalle Investment Management, a subsidiary of JLL, manages $86.6 billion of assets globally. New Jersey-based Camber operates an 80-building, 4.5 million square foot portfolio, focused on value-add infill light-industrial properties in select East Coast markets. The post LaSalle IM, Camber Pick Up Long Island Industrial Portfolio appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-09-02T21:20:56+00:00",
-      "bullets": [
-        "LaSalle IM + Camber JV acquired 270K+ SF industrial portfolio on Long Island",
-        "100% leased, includes JFK-adjacent and South Shore Suffolk County infill assets",
-        "Off-market deal signals strong institutional demand for supply-constrained East Coast logistics"
-      ],
-      "summary": "A joint venture of LaSalle Investment Management and Camber Real Estate Partners acquired a three-property, 270,000+ square-foot industrial portfolio on Long Island, including a 46,000-square-foot facility near JFK Airport and two buildings totaling 224,730 square feet in South Shore Suffolk County. The portfolio is fully leased and positioned in supply-constrained infill locations. Camber operates 4.5 million square feet across 80 buildings focused on East Coast light-industrial value-add.",
-      "impact": "NOT DIRECTLY RELEVANT TO MULTIFAMILY. However, signals institutional capital flowing to supply-constrained logistics markets on Long Island; confirms tight industrial supply near NYC reinforces land scarcity across all real estate classes, potentially limiting multifamily development land availability and inflating land costs in the periphery. Monitor for competing capital flows that may drive up acquisition prices for multifamily sites in secondary submarkets."
-    },
-    {
-      "title": "Related Companies Snags 150K-SF Lease at Upcoming Midtown Tower",
-      "link": "https://www.connectcre.com/stories/related-companies-snags-150k-sf-lease-at-upcoming-midtown-tower/",
-      "excerpt": "Manhattan’s leasing frenzy continues, with global investment firm General Atlantic inking a long-term lease for more than 150,000 square feet at Related Cos.’ under-construction Midtown tower 625 Madison Ave. General Atlantic will occupy five floors as the anchor tenant upon the property’s opening, which is slated for 2029. The space will serve as the company’s global headquarters, supporting General Atlantic’s New York team of more than 330 professionals. Located between 58th and 59th Streets along Madison Ave., the 53-story tower designed by Foster + Partners will feature Central Park views, column-free floor plates and corners, and an all-electric and LEED Platinum design. A restaurant and luxury retail are planned for the tower’s base. Helmed by CEO Jeff Blau, Related has a portfolio of $100 billion assets owned or under development, including the Hudson Yards neighborhood on Manhattan’s West Side. The developer purchased the 625 Madison Ave. site in 2024 and demolished the existing 1956-vintage building, which had previously served as the headquarters for Nabisco and Related itself. The post Related Companies Snags 150K-SF Lease at Upcoming Midtown Tower appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-09-02T21:14:21+00:00",
-      "bullets": [
-        "General Atlantic signed 150K+ SF anchor lease at Related's 625 Madison Ave (Midtown)",
-        "53-story office tower opening 2029; General Atlantic HQ for 330+ NYC professionals",
-        "Reflects sustained corporate HQ demand in Manhattan despite remote-work trends"
-      ],
-      "summary": "General Atlantic, a global investment firm, signed a long-term lease for more than 150,000 square feet across five floors at Related Companies' under-construction 625 Madison Ave tower, slated to open in 2029. The space will serve as General Atlantic's global headquarters for more than 330 professionals. The 53-story tower, designed by Foster + Partners, is LEED Platinum and all-electric.",
-      "impact": "SIGNALS SUSTAINED WHITE-COLLAR JOB ANCHORING IN MANHATTAN CORE. Major corporate HQ commitments to new Class-A office reinforce Manhattan as an agglomeration hub; this drives both direct worker in-migration and indirect service-sector employment growth, supporting multifamily demand in Manhattan and outer boroughs. Expect continued rent and occupancy strength for multifamily in Midtown South and Hudson Yards adjacencies through 2029–2031 ramp-up period."
-    },
-    {
-      "title": "Northmarq Arranges Refi for Van Nuys Warehouse Portfolio",
-      "link": "https://www.connectcre.com/stories/northmarq-arranges-refi-for-van-nuys-warehouse-portfolio/",
-      "excerpt": "Northmarq’s Los Angeles Debt + Equity team, led by Zalmi Klyne and Stanley Chu, successfully arranged $6.1 million in permanent financing for three flex/showroom industrial properties located within the Los Angeles metro. Northmarq arranged financing on behalf of the borrower through a correspondent relationship with a life insurance company. The transaction was structured on a ten-year term. The portfolio included: 14943 Califa St. is a single-tenant industrial flex/showroom property built in 1955 and situated on a 0.33-acre site. The asset features a one-story design supporting a range of showroom, warehouse and light manufacturing uses. 15044 Keswick St. is a single-tenant industrial flex/showroom property built in 1969 and situated on a 1.48-acre site. 14932 Oxnard St. is a single-tenant industrial property situated on approximately 0.65 acres. Collectively, the three properties benefit from their locations in Van Nuys within the San Fernando Valley, one of Southern California&#8217;s most established infill industrial markets. The post Northmarq Arranges Refi for Van Nuys Warehouse Portfolio appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-09-02T20:38:33+00:00",
-      "bullets": [
-        "Northmarq arranged $6.1M refi for three Van Nuys flex/industrial properties",
-        "10-year permanent term from life insurance lender via correspondent relationship",
-        "Properties built 1955–1969; established San Fernando Valley infill industrial submarket"
-      ],
-      "summary": "Northmarq's Los Angeles team arranged $6.1 million in permanent financing for three flex and light-industrial properties in Van Nuys (San Fernando Valley), totaling approximately 2.46 acres. The transaction was structured as a 10-year term funded through a life insurance company. The portfolio includes single-tenant showroom and warehouse uses built between 1955 and 1969.",
-      "impact": "NOT DIRECTLY RELEVANT TO MULTIFAMILY. Confirms San Fernando Valley as a persistent logistics/light-industrial market with refinancing activity; long-dated fixed-rate debt availability suggests stable cap-rate environment. Tangential note: Van Nuys industrial rents and land values may influence adjacent multifamily site costs if conversion/redevelopment activity emerges in the submarket."
+      "summary": "New York's Office of General Services (OGS) is allocating $25 million to revitalize Empire State Plaza, a 98-acre government complex in Albany, with improvements to green space, wayfinding, visitor experience, and gateway access. The investment is part of Gov. Hochul's $400 million Championing Albany's Potential Initiative, launched to drive housing growth, attract residents, and revitalize public spaces in New York's capital.",
+      "impact": "Indirect but meaningful demand signal for Albany multifamily development. State-level investment in civic infrastructure and public space typically precedes private market confidence in housing demand. This signaling, combined with the $400M initiative's explicit housing growth mandate, suggests Albany will see modest population in-migration and rising rents over 3-5 years. Developers should evaluate Albany's downtown and midtown submarkets for mixed-use and rental opportunities ahead of broader revitalization."
     },
     {
       "title": "Westfield Montgomery Owner Pays Off $350M Loan on Bethesda, Md., Mall",
@@ -107,72 +167,12 @@
       "cat": "Commercial",
       "date": "2026-09-02T20:35:36+00:00",
       "bullets": [
-        "Unibail-Rodamco-Westfield paid off $350M loan on Westfield Montgomery mall",
-        "Loan had been in special servicing for 2+ years; payoff called 'rarity'",
-        "URW halted planned redevelopment; pivoting to retain flagships, divest non-core"
+        "Unibail-Rodamco-Westfield (URW) paying off $350M loan on Westfield Montgomery (1.2M SF mall, Bethesda, MD).",
+        "Loan scheduled maturity August 1; debt had been in special servicing; rare payoff in cycle of extension-heavy mall loans.",
+        "URW halted redevelopment plans in 2020; reversed 2022 strategy to sell U.S. portfolio, now retaining 11 flagship malls."
       ],
-      "summary": "Unibail-Rodamco-Westfield (URW) paid off a $350 million loan tied to the 1.2 million-square-foot Westfield Montgomery mall in Bethesda, Maryland, more than two years after the debt was transferred to special servicing. The payoff was unexpected given the broader mall distress cycle; the loan had received a two-year extension after missing its August 2024 maturity. URW's planned redevelopment of the property has not commenced.",
-      "impact": "SIGNALS CONTINUED RETAIL REAL ESTATE STRESS AND DEVELOPER PORTFOLIO RESET. URW's retreat from U.S. mall redevelopment and focus on flagship retention suggests mixed-use opportunities (including residential conversion) at secondary malls like Westfield Montgomery may be delayed or shelved. For multifamily developers, monitor whether URW divests non-core malls to opportunistic buyers willing to pursue residential-anchored redevelopment; Bethesda's affluent submarket could support high-density residential if a new sponsor emerges."
-    },
-    {
-      "title": "Vestal Point Capital Takes 12K SF at Rockrose Development’s 11 East 26th Street",
-      "link": "https://commercialobserver.com/2026/09/vestal-point-capital-lease-rockrose-development-11-east-26th-street/",
-      "excerpt": "Investment firm and hedge fund manager Vestal Point Capital is relocating its offices within New York City. The company has inked a long-term, 12,139-square-foot lease on the entire 12th floor of Rockrose Development’s 11 East 26th Street across the street from Manhattan&#8217;s Madison Square Park, Commercial Observer has learned. The company’s current address is listed on its website as 632 Broadway in NoHo. It is unclear when the firm will move. The exact length of the lease was unclear. The asking rent was more than $130 per square foot, according to a source with knowledge of the deal. Newmark&#8216;s William Cohen and Ariel Harwood are the exclusive leasing agents for the property. Brian Goldman and Cooper Weisman — also from Newmark — represented the tenant in this deal. Newmark declined to comment, while a spokesperson for Vestal Point Capital did not immediately respond to a request for comment. Standing 21 stories tall, 11 East 26th Street is a two-building office complex connected to 15 East 26th Street. The second floor is a full-scale amenity club featuring a workout space, a private lounge, a designated area for whiskey lockers, and a grab-and-go kitchen. There is also a landscaped rooftop that includes terraces, seating areas, and an indoor-outdoor conference and entertainment space. Other tenants at 11 East 26th Street include artificial intelligence firm Sierra and business consulting firm Activate Consulting. Amanda Schiavo can be reached at aschiavo@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-09-02T20:25:51+00:00",
-      "bullets": [
-        "Vestal Point Capital leased 12,139 SF (floor 12) at Rockrose's 11 East 26th St",
-        "Asking rent >$130/SF; relocation from NoHo (632 Broadway) to Flatiron area",
-        "Confirms continued Manhattan office demand from financial services/hedge fund tenants"
-      ],
-      "summary": "Investment and hedge fund manager Vestal Point Capital signed a long-term lease for 12,139 square feet on the entire 12th floor of Rockrose Development's 11 East 26th Street, near Madison Square Park. The lease was negotiated at asking rents exceeding $130 per square foot. The firm is relocating from its NoHo headquarters at 632 Broadway.",
-      "impact": "CONFIRMS SELECTIVE OFFICE RECOVERY IN MANHATTAN'S FLATIRON/SOUTH MIDTOWN SUBMARKET. Professional services and financial tenants continue to consolidate and upgrade into high-amenity, newer buildings, signaling sustained white-collar employment and in-migration pressure in these neighborhoods. Supports multifamily demand in Flatiron and Union Square East adjacencies; watch for similar tenant flight from older NoHo/SoHo stock to fuel resi conversion opportunities."
-    },
-    {
-      "title": "NYC Human Resources Administration Extends 174K-SF Lease in Midtown",
-      "link": "https://commercialobserver.com/2026/09/nyc-human-resources-administration-lease-extension-260-11th-avenue/",
-      "excerpt": "The New York City Department of Citywide Administrative Services (DCAS) extended the lease for a government agency in Midtown South. The New York City Human Resources Administration (HRA) will get an extra 18 months at Vornado Realty Trust’s 260 11th Avenue, where it occupies 174,186 square feet, according to a source close to the deal. The deal appeared in a monthly Manhattan office market report by Colliers, which offered no further insight into the deal apart from the average office asking rent for Midtown South, which was $78.90 in August. DCAS negotiated the deal on behalf of HRA, but it’s unclear who brokered the deal for Vornado, which declined to comment. HRA’s lease was scheduled to turn over in October, The Real Deal reported in September 2022, and at some point it may have expanded its footprint from its initial 154,000 square feet. The agency has locations throughout the city, including a 350,000-square-foot office at Clipper Equities&#8216; 250 Livingston Street, where it offers legal services, and a 9,199-square-foot post at 25 Chapel Street in Downtown Brooklyn, where it provides assistance to veterans. Located between West 26th and West 27th streets several blocks south of Hudson Yards, 260 11th Avenue is a seven-story landmarked building constructed in 1911 and is known as the Otis Elevator Building. Vornado holds a 99-year ground lease for the property. Mark Hallum can be reached at mhallum@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-09-02T20:11:46+00:00",
-      "bullets": [
-        "NYC HRA extended 174,186 SF lease at Vornado's 260 11th Ave for 18 months",
-        "Midtown South office market averaging $78.90/SF asking rent (Aug. data)",
-        "Government agency consolidating tenure amid broader Midtown South stabilization"
-      ],
-      "summary": "The New York City Department of Citywide Administrative Services (DCAS) negotiated an 18-month lease extension for the Human Resources Administration (HRA) at Vornado Realty Trust's 260 11th Avenue in Midtown South, covering 174,186 square feet. The deal reflects broader Midtown South stabilization, with average asking rents at $78.90 per square foot as of August.",
-      "impact": "CONFIRMS GOVERNMENT TENANT RETENTION IN MIDTOWN SOUTH; SIGNALS STABILIZATION BUT NOT ACCELERATION. While the 18-month extension (rather than longer-term renewal) suggests caution, it indicates Vornado and DCAS expect near-term stability. For multifamily, government office tenancy anchors employment in Midtown South and Chelsea, supporting service-sector and transit-adjacent residential growth; however, the cautious lease term suggests no rush to ramp residential development in immediately adjacent markets."
-    },
-    {
-      "title": "Affinius Capital Lends $310M for Jersey City Multifamily Tower Build",
-      "link": "https://commercialobserver.com/2026/09/affinius-capital-jersey-city-apartments/",
-      "excerpt": "The demand for apartments across the Hudson River keeps rising. Namdar Group has landed $310 million of construction financing to build a 47-story multifamily tower in Jersey City, N.J., Commercial Observer has learned. Affinius Capital originated the loan for Namdar’s 1,049-unit Park Tower project in Jersey City’s Journal Square neighborhood. The large-scale development was given the green light by the Jersey City Planning Board in June a year after it secured a $32 million pre-development loan from Post Road Group paving the way for the tower, Jersey Digs previously reported. “Park Tower will be among Journal Square’s premier multifamily projects capitalizing on the neighborhood’s continued growth,” David Greenburg, co-head of debt origination at Affinius, said in a statement. “This project aligns with our strategy of financing exceptional multifamily assets with top-tier sponsorship.” Walker &amp; Dunlop negotiated the debt with a capital markets institutional advisory team consisting of Aaron Appel, Keith Kurland, Jonathan Schwartz, Adam Schwartz, Dustin Stolly, Sean Reimer, Jordan Casella, Christopher de Raet and Edward Leboyer. Located at 8-16 Lott Street, the Park Tower project will have a mix of floor plans ranging from studios to three-bedroom units. Community amenities will include a fitness center, a yoga studio, a bowling alley, an arcade, a music room, a golf simulator and a rooftop lounge. Long Island-based Namdar Group has been an active developer in Jersey City, recently completing a 27-story, 564-unit luxury apartment tower at 35 Cottage Street in Journal Square. It also inked a $335 million debt package to refinance three newly built Jersey City multifamily properties totaling 833 units at 9 Homestead Place, 26 Van Reipen Avenue and 28 Cottage Street, as CO previously first reported. Namdar Group did not immediately return a request for comment. Andrew Coen can be reached at acoen@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-09-02T19:49:43+00:00",
-      "bullets": [
-        "Namdar Group secured $310M construction financing from Affinius Capital for Park Tower",
-        "1,049-unit, 47-story multifamily tower in Jersey City Journal Square",
-        "Project approved June 2023; demonstrates sustained NYC-metro multifamily construction lending"
-      ],
-      "summary": "Namdar Group landed $310 million in construction financing from Affinius Capital to build Park Tower, a 1,049-unit, 47-story multifamily development in Jersey City's Journal Square neighborhood. The project received Planning Board approval in June 2023 and was preceded by a $32 million pre-development loan from Post Road Group. Walker & Dunlop negotiated the transaction.",
-      "impact": "STRONG SIGNAL OF CONSTRUCTION DEBT AVAILABILITY AND SUSTAINED SUBURBAN MULTIFAMILY DEMAND ACROSS HUDSON RIVER. Jersey City Journal Square continues to attract institutional debt for large-unit-count projects, indicating lender confidence in rent growth and absorption in the PATH-connected, high-transit-access submarket. Signals capital appetite for dense, transit-oriented multifamily in secondary metros; watch for similar funding for competing Jersey City projects and for debt-rate environment shifts that could throttle construction starts in Q1–Q2 2025."
-    },
-    {
-      "title": "Industrious Adds 19th L.A.-Area Location at Caruso’s Masonic Temple",
-      "link": "https://commercialobserver.com/2026/09/industrious-la-glendale-caruso-masonic-temple/",
-      "excerpt": "Coworking giant Industrious is adding another location in Southern California, this time at one of the more recognizable office properties in Glendale. The flexible office provider has signed for 12,000 square feet across two floors at Caruso’s historic Masonic Temple at 234 South Brand Boulevard, Commercial Observer can first report. The location is expected to open in late June 2027 as Industrious’ second in Glendale and 19th across Greater Los Angeles. It’s also Industrious’ first deal with Caruso. The new workspace will include 101 private office seats and 17 common-area seats. “Glendale has proven itself as a strong market for us, and we’re excited to build on that success with this new location,” Natalie Levine, director of real estate at Industrious, said in a statement. The nine-story Art Deco Masonic Temple was built in 1929, and Rick Caruso’s eponymous real estate company restored it as Class A office and retail space adjacent to the owner’s Americana at Brand shopping center. CBRE, which acquired Industrious last year, uses the property as its North L.A. headquarters. “Adding a premier flexible workplace within the historic Masonic Temple further strengthens the Americana at Brand’s live-work-play ecosystem, creating a seamless experience across one highly connected and walkable destination,” said Jackie Levy, chief revenue officer at Caruso. Industrious has been growing around Greater L.A. Earlier this year, the company opened an 18,400-square-foot location at Douglas Emmett’s Studio Plaza in Burbank, and signed a 22,000-square-foot deal at Sherman Oaks Galleria. The company also expanded aggressively across the Westside in recent years, including a 16,000-square-foot Beverly Hills location, roughly 44,000 square feet combined in Westwood and Santa Monica, and 19,000 square feet at Watt Plaza in Century City. Industrious operates more than 250 locations across more than 80 cities globally. Gregory Cornfield can be reached at gcornfield@commercialobserver",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-09-02T19:30:31+00:00",
-      "bullets": [
-        "Industrious signed 12,000 SF lease at Caruso's Masonic Temple, Glendale",
-        "Flexible office provider's 19th LA-area location; opens late June 2027",
-        "Signals sustained demand for coworking/flex office in Southern California secondary markets"
-      ],
-      "summary": "Coworking giant Industrious signed a 12,000-square-foot lease across two floors at Caruso's Masonic Temple (built 1929, renovated as Class A office) in Glendale, California. The location will be Industrious' second in Glendale and 19th across Greater Los Angeles, opening in late June 2027. The space will include 101 private office seats and 17 common-area seats.",
-      "impact": "NOT DIRECTLY RELEVANT TO MULTIFAMILY. However, Industrious' 19th LA location signals sustained flex-office demand and Caruso's willingness to co-tenant historic assets; tangentially, this reinforces Glendale as a secondary employment node, which over time may drive worker in-migration and multifamily demand. Monitor whether Caruso pursues residential or live-work components in future developments to capture workforce growth near coworking anchors."
+      "summary": "Unibail-Rodamco-Westfield (URW) has paid off a $350 million loan on Westfield Montgomery, a 1.2 million-square-foot mall in Bethesda, Maryland, more than two years after the debt entered special servicing. The payoff is rare in a cycle dominated by mall loan extensions. URW had planned to redevelop the property in 2020 but has not initiated work; the company reversed its 2022 strategy to divest its $13.2 billion U.S. mall portfolio, opting instead to retain 11 high-performing flagships.",
+      "impact": "Minimal direct impact to multifamily. However, URW's payoff and portfolio pivot toward 'high-performing flagships' suggest cautious optimism on suburban retail but undermine the adaptive-reuse-to-multifamily thesis for secondary malls like Montgomery. Bethesda is a strong renter magnet, but the stalled redevelopment and URW's conservative strategy reduce conversion opportunity urgency in that submarket and extend the life of traditional retail assets."
     }
   ]
 }
