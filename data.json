@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T15:33:57.361639+00:00",
+  "fetchedAt": "2026-09-11T18:53:20.991335+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -9,21 +9,126 @@
     },
     {
       "label": "10Y Treasury",
-      "value": "4.94%",
-      "pct": -0.16
+      "value": "4.97%",
+      "pct": 0.51
     },
     {
       "label": "30Y Treasury",
-      "value": "5.33%",
-      "pct": -0.6
+      "value": "5.35%",
+      "pct": -0.17
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "94.75",
-      "pct": 0.67
+      "value": "94.83",
+      "pct": 0.75
     }
   ],
   "stories": [
+    {
+      "title": "Longpoint Buys Miami-Dade Warehouse Portfolio for $195M",
+      "link": "https://commercialobserver.com/2026/09/longpoint-miami-dade/",
+      "excerpt": "Longpoint Partners has dropped $195 million on a 10-building industrial portfolio in Miami-Dade County, the Boston-based private equity firm announced. The portfolio, composed of small-bay properties, spans 729,901 square feet across 41 acres. The buildings average about 73,000 square feet with clear heights ranging from 17 to 25 feet. They’re 90 percent leased to 74 tenants, each occupying an average 10,000 square feet. &#8220;This acquisition reflects the conviction and discipline that have guided our work here: acquiring functional, well-located small-bay industrial assets with a diverse tenant base in locations where new supply is difficult to create,” Dwight Angelini, co-founder and managing partner of Longpoint, said in a statement. A representative for Longpoint has yet to provide the addresses of the properties or the name of the seller. Since 2023, Longpoint Partners has been making sizable, bulk purchases of South Florida industrial properties. It has spent nearly $600 million on 51 buildings in two portfolio acquisitions. More recently in July, the firm bought three fully leased warehouses, totaling 121,579 square feet, for $39 million. Longpoint Partners also specializes in grocery-anchored retail properties. In June, it sold a 71,191-square-foot asset near Boynton Beach to Publix for $24 million. Julia Echikson can be reached at jechikson@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-09-11T18:10:40+00:00",
+      "bullets": [
+        "Longpoint Partners acquires $195M, 10-building industrial portfolio in Miami-Dade, 729,901 SF.",
+        "Portfolio 90% leased to 74 tenants, small-bay properties with 17–25 ft clear heights.",
+        "Longpoint has spent ~$600M on 51 buildings in South Florida since 2023."
+      ],
+      "summary": "Boston-based private equity firm Longpoint Partners has acquired a 10-building, 729,901-square-foot industrial portfolio in Miami-Dade County for $195 million. The small-bay portfolio is 90% leased to 74 tenants, each averaging 10,000 square feet. Since 2023, Longpoint has deployed nearly $600 million acquiring 51 buildings in South Florida, focusing on functional, well-located assets with diverse tenant bases in supply-constrained locations.",
+      "impact": "Institutional capital targeting South Florida industrial reflects confidence in port-adjacent logistics demand driven by e-commerce and Latin American trade. This capital deployment and land accumulation can inflate industrial land values and construction costs, pressuring multifamily development sites competing for South Florida acreage and labor. Monitor whether logistics consolidation reduces available development land and labor pools in Miami-Dade submarkets."
+    },
+    {
+      "title": "Upper Manhattan Empowerment Zone Relocates HQ to 9K SF at 119 West 125th Street",
+      "link": "https://commercialobserver.com/2026/09/upper-manhattan-empowerment-zone-lease-119-west-125th-street/",
+      "excerpt": "The nonprofit Upper Manhattan Empowerment Zone Development Corporation (UMEZ) is moving its nonprofit headquarters to 119 West 125th Street in Harlem, Commercial Observer has learned. UMEZ, which finances community development in Upper Manhattan, inked a 9,000-square-foot lease at the 17-story mixed-use development between Malcolm X and Adam Clayton Powell boulevards, according to Taconic Partners, a developer on the project. The nonprofit was itself a lender on the construction of the 414,000-square-foot complex, called the Urban League Empowerment Center, which officially opened its doors in late 2025. The lease term and asking rent for UMEZ’s new sixth-floor office was not disclosed, but the Class A office space likely commands a premium for the Harlem market, where office rents generally range from $30 to $55 per square foot, according to Metro Manhattan Office Space estimates. Newmark’s Chris Mongeluzo, Brian Cohen, Eric Zemachson and Chris Ventura represented ownership in the transaction, while Wharton Property Advisors CEO and President Ruth Colp-Haber represented the tenant. “UMEZ is a venerable, long-standing institution in Harlem, and I can’t think of a more appropriate building for them to take up residency,” Colp-Haber said in a statement to CO. The Urban League Empowerment Center was developed in a public-private partnership led by Empire State Development alongside Taconic Partners, L+M Development Partners, Prusik Group and BRP Companies. The block-through complex features 90,000 square feet of office space and 84,000 square feet of retail, as well as 171 affordable residences in a 17-story tower along West 126th Street. “This lease further solidifies this groundbreaking building as a leader in impactful, mission-driven development and an economic driver for the community,” said Taconic Partners’ George Tsapelas in a statement. “It is fitting for UMEZ to join the building as a tenant after years of supporting the larger development.” UMEZ’s new headqu",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-09-11T17:56:12+00:00",
+      "bullets": [
+        "UMEZ nonprofit leases 9,000 SF at 119 West 125th St., Harlem mixed-use tower.",
+        "414,000-SF Urban League Empowerment Center opened late 2025; UMEZ was construction lender.",
+        "Class A Harlem office rents range $30–55/SF; premium space likely commands high end."
+      ],
+      "summary": "The Upper Manhattan Empowerment Zone Development Corporation (UMEZ), a community development nonprofit, leased 9,000 square feet on the sixth floor of 119 West 125th Street, a 414,000-square-foot mixed-use development in Harlem that opened in late 2025. UMEZ financed community development in Upper Manhattan and was itself a lender on the Urban League Empowerment Center's construction. Class A office rents in the Harlem market typically range from $30 to $55 per square foot.",
+      "impact": "UMEZ's flagship relocation to a trophy mixed-use address signals institutional confidence in Harlem's commercial and residential upside. The organization's role as both anchor tenant and construction lender on this project—and continued commitment to Upper Manhattan development financing—will likely spur additional multifamily and mixed-use investment in Central/Upper Harlem. Developers should expect rising land valuations and competitive bidding for Harlem development sites over the next 18–36 months."
+    },
+    {
+      "title": "141Willoughby Residential Conversion Snags $208M Construction Loan",
+      "link": "https://www.connectcre.com/stories/141willoughby-residential-conversion-snags-208m-construction-loan/",
+      "excerpt": "Northwind Group, a Manhattan-based real estate private equity firm and debt fund manager, originated a $208-million first mortgage construction loan for 141 Willoughby St., a 24-story, 355,000-square-foot Class A tower in Downtown Brooklyn. Loan proceeds retired the existing debt on the property and will fund its partial conversion into 239 rental apartments across floors 8 through 23 and the commercial lease-up on floors 1-7, which have been rebranded as 385 Gold. The conversion is being led by a joint venture between Capstone Equities and BH3 Fund Advisors, which took control of the property in 2025 and has spent the past year in predevelopment. Originally delivered in 2023, the tower was built to full Class A institutional specification but was never occupied. The financing was arranged by Rob Turner and Ethan Pond of Eastdil Secured Savills. Northwind was represented by John Vavas of Polsinelli Group and the JV was represented by Elizabeth Smith of Goldberg Weprin Finkel Goldstein LLP. The post 141Willoughby Residential Conversion Snags $208M Construction Loan appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-09-11T17:23:56+00:00",
+      "bullets": [
+        "Northwind Group provides $208M construction loan for 141 Willoughby St., Downtown Brooklyn.",
+        "Capstone/BH3 converting 355,000-SF Class A tower into 239 apartments (floors 8–23) plus commercial.",
+        "Property delivered 2023 as full Class A spec but never occupied; conversion starts 2025."
+      ],
+      "summary": "Northwind Group originated a $208 million first mortgage construction loan for 141 Willoughby Street, a 355,000-square-foot Class A tower in Downtown Brooklyn being partially converted into 239 rental apartments by a joint venture of Capstone Equities and BH3 Fund Advisors. The property, delivered in 2023 as full institutional-spec Class A office, never leased and was repositioned to residential and retail in 2025. Loan proceeds retire existing debt and fund predevelopment and lease-up for floors 1–7 commercial space (385 Gold).",
+      "impact": "Office-to-residential conversion in Downtown Brooklyn signals sustained multifamily demand and lender appetite for residential conversion plays over new office development. Northwind's $208M construction financing at competitive rates reflects capital availability for repositioning; however, the 2+ year gap between delivery and conversion suggests office market weakness persists. Developers should monitor Downtown Brooklyn absorption and rental rates post-occupancy to gauge whether conversion spreads to other obsolete Class A office towers."
+    },
+    {
+      "title": "Sansone Delivers Nearly 300K-SF Midlothian Logistics Facility",
+      "link": "https://www.connectcre.com/stories/sansone-delivers-nearly-300k-sf-midlothian-logistics-facility/",
+      "excerpt": "Sansone delivered the new Palmer Logistics facility at Midlothian Business Park. Located on 26.5 acres, the 269,700-square-foot build-to-suit logistics facility is fully leased to Palmer Logistics, a fourth-generation, Houston-based third-party logistics provider. The facility is a build-to-suit for Palmer International and will be used for the storage and distribution of hazardous materials. ARCO/Murray served as the general contractor for the project, with construction beginning in August 2025. This milestone marks the first completed development between Sansone Group and Palmer Logistics, as well as the inaugural project through the company&#8217;s programmatic funding initiative for third-party logistics (3PL) operators within the International Warehouse Logistics Association (IWLA) network. Sansone Group is a privately held, full-service commercial real estate and development firm with nearly 70 years of experience. The company hasa development footprint spanning nearly 35 states and encompassing tens of millions of square feet. The post Sansone Delivers Nearly 300K-SF Midlothian Logistics Facility appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-09-11T17:17:24+00:00",
+      "bullets": [
+        "Sansone delivers 269,700-SF Palmer Logistics build-to-suit at Midlothian Business Park, Houston.",
+        "Palmer Logistics fully leased facility for hazardous materials storage/distribution; construction Aug 2025.",
+        "First Sansone project under programmatic 3PL funding initiative with IWLA network."
+      ],
+      "summary": "Sansone Group delivered a new 269,700-square-foot, build-to-suit logistics facility for Palmer Logistics at Midlothian Business Park on 26.5 acres in Houston. The facility is fully leased to Palmer International for hazardous materials storage and distribution. Construction began in August 2025 and is complete; this marks Sansone's first collaboration with Palmer Logistics and the inaugural project under Sansone's programmatic funding initiative for third-party logistics operators within the International Warehouse Logistics Association network.",
+      "impact": "Programmatic 3PL funding signals developer-capital partnerships to accelerate supply-chain logistics build-outs in Houston and beyond. This model reduces speculative risk and enables faster lease execution. Multifamily developers competing for land in logistics-heavy markets (Houston, Dallas, Phoenix) should expect increased industrial demand, land competition, and construction labor constraints in these regions through 2027–2028. Monitor whether 3PL expansion pressures labor availability in Houston's apartment construction pipeline."
+    },
+    {
+      "title": "Fengate, Mavrek Break Ground on 380-Unit Mixed-Use Residential Development in Chicago",
+      "link": "https://www.connectcre.com/stories/fengate-mavrek-break-ground-on-380-unit-mixed-use-residential-development-in-chicago/",
+      "excerpt": "Fengate Asset Management and Mavrek Development recently celebrated the groundbreaking of Julep West Loop, a new 25-story mixed-use residential development in Chicago’s West Loop neighborhood. The development will deliver 380 residential units, including 76 affordable units, alongside more than 21,500 square feet of commercial space, anchored by an international grocery store. Located between Fulton Market, the Chicago Loop and the Illinois Medical District, Julep West Loop will offer residents convenient access to major employment centers, transit connections and established retail, dining and entertainment amenities. Skender is serving as the general contractor and will lead construction on the project. Construction is expected to take approximately 21 months, with first occupancy anticipated in early 2028. &#8220;With demand for housing in Chicago continuing to outpace supply, now is the time to advance well-located, mixed-use communities that connect residents to jobs, transit and amenities,&#8221; said Alexander Glassman, Managing Director, U.S. Investments, Real Estate, Fengate Asset Management. Stay ahead of the multifamily market at Connect Apartments. Gain firsthand insights from industry leaders on capital markets, development, operations, financing, and investment trends while expanding your network with the people making deals happen. See you on September 22! The post Fengate, Mavrek Break Ground on 380-Unit Mixed-Use Residential Development in Chicago appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-09-11T16:40:23+00:00",
+      "bullets": [
+        "Fengate/Mavrek break ground on 380-unit, 25-story mixed-use residential in Chicago West Loop.",
+        "Development includes 76 affordable units, 21,500 SF commercial anchored by international grocery.",
+        "Construction 21 months; first occupancy early 2028; located near Fulton Market, Loop, Medical District."
+      ],
+      "summary": "Fengate Asset Management and Mavrek Development began construction on Julep West Loop, a 25-story, 380-unit mixed-use residential development in Chicago's West Loop neighborhood. The project includes 76 affordable units and 21,500 square feet of commercial space anchored by an international grocery store. Located between Fulton Market, the Chicago Loop, and the Illinois Medical District, the project is expected to deliver in early 2028 with approximately 21 months of construction led by general contractor Skender.",
+      "impact": "Strong supply-constrained Chicago market supporting 380-unit delivery signals robust multifamily demand and confidence among top-tier sponsors. West Loop site selection near employment centers (Loop, Medical District) and transit validates transit-oriented development thesis. Developers should monitor Chicago absorption and rental-rate growth post-delivery; if rents remain strong, expect additional groundbreakings in West Loop and nearby North Loop submarkets in 2026–2027, potentially escalating land and labor costs."
+    },
+    {
+      "title": "Evergreen Devco Moving Ahead on Denver-Area Mixed-Use Community",
+      "link": "https://www.connectcre.com/stories/evergreen-devco-moving-ahead-on-denver-area-mixed-use-community/",
+      "excerpt": "Evergreen Devco is building apartments, a senior living facility and retail in Thornton, just outside Denver. Creekside Gardens will span 26 acres at the southwest corner of East 104th Avenue and Washington Street. The Denver Business Journal reports the 250-unit multifamily development will sit on approximately 9.75 acres toward the center of the 26-acre site. It will include seven three-story multifamily and mixed-use buildings, along with four two-story carriage unit buildings. The apartments will feature a mix of one- and two-bedroom units. The center of the site will include a one-story clubhouse with a pool and fitness center. The apartments will include some ground-floor commercial space. Directly east of the apartments, there are 4 acres that are dedicated to an active senior living complex that is being built by Ryan Companies. The five-story building is anticipated to include 166 units. The post Evergreen Devco Moving Ahead on Denver-Area Mixed-Use Community appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-09-11T16:35:36+00:00",
+      "bullets": [
+        "Evergreen Devco building Creekside Gardens: 250-unit multifamily + 166-unit senior living in Thornton, CO.",
+        "26-acre site at E. 104th Ave. and Washington St.; apartments on 9.75 acres.",
+        "Senior living by Ryan Companies; mixed one/two-bedroom units, ground-floor retail, clubhouse with pool."
+      ],
+      "summary": "Evergreen Devco is developing Creekside Gardens, a 26-acre mixed-use community in Thornton, Colorado (southwest of Denver) comprising 250 multifamily units on 9.75 acres across seven three-story and four two-story buildings, plus a 166-unit senior living facility by Ryan Companies on 4 acres. The site includes a clubhouse, pool, fitness center, and ground-floor commercial space. Units mix one- and two-bedroom floor plans targeting both renters and active seniors.",
+      "impact": "Large, integrated senior + multifamily development on Denver metro periphery signals developer bet on aging-in-place demand and suburban diversification. Colorado's robust population growth and limited age-restricted supply make senior-plus-multifamily hybrids attractive. Monitor Thornton absorption and rental trends; if successful, expect similar senior-multifamily combinations in Colorado Springs, Fort Collins, and other mountain West markets, increasing land costs and construction sequencing complexity for traditional multifamily developers."
+    },
+    {
+      "title": "San Antonio Agrees to Spend $60M on Spurs Arena Site",
+      "link": "https://www.connectcre.com/stories/san-antonio-agrees-to-spend-60m-on-spurs-arena-site/",
+      "excerpt": "The San Antonio City Council voted to allocate $60 million toward purchasing a site for a new San Antonio Spurs arena. $115 million is needed to buy all of the land for the sports complex. The land is the former site of the Institute of Texan Cultures at Hemisfair. The deal is expected to close by the end of the year. The Spurs are planning to build a 17,000- to 18,000-seat arena in Downtown San Antonio, Texas, which will be ready in time for the 2030-31 NBA season. Mortenson and Bartlett Cocke will work together to lead construction management for the new Spurs arena, combining Mortenson’s national sports and entertainment expertise with Bartlett Cocke’s more than six decades of experience building in San Antonio and across Texas. Mortenson&#8217;s recently completed and in-progress projects include Chase Center (Golden State Warriors), Allegiant Stadium (Las Vegas Raiders), Energizer Park (St. Louis CITY SC), Climate Pledge Arena (Seattle Kraken), U.S. Bank Stadium (Minnesota Vikings), Continental Coliseum (Oklahoma City Thunder) and Athletics Ballpark (Las Vegas Athletics). The post San Antonio Agrees to Spend $60M on Spurs Arena Site appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-09-11T16:00:38+00:00",
+      "bullets": [
+        "San Antonio allocates $60M (of $115M needed) to acquire Hemisfair Institute land for Spurs arena.",
+        "17,000–18,000-seat arena targeted for 2030–31 NBA season; land deal to close end of 2025.",
+        "Mortenson and Bartlett Cocke leading construction; Mortenson has completed Chase, Allegiant, Climate Pledge arenas."
+      ],
+      "summary": "San Antonio City Council voted to allocate $60 million toward a $115 million land purchase for a new San Antonio Spurs arena at the former Institute of Texan Cultures site at Hemisfair. The project targets a 17,000- to 18,000-seat arena ready for the 2030–31 NBA season, with land acquisition expected to close by year-end 2025. Mortenson and Bartlett Cocke will lead construction management, leveraging expertise in sports venues.",
+      "impact": "Major arena anchoring Downtown San Antonio real estate catalyst through 2030–31; public capital commitment ($60M+) signals city prioritization and likely follow-on infrastructure spending (parking, transit, streetscape). Multifamily developers should acquire land/entitlements in Downtown San Antonio and adjacent neighborhoods (Southtown, River North) immediately, as proximity to arena will drive rents and valuations 12–24 months pre-opening. Expect commercial rents to spike and construction costs to inflate in the core as arena financing and construction proceed."
+    },
     {
       "title": "Municipal Credit Union Signs 6K-SF Lease for New Branch at 162-15 Jamaica Avenue",
       "link": "https://commercialobserver.com/2026/09/municipal-credit-union-lease-162-15-jamaica-avenue/",
@@ -32,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-09-11T15:26:00+00:00",
       "bullets": [
-        "Municipal Credit Union signed 15-year, 6K-SF lease at 162-15 Jamaica Avenue, Queens.",
-        "Ground-floor asking rent exceeded $100/SF in Jamaica's business district.",
-        "Retail anchors (plasma center, Cold Stone) recently leased adjacent spaces in building."
+        "Municipal Credit Union leases 6,000 SF at 162-15 Jamaica Ave., Queens ground floor for 15 years.",
+        "Asking rent >$100/SF; Jamaica business district anchored by MCU, Olgam Life plasma center, Cold Stone.",
+        "MCU serves only NYC residents; expansion signals credit union confidence in Queens retail/population base."
       ],
-      "summary": "A not-for-profit credit union catering to NYC residents leased 6,000 SF on the ground floor of 162-15 Jamaica Avenue in Jamaica, Queens, for 15 years at over $100/SF. The transaction signals sustained retail demand and tenant confidence in the Jamaica corridor, with complementary tenants (donation center, ice cream) recently securing space in the same building. The lease demonstrates stability in neighborhood-serving retail despite broader office and retail headwinds.",
-      "impact": "Minimal direct impact on multifamily development. However, retail stabilization and ground-floor activation in Jamaica, Queens can support mixed-use and transit-oriented multifamily projects in the submarket by improving pedestrian appeal and neighborhood amenities, which support rents and absorption."
+      "summary": "Municipal Credit Union, a not-for-profit credit union serving only New York City residents, signed a 15-year lease for approximately 6,000 square feet at 162-15 Jamaica Avenue in Jamaica, Queens. Asking rent exceeded $100 per square foot for the ground-floor space in Jamaica's business district. Adjacent tenants include an Olgam Life plasma donation center and Cold Stone Creamery, indicating active retail leasing and neighborhood demand.",
+      "impact": "Minimal direct multifamily impact. However, MCU's flagship Jamaica branch expansion and $100+/SF retail rents signal rising Jamaica commercial values and institutional confidence in the neighborhood's customer base. Developers should monitor Jamaica retail rents and pedestrian traffic as indicators of residential demand uptick; if retail rents stabilize above $90/SF, multifamily site values and construction feasibility in Jamaica will strengthen significantly."
     },
     {
       "title": "Multifamily Developer LCOR Buys Taconic’s UES Life Sciences Site for $73M",
@@ -47,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-09-11T15:20:47+00:00",
       "bullets": [
-        "LCOR acquired 87K-SF UES site (309 E. 94th St.) from Taconic for $73M, slight premium over 2021 basis.",
-        "Taconic abandoned planned 200K-SF Class A life sciences project (Iron Horse Labs); $79M Ares construction loan likely abandoned.",
-        "LCOR plans multifamily redevelopment; East Coast developer expanding into South Florida residential."
+        "LCOR purchases Taconic's Upper East Side life sciences site (309 E. 94th St.) for $73M.",
+        "87,000-SF assemblage; Taconic's planned 200,000-SF Class A research lab (Iron Horse Labs) abandoned.",
+        "LCOR, multifamily developer, repositioning for residential; $79M Ares construction loan remains outstanding."
       ],
-      "summary": "LCOR, an East Coast multifamily developer, purchased a 87,000-SF assemblage on the Upper East Side from Taconic Partners for $73 million. Taconic had acquired the site in late 2021 with plans to develop Iron Horse Labs, a 200,000-SF research facility targeting Rockefeller University, Mount Sinai, and NYC Health + Hospitals as tenants. LCOR's purchase signals an exit from life sciences development in Manhattan and a pivot back to multifamily, likely reflecting softness in lab/research demand and developer confidence in residential returns on the UES.",
-      "impact": "LCOR's move into the UES with multifamily signals apartment developers are acquiring and repositioning sites previously earmarked for life sciences, reflecting weaker lab demand post-COVID and persistent residential strength on Manhattan's Upper East Side. This creates supply-side relief for existing multifamily assets and validates continued multifamily underwriting in prestige submarkets, even as alternative-use projects stall."
+      "summary": "Multifamily developer LCOR has acquired 309 East 94th Street on Manhattan's Upper East Side for $73 million, a slight premium on Taconic Partners' $70 million purchase in December 2021. The 87,000-square-foot assemblage was originally planned as Iron Horse Labs, a 200,000-square-foot Class A research facility designed to capitalize on proximity to Rockefeller University, Mount Sinai, and NYC Health + Hospitals. Taconic's original joint venture partners included Elevate Research Properties, Nuveen Real Estate, and Flatiron Equities; a $79 million Ares construction loan was issued in 2022 but the project was shelved.",
+      "impact": "Flight from speculative life sciences development to residential repositioning signals weakening demand for trophy research lab space and capital redeployment toward housing. The $79M Ares construction loan likely remains on Taconic's balance sheet; LCOR's conversion to multifamily will require new financing and may trigger loan restructuring. Monitor other stalled Manhattan life sciences projects (Kendall Square, Hudson Yards) for similar pivots. Multifamily developers should view Manhattan's Upper East Side life sciences assemblages as acquisition opportunities; proximity to major medical anchors and transit will support residential absorption and premium rents."
     },
     {
       "title": "CRE Finance Council Names Paul Vanderslice New CEO",
@@ -62,117 +167,12 @@
       "cat": "Commercial",
       "date": "2026-09-11T15:00:46+00:00",
       "bullets": [
-        "Paul Vanderslice, BMO CMBS platform lead for 6 years, becomes CRE Finance Council CEO Sept. 30.",
-        "Vanderslice replacing Lisa Pendergast after 10-year tenure; brings 30-year CREFC membership and banking pedigree.",
-        "Leadership change at key CRE finance trade body as market navigates SOFR transition and capital conditions."
+        "Paul Vanderslice (BMO CMBS, 6 years) named CRE Finance Council CEO effective Sept. 30, 2025.",
+        "Vanderslice succeeds Lisa Pendergast (10 years); brings CREFC board/exec committee experience since 1990s.",
+        "Prior roles at CCRE, Citigroup; BMO departure effective Sept. 29; industry leadership focus."
       ],
-      "summary": "The CRE Finance Council appointed Paul Vanderslice, former head of BMO's commercial mortgage-backed securities platform, as president and CEO effective September 30, replacing Lisa Pendergast. Vanderslice brings nearly three decades of CREFC membership and prior senior roles at CCRE and Citigroup. His appointment reflects the organization's commitment to deep industry expertise during a period of shifting capital markets and financing structures.",
-      "impact": "Organizational leadership shifts at CREFC have limited direct bearing on development feasibility, but Vanderslice's deep CMBS platform experience may signal the council's focus on CMBS market stabilization and capital availability—key factors for multifamily bridge and permanent financing. Monitor for CREFC advocacy on rate/spread environment and credit availability, which directly affect development underwriting and exit strategies."
-    },
-    {
-      "title": "Harbor Fitness to Open 20K-SF Club at 3460 Nostrand Avenue in South Brooklyn",
-      "link": "https://commercialobserver.com/2026/09/harbor-fitness-lease-3460-nostrand-avenue-brooklyn/",
-      "excerpt": "Harbor Fitness has signed a lease for its eighth location in Brooklyn, Commercial Observer has learned. The Brooklyn-based fitness brand signed a 25-year, 20,000-square-foot lease at Gaama Partners’ 3460 Nostrand Avenue, according to broker Augenbaum Realty. The space was divided evenly between the first floor and the lower level of the property in Sheepshead Bay, Brooklyn. Asking rent for the space was $40 per square foot, according to the brokerage. Josh Augenbaum of Augenbaum Realty represented both the landlord and tenant in the deal. “This will service the Sheepshead Bay community fully with state-of-the-art equipment and knowledgeable staff like all Harbor Fitness locations have,” Augenbaum said in a statement. Augenbaum has worked with Harbor Fitness before, helping the brand establish its 26,000-square-foot sixth location at 943 Kings Highway in Midwood, Brooklyn, in 2021. He said the relationship began with a cold call. Harbor Fitness&#8217; newest Sheepshead Bay club will also feature a 6,000-square-foot outdoor space. The fitness brand did not immediately respond to a request for comment. The single-story property at 3460 Nostrand Avenue was previously owned and occupied by children’s ​​clothing, toys and accessories retailer S&amp;D Kids, which has a remaining location at 1480 Rockaway Parkway in Canarsie. The building was listed for sale in early August 2025. Gaama Partners, which shares a mailing address with Augenbaum Realty, bought it for $5.1 million on Sept. 1 of this year, according to property records. The Harbor Fitness lease was also signed Sept. 1, according to Augenbaum Realty. Mark Hallum can be reached at mhallum@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-09-11T14:30:56+00:00",
-      "bullets": [
-        "Harbor Fitness signed 25-year, 20K-SF lease (8th Brooklyn location) at 3460 Nostrand Ave, Sheepshead Bay.",
-        "Asking rent $40/SF; space split evenly between ground floor and lower level; includes 6K-SF outdoor amenity.",
-        "Brooklyn fitness operator expanding locally (6th location opened Kings Highway in 2021); demonstrates fitness-anchor demand stability."
-      ],
-      "summary": "Harbor Fitness, a Brooklyn-based fitness brand, leased 20,000 SF across two levels at 3460 Nostrand Avenue in Sheepshead Bay for 25 years at $40/SF. The space features a 6,000-SF outdoor area. This is Harbor Fitness's eighth Brooklyn location and reflects sustained demand for fitness anchors in outer-borough neighborhoods. The operator previously established its sixth location at 943 Kings Highway (Midwood) in 2021.",
-      "impact": "Fitness-anchor confidence in outer-borough commercial corridors (Sheepshead Bay, Midwood) can support mixed-use and multifamily projects that benefit from ground-floor retail activation and neighborhood amenity density. Long-term fitness leases at $40/SF signal landlord/investor appetite for well-located neighborhood retail, reducing vacancy risk for multifamily podium or ground-floor retail components in similar Brooklyn submarkets."
-    },
-    {
-      "title": "Data Center Supplier to Spend $1B on Charlotte-Area Factory Expansion",
-      "link": "https://www.connectcre.com/stories/data-center-supplier-to-spend-1b-on-charlotte-area-factory-expansion/",
-      "excerpt": "Prysmian North America, a leading provider of solutions for energy and digital connections, is spending over $1 billion on its factory expansion in Catawba County. The 900,000-square-foot addition to the Claremont facility will create more than 385 new jobs. Claremont is 15 miles from Charlotte. The expansion, which includes a new glass manufacturing facility, additional cable production capacity, and an expanded research and development center, is expected to be complete by 2030. Prysmian, the Milan-headquartered parent company of Prysmian North America, is the world&#8217;s largest manufacturer of cables and systems for energy and telecommunications. The plant produces the fiber-optic cable that underpins broadband expansion, 5G and 6G networks, and the high-capacity digital infrastructure driving nationwide demand for connectivity. The company is a key supplier to the data center industry. The post Data Center Supplier to Spend $1B on Charlotte-Area Factory Expansion appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-09-11T14:23:11+00:00",
-      "bullets": [
-        "Prysmian North America investing $1B+ in 900K-SF factory expansion, Claremont, NC (Catawba County, 15 miles south of Charlotte).",
-        "Expansion adds 385+ jobs; includes glass manufacturing, cable production, R&D; completion by 2030.",
-        "Prysmian supplies fiber-optic cable for broadband, 5G/6G, and data center infrastructure; major supply-chain play for digital connectivity."
-      ],
-      "summary": "Prysmian North America, world's largest cable and energy systems manufacturer, is committing over $1 billion to expand its Claremont, North Carolina facility (15 miles from Charlotte) by 900,000 SF. The expansion will create 385+ new jobs and include glass manufacturing, additional cable production capacity, and an expanded R&D center, with completion targeted for 2030. Prysmian is a key supplier of fiber-optic cable underpinning broadband, 5G/6G, and data center buildouts.",
-      "impact": "Major employer expansion 15 miles south of Charlotte signals sustained industrial/manufacturing job growth in the Charlotte metro, driving in-migration demand for workforce housing. Multifamily developers should monitor absorption and rent trajectory in Charlotte and nearby submarkets (Concord, Kannapolis corridor) as manufacturing jobs and wages support middle-income apartment demand. This is a long-cycle signal (2030 completion), but positions developers to acquire/entitle projects in the Charlotte industrial corridor now."
-    },
-    {
-      "title": "Evolve Inks $70M Construction Loan for Palm Coast Apartments",
-      "link": "https://www.connectcre.com/stories/evolve-inks-70m-construction-loan-for-palm-coast-apartments/",
-      "excerpt": "Evolve Companies closed on a $70 million bridge and construction loan for a 352-unit multifamily development at 4800 US Hwy. 1 N. in Palm Coast, Florida. Northmarq’s West Palm Beach Debt + Equity team, led by Chris Hammel, arranged the loan on behalf of the borrower with Cross Harbor Capital Partners&#8217; involvement. The loan was non-recourse financing that recapitalized phase I’s construction loan and preferred equity and funds for phase II’s construction. Evolve Palm Coast features luxury one-, two-, and three-bedroom floor plans with private patios/ balconies. Community amenities include a pool with a lounge and outdoor kitchens, fire pits, a golf simulator, a co-working space, a full gym with a yoga studio, a dog park and a pet spa. Earlier this year, Northmarq and Cross Harbor also arranged construction financing for Evolve Companies’ Evolve Crossing, a Class A multifamily development in Burlington, North Carolina. The post Evolve Inks $70M Construction Loan for Palm Coast Apartments appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-09-11T14:00:46+00:00",
-      "bullets": [
-        "Evolve Companies closed $70M bridge and construction loan for 352-unit luxury multifamily, Palm Coast, FL (US Hwy 1 N).",
-        "Northmarq/Cross Harbor arranged non-recourse financing recapitalizing Phase I and funding Phase II construction.",
-        "Evolve Palm Coast: one-, two-, three-bed units with premium amenities (pool, golf sim, co-working, dog spa, yoga)."
-      ],
-      "summary": "Evolve Companies secured a $70 million bridge and construction loan for Evolve Palm Coast, a 352-unit luxury multifamily development at 4800 US Highway 1 North in Palm Coast, Florida. The Northmarq/Cross Harbor non-recourse financing recapitalized Phase I's existing construction loan and preferred equity and funds Phase II construction. The project features premium one-, two-, and three-bedroom units with extensive amenities including pool, golf simulator, co-working space, gym, yoga studio, dog park, and pet spa.",
-      "impact": "Lender appetite for multifamily construction financing in Palm Coast and Florida's I-95 corridor remains strong, signaling investor confidence in leisure/retiree and workforce housing demand. Palm Coast's growth (population influx, job availability) supports mid-market multifamily fundamentals; developers should monitor Phase II absorption and rent trajectory to gauge feasibility of additional projects in the coastal Florida market."
-    },
-    {
-      "title": "Investor Group Picks Up 192K-SF Sandy Springs Office Park",
-      "link": "https://www.connectcre.com/stories/investor-group-picks-up-192k-sf-sandy-springs-office-park/",
-      "excerpt": "Ardent Properties traded the Century Springs Office Park in Sandy Springs for $20.75 million. The 192,247-square-foot, two-building infill office property is in the Central Perimeter submarket Newmark Capital Markets Jay O’Meara, Justin Parsonnet and Ryan Reethof represented the The Ardent Companies in the transaction. A partnership between OA Development and Buligo Capital Partners acquired the property. Ardent acquired the asset in 2014. Century Springs marks OA’s fourth recent office acquisition, increasing their portfolio to more than 2 million square feet. Century Springs consists of two mid-rise office buildings and has maintained average occupancy above 90% over the past decade. The asset is poised to benefit from the completion of the neighboring Hillcrest mixed-use development, and walkability to City Springs, Parkside Shops, and other surrounding amenities. The post Investor Group Picks Up 192K-SF Sandy Springs Office Park appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-09-11T13:42:37+00:00",
-      "bullets": [
-        "OA Development and Buligo Capital acquired Century Springs Office Park, Sandy Springs, for $20.75M (192K SF, 2 buildings).",
-        "Ardent Properties held asset since 2014; maintained >90% occupancy over past decade in Central Perimeter submarket.",
-        "OA's fourth recent office acquisition; portfolio now exceeds 2M SF; asset positioned to benefit from neighboring Hillcrest mixed-use development."
-      ],
-      "summary": "A partnership between OA Development and Buligo Capital Partners acquired Century Springs Office Park in Sandy Springs for $20.75 million. The 192,247-SF, two-building infill office property in the Central Perimeter submarket was held by Ardent Properties since 2014 and maintained average occupancy above 90%. The acquisition marks OA's fourth recent office deal, bringing their portfolio to over 2 million SF. The asset is positioned to benefit from the nearby Hillcrest mixed-use development.",
-      "impact": "Minimal direct impact on multifamily development. However, OA's aggressive office acquisition strategy in Central Perimeter/Sandy Springs and portfolio scale (2M+ SF) may indicate confidence in Atlanta's office-to-residential conversion potential or submarket stabilization. Monitor for conversion/redevelopment signals from OA or similar developers, which could compress office cap rates and limit multifamily land availability in high-barrier Central Perimeter submarkets."
-    },
-    {
-      "title": "Consumer Prices Rise 0.4% in August as Gasoline Costs Accelerate",
-      "link": "https://www.connectcre.com/stories/consumer-prices-rise-0-4-in-august-as-gasoline-costs-accelerate/",
-      "excerpt": "U.S. consumer prices rose 0.4% in August, accelerating from a 0.1% gain in July as gasoline and other energy costs lifted household expenses, the Labor Department reported Friday. The Consumer Price Index increased 3.4% over the 12 months through August, matching July’s annual pace. Excluding volatile food and energy components, core CPI rose 0.3% for the month, following a 0.2% increase in July. Core prices were up 2.4% from a year earlier, easing from a 2.5% annual increase in July. Gasoline was the largest contributor to the August increase. The gasoline index climbed 3.9%, accounting for more than one-third of the monthly advance in the overall CPI. The broader energy index rose 2.1% during the month. Over the past year, energy prices increased 16.3%, largely reflecting a 27.4% increase in gasoline prices. The sharp rise in fuel costs has been a principal source of renewed headline inflation pressure, even as the underlying inflation rate has moderated. Shelter costs, a closely watched category because of their large weight in the CPI, rose 0.3% after a 0.1% increase in July. Food prices increased 0.1%, with food away from home rising 0.3%. Other categories recording monthly gains included communication, lodging away from home, airline fares, education, and used cars and trucks. The post Consumer Prices Rise 0.4% in August as Gasoline Costs Accelerate appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-09-11T13:03:19+00:00",
-      "bullets": [
-        "U.S. Consumer Price Index rose 0.4% in August, 3.4% year-over-year; core CPI +0.3% monthly, +2.4% annually.",
-        "Gasoline index climbed 3.9% (largest contributor); broader energy up 2.1%; 12-month energy prices up 16.3%.",
-        "Shelter costs rose 0.3% monthly; food away from home +0.3%; inflation moderating but energy-driven volatility persists."
-      ],
-      "summary": "U.S. consumer prices rose 0.4% in August (3.4% year-over-year), accelerating from 0.1% in July, driven primarily by a 3.9% surge in gasoline prices, which accounted for more than one-third of the monthly CPI advance. Core inflation (excluding food and energy) rose 0.3% monthly and 2.4% annually, easing from 2.5% a year earlier. Shelter costs, a key housing-related metric, increased 0.3% after a 0.1% gain in July.",
-      "impact": "Rising energy and shelter costs support housing inflation narrative and may constrain renter purchasing power and multihousing demand in price-sensitive markets. However, moderating core inflation (2.4% YoY) and near-target trend suggest Federal Reserve may pause or cut rates in coming quarters, potentially lowering multifamily financing costs and improving development feasibility. Monitor shelter cost acceleration—if sustained, could pressure rent growth assumptions and occupancy in middle-income/workforce housing segments."
-    },
-    {
-      "title": "Report: Tariffs Won’t Impact Every U.S. Market in the Same Way",
-      "link": "https://www.connectcre.com/stories/report-tariffs-wont-impact-every-u-s-market-in-the-same-way/",
-      "excerpt": "Tariff discussions between Canada and the United States have been fractious, to say the least. As of this writing, Canada has issued retaliatory tariffs totaling more than $20 billion on U.S. imports in response to Section 338 tariffs on Canadian goods that were formerly tariff-free under CUSMA. While exposure remains a concern, Cushman &amp; Wakefield said it is uneven across the United States. In its recently released report, “The Scale of It All: Updates on the Most Recent U.S.-Canada Tariffs,” Cushman &amp; Wakefield measured the location quotient (LQ) of tariff-weighted bilateral imports based on their composition versus overall import volume. The result? “States like Maryland, Kentucky, Texas and Michigan have tariff-related exposures well above the North American average,” the report said. The reason is that the states’ import mix relies on heavily tariffed products, including automotive and vehicle parts in Michigan and Texas and aluminum products in Kentucky and Maryland. However, that exposure isn’t necessarily weighing down the states’ economies. Trade accounts for 0.6% of Maryland’s gross domestic product and 1.5% of Texas’ GDP. At the same time, “many Canadian provinces have lower tariff-weighted exposure, but trade with the U.S. represents a much larger share of their economies,” according to the report. What It Means for CRE The uneven exposure could have several implications for commercial real estate. More 3PL demand. Third-party logistics companies could experience increased volume as retailers, wholesalers and manufacturers respond to tariffs with just-in-case (JIC) strategies designed to create inventory buffers. Bonded warehouse demand. Companies could rely on bonded warehouse strategies to delay tariff payments, even as available bonded warehouse space has been limited since last year. More onshoring. U.S. onshoring, as well as Mexico’s appeal, could accelerate as companies seek substitutes for Canadian-sourced production, particularly in the a",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-09-11T05:01:00+00:00",
-      "bullets": [
-        "Canada issued $20B+ in retaliatory tariffs on U.S. imports; exposure uneven across states.",
-        "States with high tariff exposure: Maryland, Kentucky, Texas, Michigan (automotive, aluminum, vehicle parts heavily tariffed).",
-        "Trade represents only 0.6% of Maryland GDP and 1.5% of Texas GDP; tariff drag limited relative to total economic output."
-      ],
-      "summary": "Cushman & Wakefield's tariff exposure analysis found that Canada's retaliatory tariffs (exceeding $20 billion in response to Section 338 tariffs) disproportionately affect states with import-heavy compositions in tariffed products. Maryland, Kentucky, Texas, and Michigan face above-average tariff-related exposure due to reliance on automotive, vehicle parts, and aluminum imports. However, trade accounts for only 0.6% of Maryland's GDP and 1.5% of Texas' GDP, limiting the economy-wide drag.",
-      "impact": "Tariff-induced cost pressures could elevate construction material and labor costs (particularly in auto/supply-chain-dependent regions like Michigan and Texas) by increasing input expenses for building materials, equipment, and services. However, modest trade GDP contribution in most states suggests tariff impact on multifamily development feasibility will be marginal absent escalation. Monitor labor cost inflation and material availability in tariff-exposed regions; consider pricing escalation clauses in longer-term construction contracts in Michigan, Texas, and Maryland markets."
-    },
-    {
-      "title": "Watermark Capital Moves Forward With School-to-Resi Conversion in Crown Heights",
-      "link": "https://commercialobserver.com/2026/09/560-sterling-place-conversion-crown-heights-watermark/",
-      "excerpt": "The 42-unit residential conversion of a former Roman Catholic school at 560 Sterling Place in Crown Heights, Brooklyn, is well underway. Watermark Capital Group’s redevelopment project at the corner of Classon Avenue and Sterling Place is going ahead at a former school campus owned by its neighbor, St. Teresa of Avila Roman Catholic Church. Site plans addressed to 783 Classon Avenue, which shares a tax lot with 560 Sterling Place, were filed Thursday with New York City’s Department of Buildings. The filing details the vertical expansion of an existing building to include a 42,181-square-foot residence and a 57,449-square-foot community facility. Signatories for the recent permits tie ownership to the Catholic Church and Watermark. Watermark, through the entity 560 Sterling, previously obtained the site’s ground lease from St. Teresa of Avila, according to a memorandum of lease filed Tuesday. The document references an initial lease signed in April 2024 and later modified in June 2025. The Tuesday filing coincided with a $16.48 million construction loan for the leasehold provided to Watermark’s project by California-based lender Genesis Capital. Wolfe Landau, a founding partner at Watermark, signed for the developer on the memorandum of lease and the loan agreement. The developer’s office did not respond to requests for comment. St. Teresa of Avila’s former school campus, which spans Classon Avenue between Sterling Place and St. Johns Place was once home to Brooklyn Jesuit Prep Middle School. The school relocated to East Flatbush in 2020. The remaining campus buildings are now leased to the New York State Court Officers Academy, which lists its offices at 541 St. Johns Place. St. Teresa of Avila leaders announced in June 2025 that its own church at 563 Sterling Place would be closing its doors, citing financial strain, declining participation and a deferred, multimillion-dollar repair bill. The decision was reversed late last year, but leaders acknowledged ongoing ch",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-09-10T21:18:01+00:00",
-      "bullets": [
-        "Watermark Capital converting 42-unit residential project from former school, 560 Sterling Place, Crown Heights, Brooklyn.",
-        "DOB site plans filed (783 Classon Ave, shared tax lot); 42.2K SF residential, 57.4K SF community facility.",
-        "$16.48M construction loan secured on leasehold; ground lease from St. Teresa of Avila Church (MOL filed Apr. 2024, modified June 2025)."
-      ],
-      "summary": "Watermark Capital Group is advancing a 42-unit residential conversion of a former Roman Catholic school at 560 Sterling Place in Crown Heights, Brooklyn (corner of Classon Avenue and Sterling Place). DOB site plans filed Thursday detail vertical expansion: 42,181 SF of residential space and 57,449 SF of community facility. Watermark secured a $16.48 million construction loan on a ground lease obtained from St. Teresa of Avila Church; the lease was originally executed in April 2024 and modified in June 2025.",
-      "impact": "Adaptive reuse of institutional/school assets in Brooklyn reflects sustained multifamily value creation in gentrifying submarkets (Crown Heights) despite higher basis from ground leases and community facility requirements. This project signals developer confidence in Brooklyn apartment demand and willingness to navigate complex leasehold structures and community benefit arrangements. Monitor similar school/institutional conversion opportunities in Brooklyn and NYC—they represent alternative acquisition paths in constrained land markets but require sophisticated lease/community negotiation expertise and longer development timelines."
+      "summary": "The CRE Finance Council announced Paul Vanderslice as its new president and CEO, effective September 30, 2025, succeeding Lisa Pendergast who retired in August after 10 years. Vanderslice spent six years leading BMO's commercial mortgage-backed securities platform and held prior senior CRE finance roles at CCRE and Citigroup. He has been a CREFC member for nearly three decades and previously chaired both the executive committee and board of governors (2012–2013).",
+      "impact": "Minimal direct multifamily impact. However, Vanderslice's CMBS expertise and industry connectivity signal CREFC's continued focus on CRE capital markets and debt structures. Multifamily developers relying on CMBS, bond issuance, or institutional debt should expect stable industry advocacy and potential evolution in financing standards as Vanderslice brings BMO's securitization best practices and risk frameworks to trade-group leadership."
     }
   ]
 }
