@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-16T19:13:55.752118+00:00",
+  "fetchedAt": "2026-09-16T22:30:22.747567+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -9,21 +9,111 @@
     },
     {
       "label": "10Y Treasury",
-      "value": "5.00%",
-      "pct": 0.08
+      "value": "5.01%",
+      "pct": 0.2
     },
     {
       "label": "30Y Treasury",
-      "value": "5.34%",
-      "pct": -0.39
+      "value": "5.35%",
+      "pct": -0.28
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "93.41",
-      "pct": -0.73
+      "value": "93.48",
+      "pct": -0.66
     }
   ],
   "stories": [
+    {
+      "title": "Private Investor Snags Brea Offices for $28M",
+      "link": "https://www.connectcre.com/stories/private-investor-snags-brea-offices-for-28m/",
+      "excerpt": "CBRE facilitated the $27.8-million sale of Fairway Center II, a 135,308-square-foot office property located at 675 Placentia Ave. in Brea. CBRE represented the institutional seller. The Whittier Comstock, LLC, a subsidiary of MW Investment, LLC and owned by Matt Waken, acquired the property. CBRE’s Anthony DeLorenzo with National Office Properties, along with Sammy Cemo, Bryan Johnson and Jackson Marlow, represented the seller. Shaun Moothart and Andrew Post of CBRE&#8217;s Debt &amp; Structured Finance practice secured the financing for the buyer. &#8220;Fairway Center II attracted significant interest amongst the investment and owner/user community alike,&#8221; said DeLorenzo. &#8220;We received multiple competitive offers from a variety of buyer profiles and awarded the property to a private investor within the first 30 days of marketing.&#8221; The property was 70.5% leased at the time of the sale. The property is anchored by the County of Orange, which occupies more than 61,000 square feet under a long-term lease. The post Private Investor Snags Brea Offices for $28M appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-09-16T21:39:54+00:00",
+      "bullets": [
+        "MW Investment acquires 135K SF Brea office for $27.8M at 70.5% occupancy.",
+        "County of Orange anchors property with 61K SF long-term lease.",
+        "Private investor beat multiple offers; office conversion signals limited multifamily relevance."
+      ],
+      "summary": "MW Investment's subsidiary purchased Fairway Center II, a 135,308-square-foot office property in Brea, California, for $27.8 million. The property was 70.5% leased at sale, anchored by the County of Orange occupying 61,000 square feet under a long-term lease. The transaction closed within 30 days of marketing, attracting competitive bids from multiple buyer profiles.",
+      "impact": "Minimal direct impact to multifamily. Office product in Orange County (OC) continues to trade at distressed cap rates, but the County's long-term occupancy insulates this asset from conversion risk—unlikely to become an adaptive reuse multifamily development in near term."
+    },
+    {
+      "title": "Vango Development Launches Leasing at Third Rutherford-Area Property",
+      "link": "https://www.connectcre.com/stories/vango-development-launches-leasing-at-third-rutherford-area-property/",
+      "excerpt": "Vango Development has launched leasing at Parker East, a new five-story luxury rental community bringing 86 residences, indoor and outdoor lifestyle amenities and convenient mass-transit access to 263 Hackensack St. in East Rutherford, NJ. Located 0.2 miles from the Rutherford NJ TRANSIT station, Parker East offers one- and two-bedroom residences priced from $3,250. Immediate occupancy is available. The Taylor Lucyk Group is serving as the community’s exclusive leasing agent. “Parker East reflects our continued commitment to creating high-quality residential communities in well-connected neighborhoods,” said Van Golemis, CEO of Vango Development. “The combination of spacious residences, a strong amenity offering and a location close to both transit and Rutherford’s downtown gives residents the convenience and connectivity they’re looking for today.” The property is the latest addition to Vango’s growing portfolio in the area, following the development and lease-up of Parker 106 and Parker 118 in neighboring Rutherford. The post Vango Development Launches Leasing at Third Rutherford-Area Property appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-09-16T21:33:17+00:00",
+      "bullets": [
+        "Vango Development launches Parker East: 86 units, East Rutherford, NJ, 0.2 mi from transit.",
+        "Rents from $3,250 for one/two-bedroom; immediate occupancy available.",
+        "Third Vango property in Rutherford; transit-proximate infill demonstrates strong NJ demand signal."
+      ],
+      "summary": "Vango Development has opened leasing at Parker East, a five-story luxury rental community with 86 residences in East Rutherford, New Jersey, located 0.2 miles from the Rutherford NJ TRANSIT station. One- and two-bedroom units are priced from $3,250 with immediate occupancy. This is Vango's third development in the Rutherford area, following Parker 106 and Parker 118.",
+      "impact": "Strong demand signal for transit-oriented multifamily in the Hudson County/NJ Transit corridor. Successful lease-up and expansion of Vango's Rutherford footprint validate the rent absorption and market receptivity for commuter housing near Manhattan access points—developers should prioritize similar transit nodes across North Jersey for mid-rise product."
+    },
+    {
+      "title": "...",
+      "link": "https://www.connectcre.com/stories/498497-2/",
+      "excerpt": "M&amp;T Realty Capital Corporation closed on a $31.9-million bridge loan for Estelle New Haven, a newly constructed 96-unit Class A multifamily community located at 19 Elm St. in downtown New Haven, CT. The financing will support the property&#8217;s continued lease-up and stabilization while refinancing existing construction debt. Developed by Eight West, an affiliate of The Hakimian Organization, Estelle New Haven is a seven-story mixed-use development featuring 96 residential units and approximately 1,500 square feet of ground-floor retail space. It&#8217;s located near Yale University and New Haven&#8217;s transit network. &#8220;Estelle reflects our long-term commitment to creating high-quality multifamily communities that contribute to the growth and vitality of the neighborhoods in which we invest,&#8221; said Jay Hakimian, principal of Eight West. &#8220;We are grateful for M&amp;T RCC’s support throughout the process and proud to deliver a community that will provide residents with an exceptional living experience while contributing to the continued revitalization of downtown New Haven.&#8221; The post ... appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-09-16T21:24:09+00:00",
+      "bullets": [
+        "M&T RCC closes $31.9M bridge loan for Estelle New Haven: 96-unit Class A downtown.",
+        "Eight West developed mixed-use project near Yale; bridge supports lease-up and stabilization.",
+        "Ground-floor retail and Yale proximity anchor demand in downtown revitalization play."
+      ],
+      "summary": "M&T Realty Capital Corporation closed a $31.9 million bridge loan for Estelle New Haven, a newly constructed 96-unit Class A multifamily community developed by Eight West (Hakimian Organization affiliate) at 19 Elm Street in downtown New Haven. The seven-story mixed-use development includes approximately 1,500 square feet of ground-floor retail and is located near Yale University and the city's transit network. The financing supports lease-up and stabilization while refinancing existing construction debt.",
+      "impact": "Bridge financing at scale signals ongoing investor confidence in Yale-anchored New Haven downtown revitalization. Strong institutional financing availability for Class A lease-up projects suggests cap rates and construction debt refinancing remain workable; developers should monitor downtown New Haven for additional infill and adaptive reuse opportunities tied to Yale expansion and transit connectivity."
+    },
+    {
+      "title": "Drawbridge Extends Full-Building Lease with Microsoft Unit in Santa Clara",
+      "link": "https://www.connectcre.com/stories/drawbridge-extends-full-building-lease-with-microsoft-unit-in-santa-clara/",
+      "excerpt": "Drawbridge Realty has extended a lease with Microsoft for the entire 66,106-square-foot Class A office building located at 3201 Scott Boulevard in Santa Clara. The property has been home to Fungible, Inc., which was acquired by Microsoft in 2023, since 2016. Drawbridge acquired 3201 Scott Boulevard in 2012 and subsequently completed a significant renovation of the property.&nbsp; “We’re delighted to be able to provide Microsoft with continuity and quality workspace at 3201 Scott Boulevard well into the next decade,” said Mike Embree, Chief Portfolio Officer, Drawbridge Realty.&nbsp;&nbsp; The two-story building sits on 3.5 acres at the intersection of Scott Boulevard and San Tomas Expressway.&nbsp;Jeff Cushman and Walt Stephenson of Cushman &amp; Wakefield represented Drawbridge Realty in lease renewal negotiations. Alex Lagemann of JLL represented Microsoft. The post Drawbridge Extends Full-Building Lease with Microsoft Unit in Santa Clara appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-09-16T21:18:48+00:00",
+      "bullets": [
+        "Microsoft extends full-building lease at 3201 Scott Blvd, Santa Clara: 66,106 SF office.",
+        "Building formerly home to Fungible, Inc., acquired by Microsoft in 2023.",
+        "Tech firm commitment validates Santa Clara market resilience despite broader Bay Area softness."
+      ],
+      "summary": "Drawbridge Realty extended a lease with Microsoft for the entire 66,106-square-foot Class A office building at 3201 Scott Boulevard in Santa Clara, California. The property has housed Fungible, Inc. (acquired by Microsoft in 2023) since 2016. Drawbridge acquired the two-story building on 3.5 acres in 2012 and completed a significant renovation.",
+      "impact": "Minimal direct multifamily impact. However, Microsoft's full-building commitment signals durability of Santa Clara as a tech employment anchor and validates continued demand for Class A office near major transit. Developers in the Bay Area should monitor corporate consolidations—large tech M&A driving headcount and talent migration can create multifamily demand in satellite submarkets around major employers' HQs and R&D campuses."
+    },
+    {
+      "title": "Wonderful Real Estate Trades 1.1M-SF Industrial to Global Technology Company",
+      "link": "https://www.connectcre.com/stories/wonderful-real-estate-trades-1-1m-sf-industrial-to-global-technology-company/",
+      "excerpt": "The Wonderful Company announced that its Wonderful Real Estate business has completed the sale of 5104 Express Ave. to a major global technology and e-commerce company. The newly constructed 1,088,047-square-foot, Class A industrial facility is located at the Wonderful Logistics Center in Shafter and marks the buyer’s third location at the 2,000-acre, fully entitled, master-planned logistics and distribution campus, bringing its owned and leased footprint to more than three million square feet. “Global operators continue to choose Wonderful Logistics Center because we are a model within the state and the country that offers something fundamentally different,” said Joe Vargas, president of Wonderful Real Estate. “Nowhere else is there a master-planned logistics hub that brings together large-scale distribution, workforce and community development and the future of clean freight infrastructure. This buyer’s continued investment validates the strength of Wonderful Logistics Center as one of California’s leading models for responsible logistics and durable economic growth that benefits businesses, workers and communities alike.” In 2025, the buyer also partnered with Bakersfield College and The Wonderful Company to launch a 12-week Mechatronics &amp; Robotics Apprenticeship program for U.S. employees at the on-site Wonderful Career Center, providing hands-on, SACA-certified training to prepare employees for skilled technical roles and career advancement. To date, more than 100 student employees have graduated from the program and entered year-long apprenticeships before they transition into mid-level technical roles at the company. The post Wonderful Real Estate Trades 1.1M-SF Industrial to Global Technology Company appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-09-16T20:52:46+00:00",
+      "bullets": [
+        "Wonderful Real Estate sells 1.09M SF industrial in Shafter to global tech/e-commerce firm.",
+        "Buyer's third location at Wonderful Logistics Center; total footprint exceeds 3M SF.",
+        "Master-planned logistics campus anchors Kern County industrial demand; reflects supply-chain durability."
+      ],
+      "summary": "The Wonderful Company completed the sale of 5104 Express Avenue, a newly constructed 1,088,047-square-foot Class A industrial facility at the Wonderful Logistics Center in Shafter, California, to a major global technology and e-commerce company. This marks the buyer's third location at the 2,000-acre master-planned logistics hub, bringing its total footprint to more than three million square feet. The buyer is also partnering on a Mechatronics & Robotics Apprenticeship program with Bakersfield College.",
+      "impact": "Indirect signal for multifamily in Kern County. Large-scale industrial consolidation and workforce development initiatives at Wonderful Logistics Center will drive sustained job creation and population in-migration to Bakersfield/Shafter corridor. Developers should assess rental demand from logistics/distribution workforce (typically lower-income, family-oriented) in secondary markets around major master-planned industrial parks—opportunity to develop workforce housing products near job clusters."
+    },
+    {
+      "title": "CIBC Supplies $102M Refi for SkyREM Industrial Portfolio",
+      "link": "https://commercialobserver.com/2026/09/skyrem-refinance-industrial-portfolio-cibc-loan/",
+      "excerpt": "Real estate investment firm SkyREM has secured $101.8 million to refinance a 1.9 million-square-foot industrial portfolio across the East Coast, Commercial Observer has learned. CIBC provided the nonrecourse financing, which carries an initial three-year term with two one-year extension options. JLL Capital Markets’ Peter Rotchford, Steven Binswanger and Lucas Borges arranged the transaction on behalf of SkyREM. “This financing reflects the strength of the portfolio and gives us additional flexibility to continue investing in well-located industrial assets where we see compelling long-term value,” SkyREM CEO Alexander Dembitzer said in a statement. The industrial portfolio spans four properties and is 100 percent occupied by six tenants, according to JLL. The East Coast properties, located in Georgia, Florida, and South Carolina, serve a range of warehousing, manufacturing and e-commerce uses. SkyREM, which holds dual offices in New York City and Philadelphia, owns and operates 30 properties across a largely industrial U.S. portfolio, according to its website. The firm counts Lockheed Martin, FedEx, Amazon and Shein among its major tenants. SkyREM most recently acquired a 325,334-square-foot manufacturing facility in Casa Grand, Ariz., according to a January release. In early 2025, the firm secured a $170 million refinancing for a 10-building, 2.5 million-square-foot portfolio. That loan was provided by affiliates of Apollo, and was also arranged by JLL. Emily Davis can be reached at edavis@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-09-16T19:44:22+00:00",
+      "bullets": [
+        "CIBC provides $101.8M nonrecourse refi for SkyREM's 1.9M SF industrial portfolio.",
+        "Four properties across Georgia, Florida, South Carolina; 100% leased by six tenants.",
+        "Three-year term with two one-year extension options signals lender comfort with logistics assets."
+      ],
+      "summary": "SkyREM secured $101.8 million in nonrecourse financing from CIBC to refinance a 1.9 million-square-foot industrial portfolio across four properties in Georgia, Florida, and South Carolina. The portfolio is 100 percent occupied by six tenants serving warehousing, manufacturing, and e-commerce uses. The loan carries an initial three-year term with two one-year extension options. JLL Capital Markets arranged the transaction.",
+      "impact": "Refinancing signal of debt market strength for core industrial assets in Sunbelt logistics markets (GA, FL, SC). Availability of nonrecourse capital at scale validates supply-chain and distribution-driven demand durability. Multifamily developers should recognize that strong industrial fundamentals in these markets (occupancy, tenant credit) support broader economic confidence and population in-migration—time to underwrite multifamily in industrial-adjacent submarkets with workforce housing gaps."
+    },
     {
       "title": "As Fed Hikes Rates for First Time Since 2023, Commercial Real Estate Comes to Terms",
       "link": "https://commercialobserver.com/2026/09/fed-interest-rate-hike-kevin-warsh/",
@@ -32,12 +122,12 @@
       "cat": "Commercial",
       "date": "2026-09-16T18:39:41+00:00",
       "bullets": [
-        "Fed raises rates 25 bps to 3.75–4% Wednesday, first hike since July 2023.",
-        "16 of 18 FOMC members signal additional rate increase likely later in 2026.",
-        "CRE transaction activity expected to continue despite hawkish stance through H2 2026."
+        "Federal Reserve raises rates 25 bps to 3.75–4% range; first hike since July 2023.",
+        "16 of 18 FOMC participants signal support for additional 2026 rate increase.",
+        "Inflation cited as driver; market not expected to curtail CRE activity in H2 2026."
       ],
-      "summary": "The Federal Reserve raised its benchmark interest rate by a quarter point to 3.75–4% Wednesday, citing persistent inflation compounded by geopolitical tensions. The move marks the first rate increase in more than three years and breaks a streak of five consecutive holds. Fed guidance signals 16 of 18 policymakers expect at least one more quarter-point hike by year-end, with some projecting two additional moves in 2026. Despite the hawkish pivot, industry observers expect CRE dealmaking to remain active through the latter half of 2026.",
-      "impact": "Rate increases compress cap rates and raise borrowing costs, reducing property valuations and development feasibility across all multifamily markets. Rising rates particularly pressure bridge and mezzanine financing, forcing developers to lengthen holds or seek alternative capital structures. Watch for underwriting stress in secondary markets with weaker absorption and rent growth; primary coastal metros with strong job growth may absorb the shock more easily."
+      "summary": "The Federal Reserve raised interest rates by 25 basis points to between 3.75 and 4 percent in a unanimous 12-0 FOMC vote, marking the first hike since July 2023. Fed Chairman Kevin Warsh cited persistent inflationary pressures compounded by geopolitical factors. The dot plot matrix indicated that 16 of 18 FOMC participants support an additional rate hike later in 2026. Despite the hawkish move, commercial real estate transactions are not expected to slow in the latter half of 2026.",
+      "impact": "Rate-hike cycle inflection point: multifamily underwriting models and refinance assumptions must reset. Higher-for-longer rate regime will compress valuations, widen cap rates, and reduce leverage availability. Developers should frontload construction financing locks and recalibrate cost-of-capital assumptions in underwriting; acquisition windows may compress as cap rates widen and capital sources retreat to lower-risk assets. Expect acquisition cap rates to move 50–100 bps higher over next 6–12 months."
     },
     {
       "title": "Law Firm Greenberg Traurig Expands to 133K SF at One Vanderbilt",
@@ -47,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-09-16T18:39:19+00:00",
       "bullets": [
-        "Greenberg Traurig leases 33,477 SF additional space at One Vanderbilt, New York.",
-        "Expansion brings total law firm footprint to 133,365 SF; 10.5-year term secured.",
-        "Demonstrates trophy office tower strength despite broader Manhattan office sector headwinds."
+        "Greenberg Traurig expands to 133K SF at One Vanderbilt, Midtown NYC; 10.5-year lease.",
+        "Law firm takes additional 33,477 SF (entire 33rd floor); total now 133,365 SF.",
+        "High-profile tenant retention signals trophy office leasing strength despite macro softness."
       ],
-      "summary": "Law firm Greenberg Traurig has signed a 10.5-year lease expansion for 33,477 additional square feet at SL Green's One Vanderbilt, bringing its total footprint in the 1.7 million-square-foot tower to 133,365 square feet. The firm originally signed a 15-year lease for four contiguous floors in January 2018 before the building opened in 2020, relocating from the MetLife Building when its lease expired in 2021. Terms were not disclosed, though SL Green previously indicated rents in the building range in the mid-$80s to low-$90s per square foot.",
-      "impact": "Trophy asset leasing strength in Midtown Manhattan signals tenant confidence in premium office space and SL Green's ability to retain and expand high-credit tenants despite the broader Manhattan office crisis. This does not reflect broad office demand; rather, it reinforces a bifurcated market where Class A trophy towers in central business districts command premium rents while secondary stock struggles. For multifamily: strong office tenant retention in CBD submarkets supports underlying neighborhood vitality and renter job stability, particularly in Midtown South."
+      "summary": "Law firm Greenberg Traurig signed a 10.5-year lease for an additional 33,477 square feet—the entire 33rd floor—at SL Green Realty's One Vanderbilt, a 1.7 million-square-foot trophy office tower in Midtown Manhattan. The expansion brings Greenberg's total footprint in the building to 133,365 square feet. The firm originally signed a 15-year lease for four contiguous floors in January 2018 before the building's 2020 completion.",
+      "impact": "Minimal direct multifamily relevance. However, Greenberg's expansion at One Vanderbilt signals that Manhattan's trophy Class A office market for high-margin service firms (legal, finance) remains resilient and commands premium rents. This may slow adaptive-reuse conversion of Midtown office into multifamily; focus conversion efforts on secondary/tertiary office stock rather than Class A core. Monitor whether office lease expansion in Midtown correlates with compressed multifamily supply growth in Manhattan."
     },
     {
       "title": "In Pro-Development South Florida, NIMBYism Rises",
@@ -62,42 +152,12 @@
       "cat": "Commercial",
       "date": "2026-09-16T18:25:53+00:00",
       "bullets": [
-        "West Palm Beach, South Florida: 9 towers completed since 2019; 10+ under construction.",
-        "9 additional developments already approved; rising NIMBY opposition to high-rise residential.",
-        "Regional shift from decades of pro-development ethos due to growth concerns and historic preservation."
+        "West Palm Beach has completed 9+ towers since 2019; 10+ under construction.",
+        "NIMBYism rising in pro-development South Florida region; neighborhood resistance to density.",
+        "9 additional developments already approved; zoning and community pushback may slow delivery."
       ],
-      "summary": "South Florida, long a bastion of pro-development policy fueling condo booms, faces mounting NIMBYism as neighborhood opposition intensifies. Since 2019, West Palm Beach has completed at least nine high-rises, with more than 10 currently under construction in predominantly single-family residential areas and another nine approved projects in the pipeline. Long-time residents cite loss of waterfront charm, historic character, and neighborhood density as catalysts for organized opposition to further vertical development.",
-      "impact": "South Florida's pivot toward NIMBY resistance creates regulatory risk and entitlement delays for multifamily developers, particularly in West Palm Beach and secondary residential corridors. Zoning and approval friction will likely extend development timelines and increase pre-development costs, reducing feasibility for mid-market projects. Developers should prioritize parcels with existing zoning or approved entitlements; expect policy tightening on height, setbacks, and affordable housing mandates in response to community pushback. Strong demand fundamentals remain, but cost to entitle will rise materially."
-    },
-    {
-      "title": "Fed Raises Rates Quarter-Point, Signals Another Increase This Year",
-      "link": "https://www.connectcre.com/stories/fed-raises-rates-quarter-point-signals-another-increase-this-year/",
-      "excerpt": "The Federal Reserve raised interest rates by a quarter percentage point Wednesday, delivering its first increase since July 2023 as policymakers responded to renewed inflation pressures.&nbsp; The unanimous decision by all 12 voting members of the Federal Open Market Committee lifted the federal funds rate’s target range to 3.75% to 4%.&nbsp; Fed officials also signaled that&nbsp;additional&nbsp;tightening is likely. Eighteen of the 19 policymakers who&nbsp;submitted&nbsp;economic projections&nbsp;anticipated&nbsp;at least one more quarter-point increase by the end of the year. Four officials projected that rates would need to rise by another half percentage point in 2026, implying two&nbsp;additional&nbsp;quarter-point moves. The post Fed Raises Rates Quarter-Point, Signals Another Increase This Year appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-09-16T18:12:44+00:00",
-      "bullets": [
-        "Federal Open Market Committee votes unanimously to raise rates 25 bps to 3.75–4%.",
-        "18 of 19 officials project at least one more quarter-point hike by year-end 2026.",
-        "Four officials forecast additional 50 bps of tightening in 2026, implying two more 25 bp moves."
-      ],
-      "summary": "The Federal Reserve unanimously raised the federal funds rate target by 25 basis points to 3.75–4.0% on Wednesday, delivering its first increase since July 2023 in response to renewed inflation pressures. Economic projections submitted by policymakers show 18 of 19 officials expect at least one additional quarter-point increase by year-end, while four project a total of 50 basis points (two more quarter-point moves) in 2026. The move signals a shift from the prolonged hold period that preceded it.",
-      "impact": "Identical to Article 1; see impact statement above. Rate guidance directly affects SOFR-linked floating-rate financing and refinance demand for stabilized assets. Developers with bridge loans or ARMs should lock in fixed-rate term debt while spreads remain viable; those in early-stage projects should stress-test IRRs at 4.5–5.0% rates before committing capital."
-    },
-    {
-      "title": "Cedar Park Offers Incentive Packages to Two Manufacturers",
-      "link": "https://www.connectcre.com/stories/cedar-park-offers-incentive-packages-to-two-manufacturers/",
-      "excerpt": "Cedar Park has agreed to economic incentives for two manufacturers who plan to spend over $40 million on their prospective businesses. Community Impact reports Machine Sciences Corporation is an Oregon-based company with existing operations in Florida that specializes in manufacturing complex, high-precision components for space, aerospace and defense industries. That includes parts for satellites, unmanned aerial vehicles and advanced defense systems. The city will pay the company $1 million if they spend $32 million at a Cedar Park facility by 2034 and hires 70 workers. Elite Metal Finishing provides services like chemical processing and plating, painting, non-destructive testing and parts marking for commercial, military and aerospace companies. Cedar Park will pay Elite Metal Finishing $750,000 if it spends $10 million and hires 170 employees. Both companies will lease space at the Cedar Tech I development near the northern border of Cedar Park. The post Cedar Park Offers Incentive Packages to Two Manufacturers appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-09-16T18:07:32+00:00",
-      "bullets": [
-        "Cedar Park, Texas offers $1.75M in incentives to two aerospace/defense manufacturers.",
-        "Machine Sciences Corp and Elite Metal Finishing plan $42M+ capex, 240+ job hires.",
-        "Both companies lease at Cedar Tech I development near Cedar Park's northern border."
-      ],
-      "summary": "Cedar Park, Texas has approved economic incentive packages totaling $1.75 million for two specialized manufacturers planning more than $42 million in capital investment. Machine Sciences Corporation, an Oregon-based aerospace and defense parts supplier with existing Florida operations, will receive $1 million if it invests $32 million and hires 70 workers by 2034. Elite Metal Finishing, providing aerospace and defense chemical processing services, will receive $750,000 for a $10 million investment and 170 hires. Both tenants will occupy space at the Cedar Tech I industrial development.",
-      "impact": "Cedar Park's recruitment of high-wage aerospace and defense manufacturing signals regional job diversification and attracts skilled worker in-migration to the Austin metro, bolstering underlying apartment demand across north Austin submarkets. Industrial tax incentives and public investment in Cedar Tech I create anchor tenants and workforce stability, supporting 10-year rent growth for Class A multifamily serving technical workers. Developers should focus on amenities and location near Cedar Park and the tech corridor; expect demographic skew toward mid-career professionals with higher rent-paying capacity."
+      "summary": "West Palm Beach has experienced rapid residential densification, with at least nine towers completed since 2019 and over 10 currently under construction, many in residential neighborhoods of single-family homes. An additional nine developments have already been approved. Long-time residents cite concerns over loss of historic character and waterfront charm, signaling a shift toward NIMBYism in what has been a traditionally pro-development market. Catherine Adler, a resident since 1991, notes the dramatic transformation and uncertainty about the region's future.",
+      "impact": "Critical entitlement headwind for South Florida multifamily developers. Rising local opposition threatens approval timelines and may drive up soft costs (community benefits, extended permitting). Developers should prioritize already-entitled sites or downtown corridors with less neighborhood friction (e.g., West Palm Beach downtown infill vs. residential edge neighborhoods). Monitor West Palm Beach city council and zoning board activity; anticipate higher per-unit soft costs and longer delivery timelines as NIMBY resistance hardens—consider value-add conversions or build-to-rent strategies to mitigate neighborhood opposition risk."
     },
     {
       "title": "George Soros Puts Argonaut Building on the Market for Roughly $100M",
@@ -107,72 +167,12 @@
       "cat": "Commercial",
       "date": "2026-09-16T17:58:29+00:00",
       "bullets": [
-        "George Soros lists Argonaut Building, Manhattan, for ~$100M; 140K SF office/retail.",
-        "Open Society Foundations lease runs through 2042; Soros plans tenant relocation post-sale.",
-        "Property acquired via foreclosure auction after Soros filed suit against previous landlord Eretz Group."
+        "George Soros sells landmarked Argonaut Building, Manhattan, for ~$100M.",
+        "140K SF office/retail on West 57th Street; Open Society Foundations lease through 2042.",
+        "Soros exiting office ownership post-foreclosure; office conversion risk remains limited."
       ],
-      "summary": "George Soros's Soros Fund Management has placed the landmarked Argonaut Building at 224 West 57th Street, Midtown, on the market at approximately $100 million. The 140,000-square-foot, 1909-built office and retail property is fully occupied by the Open Society Foundations (Soros's grant-making group) under a lease running through 2042, with TD Bank as a ground-floor retail tenant. Soros acquired the building through a foreclosure auction after filing suit against prior owner Eretz Group, which had purchased it for $213.8 million in 2015; Soros plans to relocate the Open Society Foundations once a buyer is found.",
-      "impact": "Limited direct multifamily relevance; this is an office asset sale signaling distress in Manhattan trophy office market. Indirect signal: Soros's willingness to liquidate a fully-leased office asset at 47% of Eretz Group's 2015 purchase price underscores the collapse in office valuations and refinance risk. For multifamily developers: confirms Manhattan office weakness creates supply risk (office-to-residential conversions), but also signals capital redeployment toward residential if conversion entitlements and economics improve."
-    },
-    {
-      "title": "IMG Worldwide Renews 90K SF at SL Green’s 304 Park Avenue South",
-      "link": "https://commercialobserver.com/2026/09/img-worldwide-lease-renewal-304-park-avenue-south/",
-      "excerpt": "Global talent agency IMG Worldwide has renewed a 90,202-square-foot slice of its office lease at 304 Park Avenue South between East 22nd and East 23rd Streets in Midtown South. IMG arrived at SL Green Realty’s 12-story office building in 2008, according to CoStar Group. Its last reported expansion in 2016 saw the company occupy seven stories there, with its footprint growing to 130,655 square feet inside the 210,000-square-foot building. The company’s five-year renewal, announced by SL Green this week, may indicate a substantial downsizing in its offices at 304 Park Avenue South. It’s unclear whether IMG Worldwide will keep the rest of its footprint there. In early 2025, IMG Worldwide’s business lines shrunk dramatically after its parent company Endeavor sold off its sports media division and events portfolio. IMG Worldwide’s fashion and modeling businesses that are now held under WME Group, including IMG Models, continue to list offices at 304 Park Avenue South. A spokesperson for WME Group did not immediately respond to a request for comment on the deal. Terms of the 90,202-square-foot expansion were not disclosed, but Class B asking rents in Midtown South averaged $70.47 per square foot in August, according to Cushman &amp; Wakefield data. Newmark’s Brian Goldman, Matthew Leon and Jason Perla represented IMG Worldwide in the renewal deal alongside Savills’ John Mambrino and David Providenti. It is unclear whether the landlord was represented in-house or by an outside brokerage. Other tenants at 304 Park Avenue South include retailers Bath &amp; Body Works, restaurant chain Naya and Starbucks. Spokespeople for SL Green, Newmark and Savills did not respond to requests for comment. Emily Davis can be reached at edavis@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-09-16T17:31:20+00:00",
-      "bullets": [
-        "IMG Worldwide renews 90,202 SF at 304 Park Avenue South, Manhattan; five-year term.",
-        "Renewal indicates substantial downsizing from prior 130,655 SF footprint after Endeavor divestiture.",
-        "Company's media division sold; fashion/modeling operations continue under WME Group umbrella."
-      ],
-      "summary": "Global talent agency IMG Worldwide has renewed a five-year lease for 90,202 square feet at SL Green's 304 Park Avenue South in Midtown South, a significant reduction from its prior 130,655-square-foot occupancy across seven stories. The renewal follows major restructuring of IMG's parent company Endeavor, which divested its sports media division and events portfolio in early 2025. IMG's remaining fashion and modeling businesses now operate under WME Group and continue to maintain office space at 304 Park Avenue South, though terms were not disclosed.",
-      "impact": "IMG's downsizing reflects corporate contraction and portfolio streamlining post-divestiture, signaling broader talent agency consolidation in Midtown South. While this is office-sector news, it highlights corporate restructuring risk and tenant flight risk in media/entertainment-dependent office markets. For multifamily developers in Manhattan and LA (media hubs): watch for downstream job losses and downstream demand softening if agency consolidation accelerates; corporate vacating typically precedes renter out-migration in 12–18 months."
-    },
-    {
-      "title": "San Antonio Investor Scores Financing for 312-Unit Rental Asset",
-      "link": "https://www.connectcre.com/stories/san-antonio-investor-scores-financing-for-312-unit-rental-asset/",
-      "excerpt": "Strategic Property Investment has secured a $40.3 million loan for Birwood Heights, a 312-unit community in San Antonio. Multihousing News reports the non-recourse bridge loan features a three-year initial term with a stabilized 6.45 percent debt yield and 80 percent LTV, which would value the property at $50.4 million. Birwood Heights was delivered in 2019. It features one- to three-bedroom floor plans that average 975 square feet. The community&#8217;s amenities include a swimming pool, gym, outdoor grilling areas and resident lounges. Located at 4003 N. Loop 1604 W. on more than 27 acres, the property is less than 5 miles from Interstate 10, within San Antonio’s north submarket. USAA’s headquarters, the South Texas Medical Center and The University of Texas at San Antonio. are all nearby. IPA Capital Markets’ Brandon Roth, Adam Mengacci and Travis Headapohl arranged the debt placement. The post San Antonio Investor Scores Financing for 312-Unit Rental Asset appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-09-16T17:17:44+00:00",
-      "bullets": [
-        "Strategic Property Investment secures $40.3M bridge loan for Birwood Heights, San Antonio.",
-        "312-unit stabilized community (2019 delivery) financed at 6.45% yield, 80% LTV.",
-        "Property located in north San Antonio submarket near USAA HQ, UT-San Antonio, medical center."
-      ],
-      "summary": "Strategic Property Investment has obtained a $40.3 million non-recourse bridge loan for Birwood Heights, a stabilized 312-unit apartment community in San Antonio's north submarket. The three-year bridge features a 6.45% debt yield and 80% LTV, implying an asset value of approximately $50.4 million. Delivered in 2019 and located on 27+ acres at 4003 N. Loop 1604 W., the community is proximate to USAA headquarters, UT-San Antonio, and the South Texas Medical Center. Units average 975 square feet across one- to three-bedroom plans.",
-      "impact": "Bridge financing at 6.45% yield for stabilized assets signals refinance headwinds and limited agency financing appetite; 80% LTV is conservative, reflecting lender caution on debt recovery. San Antonio's strong anchors (USAA, healthcare, university) support stable occupancy, but the bridge structure suggests owner equity constraints or rate-lock concerns ahead of anticipated refinance. For developers: San Antonio remains a strong multifamily market due to employment diversity, but expect reduced leverage and higher cost of capital; focus on stabilized assets with strong underlying demand to justify refinance risk."
-    },
-    {
-      "title": "Proligis Offloads Fully-Leased 604K-SF Denver Airport Industrial Property",
-      "link": "https://www.connectcre.com/stories/proligis-offloads-fully-leased-604k-sf-denver-airport-industrial-property/",
-      "excerpt": "Prologis has sold The Collection at Airport Central, a fully-leased, five-building industrial portfolio totaling 604,429 square feet in Denver’s Airport Central micro-market to Berkeley Partners. The portfolio was 100% leased at the time of sale and includes a diversified roster of 12 tenants across five strategically located industrial assets. Jeremy Ballenger, Tyler Carner and Keiffer Garton of CBRE represented Prologis in the transaction. The assets feature a mix of multi-tenant and single-tenant configurations designed to accommodate a broad range of industrial users. The portfolio is leased to tenants across industries, including logistics, distribution, building products, manufacturing, business services, trade show logistics, records management and e-commerce fulfillment. Through the first quarter of 2026, Denver&#8217;s industrial market recorded 64 consecutive quarters of positive net absorption, while Airport Central maintained some of the lowest vacancy levels and strongest rent growth among Denver industrial submarkets. The post Proligis Offloads Fully-Leased 604K-SF Denver Airport Industrial Property appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-09-16T16:34:16+00:00",
-      "bullets": [
-        "Prologis sells Collection at Airport Central, Denver (604K SF, 5 buildings) to Berkeley Partners.",
-        "Portfolio 100% leased at sale; 12 tenants across logistics, distribution, manufacturing, e-commerce.",
-        "Denver Airport Central submarket: 64 consecutive quarters positive absorption, lowest vacancy, strong rent growth."
-      ],
-      "summary": "Prologis has divested The Collection at Airport Central, a fully-leased, five-building industrial portfolio totaling 604,429 square feet in Denver's Airport Central micro-market, to Berkeley Partners. The portfolio was 100% leased at close and includes 12 tenants across a diversified roster spanning logistics, distribution, building products, manufacturing, records management, and e-commerce fulfillment. Denver's Airport Central submarket has recorded 64 consecutive quarters of positive net absorption through Q1 2026 and maintains some of the lowest vacancy and strongest rent growth among Denver industrial submarkets.",
-      "impact": "Limited direct multifamily impact; this is industrial asset sale. Indirect signal: Prologis's willingness to exit a 100%-leased, strong-performing asset in a supply-constrained submarket suggests capital redeployment toward higher-return opportunities or balance sheet optimization. For multifamily: Denver Airport Central strength reflects underlying job and logistics growth; nearby residential markets (particularly north metro) should benefit from tenant workforce demand and in-migration. Watch for Denver North submarket (residential) to absorb displaced logistics workers and see sustained rent growth."
-    },
-    {
-      "title": "29th Street Trades Aurora Apartment Community for $72.5M",
-      "link": "https://www.connectcre.com/stories/29th-street-trades-aurora-apartment-community-for-72-5m/",
-      "excerpt": "29th Street Capital sold the Peakline at Copperleaf apartments for $72.5 million, a significant dip from the price the company paid for the property four years ago. The company paid $104 million from the development iin 2022. Multifamily News reports that the Michelson Organization acquired the property with the help of a $30.6 million five-year Fannie Mae loan. Located at 4343 S. Picadilly St., it sits just off Picadilly Street and East Quincy Avenue. Peakline at Copperleaf comprises one-, two- and three-bedroom units, with floorplans ranging from 732 to 1,232 square feet. All units feature private balconies or patios, with direct access garages available in select units. Common-area amenities at the pet-friendly community include a fitness center, bocce ball court, clubhouse, outdoor kitchen with grilling stations, swimming pool, spa, pet wash and dog park. The property also has some 550 parking spaces at ground level. The post 29th Street Trades Aurora Apartment Community for $72.5M appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-09-16T16:20:40+00:00",
-      "bullets": [
-        "29th Street Capital sells Peakline at Copperleaf, Aurora, Colorado for $72.5M (down from $104M 2022).",
-        "312-unit asset purchased with $30.6M five-year Fannie Mae loan by Michelson Organization.",
-        "30% price decline in four years reflects cap rate compression, financing stress, or demand softness."
-      ],
-      "summary": "29th Street Capital has sold Peakline at Copperleaf, a 312-unit apartment community in Aurora, Colorado, to the Michelson Organization for $72.5 million—a 30% discount from the $104 million 29th Street paid for the development in 2022. Michelson acquired the property with $30.6 million in Fannie Mae financing on a five-year term. The property, located at 4343 S. Picadilly St., features one- to three-bedroom units (732–1,232 SF), amenities including fitness center, bocce ball court, pool, spa, and 550 ground-level parking spaces.",
-      "impact": "Sharp price decline signals value destruction from rate environment and financing repricing since 2022; 29th Street's forced sale at 30% markdown reflects bridge or mezzanine debt maturity stress and refinance risk on fixed-rate debt issued in a lower-rate environment. For developers: Aurora market remains challenging post-pandemic overbuilding; Fannie Mae's willingness to lend at $30.6M (~42% LTV) signals stabilized fundamentals but constrained valuation. This transaction underscores refinance risk for 2022–2023 acquisitions; lock in fixed-rate term debt immediately if bridge exposure exists. Monitor Aurora's supply/demand balance closely—continued developer distress may suppress new starts."
+      "summary": "George Soros's Soros Fund Management has put the landmarked Argonaut Building, a 140,000-square-foot office and retail property at 224 West 57th Street in Midtown Manhattan, on the market for approximately $100 million. The 1909-built building is fully occupied by the Open Society Foundations (which moved in 2013) under a lease through 2042, with TD Bank occupying ground-floor retail. Soros acquired the property in a foreclosure auction after the previous owner defaulted on a $145 million mortgage.",
+      "impact": "Minimal multifamily opportunity. The 62-year lease to Open Society Foundations and landmarked status severely restrict adaptive reuse for residential. Office values in Midtown remain depressed (~$714/SF asking), signaling oversupply, but conversion economics do not work on long-term-leased Class B space. Developers should focus multifamily conversion opportunities on unleveraged, shorter-lease office with higher extinction risk—not long-term-anchored buildings. The $100M ask for 140K SF (~$714/SF) reflects persistent Midtown office distress, a valuation benchmark for multifamily acquisition targets."
     }
   ]
 }
