@@ -1,178 +1,178 @@
 {
-  "fetchedAt": "2026-10-03T00:50:12.716736+00:00",
+  "fetchedAt": "2026-10-06T01:06:02.127103+00:00",
   "rates": [
     {
       "label": "SOFR",
-      "value": "3.87%",
-      "pct": -0.03,
+      "value": "3.88%",
+      "pct": 0.01,
       "isBps": true
     },
     {
       "label": "10Y Treasury",
-      "value": "5.28%",
-      "pct": 0.76
+      "value": "5.31%",
+      "pct": 0.64
     },
     {
       "label": "30Y Treasury",
-      "value": "5.63%",
-      "pct": 0.48
+      "value": "5.67%",
+      "pct": 0.62
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "89.50",
-      "pct": -0.51
+      "value": "89.15",
+      "pct": 0.37
     }
   ],
   "stories": [
     {
-      "title": "Beyond the Headlines, CRE Is Thousands of Local Stories",
-      "link": "https://www.connectcre.com/stories/beyond-the-headlines-cre-is-thousands-of-local-stories/",
-      "excerpt": "Read the commercial real estate headlines and you would picture the market as rows of glass towers and mega-warehouses ringing a handful of big cities: distressed office high-rises, institutional write-downs, the occasional gateway-city megadeal. Big names, big cities, big bets, big wins and losses.&nbsp; That may be the part that draws attention, but it’s not the market most of the industry works in. Vast logistics parks dominate industrial coverage, yet smaller facilities have historically held sub-5% vacancy. Properties with fewer than 50 units account for two-thirds of multifamily, according to an analysis of Census Bureau data. Spaces under 5,000 square feet now represent roughly 80% of retail leases, CoStar reports, while the average U.S. office requirement is about 3,500 square feet.&nbsp; Transaction data reinforces the point. Altus Group found that even as median per-square-foot pricing across major property types reached new highs in the first quarter of 2026, the typical commercial transaction remained under $5 million. Excluding hospitality, that figure falls below $2 million.&nbsp; At the top of the market, that’s a rounding error. Across the country, these are transactions that help communities thrive. It’s the local physician group buying a medical office building, or the craftsman operating out of a small warehouse space. It’s the corner walk-up apartment building, a neighborhood strip mall, or quaint motel off the main road. It’s the branded restaurant franchise that’s running on a local entrepreneur’s personal savings.&nbsp;&nbsp; It’s a disconnect Kristie Kimnach knows well. As executive director of REMAX Commercial®, she leads a network of more than 17,600 commercial professionals and 559 commercial offices and divisions within the broader REMAX global network, which has a presence in more than 120 countries and territories.&nbsp; “The fabric of commercial real estate is made up of thousands of local stories,” she says. “People see the tip of the",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-10-02T22:02:45+00:00",
-      "bullets": [
-        "Two-thirds of multifamily stock is sub-50 units; median transaction under $2M excluding hospitality.",
-        "80% of retail leases under 5,000 sq ft; industrial sub-5% vacancy in smaller facilities.",
-        "Headline deals mask vast majority of CRE activity in local, smaller-scale transactions."
-      ],
-      "summary": "Industry data shows the bulk of commercial real estate—two-thirds of multifamily, 80% of retail leases, and smaller industrial—operates in transactions well below $5M, typically under $2M. This fragmented market of local deals drives community growth but receives minimal media coverage compared to megadeals in gateway cities.",
-      "impact": "Minimal. Article is meta-commentary on coverage patterns, not a market signal. No implications for development underwriting, demand, supply, or capital in specific markets."
-    },
-    {
-      "title": "Capstone Equities Signs UK AI Tenant to First U.S. Location",
-      "link": "https://www.connectcre.com/stories/capstone-equities-signs-uk-ai-tenant-to-first-u-s-location/",
-      "excerpt": "Capstone Equities, its partners Rugby Realty and Republic Investment Company, and JLL announced today that Conduct AI will open its first U.S. office at 140 Crosby St., a boutique Class A office building in Manhattan’s SoHo neighborhood. The lease encompasses the entire 6,705-square-foot third floor and represents the first transaction at the property since Capstone Equities took ownership. Founded in London in 2024, Conduct is building an AI operating system for enterprise software, using agentic AI to help businesses understand, operate and transform complex enterprise systems. The company raised $60 million in its Series A funding round in June and is expanding its engineering and go-to-market teams as it grows internationally. Its new SoHo headquarters will mark its first permanent U.S. location and accommodate more than 60 employees. The transaction comes as Capstone Equities prepares to make new investments in the property, including a renovation of its communal rooftop deck.“Signing a fast-growing company like Conduct AI as our first new tenant speaks to the appeal of 140 Crosby and the kind of companies this property attracts,” said Daven Roshan, Director of Acquisitions at Capstone Equities. JLL Executive Managing Director Clark Finney, Director Alex Riguardi and Senior Associate Dana Goldman represented Capstone Equities. Max Mond and John Brennan of Savills represented Conduct AI. The post Capstone Equities Signs UK AI Tenant to First U.S. Location appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-10-02T21:55:40+00:00",
-      "bullets": [
-        "Conduct AI (London, $60M Series A June 2025) leases 6,705 sq ft SoHo Manhattan, first U.S. office.",
-        "Tech tenant seeking 60+ employees in boutique Class A; signals knowledge-worker demand in Manhattan.",
-        "Capstone Equities planning building renovations; asset repositioning underway."
-      ],
-      "summary": "Conduct AI, a London-founded AI software company that raised $60M in Series A funding in June 2025, has signed its first U.S. lease at 140 Crosby St. in Manhattan's SoHo neighborhood. The lease covers the entire 6,705-sq-ft third floor and is designed to accommodate 60+ employees as the company expands its engineering and go-to-market teams.",
-      "impact": "Limited direct multifamily relevance. However, it reinforces strong Manhattan knowledge-worker demand from well-capitalized AI/enterprise software firms. This signals sustained office leasing and potential worker housing demand in SoHo/NoMad, though the tenant base skews toward high-wage earners less likely to drive renter-occupied multifamily in outer boroughs."
-    },
-    {
-      "title": "North Hollywood Apartments Trade to Locally Based LLC",
-      "link": "https://www.connectcre.com/stories/north-hollywood-apartments-trade-to-locally-based-llc/",
-      "excerpt": "Marcus &amp; Millichap has finalized the sale of 13103 Barbara Ann St., a 41-unit multifamily property in North Hollywood. The property sold for nearly $5.89 million, or $143,610 per unit, and closed escrow at a 5.7% cap rate based on in-place income. “The property had been under the same ownership for more than 30 years, creating a rare opportunity to acquire an asset of this size with significant repositioning potential,” said Rick Raymundo, executive managing director investments. “As recent pricing volatility has eased, we’re seeing buyers move with more confidence on well-priced properties when sellers are committed to completing a transaction. This buyer plans to make common area and interior upgrades throughout the property.” Raymundo, in Marcus &amp; Millichap’s Encino office, marketed the property on behalf of the seller, The Kwan Trust, and procured the buyer, a San Fernando Valley-based limited liability company. The post North Hollywood Apartments Trade to Locally Based LLC appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-10-02T21:41:45+00:00",
-      "bullets": [
-        "North Hollywood, 41-unit sale at $143,610/unit, 5.7% cap rate; long-held asset repositioned.",
-        "Marcus & Millichap brokered; buyer is San Fernando Valley-based LLC planning upgrades.",
-        "Market signaling: pricing stabilization driving buyer confidence on well-priced value-add opportunities."
-      ],
-      "summary": "A 41-unit apartment building in North Hollywood, held by the same owner for 30+ years, sold for $5.89M ($143,610/unit) at a 5.7% cap rate. The locally-based buyer plans interior and common-area upgrades, with the broker citing renewed buyer confidence as pricing volatility has eased.",
-      "impact": "SAN FERNANDO VALLEY SIGNAL: 5.7% cap rate on value-add repositioning indicates strengthening buyer appetite for stabilized but upgradeable assets. With common-area renovation plans, buyer expects rent growth post-improvement; suggests confidence in underlying SFV rental demand and property-level NOI expansion. Watch for increased acquisition activity on aged, well-located multifamily stock in LA's secondary submarkets."
-    },
-    {
-      "title": "Mojo Coffee Officially Opens in Chicago’s Loop",
-      "link": "https://www.connectcre.com/stories/mojo-coffee-officially-opens-in-chicagos-loop/",
-      "excerpt": "Mojo Coffee has officially opened at 70 W. Madison in Chicago&#8217;s Loop, taking over a ground-floor corner of the office tower owned and managed by partners, Namdar Realty Group and Mason Asset Management. The New Zealand-born specialty roaster joins over 244,000 square feet of leasing activity across the building in recent months, including significant lease extensions and new commitments. Since acquiring 70 W. Madison in December 2024 for $85 million, Namdar Realty Group and Mason Asset Management have continued to invest in various infrastructure modernization, building upgrade, and tenant improvement projects while expanding its occupancy. Mojo Coffee&#8217;s opening activates a prime 1,576-square-foot retail space with both street and direct lobby access. Mojo is replacing a roughly 1,500-square-foot Starbucks that exited the market as part of nationwide closures. Mojo also has cafes in Chicago at 190 South LaSalle Street, 200 South Wacker, and 330 N. Wabash Ave in River North. The post Mojo Coffee Officially Opens in Chicago&#8217;s Loop appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-10-02T21:33:06+00:00",
-      "bullets": [
-        "Mojo Coffee (New Zealand chain) replaces Starbucks at 70 W. Madison, Chicago Loop; 1,576 sq ft.",
-        "Namdar/Mason Asset acquired tower Dec 2024 for $85M; 244K+ sq ft leased recently.",
-        "Retail activation signals occupancy recovery and landlord confidence in Loop asset repositioning."
-      ],
-      "summary": "Mojo Coffee, a New Zealand specialty roaster, has opened at 70 W. Madison in Chicago's Loop, occupying a corner ground-floor retail space vacated by Starbucks as part of nationwide closures. The building, acquired by Namdar Realty and Mason Asset Management in December 2024 for $85M, has achieved 244,000+ sq ft in recent leasing activity and is undergoing infrastructure and tenant improvement upgrades.",
-      "impact": "CHICAGO LOOP: Retail activation of 1,576 sq ft (replacing Starbucks) in a recently stabilized office tower indicates rising foot traffic and occupancy confidence post-acquisition. This supports narrative that Loop office and ancillary demand is recovering. Adjacent residential demand in downtown/River North may benefit from improved amenity packages and user experience in trophy office buildings, though office-to-residential conversion remains the larger story."
-    },
-    {
-      "title": "Charney Companies, Tavros Break Ground on Fifth Gowanus Development",
-      "link": "https://www.connectcre.com/stories/charney-companies-tavros-break-ground-on-fifth-gowanus-development/",
-      "excerpt": "Charney Companies and Tavros recently celebrated the groundbreaking of 175 Third St. in Gowanus, Brooklyn. The 27-story mixed-use tower, the newest addition to the Gowanus Wharf development, will house more than 1,000 apartments, approximately 250 of them affordable. Designed by Bjarke Ingels Group (BIG) and dencityworks, the project will also include a 28,000-square-foot public waterfront esplanade designed by Field Operations. 175 Third St. is the fifth development in the neighborhood by the co-developers, who are known for Gowanus Wharf, which brings 2,200 total units to the area. Pictured, from left: Nicholas Silvers, Tavros; Dov Barnett, Tavros; Colin Rankowitz, Tavros; Justin Pelsinger, Charney Companies; Sam Charney, Charney Companies;and Sam Sparks, Tavros. The post Charney Companies, Tavros Break Ground on Fifth Gowanus Development appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-10-02T21:31:36+00:00",
-      "bullets": [
-        "Charney Companies & Tavros break ground on 175 Third St., Gowanus, Brooklyn: 27-story, 1,000+ units.",
-        "250 units affordable; designed by Bjarke Ingels Group; part of Gowanus Wharf (2,200 total units).",
-        "Fifth development by co-developers; major supply pipeline addition to Brooklyn waterfront."
-      ],
-      "summary": "Charney Companies and Tavros have broken ground on 175 Third St. in Gowanus, Brooklyn—a 27-story mixed-use tower featuring 1,000+ apartments (250 affordable) and a 28,000-sq-ft public waterfront esplanade. It is the fifth development by the co-developers in Gowanus and part of the larger Gowanus Wharf project totaling 2,200 units.",
-      "impact": "BROOKLYN/GOWANUS SUPPLY PIPELINE: This project adds 1,000+ units to an already dense development corridor. Combined with co-developers' prior 2,200 units, the market is experiencing significant below-market (250 affordable) and market-rate supply influx. Rental demand absorption and rent growth potential in Gowanus will hinge on net migration and job growth in the metro; expect rents to moderate if supply outpaces demand. Monitor lease-up pace and rent trends closely to assess feasibility of new competing projects in Williamsburg/Greenpoint."
-    },
-    {
-      "title": "Kolter, BH Inch Toward Buyout on Oceanfront Miami Beach Condo",
-      "link": "https://commercialobserver.com/2026/10/kolter-bh-miami-north-beach-port-royale-normandy-plaza-crystal-beach-suites/",
-      "excerpt": "Developers Kolter Group and BH Group are almost done assembling their oceanfront site in Miami Beach, with plans to redevelop it into a luxury condo complex. The joint venture now owns the majority of units within the Port Royale condo building at 6969 Collins Avenue in the North Beach neighborhood. Since July, it has paid $61.6 million for 163 units within the 172-unit building, according to an analysis of property records by data company Vizzda, first reported by the Business Journals. Five years ago, Port Royale residents were evacuated after the 55-year-old building was deemed unsafe, CBS Miami reported. The evacuation came after the deadly collapse of the nearby Champlain Towers South condo building in 2021. The condo sales are likely related to state reforms passed after 2021 that have increased building maintenance fees for many condo owners, some of whom are selling to developers. The recent purchases add to Kolter Group and BH Group’s assemblage, which spans about 2 acres along the oceanfront between 69th and 71st streets and includes two neighboring hotels. Starting in 2023, Kolter purchased the 34,980-square-foot Normandy Plaza Hotel for $18 million. Located at 6985 Collins Avenue, the three-story structure was built in 1950. This January, an entity tied to the joint venture paid $26 million for the four-story Crystal Beach Suites, which was built in 1936 at 6979 Collins Avenue. This July, it also purchased the 7,600-square-foot commercial condos within the building for $14.4 million. This week, Wells Fargo increased a loan tied to those properties to $83.2 million. The bank doubled the debt amount from a mortgage first issued in January. Last week, the developers filed plans to demolish the Normandy Plaza Hotel. In 2025, they filed plans to build a 37-unit condo development designed by Kobi Karp on a portion of the site. The 17-story project is set to include 947 square feet of ground-floor retail and 86 parking spots. The project is the latest luxury co",
+      "title": "Miami-Dade Office Rents Rise and Vacancy Tightens",
+      "link": "https://commercialobserver.com/2026/10/miami-dade-office-q3/",
+      "excerpt": "Miami-Dade County’s office market remains strong, with vacancy rates dropping and rents rising, benefiting both the high and low segments, according to a new report from Savills. Office availability dropped to 14.6 percent, down 1.2 percentage points over the past year, all while asking rents rose to an average of $68.50 per square foot per year, up 8.4 percent during the same period. The bulk of the activity was split between the affordable Airport West submarket and Brickell, Miami’s pricey financial district, with the former accounting for 28 percent of the activity and the latter 25.2 percent. The split reflects the bifurcation of the market since the pandemic, as Miami vies to become a global business hub, and companies either flocked to the area or expanded their operations. Their arrival or expansion pushed rents higher, particularly in coveted markets such as Coconut Grove and Brickell, where asking rents average more than $90 per square foot. The pressures often forced longtime office tenants to relocate to the suburban market, where rents are cheaper. Some of the biggest expansions included that of Google, which added 10,000 square feet at its office at 1450 Brickell Avenue, bringing the tech behemoth’s total footprint to 45,000 square feet. Spain’s Banco Sabadell renewed its nearly 50,000-square-foot office at the nearby 1111 Brickell tower. Despite the gains, the report identified several warning signs. Overall, leasing activity in Miami-Dade County slowed to 1.1 million square feet, down from about 1.3 million square feet during the previous quarter. The Miami-Dade area lacks large offices, with only a dozen options on the market that are larger than 50,000 square feet. The scarcity could hamper the county’s economic growth and discourage companies from setting up a large presence. Two more office skyscrapers are going up in Brickell — those of Santander Bank and billionaire financier Ken Griffin — but they likely won’t be completed before 2029. Julia E",
       "source": "Comm. Observer",
       "cat": "Commercial",
-      "date": "2026-10-02T21:05:42+00:00",
+      "date": "2026-10-05T22:00:26+00:00",
       "bullets": [
-        "Kolter Group & BH Group own 163 of 172 units in Port Royale, Miami Beach (6969 Collins Ave).",
-        "Paid $61.6M since July for buyout; building unsafe post-2021 collapse, residents evacuated 2020.",
-        "Rising condo maintenance fees (post-2021 state reforms) driving sellers to liquidate to developers."
+        "Miami-Dade office vacancy dropped to 14.6%, down 1.2 pts YoY; rents rose 8.4% to $68.50/SF",
+        "Brickell and Airport West absorbed 53% of activity; Brickell/Coconut Grove rents exceed $90/SF",
+        "Pandemic-era bifurcation: corporate expansions (Google, others) pushed prime rents up; displaced tenants fled to suburbs"
       ],
-      "summary": "Developers Kolter Group and BH Group have acquired 163 of 172 units in the Port Royale condo building in North Beach, Miami, for $61.6M since July. The 55-year-old building was evacuated in 2020 after being deemed unsafe; the joint venture plans a luxury condo redevelopment. Recent unit sales are driven by rising state-mandated building maintenance fees post-Champlain Towers collapse.",
-      "impact": "MIAMI BEACH/NORTH BEACH SUPPLY & DEMAND: This land assembly signals developer confidence in Miami Beach luxury condo market despite affordability pressures. However, the underlying driver—forced condo owner liquidation due to state-mandated safety/maintenance fees—reflects structural headwinds in older condo buildings. This creates opportunity for new construction but also suggests potential supply headwinds in aging multifamily stock and upside in Class A development. Monitor if similar forced sales accelerate in other Florida aging condo buildings."
+      "summary": "Miami-Dade's office market tightened sharply with vacancy falling to 14.6% and asking rents climbing 8.4% YoY to $68.50/SF. Brickell (25.2% of activity) and Airport West (28%) drove leasing as companies expanded or relocated to Miami. The market bifurcated post-pandemic: high-end tenants clustered in Brickell and Coconut Grove (>$90/SF), forcing legacy tenants to suburban submarkets with cheaper rents.",
+      "impact": "Miami's office strength signals sustained corporate inbound migration and HQ/expansion activity, supporting downstream multifamily demand in Brickell, Wynwood, and adjacent urban cores. As office tenants consolidate in premium locations, peripheral submarkets and suburban rings see workforce overflow—potential acquisition targets for transit-oriented and workforce-housing multifamily in Miami-Dade and Broward."
     },
     {
-      "title": "Google Relocation Leads D.C.’s Office Market in Q3",
-      "link": "https://commercialobserver.com/2026/10/google-dc-office-q3/",
-      "excerpt": "Washington, D.C.’s office market held relatively steady in the third quarter, but the divide between trophy properties and the broader market was extended. Tenants leased about 1.8 million square feet during the quarter, roughly in line with the market’s five-year quarterly average, but down from the 2 million square feet leased in the second quarter, according to Savills. Overall availability ticked down to 24 percent, while trophy space availability remained below 10 percent. The average Class A asking rent inched up 2 pennies since the second quarter to $62.31 per square foot per year. That scarcity in premier space is prompting tenants — mostly law firms and government departments — to make decisions years ahead of lease expirations while encouraging landlords to reposition buildings, according to Savills. Sheppard signed the quarter’s largest law firm deal, relocating to 107,227 square feet at 2033 K Street NW, where the property is slated for an extensive redevelopment. Greenberg Traurig also renewed and expanded to 80,089 square feet at 2101 L Street NW. Google posted the quarter’s largest lease deal in a 210,000-square-foot consolidation move to 500 North Capitol Street NW. And the local D.C. government renewed for 164,110 square feet at 1050 First Street NE and for 74,924 square feet at 645 H Street NE both ranked among the quarter’s largest deals. Federal leasing, however, remains a weak spot. Savills said General Services Administration leasing volume is on pace to decline from 2025 with fewer transactions above 100,000 square feet through the first three quarters. Meanwhile, D.C.’s office inventory declined by 4.7 million square feet compared to the same time last year, falling to 118.1 million square feet, as office-to-resi conversions continue removing space from the market. Gregory Cornfield can be reached at gcornfield@commercialobserver.com.",
-      "source": "Comm. Observer",
+      "title": "Global Consulting Firm Wavestone Relocates to Fifth Avenue",
+      "link": "https://www.connectcre.com/stories/global-consulting-firm-wavestone-relocates-to-fifth-avenue/",
+      "excerpt": "Cushman &amp; Wakefield arranged a 9,812-square-foot lease for Wavestone at 511 Fifth Ave. in Midtown Manhattan. The global consulting firm will relocate from 130 W. 42nd St. to the building’s 13th floor. Cushman &amp; Wakefield’s Nick Masi represented Wavestone. Newmark’s Scott Klau and Natalie Serio represented building ownership, Aurora Capital, Wharton Properties and ACHS Management.“511 Fifth Avenue offered Wavestone a high-quality, modern workplace in a premier Midtown location that aligns well with the firm’s needs and its continued growth,” said Masi. “The building’s recent repositioning, strong amenity offering and accessibility made it an attractive option, and we’re pleased to have secured a space that will support Wavestone’s team in New York for many years to come.” Founded in France, Wavestone is an international consulting firm focused on strategic business and technology transformations. The firm has more than 6,000 employees and operates across 17 countries on four continents. The post Global Consulting Firm Wavestone Relocates to Fifth Avenue appeared first on Connect CRE.",
+      "source": "Connect CRE",
       "cat": "Commercial",
-      "date": "2026-10-02T20:50:11+00:00",
+      "date": "2026-10-05T21:53:02+00:00",
       "bullets": [
-        "Washington D.C. office: 1.8M sq ft leased Q3 (5-yr avg), 24% availability, Class A below 10%.",
-        "Class A asking rent $62.31/sq ft/yr; trophy space scarcity forcing tenants to decide years ahead.",
-        "Google relocation and law firm expansion (Sheppard 107K sq ft, Greenberg Traurig 80K sq ft) driving leases."
+        "Wavestone (6,000-employee consulting firm) leased 9,812 SF at 511 Fifth Ave, Midtown Manhattan, 13th floor",
+        "Relocated from 130 W. 42nd St. (Times Square) to premium Midtown location; building recently repositioned",
+        "Firm growth and high-quality amenities cited as lease drivers; long-term occupancy commitment"
       ],
-      "summary": "Washington D.C.'s office market remained relatively stable in Q3 with 1.8M sq ft leased, roughly in line with the five-year average. Trophy-class space availability fell below 10%, while overall availability held at 24%. Class A asking rents edged up 2 cents to $62.31/sq ft/yr, with major tenants including Google, law firms (Sheppard, Greenberg Traurig), and government departments driving leasing decisions years in advance.",
-      "impact": "WASHINGTON D.C. HOUSING DEMAND SIGNAL: Google's office relocation and sustained law firm expansion indicate strong knowledge-worker in-migration and job growth in a tight labor market. This supports sustained multifamily rental demand in urban core and submarkets with reverse commutes (Arlington, Bethesda, Silver Spring). High asking rents and trophy-space scarcity also imply strong wage growth among office tenants, supporting rent growth potential in premium multifamily near tech/law office clusters."
+      "summary": "Global consulting firm Wavestone, a 6,000-employee strategic business and technology transformation firm, leased 9,812 SF on the 13th floor of 511 Fifth Avenue in Midtown Manhattan. The firm relocated two blocks east from 130 W. 42nd St., citing the building's recent repositioning, modern amenities, and premium location as drivers. Brokers noted the lease supports Wavestone's continued growth in New York.",
+      "impact": "Wavestone's Midtown relocation and expansion signals sustained professional services job growth in Manhattan's core office markets, sustaining white-collar workforce inflow and supporting rental demand in transit-rich multifamily submarkets (Midtown East, Kips Bay, Turtle Bay, NoMad). Retenching of consulting/tech talent in repositioned buildings suggests landlord capital recycling and cap-rate compression in Class A office, reducing development yield spreads but validating continued city-center demand."
     },
     {
-      "title": "Bank of America, JLL Provide $276M Refi for SoCal Senior Housing",
-      "link": "https://commercialobserver.com/2026/10/nexus-bank-of-america-jll-senior-housing-california/",
-      "excerpt": "A Nexus Development affiliate has landed $276 million in refinancing for two senior housing communities with 395 units in Newport Beach, Calif. Property records show that Bank of America provided the $140 million loan for Vivante Newport Center, while JLL Real Estate Capital provided $136 million for Vivante Newport Mesa. JLL Capital Markets arranged and announced the financings for the owner on Friday, but declined to identify the lenders. The $140 million loan for the 99-unit Newport Center loan works out to roughly $1.4 million per unit, which is one of the largest financings on a per-unit basis in the senior housing industry’s history, according to JLL. The six-story property opened in 2022 on San Clemente Drive with restaurants, a cocktail bar, a fitness center, an indoor pool, a theater, a bowling alley and a golf simulator. It is also near Fashion Island and Hoag Hospital Newport Beach. Meanwhile, Vivante Newport Mesa includes 296 units across a 6.8-acre campus on Monrovia Avenue. The property opened in phases in 2013 and 2020 with a three-story building and a four-story building. It is near South Coast Plaza. JLL’s Greg Brown and Aaron Rosenzweig represented privately held developer Nexus Development. Gregory Cornfield can be reached at gcornfield@commercialobserver.com.",
-      "source": "Comm. Observer",
+      "title": "Byline Bank Closes on Term Loan for South Bay IOS Portfolio",
+      "link": "https://www.connectcre.com/stories/byline-bank-closes-on-term-loan-for-south-bay-ios-portfolio/",
+      "excerpt": "Byline Bank’s Commercial Real Estate Group (BCREG) closed on a $20.25-million term loan with Stockbridge Capital Group to refinance a two-property industrial outdoor storage (IOS) portfolio in Wilmington. The 13-acre portfolio is 100% leased and includes properties at 501 Quay Ave. and 1540-1550 Eubank Ave. Located near the Ports of Los Angeles and Long Beach in the South Bay submarket, the properties offer access to one of the country’s largest freight and logistics hubs, as well as major transportation corridors serving Southern California. Both properties are less than six miles from the ports. “Industrial outdoor storage is an important part of the logistics network, particularly in infill markets where access to ports and major transportation routes is critical,” said Sarah Hunter, SVP of BCREG. “This portfolio combines long-standing tenants with a location that provides direct access to some of Southern California’s most important transportation infrastructure. It was a pleasure to work with Stockbridge on a financing solution that supports these well-positioned assets.” The transaction was led by Sarah Hunter, Dylan Derrickson, Matt Smith and Eric Estela of BCREG. CBRE represented Stockbridge in the financing. The post Byline Bank Closes on Term Loan for South Bay IOS Portfolio appeared first on Connect CRE.",
+      "source": "Connect CRE",
       "cat": "Commercial",
-      "date": "2026-10-02T18:20:50+00:00",
+      "date": "2026-10-05T21:43:21+00:00",
       "bullets": [
-        "Nexus Development refinances two senior housing properties (395 units) in Newport Beach, CA: $276M total.",
-        "Vivante Newport Center (99 units, 2022): $1.4M per unit financing; among highest senior-housing per-unit loans.",
-        "Vivante Newport Mesa (296 units, 2013–2020): $136M; properties amenity-rich (pools, bowling, golf simulator)."
+        "Byline Bank closed $20.25M term loan for Stockbridge Capital's 100%-leased 13-acre IOS portfolio in Wilmington",
+        "South Bay South Bay submarket; properties <6 miles from Ports of LA/Long Beach; critical logistics infrastructure access",
+        "Refinance with long-standing tenants; lender emphasized infill logistics value near major freight/transportation hubs"
       ],
-      "summary": "A Nexus Development affiliate has secured $276M in refinancing for two senior housing communities totaling 395 units in Newport Beach, California. Bank of America provided $140M for the 99-unit Vivante Newport Center (opened 2022), while JLL Real Estate Capital provided $136M for the 296-unit Vivante Newport Mesa. The $1.4M-per-unit loan on Newport Center ranks among the largest per-unit senior housing financings on record.",
-      "impact": "ORANGE COUNTY/SOUTHERN CALIFORNIA SENIOR HOUSING: $1.4M/unit refinancing on a 2022-vintage senior property signals strong lender confidence and capital availability for stabilized, amenity-rich senior housing. This supports development feasibility for new senior communities in affluent coastal CA markets. Rising per-unit loan sizes may also reflect inflation and improved rents, suggesting renter demand for premium senior housing remains robust despite aging populations. Could signal headwinds for less-amenitized legacy senior stock competing for the same demographic."
+      "summary": "Byline Bank's Commercial Real Estate Group closed a $20.25 million term loan for Stockbridge Capital Group to refinance a fully leased 13-acre industrial outdoor storage (IOS) portfolio in Wilmington's South Bay submarket. Both properties sit within six miles of the Ports of Los Angeles and Long Beach, providing direct access to major transportation corridors. The transaction underscored the portfolio's value as a critical logistics asset with established, long-standing tenants.",
+      "impact": "Tight financing and strong lender appetite for port-adjacent logistics assets in South Bay affirms supply-chain resilience and e-commerce/last-mile demand in the LA basin. Industrial refinance activity at low loan-to-value suggests lenders remain confident in infill logistics fundamentals; this validates the submarket's appeal for multifamily developers seeking industrial-adjacent nodes (e.g., mixed-use or workforce housing near Ports of LA/LB supply chains)."
     },
     {
-      "title": "Sony in Talks to Anchor Tishman Speyer’s 99 Hudson Boulevard",
-      "link": "https://commercialobserver.com/2026/10/sony-in-talks-to-anchor-tishman-speyers-99-hudson-boulevard/",
-      "excerpt": "Sony is in negotiations to become the anchor tenant of Tishman Speyer’s planned 99 Hudson Boulevard in Hudson Yards, Commercial Observer has learned, and may already have a term sheet. Sony’s current U.S. headquarters is in the top 568,000 square feet of 11 Madison Avenue, but Sony, like other corporate occupiers, is looking for newer, bigger and more collaborative workplaces for its employees. Sony signed a lease in 2013 and moved to 11 Madison after selling its iconic 550 Madison Avenue headquarters in 2012 to Joseph Chetrit for $1.12 billion. Chetrit flipped it three years later for $1.4 billion to Olayan America, which completely redeveloped the tower, which features a distinctive Chippendale-style top designed by Philip Johnson and John Burgee. While Sony’s current location in vibrant NoMad next to Madison Square Park is hard to beat, there is simply no room to expand in the 30-story building. It was originally designed by Harvey Wiley Corbett and Dan Everett Wade in 1928 to hit 100 stories before the Great Depression stopped its ascent. The Art Deco tower was not completed until 1950 and is currently owned by SL Green Realty. It’s unclear how much space Sony is in talks for at 99 Hudson Boulevard. Savills’ Erik Schmall and Allyson Bowen are representing Sony in the negotiations, but did not respond to requests for comment. Tishman Speyer has proposed 99 Hudson Boulevard as a 48-story office building of roughly 1.256 million square feet. Public documents state the firm will start construction on Dec. 1. The planned tower will sit opposite the Javits Center on 11th Avenue between West 36th and West 37th streets and have unobstructed views of the Hudson River. Its primary address of 99 Hudson Boulevard would place its main lobby facing the new Bella Abzug Park. Constructed as an all-electric LEED Gold tower, it would not be ready for occupancy until around 2030. Although architect Henning Larsen and renderings were revealed in 2019, it is highly likely that plans",
-      "source": "Comm. Observer",
+      "title": "Net-Leased Gerber Collision Property in Illinois Trades Hands",
+      "link": "https://www.connectcre.com/stories/net-leased-gerber-collision-property-in-illinois-trades-hands/",
+      "excerpt": "Marcus &amp; Millichap completed the sale of 5840 W. Ogden Ave., an 18,620-square-foot, net-leased Gerber Collision &amp; Glass property in Cicero, Illinois.“This transaction provided the buyer with a newly renovated property backed by a new 15-year corporate lease with an established national, publicly traded tenant,” said Lior Regenstreif, executive managing director of investments. “The property’s location along Ogden Avenue in one of Illinois’ most densely populated communities supports recurring demand for automotive repair services and contributes to its appeal as a long-term 1031 exchange investment.”Regenstreif, based in Marcus &amp; Millichap’s Encino office, in association with Steven Weinstock, Marcus &amp; Millichap’s Illinois broker of record, had the exclusive listing to market the property on behalf of the seller, the property’s developer. The buyer was a 1031 exchange investor.Originally built in 1967, the former industrial building was recently renovated in 2025 through 2026 into a Gerber Collision &amp; Glass location. The property is situated on 1.53 acres and is leased to Gerber under a new 15-year, corporate-guaranteed, triple-net lease. The post Net-Leased Gerber Collision Property in Illinois Trades Hands appeared first on Connect CRE.",
+      "source": "Connect CRE",
       "cat": "Commercial",
-      "date": "2026-10-02T17:53:33+00:00",
+      "date": "2026-10-05T21:34:46+00:00",
       "bullets": [
-        "Sony in talks to anchor Tishman Speyer's 99 Hudson Boulevard, Hudson Yards, Manhattan.",
-        "Sony currently occupies 568K sq ft at 11 Madison Avenue (NoMad); seeking expansion and newer collaborative space.",
-        "Large corporate tenant decision signals Hudson Yards' competitive positioning for Manhattan HQ relocations."
+        "Marcus & Millichap sold net-leased Gerber Collision property (18,620 SF) in Cicero, Illinois for 1031 exchange buyer",
+        "Building originally 1967 industrial; recently renovated 2025–2026 into Gerber location; 15-year corporate-guaranteed lease",
+        "Buyer attracted by location density (Illinois' most densely populated community) and recurring automotive repair demand"
       ],
-      "summary": "Sony is in negotiations to become the anchor tenant at Tishman Speyer's planned 99 Hudson Boulevard in Hudson Yards, with a potential term sheet already in place. Sony currently occupies 568,000 sq ft atop 11 Madison Avenue in NoMad but is seeking larger, newer space with improved collaboration features for employees. The company sold its iconic 550 Madison Avenue HQ in 2012 and has been at 11 Madison since 2013.",
-      "impact": "MANHATTAN/HUDSON YARDS OFFICE DEMAND: Sony's potential relocation to Hudson Yards, a space designed for modern collaboration, reinforces the appeal of newer trophy office to major corporate tenants facing expansion constraints and employee expectations for upgraded amenities. In-migration of large corporate HQs to Hudson Yards could drive residential demand in adjacent Hells Kitchen and West Chelsea; monitor concurrent multifamily demand from Sony employee base (likely affluent, Manhattan-oriented) and potential increase in co-working and mixed-use residential demand in the submarket."
+      "summary": "Marcus & Millichap completed the sale of an 18,620-SF net-leased Gerber Collision & Glass property in Cicero, Illinois to a 1031 exchange investor. The 1967-built industrial building was recently renovated into a Gerber facility and leased under a 15-year corporate-guaranteed triple-net agreement. The buyer cited recurring demand for automotive repair services in one of Illinois' densest communities as appeal for long-term hold.",
+      "impact": "Limited direct multifamily relevance, though the 1031 transaction and 15-year lease highlight investor appetite for stable, net-lease cash flows in densely populated Chicagoland suburbs (Cicero). This may signal capital migration away from more volatile asset classes; indirectly, continued density in Chicagoland's inner-ring suburbs supports baseline workforce housing demand and lower-cost multifamily development potential."
     },
     {
-      "title": "Hines Promotes Adam Hines to Co-CEO Alongside Laura Hines-Pierce",
-      "link": "https://commercialobserver.com/2026/10/laura-hines-pierce-adam-hines-co-ceo-promotion/",
-      "excerpt": "Laura Hines-Pierce is still co-CEO of the family firm, but with a new counterpart in Adam Hines. Hines-Pierce ascended to the role of co-CEO of investment and development firm Hines in February 2022 alongside her father, Jeffrey Hines. But as the elder Hines moves into the role of the firm’s chairman, another family member is moving up. Effective Jan. 1, Adam Hines and Hines-Pierce will lead the day-to-day operations of the company and strategic trajectory in the years to come, according to Hines. In addition, Hines-Pierce will replace Jeffrey Hines as CEO and chair of the board of Hines Global Income Trust, while Adam Hines will join its board as a director. &#8220;Hines has always been at its best when we look beyond the current cycle and build for what comes next,&#8221; Jeffrey Hines said in a statement. &#8220;Laura has already been leading Hines as co-CEO for five years, and Adam has helped shape important parts of our growth across Europe, private wealth and capital formation. Their leadership is already visible in the firm and platform we have built.” Also switching up their roles at Hines are David Steinbach, who was promoted to become the firm’s first president, and Alfonso Munk, who was promoted from co-head of investment management and will replace Steinbach as Hines’ global chief investment officer. &#8220;Scale creates advantage only when it improves execution,&#8221; Steinbach said in a statement. &#8220;Our opportunity is to connect what our teams know across markets, strategies and functions so local insight becomes shared intelligence and firmwide capabilities create more opportunity on the ground.” Adam Hines was recognized for doubling Hines’ private wealth business during his time as chief of staff for the office of the CEO and senior managing director of the company. He joined Hines in 2017 after holding several analyst positions at Australian real assets management firm Dexus. Mark Hallum can be reached at mhallum@commercialobserver.com.",
+      "title": "CBRE Arranges Financing for Rent-Stabilized Midwood Multifamily",
+      "link": "https://www.connectcre.com/stories/cbre-arranges-financing-for-rent-stabilized-midwood-multifamily/",
+      "excerpt": "CBRE originated a $15-million loan for a 175-unit rent-stabilized multifamily property located at 430 and 499 E. 8th St. in the Midwood section of Brooklyn. The financing was secured on behalf of ARM Management through Four Leaf Credit Union. The CBRE Capital Markets team of Judah Hammer, Jeff Feldman and Jack Hayes arranged the refinancing on behalf of ARM Management. “This refinancing provides ARM Management with stable financing and operational flexibility in today&#8217;s lending environment,” said Hammer. “The loan features a 6% fixed interest rate, two years of interest-only payments, and no prepayment penalty, offering the borrower enhanced operational flexibility over the five-year term.”&nbsp; The post CBRE Arranges Financing for Rent-Stabilized Midwood Multifamily appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-10-05T21:34:34+00:00",
+      "bullets": [
+        "CBRE originated $15M loan via Four Leaf Credit Union for ARM Management's 175-unit rent-stabilized Brooklyn property",
+        "Midwood, Brooklyn (430 and 499 E. 8th St.); 6% fixed rate, 2-yr interest-only, no prepayment penalty; 5-yr term",
+        "Financing provides operational flexibility and allows equity extraction post-stabilization"
+      ],
+      "summary": "CBRE Capital Markets arranged a $15 million refinance for ARM Management's 175-unit rent-stabilized multifamily property in Brooklyn's Midwood neighborhood. The loan features a 6% fixed rate, two years of interest-only payments, no prepayment penalty, and a five-year term. Proceeds support capital reserves and provide the borrower operational flexibility to access equity built since construction.",
+      "impact": "Stable, fixed-rate financing at 6% for rent-stabilized Brooklyn multifamily signals lender confidence in NYC rent-reg portfolios and modest rate environment relative to 2022–2023 peaks. The interest-only structure and prepayment flexibility support value-add and refinance strategies in outer-borough stabilized stock; this validates continued institutional appetite for Midwood and similar gentrifying Brooklyn submarkets, reducing cost of capital for future acquisitions/redevelopment."
+    },
+    {
+      "title": "Nuveen Snaps Up Vons-Anchored San Luis Obispo Center",
+      "link": "https://www.connectcre.com/stories/nuveen-snaps-up-vons-anchored-san-luis-obispo-center/",
+      "excerpt": "JLL Capital Markets arranged the $58.25-million sale of Marigold Center, a 174,428-square-foot grocery-anchored shopping center located at 3900 Broad St. in San Luis Obispo. Senior managing directors Gleb Lvovich and Geoff Tranchina, along with managing directors Daniel Tyner and Eric Kathrein, represented the seller, First Washington Realty. Nuveen Real Estate acquired the asset. Marigold Center is a community shopping center that was 91.6% leased at the time of sale. The property is anchored by Vons, CVS Pharmacy and Planet Fitness and features a diverse mix of grocery, pharmacy, fitness, sporting goods, restaurant, medical and service-oriented tenants. &#8220;Grocery-anchored neighborhood retail with NOI growth potential and high-performing anchors drew broad investor interest throughout our marketing process,&#8221; said Tyner. &#8220;We are pleased to see Marigold Center continue to perform at a high level under new ownership.&#8221; JLL previously arranged the sale of the property to First Washington Realty in 2017. The post Nuveen Snaps Up Vons-Anchored San Luis Obispo Center appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-10-05T21:26:37+00:00",
+      "bullets": [
+        "Nuveen acquired Marigold Center, San Luis Obispo (174,428 SF grocery-anchored) for $58.25M from First Washington Realty",
+        "91.6% leased at sale; anchored by Vons, CVS, Planet Fitness; diverse tenant mix (grocery, pharma, fitness, restaurant, service)",
+        "High-performing anchors and NOI growth potential attracted broad investor interest; JLL marketed property"
+      ],
+      "summary": "JLL Capital Markets arranged the $58.25 million sale of Marigold Center, a 174,428-SF grocery-anchored shopping center in San Luis Obispo, to Nuveen Real Estate. The property was 91.6% leased at sale and anchored by Vons, CVS Pharmacy, and Planet Fitness, with tenants spanning grocery, fitness, medical, and service categories. Brokers cited NOI growth potential and high-performing anchors as drivers of broad investor interest.",
+      "impact": "Limited direct multifamily relevance. Nuveen's acquisition of grocery-anchored retail in secondary markets (San Luis Obispo) signals institutional capital focus on necessity-based retail with stable, long-term cash flows. Indirectly, this capital deployment toward stabilized retail may reduce development capital available for speculative multifamily in mid-tier metros; developers should monitor institutional investor appetite in their target markets."
+    },
+    {
+      "title": "Gravity Fitness Signs 23K-SF Lease at Queens’ Flushing Plaza",
+      "link": "https://commercialobserver.com/2026/10/gravity-fitness-lease-41-61-kissena-boulevard-flushing-plaza/",
+      "excerpt": "An athletic club is following a gravitational pull leading it to eastern Queens. Gravity Fitness signed a long-term, 23,000-square-foot lease at Muss Development’s Flushing Plaza at 41-61 Kissena Boulevard, where it will occupy the ground floor of a two-story office and retail complex in Downtown Flushing, according to the landlord. Muss Development did not disclose the length of the lease, but the asking rent for the building was $52 per square foot. “Flushing continues to be a thriving community with an eclectic mix of commercial and retail offerings,” Muss Development President Jason Muss said in a statement. “The Gravity Fitness lease further signifies that residents are eager for healthy options that get them off their screens and into physical activity.” Ross Spitalnick negotiated on behalf of the landlord in-house, while Steve Zhu of Compass Commercial represented Gravity Fitness. Zhu did not immediately respond to a request for comment. The tenant plans to open the gym in mid-2027, according to Muss. It’s unclear whether the deal represents Gravity Fitness’ first location, as there is another company with the same name that sells gym equipment. Other retail tenants in the Flushing Plaza development include Dunkin’, Allstar Pharmacy, medical spa training organization M Star Institute, and a location for the Charles P. Wang Health and Wellness Center. Mark Hallum can be reached at mhallum@commercialobserver.com.",
       "source": "Comm. Observer",
       "cat": "Commercial",
-      "date": "2026-10-02T17:42:22+00:00",
+      "date": "2026-10-05T19:14:46+00:00",
       "bullets": [
-        "Adam Hines promoted to Co-CEO alongside sister Laura Hines-Pierce effective Jan. 1, 2025.",
-        "Jeffrey Hines transitions to chairman; Laura becomes CEO/chair of Hines Global Income Trust.",
-        "Generational leadership transition in major multifamily/mixed-use developer; signals long-term capital and strategy continuity."
+        "Gravity Fitness signed 23,000-SF long-term lease at Muss Development's Flushing Plaza, Queens; ground floor of 2-story mixed-use",
+        "Asking rent $52/SF; gym opens mid-2027; located at 41-61 Kissena Boulevard in Downtown Flushing",
+        "Lease signals tenant confidence in Flushing's retail vitality and residential demand for health/wellness amenities"
       ],
-      "summary": "Hines has promoted Adam Hines to Co-CEO alongside his sister Laura Hines-Pierce, effective January 1, 2025. Laura, who became co-CEO in February 2022, will now also serve as CEO and chair of Hines Global Income Trust. Jeffrey Hines, the founder and current co-CEO, is stepping into the role of chairman. The move reflects planned generational transition in one of the largest private real estate development firms.",
-      "impact": "Minimal direct market impact. However, leadership transition in a large, family-controlled developer signals stability and continuation of long-term capital deployment strategy. No change in development appetite, project pipeline, or capital allocation is evident. Watch for any strategic shifts in geography, asset class focus, or risk appetite under new leadership team."
+      "summary": "Gravity Fitness signed a long-term 23,000-SF lease at Muss Development's Flushing Plaza in Queens, occupying the ground floor of a mixed-use office and retail building at 41-61 Kissena Boulevard. Asking rent was $52/SF, and the gym is slated to open mid-2027. Muss Development highlighted Flushing's thriving commercial and retail landscape and resident demand for health/wellness offerings.",
+      "impact": "Gravity Fitness commitment to Flushing validates the submarket's residential density and consumer spending power, signaling sustained multifamily demand and rent growth in Queens' Downtown Flushing corridor. The lease backfill of ground-floor retail with premium fitness tenants indicates landlord confidence in mixed-use fundamentals; developers can capitalize on concurrent multifamily development opportunity in Flushing given transport access (LIRR, subway), strong Asian-American demographic base, and reinforcing retail anchors."
+    },
+    {
+      "title": "French Consulting Firm Wavestone Leases 10K SF at 511 Fifth Avenue",
+      "link": "https://commercialobserver.com/2026/10/wavestone-lease-511-fifth-avenue/",
+      "excerpt": "Wavestone, a global strategic business and technology transformation consulting firm, has inked a 9,812-square-foot office lease at 511 Fifth Avenue, an 18-story Midtown office building recently redeveloped by owners aurora capital, Wharton Properties and Achs Management. The France-based firm will relocate roughly two blocks east from 130 West 42nd Street — though it is unclear when — and occupy space on 511 Fifth Avenue&#8217;s 13th floor, according to Cushman &amp; Wakefield, which brokered the deal for Wavestone. “511 Fifth Avenue offered Wavestone a high-quality, modern workplace in a premier Midtown location that aligns well with the firm’s needs and its continued growth,” C&amp;W’s Nick Masi said in a statement. “The building’s recent repositioning, strong amenity offering and accessibility made it an attractive option, and we’re pleased to have secured a space that will support Wavestone’s team in New York for many years to come.” The length of the lease and the asking rent were not disclosed. The average asking rent for office space in Midtown Manhattan was $80.71 per square foot during the third quarter of 2026, according to Colliers’ Manhattan office report. Ownership was represented by Newmark’s Scott Klau and Natalie Serio. Newmark did not immediately respond to a request for comment. Built in 1915 and located near Bryant Park and Grand Central Terminal, 511 Fifth Avenue was recently redeveloped with 160,000 square feet of sleek new office and amenities spaces, as well as a redone lobby. The building’s 15th floor features amenities including a lounge, a juice bar and a fitness center. Other tenants in the building include coworking space provider WeWork. Amanda Schiavo can be reached at aschiavo@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-10-05T18:57:43+00:00",
+      "bullets": [
+        "Wavestone leased 9,812 SF at 511 Fifth Ave, Midtown, 13th floor; relocated from 130 W. 42nd St. (Times Square)",
+        "Building recently redeveloped by Aurora Capital, Wharton Properties, ACHS Management; modern amenities and repositioning cited",
+        "Brokered by Cushman & Wakefield (Nick Masi); lease length and rent terms not disclosed"
+      ],
+      "summary": "Wavestone, a France-based global consulting firm, signed a 9,812-SF office lease at 511 Fifth Avenue in Midtown Manhattan, relocating roughly two blocks east from 130 W. 42nd Street. The firm will occupy the 13th floor of the recently redeveloped 18-story building. Cushman & Wakefield brokered the deal, citing the building's modern amenities, recent repositioning, and premier location as key drivers.",
+      "impact": "Duplicate of Article 2 (Wavestone at 511 Fifth Ave). Confirms sustained Manhattan office leasing activity and corporate real estate optimization in Midtown; see Article 2 impact for multifamily implications."
+    },
+    {
+      "title": "Dwight Capital Refis Philly Apartments With $32M HUD Loan",
+      "link": "https://commercialobserver.com/2026/10/dwight-capital-philly-apartments/",
+      "excerpt": "Scannapieco Development has landed $32 million of agency-backed debt to refinance a newly built Philadelphia multifamily property, Commercial Observer has learned. Dwight Capital closed the U.S. Department of Housing and Urban Development (HUD) (223)(f) loan for Scannapieco’s 110-unit Americana development that debuted in 2024 in Philadelphia&#8217;s Kensington neighborhood. Loan proceeds will be used to fund a replacement reserve for future capital improvements and provide Scannapieco with access to equity built up since construction, according to Dwight. The transaction was originated by Dwght’s Jonathan Pomper and Jack Tawil. Located at 1775 North American Street, three miles north of Philadelphia’s Center City area, the five-story apartment building has ground-floor retail space leased to The Learning Experience and Allie Lasure Fitness. Resident amenities include a clubhouse, an 8,000-square-foot pool deck, an outdoor lounge with grilling areas, a game room and a two-level fitness center. Philadelphia-based Scannapieco did not immediately return a request for comment. Andrew Coen can be reached at acoen@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-10-05T18:25:24+00:00",
+      "bullets": [
+        "Dwight Capital closed $32M HUD 223(f) loan for Scannapieco's 110-unit Americana, Philadelphia, completed 2024",
+        "Located in Kensington (3 mi north of Center City); 5-story building with ground-floor retail (Learning Experience, Allie Lasure Fitness)",
+        "Refinance funds replacement reserves and provides equity extraction; strong amenities (pool deck, fitness, clubhouse, game room)"
+      ],
+      "summary": "Dwight Capital closed a $32 million HUD 223(f) loan for Scannapieco Development's newly completed 110-unit Americana multifamily property in Philadelphia's Kensington neighborhood. The five-story building, finished in 2024, features ground-floor retail, a clubhouse, 8,000-SF pool deck, outdoor lounge, game room, and two-level fitness center. Loan proceeds fund capital reserves and provide equity access.",
+      "impact": "Strong agency debt availability (HUD 223(f)) for recently stabilized product in emerging Philadelphia neighborhoods (Kensington, 3 mi north of Center City) signals lender confidence in urban, mixed-use multifamily outside the CBD. This validates development strategy in transitional Kensington submarket; the presence of complementary retail (fitness, childcare) and robust amenities drives occupancy and rent sustainability, lowering cost of capital for future similar deals in Philadelphia's northbound growth corridor."
+    },
+    {
+      "title": "CRE Law Firm Adler & Stachenfeld Takes 40K SF at 1301 Avenue of the Americas",
+      "link": "https://commercialobserver.com/2026/10/adler-stachenfeld-lease-1301-avenue-of-the-americas/",
+      "excerpt": "Commercial real estate law firm Adler &amp; Stachenfeld (A&amp;S) is relocating its New York City offices within Midtown. The practice, which was founded in 1997 by Bruce Stachenfeld and Terri Adler, has signed a 40,000-square-foot lease on the entire 12th floor of 1301 Avenue of the Americas, now owned in a joint venture between Rithm Capital and DRA Advisors, the tenant announced Monday. The asking rent, the length of the lease were unclear, but the average asking rent for Midtown office space was $85.08 per square foot in the third quarter of 2026, according to a report from Colliers. A&amp;S firm has already moved into the building from its previous address at 555 Madison Avenue. &#8220;Our attorneys work every day on sophisticated real estate transactions, and our new physical space matches the caliber of our clients and the deals we facilitate,&#8221; Adler said in a statement. &#8220;A&amp;S has built a stellar reputation as a premier real estate law firm by combining deep industry knowledge with a forward-looking approach to the issues shaping commercial real estate.&#8221; Andrew Sussman and David Hollander at CBRE negotiated on behalf of the tenant while it is unclear who represented the landlord. CBRE, Rithm and DRA did not immediately respond to requests for comment. A&amp;S specializes in New York City tax incentives, Local Law 97, C-PACE and ground lease financing, handling “billions” in real estate transactions every year, according to the firm. The owners just made it public that DRA acquired a 49 percent stake in the 45-story office tower on Sunday, with Commercial Observer being first to report the deal and the property being valued at around $1.3 billion. Other tenants in the building at the corner of Avenue of the Americas and West 53rd Street include banks KeyBank, Piper Sandler and Crédit Agricole, as well as law firm O’Melveny &amp; Myers. Mark Hallum can be reached at mhallum@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-10-05T18:16:56+00:00",
+      "bullets": [
+        "CRE law firm Adler & Stachenfeld signed 40,000-SF lease (entire 12th floor) at 1301 Avenue of the Americas, Midtown",
+        "Relocated from 555 Madison Avenue; building owned by JV of Rithm Capital and DRA Advisors; move already completed",
+        "Midtown office asking rent averaged $85.08/SF in Q3 2026; law firm attracted by sophisticated transaction space"
+      ],
+      "summary": "Commercial real estate law firm Adler & Stachenfeld signed a 40,000-SF lease on the entire 12th floor of 1301 Avenue of the Americas in Midtown Manhattan, relocating from 555 Madison Avenue. The building is owned by a joint venture between Rithm Capital and DRA Advisors. The firm has already moved in; lease terms and rent were not disclosed, though Midtown office asking rents averaged $85.08/SF in Q3 2026.",
+      "impact": "CRE law firm upgrading/consolidating to full-floor Midtown office signals continued capital market activity and institutional confidence in transactional real estate dealflow. Sustained Midtown office demand from professional services (legal, consulting) reinforces multifamily demand in transit-proximate neighborhoods (Kips Bay, Midtown East, Turtle Bay, NoMad); developers can validate continued white-collar workforce concentration and supporting rental demand in Manhattan submarkets with strong office leasing velocity."
     }
   ]
 }
