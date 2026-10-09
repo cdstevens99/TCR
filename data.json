@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-09T17:45:23.121439+00:00",
+  "fetchedAt": "2026-10-09T22:02:01.188610+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -9,21 +9,156 @@
     },
     {
       "label": "10Y Treasury",
-      "value": "5.25%",
-      "pct": 0.46
+      "value": "5.24%",
+      "pct": 0.25
     },
     {
       "label": "30Y Treasury",
-      "value": "5.61%",
-      "pct": 0.11
+      "value": "5.60%",
+      "pct": -0.11
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "90.53",
-      "pct": 1.33
+      "value": "90.65",
+      "pct": 1.45
     }
   ],
   "stories": [
+    {
+      "title": "Flexday Opens Flexible Office Space in Chicago’s Loop",
+      "link": "https://www.connectcre.com/stories/flexday-opens-flexible-office-space-in-chicagos-loop/",
+      "excerpt": "JLL announced that Flexday, a national provider of flexible office solutions, has launched four fractional office suites at PNC Centre at One North Franklin in the heart of Chicago&#8217;s Loop. The suites total more than 25,000 square feet and are designed to accommodate teams of 10 to 70 with flexible, on-demand, and recurring terms, giving companies access to a Class A address and environment without a lease commitment.The launch was made possible through a partnership with MetLife Investment Management, the building&#8217;s ownership group, as part of a broader capital investment in PNC Centre that includes a newly renovated lobby and upgraded tenant amenities. JLL leasing brokers, Brad Despot, Senior Managing Director and Kim Doyle, Senior Vice President, along with Catherine Walsh, Vice President and General Manager at JLL represent MetLife Investment Management at PNC Centre. The post Flexday Opens Flexible Office Space in Chicago’s Loop appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-10-09T21:36:43+00:00",
+      "bullets": [
+        "Flexday launches 25,000 SF flexible office at PNC Centre, Chicago Loop",
+        "MetLife Investment Management backing; renovated lobby and upgraded amenities",
+        "Targets 10–70 person teams with no long-term lease commitment"
+      ],
+      "summary": "Flexday and MetLife have opened 25,000 SF of fractional office suites at PNC Centre in Chicago's Loop, designed for teams of 10–70 seeking flexible, commitment-free occupancy. The launch is part of a broader capital investment by MetLife in the building that includes lobby renovation and tenant amenity upgrades. This flexible office model competes directly with traditional office leasing.",
+      "impact": "Minimal direct impact on multifamily development. Flexible office growth signals continued corporate tenant uncertainty and reduced demand for long-term, large-footprint leases—not a demand driver for apartments. Relevant only if it indicates Chicago Loop office weakness offsetting residential demand near employment centers."
+    },
+    {
+      "title": "Colliers Represents ClarkDietrich in Anchor Lease at Ohio Office Development",
+      "link": "https://www.connectcre.com/stories/colliers-represents-clarkdietrich-in-anchor-lease-at-ohio-office-development/",
+      "excerpt": "Colliers represented ClarkDietrich in a 32,558-square-foot office lease that will occupy nearly three-quarters of a new office building at Montgomery Quarter, a mixed-use development located at 9260 Montgomery Road in Cincinnati, Ohio. John Schenk, senior vice president, and Matt Smyth, vice president, with Colliers | Cincinnati represented the tenant throughout the site selection and lease negotiation process. “This transaction demonstrates that well-located, high-quality office space continues to attract tenants making long-term commitments in the Cincinnati market,” said Schenk. Located along the Montgomery Road corridor in Cincinnati’s northeastern suburbs, ClarkDietrich’s new office provides access to a mix of retail and dining amenities, structured parking and a modern workplace environment designed to support employee collaboration. ClarkDietrich, a manufacturer of cold-formed steel framing products and systems, plans to relocate approximately 90 employees to the new office. The company is expected to occupy the space in October 2027. The post Colliers Represents ClarkDietrich in Anchor Lease at Ohio Office Development appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-10-09T21:31:18+00:00",
+      "bullets": [
+        "ClarkDietrich leases 32,558 SF at Montgomery Quarter, Cincinnati suburbs, Oct 2027 occupancy",
+        "90-employee relocation to Montgomery Road corridor in northeastern Cincinnati",
+        "Anchor tenant demonstrates office market strength in well-located suburban Cincinnati"
+      ],
+      "summary": "ClarkDietrich, a cold-formed steel framing manufacturer, has leased 32,558 SF (75% of the new building) at Montgomery Quarter mixed-use development on Montgomery Road in Cincinnati's northeastern suburbs. The company plans to relocate 90 employees to the space in October 2027. The transaction signals sustained corporate demand for Class A suburban office with retail and dining nearby.",
+      "impact": "Modest positive signal for Cincinnati-area multifamily: ClarkDietrich's 90-person relocation to the northeast suburbs corridor will drive localized housing demand in that submarket. Developers should track Montgomery Road and nearby submarkets for apartment site acquisition and pipeline development ahead of 2027 occupancy."
+    },
+    {
+      "title": "Apartment Property in Downtown Wenatche Changes Hands",
+      "link": "https://www.connectcre.com/stories/apartment-property-in-downtown-wenatche-changes-hands/",
+      "excerpt": "Tamarack, a 23-unit apartment community at 211 N. Delaware Avenue in Wenatchee, Washington, has sold for $3.25 million. Kidder Mathews Vice President Max Frame of the Simon | Anderson Multifamily Team represented the seller, Dan Dahl. The 21,400-square-foot garden-style community is located steps from downtown Wenatchee and offers investors a value-add opportunity in a highly competitive multifamily market. Tamarack went under contract just three days after being listed and sold for approximately $141,304 per unit. The sale marks the property’s first change of ownership in 19 years. “The speed at which Tamarack went under contract reflects the strong demand we continue to see for well-located multifamily opportunities in Wenatchee,” said Frame. “The property had been thoughtfully maintained over many years, giving buyers a strong existing asset with additional upside. Combined with its location near downtown, that made it a compelling opportunity and generated immediate interest.” The post Apartment Property in Downtown Wenatche Changes Hands appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-10-09T21:24:59+00:00",
+      "bullets": [
+        "Tamarack, 23-unit garden-style apartment, Wenatchee downtown sold $3.25M ($141.3K/unit)",
+        "First ownership change in 19 years; listed and under contract in 3 days",
+        "Value-add opportunity in tight, competitive Wenatchee multifamily market"
+      ],
+      "summary": "Tamarack, a 23-unit garden-style apartment community in downtown Wenatchee, sold for $3.25 million ($141,304/unit) after going under contract in just three days—its first ownership change in 19 years. The property's thoughtful maintenance and downtown location made it an immediate draw for buyers, reflecting strong investor appetite for well-located Wenatchee multifamily assets.",
+      "impact": "Wenatchee multifamily market is heating up: rapid sale velocity and value-add buyer interest signal rising cap rates, tight supply, and sustained demand. For Trammell Crow, this indicates a window to acquire land or redevelopment sites in downtown Wenatchee before cap rates tighten further; supply constraints and buyer competition will only intensify."
+    },
+    {
+      "title": "Alterra IOS Expands Baltimore-Area Footprint with Acquisition",
+      "link": "https://www.connectcre.com/stories/alterra-ios-expands-baltimore-area-footprint-with-acquisition/",
+      "excerpt": "Alterra IOS continues to grow its Baltimore-area footprint with the acquisition of a new, fully leased industrial property at 9729 Philadelphia Road in Rosedale, Maryland. The site features 4.7 usable acres and 22,500 square feet of building improvements in close proximity to I-95 and I-695. The transaction represents Alterra&#8217;s seventh acquisition in the Baltimore MSA. Andrew Meeder of MacKenzie Companies assisted in the transaction. The property sits in Rosedale, positioning it along a key freight corridor connecting Baltimore with Philadelphia, New York and the broader Northeast. The deal brings Alterra’s Baltimore-area portfolio to a total of seven acquisitions. Baltimore continues to be an attractive market for Alterra, given its tight supply of IOS properties with a vacancy rate of about 2.5%, strong demand from logistics and transportation users, and proximity to the Port of Baltimore. The post Alterra IOS Expands Baltimore-Area Footprint with Acquisition appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-10-09T21:07:36+00:00",
+      "bullets": [
+        "Alterra IOS acquires fully leased industrial, 22,500 SF, Rosedale, Maryland (7th Baltimore deal)",
+        "4.7 acres near I-95 and I-695; tight 2.5% vacancy in Baltimore IOS market",
+        "Strategic position along Northeast freight corridor (Baltimore–Philadelphia–NYC)"
+      ],
+      "summary": "Alterra IOS acquired a fully leased 22,500 SF industrial property on 4.7 acres in Rosedale, Maryland near I-95 and I-695—its seventh acquisition in the Baltimore MSA. The Baltimore area offers attractive fundamentals: approximately 2.5% vacancy, strong logistics and transportation demand, and proximity to the Port of Baltimore and the Northeast corridor.",
+      "impact": "Not directly relevant to multifamily development. Industrial absorption and logistics growth in Baltimore do signal job and population in-migration to the region, which over time boosts apartment demand. However, this news focuses on industrial/IOS supply, not housing. Monitor if logistics expansion drives wage growth and household formation in Baltimore suburbs; that would strengthen multifamily fundamentals."
+    },
+    {
+      "title": "Merchants Capital Secures $98M for VA Affordable Development",
+      "link": "https://www.connectcre.com/stories/merchants-capital-secures-98m-for-va-affordable-development/",
+      "excerpt": "Leading financial services provider Merchants Capital announced $97.8 million in financing for the rehabilitation of Stuart Gardens, a 491-unit, two-phased affordable multifamily property in Newport News, Virginia. developed by Vitus Group. Merchants Capital secured $62.8 million in U.S. Department of Housing and Urban Development (HUD) 221(d)(4) permanent financing and $35 million in equity bridge loans provided by Merchants Bank. Stuart Gardens’ capital stack also includes low-income housing tax credit and green and resilient retrofit program financing via HUD for energy-efficient improvements. Stuart Gardens comprises 109 two-story buildings, with 489 of 491 units across both properties, 100% of the residential units, restricted to families earning 60% area median income. Constructed in 1940, it has been designated as a historic property by the Virginia Board of Historic Resources. Upon completion, Stuart Gardens will offer updated one, two and three-bedroom apartments. Located in a mixed-use neighborhood southeast of downtown Newport News, Stuart Gardens sits within a 1.5-mile radius of schools, public transportation, recreation areas, fire and police stations and grocery stores. The post Merchants Capital Secures $98M for VA Affordable Development appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-10-09T21:02:28+00:00",
+      "bullets": [
+        "Merchants Capital secures $97.8M for Stuart Gardens, 491-unit affordable rehab, Newport News, VA",
+        "$62.8M HUD 221(d)(4) permanent + $35M equity bridge; LIHTC and green retrofit funding",
+        "Historic 1940 property; units capped at 60% AMI; completion creates modern 1–3BR stock"
+      ],
+      "summary": "Merchants Capital closed $97.8 million in financing for Stuart Gardens, a 491-unit affordable multifamily rehabilitation in Newport News, Virginia. The capital stack includes $62.8M in HUD 221(d)(4) permanent financing, $35M in equity bridge loans, plus LIHTC and HUD green/resilient retrofit grants. All 489 residential units are restricted to families earning 60% AMI and will be updated with modern one, two, and three-bedroom units.",
+      "impact": "Limited direct relevance to market-rate multifamily development. However, the deal signals strong HUD 221(d)(4) and LIHTC availability in the Hampton Roads/Newport News area, indicating government support for affordable housing. For Trammell Crow, this suggests regulatory appetite for density and mixed-income development in the region; consider policy environment favorable for market-rate+affordable mixed-income projects in Newport News/Hampton Roads."
+    },
+    {
+      "title": "Charter School Inks 56K-SF Lease in Retail Center Near Miami Suburb",
+      "link": "https://commercialobserver.com/2026/10/bridgeprep-academy-california-club-shopping-center/",
+      "excerpt": "Charter school network BridgePrep Academy will open another location, this time inside a shopping center in Miami-Dade County. The school operator, which has 19 locations across Florida, signed a 56,000-square-foot lease at the open-air California Club Shopping Center in Ives Estates, near Aventura, 15 miles north of Downtown Miami. The 273,050-square-foot property, owned by RK Centers, sits west of Interstate 95 at 750 Ives Dairy Road. Other tenants at California Club include Planet Fitness, Five Below and Burlington. Waterways Preparatory Academy @ Kropp Annex, part of the public Dade County School District, previously leased BridgePrep’s new space up until at least last year. “Miami doesn’t have a surplus of properties that work for educational operators,” CBRE’s Scott Goldstein, who represented the tenant alongside Keith Edelman, said in a statement. “We moved quickly.” Some of the challenges include the lack of available properties that have the correct code and layout. Demand for grade schools, mostly for private ones, has skyrocketed in South Florida since the onset of the pandemic, when a slew of new-market companies opened offices and their employees moved in tow. To fix the issue, billionaire developer Stephen Ross is donating $100 million to Pine Crest School, a private school with locations in Fort Lauderdale and Boca Raton, to open another in West Palm Beach, Bloomberg reported. Another billionaire, Jeff Greene, has spent $50 million to build The Greene School, also in West Palm Beach, the Wall Street Journal reported. BridgePrep Academy and RK Centers did not immediately respond to a request for comment. Julia Echikson can be reached at jechikson@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-10-09T20:50:00+00:00",
+      "bullets": [
+        "BridgePrep Academy signs 56,000 SF lease at California Club Shopping Center, Ives Estates, Miami-Dade",
+        "Charter school has 19 Florida locations; demand for private schools surged post-pandemic in South Florida",
+        "Shopping center 15 miles north of Downtown Miami; tenant mix includes Planet Fitness, Five Below, Burlington"
+      ],
+      "summary": "BridgePrep Academy, a charter school network with 19 Florida locations, has leased 56,000 SF at California Club Shopping Center in Ives Estates, Miami-Dade County (15 miles north of Downtown Miami). The lease reflects surging demand for private and charter school space in South Florida since the pandemic, with brokers noting scarcity of available properties with correct code and layout for educational operators.",
+      "impact": "Indirect multifamily demand signal for South Florida: charter school expansion and post-pandemic migration to private education indicate sustained household in-migration and family formation in Miami-Dade, particularly in northern/suburban areas (Ives Estates, near Aventura). Developers should track charter/private school openings as leading indicators of family demographic density; these areas warrant multifamily acquisition and pipeline development targeting 2–3 bedroom, family-oriented units."
+    },
+    {
+      "title": "Taco Bell’s Office Lease Largest in Orange County, Calif., in Five Years",
+      "link": "https://commercialobserver.com/2026/10/office-lease-orange-county-calif-taco-bell/",
+      "excerpt": "Orange County, Calif.’s office market improved again in the third quarter thanks to a diverse set of corporate leases. Total vacancy improved to 15.4 percent, down from 17.1 percent a year ago, while average asking rents increased to $3.02 per square foot per month, up from $2.90 at the end of 2025, according to new data from JLL. Net absorption slipped slightly for the quarter, but remained positive on the year at 265,394 square feet, compared to negative 158,099 square feet for all of 2025. Tenants signed about 1.55 million square feet of leases during the quarter, led by Taco Bell’s 254,162-square-foot lease at Irvine Company’s Alton HQ, the largest office lease signed in Orange County in five years. (The maker of the Crunchwrap Supreme plans to relocate from its current Irvine headquarters in 2028.) Medical device maker Envista Holdings also signed for 101,800 square feet across three buildings, while an unnamed aerospace company took 173,057 square feet across two Airport Area properties, including 102,417 square feet at 4000 MacArthur Boulevard. The South County submarket posted the strongest quarterly absorption at 86,107 square feet, with Irvine Company’s Irvine Spectrum campus contributing 133,115 square feet. However, several other submarkets posted losses in absorption. Supply remains tight as Orange County has recorded no new office completions so far this year, and only one project — the 168,137-square-foot building underway at the Anaheim Ducks’ $5 billion mixed-use development — is under construction. The project is expected to deliver in the fourth quarter, and is already 23 percent pre-leased. Office conversions are also removing space from the market. Gregory Cornfield can be reached at gcornfield@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-10-09T20:00:14+00:00",
+      "bullets": [
+        "Taco Bell leases 254,162 SF at Alton HQ, Irvine, Orange County—largest OC office lease in 5 years",
+        "HQ relocation from current Irvine location; occupancy in 2028; Orange County vacancy fell to 15.4%",
+        "OC office market gained 265,394 SF YTD; q3 avg asking rent $3.02/SF/mo (+$0.12 YoY)"
+      ],
+      "summary": "Taco Bell signed a 254,162 SF office lease at Irvine Company's Alton HQ in Orange County—the largest office lease in five years. The company plans to relocate from its current Irvine headquarters in 2028. Orange County's office market tightened in Q3 with vacancy falling to 15.4% (from 17.1% YoY), rents rising to $3.02/SF/month, and positive YTD net absorption of 265,394 SF despite slowing Q3 activity.",
+      "impact": "Positive but qualified multifamily signal for Irvine/Orange County: Taco Bell's 2028 HQ move and broader office tightening signal corporate confidence and employee headcount stability in OC. However, office strength in Orange County has not reliably translated to apartment demand (tight office market can reflect automation/lower occupancy per SF). Developers should monitor Taco Bell's hiring plans and wage growth post-move; if it drives 1,000+ white-collar jobs, target family/renter-friendly product in Irvine and nearby Tustin/Santa Ana for 2027–2029 delivery."
+    },
+    {
+      "title": "Yves Saint Laurent to Open Store at Kering’s 717 Fifth Avenue",
+      "link": "https://commercialobserver.com/2026/10/yves-saint-laurent-lease-store-kering-717-fifth-avenue/",
+      "excerpt": "Luxury French fashion house Yves Saint Laurent will open a new store at 717 Fifth Avenue, a new report revealed. According to a market report released by CBRE, the Kering-owned fashion house, once known as YSL for its founder, the late Yves Saint Laurent, will open in nearly 9,600 square feet in the base of the former Corning Glass Building that sits across East 56th Street from Trump Tower. Saint Laurent is currently at 3 East 57th Street, where it opened in 2003. That store was expanded to 14,071 square feet and renovated in 2015. According to property records, the original lease on East 57th Street ended in 2022 and had no renewal options. Since the fashion retailer is still there, the company likely signed a five-year extension during the pandemic, which would come due in October 2027. The building is managed by Buchbinder &amp; Warren, which did not immediately respond to requests for comment. Kering bought the lower four floors at 717 Fifth Avenue in January 2024 for $963 million from Jeff Sutton’s Wharton Properties and SL Green Realty. The condominium has about 110,000 square feet that encompasses three floors of retail and one office floor. Most of the retail is occupied by Dolce &amp; Gabbana and Armani. In December 2025, facing financial pressure, Kering sold a 60 percent stake to the large French private equity investment firm, Ardian, revaluing the commercial condominium to $900 million at $7,830 per square foot, but giving Kering a $690 million cash boost. It was expected at the time that Kering would begin to bring its own brands under its roof. Along with Saint Laurent, Kering encompasses Gucci, Balenciaga, Bottega Veneta, McQueen, Brioni plus Boucheron, Pomellato, DoDo, Qeelin, Ginori 1735 as well as Kering Eyewear. Gucci is housed across the street in Trump Tower and it is unclear whether they will once again extend that lease of nearly 50,000 square feet, which was renegotiated during COVID-19 with a rent reduction and extension beyond its 2026 en",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-10-09T19:48:36+00:00",
+      "bullets": [
+        "Yves Saint Laurent opening at 717 Fifth Avenue, NYC; ~9,600 SF, Kering-owned building",
+        "Relocating from 3 East 57th Street (opened 2003, expanded 2015); new lease due Oct 2027",
+        "Kering acquired 717 Fifth lower 4 floors for $963M in Jan 2024 from Wharton Properties/SL Green"
+      ],
+      "summary": "Yves Saint Laurent will open a new flagship store of approximately 9,600 SF at 717 Fifth Avenue in Manhattan, relocating from its current location at 3 East 57th Street (which may see lease renewal in October 2027). Kering, the parent company, acquired the lower four floors of 717 Fifth Avenue in January 2024 for $963 million, signaling luxury brand confidence in Fifth Avenue retail positioning.",
+      "impact": "No direct multifamily relevance. Luxury retail consolidation on Fifth Avenue reflects Midtown Manhattan property investment but does not signal residential demand or development opportunity for Trammell Crow in the region."
+    },
+    {
+      "title": "Northern Virginia Office Vacancy Falls Again as AI, Defense Demand Builds",
+      "link": "https://commercialobserver.com/2026/10/northern-virginia-office-q3/",
+      "excerpt": "Northern Virginia’s office market continued to tighten in the third quarter as more demand from artificial intelligence, technology and defense tenants bolstered weaker leasing activity. The market posted 672,378 square feet of positive net absorption during the quarter, reversing losses from the first half of the year tied to buildings being removed from the market, according to JLL. The National Science Foundation’s 380,000-square-foot move to 401 Dulany Street accounted for much of the gain. Northern Virginia’s office vacancy rate fell for a sixth straight quarter to 21.7 percent. Total available space dropped to 33.6 million square feet, its lowest level in a decade, and 25.5 percent below the 45.1 million-square-foot peak in 2023. Leasing activity slowed to just 1.3 million square feet on the quarter, with no deals of more than 100,000 square feet. AI, technology and defense companies committed to more than 300,000 square feet of net new space. And defense spending and tech investment are expected to continue driving momentum. Relocations and new leases have accounted for 58 percent of leasing so far in 2026 in a reverse to the renewal era of 2021 through 2023. Office supply is beginning to strengthen rents, according to JLL. Class A direct asking rents reached $42.51 per square foot per year, while overall direct asking rents averaged $38.13. JLL’s longer-term data shows asking rents have risen since 2022 for Trophy, Class A and Class B properties, while Class C rents have slipped. New construction remains virtually nonexistent, with only about 34,000 square feet underway. Meanwhile, more than 10 million square feet of existing office inventory has been proposed for redevelopment, a dynamic JLL expects will continue tightening the lower end of the market while limited Trophy supply pushes demand toward Class A properties. Gregory Cornfield can be reached at gcornfield@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-10-09T17:45:10+00:00",
+      "bullets": [
+        "Northern Virginia office vacancy fell to 21.7% (Q3, 6th straight quarter decline)",
+        "NSF 380K SF move to 401 Dulany Street; AI/tech/defense tenants committed 300K+ SF net new",
+        "Total available space 33.6M SF, 25.5% below 2023 peak; leasing slowed to 1.3M SF/quarter"
+      ],
+      "summary": "Northern Virginia's office market tightened further in Q3 with vacancy falling to 21.7% (sixth consecutive quarter of decline) and total available space at 33.6 million SF—its lowest in a decade and 25.5% below the 2023 peak. The National Science Foundation's 380,000 SF relocation to 401 Dulany Street and AI/tech/defense sector commitments of 300,000+ SF of net new space drove positive absorption of 672,378 SF, though overall leasing activity slowed.",
+      "impact": "STRONG positive signal for Northern Virginia multifamily: AI, tech, and defense sector consolidation around Dulany Street (McLean/Reston corridor) signals sustained job growth and white-collar wage expansion. With office vacancy at 21.7% and inventory at decadal lows, multifamily demand will intensify as employers hire and retain talent. Developers should prioritize site acquisition in Reston, McLean, Herndon, and along the Dulany Street/Route 7 corridor for 2027–2029 delivery; competition for sites will accelerate as office scarcity becomes recognized."
+    },
     {
       "title": "S3 Capital Supplies $20M for Boutique Miami Beach Condo",
       "link": "https://commercialobserver.com/2026/10/trinity-southern-s3-miami-beach-condo-twenty-nine-indian-creek/",
@@ -32,147 +167,12 @@
       "cat": "Commercial",
       "date": "2026-10-09T16:50:55+00:00",
       "bullets": [
-        "S3 Capital closed $19.5M construction loan for Trinity Southern's 16-unit luxury condo in Miami Beach.",
-        "Twenty Nine Indian Creek at 2901 Indian Creek Drive; 10 of 16 units presold before ground break.",
-        "Site acquired for $8M from JMH Development; eight-story waterfront development near Miami Beach Edition."
+        "Trinity Southern secures $19.5M construction loan from S3 Capital for 16-unit luxury condo, Miami Beach",
+        "Twenty Nine Indian Creek, 2901 Indian Creek Drive Mid-Beach; 24,842 SF, 10 units pre-sold",
+        "Site purchased for $8M from JMH Development; 8-story development with parking garage"
       ],
-      "summary": "Trinity Southern acquired a 15,000-square-foot Miami Beach waterfront site for $8 million and secured $19.5 million in construction financing from S3 Capital for Twenty Nine Indian Creek, an eight-story boutique condo with 16 units. The property, located in the Mid-Beach neighborhood near Miami Beach Edition, has already presold 10 units. Luxury condo financing in South Florida remains active and attractive to lenders.",
-      "impact": "Miami Beach condo strength signals continued affluent in-migration and wealth concentration in South Florida; while not multifamily rental, this capital activity and presale velocity in luxury demonstrates robust demand for experiential urban living near hotels and mixed-use, which can inform adjacent rental demand patterns and land values in South Florida submarkets."
-    },
-    {
-      "title": "Nuveen Acquires 113K-SF Aurora Retail Center",
-      "link": "https://www.connectcre.com/stories/nuveen-acquires-113k-sf-aurora-retail-center/",
-      "excerpt": "Nuveen Real Estate has acquired Highpoint Marketplace, a 113,833-square-foot retail center in Aurora, Colo. Commercial Search reports that Gerrity Group sold the asset for $36.3 million or roughly $319 per square foot. Gerrity Group paid $24 million for the Safeway-anchored center in 2018. Located at 18730 E. Hampden Ave., the three-building property opened in 2001 on nearly 15 acres just east of South Tower Road. Highpoint Marketplace in a residential area within 9 miles of the city center and 15 miles southeast of downtown Denver. The retail center last underwent renovations in 2007. Anchored by a 55,580-square-foot Safeway, the property also has fitness, beauty, health and dining tenants such as Wendy’s on its roster. CM Commercial Partners oversees leasing. Gerrity owns and operates 19 properties throughout the western United States, with a focus on grocery-anchored shopping centers. The post Nuveen Acquires 113K-SF Aurora Retail Center appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-10-09T16:42:24+00:00",
-      "bullets": [
-        "Nuveen acquired Highpoint Marketplace, Aurora, Colo., 113,833 SF for $36.3M ($319/SF) from Gerrity Group.",
-        "Safeway-anchored center on 15 acres; Gerrity paid $24M in 2018; last renovated 2007.",
-        "Aurora location 9 miles east of city center, 15 miles southeast of downtown Denver."
-      ],
-      "summary": "Nuveen Real Estate purchased Highpoint Marketplace, a 113,833-square-foot Safeway-anchored retail center in Aurora, Colorado, for $36.3 million ($319/SF). Gerrity Group, which bought the asset in 2018 for $24 million, sold it after a 51-percent gain over six years. The three-building property occupies 15 acres in a residential area and was last renovated in 2007.",
-      "impact": "Little direct relevance to multifamily development; retail capital flows do not signal apartment demand or supply conditions in Aurora or metro Denver."
-    },
-    {
-      "title": "Interstate Equities Pays $84M for Hercules Multifamily",
-      "link": "https://www.connectcre.com/stories/interstate-equities-pays-83m-for-hercules-multifamily/",
-      "excerpt": "JLL Capital Markets arranged the $83.5-million sale and $54.275-million financing of The Dylan, a 232-unit apartment community in Hercules. JLL represented the seller, Hercules Development Partners, in the sale to Interstate Equities Corporation and arranged a five-year acquisition loan through Freddie Mac. Senior managing directors Ryan Wagner, Brandon Geraldo and Matt Kroger and director Fatai Alashe of JLL&#8217;s Capital Markets Investment Sales and Advisory team represented the seller. Executive managing director Charles Halladay and director Matt Cimino led the Capital Markets Debt Advisory team representing the borrower. Completed in 2022, The Dylan is located along San Pablo Bay at 2200 John Muir Pkwy. &#8220;The East Bay continues to attract significant investor attention due to its relative affordability compared to core Bay Area markets, robust income growth projections and limited new supply,&#8221; said Wagner. &#8220;Hercules, with its unique waterfront position and excellent regional connectivity, has emerged as a standout performer.&#8221; The post Interstate Equities Pays $84M for Hercules Multifamily appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-10-09T16:40:33+00:00",
-      "bullets": [
-        "Interstate Equities acquired The Dylan, Hercules, CA, 232 units for $83.5M; Freddie Mac financed $54.3M.",
-        "Completed 2022 at 2200 John Muir Pkwy along San Pablo Bay; five-year acquisition loan term.",
-        "East Bay multifamily attracting investors due to affordability vs. core Bay Area and limited new supply."
-      ],
-      "summary": "Interstate Equities purchased The Dylan, a 232-unit apartment community completed in 2022 in Hercules, California, for $83.5 million with a $54.3 million Freddie Mac acquisition loan. The waterfront East Bay property is benefiting from investor appetite driven by relative affordability compared to core San Francisco Bay Area and a constrained supply pipeline. JLL Capital Markets arranged the sale and financing.",
-      "impact": "Hercules submarket (East Bay) is crystallizing as a flight-to-value destination for institutional buyers seeking Bay Area exposure without prime SF/Oakland pricing; this signals opportunity for TCR to acquire or develop mid-market multifamily in East Bay submarkets ahead of further supply constraints and rent escalation as East Bay becomes the default affordable option for Bay Area job growth."
-    },
-    {
-      "title": "ORIX Buys 322-Unit Austin Apartment Community",
-      "link": "https://www.connectcre.com/stories/orix/",
-      "excerpt": "ORIX Corp. USA has purchased Strata, a 322-unit luxury asset in Austin, Texas, from Maverick Development Group. In addition, Multi-Housing New reports Franklin BSP Realty Trust issued a $42 million acquisition loan set to mature in 2031. Strata is part of a six-phase project set to include more than 2,000 units. ORIX’s new community comprises 12 buildings encompassing studio, one- and two-bedroom layouts that average 875 square feet. Amenities include a business lounge with private work pods, as well as a gym, swimming pool and community room, among other features. Located at 8340 Bluff Springs Road, Strata is some 10 miles southwest of downtown Austin. The property is also less than 1 mile from Interstate 35. Established in 1981, ORIX manages proprietary and investor capital across a wide range of alternative asset classes on the ORIX USA platform and through subsidiaries NXT Capital, Hilco Global, Boston Financial and Lument. The post ORIX Buys 322-Unit Austin Apartment Community appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-10-09T16:29:18+00:00",
-      "bullets": [
-        "ORIX acquired Strata, Austin, TX, 322 units from Maverick Development; Franklin BSP issued $42M loan (matures 2031).",
-        "Located 10 miles southwest downtown at 8340 Bluff Springs Rd; part of six-phase project totaling 2,000+ units.",
-        "Luxury asset with studio/1BR/2BR averaging 875 SF; amenities include business lounge, gym, pool."
-      ],
-      "summary": "ORIX Corp. USA purchased Strata, a 322-unit luxury apartment community in Austin, Texas, from Maverick Development Group. Franklin BSP Realty Trust financed the acquisition with a $42 million loan maturing in 2031. The property, located 10 miles southwest of downtown and less than 1 mile from Interstate 35, is part of a larger six-phase project expected to deliver over 2,000 units.",
-      "impact": "Austin's continued attractiveness to institutional capital on a multi-thousand-unit pipeline indicates sustained demand momentum and developer confidence in market absorption; TCR should monitor supply timing and phase-out across the six-phase project to identify windows for selective infill development or acquisition of remaining parcels before downstream saturation pressures emerge in southwest Austin corridor."
-    },
-    {
-      "title": "Lincoln Moving Ahead on Uptown Mixed-Use Project",
-      "link": "https://www.connectcre.com/stories/lincoln-moving-ahead-on-uptown-mixed-use-project/",
-      "excerpt": "Lincoln Property Co.⁠ expects to break ground on an office tower of more than 500,000 square feet later this year or in early 2028. To be called 28Hundred Fairmount, it will anchor an even wider development the company is calling The Springs District, totaling 1.4 million square feet on a 4-acre site at 2500 Cedar Springs Road. The project will also have an as-yet-unnamed 234-unit apartment tower and 200-key hotel. The Dallas Business Journal reports that all are expected to be complete by 2030. Lincoln is developing the entire district. Suffolk Construction has been brought on board as general contractor. The planned tower is less than a half-mile from Uptown&#8217;s newest and tallest tower, 23Springs. The post Lincoln Moving Ahead on Uptown Mixed-Use Project appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-10-09T16:12:49+00:00",
-      "bullets": [
-        "Lincoln Property Co. breaking ground late 2027/early 2028 on 500K+ SF office tower at 2500 Cedar Springs Rd, Dallas.",
-        "The Springs District mixed-use: 28Hundred Fairmount office, 234-unit apartment tower, 200-key hotel; 1.4M SF total.",
-        "All components expected complete by 2030; Suffolk Construction as GC; less than 0.5 miles from 23Springs."
-      ],
-      "summary": "Lincoln Property Company is advancing The Springs District, a 1.4-million-square-foot mixed-use development on a 4-acre Uptown Dallas site that will include a 500,000-square-foot office tower (28Hundred Fairmount), a 234-unit apartment tower, and a 200-key hotel. Suffolk Construction is the general contractor, with groundbreaking planned for late 2027 or early 2028 and delivery by 2030. The project sits within a half-mile of the newly completed 23Springs tower.",
-      "impact": "Lincoln's 234-unit residential component in Uptown Dallas signals developer confidence in sustained demand density and pricing power in core Uptown; clustering with 23Springs creates a sub-market momentum play. For TCR: this Uptown activation reinforces the corridor as a high-barrier-to-entry employment and lifestyle hub; any remaining infill sites nearby should be prioritized before entitlements and land cost rise further, and consider whether build-to-suit or value-add acquisition opportunities exist in adjacent secondary Uptown blocks."
-    },
-    {
-      "title": "Sycamore-Led Team Converting Nursing Home to 75 Supportive Units",
-      "link": "https://www.connectcre.com/stories/sycamore-led-team-converting-nursing-home-to-75-supportive-units/",
-      "excerpt": "Hunt Capital Partners, Sycamore Development, and ASD – A Home for Life announced the financial closing of The Meadow, a $33 million rehabilitation development at 8130 Meadow Road in Dallas. The project, led by Sycamore Development and co-developed by ASD, will convert a former nursing home facility constructed in 2016 into 75 new homes with Permanent Supportive Housing (PSH). Through adaptive reuse, the development will preserve its existing structure while providing housing for families and individuals facing significant barriers to securing a stable home. Residents will include individuals and families impacted by homelessness, people living with HIV, veterans with disabilities, individuals affected by substance use, and those protected under the Violence Against Women Act (VAWA). Financing for the project includes a $21 million construction loan from Huntington National Bank and a $13.5 million soft loan from the City of Dallas. Hunt Capital Partners syndicated $20 million in Federal Low-Income Housing Tax Credits through its multi-investor fund, Hunt Capital Partners Tax Credit Fund 52. The post Sycamore-Led Team Converting Nursing Home to 75 Supportive Units appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-10-09T15:57:13+00:00",
-      "bullets": [
-        "Sycamore Development and ASD converting former 2016 nursing home to 75 Permanent Supportive Housing units in Dallas.",
-        "The Meadow at 8130 Meadow Road; $33M total development cost; $21M construction loan from Huntington.",
-        "Financing includes $20M Low-Income Housing Tax Credits (Hunt Capital Tax Credit Fund 52) and $13.5M City soft loan."
-      ],
-      "summary": "Sycamore Development and ASD closed The Meadow, a $33 million adaptive reuse conversion of a former 2016 nursing home into 75 Permanent Supportive Housing units in Dallas. Hunt Capital Partners syndicated $20 million in Federal Low-Income Housing Tax Credits, Huntington National Bank provided a $21 million construction loan, and the City of Dallas contributed a $13.5 million soft loan. The project will house individuals and families experiencing homelessness, veterans, and those with disabilities.",
-      "impact": "PSH development activity in Dallas reflects city-level investment in supportive housing and developer confidence in LIHTC syndication markets; while targeting different demographics than standard multifamily, adaptive reuse of healthcare real estate is a secondary market signal—nursing home-to-housing conversions may accelerate post-COVID amid oversupply in senior care real estate, creating acquisition opportunities for developers with tax-credit expertise or social-housing positioning."
-    },
-    {
-      "title": "Manhattan’s Office Sector Has Become the Corporate World’s Surest Bet",
-      "link": "https://commercialobserver.com/2026/10/manhattan-office-market-2026-metrics-measures/",
-      "excerpt": "With every new Manhattan office report of late, the good news flows like lava. Leasing volume was up 2.3 percent in the third quarter from the same time last year. Vacancy was at 12.6 percent — the lowest level since before 2020 — down from 13.1 percent at the end of the second quarter and from 14.7 percent last year at this time. Direct asking rent was up to $84.56 per square foot, with rents over $300 no longer a rarity and $400 per square foot in the market’s sights. And, these metrics were “broad-based across major industries,” according to JLL, indicating that the current success of the office sector is not reliant on any one segment of the market. The current health of Manhattan’s office leasing can be seen not just in the big picture numbers, but also in the size and duration of some of its biggest office deals and leases this year. While Commercial Observer’s Office Deal of the Year, the 2 million-square-foot, 55-story deal for American Express to establish its new global headquarters at 2 World Trade Center, is not a lease, as American Express will solely own the building, it is a strong indicator of the company’s faith in the future of New York as the business world’s central hub as well as a notable addition to the city’s office landscape. Beyond that, this year has seen law firm Simpson Thacher &amp; Bartlett sign for 916,000 square feet over 26 of the 29 stories at Extell Development’s 570 Fifth Avenue, Bank of America add 600,000 square feet to its existing 1.8 million square feet at One Bryant Park over a 20-year term, and Anthropic ink a full-building deal for 330 Hudson Street. The only seemingly potential dark cloud on the horizon for Manhattan office leasing is a lack of supply. It has roughly 7.9 million square feet currently under construction and expected to come online between 2028 and 2032, but much of that space is already pre-leased. Yet, despite all this, the world seems rife with domestic and geopolitical uncertainty, including economy-sh",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-10-09T15:22:28+00:00",
-      "bullets": [
-        "Manhattan office leasing up 2.3% YoY in Q3 2026; vacancy 12.6%, lowest since pre-2020; rents up to $84.56/SF.",
-        "Rents over $300/SF common; $400/SF in market's sights; broad-based gains across major industries.",
-        "American Express signed 2M-SF deal to establish global HQ at 2 World Trade Center (ownership, not lease)."
-      ],
-      "summary": "Manhattan office leasing surged in Q3 2026, with volume up 2.3 percent year-over-year and vacancy falling to 12.6 percent—the lowest level since before 2020. Direct asking rent reached $84.56 per square foot, with significant blocks trading above $300/SF and $400/SF anticipated. Broad-based strength across major industries was evident, exemplified by American Express's 2-million-square-foot ownership commitment to establish its new global headquarters at 2 World Trade Center.",
-      "impact": "Manhattan office recovery signals strong corporate anchoring and high-income job growth in NYC; this supports robust multifamily demand for talent attraction and retention. For TCR: NYC's office momentum underscores the necessity of integrated development strategy in Manhattan and outer boroughs—acquire multifamily sites near office clusters (Midtown, FiDi, Hudson Yards) to capture white-collar rental demand influx; anticipate secondary wave of demand in Queens and Brooklyn as office tenants expand footprint and workforce dispersal accelerates."
-    },
-    {
-      "title": "Law Firm Seward & Kissel Signs 171K-SF Renewal at One Battery Park Plaza",
-      "link": "https://commercialobserver.com/2026/10/seward-kissel-lease-renewal-one-battery-park-plaza/",
-      "excerpt": "Seward &amp; Kissel is staying put in the Financial District. The financial services law firm has renewed its 171,112-square-foot office lease for a term of 11 years with Rudin Management and Allianz Real Estate at One Battery Park Plaza, according to CBRE’s office report for the third quarter of 2026. The asking rent was not disclosed, but the average asking rent for office space in Lower Manhattan was $62.40 per square foot in the third quarter, the report noted. Kevin Daly and Craig Panzirer represented Rudin in-house while CBRE’s Lewis Miller, Andrew Sussman, Cara Chayet and Scott Sloves negotiated on behalf of Seward &amp; Kissel. &#8220;Their renewal extends a remarkable year of leasing at the building and across the portfolio, adding to the momentum of the Downtown market,” Michael Rudin, co-CEO of Rudin, said in a statement. CBRE did not immediately respond to a request for comment. Seward &amp; Kissel has been in the building since 2011 and occupies the 19th through 24th floors. One Battery Park Plaza, also known as 24 State Street, is a 35-story tower between Bridge and Pearl streets that overlooks Battery Park. Other tenants in the building include financial advisory firm and Northwestern Mutual affiliate SFA Agency, which expanded to ​​14,071 square feet in the 35-story building in June, as well as the New York City Independent Budget Office, a government oversight group, which took 18,765 square feet in February. Nationwide Mutual Insurance also took 38,107 square feet, and the International Refugee Assistance Project signed a deal for 19,407 square feet in 2022. Rudin built the 870,000-square-foot office building in 1971, with Allianz taking a stake in ownership in 2016. Mark Hallum can be reached at mhallum@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-10-09T13:50:58+00:00",
-      "bullets": [
-        "Seward & Kissel renewed 171,112-SF office lease at One Battery Park Plaza, Financial District; 11-year term.",
-        "Tenant occupies floors 19–24; average asking rent Lower Manhattan $62.40/SF Q3 2026.",
-        "Firm has been tenant since 2011; renewal signals continued Downtown leasing momentum and tenant retention."
-      ],
-      "summary": "Law firm Seward & Kissel renewed its 171,112-square-foot office lease at One Battery Park Plaza in Manhattan's Financial District for an 11-year term, retaining occupancy of the 19th through 24th floors. The firm has been a tenant since 2011. The renewal occurs in an environment where average asking rent in Lower Manhattan reached $62.40 per square foot in Q3 2026.",
-      "impact": "Minimal direct impact to multifamily; primarily an office leasing signal. However, Seward & Kissel's long-term commitment and renewal in FiDi reinforces downtown Manhattan as a stable employment anchor, supporting sustained multifamily demand in lower Manhattan and nearby outer-borough residential markets (DUMBO, Williamsburg, Long Island City)."
-    },
-    {
-      "title": "Law Firm Morgan & Morgan Signs 71K-SF Lease at One Seaport Plaza",
-      "link": "https://commercialobserver.com/2026/10/morgan-morgan-lease-one-seaport-plaza/",
-      "excerpt": "Personal injury law firm Morgan &amp; Morgan has signed a 70,602-square-foot lease at 199 Water Street, also known as One Seaport Plaza, according to third-quarter Manhattan office reports from Colliers and CBRE. Morgan &amp; Morgan will move from a sublease to a long-term direct lease as part of the new deal, according to a source. The law firm moved into the building as a subtenant during the third quarter of 2023, relocating from Midtown and originally taking 34,792 square feet, according to a report issued at the time from the Downtown Alliance. This new lease gives the law firm a more permanent home at Jack Resnick &amp; Sons’ One Seaport Plaza and expands its office footprint. Cushman &amp; Wakefield brokered the deal for both the tenant and the landlord. C&amp;W and Morgan &amp; Morgan did not immediately respond to Commercial Observer’s requests for comment. The length of the lease was unclear, but asking rents at the building range between $65 and $70 per square foot, according to a source. Built in 1984 on Water Street between John and Fulton streets, One Seaport Plaza spans over 1 million square feet, offering amenities that include a cafe and lounge area. Other tenants in the building include fintech firm VCT Holdings, insurance firm Seneca and law firm Foster Garvey. Amanda Schiavo can be reached at aschiavo@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-10-08T21:16:28+00:00",
-      "bullets": [
-        "Morgan & Morgan signed 70,602-SF lease at One Seaport Plaza (199 Water Street), upgrading from sublet.",
-        "Law firm relocated from Midtown Q3 2023 as subtenant (34,792 SF); now taking direct lease and expanding footprint.",
-        "Asking rents $65–$70/SF; Seaport location (Lower Manhattan waterfront) emerging as secondary office hub."
-      ],
-      "summary": "Personal injury law firm Morgan & Morgan signed a long-term direct lease for 70,602 square feet at One Seaport Plaza (199 Water Street) in Manhattan's Financial District, expanding from its 34,792-square-foot sublet that began in Q3 2023. The firm originally relocated from Midtown to the Seaport location. Asking rents at the building range between $65 and $70 per square foot.",
-      "impact": "Morgan & Morgan's expansion and transition from sublease to direct lease signals sustained Seaport/Lower Manhattan office leasing and tenant confidence; the shift from Midtown indicates secondary office markets are absorbing high-value tenants. For TCR: Seaport's emerging status as a secondary office anchor should drive residential multifamily analysis in adjacent Tribeca, SoHo, and DUMBO submarkets—expect continued white-collar in-migration and rent pressure in walkable, waterfront-proximate rental housing."
-    },
-    {
-      "title": "City National Bank of Florida Sells Former HQ in Coral Gables After Moving Out",
-      "link": "https://commercialobserver.com/2026/10/city-national-bank-of-florida-coral-gables-baptist-health/",
-      "excerpt": "After moving across the street earlier this year, City National Bank of Florida has sold its former headquarters in Coral Gables, Fla., for $39 million, property records show. Nonprofit hospital operator Baptist Health South Florida purchased the four-story office building at 2855 South Le Jeune Road, two blocks west of Ponce Circle Park, between Sevilla and Palermo avenues. The 121,418-square-foot building was built in 2007 on a 0.7-acre site. Last year, the bank signed a 144,878-square-foot lease to relocate at 2701 South Le Jeune Road to bring its workforce, which is based in Miami-Dade County, under one roof. Earlier this year, the tenant moved into the 15-story property, which is owned by Zara’s billionaire founder Amancio Ortega. At its former headquarters, City National Bank of Florida first owned the ground-floor space before buying the top-floor office condos for $10 million in 2017, the South Florida Business Journal reported. It’s unclear how Baptist Health South Florida, one of the largest health networks in the region, plans to use the building. It operates a corporate office at 6855 Red Road, near South Miami. Coral Gables, a wealthy suburb next to Miami, has seen an uptick in office sales in recent months. In July, insurance giant PGIM sold a 717,805-square-foot asset for nearly $100 million. In January, Deutsche Bank offloaded 3-acre property for nearly $120 million. A spokesperson for City National Bank of Florida declined to comment. A representative for Baptist Health South Florida did not immediately respond to a request for comment. Julia Echikson can be reached at jechikson@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-10-08T21:00:42+00:00",
-      "bullets": [
-        "City National Bank of Florida sold former HQ at 2855 South Le Jeune Road, Coral Gables, for $39M to Baptist Health.",
-        "121,418-SF office building (built 2007, 0.7 acres); bank relocated across street to 2701 South Le Jeune Rd.",
-        "Bank relocated to 144,878-SF in Amancio Ortega-owned 15-story property to consolidate Miami-Dade workforce."
-      ],
-      "summary": "City National Bank of Florida sold its former headquarters, a 121,418-square-foot office building built in 2007 at 2855 South Le Jeune Road in Coral Gables, for $39 million to nonprofit hospital operator Baptist Health South Florida. The bank relocated across the street to a 144,878-square-foot lease at 2701 South Le Jeune Road, a 15-story property owned by Amancio Ortega, to consolidate its Miami-Dade workforce.",
-      "impact": "Baptist Health's acquisition of office real estate signals healthcare system expansion and real-estate consolidation in Coral Gables, but does not directly impact multifamily demand. The broader dynamic—corporate HQ relocation within Miami-Dade—suggests continued institutional confidence in South Florida and potential for workplace-adjacent multifamily demand if Baptist Health expands headcount; however, the 2007-built office structure may become a conversion target if Coral Gables zoning/economics allow adaptive reuse to multifamily, creating a secondary development pipeline opportunity."
+      "summary": "Trinity Southern closed on an $8 million land purchase and received a $19.5 million construction loan from S3 Capital for Twenty Nine Indian Creek, a boutique 16-unit luxury condo project in Miami Beach's Mid-Beach neighborhood. The project has already sold 10 of 16 units and is now under construction. The transaction reflects strong lender appetite and buyer demand for luxury condo development in Miami Beach and South Florida.",
+      "impact": "Minimal direct multifamily relevance. Condo/for-sale development (rather than rentals) operates on different underwriting and exit timelines. However, the deal signals strong capital availability and buyer confidence in Miami Beach waterfront. If condo activity is robust, it may indicate that high-net-worth migration to Miami outpaces supply, potentially signaling unmet demand for luxury rental apartments in similar Miami Beach/Mid-Beach submarkets. Monitor condo absorption; if units sell below listing, it signals soft demand that could weaken rental market; if condo waiting lists form, it signals supply-constrained luxury rental opportunity."
     }
   ]
 }
