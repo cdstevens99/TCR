@@ -1,268 +1,178 @@
 {
-  "fetchedAt": "2026-11-18T02:41:11.697340+00:00",
+  "fetchedAt": "2026-11-18T19:46:03.950301+00:00",
   "rates": [
     {
       "label": "SOFR",
-      "value": "3.93%",
-      "pct": 0.03,
+      "value": "3.92%",
+      "pct": -0.01,
       "isBps": true
     },
     {
       "label": "10Y Treasury",
-      "value": "5.10%",
-      "pct": -0.35
+      "value": "5.07%",
+      "pct": -0.73
     },
     {
       "label": "30Y Treasury",
-      "value": "5.46%",
-      "pct": -0.16
+      "value": "5.41%",
+      "pct": -0.88
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "94.89",
-      "pct": -1.39
+      "value": "95.11",
+      "pct": 0.23
     }
   ],
   "stories": [
     {
-      "title": "Nahla Capital seeks final approval for Raleigh Miami Beach upzoning",
-      "link": "https://therealdeal.com/miami/2026/11/17/raleigh-miami-beach-upzoning-goes-to-final-vote/",
-      "excerpt": "An upzoning of the Raleigh Miami Beach assemblage is back in the hands of city commissioners.&#160; Genghis Hadi’s New York-based Nahla Capital is seeking a second reading approval of two comprehensive plan and code amendments that could allow the developer to add more square footage to the project.&#160; Last month, commissioners voted to move the item forward after initially voting against. Commissioner David Suarez was the sole no vote. The items require a six-of-seven approval.&#160; The iconic Art Deco-designed hotel, known for its pool, was designed by L. Murray Dixon, and has been gutted, alongside the Richmond and South Seas [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-11-18T00:12:02+00:00",
-      "bullets": [
-        "Nahla Capital seeks FAR increase from 2.0 to 2.5 at Raleigh Miami Beach, +66k SF",
-        "Project requires ~$1B capital; condo sales launch early 2026, construction financing by Q1 2026",
-        "Completion targeted late 2031; fifth ownership change in 15 years signals prolonged entitlement/financing risk"
-      ],
-      "summary": "Nahla Capital is pursuing final zoning approval to increase floor area ratio at the historic Raleigh Hotel assemblage in Miami Beach, adding more than 66,000 square feet. The $1 billion project will launch condo sales in early 2026 and seek construction financing by end of Q1 2026, with completion in late 2031. The developer has agreed to $1.2 million in infrastructure improvements and must secure Historic Preservation Board approval.",
-      "impact": "Approval signals Miami Beach's continued appetite for mixed-use density in SoBe, but five ownership changes in 15 years and 2031 delivery timeline reflect extended pre-development friction and capital constraints. Developer's aggressive sales/financing timeline (early 2026) suggests confidence in condo absorption in Miami Beach luxury market, but actual capital availability and presales traction will indicate whether South Florida's multifamily finance window remains open."
-    },
-    {
-      "title": "Continuum Co. seeks approval of Riviera Beach tower amid environmental concerns",
-      "link": "https://therealdeal.com/miami/2026/11/17/continuum-co-seeks-riviera-beach-ok-amid-pushback/",
-      "excerpt": "The Eichner family’s Continuum Company is seeking city approval to build a 24-story condo building along Riviera Beach’s waterfront, but may face environmental hurdles.&#160; The 266-unit development, called Singer Island Gateway, with 11,000 square feet of retail and 1,000 square feet for offices, is planned for the 3-acre assemblage at 2525 Lake Drive. The Planning and Zoning Board is scheduled to vote on the project on Thursday. Arquitectonica designed the Riviera Beach building, which would feature a five-story parking podium, townhouses along the waterfront and amenities that include a pool, spa, padel court and pickleball courts. The development also calls [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-11-18T00:00:00+00:00",
-      "bullets": [
-        "Continuum Co. (Eichner family) proposes 266-unit waterfront condo tower, Riviera Beach; $14M public park cost",
-        "Project faces environmental opposition; borders Lake Worth Lagoon and popular diving site Blue Heron Bridge",
-        "Continuum paid $20.3M for 3-acre assemblage 2019–2021; seeking upzoning via PUD"
-      ],
-      "summary": "Continuum Company, led by Ian Bruce Eichner, is seeking Planning and Zoning Board approval for Singer Island Gateway, a 266-unit, 24-story condo development with 11,000 SF retail on Riviera Beach's waterfront. The project requires a $14 million public park contribution and sits on a 3-acre site the developer acquired for $20.3 million between 2019 and 2021. Environmental groups and residents are opposing the tower due to concerns over impacts to the Lake Worth Lagoon ecosystem.",
-      "impact": "Environmental entitlement risk in Riviera Beach waterfront zone could delay or reduce project density; if approval stalls, signals harder environmental thresholds for high-rise multifamily on South Florida lagoon/estuary sites. Land basis of ~$6.8M/acre and waterfront location support strong unit economics IF approved, but adjacency to sensitive ecosystem and low-rise context creates regulatory friction absent in inland South Florida markets."
-    },
-    {
-      "title": "Mobile Home Property in Rialto Goes for $107,000 per Site",
-      "link": "https://www.connectcre.com/stories/mobile-home-property-in-rialto-goes-for-107000-per-site/",
-      "excerpt": "Peppertree Mobile Home Park, a 77-site manufactured housing community in Rialto, traded hands for $8.28 million, or $107,467 per site. Built in 1970, the property is located at 2930 W. Rialto Ave. on an 8.47-acre parcel. The all-age community includes tenant-owned and park-owned manufactured homes, RV sites and single-family residences. Amenities include a swimming pool, clubhouse, on-site laundry facilities and RV storage. The property, featuring sub-metered utilities, is located near state Route 66, with access to Interstates 10, 15 and 210. Dustin B. Wilmer and Dean M. Klein with Marcus &amp; Millichap represented the seller, the Jules M. Adger Trust. The buyer was Darren and Ron Weiss of R.W. Investments. According to Wilmer, the sale marked the first time Peppertree Mobile Home Park had been brought to market in more than 30 years. “With occupancy near 100 percent and limited manufactured housing communities available for sale in the region, the property attracted interest in a market where demand for affordable housing remains strong,” noted Wilmer. The post Mobile Home Property in Rialto Goes for $107,000 per Site appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-11-17T22:41:17+00:00",
-      "bullets": [
-        "Peppertree Mobile Home Park, Rialto CA: 77 sites sold for $8.28M ($107.5k/site); first sale in 30+ years",
-        "All-age community near I-10/I-15/I-210; near-100% occupancy; mixed tenant/park-owned homes and RV sites",
-        "Buyer R.W. Investments; seller Jules M. Adger Trust; Marcus & Millichap brokered"
-      ],
-      "summary": "Peppertree Mobile Home Park, a 77-site manufactured housing community in Rialto, California, sold for $8.28 million ($107,467 per site). Built in 1970 on 8.47 acres, the all-age property includes tenant-owned and park-owned homes, RV sites, and single-family residences, with amenities and sub-metered utilities. The sale marked the first time the property had been marketed in over 30 years; occupancy was near 100 percent.",
-      "impact": "Limited relevance to multifamily apartment development. Manufactured housing trades on fundamentals of land cost, utility infrastructure, and long-term resident tenure—entirely different capital structure and financing than conventional rental apartments. High per-site valuation ($107.5k) reflects strong Inland Empire location near major freeway corridors and near-full occupancy, but signals no demand signal for multifamily development."
-    },
-    {
-      "title": "Japanese Pub Chain Will Open First U.S. Location on St. Marks Place",
-      "link": "https://www.connectcre.com/stories/japanese-pub-chain-will-open-first-u-s-location-on-st-marks-place/",
-      "excerpt": "Lee &amp; Associates NYC arranged a 10-year, 1,200-square-foot lease on behalf of Shijidai Izakaya Group at 26 St. Marks Pl. in Manhattan’s East Village. The deal represents the first U.S. location for Shin Jidai, the Japanese value izakaya brand. The restaurant is expected to open between December 2026 and January 2027 in space previously occupied by Taiwanese restaurant 886. Shin Jidai operates approximately 200 izakaya restaurants in Japan and plans further expansion in New York and across the U.S. Milly Cheung, director at Lee NYC, represented Shijidai Izakaya Group. John Roesch and Jessica Blocker of Roesch Real Estate Group represented landlord John llibassi. “St. Marks Place has a longstanding reputation as a destination for Japanese restaurants and international dining concepts,” said Cheung. “For a restaurant group with an established following in Japan and plans to expand across the U.S., the East Village is a strong place to introduce its brand to New York diners.” The post Japanese Pub Chain Will Open First U.S. Location on St. Marks Place appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-11-17T22:34:44+00:00",
-      "bullets": [
-        "Shin Jidai (Japanese izakaya) signs 1,200 SF lease, 26 St. Marks Place, East Village; 10-year term",
-        "Opening Dec 2026–Jan 2027; first U.S. location for chain operating ~200 restaurants in Japan",
-        "Space formerly occupied by Taiwanese restaurant 886; brand plans further U.S. expansion"
-      ],
-      "summary": "Shin Jidai, a Japanese value izakaya chain with approximately 200 locations in Japan, has signed a 10-year, 1,200-square-foot lease at 26 St. Marks Place in Manhattan's East Village. The restaurant will open between December 2026 and January 2027 in space previously occupied by restaurant 886. The brand intends further expansion in New York and across the U.S.",
-      "impact": "Limited relevance to multifamily. Ground-floor restaurant tenancy in East Village signals ongoing retail/hospitality demand and foot traffic in a mixed-use neighborhood, but lease terms and tenant identity do not inform apartment building supply, demand, construction, or financing."
-    },
-    {
-      "title": "Compass Arranges $13M Sale of North Brooklyn Development Site",
-      "link": "https://www.connectcre.com/stories/compass-arranges-13m-sale-of-north-brooklyn-development-site/",
-      "excerpt": "Compass vice chairman Adelaide Polsinelli and senior executive director Michael Cardillo closed the $13-million sale of 87-89-91 Havemeyer St. in Williamsburg, Brooklyn. The price of $565 per buildable square foot puts the deal at the top of the market for North Brooklyn development sites, according to Compass, which represented both seller and buyer. The vacant lot was formerly home to the Chelsea Garden Center nursery. The buyer plans a seven-story residential building with 45 apartments, including affordable housing. Amenities will include a fitness center, coworking lounge, rooftop lounge and terrace, and bike storage. “Williamsburg continues to attract strong interest from developers because of its established residential market, access to transportation and long-term growth potential,” said Polsinelli. “What makes a property like 87 Havemeyer St. particularly attractive is the opportunity to unlock the value of an underutilized site in a neighborhood where demand for housing remains strong. Identifying that potential and understanding how a property can be repositioned for its highest and best use drives successful real estate investment.” The post Compass Arranges $13M Sale of North Brooklyn Development Site appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-11-17T22:12:59+00:00",
-      "bullets": [
-        "Compass arranges $13M sale, 87–91 Havemeyer St., Williamsburg, Brooklyn; $565/buildable SF (top of market)",
-        "Buyer plans 7-story, 45-unit residential with affordable units, amenities; site formerly Chelsea Garden Center",
-        "Vacant land; strong developer interest reflects Williamsburg's entrenched rental demand and transit access"
-      ],
-      "summary": "Compass closed the $13 million sale of 87–91 Havemeyer Street in Williamsburg, Brooklyn, a vacant lot formerly occupied by Chelsea Garden Center. The price of $565 per buildable square foot represents the top of the North Brooklyn development site market. The buyer plans a seven-story residential building with 45 apartments, including affordable units, plus fitness center, coworking lounge, rooftop lounge, and bike storage.",
-      "impact": "High per-SF land valuation ($565/buildable SF) in Williamsburg reflects acute scarcity of shovel-ready residential development sites in the submarket; strong developer demand despite modest unit count (45) signals continued rental absorption and financing availability in North Brooklyn. Rising land basis pressures unit economics, requiring either higher rents or increased density—both constrained by zoning and community resistance."
-    },
-    {
-      "title": "Bain Capital lands $136M refi on Central Texas built-to-rents",
-      "link": "https://therealdeal.com/texas/2026/11/17/bain-capital-nabs-136m-refi-on-central-texas-built-to-rents/",
-      "excerpt": "Bain Capital scored a $136.1 million refinance loan for a pair of rental home communities in Central Texas. The investment giant worked on behalf of built-to-rent developer Urban Moment Development, the Austin-based firm behind the two projects, according to Traded. Orix USA and Knighthead Capital Management financed the deal, and Newmark served as the broker.&#160; Urban Moment completed the first community, YardHomes Juniper Pointe at 2084 Alamo Parkway in San Antonio, in 2024. Located 20 miles west of Downtown San Antonio, the property includes 248 single-family homes for rent. The second community, YardHomes Cottonwood Creek at 410 CR 199 in [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-11-17T22:06:01+00:00",
-      "bullets": [
-        "Bain Capital secures $136.1M refi for Urban Moment's 2 built-to-rent communities: Hutto (293 homes) + San Antonio (248 homes)",
-        "Orix USA + Knighthead financed; Hutto completed May 2025, San Antonio completed 2024; 541 total homes",
-        "October 2025: separate $126M refi from Orix for 3 YardHouse properties in Texas; construction-to-stabilization transition"
-      ],
-      "summary": "Bain Capital arranged a $136.1 million refinance for Urban Moment Development's two built-to-rent communities in Central Texas: YardHomes Juniper Pointe in San Antonio (248 homes, completed 2024) and YardHomes Cottonwood Creek in Hutto (293 homes, completed May 2025). Orix USA and Knighthead Capital financed the deal. In October 2025, the same team secured a separate $126 million refinance from Orix for three additional YardHouse properties in Texas to support leasing and stabilization.",
-      "impact": "Rapid refinance velocity (May 2025 completion → refinance within months; Oct 2025 refi for stabilization phase) signals strong investor appetite for stabilized single-family rental assets in Austin/San Antonio submarkets. $506k/unit valuation implies rents and occupancy are performing at or above underwriting; construction financing to permanent debt conversion indicates lenders' confidence in Built-to-Rent fundamentals in Central Texas. Market tightness around Austin/San Antonio likely supporting higher rents and rental demand driven by tech in-migration."
-    },
-    {
-      "title": "Related, Kushner Partner on Redevelopment of Jersey City Medical Center Campus",
-      "link": "https://www.connectcre.com/stories/related-kushner-partner-on-redevelopment-of-jersey-city-medical-center-campus/",
-      "excerpt": "RWJBarnabas Health announced plans for the $1-billion redevelopment of approximately 5.5 acres surrounding JerseyCity Medical Center (JCMC). The multi-phase project will include more than 2,200 residential units, more than 2,000 parkingspaces, new retail and dining options, public green space and a site designated for a future medical outpatient building. The hospital system is developing the first phase in partnership with Related Companies and Kushner Real Estate Group (KRE). &#8220;Together with our partners at KRE, we are excited to contribute to the continued growth and vitality of Jersey City through a development that will bring new homes, restaurants and green space to the community while strengthening JCMC&#8217;s ability toprovide exceptional healthcare services,&#8221; said Bruce A. Beal, Jr., president of Related Companies and Frank Monterisi, EVP of Related Companies. &#8220;RWJBarnabas Health led a thorough and considerate planning process, and we look forward to working alongside KRE, Jersey City and the community to bring this important project to life.&#8221; To launch the project, RWJBarnabas Health is building a nine-story parking garage serving JCMC and the surrounding neighborhood on its campus. The post Related, Kushner Partner on Redevelopment of Jersey City Medical Center Campus appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-11-17T22:01:09+00:00",
-      "bullets": [
-        "Related + Kushner partner on Jersey City Medical Center campus redevelopment; ~5.5 acres, $1B total",
-        "2,200+ residential units planned across multiple phases; 2,000+ parking spaces, retail, green space",
-        "Phase 1: nine-story parking garage; full redevelopment tied to hospital operational needs and mixed-use vision"
-      ],
-      "summary": "RWJBarnabas Health, Related Companies, and Kushner Real Estate Group announced a $1 billion redevelopment of approximately 5.5 acres surrounding Jersey City Medical Center (JCMC). The multi-phase project will include more than 2,200 residential units, 2,000+ parking spaces, retail, dining, and public green space. Phase 1 begins with a nine-story parking garage serving the hospital and neighborhood.",
-      "impact": "Mixed-use medical-campus-led redevelopment in Jersey City signals strong residential demand and opportunity cost of underutilized hospital-adjacent land. 2,200+ units over multi-phase suggests strong absorption and rental fundamentals in Jersey City market; partnership with two major capital sources (Related + Kushner) indicates institutional confidence in medical-anchored mixed-use in NJ Gateway. Phased approach and parking-first strategy suggest builder patience and financing discipline, but long timeline dilutes near-term supply impact."
-    },
-    {
-      "title": "MassDevelopment Provides Planning Grant for Future Use of Former College Campus",
-      "link": "https://www.connectcre.com/stories/massdevelopment-provides-planning-grant-for-future-use-of-former-college-campus/",
-      "excerpt": "MassDevelopment has provided a $100,000 grant to the Town of Paxton for planning and predevelopment activities at the former Anna Maria College campus, which ceased operations in spring 2026. The grant will fund technical assistance designed to enable future uses at the approximately 260-acre campus, currently marketed for sale by regional commercial broker Kelleher &amp; Sadowsky. “What comes next for the former Anna Maria College campus will help shape Paxton’s economy for years to come,” said Economic Development Secretary Eric Paley, chair of MassDevelopment’s board of directors. “This grant gives local leaders the resources to assess what’s possible for this site and identify options that could create housing and support future economic growth in Paxton.” MassDevelopment plans to contract with Horsley Witten Group and U3 Advisors to conduct a campus evaluation, market and fiscal impact analysis, property conditions assessment, and potential zoning strategies that may support new tax revenue, job creation, and housing production. The former Anna Maria College campus features 16 buildings spanning around 340,000 square feet. The post MassDevelopment Provides Planning Grant for Future Use of Former College Campus appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-11-17T21:49:19+00:00",
-      "bullets": [
-        "MassDevelopment awards $100k grant to Paxton for planning at former Anna Maria College; 260-acre campus",
-        "Campus ceased operations spring 2026; 16 buildings, ~340k SF; site marketed for sale by Kelleher & Sadowsky",
-        "Grant funds campus evaluation, market analysis, zoning strategies to identify housing + economic growth options"
-      ],
-      "summary": "MassDevelopment provided a $100,000 planning grant to the Town of Paxton for the former Anna Maria College campus, which ceased operations in spring 2026. The 260-acre property contains 16 buildings spanning approximately 340,000 square feet. The grant will fund a comprehensive evaluation including market and fiscal impact analysis, property conditions assessment, and potential zoning strategies to support housing production, job creation, and tax revenue.",
-      "impact": "Former college campuses represent significant redevelopment opportunities; MassDevelopment's planning grant signals regional interest in adaptive reuse and housing supply on underutilized institutional sites. 260 acres in suburban Massachusetts with existing infrastructure (buildings, utilities) offers multifamily developer upside IF zoning permits density; planning study will clarify feasibility. Limited immediate impact, but positions Paxton as potential housing supply source in tight Boston-area market over 2–4 year horizon."
-    },
-    {
-      "title": "NYC School Construction Authority Pays $22M for Bronx High School Building",
-      "link": "https://commercialobserver.com/2026/11/nyc-school-construction-authority-buys-1440-story-avenue-bronx/",
-      "excerpt": "The New York City School Construction Authority (SCA), the city’s agency for building and renovating public schools, has acquired a high school building in the Bronx’s Soundview neighborhood. The agency’s $22.4 million purchase of the two-story building at 1440 Story Avenue was filed in city records on Monday. The site is currently home to Bronx Arena High School, a specialized transfer public school. The seller, an entity of Brooklyn-based landlord the Leser Group, was signed for by Abraham Leser. It was not immediately clear whether SCA or Leser worked with outside brokers. SCA’s exact plans for the more than 80,000-square-foot school building are unclear, but the public school builder is active in the area. In June, the agency inked a long-term lease agreement to build a 54,200-square-foot educational facility at the Bronx’s Hutchinson Metro Center Atrium, Commercial Observer reported at the time. The Leser Group, which develops and manages properties across the city, has seen a series of large asset sales this year. Leser and partner Horizon Group’s Kips Bay condominium project at 209 Second Avenue was taken over in October by Aurora Capital, The Real Deal reported. In August, the landlord sold its 1080 Mcdonald Avenue retail strip in Borough Park, Brooklyn, to Glass Gardens for $40.6 million, according to PincusCo. Spokespeople for SCA and Leser Group did not respond to requests for comment. Emily Davis can be reached at edavis@commercialobserver.com.",
+      "title": "Everglades Foundation Nearly Doubling Footprint in South Florida",
+      "link": "https://commercialobserver.com/2026/11/everglades-ip-dadeland-two-datran-center/",
+      "excerpt": "The Everglades Foundation is relocating to Dadeland, Fla., and nearly doubling its office footprint. The environmental nonprofit inked a 14,531-square-foot office lease at Two Datran Center in the Miami suburb. The tenant, which is scheduled to move next November, will occupy portions of the 14th and 15th floors inside the 20-story building. IP Capital Partners’ Two Datran Center spans 540,778 square feet at 9130 South Dadeland Boulevard, adjacent to Metrorail’s Dadeland South station, between Dixie Highway and Palmetto Expressway. The Everglades Foundation, which works to protect the national park, is currently based in a 8,533-square-foot office six miles south inside the Palmetto Bay Village Center at 18001 Old Cutler Road, according to a representative for JLL, whose Tyler de la Peña represented the tenant in the recent transaction. “With its central location, direct Metrorail access and on-site amenities, the new office will enhance the employee experience while creating more opportunities to collaborate with partners,” Coreen Rodgers, Everglades Foundation’s chief finance and operations officer, said in a statement. The complex is part of the two-building Datran Center complex, which totals 817,803 square feet and was completed in the 1980s. IP Capital Partners has owned the asset since 2016, and Cushman &amp; Wakefield’s Jeannette Mendoza and Andrew Trench represented the Boca Raton-based investor in the transaction with the Everglades Foundation. The brokers did not immediately respond to requests for comment. Julia Echikson can be reached at jechikson@commercialobserver.com.",
       "source": "Comm. Observer",
       "cat": "Commercial",
-      "date": "2026-11-17T21:47:56+00:00",
+      "date": "2026-11-18T19:05:38+00:00",
       "bullets": [
-        "NYC School Construction Authority purchases Bronx Arena High School building, 1440 Story Avenue, for $22.4M",
-        "Two-story, 80k+ SF building in Soundview neighborhood; seller Leser Group entity; June 2025 SCA leased separate facility",
-        "SCA active in area acquisitions; exact redevelopment plans for 1440 Story Avenue unclear"
+        "Everglades Foundation leases 14,531 SF at Two Datran Center, Dadeland, FL; relocates from Palmetto Bay.",
+        "New office nearly doubles footprint; situated adjacent to Metrorail Dadeland South station.",
+        "Tenant migration signals office demand in transit-oriented Miami suburban nodes."
       ],
-      "summary": "The New York City School Construction Authority (SCA) acquired a high school building at 1440 Story Avenue in the Bronx's Soundview neighborhood for $22.4 million. The two-story, 80,000-square-foot building currently houses Bronx Arena High School. The seller was an entity of Brooklyn-based landlord Leser Group. SCA's exact redevelopment plans are unclear, though the agency remains active in the area.",
-      "impact": "Limited direct relevance to multifamily development. SCA acquisition signals public sector capital deployment in Bronx real estate but does not inform apartment supply, demand, or financing. Potential future disposition or conversion of school buildings could create development opportunities, but current status is institutional use continuation. No clear signal on market conditions or neighborhood trend."
+      "summary": "The Everglades Foundation is relocating its Miami-area headquarters to Two Datran Center in Dadeland, increasing its office footprint from 8,533 SF to 14,531 SF across the 14th and 15th floors. The move, closing in November, positions the nonprofit six miles north from its current Palmetto Bay location, leveraging the building's direct Metrorail access and central location. The transaction underscores continued office demand in the Miami suburbs, particularly in transit-connected nodes.",
+      "impact": "Reflects flight from car-dependent suburbs to transit-oriented infill in South Florida; signals potential headwind for multifamily in isolated Palmetto Bay, tailwind for mixed-use around Dadeland Metrorail. Developers should monitor whether this trend of corporate relocations to transit hubs replicates across Miami submarkets, strengthening rent growth near rail corridors."
     },
     {
-      "title": "Danny Meyer Signs Greenwich Village Lease for New Restaurant",
-      "link": "https://commercialobserver.com/2026/11/danny-meyer-lease-21-west-eighth-street/",
-      "excerpt": "Fresh off his plans to open an eatery at the former Hotel Bossert in Brooklyn Heights, Michelin-star chef Danny Meyer is turning a hungry eye back on Manhattan. Meyer’s Union Square Hospitality Group signed a 10-year, roughly 8,000-square-foot lease at 21 West Eighth Street in Greenwich Village. The property is owned by Grace Jean, tenant broker TSCG — formerly known as The Shopping Center Group — confirmed. The deal was signed Oct. 15. Asking rent for the space was $100 per square foot, according to Crain’s New York Business, which first reported the lease. TSCG’s Jacqueline Klinger, Ian Rice and Graci Goldstein negotiated on behalf of Union Square Hospitality Group, while Sam Hamway and Harrison Ehrman from REQCE represented the landlord in the transaction. Dan Kluger’s Loring Place was in the location for about 10 years until it closed over the summer. The lease was an off-market deal. In May, it was announced that Meyer’s hospitality group signed a 3,200-square-foot lease at the base of the former Hotel Bossert at 98 Montague Street in Brooklyn Heights, which is slated to become Ritz-Carlton-branded luxury condos under the new ownership, SomeraRoad. Meyer, who is best known for the Union Square Cafe, also oversees the Modern and Gramercy Tavern. Mark Hallum can be reached at mhallum@commercialobserver.com.",
+      "title": "WestCap’s Kevin Marcus Takes Over as CEO of Green Street",
+      "link": "https://commercialobserver.com/2026/11/westcap-kevin-marcus-ceo-green-street/",
+      "excerpt": "Jeff Stuek is moving upward at commercial real estate intelligence platform Green Street as Kevin Marcus joins the firm as CEO. Marcus has been appointed to the role of CEO in Green Street’s New York City office as Stuek ascends to executive chair and a seat on the board of directors, in a move the firm anticipates will facilitate company growth, according to the firm. Stuek was CEO for seven years, during which time he built Green Street’s private markets and assets division, a news service and an infrastructure arm. He also explored new geographical markets and sectors for the company. “Leading Green Street for the past seven years has been a true privilege,” Stuek said in a statement. “Together with our talented team, we have expanded our business and brand while maintaining the high standards our clients depend on.” Marcus, meanwhile, previously worked as a partner and co-chief operating officer at global operating equity firm WestCap for six years ending earlier this month. He was also president and chief operating officer of Ipreo Private Capital Markets from 2006 to 2019, according to his LinkedIn page. “Green Street has achieved remarkable growth and global expansion, strengthening a trusted brand and building an exceptional team,” Marcus said in a statement. “Real assets represent one of the world’s largest asset classes, and demand for independent, high-quality data and insight has never been greater. We will continue to invest in our people and our platform and deepen integrations into our clients’ workflows, in order to deliver even more value to our clients.” Green Street provides a large array of services from asset class research, news content, data, analytics and advisory services. Mark Hallum can be reached at mhallum@commercialobserver.com.",
       "source": "Comm. Observer",
       "cat": "Commercial",
-      "date": "2026-11-17T21:44:40+00:00",
+      "date": "2026-11-18T19:00:00+00:00",
       "bullets": [
-        "Danny Meyer's Union Square Hospitality Group signs 10-year, 8k SF lease, 21 West 8th St., Greenwich Village",
-        "$100/SF asking rent; off-market deal; replaced Dan Kluger's Loring Place (closed summer 2025)",
-        "Meyer also opening restaurant at former Hotel Bossert, Brooklyn Heights; continued Manhattan expansion"
+        "Kevin Marcus appointed CEO of Green Street; held COO role at WestCap for 6 years.",
+        "Jeff Stuek promoted to executive chair after 7-year tenure building private markets division.",
+        "Leadership transition signals growth orientation at CRE intelligence platform."
       ],
-      "summary": "Danny Meyer's Union Square Hospitality Group signed a 10-year, approximately 8,000-square-foot lease at 21 West Eighth Street in Greenwich Village for $100 per square foot. The property is owned by Grace Jean. The deal replaced Dan Kluger's Loring Place, which closed over summer 2025. Meyer is also opening a restaurant at the base of the former Hotel Bossert in Brooklyn Heights.",
-      "impact": "Limited relevance to multifamily. High-profile restaurant tenant absorption in Greenwich Village indicates ground-floor retail demand and foot traffic, but lease terms and hospitality tenancy do not inform apartment building economics or neighborhood rental fundamentals."
+      "summary": "Green Street, a commercial real estate intelligence platform, appointed Kevin Marcus as CEO, while founder/CEO Jeff Stuek ascends to executive chair. Marcus joins from WestCap, where he was partner and co-COO for six years, bringing private markets expertise. The transition is intended to facilitate company growth and expansion into new geographies and sectors.",
+      "impact": "Minimal direct impact on multifamily development. However, Green Street's expansion into private markets and new sectors could increase capital scrutiny and benchmarking rigor on apartment valuations and underwriting; watch for stricter cap rate and NOI expectations as the platform gains scale in real estate analytics."
     },
     {
-      "title": "Contractor stacked demo-related fines at 24 sites pre-collapse",
-      "link": "https://therealdeal.com/new-york/2026/11/17/contractor-on-site-next-to-flatbush-collapse-stacked-fines/",
-      "excerpt": "The demolition contractor at a site adjacent to a multifamily building that collapsed had racked up more than 300 penalties across the city before tragedy struck in Flatbush last week, including two prior violations at the 2625 Bedford Avenue site now covered in debris. N Tech Design of America received 305 penalties across 139 job sites over four years, according to The Real Deal’s review of Office of Administrative Trials and Hearings records. Many remained open and unpaid as of Nov. 16. Two dozen sites had penalties issued for demolition-related infractions. Required overhead protection for the neighboring properties wasn’t installed [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-11-17T21:34:06+00:00",
+      "title": "ViaWest Group and Walton Street Capital Buy Medical Office Campus in Gilbert, Arizona",
+      "link": "https://www.connectcre.com/stories/viawest-group-and-walton-street-capital-buy-medical-office-campus-in-gilbert-arizona/",
+      "excerpt": "A venture between ViaWest Group and Walton Street Capital has purchased Mercy Medical Campus, a two-building, 105,715-square-foot medical office portfolio in Gilbert, Arizona, in an off-market deal. The purchase includes Mercy Medical Commons I and II, situated on 11 acres at 3645 S. Rome Street and 3591 S. Mercy Road, across from the 400-bed Mercy Gilbert Medical Center. Constructed in 2010, Mercy Medical Commons I is a two-story building containing 47,017 square feet of space. Mercy Medical Commons II, built in 2020, is a three-story, 58,698-square-foot structure. The campus was designed by Ware Malcomb and built by Balfour Beatty. It is fully leased to nine healthcare industry tenants, including The CORE Institute, Arizona Center for Cancer Care, Scottsdale Medical Imaging (SMIL), Arizona Diagnostic Radiology (RadNet) and Arizona Center for Cancer Care (AZCCC). The Gilbert submarket has experienced significant growth in recent years, justifying an increasing need for healthcare services. The Mercy Medical Commons I and II campus is well-located to support the expanding medical needs of the Southeast Valley. The post ViaWest Group and Walton Street Capital Buy Medical Office Campus in Gilbert, Arizona appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-11-18T18:36:30+00:00",
       "bullets": [
-        "N Tech Design racked up 305 penalties across 139 sites over 4 years; 24 sites had demolition-related violations",
-        "Contractor issued $2.5k penalty (March) + $10k penalty (April) for violations at 2625 Bedford Avenue, Flatbush",
-        "Nov 2024: neighboring building collapse at 1321 Flatbush killed 8, injured 18; contractor still operating despite violations"
+        "ViaWest Group and Walton Street Capital acquire Mercy Medical Campus, Gilbert, AZ; 105,715 SF, two buildings.",
+        "Campus fully leased to 9 healthcare tenants; built 2010–2020; sits adjacent to 400-bed Mercy Gilbert Medical Center.",
+        "Gilbert submarket experiencing significant growth; acquisition reflects healthcare real estate demand in Southeast Valley."
       ],
-      "summary": "N Tech Design of America accumulated 305 penalties across 139 job sites over four years, with 24 sites cited for demolition-related infractions. The contractor was issued a $2,500 penalty in March and $10,000 penalty in April for violations at 2625 Bedford Avenue in Flatbush, including failure to install overhead protection. Despite correcting the issue and paying penalties, the contractor continued operating; seven months later, the neighboring building at 1321 Flatbush Avenue collapsed into the excavation site, killing eight people.",
-      "impact": "Regulatory and litigation risk for multifamily developers in NYC. Demonstrated failure to enforce demolition protocols and stop-work orders—and resultant building collapse and deaths—will trigger heightened DOB scrutiny, insurance requirements, and bonding costs for all adjacent demolition and excavation work. Developers in densely built neighborhoods (Brooklyn, Manhattan) face elevated project timelines and hard costs from mandatory protective measures, inspector oversight, and potential liability exposure. Expect tightened contractor vetting and increased labor/material costs in urban redevelopment."
+      "summary": "A joint venture between ViaWest Group and Walton Street Capital purchased the Mercy Medical Commons campus in Gilbert, Arizona, comprising two fully leased medical office buildings totaling 105,715 SF on 11 acres. The 2010-built first building (47,017 SF) and 2020-built second building (58,698 SF) are occupied by nine healthcare providers, positioned across from Mercy Gilbert Medical Center's 400-bed campus. The transaction reflects strong healthcare real estate demand in the rapidly growing Southeast Valley.",
+      "impact": "Gilbert's population and employment growth are driving healthcare and office demand, creating a secondary effect: rising demand for multifamily housing to support in-migrating workers. Developers should acquire/entitle multifamily near medical office clusters in Gilbert and broader Southeast Phoenix, as healthcare employment anchors long-term population retention and rent growth."
     },
     {
-      "title": "Key International Wants to Redevelop Ocean Drive Hotel into Luxe Condos",
-      "link": "https://commercialobserver.com/2026/11/key-international-ocean-drive-miami-beach-marriott-stanton-south-beach/",
-      "excerpt": "Key International is seeking to redevelop a historic oceanfront hotel on Ocean Drive into a luxury condo development. The proposed, 13-story condo building would replace the Marriott Stanton South Beach hotel at 161 Ocean Drive in Miami Beach’s upscale South-of-Fifth neighborhood. The 10-story hotel — which sits on a 1.5-acre parcel just south of the Marjory Stoneman Douglas Ocean Beach Park — was built in 1939, and expanded in 2000. The Miami-based development firm wants to “maintain and restore” the historic façade facing Ocean Drive and partially demolish and reconstruct the northern façade along Second Street, which today houses a Starbucks cafe. The 295,353-square-foot condo development, designed by Seattle-based Olson Kundig, would include 27 units. Key International, led by the Ardid family, has owned the 204,504-square-foot, 224-room hotel since 1997. Miami Beach’s Historic Preservation Board will consider the proposal on Dec. 15. Key International’s lawyer, Akerman’s Neisen Kasdin, did not immediately respond to a request for comment. The application comes as proposed redevelopments have faced scrutiny from locals. This year, New York-based Allied Partners filed plans to redevelop the nearby historic Savoy and Arlington hotels into a 38-story tower, using state laws. Following backlash from local residents, the Miami Beach Commission is set to vote on whether to challenge one of the laws that allows owners to demolish oceanfront properties deemed uninhabitable, even if they’re historically protected. Key International has also faced scrutiny over its marquee condo development, the Nobu-branded tower in Brickell. The 75-story high-rise is slated to rise next to the landmarked First Miami Presbyterian Church, which the Brickell Homeowners Association objected to. Still, the Miami Historic and Environmental Preservation Board voted to remove the church’s landmark status this month. Julia Echikson can be reached at jechikson@commercialobserver.com.",
+      "title": "Convenience Store and Fuel Station in Colorado Traded for $5.35M",
+      "link": "https://www.connectcre.com/stories/convenience-store-and-fuel-station-in-colorado-traded-for-5-35m/",
+      "excerpt": "A 4,973-square-foot Maverik convenience store and fuel station in Colorado Springs, Colorado, was sold in a $5.35 million transaction. The property sits on 2.02 acres at 6735 Carefree Circle, at the signalized intersection of Peterson Road and Carefree Circle North. The site includes 20 fuel pumps and benefits from visibility along a corridor with more than 9,600 vehicles per day. It is adjacent to Sand Creek High School and near national retailers including Target, TJ Maxx, HomeGoods, JCPenney, Best Buy and Lowe’s. The property is occupied by Maverik under an absolute triple-net lease, with no landlord responsibilities. The location has operated since 2013, first as a Kum &amp; Go and later under the Maverik brand. The lease includes four five-year renewal options. Matt Nora, Kirk Vanino and Jack D’Avanzo with Lee &amp; Associates, Denver represented the seller, Hanlon Bush Investments LLC. The post Convenience Store and Fuel Station in Colorado Traded for $5.35M appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-11-18T18:31:19+00:00",
+      "bullets": [
+        "Maverik convenience store and fuel station sold in Colorado Springs for $5.35M; 2.02 acres.",
+        "Site sits at Peterson Road and Carefree Circle North; 9,600 vehicles/day; triple-net lease.",
+        "Adjacent to Sand Creek High School and retail anchors (Target, Best Buy, Lowe's)."
+      ],
+      "summary": "A 4,973 SF Maverik convenience and fuel station at 6735 Carefree Circle in Colorado Springs sold for $5.35 million. The 2.02-acre site features 20 fuel pumps, 9,600 daily vehicles, and sits in a retail-anchored node near Sand Creek High School. The property operates under an absolute triple-net lease with four five-year renewal options, occupied by Maverik since 2013.",
+      "impact": "Limited relevance to multifamily development. However, the site's location in a high-traffic retail corridor signals density and retail consolidation in this Colorado Springs submarket; developers should monitor whether such nodes eventually densify with transit or mixed-use, creating long-term multifamily upside."
+    },
+    {
+      "title": "Mary Kay Moving into 12-Story Plano Tower",
+      "link": "https://www.connectcre.com/stories/mary-kay-moving-into-plano-12-story-tower/",
+      "excerpt": "Cosmetics giant Mary Kay sold its 546,000-square-foot headquarters campus in Addison and is moving its headquarters to six floors of Legacy Union One, a 12-story tower in The Shops at Legacy East in Plano. Mary Kay will occupy nearly 160,000 square feet across six floors, becoming its primary tenant. The interior will be designed by Corgan. The new headquarters is bringing corporate employees closer to the company&#8217;s Richard R. Rogers Manufacturing/R&amp;D Center in Lewisville. Known as R3, the global facility opened in 2018 following an investment of more than $100 million. The 453,000-square-foot center houses research, development and manufacturing operations, with the capacity to produce up to 1 million units of product each day across 22 packaging lines. Its output supports Mary Kay&#8217;s business in 40 markets worldwide. The company&#8217;s regional footprint also includes logistics facilities, making the move to Plano part of a broader North Texas presence rather than a departure from its existing operations. The post Mary Kay Moving into 12-Story Plano Tower appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-11-18T18:27:17+00:00",
+      "bullets": [
+        "Mary Kay relocates HQ from Addison to Plano; moves 160,000 SF into 6 floors of Legacy Union One.",
+        "Sold 546,000 SF Addison campus; consolidating operations near R3 manufacturing center in Lewisville.",
+        "Headquarters move reflects North Texas logistics/manufacturing footprint optimization."
+      ],
+      "summary": "Mary Kay sold its 546,000 SF headquarters campus in Addison and is relocating to six floors (nearly 160,000 SF) of the 12-story Legacy Union One tower in Plano's Shops at Legacy East. The move positions corporate staff closer to its $100M+ R3 manufacturing and R&D facility in Lewisville, which opened in 2018 and produces 1 million units daily for 40 global markets. The relocation is part of a broader North Texas footprint consolidation, not an exit.",
+      "impact": "Major corporate headquarters relocation from Addison to Plano signals potential multifamily demand shift within Dallas; Plano will see increased white-collar employment density and in-migration, supporting rent growth in Legacy/Park Cities submarkets. Addison loses a large anchor employer, potentially softening demand; developers should build/acquire in Plano's proximity to Legacy Union One and monitor Addison for value-add opportunities or selective repositioning."
+    },
+    {
+      "title": "Merchants Capital Secures $15M for Affordable Housing Development",
+      "link": "https://www.connectcre.com/stories/merchants-capital-secures-15m-for-affordable-housing-development/",
+      "excerpt": "Indiana-based Merchants Capital announced $15.5 million in financing for the construction of Ryans Way, a 60-unit low-income housing tax credit (LIHTC) development in Charlotte, North Carolina, developed by Scantland, Inc.Merchants Capital secured $11.1 million in federal LIHTC as the syndicator for Ryans Way. It also arranged $4.4 million in Freddie Mac Forward permanent financing to facilitate construction loan refinancing. “Merchants Capital’s ability to align debt and equity sources across the capital stack enables us to provide efficient, tailored financing solutions for our partners,” said Marcin Dzido, Vice President of Acquisitions at Merchants Capital.Ryans Way includes two three-story, garden-style residential buildings with one-, two-, and three-bedroom units and a multi-purpose community building. The development will be located in close proximity to retail, recreation areas, parks, medical facilities and schools. Construction began in October 2026 and is expected to be completed in 18 months. Join us for the Connect Midwest Multifamily conference on the afternoon of Tuesday, June 8, 2027, at Joe’s Live in Rosemont, Illinois. The post Merchants Capital Secures $15M for Affordable Housing Development appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-11-18T18:06:21+00:00",
+      "bullets": [
+        "Merchants Capital secures $15.5M for Ryans Way, 60-unit LIHTC development in Charlotte, NC.",
+        "Financing includes $11.1M federal LIHTC and $4.4M Freddie Mac Forward permanent financing.",
+        "Low-income housing development demonstrates continued affordable housing capital availability."
+      ],
+      "summary": "Merchants Capital announced $15.5 million in financing for Ryans Way, a 60-unit low-income housing tax credit (LIHTC) development in Charlotte, North Carolina, developed by Scantland, Inc. Merchants Capital syndicated $11.1 million in federal LIHTC and arranged $4.4 million in Freddie Mac Forward permanent financing to refinance construction debt. The capital stack demonstrates alignment of debt and equity sources for affordable housing.",
+      "impact": "LIHTC and permanent financing availability remain strong for affordable multifamily in Charlotte; signals sustained appetite from Freddie Mac and tax credit syndicators. Developers should note Charlotte's affordable housing tailwind and position projects accordingly; this also indicates regulatory/political support for affordable housing, reducing entitlement risk in the market."
+    },
+    {
+      "title": "Colliers Completes Lease at Indiana Industrial Development, Bringing Property to Full Occupancy",
+      "link": "https://www.connectcre.com/stories/colliers-completes-lease-at-indiana-industrial-development-bringing-property-to-full-occupancy/",
+      "excerpt": "Colliers represented CPUS Anson Building 8A, LP, the landlord entity for CBRE Investment Management, in a new 184,140-square-foot lease at Anson 8A, located at 4255 South 500 East in Whitestown, Indiana. The transaction brings Anson 8A to 100% leased, completing the building&#8217;s lease-up. The lease was led by the Colliers | Indianapolis team of Jason Speckman, SIOR, and Jimmy Cohoat, SIOR. Zachary Binswanger of Binswanger International represented Hessaire Products, Inc., a manufacturer of cooling solutions. &#8220;This transaction represents a significant milestone for ownership and highlights the sustained demand for well-located, high-quality industrial facilities in Central Indiana,&#8221; said Speckman. &#8220;We are pleased to welcome Hessaire Products to Anson 8A and deliver a successful leasing outcome for our client.&#8221; Completed in 2017, Anson 8A is a modern industrial facility designed to accommodate a wide range of logistics and distribution users. Located in one of Central Indiana&#8217;s most active industrial and logistics corridors, the facility provides strategic access to the Indianapolis metropolitan area. Mark Goode to Receive Lifetime Achievement Award at Connect Industrial Midwest on Tuesday, March 2, 2027, at Joe’s Live in Rosemont. Following the presentation, Mark Goode will sit down for a special keynote interview with his son, Matt Goode. The post Colliers Completes Lease at Indiana Industrial Development, Bringing Property to Full Occupancy appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-11-18T18:06:18+00:00",
+      "bullets": [
+        "Colliers completes 184,140 SF lease at Anson 8A, Whitestown, Indiana; building now 100% leased.",
+        "Hessaire Products (cooling solutions manufacturer) signed the lease; Anson 8A completed 2017.",
+        "Central Indiana industrial corridor demonstrates sustained demand for logistics and distribution facilities."
+      ],
+      "summary": "Colliers represented ownership (CPUS Anson Building 8A, LP) in leasing 184,140 SF to Hessaire Products, Inc., a cooling solutions manufacturer, bringing the Anson 8A industrial facility in Whitestown, Indiana to full occupancy. Completed in 2017, the building is a modern logistics and distribution facility in one of Central Indiana's most active industrial corridors. The lease-up milestone reflects sustained demand for well-located, high-quality industrial space.",
+      "impact": "Limited direct multifamily relevance; however, strong industrial absorption in Central Indiana's logistics corridor signals job growth and in-migration, supporting residential demand in Indianapolis and Whitestown submarkets. Multifamily developers should acquire sites near Anson Industrial Park and other logistics nodes to capture workforce housing demand from manufacturing and warehousing employers."
+    },
+    {
+      "title": "Law Firm MoloLamken Relocates to 25K SF at RXR’s 590 Madison Avenue",
+      "link": "https://commercialobserver.com/2026/11/mololamken-590-madison-avenue-lease/",
+      "excerpt": "Law firm MoloLamken is relocating its Midtown Manhattan offices to RXR’s 590 Madison Avenue, Commercial Observer has learned. The boutique law firm, which specializes in complex litigation, struck a deal for 24,839 square feet across the entire 16th floor of the office tower, according to an RXR spokesperson. MoloLamken’s moving day should be a breeze – the firm’s new space sits just one block west of its current office at 430 Park Avenue. The firm’s new lease carries a 10-year term. Its precise rent was not disclosed, but asking rents throughout the building range from $155 to $205 per square foot, according to RXR. Savills’ Joe Learner and Jarod Stern negotiated the deal on behalf of MoloLamken, while RXR was represented in-house by Daniel Birney and Heidi Steinegger. “With a global client base, the firm further positions the building as a hub for international talent across law, finance and fashion,” RXR’s William Elder said in a statement. MoloLamken’s arrival comes after a particularly busy year for 590 Madison. The 43-story tower at the corner of Madison Avenue and East 57th Street traded to RXR with a whopping $1.08 billion price tag last summer, marking the city’s first billion-dollar sale since 2018. The 1 million-square-foot office tower, once known as the IBM Building, has undergone a substantial overhaul since RXR took over. Recent additions include a new 25,000-square-foot amenity center and a 2,800-square-foot terrace. MoloLamken’s new home on the tower’s 16th floor sits just above another new arrival. A platform company under the Apollo Global Management umbrella secured the tower’s 14th and 15th floors in April, CO previously reported, one year after Apollo inked its own three-story spread across the building’s 10th, 12th and 13th floors. Other corporate tenants in the building include financial firm Mak Capital and financial consultancy Odyssey Investment Partners. Spokespeople for MoloLamken and Savills did not reply to requests for comment. Emily ",
       "source": "Comm. Observer",
       "cat": "Commercial",
-      "date": "2026-11-17T21:30:44+00:00",
+      "date": "2026-11-18T17:52:25+00:00",
       "bullets": [
-        "Key International proposes 13-story, 27-unit luxury condo at 161 Ocean Drive, Miami Beach South-of-Fifth",
-        "Replacing 224-room Marriott Stanton South Beach (1939 original, 2000 expansion); maintaining/restoring Ocean Drive façade",
-        "295k SF development; designed by Olson Kundig; Historic Preservation Board vote Dec. 15"
+        "MoloLamken law firm leases 24,839 SF (entire 16th floor) at RXR's 590 Madison Avenue, Manhattan.",
+        "10-year lease; asking rents range $155–$205/SF; firm relocates from 430 Park Avenue (1 block west).",
+        "Boutique litigation firm signals office demand in Midtown Manhattan office towers."
       ],
-      "summary": "Key International is seeking to redevelop the Marriott Stanton South Beach hotel at 161 Ocean Drive in Miami Beach's South-of-Fifth neighborhood into a 13-story, 27-unit luxury condo building. The 295,353-square-foot development, designed by Olson Kundig, will maintain and restore the historic Ocean Drive façade while partially demolishing and reconstructing the northern Second Street façade. Key International, led by the Ardid family, has owned the 224-room hotel since 1997. The Historic Preservation Board will vote on the proposal on December 15.",
-      "impact": "Hotel-to-condo conversion in South-of-Fifth signals developer confidence in luxury condo pricing and absorption post-pandemic; however, 27 units across 295k SF reflects very low density (11 units per 100k SF), driven by historic preservation constraints and high land value. This is not a multifamily supply story—it is a luxury second-home / investment condo play with minimal contribution to rental housing stock. Conversion reduces short-term hotel supply but does not address Miami Beach's multifamily rental demand. Historic Preservation Board approval risk could delay or block project."
+      "summary": "MoloLamken, a boutique complex litigation law firm, signed a 10-year lease for 24,839 SF—the entire 16th floor of RXR's 590 Madison Avenue in Midtown Manhattan. The firm is relocating from 430 Park Avenue, one block west, with asking rents at the building ranging $155–$205/SF. The transaction underscores continued office demand among high-caliber professional services tenants seeking prestige locations.",
+      "impact": "Office leasing activity at trophy Midtown Manhattan buildings signals stabilization and tenant demand in core markets post-hybrid; however, this benefits RXR's office portfolio, not multifamily. No meaningful secondary effect on residential demand; Midtown's multifamily is driven by population/job growth, not office occupancy churn."
     },
     {
-      "title": "Fashion Company Bestseller Renews 7K-SF Office, Showroom at 96 Spring Street",
-      "link": "https://commercialobserver.com/2026/11/bestseller-lease-renewal-96-spring-street/",
-      "excerpt": "Danish fashion company Bestseller has inked a lease renewal for its 7,400-square-foot corporate office and wholesale showroom in Manhattan’s SoHo neighborhood, Commercial Observer has learned. The 10-year agreement encompasses the company’s fourth-floor space at Midwood Investment’s 96 Spring Street, according to a source familiar with the deal. Savills’ Scott Bogetti, Kirill Azovtsev and Will Demuth negotiated the renewal on Bestseller’s behalf, while Newmark’s Brent Ozarowski and Kevin Sullivan represented the landlord. Bestseller set up shop at the eight-story building between Broadway and Mercer Street in 2018, The Real Deal reported at the time, after moving from 530 Seventh Avenue in the Garment District. The family-owned fashion company, founded in 1975, operates roughly 3,100 retail stores globally, according to its website. It has a range of 20 brands, including Vero Moda, Jack &amp; Jones and Selected Homme, and its wholesale business sells products to more than 16,600 multi-brand and department stores globally. Asking rent for the lease renewal was not disclosed, but the average asking rent for Class B office space in SoHo was $106.59 per square foot in the third quarter of 2026, according to Colliers. The brand’s home at the 60,000-square-foot 96 Spring Street neighbors tenants like venture capital firm TQ Ventures, investment firm Lead Edge, retailer Alo Yoga and restaurant group Chefs Club. A spokesperson for Savills declined to comment on the renewal, while representatives for Newmark and Bestseller did not respond to requests for comment. Emily Davis can be reached at edavis@commercialobserver.com.",
+      "title": "Loudoun County, U.S. Data Center Capital, Pauses New Data Center Projects",
+      "link": "https://commercialobserver.com/2026/11/loudoun-county-u-s-data-center-capital-pauses-new-data-center-projects/",
+      "excerpt": "Infographic with a satellite image showing new buildings constructed between 2002 and 2025 in Ashburn, Va. known for the density of its data centers. GRAPHIC: Sophie RAMIS and Yann SCHREIBER / AFP via Getty Images Loudoun County, Va., home to the world’s largest concentration of data centers, has approved a 12-month pause on entitling new data centers and electrical substations while officials craft tighter restrictions on the rapidly expanding asset class. The county’s Board of Supervisors voted 7-1 Tuesday evening to halt consideration of applications for the facilities that require special zoning exceptions. One supervisor abstained. The pause is retroactive to Sept. 15, when the board first directed staff to prepare the resolution. Developers can still submit applications, but supervisors will delay consideration for up to 12 months from when the applications reach the Planning Commission. During the moratorium, Loudoun officials plan to update land use standards for digital infrastructure, including where the facilities can be developed. Loudoun has 33 active applications involving data centers and substations. Separately, according to media reports, 15 to 17 grandfathered data center projects or administrative applications under earlier zoning rules can advance despite the pause. (New substations needed for grid reliability and certain zoning conversions in the Route 28 corridor are exempt from the pause.) The county could face a lengthy backlog when approvals resume. County staff estimates that clearing delayed applications could require four to six months of additional meetings beginning in fall 2027. The measure also faces potential legal challenges. Data center developers argued that delaying approvals would undermine investor confidence and disrupt projects planned under existing regulations. The vote represents another significant reversal for a county that spent decades encouraging data center construction. Commercial Observer previously reported Loudou",
       "source": "Comm. Observer",
       "cat": "Commercial",
-      "date": "2026-11-17T21:21:45+00:00",
+      "date": "2026-11-18T17:20:57+00:00",
       "bullets": [
-        "Bestseller (Danish fashion, 3,100 global stores) renews 7,400 SF office/showroom, 96 Spring St., SoHo; 10-year lease",
-        "Fourth-floor space at Midwood Investment property; lease renewal (occupied since 2018); asking rent not disclosed",
-        "Company operates 20 brands; wholesale to 16.6k+ multi-brand and department stores globally"
+        "Loudoun County, Virginia pauses new data center entitlements for 12 months; moratorium retroactive to Sept. 15.",
+        "Board voted 7-1 to halt special zoning exceptions; 33 active applications deferred up to 12 months.",
+        "County plans tighter digital infrastructure land-use standards during pause."
       ],
-      "summary": "Danish fashion company Bestseller renewed its 10-year lease for a 7,400-square-foot corporate office and wholesale showroom on the fourth floor of 96 Spring Street in SoHo, Manhattan. Bestseller, which operates approximately 3,100 retail stores globally and 20 brands, has occupied the space since 2018. The lease renewal was brokered by Savills and Newmark.",
-      "impact": "Limited relevance to multifamily. Office/showroom lease renewal in SoHo reflects continued corporate presence in iconic Manhattan neighborhood but provides no signal on apartment building supply, demand, or financing. Tenant stability and decade-long lease term suggest confidence in Soho location but do not inform multifamily development."
+      "summary": "Loudoun County, Virginia's Board of Supervisors voted 7-1 to impose a 12-month moratorium on new data center and electrical substation entitlements, effective retroactively from September 15. Developers may still submit applications, but the Planning Commission will delay consideration for up to 12 months. During the pause, Loudoun officials will update land-use standards for digital infrastructure, restricting where facilities can be developed.",
+      "impact": "Data center moratorium in Loudoun reduces industrial/land demand and construction activity in the region, reducing short-term labor demand but removing an inflationary industrial cost pressure. For multifamily: slower data center job in-migration near Ashburn and Leesburg may dampen near-term wage and population growth, cooling rent appreciation in Northern Virginia. Developers should monitor when the moratorium lifts (Q4 2025–Q1 2026) for potential re-acceleration."
     },
     {
-      "title": "PMG, Greybrook score $285M refi for Fort Lauderdale rentals as apartment market gains steam",
-      "link": "https://therealdeal.com/miami/2026/11/17/pmg-greybrook-nab-285-million-refi-for-florida-apartments/",
-      "excerpt": "Property Markets Group and Greybrook Realty Partners scored $285 million in refinancing for the second phase of a massive apartment project in downtown Fort Lauderdale.&#160; Benefit Street Partners provided the financing, which replaces a $226 million construction loan issued by New York-based Related Fund Management and Lubert-Adler, the Commercial Observer reported.&#160; A 10-person team from Walker &#38; Dunlop arranged the refinancing for the second tower of Society Las Olas at 140 Southwest Second Street, according to a release. The debt amounts to $506,000 per unit. The tower will have 563 residential units across 42 stories, with 525,000 square feet of [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-11-17T21:11:49+00:00",
-      "bullets": [
-        "PMG + Greybrook close $285M refi for Society Las Olas Phase 2, Fort Lauderdale; 563 units at $506k/unit",
-        "Benefit Street Partners financed; replaces $226M construction loan from Related Fund Mgmt + Lubert-Adler",
-        "Phase 1 (2022): sold to Adam Neumann; 639 units; this phase: 42 stories, 525k SF rentable, 800 parking spaces"
-      ],
-      "summary": "Property Markets Group and Greybrook Realty Partners secured $285 million in refinancing from Benefit Street Partners for Society Las Olas Phase 2, a 563-unit apartment tower at 140 Southwest Second Street in downtown Fort Lauderdale. The financing replaces a $226 million construction loan and equates to $506,000 per unit. The 42-story tower includes 525,000 square feet of rentable space, 800 parking spaces, ground-floor retail, and two floors of amenities. Phase 1 was sold to Adam Neumann in 2022.",
-      "impact": "Strong refinance execution and unit valuation ($506k/unit) signal robust rental absorption and rent growth in downtown Fort Lauderdale waterfront market. Rapid construction-to-permanent transition (Phase 2 likely to deliver mid-2025) reflects strong investor appetite for Class A multifamily in South Florida. Phase 1 sale to Neumann (high-profile buyer) validates market; Phase 2 refi at higher per-unit basis suggests continued rent appreciation. However, $506k/unit valuation implies high entry costs for future development; developers entering Fort Lauderdale market will face elevated land costs and financing spreads."
-    },
-    {
-      "title": "Blue Owl Acquires Northern Virginia Data Center for $780M",
-      "link": "https://commercialobserver.com/2026/11/blue-owl-virginia-data-center-gainesville-crossing/",
-      "excerpt": "A Blue Owl Capital affiliate has acquired a 54-megawatt data center in Northern Virginia for $779.5 million, growing its portfolio in one of the country’s largest markets for digital infrastructure. Blue Owl Digital Infrastructure Trust acquired the 363,220-square-foot facility in Gainesville, Va., which is fully leased to a single hyperscale tenant that was not identified in a Securities and Exchange Commission (SEC) filing. The asset is at 3720 University Boulevard at the Gainesville Crossing Data Center Campus about 20 miles from Loudon County, near the heart of Northern Virginia’s Data Center Alley. Citibank and Wells Fargo provided a $512.6 million floating-rate mortgage, which matures in December 2028, with a conditional one-year extension. Blue Owl covered the remaining $266.9 million with available cash. An entity linked to Affinius Capital and Corscale Data Centers sold the development platform, according to SEC filings and company records. Blue Owl acquired the property indirectly by buying the membership interests in the seller entity. Blue Owl, Affinius and Corscale did not immediately respond to requests for comment. Earlier this year, a joint venture between Affinius and Corscale secured a $975 million recapitalization from Blue Owl Capital for Project Helios, another fully leased facility at the Gainesville Crossing Data Center Campus. The development spans 130 acres and includes five planned buildings near Interstate 66, about 20 miles southwest of Ashburn, Va. Gregory Cornfield can be reached at gcornfield@commercialobserver.com.",
+      "title": "Aaru Signs 27K-SF Sublease in Union Square With Plans for 650 NYC Employees",
+      "link": "https://commercialobserver.com/2026/11/aaru-sublease-836-838-broadway/",
+      "excerpt": "A rapidly expanding artificial intelligence platform known for having “rage rooms” in its offices and other perks has signed a new lease near Manhattan’s Union Square. Aaru, founded only about two years ago, has signed a deal for 27,238 square feet to facilitate a five-year expansion plan from a headcount of 60 to about 650 employees in New York City at ZG Capital Partners’ 836–838 Broadway, according to an announcement from Gov. Kathy Hochul. Aaru currently has offices at 199 Lafayette Street in Tribeca. The deal is a sublease with artificial intelligence platform Legora, which leased the space through 2031. “We made a deliberate decision to build Aaru in New York City,” Aaru co-founder and CEO Cameron Fink said in a statement. “The depth and diversity of talent here, proximity to the world’s largest enterprises, and the city’s history of innovation make it the right place for what we’re building. Being a New York company is core to our DNA.” Lenny Kohlmayer and Evan Kleinberg of Cornelia Street Partners represented Aaru alongside Zachary Weil, Brent Ozarowski and Cole Gendels of Newmark, while Justin Haber, Kyle Riker and Emma Gill of JLL negotiated on behalf of Legora. JLL did not immediately respond to a request for comment, while Cornelia Street declined to comment. “Aaru’s commitment to New York demonstrates what’s possible when a business model of the future engages with a public-sector partner to create economic value,” Robert Hess, vice chairman at Newmark, said in a statement. In return for meeting the job creation goal, as well as $109 million in research and development investments by Aaru, the state will provide the firm with $13.12 million in Excelsior tax credits. “Aaru’s remarkable growth demonstrates what is possible when innovative companies have the talent, resources and support they need to succeed,” Empire State Development President Hope Knight said in a statement. “The company has rapidly emerged as a major player in artificial intelligence, a",
       "source": "Comm. Observer",
       "cat": "Commercial",
-      "date": "2026-11-17T20:05:32+00:00",
+      "date": "2026-11-18T14:52:49+00:00",
       "bullets": [
-        "Blue Owl Digital Infrastructure Trust acquires 54 MW data center, Gainesville VA, for $779.5M; fully leased",
-        "363k SF facility at 3720 University Blvd., Gainesville Crossing Data Center Campus; near Loudon County (Data Center Alley)",
-        "Citibank + Wells Fargo financed $512.6M; Blue Owl funded $266.9M in cash; seller linked to Affinius Capital"
+        "Aaru AI platform signs 27,238 SF sublease in Union Square, Manhattan; expands from 60 to 650 NYC employees.",
+        "Five-year expansion plan at 836–838 Broadway; sublease through Legora; currently at 199 Lafayette, Tribeca.",
+        "Rapidly expanding AI startup signals sustained office demand and tech in-migration to Manhattan."
       ],
-      "summary": "Blue Owl Capital acquired a 54-megawatt data center in Gainesville, Virginia, for $779.5 million. The 363,220-square-foot facility is fully leased to a single hyperscale tenant and is located near Northern Virginia's Data Center Alley, approximately 20 miles from Loudon County. Citibank and Wells Fargo provided a $512.6 million floating-rate mortgage (maturing December 2028); Blue Owl covered the remaining $266.9 million with cash.",
-      "impact": "No direct relevance to multifamily. Data center acquisition signals institutional capital deployment in Northern Virginia's digital infrastructure corridor but does not inform apartment supply, demand, construction, or financing. However, sustained tech/data-center growth in Northern Virginia (AWS, Azure, hyperscalers) drives indirect multifamily demand through job creation and in-migration; developers should monitor data center expansion as bellwether for downstream labor/population growth in Loudoun, Fairfax, Arlington submarkets."
-    },
-    {
-      "title": "“Vilified and ostracized”: West Palm Beach condo owner sues developer, broker over alleged condo buyout tactics in $323M deal",
-      "link": "https://therealdeal.com/miami/2026/11/17/condo-owner-sues-beko-greg-greer-in-portofino-south-buyout/",
-      "excerpt": "A contentious condo buyout in West Palm Beach has made its way to the courtroom.&#160; Melanie Seymour Holland, a unit owner at Portofino South, sued BEKO Equities, Gregory Greer, Greg Greer PA and CRR of South Florida over the alleged tactics they have taken against Holland and other owners at the waterfront condo building, according to a lawsuit shared with The Real Deal. Holland’s attorney, Jim Montalvo of Brewer Attorneys &#38; Counselors, filed the complaint on Monday evening. Kobo, Benhamou and Greer did not immediately respond to a request for comment.&#160; BEKO, a joint venture between O.D. Kobo and Gilbert [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-11-17T17:00:00+00:00",
-      "bullets": [
-        "Condo owner Melanie Seymour Holland sues BEKO Equities, Greg Greer, CRR over alleged buyout pressure tactics",
-        "BEKO attempted buyout of 140-unit Portofino South ($323.4M, 108 units secured) + 39-unit Flagler Yacht Club ($180M)",
-        "Plaintiff claims targetd pressure campaign; Greer allegedly sent emails to 100+ people accusing her of extortion; BEKO parted with Greer"
-      ],
-      "summary": "Melanie Seymour Holland, a unit owner at the 140-unit Portofino South in West Palm Beach, sued BEKO Equities, broker Greg Greer, and others over alleged pressure tactics in a condo buyout attempt. BEKO, a joint venture between O.D. Kobo and Gilbert Benhamou's Immocorp, is pursuing a $323.4 million buyout of Portofino South (108 units secured as of publication) and a $180 million buyout of the 39-unit Flagler Yacht Club. Holland alleges Greer targeted her with an \"extraordinary pressure campaign,\" including emails to over 100 people accusing her of making \"extortionate demands.\"",
-      "impact": "Condo buyout litigation and regulatory friction in South Florida multifamily/mixed-use conversion market. Aggressive buyout tactics and unit-holder resistance increase litigation costs, timelines, and execution risk for developers attempting to assemble waterfront condo buildings for redevelopment. BEKO's separation from Greer signals PR/legal damage; future South Florida condo conversion plays will face heightened community and activist scrutiny, requiring longer soft-cost timelines and higher contingency reserves. Signals that aggressive buyout strategies create legal and reputational liability absent in greenfield or non-incumbent-owner scenarios."
+      "summary": "Aaru, a two-year-old artificial intelligence platform, signed a 27,238 SF sublease at 836–838 Broadway in Union Square as part of a five-year expansion plan to grow from 60 to 650 employees in New York City. The deal is a sublease through Legora, an AI platform, running through 2031. Aaru currently occupies space at 199 Lafayette in Tribeca and cited NYC's talent depth, enterprise proximity, and innovation history as key to its expansion decision.",
+      "impact": "High-growth AI/tech hiring in Manhattan signals sustained professional job creation and in-migration, supporting multifamily demand across Manhattan and outer-borough submarkets. Developers should monitor AI sector cluster formation (Union Square, Tribeca, broader Manhattan tech hubs) and prioritize acquisition/development near these employment nodes for luxury and upper-mid multifamily—tech talent attracts premium rents and long lease terms."
     }
   ]
 }
