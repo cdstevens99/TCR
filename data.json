@@ -1,73 +1,163 @@
 {
-  "fetchedAt": "2026-11-25T04:43:36.482425+00:00",
+  "fetchedAt": "2026-11-25T20:52:45.374404+00:00",
   "rates": [
     {
       "label": "SOFR",
-      "value": "3.92%",
-      "pct": 0.0,
+      "value": "3.94%",
+      "pct": 0.02,
       "isBps": true
     },
     {
       "label": "10Y Treasury",
-      "value": "4.90%",
-      "pct": -0.28
+      "value": "4.85%",
+      "pct": -1.14
     },
     {
       "label": "30Y Treasury",
-      "value": "5.29%",
-      "pct": -0.04
+      "value": "5.24%",
+      "pct": -1.08
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "94.78",
-      "pct": 1.19
+      "value": "95.86",
+      "pct": 1.14
     }
   ],
   "stories": [
     {
+      "title": "Fairstead Closes $17M Affordable Housing Transaction in Oklahoma",
+      "link": "https://www.connectcre.com/stories/fairstead-closes-17m-affordable-housing-transaction-in-oklahoma/",
+      "excerpt": "Fairstead announced its $16.5 million acquisition of London Square Village Apartments, a 200-unit project-based Section 8 community in Oklahoma City, Oklahoma, and plans for a comprehensive rehabilitation of the property. The transaction marks Fairstead’s first acquisition in Oklahoma. London Square Village Apartments consists of 200 units across 18 two-story residential buildings and a community center. The community includes 24 one-bedroom, 96 two-bedroom and 80 three-bedroom homes, with all units reserved for households earning at or below 60% of the area median income.&nbsp; “Expanding into Oklahoma represents an important step in Fairstead’s mission to preserve sustainable, reliable affordable housing for communities across the country,” said Jeff Goldberg, Founder and CEO of Fairstead. The acquisition will preserve London Square Village Apartments as affordable housing through 4% federal LIHTC equity from R4 Capital and tax-exempt bond financing issued by the Oklahoma Housing Finance Agency, with R4 Capital also serving as lender. Join us for the Connect Midwest Multifamily conference on the afternoon of Tuesday, June 8, 2027, at Joe’s Live in Rosemont, Illinois. The post Fairstead Closes $17M Affordable Housing Transaction in Oklahoma appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-11-25T19:47:50+00:00",
+      "bullets": [
+        "Fairstead acquires 200-unit Section 8 property in Oklahoma City for $16.5M",
+        "4% LIHTC equity, tax-exempt bonds, and project-based subsidy financing structure",
+        "Units serve households at or below 60% AMI; affordable housing preservation play"
+      ],
+      "summary": "Fairstead closed its first Oklahoma acquisition, purchasing London Square Village Apartments (200 units, all project-based Section 8) in Oklahoma City for $16.5 million. The deal is financed via 4% federal LIHTC equity from R4 Capital, tax-exempt bond financing from the Oklahoma Housing Finance Agency, and R4 Capital as lender. The community will undergo comprehensive rehabilitation and remain affordable housing.",
+      "impact": "Minimal direct impact to market-rate multifamily development. This signals LIHTC investor appetite and preservation activity in Oklahoma City's affordable segment, but does not shift supply, demand, or cost dynamics for conventional development. The subsidy-dependent structure insulates it from market competition."
+    },
+    {
+      "title": "Dwight Capital Finances $52M Loan for Mixed-Use Multifamily Community in Michigan",
+      "link": "https://www.connectcre.com/stories/dwight-capital-finances-52m-loan-for-mixed-use-multifamily-community-in-michigan/",
+      "excerpt": "Dwight Capital has closed a $52 million HUD 223(f) loan for Griffin Royal Oak, a 245-unit luxury mixed-use multifamily community in the heart of Royal Oak, Michigan. Developed by Singh Development, the property features a five-story residential building, an attached parking garage, and four ground-floor commercial spaces totaling 9,000 square feet. Strategically located near downtown Royal Oak, Griffin Royal Oak is surrounded by pedestrian-friendly sidewalks, boutiques, salons, and retail shops, and more than 70 restaurants. The property&#8217;s luxury residences, ground-floor retail, and walkable location reflect Singh Development&#8217;s focus on thoughtfully designed communities in desirable locations. “Griffin Royal Oak represents the type of community we have focused on developing for more than five decades—high-quality residential environments in strong, established markets,” said Saab Grewal of Singh Development. Dwight Capital&#8217;s Karnveer Bal and Alex Shoenfeld originated the loan on behalf of Singh Development, an established, family-owned real estate development and investment company. Join us for the Connect Midwest Multifamily conference on the afternoon of Tuesday, June 8, 2027, at Joe’s Live in Rosemont, Illinois. The post Dwight Capital Finances $52M Loan for Mixed-Use Multifamily Community in Michigan appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-11-25T19:44:05+00:00",
+      "bullets": [
+        "Singh Development closes 245-unit luxury mixed-use project in Royal Oak, Michigan",
+        "Dwight Capital closes $52M HUD 223(f) loan for stabilized asset",
+        "Ground-floor retail (9,000 sf) and walkable downtown location near 70+ restaurants"
+      ],
+      "summary": "Dwight Capital closed a $52 million HUD 223(f) loan for Griffin Royal Oak, a 245-unit luxury mixed-use community developed by Singh Development in downtown Royal Oak, Michigan. The five-story residential tower includes 9,000 square feet of ground-floor retail and an attached parking garage. The property is positioned in a pedestrian-friendly environment with strong retail and dining density.",
+      "impact": "HUD 223(f) financing (backed by insurance on stabilized assets) remains readily available, signaling confidence in suburban Detroit trophy assets and mixed-use product. Royal Oak's walkability and retail density affirm demand for lifestyle-oriented rental housing in strong secondary markets. This validates new development feasibility and rental rate support for similar projects in the Detroit metro."
+    },
+    {
+      "title": "Host Hotels Rounds Out $202M Brooklyn Hotel Buy With $29M Retail, Parking Acquisition",
+      "link": "https://commercialobserver.com/2026/11/host-hotels-starwood-furman-street-retail-parking-sale/",
+      "excerpt": "Host Hotels &amp; Resorts has secured three retail spaces and an indoor parking area at its newly acquired hotel asset in Brooklyn’s Dumbo neighborhood. The Bethesda, Md.-based real estate investment trust, through the entity Brooklyn Bridge Hotel Owner, acquired the commercial condo units and parking space at 90 Furman Street from a Starwood Capital Group entity, according to property records filed Wednesday. All four properties were built in 2015, according to city tax records, and adjoin Host Hotel’s newest portfolio addition, 1 Hotel Brooklyn Bridge at 60 Furman Street. Host Hotel acquired the hotel’s 85-year leasehold interest from Starwood in a $202 million all-cash deal announced earlier this month. The 195-key hotel marks a significant feather in Host Hotel’s cap, as the operator expects 1 Hotel Brooklyn Bridge to be among its top 10 assets based on full-year estimates. A second agreement, this one concerning the takeover and restructuring of an existing $113 million debt on the properties at 90 Furman and 60 Furman Street, was also filed in city records Wednesday. The properties’ existing mortgage was previously held by Sumitomo Mitsui Banking, according to the filing, and has now been assigned to the entity TRS NY Lender. The same entity has previously been linked by The Real Deal to the New York State Teachers’ Retirement System of NYC, which financed Host Hotels’ 2024 purchase of Starwood’s 1 Hotel Central Park at 1414 Avenue of the Americas. That $265 million deal was in one of that year’s top 10 investment sales. Host Hotels’ recent acquisition of the Dumbo hotel came on the heels of a $127 million all-cash purchase of the 308-room Renaissance Dallas at Plano Legacy West Hotel in Texas. The seller was a joint venture of Paceline Equity Partners and Aravest. Spokespeople for Host Hotels and Starwood did not respond to requests for comment. Emily Davis can be reached at edavis@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-11-25T19:12:24+00:00",
+      "bullets": [
+        "Host Hotels acquires ancillary retail/parking at Brooklyn Dumbo hotel for $29M",
+        "Builds on $202M 1 Hotel Brooklyn Bridge leasehold acquisition from Starwood",
+        "Restructures $113M existing debt across both 90 Furman and 60 Furman assets"
+      ],
+      "summary": "Host Hotels & Resorts, through its Brooklyn Bridge Hotel Owner entity, acquired three retail condo units and an indoor parking area at 90 Furman Street from a Starwood Capital entity for $29 million. This acquisition ancillary to Host's $202 million purchase of 1 Hotel Brooklyn Bridge (195 keys, 60 Furman Street) announced earlier in the month. Host also refinanced and restructured $113 million in existing debt across both properties.",
+      "impact": "No direct multifamily impact. This is hospitality-focused asset consolidation in Dumbo. The transaction does reflect strong capital flows into Brooklyn waterfront trophy assets and suggests lender confidence in hospitality recovery. Notably, the Dumbo submarket remains highly competitive for all CRE asset classes, which may constrain land availability and pricing for multifamily development in that corridor."
+    },
+    {
+      "title": "Thor Equities Buys San Francisco Office/Retail Asset for $50.5M, Lands $51.8M Loan",
+      "link": "https://www.connectcre.com/stories/thor-equities-buys-san-francisco-office-retail-asset-for-50-5m-lands-51-8m-loan/",
+      "excerpt": "Thor Equities has acquired 55 Stockton Street, a boutique Class A office and retail property in San Francisco’s Union Square district, from Zaber Corporation for $50.5 million. The company also secured $51.8 million in acquisition financing from Prime Finance. Also known as the National Center Building, the eight-story, 136,714-square-foot property is situated at the corner of Stockton and O’Farrell streets, one block south of Union Square. Built in 1988 and renovated in 2023, the building features three floors of retail space with boutique office space above. Office tenants include Chalk AI, Harness and Taylor &amp; Associates Architects. The acquisition expands Thor’s presence in the Union Square district. The firm acquired nearby 146 Geary St., home to Bang &amp; Olufsen’s flagship store, for $20.5 million in August. Thor also owns 152 Geary St., occupied by Banana Republic. The property offers convenient access to public transportation and is surrounded by prominent retail, dining and hospitality destinations. Newmark’s Chris Kramer, Ricky Braha, Tim Polglase and Dante DiStefano arranged the financing on behalf of Thor Equities. The post Thor Equities Buys San Francisco Office/Retail Asset for $50.5M, Lands $51.8M Loan appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-11-25T19:10:35+00:00",
+      "bullets": [
+        "Thor Equities buys Class A office/retail at 55 Stockton Street, San Francisco for $50.5M",
+        "Secured $51.8M acquisition financing from Prime Finance at 103% LTV ratio",
+        "Union Square trophy asset; Thor expanding retail/office portfolio in district"
+      ],
+      "summary": "Thor Equities acquired 55 Stockton Street (also known as National Center Building), an eight-story, 136,714-square-foot Class A office and retail property in San Francisco's Union Square for $50.5 million. Prime Finance provided $51.8 million in acquisition financing. The 1988-built, 2023-renovated building features three floors of retail and boutique office space and sits at the corner of Stockton and O'Farrell streets, one block south of Union Square.",
+      "impact": "No direct multifamily impact. This signals capital and lender appetite for Union Square trophy retail/office assets despite persistent San Francisco office headwinds. High LTV financing (103%) suggests lender confidence in retail and location premium. For multifamily: Union Square remains retail/office-dominated; mixed-use multifamily plays in this submarket must accept retail-ground-floor constraints and parking complexity, raising capital and construction costs."
+    },
+    {
+      "title": "OC Investor Group Buys Two Apartment Properties in Venice",
+      "link": "https://www.connectcre.com/stories/oc-investor-group-buys-two-apartment-properties-in-venice/",
+      "excerpt": "A group of private Orange County-based investors acquired two multifamily properties totaling 40 units in the coastal Los Angeles community of Venice for $14.23 million. The properties, located at 1400 and 1500 Venice Blvd., were sold by Advanced Real Estate Group. The transaction, which partly included 1031 exchange capital, worked out to $355,662 per unit and $430 per square foot. Colliers’ Kitty Wallace represented the seller and, along with colleague Andy Eberhard, also represented the buyers. Built in 1988 and 1985, respectively, the properties encompass 33,072 square feet of building area and offer 77 parking spaces. Neither property is subject to the City of Los Angeles Rent Stabilization Ordinance. The 31-unit property at 1400 Venice Blvd. features renovated interiors, a fitness center, a rooftop lounge and subterranean parking. The nine-unit property at 1500 Venice Blvd. sold above its asking price for approximately $3.43 million, representing a 5.13% capitalization rate. The new ownership plans to continue the previous ownership’s unit renovation program. Photo is of 1500 Venice Blvd. The post OC Investor Group Buys Two Apartment Properties in Venice appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-11-25T19:02:31+00:00",
+      "bullets": [
+        "Orange County investor group acquires two Venice apartment properties, 40 units for $14.23M",
+        "Pricing: $355,662/unit, $430/sf; 1031 exchange capital used in deal",
+        "Properties built 1985–1988; not subject to LA Rent Stabilization Ordinance"
+      ],
+      "summary": "A group of Orange County-based private investors acquired two multifamily properties totaling 40 units in Venice, Los Angeles for $14.23 million, equating to $355,662 per unit and $430 per square foot. The transaction, which included 1031 exchange capital, involved properties at 1400 and 1500 Venice Boulevard (built in 1988 and 1985, respectively). Neither property is subject to Los Angeles Rent Stabilization Ordinance, and the new owners plan to continue the previous renovation program.",
+      "impact": "Venice coastal multifamily trades signal sustained investor appetite and pricing power in this high-barrier-to-entry submarket. The absence of RSO restrictions and planned renovation continuity suggest continued rent-growth feasibility. For developers: Venice's constrained land supply, permitting complexity, and high acquisition costs make new development challenging; acquisition and repositioning of older stock remains viable alternative."
+    },
+    {
+      "title": "Optimus Properties Buys South Pasadena Mixed-Use Asset for $6.45M",
+      "link": "https://www.connectcre.com/stories/optimus-properties-buys-south-pasadena-mixed-use-asset-for-6-45m/",
+      "excerpt": "Optimus Properties LLC has acquired a two-building, 17,053-square-foot mixed-use property in downtown South Pasadena for $6.45 million. The historic buildings, located at 1500 and 1508 Mission St., were constructed in 1923 and 1908, respectively. The property contains 12,887 square feet of ground-floor retail space across six suites along with eight apartment units. Situated on a 23,253-square-foot lot with 23 parking spaces, the buildings occupy roughly half a block along South Pasadena’s primary retail corridor and sits steps from the Metro A Line station at Mission and Meridian. Optimus has extended the lease of longtime tenant Two Kids Coffee through 2031 and signed a new five-year lease with Nott &amp; Associates, a design-build firm that has occupied space at the property for nearly 30 years. Perilla L.A., chef Jihee Kim’s Korean banchan shop, will open its second location at 1504 Mission St. The acquisition reflects a shift in Optimus’ investment strategy as the firm redirects capital away from the City of Los Angeles into other California communities. Earlier this year, Optimus acquired a downtown retail portfolio in San Carlos. The post Optimus Properties Buys South Pasadena Mixed-Use Asset for $6.45M appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-11-25T18:56:39+00:00",
+      "bullets": [
+        "Optimus Properties buys South Pasadena mixed-use for $6.45M (12 retail + 8 apartments)",
+        "Historic buildings (1908, 1923) on half-block along primary retail corridor",
+        "Optimus redirecting capital away from LA; signed leases with Two Kids Coffee, Perilla L.A."
+      ],
+      "summary": "Optimus Properties LLC acquired a historic two-building, 17,053-square-foot mixed-use property in downtown South Pasadena for $6.45 million, containing 12,887 square feet of ground-floor retail (six suites) and eight apartment units on a 23,253-square-foot lot. The buildings, located at 1500 and 1508 Mission Street, were constructed in 1923 and 1908. The property is steps from the Metro A Line station and Optimus has extended leases with existing tenants and attracted new retail tenants including chef Jihee Kim's Perilla L.A.",
+      "impact": "Optimus's capital reallocation away from Los Angeles proper toward regional California communities (South Pasadena, San Carlos) signals a flight-to-quality within California—favoring smaller, transit-connected, easier-to-entitle communities over the City of LA's regulatory burden and pricing. South Pasadena's proximity to Metro A Line and lower acquisition costs relative to LA proper make it an emerging micro-market for value-add mixed-use development; proximity to Pasadena and transit support rental demand."
+    },
+    {
+      "title": "Flight to Quality Deepens Divide Among Major U.S. Office Markets",
+      "link": "https://commercialobserver.com/2026/11/us-office-investment-sales-rent/",
+      "excerpt": "The U.S. office market is showing more signs of improvement, but the recovery remains uneven across the nation’s biggest cities. The national office vacancy rate declined 140 basis points annually to 17.2 percent in October, while average asking rents increased 1.5 percent to $33.30 per square foot, according to a report using Yardi data. Office sales totaled nearly $56.9 billion across 2,576 transactions through the first 10 months of 2026, with properties trading at an average of $197 per square foot. But the flight to quality is widening the performance gap between newer and older properties, the report found. Asking rents for Class A office space increased 2.5 percent over the past year, while rents for Class B space declined 0.3 percent. “Office employment growth doesn’t always translate into an office market rebound, and we are seeing significant market discrepancies,” Peter Kolaczynski, director of Yardi Research, said in the report. “One consistency, though, is that outdated and less amenitized buildings are facing the most pressure, while new deliveries are offering best-in-class product and obtaining rent premiums.” Manhattan led the nation&#8217;s largest office markets in investment volume, construction activity, asking rents and occupancy in October. Investors traded more than $6.2 billion worth of Manhattan office properties in the first 10 months of the year at an average of $533 per square foot. Meanwhile, Manhattan’s average asking rents increased 9.5 percent annually to $74.44 per square foot, more than double the national average. The borough also had 3.73 million square feet of office space under construction, the largest development pipeline in the country. Miami recorded the strongest annual office rent growth among the markets tracked, with asking rates jumping 12.8 percent to $63.58 per square foot. The South Florida market’s office-using employment increased 22.1 percent since January 2021, while its office inventory expanded just 5.3 percen",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-11-25T18:45:11+00:00",
+      "bullets": [
+        "National office vacancy declined 140 bps to 17.2% in Oct 2026; rents +1.5% YoY",
+        "Class A office rents +2.5% YoY; Class B rents -0.3% YoY—widening performance gap",
+        "$56.9B in office sales (2,576 transactions) through Oct 2026; $197/sf average price"
+      ],
+      "summary": "The U.S. office market showed mixed improvement in October 2026, with national vacancy declining 140 basis points to 17.2 percent and average asking rents increasing 1.5 percent to $33.30 per square foot. However, a pronounced flight to quality emerged: Class A asking rents rose 2.5 percent year-over-year, while Class B rents declined 0.3 percent. Office sales totaled $56.9 billion across 2,576 transactions through the first 10 months of 2026, averaging $197 per square foot.",
+      "impact": "Office market bifurcation directly constrains multifamily development in secondary and tertiary markets that lack Class A office recovery anchors. Weak Class B office demand in mid-markets signals softer employment fundamentals and reduced white-collar in-migration in those regions, dampening multifamily demand growth. Developers should prioritize Class A, dense urban, and transit-connected submarkets where office flight-to-quality and mixed-use urban repositioning support rental demand."
+    },
+    {
+      "title": "RXR Supplies $140M Construction Loan for Miami Rental Development",
+      "link": "https://commercialobserver.com/2026/11/rxr-aventura-mall-spoke-group-p6/",
+      "excerpt": "RXR has funneled $140 million into the construction of a Live Local Act rental tower near the Aventura Mall in Miami-Dade County. Group P6 is developing the 363-unit Spoke Aventura at 2600 Northeast 203rd Street. The 21-story development will rise a block west from Biscayne Boulevard, about a mile north of the 2.8 million-square-foot indoor mall and the city’s Brightline station. Construction is expected to be completed in 2028, with Moss serving as a general contractor. Morris Betesh and Ronnie Levine of Arrow Real Estate Advisors brokered the loan. More than 40 percent of units will be priced at 120 percent of the area’s median income, in accordance with Florida’s Live Local Act, which provides tax breaks and speedy approvals for developers. Amenities will include a pool deck, a fitness center, a resident lounge, coworking space and a padel court, along with ground-floor retail and a 435-space parking garage. The Boca Raton-based development firm, led by Ignacio Diaz and Jose J. Padua, paid $16 million for the 1.3-acre site in 2024. “Spoke Aventura and Group P6 represent the high-quality, well-located multifamily projects and the high-quality sponsorship that RXR’s Capital Solutions strategy is pursuing,” Russ Young, RXR’s head of investments, said in a statement. RXR, led by Scott Rechler, is a major New York investor and developer, best known for owning trophy office buildings and large-scale redevelopment, including 1211 Avenue of the Americas and the Helmsley Building. Its lending in South Florida has remained limited to a few projects, including providing a mezzanine loan to another Live Local Act project last year. Julia Echikson can be reached at jechikson@commercialobserver.com.",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-11-25T17:30:31+00:00",
+      "bullets": [
+        "RXR provides $140M construction loan for Group P6's Spoke Aventura, 363-unit tower, Miami-Dade",
+        "Live Local Act structure: 40%+ units at 120% AMI; tax incentives, expedited entitlements",
+        "21-story, completion 2028; near Aventura Mall and Brightline station; 435-space parking garage"
+      ],
+      "summary": "RXR closed a $140 million construction loan for Spoke Aventura, a 363-unit rental tower near Aventura Mall in Miami-Dade County, developed by Group P6. More than 40 percent of units are priced at 120 percent of area median income under Florida's Live Local Act, which provides tax breaks and expedited approvals. The 21-story development includes ground-floor retail, a 435-space parking garage, and amenities including a pool, fitness center, and padel court; completion is expected in 2028.",
+      "impact": "Live Local Act financing and incentive infrastructure signals strong Florida multifamily development pipeline support and reduced permitting risk. RXR's $140M construction loan availability affirms lender confidence in Miami-Dade rental fundamentals and Aventura's submarket strength (proximity to Brightline and regional retail hub). Tax incentives and expedited entitlements lower development cost and risk; similar programs in other Florida metros should accelerate starts and compress timelines, increasing supply pressure on rents in the near term."
+    },
+    {
       "title": "Vornado Sells 49% Stake in 90 Park Avenue to Sixth Street, DivcoWest",
       "link": "https://commercialobserver.com/2026/11/vornado-90-park-avenue-sixth-street-divco/",
-      "excerpt": "Vornado Realty Trust has new partners at one of its Midtown office properties. The firm has sold a 49 percent stake in 90 Park Avenue, its 41-story Class A office building three blocks south of Grand Central Terminal, to Sixth Street and DivcoWest at a valuation of $722.5 million. Vornado announced the transaction Tuesday, not identifying the buyers, but sources later confirmed Sixth Street and DivcoWest are the lucky two. Eastdil Secured Savills’ Gary Phillips and Will Silverman repped Vornado — which will retain a majority stake in the property and also continue to lease and manage it — in the transaction, which is expected to close in December. Newmark’s Adam Spies, Josh King and Adam Doneger represented Sixth Street in the deal. Located a hop, skip and a jump from Grand Central, the 41-story, 990,000-square-foot 90 Park Avenue underwent a $70 million capital improvement program in 2016 that included a modernized lobby, destination elevators and upgraded mechanical systems. The building’s current occupancy rate is around 95 percent, sources said. In March 2025, alternative investment firm Balbec Capital signed a 13,200-square-foot lease to move its New York City office to 90 Park Avenue, while Swiss commodities trading and mining company Glencore also took 44,968 square feet at the property that month. In conjunction with the sale, a $500 million non-recourse loan is in the works, according to a release from Vornado, with the firm banking on net proceeds of $575 million after costs and loan reserves. Further info on said loan couldn’t be gleaned. Eastdil, Newmark, Sixth Street and DivcoWest declined to comment. Cathy Cunningham can be reached at ccunningham@commercialobserver.com and Isabelle Durso can be reached at idurso@commercialobserver.com.",
+      "excerpt": "Vornado Realty Trust has new partners at one of its Midtown office properties. The firm has sold a 49 percent stake in 90 Park Avenue, its 41-story Class A office building three blocks south of Grand Central Terminal, to Sixth Street and DivcoWest at a valuation of $722.5 million. Vornado announced the transaction Tuesday, not identifying the buyers, but sources later confirmed Sixth Street and DivcoWest are the lucky two. Eastdil Secured Savills’ Gary Phillips and Will Silverman repped Vornado — which will retain a majority stake in the property and also continue to lease and manage it — in the transaction, which is expected to close in December. Newmark’s Adam Spies, Josh King and Adam Doneger represented Sixth Street in the deal. Located a hop, skip and a jump from Grand Central, the 41-story, 990,000-square-foot 90 Park Avenue underwent a $70 million capital improvement program in 2016 that included a modernized lobby, destination elevators and upgraded mechanical systems. The building’s current occupancy rate is around 95 percent, sources said. In March 2025, alternative investment firm Balbec Capital signed a 13,200-square-foot lease to move its New York City office to 90 Park Avenue, while Swiss commodities trading and mining company Glencore also took 44,968 square feet at the property that month. In conjunction with the sale, a $500 million nonrecourse loan is in the works, according to a release from Vornado, with the firm banking on net proceeds of $575 million after costs and loan reserves. Further info on said loan couldn’t be gleaned. Eastdil, Newmark, Sixth Street and DivcoWest declined to comment. Cathy Cunningham can be reached at ccunningham@commercialobserver.com and Isabelle Durso can be reached at idurso@commercialobserver.com.",
       "source": "Comm. Observer",
       "cat": "Commercial",
       "date": "2026-11-25T03:00:33+00:00",
       "bullets": [
-        "Vornado sells 49% stake in 90 Park Avenue (Midtown Manhattan) to Sixth Street and DivcoWest at $722.5M valuation",
-        "41-story, 990k SF Class A office at 95% occupancy; $70M capital program completed 2016",
-        "Vornado retains majority stake and continues to manage; transaction closes December"
+        "Vornado sells 49% stake in 90 Park Avenue (990k sf Class A office, Midtown) for $722.5M valuation",
+        "Buyers: Sixth Street and DivcoWest; Vornado retains 51% and continues to manage",
+        "41-story asset, $70M 2016 capex program; three blocks south of Grand Central Terminal"
       ],
-      "summary": "Vornado has sold a 49 percent minority stake in 90 Park Avenue, a 41-story, 990,000-square-foot Class A office tower three blocks south of Grand Central Terminal, to Sixth Street and DivcoWest at a $722.5 million valuation. The property is currently 95 percent occupied and underwent a $70 million modernization in 2016. Vornado will retain the majority stake and continue leasing and managing the building through the December closing.",
-      "impact": "Limited relevance to multifamily development. This signals distressed capital environment for office—even trophy Manhattan properties are being carved up and sold at discounts. Demonstrates capital flight from office to alternative assets, indirectly supporting multifamily demand in Gateway markets as office relocations may push some tenants/workers to rented apartments."
-    },
-    {
-      "title": "Strada pitches apartments, for-sale townhomes facing Presidio after $52M property purchase",
-      "link": "https://therealdeal.com/san-francisco/2026/11/24/strada-pitches-apartments-townhomes-in-presidio-terrace/",
-      "excerpt": "Strada Investment Group is targeting a former nursing home in Presidio Terrace for redevelopment with more than 300 units of housing.&#160; The San Francisco-based developer filed plans on Monday for a 307-unit housing development on a 6-acre site at 300 Lake Street, the San Francisco Chronicle reported. The property once housed St. Anne’s Home, a skilled nursing facility operated by the Little Sisters of the Poor.&#160; Strada’s proposal calls for an eight-story, 262-unit apartment building along Lake Street and 45 for-sale townhomes on the hillside toward West Pacific Avenue and the Presidio. Strada paid $52 million for the property.&#160; The [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-11-24T23:30:30+00:00",
-      "bullets": [
-        "Strada files 307-unit mixed-use at 300 Lake Street, San Francisco (6-acre former nursing home, $52M purchase)",
-        "262-unit apartments (8-story) + 45 for-sale townhomes; 31 affordable units at 50% AMI; 262 parking spaces",
-        "Project targets minimum Family Zoning Plan density; mixed tenure financing optionality amid market volatility"
-      ],
-      "summary": "Strada Investment Group filed plans for a 307-unit mixed-use development on a 6-acre site in Presidio Terrace, San Francisco, including an eight-story, 262-unit apartment building and 45 for-sale townhomes. The project includes 31 affordable units for households earning 50 percent of area median income, 262 parking spaces, and landscaped terraces. Strada paid $52 million for the former St. Anne's Home nursing facility and designed the project to meet minimum density under San Francisco's Family Zoning Plan.",
-      "impact": "DEMAND SIGNAL in San Francisco: Family Zoning Plan's density incentives are activating multifamily supply in underutilized sites (nursing homes, industrial). Strada's deliberate mixed-tenure approach (rentals + for-sale) signals financing flexibility—developers hedging execution risk in uncertain rate environment. This is a template for other Bay Area developers to convert non-residential assets into housing supply ahead of 2031 state mandate."
-    },
-    {
-      "title": "Accounting Firm Mitchell Titus Returns to Rudin’s One Battery Park Plaza",
-      "link": "https://www.connectcre.com/stories/accounting-firm-mitchell-titus-returns-to-rudins-one-battery-park-plaza/",
-      "excerpt": "Mitchell &amp; Titus, LLP will relocate its New York headquarters to One Battery Park Plaza, Rudin’s 35-story office tower in Lower Manhattan. The largest minority-controlled accounting firm in the U.S., Mitchell Titus will occupy 8,289 square feet. As part of its 11-year lease, the firm, formerly a longtime tenant, is expected to return to the tower in the second quarter of 2027. “Mitchell Titus’ return to One Battery Park Plaza is a testament to quality ownership and our commitment to delivering best-in-class work environments across New York City,” said Kevin Daly, VP of office leasing at Rudin. “This agreement adds to a banner year of leasing momentum at the building, and we look forward to welcoming Mitchell Titus back.” Rudin was represented in-house by Daly and Craig Panzirer, SVP, head of office leasing. Mitchell Titus was represented by Shawna O. Menifee, principal of Savills affiliate Integrative Partners. The post Accounting Firm Mitchell Titus Returns to Rudin&#8217;s One Battery Park Plaza appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-11-24T22:20:37+00:00",
-      "bullets": [
-        "Mitchell Titus (largest minority-controlled U.S. accounting firm) leases 8,289 SF at Rudin's One Battery Park Plaza, Lower Manhattan",
-        "11-year lease; tenant returning to building in Q2 2027; described as 'banner year' for building leasing",
-        "Demonstrates flight-to-quality office demand in Lower Manhattan submarket"
-      ],
-      "summary": "Mitchell & Titus, the largest minority-controlled accounting firm in the U.S., has signed an 11-year lease for 8,289 square feet at Rudin's One Battery Park Plaza, a 35-story office tower in Lower Manhattan, returning to the building in the second quarter of 2027. The lease was part of a 'banner year' of leasing momentum at the property.",
-      "impact": "Limited relevance to multifamily development. Flight-to-quality office leasing in Manhattan's trophy buildings (Rudin properties, Lower Manhattan) indicates selective demand by high-credit tenants, but signals continued office sector weakness overall. Does not directly impact multifamily demand or supply dynamics."
+      "summary": "Vornado Realty Trust sold a 49 percent stake in 90 Park Avenue, its 41-story, 990,000-square-foot Class A office tower in Midtown Manhattan, to Sixth Street Partners and DivcoWest at a $722.5 million valuation. Vornado retains majority ownership and will continue to lease and manage the property. The transaction is expected to close in December. The building underwent a $70 million capital improvement program in 2016 and is located three blocks south of Grand Central Terminal.",
+      "impact": "Minimal direct multifamily impact, but signals strong capital flows into prime Manhattan office trophy assets and stabilized Class A recovery confidence. The partial sale/recapitalization structure suggests value creation in blue-chip Manhattan office and ongoing lender appetite for marquee properties. For multifamily: Vornado's focus on office retention in Midtown contrasts with office-to-residential conversion activity in other NYC markets; multifamily developers should focus on repositioning lower-yielding class B/C office in secondary Manhattan locations and outer boroughs where conversion is more economically viable."
     },
     {
       "title": "Partnership With Related and BH Group Lands $38M for Waterfront Fort Lauderdale Asset",
@@ -77,192 +167,12 @@
       "cat": "Commercial",
       "date": "2026-11-24T22:14:52+00:00",
       "bullets": [
-        "BH Group, PEBB Enterprises, Related Group secure $38.4M refinance via Deutsche Bank for The Quay waterfront property, Fort Lauderdale",
-        "72,904 SF mixed-use (office, retail, marina); plans 33-story rental tower on surface parking lot; debt at $73,704/unit",
-        "Partnership acquired property for $48.5M in 2024; rental tower targeting 521 units"
+        "BH Group, PEBB, Related obtain $38.4M refinance for The Quay waterfront asset, Fort Lauderdale",
+        "72,904 sf mixed-use: three buildings, 2-story office, 6-slip marina; purchased $48.5M in 2024",
+        "Partnership planning 33-story multifamily tower on surface parking; Deutsche Bank financing"
       ],
-      "summary": "A partnership of BH Group, PEBB Enterprises, and Related Group has obtained $38.4 million in refinancing from Deutsche Bank for The Quay, a 72,904-square-foot waterfront mixed-use property in Fort Lauderdale's Harbordale neighborhood. The partnership acquired the 7-acre site in 2024 for $48.5 million and plans to build a 33-story multifamily tower on the surface parking lot to deliver approximately 521 rental units.",
-      "impact": "CAPITAL & DEMAND SIGNAL for South Florida (Fort Lauderdale): Tier-1 developers (Related, BH, PEBB) are refinancing to fund major multifamily starts in Harbordale, a secondary waterfront location. Deutsche Bank's willingness to lend at $73.7k/unit suggests strong lender conviction on South Florida rents and absorption. Signals capital mobilization for 2025–2027 starts; watch for rent growth as these units enter market 2027–2028."
-    },
-    {
-      "title": "Mason Tenders District Council Signs 10-Year Extension at 520 Eighth Ave.",
-      "link": "https://www.connectcre.com/stories/mason-tenders-district-council-signs-10-year-extension-at-520-eighth-ave/",
-      "excerpt": "GFP Real Estate announced that the Mason Tenders’ District Council Trust Funds, which provide employee benefits to active and retired workers in the construction industry, have signed a 10-year lease extension for 40,000 square feet of office space at 520 Eighth Ave. The transaction was handled in-house by Matthew Mandell, senior managing director of GFP, with no outside brokerage firm involved. “The Mason Tenders District Council Trust Funds have had a presence at 520 Eighth Ave. for more than two decades, and we’re glad the organization will be staying for another 10 years,” said Mandell. “This agreement gives them long-term certainty in a location that has worked for them, along with improvements to their existing space.” The organization, which first moved into the building in 2001, will continue using the space for its administrative offices. Located in the Penn District, 520 Eighth Ave. is among Manhattan’s most prominent nonprofit office buildings. The post Mason Tenders District Council Signs 10-Year Extension at 520 Eighth Ave. appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-11-24T22:10:12+00:00",
-      "bullets": [
-        "Mason Tenders District Council signs 10-year office lease extension (40k SF) at 520 Eighth Ave., Manhattan Penn District",
-        "Tenant present since 2001; lease includes space improvements; handled in-house by GFP Real Estate",
-        "Demonstrates tenant stability in union/nonprofit office submarket"
-      ],
-      "summary": "Mason Tenders District Council Trust Funds, which provide employee benefits for construction industry workers, has signed a 10-year lease extension for 40,000 square feet at 520 Eighth Ave. in Manhattan's Penn District. The organization has occupied the building since 2001 and will continue using the space for administrative offices, with improvements included in the renewal.",
-      "impact": "Limited relevance to multifamily development. Signals modest office stabilization in Midtown West (Penn District), but does not impact multifamily demand or development feasibility. Union pension/benefit funds are credit-worthy tenants; their lease stability does not correlate with apartment demand."
-    },
-    {
-      "title": "Fernmoor Lines Up $85M Debt Financing on Two NJ Multifamily Projects",
-      "link": "https://www.connectcre.com/stories/fernmoor-lines-up-85m-debt-financing-on-two-nj-multifamily-projects/",
-      "excerpt": "CBRE has arranged an $85-million debt financing for Mi-Place at First Radio and Mi-Place at Plainfield Station on behalf of Fernmoor, a leading multifamily developer active in New Jersey, Pennsylvania and Delaware. The financing was provided by PGIM and arranged by CBRE’s Matthew Klauer. The first asset, Mi-Place at First Radio, consists of a recently completed 218-unit apartment building in Roselle Park, NJ. The second asset, Mi-Place at Plainfield Station, is a 71-unit Plainfield, NJ development project scheduled for completion in early 2027. Both properties provide rail service to New York City via NJ Transit. “Fernmoor continues to raise the bar for suburban multifamily development,” said Klauer. “Both projects, touting superior locations and best-in-class finishes, are well-positioned for long-term success. It was a true pleasure to work with Fernmoor’s creative and motivated team.” The developer currently has four more Mi-Place projects under development. The post Fernmoor Lines Up $85M Debt Financing on Two NJ Multifamily Projects appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-11-24T21:42:39+00:00",
-      "bullets": [
-        "Fernmoor secures $85M debt financing (PGIM, arranged by CBRE) for two NJ multifamily projects",
-        "Mi-Place at First Radio: 218-unit completed project in Roselle Park, NJ; Mi-Place at Plainfield Station: 71-unit project completing early 2027",
-        "Both projects offer NJ Transit rail access to NYC; Fernmoor has four more Mi-Place projects under development"
-      ],
-      "summary": "CBRE has arranged an $85 million debt financing from PGIM for Fernmoor, a leading New Jersey multifamily developer, covering two completed and near-completion assets. Mi-Place at First Radio is a recently completed 218-unit apartment building in Roselle Park, NJ, while Mi-Place at Plainfield Station is a 71-unit development scheduled for early 2027 completion. Both projects benefit from NJ Transit rail access to New York City.",
-      "impact": "CAPITAL & DEMAND SIGNAL for New Jersey/Philadelphia MSA: PGIM (Prudential's alternative asset manager) is deploying capital into stabilized and near-stabilized suburban multifamily in transit-accessible submarkets (Roselle Park, Plainfield). This signals lender conviction on transit-oriented supply and NYC commuter demand. Fernmoor's pipeline expansion (four more projects) indicates healthy underwriting and suggests continued capital availability for quality suburban multifamily in NJ/PA corridor."
-    },
-    {
-      "title": "Atlantic Capital Closes Sale of Old Navy, Chase Bank in Nashua",
-      "link": "https://www.connectcre.com/stories/atlantic-capital-closes-sale-of-old-navy-chase-bank-in-nashua/",
-      "excerpt": "Atlantic Capital Partners arranged the $14.475-million sale of 232 Daniel Webster Hwy., a stabilized 3.19-acre retail asset in Nashua, NH, near the Massachusetts border and 30 miles north of Boston. Justin Smith, head of capital markets, led the transaction, representing the seller and procuring the buyer, both of whom were undisclosed. The property consists of two freestanding buildings totaling 27,686 square feet: a 25,093-square-foot building leased to Old Navy and a 2,593-square-foot pad site leased to Chase Bank. Positioned four miles from downtown Nashua, the fully leased asset provides immediate cash flow in one of Southern New Hampshire’s most productive retail corridors. &#8220;Assets of this caliber in Southern New Hampshire’s primary trade area represent exceptionally rare investment opportunities,&#8221; said Smith. &#8220;The combination of creditworthy, long-term tenancy and a dominant regional retail node generated significant investor demand throughout the marketing process.&#8221; The post Atlantic Capital Closes Sale of Old Navy, Chase Bank in Nashua appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-11-24T21:24:12+00:00",
-      "bullets": [
-        "Atlantic Capital arranges $14.475M sale of 3.19-acre retail center (Nashua, NH, 30 miles north of Boston)",
-        "Two freestanding buildings (27,686 SF total): 25k SF Old Navy, 2.6k SF Chase Bank; fully leased, stabilized",
-        "South New Hampshire described as 'productive retail corridor' with 'rare investment opportunities'"
-      ],
-      "summary": "Atlantic Capital Partners has arranged the $14.475 million sale of a 3.19-acre retail asset in Nashua, NH, near the Massachusetts border and 30 miles north of Boston. The property consists of two freestanding buildings (27,686 total square feet) leased to Old Navy and Chase Bank, providing stable, long-term cash flow in Southern New Hampshire's primary retail corridor.",
-      "impact": "Limited relevance to multifamily development. Retail asset sale in secondary New England market does not signal housing demand or supply dynamics. Boston-area suburban retail demand is distinct from multifamily rental trends."
-    },
-    {
-      "title": "Netflix Buys Historic Radford Studio Center in L.A. for $380M",
-      "link": "https://commercialobserver.com/2026/11/netflix-radford-studio-center-la-hackman-hollywood/",
-      "excerpt": "Netflix has acquired one of Los Angeles’ landmark film and television studios at a steep discount, as the region’s struggling entertainment industry continues to weigh on production real estate. The streaming giant announced Tuesday that it is purchasing the 55-acre, 1.2 million-square-foot Radford Studio Center in Studio City for $380 million from Goldman Sachs. The price is a 79 percent discount from the $1.85 billion that Hackman Capital Partners and its investors paid for the property in 2021. The acquisition follows Hackman’s default on a $1.1 billion mortgage, which led to Goldman Sachs taking control of the property. The studio received no bids at a foreclosure auction Tuesday morning, approximately an hour before Netflix announced the deal, according to Bloomberg. Netflix expects the deal to close Tuesday evening. The company plans to keep Radford operating as a working production studio, with existing productions continuing uninterrupted. Opened in 1928, Radford has hosted television classics including “Seinfeld,” “Gunsmoke,” “Gilligan’s Island” and “The Mary Tyler Moore Show.” The acquisition comes as Southern California’s production downturn continues to pressure studio owners. Hackman has faced distress across several properties, including Television City, the 25-acre Fairfax District studio where lenders led by Deutsche Bank moved toward foreclosure earlier this year. The company also faced pressure involving Manhattan Beach Studios, while Fortress Investment Group foreclosed on its Sony Animation campus in Culver City. Los Angeles-area film and television employment declined 36 percent from 2022 through 2025, according to the Los Angeles County Department of Economic Opportunity. Production shoot days fell nearly 5 percent annually in the most recent quarter, according to FilmLA. California has expanded its annual film and television tax credit program from $330 million to $750 million, though it hasn’t produced a significant recovery. Meanwhile, Netfl",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-11-24T21:10:47+00:00",
-      "bullets": [
-        "Netflix acquires Radford Studio Center (Studio City, Los Angeles) for $380M from Goldman Sachs; 79% discount from $1.85B purchase price (2021)",
-        "55-acre, 1.2M SF production facility; Hackman Capital/investors defaulted on $1.1B mortgage; Goldman took control",
-        "Netflix plans to operate as working studio; existing productions to continue uninterrupted"
-      ],
-      "summary": "Netflix has acquired the 55-acre, 1.2 million-square-foot Radford Studio Center in Studio City, Los Angeles, for $380 million from Goldman Sachs—a 79 percent discount from the $1.85 billion price Hackman Capital Partners and its investors paid in 2021. The acquisition follows Hackman's default on a $1.1 billion mortgage. Netflix plans to maintain the facility as an operating production studio.",
-      "impact": "COST & CAPITAL SIGNAL for Los Angeles: Distressed asset sales in entertainment real estate underscore the secular contraction in traditional film/TV production and studio demand. This capital destruction (79% loss) has second-order implications for LA multifamily: (1) reduced demand from production workers and studios seeking office/production space means less job/wage growth in some LA submarkets; (2) conversely, underutilized studio backlots may eventually convert to housing (zoning permitting), adding supply. Near-term: reduced cost-of-living upward pressure in West LA if entertainment jobs migrate out or shrink."
-    },
-    {
-      "title": "Amtrak’s U-turn throws Justin Ishbia’s South Loop stadium plan into doubt",
-      "link": "https://therealdeal.com/chicago/2026/11/24/amtrak-throws-justin-ishbias-stadium-plan-into-doubt/",
-      "excerpt": "Amtrak is spiking its plans to build a $900 million maintenance facility in Bridgeport, potentially closing off Chicago White Sox owner-in-waiting Justin Ishbia’s route to build a new ballpark for the team in his proposed Railyards development.&#160; The plans to effectively swap out the White Sox, who play at Rate Field in Bridgeport, for a noisy maintenance facility earned the scorn of residents and local political figures alike.&#160; The plans were abandoned after the Federal Railroad Administration said that $572 million in grant funding earmarked for the project became unsure due to previously undisclosed costs, according to Crain’s.&#160; In August, [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-11-24T20:26:03+00:00",
-      "bullets": [
-        "Amtrak cancels $900M Bridgeport maintenance facility; FRA calls project 'fiscally untenable,' additional $700M costs cited",
-        "Cancellation blocks Justin Ishbia's White Sox stadium and Railyards mixed-use development at 14th Street Coach Yard",
-        "FRA funding ($572M) became uncertain; project tied to Ishbia's option to purchase Sox (optionality ends 2029)"
-      ],
-      "summary": "Amtrak has canceled plans to build a $900 million maintenance facility in Bridgeport, Chicago, after the Federal Railroad Administration determined the project was 'fiscally untenable' due to previously undisclosed costs totaling an additional $700 million. The cancellation jeopardizes Justin Ishbia's proposed Railyards mixed-use development, which included a new White Sox stadium, at Amtrak's defunct 14th Street Coach Yard. Ishbia's purchase option for the team expires in 2029, coinciding with the team's lease expiration at Rate Field.",
-      "impact": "DEMAND & DEVELOPMENT RISK in Chicago South Loop/Bridgeport: The collapse of the Amtrak maintenance facility project removes a major site-control uncertainty but also signals dwindling capital and political will for the Railyards mixed-use development. Ishbia's option window (2029) is narrowing, and without Amtrak's relocation clearing Rate Field, the catalyst for a major mixed-use/stadium development evaporates. Expect South Loop/Bridgeport multifamily demand to remain fragmented and project-dependent rather than catalyzed by a singular sports/anchor tenant draw. Developers should view this as a 2–3 year window to acquire alternative parcels before Ishbia's option expires."
-    },
-    {
-      "title": "Law Firms Expand Office Footprints as Leasing Nears Annual Record",
-      "link": "https://commercialobserver.com/2026/11/law-firms-office-leasing-q3/",
-      "excerpt": "U.S. law firms are on pace for a second straight record year of office leasing, with many still looking to expand their real estate footprints. The legal sector leased nearly 5 million square feet of office space in the third quarter of 2026, up 23 percent from the same period last year and the strongest third quarter on record, according to a report released Tuesday by Cushman &amp; Wakefield. Law firms have collectively leased 17.5 million square feet through the first nine months of 2026, up 21 percent compared to 2025, and just 1.4 million square feet shy of the annual record set last year. “Law firm demand has not only held its pace, it has accelerated,” David C. Smith, Cushman &amp; Wakefield’s head of Americas insights, said in a statement. “Every quarter of 2026 has outpaced its 2025 counterpart, and with one quarter remaining, the sector is positioned to surpass last year’s record total. “What stands out is that this growth is coming from firms expanding their footprints, not simply maintaining their size,” Smith added. The country’s 10 largest legal office markets accounted for 3.1 million square feet of leasing in the third quarter, and 11.2 million square feet of activity so far this year. The annual figure is just 100,000 square feet below the markets’ combined annual record set last year. New York City led all markets with 1.1 million square feet of leasing by legal firms in the third quarter. Atlanta was No. 2 with 454,000 square feet, marking its strongest quarter for legal sector leasing since 2017. Washington, D.C., accounted for 8 percent of third-quarter leasing nationwide, followed by Los Angeles at 6 percent, and Boston and San Francisco at 4 percent each. Meanwhile, Chicago and New York City have each already surpassed their 2025 law firm leasing totals. Demand also extended well beyond the country’s traditional legal hubs. Markets outside the top 10 accounted for 1.9 million square feet, or 38 percent of third-quarter leasing activity. Seven ",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-11-24T20:20:09+00:00",
-      "bullets": [
-        "Law firms leased 17.5M SF office space through 9M 2026, up 21% YoY; on track to surpass 2025 record",
-        "Q3 2026 office leasing by law firms: 5M SF (up 23% YoY), strongest Q3 on record",
-        "Growth driven by firm expansions, not consolidation; every 2026 quarter outpaced 2025 counterpart"
-      ],
-      "summary": "U.S. law firms are on pace for a second consecutive record year of office leasing, with 17.5 million square feet leased through the first nine months of 2026, up 21 percent compared to 2025. The legal sector leased nearly 5 million square feet in Q3 2026 alone, up 23 percent from Q3 2025 and the strongest third quarter on record. Growth is being driven by firms expanding their footprints rather than consolidating, with every quarter of 2026 outpacing its 2025 counterpart.",
-      "impact": "Limited relevance to multifamily development. Law firm office expansion signals selective demand for premium office space in select Gateway markets (NYC, DC, LA), but does not directly impact multifamily. However, law firm hiring and geographic expansion may correlate with income growth in certain professional-services-dominant markets (NYC, DC, SF, Boston), which could support higher rents in adjacent multifamily. Watch for law firm cluster expansions to signal talent inflows and potential wage-led rent growth in those metros."
-    },
-    {
-      "title": "Hudson River Trading Expands to 551K SF at 3 World Trade Center",
-      "link": "https://commercialobserver.com/2026/11/hudson-river-trading-lease-expansion-3-world-trade-center/",
-      "excerpt": "Hudson River Trading (HRT), a leading electronic and quantitative trading firm, has added a large chunk of office space to its global headquarters at 3 World Trade Center. HRT, which moved into its Financial District home in 2018, just signed a lease to add 340,000 square feet to its existing 211,207-square-foot office at 175 Greenwich Street, according to landlord Silverstein Properties. The new expansion brings HRT’s total footprint at 3 World Trade Center to approximately 551,207 square feet. The 15-year expansion lease had an asking rent between $110 and $150 per square foot, according to a source familiar with the deal. Before moving into 3 World Trade Center, HRT leased 70,000 square feet at 4 World Trade Center starting in 2016. Its relocation to 3 World Trade Center in 2018 gave it 136,000 square feet of office space, and HRT later added another 75,207 square feet to its footprint in 2021. The trading firm’s latest expansion deal brings the 80-story 3 World Trade Center to 98 percent occupancy, according to Silverstein. “Hudson River Trading is home to some of the most creative and brilliant people in New York, and its extraordinary growth at the World Trade Center is a testament to the appeal of this location,” Jeremy Moss, executive vice president at Silverstein, said in a statement. “Today’s announcement reflects the company’s confidence in Lower Manhattan and the advantages of working in a modern, highly connected building that can grow with its tenants.” A spokesperson for HRT added that the expansion represents “an investment in our people and in our future.” Moss represented Silverstein in-house in the deal, alongside a CBRE team of Mary Ann Tighe, Ken Meyerson, Evan Haskell and Caroline Merck. Sacha Zarba, Chris Corrinet and Jeff Fischer, also from CBRE, brokered the deal for HRT. A spokesperson for CBRE did not immediately respond to a request for comment. News of HRT’s major expansion comes during a busy period for the World Trade Center campus, wh",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-11-24T20:08:20+00:00",
-      "bullets": [
-        "Hudson River Trading expands by 340k SF at 3 World Trade Center (175 Greenwich Street), NYC Financial District",
-        "15-year lease at $110–$150/SF; HRT total footprint now ~551k SF (from 211k SF previously)",
-        "Brings 3 World Trade Center to 98% occupancy; HRT is anchor tenant (presence since 2016 at 4 WTC)"
-      ],
-      "summary": "Hudson River Trading (HRT), a major quantitative and electronic trading firm, has signed a 15-year lease to add 340,000 square feet to its existing 211,207-square-foot office at 3 World Trade Center in Manhattan's Financial District. The expansion lease had asking rents of $110–$150 per square foot, bringing HRT's total footprint to approximately 551,207 square feet. The expansion brings 3 World Trade Center to 98 percent occupancy.",
-      "impact": "Limited relevance to multifamily development. HRT's major expansion signals strong demand by financial services/tech firms for premium office in Lower Manhattan, but does not directly impact multifamily demand or supply. However, it underscores that select office submarkets (Financial District, trophy buildings) retain tenant strength and pricing power—a signal that Manhattan's office market is bifurcated (Flight-to-Quality). No second-order impact on multifamily."
-    },
-    {
-      "title": "Irvine Retail Center Sells for $31.4M",
-      "link": "https://www.connectcre.com/stories/irvine-retail-center-sells-for-31-4m/",
-      "excerpt": "Trade Marketplace, a 32,560-square-foot retail center in Irvine, sold for a reported $31.4 million ($964/sf). The property, located at 2222 and 2272 Michelson Drive, was acquired by an undisclosed private investor. Situated on just over three acres, Trade Marketplace comprises two buildings featuring a mix of traditional retail suites and an indoor-outdoor food hall. Originally built in 1989, the property was repositioned in 2017. Tenants include HiroNori Craft Ramen, Financial Partners Credit Union, Domino’s Pizza and Subway, along with a collection of independent dining and service businesses. The center is located within the Irvine Business Complex, near John Wayne Airport and Interstate 405. The surrounding one-mile radius contains approximately 18.4 million square feet of office space and 11,500 multifamily units. Christopher Smith and Andrey Mindirgasov with Colliers represented the buyer in the transaction. The seller, Dream Square Irvine LLC, an entity managed by Japan-based Daiwa House Group, acquired the property in 2019 for $30.75 million. The asset was previously marketed for sale in 2023. The post Irvine Retail Center Sells for $31.4M appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-11-24T20:04:48+00:00",
-      "bullets": [
-        "Trade Marketplace (Irvine, CA retail center, 32.6k SF) sells for $31.4M ($964/SF) to undisclosed private investor",
-        "3-acre property: two buildings, traditional retail + indoor-outdoor food hall; tenants include ramen, credit union, pizza chains",
-        "Seller (Daiwa House/Dream Square) bought property in 2019 for $30.75M; located in Irvine Business Complex near airport/I-405"
-      ],
-      "summary": "Trade Marketplace, a 32,560-square-foot retail center in Irvine, California, has sold for $31.4 million ($964 per square foot) to an undisclosed private investor. The property comprises two buildings featuring traditional retail and an indoor-outdoor food hall, with tenants including HiroNori Craft Ramen, Financial Partners Credit Union, Domino's Pizza, and Subway. Located in the Irvine Business Complex near John Wayne Airport and Interstate 405, the property sits within a one-mile radius containing 18.4 million square feet of office space and 11,500 multifamily units.",
-      "impact": "Limited relevance to multifamily development. Retail asset sale in Orange County does not signal housing demand or supply dynamics. However, the data point that the surrounding 1-mile radius contains 11.5k multifamily units is a supply saturation signal—Irvine's high office-and-multifamily density suggests built-out supply and competitive rental market. Developers should view Irvine as mature, not growth-oriented."
-    },
-    {
-      "title": "BH, Pebb, Related score $38M refi for Fort Lauderdale Live Local project",
-      "link": "https://therealdeal.com/miami/2026/11/24/bh-pebb-related-score-38m-refi-for-fort-lauderdale-project/",
-      "excerpt": "BH Group, Pebb Enterprises and Related Group secured $38.4 million in refinancing for the redevelopment of a waterfront mixed-use shopping center in Fort Lauderdale.&#160; Deutsche Bank provided the financing for The Quay at 1515 to 1535 Southeast 17th Street, where the joint venture is planning a 33-story residential tower on the property’s existing parking lot, according to a release. The debt amounts to $73,704 per unit.&#160; The project calls for 521 apartments, with 217 units set aside for workforce housing under the state’s Live Local Act, as well as 5,000 square feet of commercial space and more than 750 parking [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-11-24T19:30:00+00:00",
-      "bullets": [
-        "BH Group, PEBB Enterprises, Related Group secure $38.4M refinance via Deutsche Bank for The Quay waterfront, Fort Lauderdale",
-        "521-unit apartment tower planned; 217 units affordable under Florida Live Local Act; $73,704/unit debt",
-        "Partnership acquired 7-acre site for $48.5M in 2024; retaining existing retail/office; waterfront public plaza planned"
-      ],
-      "summary": "BH Group, PEBB Enterprises, and Related Group have secured $38.4 million in refinancing from Deutsche Bank for The Quay at Southeast 17th Street in Fort Lauderdale, where the developers plan a 33-story residential tower with 521 apartments. The project dedicates 217 units to workforce housing under Florida's Live Local Act, achieving density incentives. The developers acquired the 7-acre waterfront site in 2024 for $48.5 million and plan to retain the existing shopping center, office buildings, and create a waterfront public plaza.",
-      "impact": "CAPITAL, SUPPLY & DEMAND SIGNAL for South Florida (Fort Lauderdale): Live Local Act incentives are driving density and workforce-housing production in Fort Lauderdale's secondary waterfront markets (Harbordale). The 217 affordable units (42% of 521) signal policy-driven supply that will compete with market-rate product but also expand rental stock in a market with strong in-migration. Deutsche Bank's $38.4M commitment at $73.7k/unit signals capital conviction on 2027–2028 lease-up. This replicates across Fort Lauderdale's North Flagler/Harbordale strips—expect rapid multifamily starts 2025–2026, with absorption pressure 2027–2028."
-    },
-    {
-      "title": "Acqualina developer Trump Group takes over Casablanca Miami Beach condo buyout",
-      "link": "https://therealdeal.com/miami/2026/11/24/trump-group-takes-over-casablanca-miami-beach-condo-buyout/",
-      "excerpt": "Jules and Eddie Trump’s Trump Group acquired majority ownership of the group leading the buyout of the Casablanca condo-hotel in Miami Beach, where the developer plans to operate a hotel, The Real Deal has learned.&#160; The Trump Group, which is not related or affiliated with President Donald Trump or his Trump Organization, controls the condo association for the Casablanca at 6345 Collins Avenue. The property, recognizable by its valet entrance with statues of four men partially wrapped in white towels holding up the overhang, has been at the center of other attempted buyouts. Earlier this year, Sagar Desai’s Activate Hospitality [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-11-24T17:00:00+00:00",
-      "bullets": [
-        "Trump Group (not affiliated with Trump Organization) acquires majority ownership of Casablanca condo-hotel buyout group, Miami Beach",
-        "10-story, 357-unit oceanfront property at 6345 Collins Avenue (built 1948); condo termination vote planned for December",
-        "Activate Hospitality remains involved; property converted from residential condos to hotel/short-term rental operation"
-      ],
-      "summary": "The Trump Group has acquired majority ownership of the group leading the buyout of the Casablanca condo-hotel in Miami Beach at 6345 Collins Avenue, where it plans to operate the property as a hotel. The 10-story, 357-unit oceanfront property was built in 1948 and has been operated with many units as short-term rentals. A condo termination vote is scheduled for December, and Trump Group is refurbishing units as part of its takeover.",
-      "impact": "SUPPLY SIGNAL for Miami Beach: The Casablanca's conversion from residential condos to hotel/STR operation reduces long-term rental supply on Miami Beach's Collins Avenue oceanfront corridor. However, the broader trend of condo terminations and hotel conversions signals STR oversupply and owner consolidation. For multifamily developers, this indicates: (1) Miami Beach's condo-hotel market is normalizing post-pandemic; (2) residential rental apartments (purpose-built multifamily) may outperform condos/conversions due to operational simplicity; (3) expect continued condo-to-hotel conversions through 2027, reducing traditional rental supply but creating operational/financing risk for converted assets."
-    },
-    {
-      "title": "BH Group, Terra plan 30-story condo towers on West Palm waterfront",
-      "link": "https://therealdeal.com/miami/2026/11/24/bh-group-terra-plan-30-story-condos-on-west-palm-waterfront/",
-      "excerpt": "Terra and BH Group are planning two 30-story condo towers on the West Palm Beach waterfront, adding to north Flagler Drive’s booming residential strip. David Martin and Isaac Toledano’s firms filed an application for a pair of buildings at 2085 North Flagler Drive, the South Florida Business Journal reported, on 1.54 acres that they’re under contract to buy from developer Jeff Greene. The developers’ plans include 218 condo units and 5,160 square feet of retail, plus parking and separate amenity decks in the two buildings. Architect Skidmore, Owings &#38; Merrill is the designer. The towers are planned near West Palm’s [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-11-24T15:30:00+00:00",
-      "bullets": [
-        "Terra and BH Group plan two 30-story condo towers on West Palm Beach waterfront (North Flagler Drive), 218 units total",
-        "1.54-acre site in contract from developer Jeff Greene; architects SOM; seeking height bonuses for ~$6M in park contributions",
-        "Market context: Currie Park redevelopment ($35.5M) opening spring 2027; North Flagler experiencing condo 'frenzy'"
-      ],
-      "summary": "Terra and BH Group have filed plans for two 30-story condo towers on the West Palm Beach waterfront at 2085 North Flagler Drive, planning 218 condo units and 5,160 square feet of retail. The developers are under contract to purchase the 1.54-acre site from developer Jeff Greene and are seeking height bonuses in exchange for approximately $6 million in contributions to the nearby Currie Park redevelopment ($35.5 million, opening spring 2027). SOM is the architect.",
-      "impact": "DEMAND & SUPPLY SIGNAL for West Palm Beach North Flagler: The North Flagler waterfront corridor is experiencing a condo development boom (Terra, BH, Related/Jorge Pérez all active), signaling strong condo demand from buyers seeking walkable waterfront lifestyle ahead of Currie Park's spring 2027 opening. This is a DEMAND CATALYST—the park reopening will increase foot traffic and amenity appeal, justifying pre-sales and expedited starts. However, condo-focused development (not rentals) on this corridor suggests investor and owner-occupant demand; multifamily developers should note that North Flagler may be saturated for apartments by 2028, favoring for-sale product. Watch for condo absorption rates and pricing—if units struggle to sell, capital may pivot to rental projects in secondary West Palm locations (Northwood, Lake Worth)."
-    },
-    {
-      "title": "Mapping Tyko’s multibillion-dollar bet on South Florida",
-      "link": "https://therealdeal.com/miami/2026/11/24/tyko-capitals-adi-chugh-talks-bet-on-south-florida-real-estate/",
-      "excerpt": "At just three years old, Tyko Capital has pulled off a feat few banks or lenders can claim, setting a Florida record with an $817 million construction loan funded entirely on its own.&#160; The New York-based commercial real estate private equity and private credit firm backed by Paul Singer’s Elliott Investment Management is increasingly active in the Sunshine State. Founder and CEO Adi Chugh now lives in South Florida, and in 2026, the region alone accounted for more than half of the firm’s closings of $10 billion in originations, Chugh said.&#160; In a country awash in capital, Chugh says most [&#8230;]This article originally appeared on The Real Deal. Click here to read the full story.",
-      "source": "TRD Development",
-      "cat": "Development",
-      "date": "2026-11-24T14:00:00+00:00",
-      "bullets": [
-        "Tyko Capital (Paul Singer's Elliott Investment Management) sets Florida record: $817M construction loan (sole lender), funded in-house",
-        "In 2026, Tyko closed >50% of $10B in originations in South Florida; founder Adi Chugh relocated to region",
-        "Tyko focuses on 'top sponsor, top asset, top market' (rejects 95% of deals); lender emphasis on reliability vs. price"
-      ],
-      "summary": "Tyko Capital, a New York-based private credit firm backed by Paul Singer's Elliott Investment Management, has set a Florida record by funding an $817 million construction loan entirely in-house. In 2026, South Florida accounted for more than 50 percent of Tyko's $10 billion in total originations. Founder and CEO Adi Chugh has relocated to the region and reports deploying over $2.5 billion in construction and predevelopment lending for the 12 months ending October 31, 2026. Tyko rejects 95 percent of deal submissions, focusing exclusively on 'top sponsor, top asset, top market' opportunities.",
-      "impact": "CAPITAL SIGNAL for South Florida (multifamily luxury/condo segment): Tyko Capital's major South Florida deployment ($2.5B+ in 12 months, $817M single loan) signals that alternative lenders (non-bank) are aggressively filling construction capital gap left by traditional bank pullback. Tyko's selectivity ('top sponsor, top asset, top market') and emphasis on execution reliability over price suggests capital is competitive but cautious—favoring established sponsors (Related, BH, Pebb, Terra) on marquee waterfront/urban locations (Miami, Fort Lauderdale, West Palm Beach). For emerging/secondary sponsors or B+ submarkets: financing will be constrained. Expect 2025–2027 starts to concentrate among tier-1 developers in tier-1 locations; second-tier projects will face execution risk and elevated cost of capital."
+      "summary": "A partnership of BH Group, PEBB Enterprises, and Related Group obtained $38.4 million in refinancing from Deutsche Bank for The Quay, a 72,904-square-foot waterfront mixed-use property in Fort Lauderdale's Harbordale neighborhood facing the Stranahan River. The asset, purchased for $48.5 million in 2024, comprises three buildings (including a two-story office building) and a six-slip marina. The partnership plans to develop a 33-story multifamily tower on what is currently the property's surface parking area.",
+      "impact": "Fort Lauderdale waterfront multifamily development is gaining institutional capital and lender support, signaling strong demand fundamentals and financing availability in South Florida. The refinance at $38.4M (approximately 79% of 2024 acquisition price) suggests modest value preservation and lender confidence. The planned 33-story tower conversion of surface parking into rental units validates Fort Lauderdale's waterfront density upside and rental rate potential. This project signals continued migration of capital into South Florida and should accelerate competitive multifamily deliveries in Fort Lauderdale waterfront and Harbordale micro-market."
     }
   ]
 }
