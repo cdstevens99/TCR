@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-25T20:52:45.374404+00:00",
+  "fetchedAt": "2026-11-26T03:17:53.879605+00:00",
   "rates": [
     {
       "label": "SOFR",
@@ -19,11 +19,41 @@
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "95.86",
-      "pct": 1.14
+      "value": "95.66",
+      "pct": 0.93
     }
   ],
   "stories": [
+    {
+      "title": "Mamdani Scores Critical Court Victory for Rent Freeze",
+      "link": "https://commercialobserver.com/2026/11/mamdani-rent-freeze-court-decision/",
+      "excerpt": "Just ahead of the Thanksgiving weekend, a Manhattan Supreme Court judge sided with New York Mayor Zohran Mamdani on his controversial rent freeze in a case that landlords brought against the New York City Rent Guidelines Board (RGB). The mayor called the decision “a victory for tenants, for affordability and for the principle that working New Yorkers deserve a city they can afford to live in.” The case stems from a 7-1 vote by the mayor-appointed RGB on June 26 halting rent increases for the city’s approximately 1 million rent-stabilized apartments. The judge in today’s ruling, Brendan T. Lantry, emphasized that his decision was not a vote for or against the wisdom of the RGB’s ruling, and that it “may cause negative collateral consequences,” but that the rent freeze was nevertheless legal. In a lawsuit filed in July, landlords had contended that the RGB ignored evidence of the rising expenses that rent-stabilized owners face in maintaining and upgrading their buildings. In some cases, the landlords said, the RGB ignored its own data, which “clearly signaled a rent increase,” according to Ann Korchak, board president of Small Property Owners of New York, whose members were plaintiffs in the lawsuit. “This ruling is terribly disappointing to small property owners,” Korchak said in a statement on Wednesday. “The rent freeze will push more small rent-stabilized property owners to the edge of the cliff. It denies the resources they need to maintain and operate their rent-stabilized buildings. Property taxes, water and sewer rates, and insurance, energy, heating, repair and other costs and expenses aren’t frozen. Rents should not be frozen, either.” Randy Mastro, a lawyer for the landlords in the case, said in a statement to Commercial Observer that they were &#8220;disappointed by the court’s ruling.&#8221; &#8220;The judge acknowledged multiple irregularities in the RGB&#8217;s process and, in particular, called out Mayor Mamdani’s &#8216;comments, promises and guarant",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-11-25T20:59:12+00:00",
+      "bullets": [
+        "NYC rent freeze for 1M rent-stabilized units upheld by Manhattan Supreme Court judge.",
+        "RGB voted 7-1 June 26 to halt increases; landlords argued rising maintenance costs ignored.",
+        "Judge acknowledged ruling may cause negative collateral consequences but found it legally sound."
+      ],
+      "summary": "A Manhattan Supreme Court judge upheld the New York City Rent Guidelines Board's controversial 7-1 vote in June to freeze rents on approximately 1 million rent-stabilized apartments. Landlords who sued argued the RGB ignored evidence of rising building maintenance and upgrade expenses. Judge Brendan Lantry ruled the freeze was legal despite potential negative consequences, rejecting landlord claims the board acted arbitrarily.",
+      "impact": "NYC rent-stabilized freeze reduces owner cash flow and ROI on stabilized stock, dampening acquisition appeal and limiting capital recycling for new multifamily development. However, it narrows arbitrage opportunities between stabilized and market-rate rents, making new market-rate development—especially luxury—more attractive to investors seeking unregulated economics. Flight from stabilized portfolios may accelerate, freeing some capital for new supply in outer boroughs and secondary markets."
+    },
+    {
+      "title": "Netflix Acquiring Historic Radford Studio Center for $380M",
+      "link": "https://www.connectcre.com/stories/netflix-acquiring-historic-radford-studio-center-for-380m/",
+      "excerpt": "Netflix has reached an agreement to acquire the historic Radford Studio Center in Studio City for a reported $380 million, marking the streaming giant’s first purchase of a Los Angeles-area studio lot. The property is located at 4024 Radford Avenue, just off Ventura Blvd in the southeastern San Fernando Valley, close to Hollywood, Burbank and many other entertainment-related businesses. As reported by the L.A. Times and other sources, Goldman Sachs took control of the property in January after its previous owner, Hackman Capital Partners, defaulted on a $1.1 billion mortgage amid a slowdown in Hollywood production. Hackman and Square Mile Capital Management acquired the property for $1.85 billion in 2021. The 1.14 million-square-foot production campus features 22 soundstages, 18 office buildings and 20 bungalows. Founded in 1928 by filmmaker Mack Sennett, the studio has been home to numerous iconic television series, including Seinfeld, Gilligan’s Island, Will &amp; Grace and The Mary Tyler Moore Show. The acquisition represents a significant expansion of Netflix’s Southern California real estate holdings. The company currently leases approximately 2 million square feet of office and soundstage space in Los Angeles. Netflix intends to retain Radford’s existing studio team and maintain operations at the production campus. Photo: AI-enhanced image The post Netflix Acquiring Historic Radford Studio Center for $380M appeared first on Connect CRE.",
+      "source": "Connect CRE",
+      "cat": "Commercial",
+      "date": "2026-11-25T20:39:48+00:00",
+      "bullets": [
+        "Netflix acquires Radford Studio Center, Studio City for $380M; first LA studio lot purchase.",
+        "Goldman Sachs foreclosed after Hackman defaulted on $1.1B mortgage in 2021 acquisition.",
+        "1.14M SF campus with 22 soundstages; Netflix currently leases ~2M SF in LA."
+      ],
+      "summary": "Netflix reached an agreement to acquire the historic Radford Studio Center in Studio City for $380 million, marking its first purchase of an LA studio lot. The 1.14 million-square-foot property features 22 soundstages, 18 office buildings, and 20 bungalows. Goldman Sachs took control after Hackman Capital Partners defaulted on a $1.1 billion mortgage amid production slowdown; Netflix is consolidating its ~2 million square feet of LA real estate holdings.",
+      "impact": "Limited relevance to multifamily development. Netflix's studio acquisition signals stabilization in LA entertainment production post-slowdown, which could modestly support job and population retention in the LA market, but entertainment employment is too small a share of regional demand drivers to materially move multifamily fundamentals."
+    },
     {
       "title": "Fairstead Closes $17M Affordable Housing Transaction in Oklahoma",
       "link": "https://www.connectcre.com/stories/fairstead-closes-17m-affordable-housing-transaction-in-oklahoma/",
@@ -32,12 +62,12 @@
       "cat": "Commercial",
       "date": "2026-11-25T19:47:50+00:00",
       "bullets": [
-        "Fairstead acquires 200-unit Section 8 property in Oklahoma City for $16.5M",
-        "4% LIHTC equity, tax-exempt bonds, and project-based subsidy financing structure",
-        "Units serve households at or below 60% AMI; affordable housing preservation play"
+        "Fairstead acquires London Square Village, Oklahoma City: 200-unit Section 8 community for $16.5M.",
+        "All units reserved for households at ≤60% AMI; 24 one-bed, 96 two-bed, 80 three-bed.",
+        "Funded via 4% LIHTC equity and tax-exempt bonds; Fairstead's first Oklahoma acquisition."
       ],
-      "summary": "Fairstead closed its first Oklahoma acquisition, purchasing London Square Village Apartments (200 units, all project-based Section 8) in Oklahoma City for $16.5 million. The deal is financed via 4% federal LIHTC equity from R4 Capital, tax-exempt bond financing from the Oklahoma Housing Finance Agency, and R4 Capital as lender. The community will undergo comprehensive rehabilitation and remain affordable housing.",
-      "impact": "Minimal direct impact to market-rate multifamily development. This signals LIHTC investor appetite and preservation activity in Oklahoma City's affordable segment, but does not shift supply, demand, or cost dynamics for conventional development. The subsidy-dependent structure insulates it from market competition."
+      "summary": "Fairstead closed a $16.5 million acquisition of London Square Village Apartments, a 200-unit project-based Section 8 community in Oklahoma City, marking its first Oklahoma deal. All units serve households earning at or below 60% of area median income across three- and four-building configurations. R4 Capital provided 4% LIHTC equity and lender role; Oklahoma Housing Finance Agency issued tax-exempt bond financing.",
+      "impact": "Acquisition signals investor confidence in secondary-market affordable housing, particularly stabilized Section 8 properties with long-term income certainty. Oklahoma City's affordable housing pipeline strengthens, but as acquisition-of-existing rather than new development, it does not directly expand supply. However, Fairstead's market entry and capital deployment may encourage other institutional buyers to underwrite OK secondary markets, supporting future new construction finance availability."
     },
     {
       "title": "Dwight Capital Finances $52M Loan for Mixed-Use Multifamily Community in Michigan",
@@ -47,12 +77,12 @@
       "cat": "Commercial",
       "date": "2026-11-25T19:44:05+00:00",
       "bullets": [
-        "Singh Development closes 245-unit luxury mixed-use project in Royal Oak, Michigan",
-        "Dwight Capital closes $52M HUD 223(f) loan for stabilized asset",
-        "Ground-floor retail (9,000 sf) and walkable downtown location near 70+ restaurants"
+        "Dwight Capital closes $52M HUD 223(f) refinance for Griffin Royal Oak, Michigan; 245 units.",
+        "Luxury mixed-use: 5-story residential, parking, 9,000 SF ground-floor retail near downtown.",
+        "Singh Development developer; located in pedestrian-friendly, amenity-rich submarkets with 70+ restaurants."
       ],
-      "summary": "Dwight Capital closed a $52 million HUD 223(f) loan for Griffin Royal Oak, a 245-unit luxury mixed-use community developed by Singh Development in downtown Royal Oak, Michigan. The five-story residential tower includes 9,000 square feet of ground-floor retail and an attached parking garage. The property is positioned in a pedestrian-friendly environment with strong retail and dining density.",
-      "impact": "HUD 223(f) financing (backed by insurance on stabilized assets) remains readily available, signaling confidence in suburban Detroit trophy assets and mixed-use product. Royal Oak's walkability and retail density affirm demand for lifestyle-oriented rental housing in strong secondary markets. This validates new development feasibility and rental rate support for similar projects in the Detroit metro."
+      "summary": "Dwight Capital closed a $52 million HUD 223(f) loan for Griffin Royal Oak, a 245-unit luxury mixed-use multifamily community in Royal Oak, Michigan. The property features a five-story residential tower, attached parking garage, and 9,000 square feet of ground-floor retail, strategically positioned near downtown walkability and dining. Singh Development developed the asset in a strong, established market.",
+      "impact": "HUD 223(f) permanent financing availability signals lender appetite for stabilized multifamily assets in strong Midwest submarkets; Royal Oak's walkable downtown positioning and retail integration reflect developer strategy to build resilient, Class A-equivalent communities outside major coastal metros. Successful financing here validates acquisition thesis for Midwest secondary markets and may encourage further institutional capital flows into Great Lakes multifamily development."
     },
     {
       "title": "Host Hotels Rounds Out $202M Brooklyn Hotel Buy With $29M Retail, Parking Acquisition",
@@ -62,12 +92,12 @@
       "cat": "Commercial",
       "date": "2026-11-25T19:12:24+00:00",
       "bullets": [
-        "Host Hotels acquires ancillary retail/parking at Brooklyn Dumbo hotel for $29M",
-        "Builds on $202M 1 Hotel Brooklyn Bridge leasehold acquisition from Starwood",
-        "Restructures $113M existing debt across both 90 Furman and 60 Furman assets"
+        "Host Hotels acquires 90 Furman retail/parking condos in Brooklyn for $29M adjacent to 1 Hotel.",
+        "1 Hotel Brooklyn Bridge (60 Furman): 195-key, 85-year leasehold, $202M all-cash Starwood deal.",
+        "Host expects hotel to rank top-10 asset; also restructured $113M existing debt on properties."
       ],
-      "summary": "Host Hotels & Resorts, through its Brooklyn Bridge Hotel Owner entity, acquired three retail condo units and an indoor parking area at 90 Furman Street from a Starwood Capital entity for $29 million. This acquisition ancillary to Host's $202 million purchase of 1 Hotel Brooklyn Bridge (195 keys, 60 Furman Street) announced earlier in the month. Host also refinanced and restructured $113 million in existing debt across both properties.",
-      "impact": "No direct multifamily impact. This is hospitality-focused asset consolidation in Dumbo. The transaction does reflect strong capital flows into Brooklyn waterfront trophy assets and suggests lender confidence in hospitality recovery. Notably, the Dumbo submarket remains highly competitive for all CRE asset classes, which may constrain land availability and pricing for multifamily development in that corridor."
+      "summary": "Host Hotels & Resorts acquired three retail spaces and an indoor parking area at 90 Furman Street in Brooklyn's Dumbo for $29 million, adjacent to its newly acquired 1 Hotel Brooklyn Bridge at 60 Furman Street. The hotel deal—85-year leasehold for $202 million all-cash from Starwood—represents a significant addition to Host's portfolio, with management expecting it to rank among the company's top 10 assets. A parallel $113 million debt restructuring was also filed.",
+      "impact": "Limited relevance to multifamily development. This is a hotel/hospitality transaction in Dumbo, Brooklyn. However, Host's confidence in Dumbo real estate (a $200M+ investment signal) and its bundling of retail/parking with lodging underscores mixed-use viability in this submarket, which could signal to multifamily developers that Dumbo has sufficient density and transit to support residential intensification and that ground-floor retail/activation drives value."
     },
     {
       "title": "Thor Equities Buys San Francisco Office/Retail Asset for $50.5M, Lands $51.8M Loan",
@@ -77,12 +107,12 @@
       "cat": "Commercial",
       "date": "2026-11-25T19:10:35+00:00",
       "bullets": [
-        "Thor Equities buys Class A office/retail at 55 Stockton Street, San Francisco for $50.5M",
-        "Secured $51.8M acquisition financing from Prime Finance at 103% LTV ratio",
-        "Union Square trophy asset; Thor expanding retail/office portfolio in district"
+        "Thor Equities buys 55 Stockton Street, San Francisco Union Square: $50.5M for 136,714 SF.",
+        "Class A office/retail, 8-story, built 1988 renovated 2023; 102% LTV financing at $51.8M.",
+        "Tenants: Chalk AI, Harness, Taylor & Associates; expands Thor's Union Square portfolio."
       ],
-      "summary": "Thor Equities acquired 55 Stockton Street (also known as National Center Building), an eight-story, 136,714-square-foot Class A office and retail property in San Francisco's Union Square for $50.5 million. Prime Finance provided $51.8 million in acquisition financing. The 1988-built, 2023-renovated building features three floors of retail and boutique office space and sits at the corner of Stockton and O'Farrell streets, one block south of Union Square.",
-      "impact": "No direct multifamily impact. This signals capital and lender appetite for Union Square trophy retail/office assets despite persistent San Francisco office headwinds. High LTV financing (103%) suggests lender confidence in retail and location premium. For multifamily: Union Square remains retail/office-dominated; mixed-use multifamily plays in this submarket must accept retail-ground-floor constraints and parking complexity, raising capital and construction costs."
+      "summary": "Thor Equities acquired 55 Stockton Street, a Class A office and retail property in San Francisco's Union Square district, for $50.5 million. The 136,714-square-foot, eight-story building (built 1988, renovated 2023) features three floors of boutique retail and upper-floor office space. Thor secured $51.8 million in acquisition financing from Prime Finance and continues expanding its Union Square presence.",
+      "impact": "Limited relevance to multifamily development. This is an office/retail conversion play in San Francisco's core CBD. However, the transaction signals that institutional capital is willing to finance Class A office assets with retail components in prime CBD locations, suggesting that multifamily developers exploring SF office-to-residential conversions may face stiff competition for best-in-class buildings and should focus on secondary CBD or neighborhood retail-mixed-use opportunities outside Union Square."
     },
     {
       "title": "OC Investor Group Buys Two Apartment Properties in Venice",
@@ -92,27 +122,12 @@
       "cat": "Commercial",
       "date": "2026-11-25T19:02:31+00:00",
       "bullets": [
-        "Orange County investor group acquires two Venice apartment properties, 40 units for $14.23M",
-        "Pricing: $355,662/unit, $430/sf; 1031 exchange capital used in deal",
-        "Properties built 1985–1988; not subject to LA Rent Stabilization Ordinance"
+        "Orange County investor group buys two Venice apartments: 40 units for $14.23M total.",
+        "1400 Venice Blvd. (31 units) and 1500 Venice Blvd. (9 units); $355,662/unit, $430/SF.",
+        "Neither property subject to LA Rent Stabilization Ordinance; 1988/1985 vintage, not RSO-subject."
       ],
-      "summary": "A group of Orange County-based private investors acquired two multifamily properties totaling 40 units in Venice, Los Angeles for $14.23 million, equating to $355,662 per unit and $430 per square foot. The transaction, which included 1031 exchange capital, involved properties at 1400 and 1500 Venice Boulevard (built in 1988 and 1985, respectively). Neither property is subject to Los Angeles Rent Stabilization Ordinance, and the new owners plan to continue the previous renovation program.",
-      "impact": "Venice coastal multifamily trades signal sustained investor appetite and pricing power in this high-barrier-to-entry submarket. The absence of RSO restrictions and planned renovation continuity suggest continued rent-growth feasibility. For developers: Venice's constrained land supply, permitting complexity, and high acquisition costs make new development challenging; acquisition and repositioning of older stock remains viable alternative."
-    },
-    {
-      "title": "Optimus Properties Buys South Pasadena Mixed-Use Asset for $6.45M",
-      "link": "https://www.connectcre.com/stories/optimus-properties-buys-south-pasadena-mixed-use-asset-for-6-45m/",
-      "excerpt": "Optimus Properties LLC has acquired a two-building, 17,053-square-foot mixed-use property in downtown South Pasadena for $6.45 million. The historic buildings, located at 1500 and 1508 Mission St., were constructed in 1923 and 1908, respectively. The property contains 12,887 square feet of ground-floor retail space across six suites along with eight apartment units. Situated on a 23,253-square-foot lot with 23 parking spaces, the buildings occupy roughly half a block along South Pasadena’s primary retail corridor and sits steps from the Metro A Line station at Mission and Meridian. Optimus has extended the lease of longtime tenant Two Kids Coffee through 2031 and signed a new five-year lease with Nott &amp; Associates, a design-build firm that has occupied space at the property for nearly 30 years. Perilla L.A., chef Jihee Kim’s Korean banchan shop, will open its second location at 1504 Mission St. The acquisition reflects a shift in Optimus’ investment strategy as the firm redirects capital away from the City of Los Angeles into other California communities. Earlier this year, Optimus acquired a downtown retail portfolio in San Carlos. The post Optimus Properties Buys South Pasadena Mixed-Use Asset for $6.45M appeared first on Connect CRE.",
-      "source": "Connect CRE",
-      "cat": "Commercial",
-      "date": "2026-11-25T18:56:39+00:00",
-      "bullets": [
-        "Optimus Properties buys South Pasadena mixed-use for $6.45M (12 retail + 8 apartments)",
-        "Historic buildings (1908, 1923) on half-block along primary retail corridor",
-        "Optimus redirecting capital away from LA; signed leases with Two Kids Coffee, Perilla L.A."
-      ],
-      "summary": "Optimus Properties LLC acquired a historic two-building, 17,053-square-foot mixed-use property in downtown South Pasadena for $6.45 million, containing 12,887 square feet of ground-floor retail (six suites) and eight apartment units on a 23,253-square-foot lot. The buildings, located at 1500 and 1508 Mission Street, were constructed in 1923 and 1908. The property is steps from the Metro A Line station and Optimus has extended leases with existing tenants and attracted new retail tenants including chef Jihee Kim's Perilla L.A.",
-      "impact": "Optimus's capital reallocation away from Los Angeles proper toward regional California communities (South Pasadena, San Carlos) signals a flight-to-quality within California—favoring smaller, transit-connected, easier-to-entitle communities over the City of LA's regulatory burden and pricing. South Pasadena's proximity to Metro A Line and lower acquisition costs relative to LA proper make it an emerging micro-market for value-add mixed-use development; proximity to Pasadena and transit support rental demand."
+      "summary": "An Orange County-based investor group acquired two multifamily properties totaling 40 units in Venice for $14.23 million, working out to $355,662 per unit and $430 per square foot. The 31-unit property at 1400 Venice Blvd. and 9-unit property at 1500 Venice Blvd. were built in 1988 and 1985 respectively and are not subject to LA's Rent Stabilization Ordinance. New ownership plans to continue renovation programs.",
+      "impact": "Venice acquisition at $355K/unit on older, non-RSO-protected stock signals continued investor appetite for coastal LA multifamily despite affordability pressure and regulatory risk. The 1031 exchange funding mix and renovation upside strategy reflect buy-and-hold value-add thesis. However, deal price and cap rate (5.13% on the 9-unit building) suggest limited margin for error; developers should monitor whether cap rates in Venice stabilize or compress further, signaling overheating, and consider suburban Westside alternatives with higher density upside."
     },
     {
       "title": "Flight to Quality Deepens Divide Among Major U.S. Office Markets",
@@ -122,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-11-25T18:45:11+00:00",
       "bullets": [
-        "National office vacancy declined 140 bps to 17.2% in Oct 2026; rents +1.5% YoY",
-        "Class A office rents +2.5% YoY; Class B rents -0.3% YoY—widening performance gap",
-        "$56.9B in office sales (2,576 transactions) through Oct 2026; $197/sf average price"
+        "US office vacancy declined 140 bps YoY to 17.2%; asking rents +1.5% to $33.30/SF Oct 2026.",
+        "Class A rents +2.5% YoY; Class B rents -0.3% YoY; flight to quality widening gap.",
+        "$56.9B office sales YTD through Oct 2026 at $197/SF avg; older buildings facing most pressure."
       ],
-      "summary": "The U.S. office market showed mixed improvement in October 2026, with national vacancy declining 140 basis points to 17.2 percent and average asking rents increasing 1.5 percent to $33.30 per square foot. However, a pronounced flight to quality emerged: Class A asking rents rose 2.5 percent year-over-year, while Class B rents declined 0.3 percent. Office sales totaled $56.9 billion across 2,576 transactions through the first 10 months of 2026, averaging $197 per square foot.",
-      "impact": "Office market bifurcation directly constrains multifamily development in secondary and tertiary markets that lack Class A office recovery anchors. Weak Class B office demand in mid-markets signals softer employment fundamentals and reduced white-collar in-migration in those regions, dampening multifamily demand growth. Developers should prioritize Class A, dense urban, and transit-connected submarkets where office flight-to-quality and mixed-use urban repositioning support rental demand."
+      "summary": "The U.S. office market is showing uneven signs of recovery. National office vacancy declined 140 basis points annually to 17.2 percent in October 2026, with average asking rents rising 1.5 percent to $33.30 per square foot. However, a widening flight-to-quality trend showed Class A rents increasing 2.5 percent while Class B rents declined 0.3 percent, with outdated and less amenitized buildings facing the most pressure. Office sales totaled $56.9 billion through October 2026.",
+      "impact": "Office market bifurcation creates tailwind for adaptive reuse and office-to-multifamily conversion in secondary and tertiary CBDs where Class B/C office stock is abundant and distressed. Developers should prioritize Class A office conversions in strong markets (Boston, DC, Denver submarkets with young talent and tech jobs), but recognize that weak older office assets in secondary markets may never reach conversion economics unless local multifamily demand surges. Capital scarcity in distressed office may lower acquisition prices, but construction-to-residential conversion costs remain high; underwrite carefully in market-dependent scenarios."
     },
     {
       "title": "RXR Supplies $140M Construction Loan for Miami Rental Development",
@@ -137,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-11-25T17:30:31+00:00",
       "bullets": [
-        "RXR provides $140M construction loan for Group P6's Spoke Aventura, 363-unit tower, Miami-Dade",
-        "Live Local Act structure: 40%+ units at 120% AMI; tax incentives, expedited entitlements",
-        "21-story, completion 2028; near Aventura Mall and Brightline station; 435-space parking garage"
+        "RXR provides $140M construction loan for Spoke Aventura, Miami-Dade; 363-unit rental tower.",
+        "21-story, Group P6 developer; 40%+ units at 120% AMI under Florida Live Local Act.",
+        "Completion 2028; near Aventura Mall, Brightline station; amenities: pool, fitness, coworking, padel, retail."
       ],
-      "summary": "RXR closed a $140 million construction loan for Spoke Aventura, a 363-unit rental tower near Aventura Mall in Miami-Dade County, developed by Group P6. More than 40 percent of units are priced at 120 percent of area median income under Florida's Live Local Act, which provides tax breaks and expedited approvals. The 21-story development includes ground-floor retail, a 435-space parking garage, and amenities including a pool, fitness center, and padel court; completion is expected in 2028.",
-      "impact": "Live Local Act financing and incentive infrastructure signals strong Florida multifamily development pipeline support and reduced permitting risk. RXR's $140M construction loan availability affirms lender confidence in Miami-Dade rental fundamentals and Aventura's submarket strength (proximity to Brightline and regional retail hub). Tax incentives and expedited entitlements lower development cost and risk; similar programs in other Florida metros should accelerate starts and compress timelines, increasing supply pressure on rents in the near term."
+      "summary": "RXR provided $140 million in construction financing for Spoke Aventura, a 363-unit rental tower near Aventura Mall in Miami-Dade County, developed by Group P6. The 21-story building, expected to complete in 2028, will have more than 40 percent of units priced at 120 percent of area median income under Florida's Live Local Act, which offers tax breaks and expedited approvals. Amenities include pool, fitness center, coworking, padel court, ground-floor retail, and 435-space parking garage.",
+      "impact": "Live Local Act financing cascade into Miami-Dade is accelerating supply in suburban nodes (Aventura) with transit connectivity (Brightline). RXR's $140M commitment signals institutional construction capital appetite for mixed-income rental (not just luxury) in South Florida, reducing cost-of-capital for developers and likely spurring competing projects. However, 40%+ AMI-priced units mean income-restricted rents cap upside; developers should focus deal flow on sub-$2M development sites in Live Local-eligible zones to maintain pro-forma integrity and maximize tax-credit equity stacking."
     },
     {
       "title": "Vornado Sells 49% Stake in 90 Park Avenue to Sixth Street, DivcoWest",
@@ -152,27 +167,12 @@
       "cat": "Commercial",
       "date": "2026-11-25T03:00:33+00:00",
       "bullets": [
-        "Vornado sells 49% stake in 90 Park Avenue (990k sf Class A office, Midtown) for $722.5M valuation",
-        "Buyers: Sixth Street and DivcoWest; Vornado retains 51% and continues to manage",
-        "41-story asset, $70M 2016 capex program; three blocks south of Grand Central Terminal"
+        "Vornado sells 49% of 90 Park Avenue, Manhattan to Sixth Street and DivcoWest; $722.5M valuation.",
+        "41-story Class A office, 990,000 SF, 3 blocks south of Grand Central Terminal.",
+        "$70M capex 2016 (lobby, elevators, mechanical); Vornado retains 51% and continues management."
       ],
-      "summary": "Vornado Realty Trust sold a 49 percent stake in 90 Park Avenue, its 41-story, 990,000-square-foot Class A office tower in Midtown Manhattan, to Sixth Street Partners and DivcoWest at a $722.5 million valuation. Vornado retains majority ownership and will continue to lease and manage the property. The transaction is expected to close in December. The building underwent a $70 million capital improvement program in 2016 and is located three blocks south of Grand Central Terminal.",
-      "impact": "Minimal direct multifamily impact, but signals strong capital flows into prime Manhattan office trophy assets and stabilized Class A recovery confidence. The partial sale/recapitalization structure suggests value creation in blue-chip Manhattan office and ongoing lender appetite for marquee properties. For multifamily: Vornado's focus on office retention in Midtown contrasts with office-to-residential conversion activity in other NYC markets; multifamily developers should focus on repositioning lower-yielding class B/C office in secondary Manhattan locations and outer boroughs where conversion is more economically viable."
-    },
-    {
-      "title": "Partnership With Related and BH Group Lands $38M for Waterfront Fort Lauderdale Asset",
-      "link": "https://commercialobserver.com/2026/11/related-bh-group-pebb-enterprises-fort-lauderdale-quay/",
-      "excerpt": "A partnership including BH Group, PEBB Enterprises and Related Group have obtained $38.4 million to refinance a mixed-use waterfront property in Fort Lauderdale where a rental tower is set to rise. Deutsche Bank provided the financing backing the Quay, a 72,904-square-foot asset between 1535 and 1515 SE 17th Street, facing the Stranahan River in Fort Lauderdale’s Harbordale neighborhood. The 7-acre property features three buildings, including a two-story office building, and a six-slip marina. “It&#8217;s a waterfront property with great visibility and a location that connects residents, convention visitors and cruise travelers,” Ian Weiner, president and CEO of PEBB Enterprises, said in a statement. “This financing gives us a strong foundation as we move toward the next chapter for the property.” In 2024, the partnership purchased the Quay for $48.5 million. It plans to build a 33-story multifamily tower on what’s now the property&#8217;s surface parking lot. A representative for the owners did not respond to a request inquiring about when construction would begin. The development — approved by city officials last year — is expected to house 5,000 square feet of commercial space and more than 750 parking spots and 521 units, 40 percent of which would be priced within 40 percent of area’s median income thanks to the Live Local Act. The Florida law provides developers tax breaks and speedy approvals in return for including workforce housing in their projects. Besides the Quay, the trio have partnered on the redevelopment of the Office Depot headquarters in Boca Raton. Earlier this month, Wells Fargo supplied a $177 million loan for the construction of a 544-unit multifamily complex on the 28-acre campus. Julia Echikson can be reached at jechikson@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-11-24T22:14:52+00:00",
-      "bullets": [
-        "BH Group, PEBB, Related obtain $38.4M refinance for The Quay waterfront asset, Fort Lauderdale",
-        "72,904 sf mixed-use: three buildings, 2-story office, 6-slip marina; purchased $48.5M in 2024",
-        "Partnership planning 33-story multifamily tower on surface parking; Deutsche Bank financing"
-      ],
-      "summary": "A partnership of BH Group, PEBB Enterprises, and Related Group obtained $38.4 million in refinancing from Deutsche Bank for The Quay, a 72,904-square-foot waterfront mixed-use property in Fort Lauderdale's Harbordale neighborhood facing the Stranahan River. The asset, purchased for $48.5 million in 2024, comprises three buildings (including a two-story office building) and a six-slip marina. The partnership plans to develop a 33-story multifamily tower on what is currently the property's surface parking area.",
-      "impact": "Fort Lauderdale waterfront multifamily development is gaining institutional capital and lender support, signaling strong demand fundamentals and financing availability in South Florida. The refinance at $38.4M (approximately 79% of 2024 acquisition price) suggests modest value preservation and lender confidence. The planned 33-story tower conversion of surface parking into rental units validates Fort Lauderdale's waterfront density upside and rental rate potential. This project signals continued migration of capital into South Florida and should accelerate competitive multifamily deliveries in Fort Lauderdale waterfront and Harbordale micro-market."
+      "summary": "Vornado Realty Trust sold a 49 percent stake in 90 Park Avenue, its 41-story Class A office building three blocks south of Grand Central Terminal, to Sixth Street and DivcoWest at a $722.5 million valuation. The 990,000-square-foot property underwent a $70 million capital improvement program in 2016 and remains Vornado-managed. The transaction is expected to close in December 2026.",
+      "impact": "Limited relevance to multifamily development. This is a Midtown Manhattan office transaction. However, Sixth Street and DivcoWest's willingness to co-invest in a trophy-asset office building signals that institutional capital remains confident in Midtown's Class A office recovery and CBD fundamentals long-term, which could reduce pressure to convert prime Manhattan office to residential and preserve office stock in core submarkets. Multifamily developers should focus conversion efforts on secondary/Class B CBD office, not trophy assets where fundamentals are strengthening."
     }
   ]
 }
