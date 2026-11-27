@@ -1,29 +1,44 @@
 {
-  "fetchedAt": "2026-11-27T03:23:11.786506+00:00",
+  "fetchedAt": "2026-11-27T20:29:31.609086+00:00",
   "rates": [
     {
       "label": "SOFR",
-      "value": "3.94%",
-      "pct": 0.02,
+      "value": "3.95%",
+      "pct": 0.01,
       "isBps": true
     },
     {
       "label": "10Y Treasury",
-      "value": "4.85%",
-      "pct": -1.14
+      "value": "4.94%",
+      "pct": 1.82
     },
     {
       "label": "30Y Treasury",
-      "value": "5.24%",
-      "pct": -1.08
+      "value": "5.33%",
+      "pct": 1.72
     },
     {
       "label": "REIT Index (VNQ)",
-      "value": "95.66",
-      "pct": 0.93
+      "value": "96.24",
+      "pct": 0.61
     }
   ],
   "stories": [
+    {
+      "title": "This Holiday Season, New York City Retail’s Split Recovery Reaches a Critical Point",
+      "link": "https://commercialobserver.com/2026/11/new-york-city-retail-split-recovery-vacancies/",
+      "excerpt": "The last mile is the hardest, and New York City’s retail sector is flagging near the finish line. Peter Braus, president and principal owner of Lee &amp; Associates NYC, sees a retail market balancing two extremes. On one hand, it’s becoming increasingly hard to find the right space in the right area. One of Braus’s current clients, a “very strong” Italian brand seeking a New York City home in SoHo or along Madison Avenue, is in an especially competitive spot. The client’s preferred storefront in SoHo, for which it already had a lease out, just received a second offer. “The landlord is encouraging us to put in another offer,” Braus said. “It&#8217;s just incredibly competitive to find good space, and we&#8217;re seeing rents at levels that we haven&#8217;t seen for a really long time.” Just a few subway stops away, however, is the other end of the market spectrum, where vacancies stretch along corridors, like Broadway between City Hall and Tribeca, which Braus called “a disaster.” “I live in that area,” Braus said. “On a couple of blocks, all the stores are vacant from north to south.” New York City has nearly 142,000 storefronts, and an estimated 16,047 were vacant as of September, according to the Office of the New York City Comptroller’s recently launched vacancy dashboard. Retail vacancy citywide rose in the third quarter to 11.32 percent –– unwelcome news on the eve of the retail world’s most crucial shopping season. The citywide retail vacancy figure has hovered stubbornly between 11 percent and 11.6 percent since the third quarter of 2023, and remains above the last pre-pandemic measure of 10.5 percent. Five neighborhoods continue to see vacancies at a rate of around one in five stores, including Manhattan’s Financial District and Tribeca, Brooklyn’s Ocean Hill, and East New York and Queens’ Old Astoria-Hallets Point. Manhattan, in particular, faces some of the city’s most enduring retail vacancies, currently measuring at 13.12 percent. “What we&#8217;re seei",
+      "source": "Comm. Observer",
+      "cat": "Commercial",
+      "date": "2026-11-27T13:00:07+00:00",
+      "bullets": [
+        "NYC retail shows bifurcated recovery: prime SoHo/Madison Ave spaces ultra-competitive at record rents",
+        "Secondary corridors like Broadway (City Hall–Tribeca) face vacancy stretches described as 'disaster'",
+        "Flight-to-quality dynamic: best locations absorb demand; weaker submarkets struggle to fill space"
+      ],
+      "summary": "New York City's retail market is splitting between tight premium corridors and distressed secondary zones. Strong international retailers compete fiercely for flagship space in SoHo and Madison Avenue at historically high rents, while nearby areas like lower Broadway show vacant storefronts. The divide reflects post-pandemic tenant consolidation toward trophy locations.",
+      "impact": "Limited relevance to multifamily development directly, but signals broader Manhattan recovery unevenness. Flight-to-quality in retail mirrors office/residential patterns; developers should monitor which neighborhoods attract capital and foot traffic to inform mixed-use or proximate residential positioning. Weak retail corridors may suppress residential demand in adjacent areas."
+    },
     {
       "title": "In Long Island Real Estate in 2027, Tight Supply Will Be a Key Driver",
       "link": "https://commercialobserver.com/2026/11/long-island-real-estate-2027-drivers/",
@@ -32,12 +47,12 @@
       "cat": "Commercial",
       "date": "2026-11-26T14:00:08+00:00",
       "bullets": [
-        "Long Island housing supply remains tight; demand outpaces inventory through 2027",
-        "NY SEQRA 2026 reforms streamline environmental review for qualifying housing projects",
-        "Financing costs expected to stay elevated through 2027; multifamily remains primary activity"
+        "Long Island 2027: interest rates remain elevated; multifamily demand outpaces limited inventory",
+        "Growing 65+ population and affordability challenges drive sustained housing need on Long Island",
+        "2026 SEQRA reforms streamline environmental review; first full year of impact in 2027"
       ],
-      "summary": "Long Island's multifamily market is supported by limited housing inventory, strong affordability pressure, and growing 65+ population through 2027. Interest rates and tighter lending standards persist, keeping financing costs elevated. New York's 2026 SEQRA reforms streamline environmental review for housing developments, reducing approval timelines and regulatory friction for qualifying projects.",
-      "impact": "SEQRA reforms lower entitlement risk and timeline for Long Island/Queens projects, creating a window to fast-track acquisitions and development approvals before market tightens further. Tight supply + policy tailwinds = strong risk-adjusted returns for projects shovel-ready by 2027."
+      "summary": "Long Island's real estate market faces higher financing costs through 2027, but underlying multifamily fundamentals remain strong. Tight housing inventory, affordability pressures, and rapid growth of seniors age 65+ are expected to fuel demand. New York's 2026 SEQRA reforms streamline permitting for qualifying housing projects, reducing entitlement risk and timeline.",
+      "impact": "SEQRA reforms create a development window for Long Island multifamily projects; environmental review acceleration lowers pre-construction carry costs and risk, improving underwriting returns. Senior housing and market-rate units targeting younger households both have tailwinds. Developers should prioritize land acquisition before affordability-driven zoning changes or competing projects lock up supply."
     },
     {
       "title": "Mamdani Scores Critical Court Victory for Rent Freeze",
@@ -47,12 +62,12 @@
       "cat": "Commercial",
       "date": "2026-11-25T20:59:12+00:00",
       "bullets": [
-        "NYC rent freeze upheld by Manhattan court; covers ~1M rent-stabilized apartments",
-        "Mayor Mamdani's RGB vote frozen rent increases citywide as of June 26",
-        "Court ruled freeze legal despite landlord claims of rising maintenance costs"
+        "NYC court upholds Mayor Mamdani's 7-1 Rent Guidelines Board vote freezing ~1M rent-stabilized apartments",
+        "Judge acknowledged ruling 'may cause negative collateral consequences' but found freeze legal",
+        "Landlords' argument that rising expenses justify increases rejected; regulatory risk now entrenched"
       ],
-      "summary": "A Manhattan Supreme Court judge upheld NYC Mayor Zohran Mamdani's controversial rent freeze imposed by the Rent Guidelines Board on June 26, affecting approximately 1 million rent-stabilized units. Landlords had sued, arguing the RGB ignored rising operational expenses, but the court found the freeze legally sound despite potential \"negative collateral consequences.\"",
-      "impact": "Rent-stabilized portfolio returns compressed in NYC; reduces acquisition appeal for stabilized buildings. Underwriting for RS assets must assume zero rent growth through regulatory cycle, pressuring cap rates and valuations. Developers should focus on market-rate and new-construction projects to avoid RS exposure; policy uncertainty may also chill institutional capital for NYC multifamily conversions."
+      "summary": "A Manhattan Supreme Court judge upheld New York's controversial rent freeze on approximately 1 million rent-stabilized apartments, validating a June 2026 RGB vote halting increases. Though the judge acknowledged potential negative fallout, he found the freeze legally sound despite landlord arguments about rising maintenance and upgrade costs. The ruling eliminates immediate legal challenge to the policy.",
+      "impact": "SEVERE IMPACT: NYC rent-stabilized portfolio owners face zero rent-increase revenue for the foreseeable future, creating massive cash flow pressure and refinancing risk on rent-stabilized properties. This deepens incentives for new development (all-market-rate) and conversion/repositioning of non-stabilized stock. Market-rate multifamily demand and NOI growth in NYC will accelerate as RS properties struggle and capital flees; stabilized building sales may spike at distressed prices, creating acquisition opportunities for buyers accepting permanent rent caps."
     },
     {
       "title": "Netflix Acquiring Historic Radford Studio Center for $380M",
@@ -62,12 +77,12 @@
       "cat": "Commercial",
       "date": "2026-11-25T20:39:48+00:00",
       "bullets": [
-        "Netflix acquires Radford Studio Center for $380M in Studio City, LA; 1.14M sq ft",
-        "Goldman Sachs seized property after Hackman Capital defaulted on $1.1B mortgage in Jan",
-        "Netflix expands LA footprint to ~2M sq ft; first studio lot purchase by streamer"
+        "Netflix acquires Radford Studio Center, Studio City, for $380M; first LA studio lot purchase",
+        "Goldman Sachs foreclosed after owner Hackman defaulted on $1.1B debt amid production slowdown",
+        "1.14M sq ft campus: 22 soundstages, 18 offices, 20 bungalows; Netflix now leases ~2M sq ft LA"
       ],
-      "summary": "Netflix purchased the historic Radford Studio Center in Studio City for $380 million, marking its first acquisition of a Los Angeles studio lot. The 1.14 million-square-foot production campus (22 soundstages, 18 offices, 20 bungalows) was seized by Goldman Sachs in January after Hackman Capital Partners defaulted on a $1.1 billion mortgage amid Hollywood production slowdown.",
-      "impact": "Limited relevance to multifamily development. However, signals distress in specialized real estate financing (Hackman's $1.85B 2021 purchase now worth ~$380M) and underscores production industry consolidation. Streamer in-sourcing of studio space may reduce demand for independent soundstage leasing in LA, affecting mixed-use/studio conversion opportunities for developers."
+      "summary": "Netflix bought the historic Radford Studio Center in Studio City for $380 million, its first acquisition of an LA-area studio lot. Goldman Sachs had taken control after Hackman Capital Partners' default on a $1.1 billion mortgage in early 2026. The deal expands Netflix's production footprint; the company currently leases approximately 2 million square feet of LA office and soundstage space.",
+      "impact": "Limited direct multifamily impact. However, Netflix's ownership consolidation and shift from lease to ownership signals optimism in LA media/entertainment production recovery post-slowdown. This may stabilize or strengthen employment and population in Studio City, Burbank, and San Fernando Valley submarkets, providing longer-term residential demand tailwinds for multifamily developers in those corridors—especially if Netflix ramps content production and hiring."
     },
     {
       "title": "Fairstead Closes $17M Affordable Housing Transaction in Oklahoma",
@@ -77,12 +92,12 @@
       "cat": "Commercial",
       "date": "2026-11-25T19:47:50+00:00",
       "bullets": [
-        "Fairstead acquires London Square Village, 200-unit affordable housing in Oklahoma City for $16.5M",
-        "Project-based Section 8 community; units reserved for households ≤60% AMI",
-        "Financing via 4% LIHTC equity and tax-exempt bonds; Fairstead's first OK acquisition"
+        "Fairstead acquires London Square Village, 200-unit Section 8 community, Oklahoma City, for $16.5M",
+        "All units serve households ≤60% AMI; financed via 4% LIHTC and tax-exempt bonds",
+        "Fairstead's first Oklahoma acquisition; preservation focused on sustainable affordable housing"
       ],
-      "summary": "Fairstead closed its first Oklahoma acquisition: London Square Village Apartments, a 200-unit Section 8 community in Oklahoma City for $16.5 million. All units are reserved for households earning at or below 60% of area median income. Financing sources include 4% federal LIHTC equity from R4 Capital and tax-exempt bonds issued by the Oklahoma Housing Finance Agency.",
-      "impact": "Signals institutional capital expanding into Tier-2 affordable housing markets. Oklahoma City's affordable housing pipeline strengthens; developer should monitor other LIHTC/Section 8 recycling opportunities in OK for acquisition or new development. Preservation/rehab model is lower-risk than ground-up development in secondary markets."
+      "summary": "Fairstead closed its first Oklahoma acquisition: London Square Village Apartments, a 200-unit project-based Section 8 community in Oklahoma City, for $16.5 million. The deal is financed through 4% LIHTC equity and tax-exempt bonds from the Oklahoma Housing Finance Agency. The property will undergo comprehensive rehabilitation and remain affordable.",
+      "impact": "Minimal relevance to market-rate multifamily development. Signals institutional capital's continued confidence in affordable/subsidized housing preservation (LIHTC, PBV). For-profit developers should note Fairstead's market entry into Oklahoma; suggests investor appetite for underserved metros. If Fairstead's success attracts additional LIHTC-focused capital to Oklahoma, it may tighten public financing availability for market-rate projects competing for state/local resources."
     },
     {
       "title": "Dwight Capital Finances $52M Loan for Mixed-Use Multifamily Community in Michigan",
@@ -93,11 +108,11 @@
       "date": "2026-11-25T19:44:05+00:00",
       "bullets": [
         "Dwight Capital closes $52M HUD 223(f) loan for Griffin Royal Oak, 245-unit mixed-use in Michigan",
-        "Luxury mixed-use with 9K sq ft ground-floor retail; located downtown Royal Oak",
-        "Singh Development sponsor; five-story residential + parking garage + commercial spaces"
+        "Five-story residential, 9,000 sq ft ground-floor retail, luxury positioning in walkable downtown Royal Oak",
+        "Singh Development sponsor; established developer focused on high-quality communities in strong markets"
       ],
-      "summary": "Dwight Capital finalized a $52 million HUD 223(f) loan for Griffin Royal Oak, a 245-unit luxury mixed-use multifamily community in downtown Royal Oak, Michigan. The property includes five-story residential, attached parking, and 9,000 square feet of ground-floor retail, with 70+ nearby restaurants and walkable amenities.",
-      "impact": "HUD 223(f) financing (permanent loan on stabilized properties) availability supports refinance/stabilization of well-located mixed-use assets in strong Midwest markets. Royal Oak's downtown walkability + retail/restaurant density attract quality institutional capital; developers should prioritize similar infill mixed-use sites in Detroit MSA submarkets for lower refinance risk."
+      "summary": "Dwight Capital financed a $52 million HUD 223(f) loan for Griffin Royal Oak, a 245-unit luxury mixed-use multifamily property in Royal Oak, Michigan, developed by Singh Development. The property includes five stories of residences, ground-floor retail, and an attached parking garage in a pedestrian-friendly downtown location surrounded by dining and retail.",
+      "impact": "HUD 223(f) availability and execution (refinance of stabilized properties) indicates lender confidence in Midwest multifamily fundamentals and mixed-use urban infill demand. Royal Oak's walkable, amenity-rich profile aligns with demographic preferences and supports pricing power. Developers in Midwest secondary markets should monitor Royal Oak's absorption and rent trajectory; successful execution may attract similar capital to comparable metros and suburban markets near Detroit."
     },
     {
       "title": "Host Hotels Rounds Out $202M Brooklyn Hotel Buy With $29M Retail, Parking Acquisition",
@@ -107,12 +122,12 @@
       "cat": "Commercial",
       "date": "2026-11-25T19:12:24+00:00",
       "bullets": [
-        "Host Hotels acquires three retail units + parking at 90 Furman Street, Brooklyn for $29M",
-        "Completes $202M 85-year leasehold acquisition of 1 Hotel Brooklyn Bridge (195 keys)",
-        "Property in DUMBO near Starwood; expected to rank top-10 in Host's portfolio by EBITDA"
+        "Host Hotels acquires 85-year leasehold at 1 Hotel Brooklyn Bridge (195 keys) for $202M all-cash",
+        "Adds $29M for adjacent retail spaces and parking; asset expected top-10 performing in portfolio",
+        "Assumes $113M debt refinancing; Dumbo location near Brooklyn Bridge, strong hospitality asset"
       ],
-      "summary": "Host Hotels & Resorts acquired three retail spaces and an indoor parking facility at 90 Furman Street in Brooklyn's DUMBO neighborhood for $29 million, adjoining its $202 million acquisition of the 195-key 1 Hotel Brooklyn Bridge at 60 Furman Street. The hotel lease (85-year term) is expected to generate top-10 portfolio performance for Host.",
-      "impact": "Limited direct multifamily impact. However, signals strong capital flows to Brooklyn waterfront hospitality; retail and mixed-use conversion opportunities adjacent to successful hotel assets may face increased competition for land/space. DUMBO's hospitality strength may suppress residential conversion economics vs. hotel/retail hold."
+      "summary": "Host Hotels closed a $202 million all-cash acquisition of a 195-key hotel leasehold at 1 Hotel Brooklyn Bridge in Brooklyn's Dumbo neighborhood, plus a $29 million add-on for three retail spaces and parking. The company expects the hotel to rank in its top 10 performing assets. Host also refinanced $113 million in existing debt on the combined portfolio.",
+      "impact": "Moderate relevance. Host's confident capital deployment in Dumbo (all-cash, top-10 asset designation) signals sustained demand for high-end hospitality in Brooklyn waterfront submarkets. This capital intensity and pricing power suggest strong visitor traffic and local spending, supporting retail and restaurant ecosystems. Nearby multifamily (especially luxury, mixed-use) will benefit from halo effect. However, $202M all-cash spend indicates tight capital environment; multifamily developers may face stiffer competition for debt/equity in Dumbo submarkets."
     },
     {
       "title": "Thor Equities Buys San Francisco Office/Retail Asset for $50.5M, Lands $51.8M Loan",
@@ -122,12 +137,12 @@
       "cat": "Commercial",
       "date": "2026-11-25T19:10:35+00:00",
       "bullets": [
-        "Thor Equities buys 55 Stockton Street, SF Union Square office/retail for $50.5M",
-        "Class A eight-story, 136.7K sq ft; secured $51.8M loan from Prime Finance",
-        "Built 1988, renovated 2023; three retail floors + boutique office; Thor expands Union Square"
+        "Thor Equities buys 55 Stockton St, Union Square SF (Class A office/retail), for $50.5M",
+        "Secured $51.8M financing from Prime Finance; 136k sq ft, 2023 renovation, boutique office above retail",
+        "Expands Thor's Union Square portfolio; also owns nearby 146 Geary and 152 Geary"
       ],
-      "summary": "Thor Equities acquired 55 Stockton Street, an eight-story, 136,714-square-foot Class A office and retail property in San Francisco's Union Square for $50.5 million, with $51.8 million in acquisition financing from Prime Finance. The 1988 building (2023 renovation) features three retail floors and boutique office space and is Thor's latest Union Square expansion.",
-      "impact": "Limited relevance to multifamily. San Francisco office/retail market showing selective institutional interest in Class A, recently renovated assets in prime retail districts. Developers eyeing SF office-to-residential conversions should note financing remains available for quality office, potentially reducing conversion urgency and pricing leverage."
+      "summary": "Thor Equities acquired 55 Stockton Street, an eight-story Class A office/retail property in San Francisco's Union Square, for $50.5 million and obtained $51.8 million in acquisition financing. The 136,714-square-foot building, recently renovated in 2023, features three floors of retail and boutique office space. The deal bolsters Thor's presence in Union Square.",
+      "impact": "Minimal direct multifamily relevance. However, Thor's confidence in SF Union Square acquisition at $369/sf and near-100% LTV financing signals stabilization of SF urban core retail/office. Office recovery in premium SF submarkets may stabilize adjacent residential demand and housing prices; successful mixed-use properties often lift nearby multifamily valuations. Developers should monitor Union Square's retail/office absorption; if sustained, it supports case for luxury multifamily infill or conversion plays nearby."
     },
     {
       "title": "OC Investor Group Buys Two Apartment Properties in Venice",
@@ -137,12 +152,12 @@
       "cat": "Commercial",
       "date": "2026-11-25T19:02:31+00:00",
       "bullets": [
-        "Orange County investor group buys two Venice (LA) apartments, 40 units total for $14.23M",
-        "1400 and 1500 Venice Blvd.; $355K per unit; neither property subject to RSO",
-        "31-unit property at 1400 Venice includes fitness center, rooftop lounge; 5.13% cap"
+        "Orange County investor group acquires two Venice (LA) multifamily properties, 40 units total, $14.23M",
+        "1400 Venice Blvd (31 units): renovated, fitness center, rooftop lounge; 1500 Venice Blvd (9 units) sold above ask at 5.13% cap",
+        "$355.6k/unit average; neither subject to LA Rent Stabilization Ordinance; 1031 exchange capital used"
       ],
-      "summary": "A private Orange County investor group acquired two multifamily properties totaling 40 units in Venice, Los Angeles for $14.23 million ($355,662 per unit). The properties—built in 1988 and 1985—are not subject to LA's Rent Stabilization Ordinance. The 31-unit property features renovated interiors and amenities; the smaller 9-unit asset sold above ask at a 5.13% cap rate.",
-      "impact": "Venice market-rate supply remains tight despite rental compression elsewhere in LA. Non-RSO properties command premium valuations; developers should prioritize Venice ground-up development or acquisition in adjacent Westside submarkets (Palms, Mar Vista) where RSO pressure is lower and rent growth more sustainable."
+      "summary": "A group of Orange County-based investors purchased two multifamily properties totaling 40 units in Venice, Los Angeles, for $14.23 million. The 31-unit property at 1400 Venice Boulevard features amenities; the nine-unit at 1500 Venice Boulevard sold above asking price at a 5.13% cap rate. Neither is subject to LA RSO; both were acquired partly with 1031 exchange capital.",
+      "impact": "SIGNIFICANT SIGNAL: Venice multifamily trading above asking price at sub-6% cap rates despite being exempt from RSO protections suggests strong coastal LA demand and investor confidence in rent growth. Non-RSO status makes Venice portfolio attractive to yield-focused buyers and developers. The 1031 exchange capital deployment signals outflows from other CA markets. Developers should monitor Venice/coastal LA multifamily pricing; if caps remain compressed and rents continue rising, acquisition windows may close for new development—prioritize land control and entitlements in Venice, Santa Monica, Manhattan Beach submarkets."
     },
     {
       "title": "Flight to Quality Deepens Divide Among Major U.S. Office Markets",
@@ -152,27 +167,12 @@
       "cat": "Commercial",
       "date": "2026-11-25T18:45:11+00:00",
       "bullets": [
-        "US office vacancy declined 140 bps YoY to 17.2% Oct 2026; rents +1.5% to $33.30/sf",
-        "Class A rents +2.5% YoY; Class B rents -0.3%; flight to quality widens gap",
-        "Office sales $56.9B through Oct 2026 (2,576 txns) at $197/sf avg; uneven recovery"
+        "US office vacancy declined 140 bps YoY to 17.2%; asking rents +1.5% to $33.30/sf through Oct 2026",
+        "Class A rents +2.5% YoY; Class B rents -0.3%; flight-to-quality widens gap; 2,576 sales, $56.9B YTD",
+        "Outdated, less amenitized buildings face most pressure; new, Class A stock commands rent growth"
       ],
-      "summary": "The U.S. office market showed mixed improvement through October 2026: national vacancy fell 140 basis points to 17.2%, with rents rising 1.5% to $33.30 per square foot. However, Class A space rents rose 2.5% while Class B declined 0.3%, reflecting a widening performance gap. Office sales reached $56.9 billion across 2,576 transactions at an average $197 per square foot.",
-      "impact": "Flight to quality accelerates office-to-multifamily conversion economics: Class B/C office assets in secondary office markets face obsolescence risk, making conversion to apartments more economically viable. Developers should target Class B/C office inventory in supply-constrained multifamily metros (Austin, Denver, Raleigh, Miami) for conversion; older buildings in declining office markets offer lowest land-basis entry points."
-    },
-    {
-      "title": "RXR Supplies $140M Construction Loan for Miami Rental Development",
-      "link": "https://commercialobserver.com/2026/11/rxr-aventura-mall-spoke-group-p6/",
-      "excerpt": "RXR has funneled $140 million into the construction of a Live Local Act rental tower near the Aventura Mall in Miami-Dade County. Group P6 is developing the 363-unit Spoke Aventura at 2600 Northeast 203rd Street. The 21-story development will rise a block west from Biscayne Boulevard, about a mile north of the 2.8 million-square-foot indoor mall and the city’s Brightline station. Construction is expected to be completed in 2028, with Moss serving as a general contractor. Morris Betesh and Ronnie Levine of Arrow Real Estate Advisors brokered the loan. More than 40 percent of units will be priced at 120 percent of the area’s median income, in accordance with Florida’s Live Local Act, which provides tax breaks and speedy approvals for developers. Amenities will include a pool deck, a fitness center, a resident lounge, coworking space and a padel court, along with ground-floor retail and a 435-space parking garage. The Boca Raton-based development firm, led by Ignacio Diaz and Jose J. Padua, paid $16 million for the 1.3-acre site in 2024. “Spoke Aventura and Group P6 represent the high-quality, well-located multifamily projects and the high-quality sponsorship that RXR’s Capital Solutions strategy is pursuing,” Russ Young, RXR’s head of investments, said in a statement. RXR, led by Scott Rechler, is a major New York investor and developer, best known for owning trophy office buildings and large-scale redevelopment, including 1211 Avenue of the Americas and the Helmsley Building. Its lending in South Florida has remained limited to a few projects, including providing a mezzanine loan to another Live Local Act project last year. Julia Echikson can be reached at jechikson@commercialobserver.com.",
-      "source": "Comm. Observer",
-      "cat": "Commercial",
-      "date": "2026-11-25T17:30:31+00:00",
-      "bullets": [
-        "RXR provides $140M construction loan for Spoke Aventura, 363-unit rental in Miami-Dade",
-        "Group P6 developer; 21-story tower near Aventura Mall; completion 2028; >40% units at 120% AMI",
-        "Florida Live Local Act provides tax breaks, faster approvals; ground-floor retail + 435 parking spaces"
-      ],
-      "summary": "RXR supplied $140 million in construction financing for Spoke Aventura, a 363-unit rental tower in Miami-Dade County developed by Group P6. The 21-story property, expected to complete in 2028, is located near Aventura Mall and Brightline station. More than 40% of units qualify under Florida's Live Local Act, providing tax incentives and expedited approvals for workforce housing.",
-      "impact": "Florida Live Local Act financing is now competitive for Tier-1 lenders (RXR); Act's tax incentives + fast-track approvals are shifting Miami-Dade development economics favorably toward mixed-income/workforce projects near transit. Developers should layer Live Local Act incentives into Miami/Tampa/Jacksonville pro formas to improve returns on 100%+ AMI projects and compete for institutional debt."
+      "summary": "The U.S. office market improved in 2026 with vacancy down 140 basis points to 17.2% and asking rents up 1.5% to $33.30 per square foot. However, the recovery is uneven: Class A rents rose 2.5% year-over-year while Class B fell 0.3%. The flight-to-quality dynamic is widening the performance gap between newer, well-amenitized buildings and older, outdated stock. Office sales totaled $56.9 billion across 2,576 transactions through October.",
+      "impact": "Office market bifurcation mirrors residential: Class A, urban-core, mixed-use properties benefit; aging, suburban, non-amenitized buildings suffer. This suggests multifamily developers should prioritize new-construction or heavily renovated, Class A, mixed-use projects in urban cores or strong suburban nodes. Flight-to-quality capital and tenant preferences are intact; dated multifamily stock will underperform. Conversion of distressed office to multifamily may accelerate in secondary markets; acquisition prices for obsolete office will compress, improving conversion economics in soft office markets like Austin, Denver."
     }
   ]
 }
